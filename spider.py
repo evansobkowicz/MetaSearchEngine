@@ -24,7 +24,7 @@ class Spider:
             return -1
         html = response.read().decode('utf-8', errors='ignore')
         soup = BeautifulSoup(html)
-        if soup.html.head.title is not None:
+        if soup.html.head is not None and soup.html.head.title is not None:
             title = soup.html.head.title.get_text()
         else:
             title = ""
