@@ -37,7 +37,7 @@ def write_to_file(id, dir, contents):
             output += str(item)
             output += "\n"
     else:
-        output = str(contents
+        output = str(contents)
     try:
         f.write(str(output))
     except:
