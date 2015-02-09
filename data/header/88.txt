@@ -1,0 +1,20 @@
+Title: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (soundtrack) - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=3354767; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sat, 31 Jan 2015 22:31:41 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1457023374 1449114472, 1259748143
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 20:43:17 GMT
+Age: 5393
+Connection: close
+X-Cache: cp1054 hit (3), cp1055 frontend miss (0)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

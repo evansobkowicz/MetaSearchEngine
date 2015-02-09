@@ -1,0 +1,20 @@
+Title: Holden Caulfield - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=597758; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Thu, 05 Feb 2015 04:29:45 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1719858791 1711249162, 1339294482 1315267833
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 20:43:54 GMT
+Age: 20594
+Connection: close
+X-Cache: cp1055 hit (2), cp1054 frontend hit (6)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

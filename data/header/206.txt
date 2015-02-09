@@ -1,0 +1,16 @@
+Title: Amazon.com: The Eagle Has Landed (Liam Devlin) (9780425177181): Jack Higgins: Books
+Date: Mon, 09 Feb 2015 20:45:11 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 17FPWBWKBC0FYG6TV99X
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: book_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: 5F7JKOoN7q0H/vbpYUUmJEDjHfZlLoacEiLm5gSCSMtFQiBGASv99qo2Ti4glOMQ
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+

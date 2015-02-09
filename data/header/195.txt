@@ -1,0 +1,21 @@
+Title: The Name of the Rose by Umberto Eco | 9780156001311 | Paperback | Barnes & Noble
+Expires: Wed, 31 Dec 1969 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-FRAME-OPTIONS: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Date: Mon, 09 Feb 2015 20:45:00 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: JSESSIONID=1a42ynxedla6epfn4hrmcu4qdpnjflite161423514699811;Path=/;Expires=Mon, 09-Feb-2015 21:44:59 GMT
+Set-Cookie: pds%5Flife=d=AQAVuFO0gvNdjTO5xTzetkivu%2B9AzWAl%2FotBq%2FB2KdBx2YsOYO4DU3bf7u9f02YSAy8%3D&v=5;Path=/;Domain=.barnesandnoble.com;Expires=Sat, 08-Feb-2020 20:44:59 GMT
+Set-Cookie: BNCAB=A;Path=/;Domain=.barnesandnoble.com
+Set-Cookie: userid=ZF4pEjGW6y;Path=/;Domain=.barnesandnoble.com;Expires=Sat, 08-Feb-2020 20:44:59 GMT
+Set-Cookie: pds%5Fsess=d=AQCinkaRQCtngkZRA7Rlk9jzpEIvneJvr0ziFsNjUSwuqgOoZRD1fwmmhZdRjMlput4%3D&v=5;Path=/;Domain=.barnesandnoble.com
+Set-Cookie: bnMobile=type=&state=ignore&device=N;path=/;domain=.barnesandnoble.com;
+Set-Cookie: SSLB=0;path=/;domain=.barnesandnoble.com;
+Set-Cookie: TS019fd21a=016b4a666e9d25cc66bf41d62378cb01d129a397cc1bf92c9004baf5267d850867e2e0fb5b4db6a259b203b0d9d5484f3281c34ed2; Path=/
+Set-Cookie: TS01a610f6=016b4a666edf71c54c2c2f43b9056574bf2f27dc2cdd3a926e053ef62cd20b58f0881277da4c62eb24dc542bd1e14b88eea6a3472a6691c5827e9e2b56685d12ebfeecaddc2d6933e650142dca4f8aff37f8005776975a135177d6f13b8a1bc49f5e633914f7a309ef2f4a1f485f7ab91def6ec2b71864e06a3f721745ea5806ffc97e8dd4; path=/; domain=.barnesandnoble.com
+

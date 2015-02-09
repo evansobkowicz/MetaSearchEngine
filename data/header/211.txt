@@ -1,0 +1,20 @@
+Title: Watership Down - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=67317; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sun, 08 Feb 2015 12:40:01 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 2439590544 2427198043, 2075291283 1942339761
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 20:45:17 GMT
+Age: 115459
+Connection: close
+X-Cache: cp1053 hit (9), cp1068 frontend hit (76)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

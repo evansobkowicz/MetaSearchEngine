@@ -1,0 +1,18 @@
+Title: The Name of the Rose by Umberto Eco — Reviews, Discussion, Bookclubs, Lists
+Date: Mon, 09 Feb 2015 20:44:53 GMT
+Server: Server
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+Vary: User-Agent,Accept-Encoding
+X-Request-Id: 0C6BW306CDZZQNAV236C
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "2644c4c91a5f8363af5b096f24bba874"
+Cache-Control: max-age=0, private, must-revalidate
+X-Frame-Options: SAMEORIGIN
+X-Runtime: 0.029434
+X-Content-Type-Options: nosniff
+Set-Cookie: csid=BAhJIhg2OTItNjQzMTQxMS0xNzM2MjExBjoGRVQ%3D--1aecae7c7cfc0e5940e1107b224edc28387a6059; path=/; expires=Fri, 09-Feb-2035 20:44:53 GMT
+Set-Cookie: locale=en; path=/
+Set-Cookie: _session_id2=77a8c7ccbfd1f88ad351c43173602b18; path=/; expires=Tue, 10-Feb-2015 02:44:53 GMT; HttpOnly
+Transfer-Encoding: chunked
+

@@ -1,0 +1,13 @@
+Title: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe - Awards - IMDb
+Date: Mon, 09 Feb 2015 20:43:23 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYmDljSokbhFZq9CBDiZG74QvxfIe0vhwRwxQE5vJ_OkVXIjUmEUC8ney69FWO4I5GoECCgZmeW%0D%0AuYEhPOPyaDljhGT6lohcb_XrT7zr4rjylVBSiW4l9mY5U2J-7Th-wIipKMwczJsOTcfAcWbfzMQz%0D%0AFtnoS8M5SUkxtUJImxjI3kVyZW7wicGVRC3eIhiXSMCSFzPNpJ7ozBhDGBrQY8z_m5pl89lLEfOd%0D%0AOPZI-nLZdIasl1dB0J8kXrqIHLiNPeEUYzRZaS30fztZgCBuXM7TGQ%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:57:31 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:57:31 GMT; Path=/
+Set-Cookie: session-id-time=1581194604; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:57:31 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

@@ -1,0 +1,1322 @@
+<!DOCTYPE doctype html>
+
+<html dir="ltr" lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport">
+<meta content="MediaWiki 1.19.23" name="generator"/>
+<meta content="The One Wiki to Rule Them All,lotr,Lord of the Rings film trilogy,Real World,Peter Jackson,Fran Walsh,Philippa Boyens,J. R. R. Tolkien,New Line Cinema,2001,2003,United Kingdom,New Zealand" name="keywords"/>
+<meta content="The Lord of the Rings film trilogy comprises three live action fantasy epic films; The Lord of..." name="description"/>
+<meta content="8Dzg4Ou0Xll46XcC8Q-KjmXduCFdfmabhr5wbyNIwms" name="google-site-verification"/>
+<link href="http://lotr.wikia.com/wiki/Lord_of_the_Rings_film_trilogy" rel="canonical"/>
+<link href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit" rel="alternate" title="Edit" type="application/x-wiki"/>
+<link href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit" rel="edit" title="Edit"/>
+<link href="http://img2.wikia.nocookie.net/__cb19/lotr/images/b/bc/Wiki.png" rel="apple-touch-icon"/>
+<link href="http://img1.wikia.nocookie.net/__cb20140411033115/lotr/images/6/64/Favicon.ico" rel="shortcut icon"/>
+<link href="/opensearch_desc.php" rel="search" title="The One Wiki to Rule Them All (en)" type="application/opensearchdescription+xml"/>
+<link href="http://lotr.wikia.com/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="http://www.wikia.com/Licensing" rel="copyright"/>
+<link href="/wiki/Special:RecentChanges?feed=atom" rel="alternate" title="The One Wiki to Rule Them All Atom feed" type="application/atom+xml"/>
+<title>Lord of the Rings film trilogy - Lord of the Rings Wiki</title>
+<!-- CSS injected by skin and extensions -->
+<link href="http://slot1.images4.wikia.nocookie.net/__am/1423474000/sasses/background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F__cb19%252Flotr%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D700%26background-image-width%3D1920%26color-body%3D%25238f9189%26color-body-middle%3D%25238f9189%26color-buttons%3D%2523266438%26color-header%3D%2523002c11%26color-links%3D%25232b54b5%26color-page%3D%2523ffffff%26page-opacity%3D100%26widthType%3D2%26wordmark-font%3Dtangerine/skins/oasis/css/oasis.scss,extensions/wikia/MonetizationModule/styles/MonetizationModule.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearch.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationAccountNavigation.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationHubsMenu.scss,extensions/wikia/UserLogin/css/UserLoginDropdown.globalNavigation.scss,extensions/wikia/WallNotifications/styles/WallNotifications.globalNavigation.scss,skins/shared/styles/transparent-out.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationOasis.scss,extensions/wikia/GlobalNavigation/styles/GlobalNavigationSearchOasis.scss,extensions/wikia/Qualaroo/css/Qualaroo.scss" rel="stylesheet"/><link href="http://lotr.wikia.com/__load/-/cb%3D1423474000%26debug%3Dfalse%26lang%3Den%26only%3Dstyles%26skin%3Doasis/site" rel="stylesheet"/><style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: lotr:resourceloader:filter:minify-css:7:c88e2bcd56513749bec09a7e29cb3ffa */</style>
+
+
+<!-- Wikia Beacon Tracking -->
+<noscript><img alt="" border="0" height="1" src="http://a.wikia-beacon.com/__track/view?cb=1423474000&amp;c=159&amp;lc=en&amp;lid=75&amp;x=lotr&amp;y=c1&amp;u=0&amp;a=2978&amp;s=oasis&amp;n=0&amp;nojs=1" width="1"/></noscript>
+
+
+
+
+<!-- Make IE recognize HTML5 tags. -->
+<!--[if IE]>
+	<script>/*@cc_on'abbr article aside audio canvas details figcaption figure footer header hgroup mark menu meter nav output progress section summary time video'.replace(/\w+/g,function(n){document.createElement(n)})@*/</script>
+<![endif]-->
+<meta content="112328095453510" prefix="fb: http://www.facebook.com/2008/fbml" property="fb:app_id"/>
+<meta content="article" property="og:type"/>
+<meta content="The One Wiki to Rule Them All" property="og:site_name"/>
+<meta content="Lord of the Rings film trilogy" property="og:title"/>
+<meta content="The Lord of the Rings film trilogy comprises three live action fantasy epic films; The Lord of the Rings: The Fellowship of the Ring (2001), The Lord of the Rings: The Two Towers (2002) and The Lord of the Rings: The Return of the King (2003). For simplicity, the titles are often abbreviated to 'LotR', with 'FotR', 'TTT' and 'RotK' for each of the respective films. Set in Middle-earth, the three films follow the young Hobbit Frodo Baggins as he and the Fellowship embark on a quest to destroy..." property="og:description"/>
+<meta content="http://lotr.wikia.com/wiki/Lord_of_the_Rings_film_trilogy" property="og:url"/>
+<meta content="http://img2.wikia.nocookie.net/__cb20070806215413/lotr/images/8/87/Ringstrilogyposter.jpg" property="og:image"/>
+<meta content="app-id=623705389" name="apple-itunes-app">
+</meta></meta></meta></head>
+<body class="mediawiki ltr ns-0 ns-subject page-Lord_of_the_Rings_film_trilogy TOC_hide wikinav2 skin-oasis background-not-tiled background-dynamic">
+<div class="background-image-gradient"></div>
+<!-- Begin comScore Tag -->
+
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6177433&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c7=http%3A%2F%2Flotr.wikia.com%2Fwiki%2FLord_of_the_Rings_film_trilogy%3Fcomscorekw%3Dwikiacsid_entertainment&amp;c15=&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+<!-- Start for QuantServe, page_view -->
+
+
+<noscript>
+<div style="display: none;"><img alt="Quantcast" height="1" src="//pixel.quantserve.com/pixel/p-8bG6eLqkH6Avk.gif" width="1"/></div>
+</noscript>
+<!-- Start for AmazonMatch, page_view -->
+
+<!-- Unsupported language for AnalyticsProviderIVW2 -->
+<!-- Start for RubiconRTP, page_view -->
+<div class="WikiaSiteWrapper">
+<h1>Wikia</h1>
+<div class="skiplinkcontainer">
+<a class="skiplink" href="#WikiaArticle" rel="nofollow">Skip to Content</a>
+<a class="skiplink wikinav" href="#WikiHeader" rel="nofollow">Skip to Wiki Navigation</a>
+<a class="skiplink sitenav" href="#GlobalNavigation" rel="nofollow">Skip to Site Navigation</a>
+</div>
+<div class="wikia-ad noprint" id="ad-skin"></div>
+<nav class="global-navigation" id="globalNavigation">
+<div class="page-width">
+<div class="wikia-logo-container table-cell">
+<a class="wikia-logo" data-id="wikia-logo" href="http://www.wikia.com" rel="nofollow">
+<img alt="Wikia" height="24" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" title="Wikia" width="91">
+</img></a>
+</div>
+<div class="hubs-container table-cell" id="hubsEntryPoint">
+<a class="hubs-entry-point"></a>
+<nav class="hubs-menu" id="hubs">
+<ul class="hub-list">
+<li>
+<a class="comics hub-link " data-vertical="comics" href="http://comicshub.wikia.com/wiki/Comics_Hub">
+<span class="icon"></span>
+<span class="label">Comics</span>
+</a>
+</li>
+<li>
+<a class="tv hub-link " data-vertical="tv" href="http://tvhub.wikia.com/wiki/TV_Hub">
+<span class="icon"></span>
+<span class="label">TV</span>
+</a>
+</li>
+<li>
+<a class="movies hub-link " data-vertical="movies" href="http://movieshub.wikia.com/wiki/Movies_Hub">
+<span class="icon"></span>
+<span class="label">Movies</span>
+</a>
+</li>
+<li>
+<a class="music hub-link " data-vertical="music" href="http://musichub.wikia.com/wiki/Music_Hub">
+<span class="icon"></span>
+<span class="label">Music</span>
+</a>
+</li>
+<li>
+<a class="books hub-link active" data-vertical="books" href="http://bookshub.wikia.com/wiki/Books_Hub">
+<span class="icon"></span>
+<span class="label">Books</span>
+</a>
+</li>
+<li>
+<a class="games hub-link " data-vertical="games" href="http://gameshub.wikia.com/wiki/Games_Hub">
+<span class="icon"></span>
+<span class="label">Games</span>
+</a>
+</li>
+<li>
+<a class="lifestyle hub-link " data-vertical="lifestyle" href="http://lifestylehub.wikia.com/wiki/Lifestyle_Hub">
+<span class="icon"></span>
+<span class="label">Lifestyle</span>
+</a>
+</li>
+</ul>
+<div class="hub-links">
+<div class="hub-menu-section books-links active">
+<ul>
+<strong>THIS MONTH</strong>
+<li>
+<a href="http://ow.ly/I2arD">All the Latest About the Upcoming 50 Shades Movie</a>
+</li>
+<li>
+<a href="http://ow.ly/I2ais">Check Out New Harry Potter Illustrated Edition Art</a>
+</li>
+<li>
+<a href="http://ow.ly/H5vt9">Read Throne of Glass with Us and Create a Fantasy Cast</a>
+</li>
+</ul>
+<ul>
+<strong>FROM COMMUNITY</strong>
+<li>
+<a href="http://ow.ly/I2aKi">Tell Us: What 50 Shades Moviegoers Should Know</a>
+</li>
+<li>
+<a href="http://ow.ly/I2aFy">Find Out About the Latest from Percy Jackson Author</a>
+</li>
+<li>
+<a href="http://ow.ly/I2aQ5">New Trailer for the Show Based on the Expanse Series</a>
+</li>
+</ul>
+<ul>
+<strong>TRENDING BOOK COMMUNITIES</strong>
+<li>
+<a href="http://ow.ly/H5vgu">Pottermore</a>
+</li>
+<li>
+<a href="http://ow.ly/I2bi5">Expanse Series</a>
+</li>
+<li>
+<a href="http://ow.ly/H5veF">50 Shades of Grey</a>
+</li>
+</ul>
+<ul>
+<strong>NEW RELEASES</strong>
+<li>
+<a href="http://ow.ly/I2brO">Fairest: Lunar Chronicles</a>
+</li>
+<li>
+<a href="http://ow.ly/I2bvA">Willowgrove: Hemlock Series</a>
+</li>
+<li>
+<a href="http://ow.ly/I2bCm">The Rule of Thoughts: Mortality Doctrine Series</a>
+</li>
+</ul>
+<a class="more" href="http://bookshub.wikia.com/wiki/Books_Hub">More Books</a>
+</div>
+</div>
+</nav>
+</div>
+<div class="search-container table-cell">
+<div class="search-form-wrapper">
+<form action="http://lotr.wikia.com/wiki/Special:Search" class="search-form" id="searchForm" method="get">
+<div class="global-nav-search-input-wrapper">
+<div class="search-select-wrapper">
+<div class="search-select-underlay">
+<button class="search-submit"></button>
+<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+<select class="search-select" id="searchSelect">
+<option data-placeholder="Search within The One Wiki to Rule Them All..." data-search-url="http://lotr.wikia.com/wiki/Special:Search" selected="selected" value="local">Search this wikia</option>
+<option data-placeholder="Search all of Wikia" data-search-url="http://www.wikia.com/wiki/Special:Search" value="global">Search all of Wikia</option>
+</select>
+</div>
+</div>
+<input accesskey="f" autocomplete="off" class="search-input" id="searchInput" name="search" placeholder="Search within The One Wiki to Rule Them All..." type="text" value=""/>
+<input name="fulltext" type="hidden" value="Search"/>
+<input disabled="" id="searchInputResultLang" name="resultsLang" type="hidden" value="en"/>
+</div>
+</form>
+</div>
+</div>
+<div class="account-navigation-container table-cell">
+<ul class="AccountNavigation table-cell" id="AccountNavigation">
+<li class="account-navigation-first-item">
+<div class="links-container">
+<a accesskey="o" class="ajaxLogin table-cell" data-id="login" href="/wiki/Special:UserLogin?returnto=Lord_of_the_Rings_film_trilogy" rel="nofollow" title="Log in"> <div class="bubbles">
+<div class="bubbles-count notifications-count"></div>
+</div>
+<div class="avatar-container anon-avatar-placeholder">
+</div>
+</a>
+<span class="sign-in-label">Sign in</span>
+<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>
+</div>
+<div class="UserLoginDropdown" id="UserLoginDropdown">
+<div class="ajaxRegisterContainer"><a class="ajaxRegister" data-id="register" href="/wiki/Special:UserSignup" rel="nofollow">Sign up</a></div>
+<form action="/wiki/Special:UserLogin" class="WikiaForm" method="post">
+<fieldset>
+<div class="input-group error general-errors">
+<div class="error-msg"></div>
+</div>
+<input name="loginToken" type="hidden" value="">
+<input name="returnto" type="hidden" value="Lord_of_the_Rings_film_trilogy">
+<input name="returntoquery" type="hidden" value="">
+<div class="input-group hide-label required">
+<label>Username</label>
+<input class="hide-label" id="usernameInput" name="username" placeholder="Username" tabindex="1" type="text">
+</input></div>
+<div class="input-group hide-label required">
+<label>Password</label>
+<input class="hide-label" id="passwordInput" name="password" placeholder="Password" tabindex="2" type="password">
+</input></div>
+<div class="input-group">
+<a class="forgot-password" href="#" tabindex="0">
+	Forgot your password?</a>
+</div>
+<div class="input-group keep-logged-in">
+<label>
+<input class="keep-logged-in" name="keeploggedin" tabindex="3" type="checkbox" value="1">
+								
+						
+													Stay logged in</input></label>
+</div>
+<div class="input-group login-button">
+<input class="login-button" tabindex="4" type="submit" value="Log in">
+</input></div>
+</input></input></input></fieldset>
+</form>
+<div class="sso-login hidden">
+<div class="sso-login-divider">
+<span>Or</span>
+</div>
+<a class="wikia-button wikia-button-facebook sso-login-facebook" data-id="facebook" href="#" tabindex="5"><img alt="" class="sprite facebook" height="14" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="15"/> Connect</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="start-wikia-container table-cell">
+<a class="start-wikia" data-id="start-wikia" href="http://www.wikia.com/Special:CreateNewWiki" title="Start a wikia">
+<span>Start a wikia</span>
+</a>
+</div>
+</div>
+</nav>
+<div class="WikiaTopAds" id="WikiaTopAds">
+<div class="WikiaTopAdsInner">
+<!-- BEGIN SLOTNAME: TOP_LEADERBOARD -->
+<div class="wikia-ad noprint default-height" id="TOP_LEADERBOARD">
+
+</div>
+<!-- END SLOTNAME: TOP_LEADERBOARD -->
+<!-- BEGIN SLOTNAME: TOP_BUTTON_WIDE -->
+<div class="wikia-ad noprint default-height" id="TOP_BUTTON_WIDE">
+
+</div>
+<!-- END SLOTNAME: TOP_BUTTON_WIDE -->
+</div>
+<!-- BEGIN SLOTNAME: INVISIBLE_SKIN -->
+<div class="wikia-ad noprint default-height" id="INVISIBLE_SKIN">
+
+</div>
+<!-- END SLOTNAME: INVISIBLE_SKIN -->
+</div>
+<section class="WikiaPage V2" id="WikiaPage">
+<div class="WikiaPageBackground" id="WikiaPageBackground"></div>
+<div class="WikiaPageContentWrapper">
+<header class="WikiHeader" id="WikiHeader">
+<h1 class="wordmark medium graphic font-tangerine">
+<a accesskey="z" href="/wiki/Main_Page">
+<img alt="The One Wiki to Rule Them All" height="65" src="http://img4.wikia.nocookie.net/__cb19/lotr/images/8/89/Wiki-wordmark.png" width="250">
+</img></a>
+</h1>
+<nav class="WikiNav">
+<h1>The One Wiki to Rule Them All Navigation</h1>
+<ul class="nav">
+<li class="nav-item marked">
+<a href="#">On the Wiki</a>
+<ul class="subnav-2 accent firstChild">
+<li class="subnav-2-item">
+<a class="subnav-2a" data-canonical="wikiactivity" href="/wiki/Special:WikiActivity">Wiki Activity</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" data-canonical="random" href="/wiki/Special:Random">Random page</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" data-canonical="videos" href="/wiki/Special:Videos">Videos</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" data-canonical="newfiles" href="/wiki/Special:NewFiles">Photos</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" data-canonical="chat" href="/wiki/Special:Chat">Chat</a>
+</li>
+</ul>
+</li>
+<li class="nav-item">
+<a href="/wiki/Category:Characters">Characters</a>
+<ul class="subnav-2 accent">
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:Characters">Characters<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Sauron">Sauron</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Aragorn_II_Elessar">Aragorn II Elessar</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Melkor">Melkor</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Gandalf">Gandalf</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Legolas">Legolas</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Witch-king_of_Angmar">Witch-king of Angmar</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Balrog">Balrog</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:Ring_bearers%E2%80%8E%E2%80%8E">Ring bearers‎<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Frodo_Baggins">Frodo Baggins</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Bilbo_Baggins">Bilbo Baggins</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Durin">Durin</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Galadriel">Galadriel</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Gandalf">Gandalf</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Category:Ring_bearers">More</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:Kings">Kings<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Witch-king_of_Angmar">Witch-king of Angmar</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Smaug">Smaug</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Thranduil">Thranduil</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Manw%C3%AB">Manwë</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Kings_of_Gondor">Kings of Gondor</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/King_of_the_Dead">King of the Dead</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/King_of_Rohan">King of Rohan</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:Villains">Villains<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Sauron">Sauron</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Melkor">Melkor</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Witch-king_of_Angmar">Witch-king of Angmar</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Nazg%C3%BBl">Nazgûl</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Orcs">Orcs</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Gollum">Gollum</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Saruman">Saruman</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:The_Hobbit_Characters">The Hobbit<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Gandalf">Gandalf</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Gollum">Gollum</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Elrond">Elrond</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Smaug">Smaug</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Radagast">Radagast</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Bilbo_Baggins">Bilbo Baggins</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Thorin_II_Oakenshield">Thorin II Oakenshield</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:The_Lord_of_the_Rings_Characters%E2%80%8E%E2%80%8E">LOTR<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Legolas">Legolas</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Gandalf">Gandalf</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Faramir">Faramir</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Aragorn">Aragorn</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Frodo">Frodo</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Gollum">Gollum</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Ugluk">Ugluk</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Category:The_Lord_of_the_Rings_Characters">More</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:The_Silmarillion_Characters%E2%80%8E">Silmarillion<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Morgoth">Morgoth</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Melian">Melian</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Celebrimbor">Celebrimbor</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Finarfin">Finarfin</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Dior">Dior</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Turin_Turambar">Turin Turambar</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Manw%C3%AB">Manwë</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Turgon">Turgon</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Glaurung">Glaurung</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Category:The_Silmarillion_Characters">More</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav-item">
+<a href="/wiki/Category:Books">Books</a>
+<ul class="subnav-2 accent">
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:In-universe_books">In-universe books<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Red_Book_of_Westmarch">Red Book of Westmarch</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Book_of_Mazarbul">Book of Mazarbul</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Old_Words_and_Names_in_the_Shire">Old Words and Names in the Shire</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Yearbook_of_Tuckborough">Yearbook of Tuckborough</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:Novels">Novels<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Hobbit">The Hobbit</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Fellowship_of_the_Ring_(novel)">The Fellowship of the Ring (novel)</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Children_of_H%C3%BArin">The Children of Húrin</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Return_of_the_King_(novel)">The Return of the King (novel)</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Two_Towers_(novel)">The Two Towers (novel)</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Category:The_Lord_of_the_Rings">The Lord of the Rings</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:Reference_works%E2%80%8E">Reference works‎<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Atlas_of_Middle-earth">The Atlas of Middle-earth</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_History_of_The_Lord_of_the_Rings">The History of The Lord of the Rings</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Complete_Guide_to_Middle-earth">The Complete Guide to Middle-earth</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Lord_of_the_Rings:_A_Reader%27s_Companion">The Lord of the Rings: A Reader's Companion</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Category:Reference_works">More</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:The_History_of_Middle-earth%E2%80%8E%E2%80%8E">The History of Middle-earth‎<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Lost_Road_and_Other_Writings">The Lost Road and Other Writings</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Return_of_the_Shadow">The Return of the Shadow</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Book_of_Lost_Tales">The Book of Lost Tales</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Lays_of_Beleriand">The Lays of Beleriand</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Category:The_History_of_Middle-earth">More</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav-item">
+<a href="/wiki/Category:Movies">Movies</a>
+<ul class="subnav-2 accent">
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/The_Hobbit_(films)">The Hobbit<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Hobbit:_An_Unexpected_Journey">The Hobbit: An Unexpected Journey</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Hobbit:_The_Desolation_of_Smaug">The Hobbit: The Desolation of Smaug</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies">The Hobbit: The Battle of the Five Armies</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Lord_of_the_Rings">Lord of the Rings<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Fellowship_of_the_Ring_(film)">The Fellowship of the Ring</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Two_Towers_(film)">The Two Towers</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/The_Return_of_the_King_(film)">The Return of the King</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:Film_Locations">Film Locations<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Paradise,_New_Zealand">Paradise, New Zealand</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Mount_Sunday">Mount Sunday</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/New_Zealand">New Zealand</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Matamata">Matamata</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Harcourt_Park,_New_Zealand">Harcourt Park, New Zealand</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Mavora_Lakes">Mavora Lakes</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Lake_Wakatipu">Lake Wakatipu</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Category:Filmmakers">Filmmakers<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/></a>
+<ul class="subnav-3 subnav">
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Peter_Jackson">Peter Jackson</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Ralph_Bakshi">Ralph Bakshi</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Fran_Walsh">Fran Walsh</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Guillermo_del_Toro">Guillermo del Toro</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Kate_Madison">Kate Madison</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Philippa_Boyens">Philippa Boyens</a>
+</li>
+<li class="subnav-3-item">
+<a class="subnav-3a" href="/wiki/Barry_M._Osborne">Barry M. Osborne</a>
+</li>
+</ul>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Tolkien_vs._Jackson:_Differences_Between_Story_and_Screenplay">Book to Movie Differences</a>
+</li>
+</ul>
+</li>
+<li class="nav-item">
+<a href="/wiki/LOTR:Community_Portal">Community</a>
+<ul class="subnav-2 accent">
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/LOTR:Current_policies">Policies</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="http://lotr.wikia.com/wiki/Special:ListUsers/sysop">Administrators</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Forum:Index">Forum</a>
+</li>
+<li class="subnav-2-item">
+<a class="subnav-2a" href="/wiki/Blog:Recent_posts">Blog</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="navbackground">
+<div></div>
+<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+</img></div> </nav>
+<div class="buttons">
+<nav class="wikia-menu-button contribute secondary combined">
+<img alt="" class="sprite contribute" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22"/> Contribute
+	<span class="drop">
+<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+</img></span>
+<ul class="WikiaMenuElement">
+<li>
+<a data-id="edit" href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit">Edit this Page</a>
+</li>
+<li>
+<a data-id="wikiavideoadd" href="/wiki/Special:WikiaVideoAdd">Add a Video</a>
+</li>
+<li>
+<a data-id="upload" href="/wiki/Special:Upload">Add a Photo</a>
+</li>
+<li>
+<a class="createpage" data-id="createpage" href="/wiki/Special:CreatePage">Add a Page</a>
+</li>
+<li>
+<a accesskey="g" data-id="wikiactivity" href="/wiki/Special:WikiActivity">Wiki Activity</a>
+</li>
+</ul>
+</nav>
+<a class="wikia-button share-button secondary" data-id="shareButton" href="#"> Share<span class="share-dot"></span><span class="share-pixel"></span></a>
+</div>
+<div class="hiddenLinks">
+<a accesskey="l" href="/wiki/Special:Watchlist" title="Special:Watchlist">Watchlist</a> <a accesskey="x" href="/wiki/Special:Random" title="Special:Random">Random page</a> <a accesskey="r" href="/wiki/Special:RecentChanges" title="Special:RecentChanges">Recent changes</a> </div>
+</header>
+<article class="WikiaMainContent" id="WikiaMainContent">
+<div class="WikiaMainContentContainer" id="WikiaMainContentContainer">
+<header class="WikiaPageHeader" id="WikiaPageHeader">
+<h1>Lord of the Rings film trilogy</h1>
+<nav class="wikia-menu-button">
+<a accesskey="e" data-id="ve-edit" href="/wiki/Lord_of_the_Rings_film_trilogy?veaction=edit" id="ca-ve-edit">
+<img alt="" class="sprite edit-pencil" height="16" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="22"/> Edit	</a>
+<span class="drop">
+<img class="chevron" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+</img></span>
+<ul class="WikiaMenuElement">
+<li>
+<a accesskey="s" data-id="edit" href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit" id="ca-edit">Classic editor</a>
+</li>
+<li>
+<a accesskey="h" data-id="history" href="/wiki/Lord_of_the_Rings_film_trilogy?action=history" id="ca-history">History</a>
+</li>
+</ul>
+</nav>
+<a accesskey="t" class="wikia-button comments secondary talk" data-id="comment" href="/wiki/Talk:Lord_of_the_Rings_film_trilogy" rel="nofollow"> Talk<span class="commentsbubble">1</span></a>
+<div class="tally">
+<em>5,637</em><span>pages on<br/> this wiki</span> </div>
+</header>
+
+<div class="WikiaArticle" id="WikiaArticle">
+<div class="home-top-right-ads">
+</div>
+<div class="mw-content-ltr mw-content-text" dir="ltr" id="mw-content-text" lang="en"><div style="position:absolute; z-index:100; right:15px; top:-20px;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div class="floatright"><div><a href="/wiki/Category:Real_World" title="This article is about the real world."><img alt="Real-world" class="" data-image-key="Real-world.png" data-image-name="Real-world.png" height="28" src="http://img3.wikia.nocookie.net/__cb20090227022807/lotr/images/7/71/Real-world.png" width="28"/></a></div></div></body></html></div>
+<p><br/>
+</p>
+<table cellspacing="2" class="infobox" style="width: 20em; text-align: left; font-size: 90%;">
+<tr>
+<th colspan="2" style="font-size: 110%; text-align: center;"> <i>The Lord of the Rings trilogy</i>
+</th></tr>
+<tr>
+<th colspan="2" style="font-size: 90%; text-align: center;"> <a class="image image-thumbnail" href="http://img2.wikia.nocookie.net/__cb20070806215413/lotr/images/8/87/Ringstrilogyposter.jpg"><img alt="Ringstrilogyposter" class="" data-image-key="Ringstrilogyposter.jpg" data-image-name="Ringstrilogyposter.jpg" height="219" src="http://img4.wikia.nocookie.net/__cb20070806215413/lotr/images/thumb/8/87/Ringstrilogyposter.jpg/325px-Ringstrilogyposter.jpg" width="325"/></a> <br/>The poster for the whole trilogy is a montage that features a whole range of characters and scenes from all three movies.
+</th></tr>
+<tr>
+<th> Directed by
+</th><td> <a href="/wiki/Peter_Jackson" title="Peter Jackson">Peter Jackson</a>
+</td></tr>
+<tr>
+<th> Written by
+</th><td> Peter Jackson<br/><a href="/wiki/Fran_Walsh" title="Fran Walsh">Fran Walsh</a><br/><a href="/wiki/Philippa_Boyens" title="Philippa Boyens">Philippa Boyens</a><br/><a class="mw-redirect" href="/wiki/J._R._R._Tolkien" title="J. R. R. Tolkien">J. R. R. Tolkien</a> (novel)
+</td></tr>
+<tr>
+<th> Distributed by
+</th><td> <a href="/wiki/New_Line_Cinema" title="New Line Cinema">New Line Cinema</a>
+</td></tr>
+<tr>
+<th> Release date(s)
+</th><td> <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a> – <a class="mw-redirect" href="/wiki/2003" title="2003">2003</a>
+</td></tr>
+<tr>
+<th> Running time
+</th><td> 560 minutes (Theatrical) <br/> 683 minutes (Extended Edition)
+</td></tr>
+<tr>
+<th> Country
+</th><td> <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+<p><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>/<a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/United_States" title="wikipedia:United States">United States</a>
+</p>
+</td></tr>
+<tr>
+<th> Language
+</th><td> English
+</td></tr>
+<tr>
+<th> Budget
+</th><td> <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/USD" title="wikipedia:USD">$</a>280 million
+</td></tr>
+</table>
+<p><br/>
+</p>
+<dl><dd>"<i>The trilogy will not soon, if ever, find its equal.</i>"
+</dd><dd>—<a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Kenneth_Turan" title="wikipedia:Kenneth Turan">Kenneth Turan</a>
+</dd></dl>
+<p><b><i>The Lord of the Rings</i> film trilogy</b> comprises three <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/live_action" title="wikipedia:live action">live action</a> <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/fantasy" title="wikipedia:fantasy">fantasy</a> <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/epic" title="wikipedia:epic">epic films</a>; <i><a class="mw-redirect" href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film)" title="The Lord of the Rings: The Fellowship of the Ring (film)">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>), <i><a class="mw-redirect" href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_(film)" title="The Lord of the Rings: The Two Towers (film)">The Lord of the Rings: The Two Towers</a></i> (<a class="mw-redirect" href="/wiki/2002" title="2002">2002</a>) and <i><a class="mw-redirect" href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(film)" title="The Lord of the Rings: The Return of the King (film)">The Lord of the Rings: The Return of the King</a></i> (<a class="mw-redirect" href="/wiki/2003" title="2003">2003</a>). For simplicity, the titles are often abbreviated to 'LotR', with 'FotR', 'TTT' and 'RotK' for each of the respective films.
+</p><p>Set in <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a>, the three films follow the young <a class="mw-redirect" href="/wiki/Hobbit" title="Hobbit">Hobbit</a> <a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo Baggins</a> as he and the <a class="mw-redirect" href="/wiki/Fellowship_of_the_Ring_(characters)" title="Fellowship of the Ring (characters)">Fellowship</a> embark on a quest to destroy the <a href="/wiki/One_Ring" title="One Ring">One Ring</a>, and thus ensure the destruction of the Dark Lord <a href="/wiki/Sauron" title="Sauron">Sauron</a>, but the Fellowship becomes broken, and Frodo continues the quest together with his loyal companion <a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Sam</a> and the treacherous <a href="/wiki/Gollum" title="Gollum">Gollum</a>. Meanwhile the Wizard <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a> and <a class="mw-redirect" href="/wiki/Aragorn" title="Aragorn">Aragorn</a>, heir in exile to the throne of <a href="/wiki/Gondor" title="Gondor">Gondor</a>, unite and rally the Free Peoples of Middle-earth in several battles cumulating in the <a href="/wiki/War_of_the_Ring" title="War of the Ring">War of the Ring</a>. The Wizard <a href="/wiki/Saruman" title="Saruman">Saruman</a> is defeated, the Ring is destroyed, and Sauron and his forces are vanquished.
+</p><p>The movies were directed by <a href="/wiki/Peter_Jackson" title="Peter Jackson">Peter Jackson</a> and released by <a href="/wiki/New_Line_Cinema" title="New Line Cinema">New Line Cinema</a>. The trilogy is based on the book <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i> by <a class="mw-redirect" href="/wiki/J._R._R._Tolkien" title="J. R. R. Tolkien">J. R. R. Tolkien</a> and follows its general storyline, despite some deviations. Considered to be one of the biggest movie projects ever undertaken with an overall budget of $280 million, the entire project took eight years, with the filming for all three films done simultaneously and entirely in Jackson's native <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>.
+</p><p>The trilogy was a large financial success, with the films being the 25<sup>th</sup>, 17<sup>th </sup>and 5<sup style="border-style: initial; border-color: initial; font-style: normal;">th </sup>highest grossing films of alltime respectively, unadjusted for inflation. The films were critically acclaimed, winning 17 Academy Awards in total, as well as wide praise for the cast and innovative practical and digital special effects. Each film in the trilogy also had Special Extended Editions, released a year after the theatrical release on <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/DVD" title="wikipedia:DVD">DVD</a>.
+</p>
+<nav class="toc" id="toc"><div id="toctitle"><h2>Contents</h2><span class="toctoggle">[<a class="internal" data-hide="hide" data-show="show" href="#" id="togglelink">show</a>]</span></div><ol></ol></nav>
+<h2><span class="mw-headline" id="Development">Development</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=1" title="Edit Development section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> <a class="image image-thumbnail" href="http://img2.wikia.nocookie.net/__cb20150203040819/lotr/images/7/74/LOTRFOTRmovie.jpg"><img alt="LOTRFOTRmovie" class="thumbimage " data-image-key="LOTRFOTRmovie.jpg" data-image-name="LOTRFOTRmovie.jpg" height="263" src="http://img3.wikia.nocookie.net/__cb20150203040819/lotr/images/thumb/7/74/LOTRFOTRmovie.jpg/180px-LOTRFOTRmovie.jpg" width="180"/></a> <figcaption> <a class="sprite info-icon" href="/wiki/File:LOTRFOTRmovie.jpg"></a> <p class="caption"><i>The Lord of the Rings: The Fellowship of the Ring</i> movie poster (2001)</p> </figcaption> </figure>
+<p>Director <a href="/wiki/Peter_Jackson" title="Peter Jackson">Peter Jackson</a> first came into contact with <i><a href="/wiki/The_Lord_of_the_Rings" title="The Lord of the Rings">The Lord of the Rings</a></i> when he saw <a href="/wiki/Ralph_Bakshi" title="Ralph Bakshi">Ralph Bakshi</a>'s <a href="/wiki/The_Lord_of_the_Rings_(1978_film)" title="The Lord of the Rings (1978 film)">1978 film</a>, which he found confusing. Afterwards, he read a tie-in edition of the book during a twelve-hour train journey from <a href="/wiki/Wellington" title="Wellington">Wellington</a> to <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Auckland" title="wikipedia:Auckland">Auckland</a> when he was seventeen. Jackson's reaction was, "I can't wait until somebody makes a movie of this book because <i>I'd</i> like to see it!
+</p><p>In 1995, Jackson was finishing <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/The_Frighteners" title="wikipedia:The Frighteners">The Frighteners</a></i> and considered <i>The Lord of the Rings</i> as a new project, wondering "why nobody else seemed to be doing anything about it". With the new developments in <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/computer_generated_imagery" title="wikipedia:computer generated imagery">computer generated imagery</a> following <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Jurassic_Park_(film)" title="wikipedia:Jurassic Park (film)">Jurassic Park</a></i>, Jackson set about planning a fantasy film that would be relatively serious and feel "real". By October, he and his partner <a href="/wiki/Fran_Walsh" title="Fran Walsh">Fran Walsh</a> teamed up with <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Miramax" title="wikipedia:Miramax">Miramax</a> boss <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Harvey_Weinstein" title="wikipedia:Harvey Weinstein">Harvey Weinstein</a> to negotiate with <a href="/wiki/Saul_Zaentz" title="Saul Zaentz">Saul Zaentz</a> who had held the rights to the book since the early 1970s, pitching an adaptation of <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i> and two films based on <i>The Lord of the Rings</i>. Negotiations then stalled when <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Universal_Studios" title="wikipedia:Universal Studios">Universal Studios</a> offered Jackson a <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/remake" title="wikipedia:remake">remake</a> of <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/King_Kong_(1933_film)" title="wikipedia:King Kong (1933 film)">King Kong</a></i>. Weinstein was furious, and further problems arose when it turned out Zaentz did not have distribution rights to <i>The Hobbit</i>; <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/United_Artists" title="wikipedia:United Artists">United Artists</a>, which was in the market, did. By April 1996 the rights question was still not resolved. Jackson decided to move ahead with <i>King Kong</i> before filming <i>The Lord of the Rings</i>, prompting Universal to enter a deal with Miramax to receive foreign earnings from <i>The Lord of the Rings</i> whilst Miramax received foreign earnings from <i>King Kong</i>.
+</p><p>When Universal cancelled <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/King_Kong_(2005_film)" title="wikipedia:King Kong (2005 film)">King Kong</a></i> in 1997, Jackson and Walsh immediately received support from Weinstein and began a six-week process of sorting out the rights. Jackson and Walsh asked <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Costa_Botes" title="wikipedia:Costa Botes">Costa Botes</a> to write a synopsis of the book and they began to re-read the book. Two to three months later, they had written their treatment. The first film would have dealt with what would become <i><a class="mw-redirect" href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film)" title="The Lord of the Rings: The Fellowship of the Ring (film)">The Fellowship of the Ring</a></i>, <i><a class="mw-redirect" href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_(film)" title="The Lord of the Rings: The Two Towers (film)">The Two Towers</a></i> and the beginning of <i><a class="mw-redirect" href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(film)" title="The Lord of the Rings: The Return of the King (film)">The Return of the King</a></i>, ending with the death of <a href="/wiki/Saruman" title="Saruman">Saruman</a>, and <a href="/wiki/Gandalf" title="Gandalf">Gandalf</a> and <a href="/wiki/Peregrin_Took" title="Peregrin Took">Pippin</a> going to <a href="/wiki/Minas_Tirith" title="Minas Tirith">Minas Tirith</a>. In this treatment Gwaihir and Gandalf visit Edoras after escaping Saruman, Gollum attacks Frodo when the Fellowship is still united, and <a href="/wiki/Farmer_Maggot" title="Farmer Maggot">Farmer Maggot</a>, <a href="/wiki/Glorfindel" title="Glorfindel">Glorfindel</a>, <a href="/wiki/Radagast" title="Radagast">Radagast</a>, <a href="/wiki/Elladan_and_Elrohir" title="Elladan and Elrohir">Elladan and Elrohir</a> are present. Bilbo attends the Council of Elrond, Sam looks into Galadriel's mirror, Saruman is redeemed before he dies and the Nazgûl just make it into Mount Doom before they fall. They presented their treatment to Harvey and <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Bob_Weinstein" title="wikipedia:Bob Weinstein">Bob Weinstein</a>, the latter of whom they focused on impressing with their screenwriting as he had not read the book. They agreed upon two films and a total budget of $75 million.
+</p><p>During mid-1997, Jackson and Walsh began writing with Stephen Sinclair. Sinclair's partner, <a href="/wiki/Philippa_Boyens" title="Philippa Boyens">Philippa Boyens</a>, was a major fan of the book and joined the writing team after reading their treatment. It took 13–14 months to write the two film scripts, which were 147 and 144 pages respectively. Sinclair left the project due to theatrical obligations. Amongst their revisions, Sam, Merry and Pippin are caught eavesdropping and forced to go along with Frodo. Gandalf's account of his time at Orthanc was pulled out of flashback and Lothlórien was cut with <a href="/wiki/Galadriel" title="Galadriel">Galadriel</a> attending the Council of Elrond. <a class="mw-redirect" href="/wiki/Denethor" title="Denethor">Denethor</a>, Boromir's father, also attends the Council, and other changes included having <a href="/wiki/Arwen" title="Arwen">Arwen</a> rescue Frodo, and the action sequence involving the cave troll. Arwen was even going to kill the <a class="mw-redirect" href="/wiki/Witch-king" title="Witch-king">Witch-king</a>. Most significantly, there was an all-new sequence. A <a class="mw-redirect" href="/wiki/Ringwraith" title="Ringwraith">Ringwraith</a> kills Saruman and attacks Gandalf at Orthanc. Seeing this from the Seeing Seat, now at <a href="/wiki/Emyn_Muil" title="Emyn Muil">Emyn Muil</a> rather than <a href="/wiki/Amon_Hen" title="Amon Hen">Amon Hen</a>, Frodo puts on the Ring and draws him all the way to the Seat on his <a class="mw-redirect" href="/wiki/Fell_beast" title="Fell beast">Fell beast</a>. Frodo manages to save Sam and stabs the wraith in his heart.
+</p><p>Trouble struck when Marty Katz was sent to New Zealand. Spending four months there, he told Miramax that the films were more likely to cost $150 million, and with Miramax unable to finance this, and with $15 million already spent, they decided to merge the two films into one. On <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/June_17" title="wikipedia:June 17">June 17</a>, <a class="mw-redirect" href="/wiki/1998" title="1998">1998</a>, Bob Weinstein presented a treatment of a single two-hour film version of the book. He suggested cutting <a href="/wiki/Bree" title="Bree">Bree</a> and the Battle of Helm's Deep, "losing or using" <a href="/wiki/Saruman" title="Saruman">Saruman</a>, merging <a href="/wiki/Rohan" title="Rohan">Rohan</a> and <a href="/wiki/Gondor" title="Gondor">Gondor</a> with <a href="/wiki/%C3%89owyn" title="Éowyn">Éowyn</a> as <a href="/wiki/Boromir" title="Boromir">Boromir</a>'s sister, shortening <a href="/wiki/Rivendell" title="Rivendell">Rivendell</a> and <a href="/wiki/Moria" title="Moria">Moria</a> as well as having <a class="mw-redirect" href="/wiki/Ent" title="Ent">Ents</a> prevent the Uruk-hai kidnapping Merry and Pippin. Upset by the idea of "cutting out half the good stuff" Jackson balked, and Miramax declared that any script or <a href="/wiki/Weta_Workshop" title="Weta Workshop">Weta Workshop</a>'s work was theirs. Jackson went around Hollywood for four weeks, showing a thirty-five minute video of their work, before meeting with <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Mark_Ordesky" title="wikipedia:Mark Ordesky">Mark Ordesky</a> of <a href="/wiki/New_Line_Cinema" title="New Line Cinema">New Line Cinema</a>. At New Line Cinema, <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Robert_Shaye" title="wikipedia:Robert Shaye">Robert Shaye</a> viewed the video, and then asked why they were making two films when the book was published as three volumes; he wanted to make a film trilogy. Now Jackson, Walsh and Boyens had to write three new scripts.
+</p><p>The expansion to three films allowed a lot more creative freedom, and Jackson, Walsh and Boyens had to restructure their script accordingly. Each film is not exactly based on each volume of the book, but rather they represent a three-part adaptation, as Jackson takes a more chronological approach to the story, whilst Tolkien retold chunks of his fictional history. Frodo's quest is the main focus, and Aragorn is the main subplot, and many sequences (such as <a href="/wiki/Tom_Bombadil" title="Tom Bombadil">Tom Bombadil</a> and the <a href="/wiki/Scouring_of_the_Shire" title="Scouring of the Shire">Scouring of the Shire</a>) that do not contribute directly to those two plots were left out. Much effort was put into creating satisfactory conclusions and making sure exposition did not bog down the pacing. Amongst new sequences, there are also expansions on elements Tolkien kept ambiguous, such as the battles and the creatures.
+</p><p>Above all, most characters have been altered for extra drama. <a class="mw-redirect" href="/wiki/Aragorn" title="Aragorn">Aragorn</a>, <a href="/wiki/Th%C3%A9oden" title="Théoden">Théoden</a> and <a href="/wiki/Treebeard" title="Treebeard">Treebeard</a> have added or modified elements of self-doubt, whilst <a href="/wiki/Galadriel" title="Galadriel">Galadriel</a>, <a href="/wiki/Elrond" title="Elrond">Elrond</a> and <a href="/wiki/Faramir" title="Faramir">Faramir</a> have been darkened. <a href="/wiki/Boromir" title="Boromir">Boromir</a> and <a href="/wiki/Gollum" title="Gollum">Gollum</a> are (arguably) relatively more sympathetic, whilst some characters such as <a href="/wiki/Legolas" title="Legolas">Legolas</a>, <a href="/wiki/Gimli" title="Gimli">Gimli</a>, <a href="/wiki/Saruman" title="Saruman">Saruman</a> and <a class="mw-redirect" href="/wiki/Denethor" title="Denethor">Denethor</a> have been simplified. Some characters, such as <a href="/wiki/Arwen" title="Arwen">Arwen</a> and <a href="/wiki/%C3%89omer" title="Éomer">Éomer</a>, are given actions from minor characters such as <a href="/wiki/Glorfindel" title="Glorfindel">Glorfindel</a> and <a href="/wiki/Erkenbrand" title="Erkenbrand">Erkenbrand</a>, and generally lines of dialogue are somewhat preserved or switched around between locations or characters depending on suitability of the scenes. New scenes were also added to expand on characterization. In the meantime, during shooting, the screenplays would undergo many daily transformations, due to contributions from cast looking to further explore their characters. Most notable amongst these rewrites was the character <a href="/wiki/Arwen" title="Arwen">Arwen</a>, who was originally planned as a warrior princess, but reverted to her book counterpart, who remains physically inactive in the story (though she sends moral and military support).
+</p>
+<h2><span class="mw-headline" id="Production_design">Production design</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=2" title="Edit Production design section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<p>Jackson began storyboarding the trilogy with <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Christian_Rivers" title="wikipedia:Christian Rivers">Christian Rivers</a> in <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/August_1997" title="wikipedia:August 1997">August 1997</a> and assigned his crew to begin designing Middle-earth at the same time. Jackson hired longtime collaborator <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Richard_Taylor_(movies)" title="wikipedia:Richard Taylor (movies)">Richard Taylor</a> to lead Weta Workshop on five major design elements: armour, weapons, prosthetics/make-up, creatures and miniatures. In November 1997, famed Tolkien illustrators <a href="/wiki/Alan_Lee" title="Alan Lee">Alan Lee</a> and <a href="/wiki/John_Howe" title="John Howe">John Howe</a> joined the project. Most of the imagery in the films is based on their various illustrations. Grant Major was charged with the task of converting Lee and Howe's designs into architecture, creating models of the sets, whilst Dan Hennah worked as art director, scouting locations and organizing the building of sets.
+</p><p>Jackson's vision of <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a> was described as being "<a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Ray_Harryhausen" title="wikipedia:Ray Harryhausen">Ray Harryhausen</a> meets <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/David_Lean" title="wikipedia:David Lean">David Lean</a>" by Randy Cook. Jackson wanted a gritty realism and historical regard for the fantasy, and attempted to make the world rational and believable. For example, the New Zealand army helped build Hobbiton months before filming began so the plants could really grow. Creatures were designed to be biologically believable, such as the enormous wings of the <a class="mw-redirect" href="/wiki/Fell_beast" title="Fell beast">Fell beast</a> to help it fly. In total, Weta Workshop created 48,000 pieces of armour, 500 bows and 10,000 arrows. They also created many prosthetics, such as 1800 pairs of Hobbit feet for the lead actors, as well as many ears, noses and heads for the cast, and around 19,000 costumes were woven and aged. Every prop was specially designed by the Art Department, taking the different scales into account.
+</p>
+<h2><span class="mw-headline" id="Filming">Filming</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=3" title="Edit Filming section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<p><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Principal_photography" title="wikipedia:Principal photography">Principal photography</a> for all three films was conducted concurrently in <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> from <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/October_11" title="wikipedia:October 11">October 11</a>, <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/1999" title="wikipedia:1999">1999</a> through to <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/December_22" title="wikipedia:December 22">December 22</a>, <a class="mw-redirect" href="/wiki/2000" title="2000">2000</a> for 274 days. <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Pick-up_(film)" title="wikipedia:Pick-up (film)">Pick-up</a> shoots were conducted annually from 2001 to 2004. The trilogy was shot at over 150 different locations, with seven different units shooting, as well as soundstages around <a href="/wiki/Wellington" title="Wellington">Wellington</a> and <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Queenstown,_New_Zealand" title="wikipedia:Queenstown, New Zealand">Queenstown</a>. As well as Jackson directing the whole production, other unit directors included John Mahaffie, Geoff Murphy, <a href="/wiki/Fran_Walsh" title="Fran Walsh">Fran Walsh</a>, Barrie Osbourne, Rick Porras and any other assistant director, producer or writer available. Jackson monitored these units with live satellite feeds, and with the added pressure of constant script re-writes and the multiple units interpreting his envisioned result, he only got around four hours of sleep a night. Due to the remoteness of some of New Zealand's untamed landscapes, the crew would also bring survival kits in case helicopters couldn't reach the location to bring them home in time.
+</p>
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=4" title="Edit Cast section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<ul><li><a href="/wiki/Elijah_Wood" title="Elijah Wood">Elijah Wood</a> as <a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo Baggins</a>
+</li><li><a href="/wiki/Viggo_Mortensen" title="Viggo Mortensen">Viggo Mortensen</a> as <a class="mw-redirect" href="/wiki/Aragorn" title="Aragorn">Aragorn</a>
+</li><li><a class="mw-redirect" href="/wiki/Sir_Ian_McKellen" title="Sir Ian McKellen">Sir Ian McKellen</a> as <a href="/wiki/Gandalf" title="Gandalf">Gandalf the Grey/White</a>
+</li><li><a href="/wiki/Sean_Astin" title="Sean Astin">Sean Astin</a> as <a href="/wiki/Samwise_Gamgee" title="Samwise Gamgee">Samwise Gamgee</a>
+</li><li><a href="/wiki/Orlando_Bloom" title="Orlando Bloom">Orlando Bloom</a> as <a href="/wiki/Legolas" title="Legolas">Legolas</a>
+</li><li><a href="/wiki/John_Rhys-Davies" title="John Rhys-Davies">John Rhys-Davies</a> as <a href="/wiki/Gimli" title="Gimli">Gimli</a> &amp; voices <a href="/wiki/Treebeard" title="Treebeard">Treebeard</a>
+</li><li><a href="/wiki/Dominic_Monaghan" title="Dominic Monaghan">Dominic Monaghan</a> as <a href="/wiki/Meriadoc_Brandybuck" title="Meriadoc Brandybuck">Merry</a>
+</li><li><a href="/wiki/Billy_Boyd" title="Billy Boyd">Billy Boyd</a> as <a href="/wiki/Peregrin_Took" title="Peregrin Took">Pippin</a>
+</li><li><a href="/wiki/Sean_Bean" title="Sean Bean">Sean Bean</a> as <a href="/wiki/Boromir" title="Boromir">Boromir</a>
+</li><li><a href="/wiki/Liv_Tyler" title="Liv Tyler">Liv Tyler</a> as <a href="/wiki/Arwen" title="Arwen">Arwen</a>
+</li><li><a href="/wiki/Andy_Serkis" title="Andy Serkis">Andy Serkis</a> as <a class="mw-redirect" href="/wiki/Sm%C3%A9agol" title="Sméagol">Sméagol</a> and voice and motion-capture movements of <a href="/wiki/Gollum" title="Gollum">Gollum</a>
+</li><li><a href="/wiki/Sala_Baker" title="Sala Baker">Sala Baker</a> portrays <a href="/wiki/Sauron" title="Sauron">Sauron</a>
+</li><li><a href="/wiki/Sir_Christopher_Lee" title="Sir Christopher Lee">Sir Christopher Lee</a> as <a href="/wiki/Saruman" title="Saruman">Saruman</a>
+</li><li><a href="/wiki/Bernard_Hill" title="Bernard Hill">Bernard Hill</a> as <a href="/wiki/Th%C3%A9oden" title="Théoden">Théoden</a>
+</li><li><a href="/wiki/Miranda_Otto" title="Miranda Otto">Miranda Otto</a> as <a href="/wiki/%C3%89owyn" title="Éowyn">Éowyn</a>
+</li><li><a href="/wiki/Karl_Urban" title="Karl Urban">Karl Urban</a> as <a href="/wiki/%C3%89omer" title="Éomer">Éomer</a>
+</li><li><a href="/wiki/David_Wenham" title="David Wenham">David Wenham</a> as <a href="/wiki/Faramir" title="Faramir">Faramir</a>
+</li><li><a href="/wiki/Hugo_Weaving" title="Hugo Weaving">Hugo Weaving</a> as <a href="/wiki/Elrond" title="Elrond">Elrond</a>
+</li><li><a class="mw-redirect" href="/wiki/Ian_Holm" title="Ian Holm">Ian Holm</a> as <a href="/wiki/Bilbo_Baggins" title="Bilbo Baggins">Bilbo Baggins</a>
+</li><li><a href="/wiki/John_Noble" title="John Noble">John Noble</a> as <a class="mw-redirect" href="/wiki/Denethor" title="Denethor">Denethor</a>
+</li><li><a href="/wiki/Cate_Blanchett" title="Cate Blanchett">Cate Blanchett</a> as <a href="/wiki/Galadriel" title="Galadriel">Galadriel</a>
+</li><li><a href="/wiki/Marton_Csokas" title="Marton Csokas">Marton Csokas</a> as <a href="/wiki/Celeborn" title="Celeborn">Celeborn</a>
+</li><li><a href="/wiki/Craig_Parker" title="Craig Parker">Craig Parker</a> as <a class="mw-redirect" href="/wiki/Haldir_of_L%C3%B3rien" title="Haldir of Lórien">Haldir</a>
+</li><li><a href="/wiki/Lawrence_Makoare" title="Lawrence Makoare">Lawrence Makoare</a> as <a href="/wiki/Lurtz" title="Lurtz">Lurtz</a>
+</li><li><a href="/wiki/Brad_Dourif" title="Brad Dourif">Brad Dourif</a> as <a href="/wiki/Gr%C3%ADma_Wormtongue" title="Gríma Wormtongue">Wormtongue</a>
+</li><li><a href="/wiki/Nathaniel_Lees" title="Nathaniel Lees">Nathaniel Lees</a> as <a href="/wiki/Ugl%C3%BAk" title="Uglúk">Uglúk</a>
+</li><li><a href="/wiki/Lawrence_Makoare" title="Lawrence Makoare">Lawrence Makoare</a> plays the <a href="/wiki/Witch-king_of_Angmar" title="Witch-king of Angmar">Witch-king of Angmar</a>
+</li><li><a href="/wiki/Paul_Norell" title="Paul Norell">Paul Norell</a> as the <a class="mw-redirect" href="/wiki/Dead_Men_of_Dunharrow" title="Dead Men of Dunharrow">King of the Dead</a>
+</li><li><a href="/wiki/Bruce_Spence" title="Bruce Spence">Bruce Spence</a> as the <a href="/wiki/Mouth_of_Sauron" title="Mouth of Sauron">Mouth of Sauron</a>
+</li><li><a href="/wiki/Harry_Sinclair" title="Harry Sinclair">Harry Sinclair</a> as <a href="/wiki/Isildur" title="Isildur">Isildur</a>
+</li><li><a href="/wiki/Peter_McKenzie" title="Peter McKenzie">Peter McKenzie</a> as <a href="/wiki/Elendil" title="Elendil">Elendil</a>
+</li><li><a href="/wiki/Mark_Ferguson" title="Mark Ferguson">Mark Ferguson</a> as <a href="/wiki/Gil-galad" title="Gil-galad">Gil-galad</a>
+</li><li><a href="/wiki/Jackie_Alexander" title="Jackie Alexander">Jackie Alexander</a> as <a class="mw-redirect" href="/wiki/Elf" title="Elf">Elf</a>
+</li><li><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Alexander_Marshall:Alexander_Marshall" title="wikipedia:Alexander Marshall:Alexander Marshall">Wikipedia:Alexander Marshall:Alexander Marshall</a>] as <a class="external text exitstitial" href="http://www.wikipedia.com/preview/show/123456789/" rel="nofollow">Orc commander in battle of helms deep</a>
+</li></ul>
+<h2><span class="mw-headline" id="Special_effects">Special effects</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=5" title="Edit Special effects section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<p>The first film has around 540 effects shots, the second 799, and the third 1488 (2730 in total). The total increases to 3420 with the extended editions. 260 visual effects artists began work on the trilogy, and the number doubled by <i>The Two Towers</i>. The crew, led by Jim Rygiel and Randy Cook, worked long and hard hours, often overnight, to produce special effects within a short space of time. Jackson's overactive imagination was a driving force. For example, several major shots of Helm's Deep were produced within the last six weeks of post-production of <i>The Two Towers</i>, and the same happened again within the last six weeks on <i>The Return of the King</i>.
+</p>
+<h2><span class="mw-headline" id="Post-production">Post-production</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=6" title="Edit Post-production section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<figure class="article-thumb tleft show-info-icon" style="width: 180px"> <a class="image image-thumbnail" href="http://img1.wikia.nocookie.net/__cb20130216182515/lotr/images/2/2a/LOTRTTTmovie.jpg"><img alt="LOTRTTTmovie" class="thumbimage lzy lzyPlcHld " data-image-key="LOTRTTTmovie.jpg" data-image-name="LOTRTTTmovie.jpg" data-src="http://img2.wikia.nocookie.net/__cb20130216182515/lotr/images/thumb/2/2a/LOTRTTTmovie.jpg/180px-LOTRTTTmovie.jpg" height="267" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="180"><noscript><img alt="LOTRTTTmovie" class="thumbimage " data-image-key="LOTRTTTmovie.jpg" data-image-name="LOTRTTTmovie.jpg" height="267" src="http://img2.wikia.nocookie.net/__cb20130216182515/lotr/images/thumb/2/2a/LOTRTTTmovie.jpg/180px-LOTRTTTmovie.jpg" width="180"/></noscript></img></a> <figcaption> <a class="sprite info-icon" href="/wiki/File:LOTRTTTmovie.jpg"></a> <p class="caption"><i>The Lord of the Rings: The Two Towers</i> movie poster (2002)</p> </figcaption> </figure>
+<p>Post-production would have the benefit for a full year on each film before their respective December releases, often finishing in October–November, with the crew immediately going to work on the next film. Later on, Jackson would move to <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/London" title="wikipedia:London">London</a> to advise the score and continued editing, whilst having a computer feed for discussions to The Dorchester Hotel, and a "fat pipe" of internet connections from <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Pinewood_Studios" title="wikipedia:Pinewood Studios">Pinewood Studios</a> to look at the special effects. He had a <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Polycom" title="wikipedia:Polycom">Polycom</a> video link and 5.1 surround sound to organise meetings, and listen to new music and sound effects generally wherever he was. The extended editions also had a tight schedule at the start of each year to complete special effects and music.
+</p>
+<h3><span class="mw-headline" id="Editing">Editing</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=7" title="Edit Editing section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h3>
+<p>To avoid pressure, Jackson hired a different editor for each film. John Gilbert worked on the first film, Mike Horton and Jabez Olssen on the second and longtime Jackson collaborators Jamie Selkirk and Annie Collins on the third. Daily rushes would often last up to four hours, with scenes being done throughout 1999–2002 for the rough (4 1/2 hours) assemblies of the films. In total, six million feet of film (over 1,800 km) was edited down to the 11 hours and 23 minutes (683 minutes) of Extended DVD running time. This was the final area of shaping of the films, when Jackson realised that sometimes the best scripting could be redundant on screen, as he picked apart scenes every day from multiple takes.
+</p><p>Editing on the first film was relatively easygoing, with Jackson coming up with the concept of an Extended Edition later on, although after a screening to New Line they had to re-edit the beginning for a prologue. <i>The Two Towers</i> was always acknowledged by the crew as the most difficult film to make, as "it had no beginning or end", and had the additional problem of inter-cutting storylines appropriately. Jackson even continued editing the film when that part of the schedule officially ended, resulting in some scenes, including the reforging of <a href="/wiki/And%C3%BAril" title="Andúril">Andúril</a>, Gollum's back-story, and Saruman's demise, being moved to <i>The Return of the King</i>. Later, Saruman's demise was controversially cut from the cinema edition (but included in the extended edition) when Jackson felt it was not starting the third film effectively enough. As with all parts of the third film's post-production, editing was very chaotic. The first time Jackson actually saw the completed film was at the Wellington premiere.
+</p>
+<h4><span class="mw-headline" id="Deleted_scenes">Deleted scenes</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=8" title="Edit Deleted scenes section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h4>
+<p>Many filmed scenes remain unused, not included even in the Extended Editions. The main reason they weren't included was because they tended to change the plot from Tolkien's original storyline, therefore being unfaithful to the books.
+</p>
+<ul><li> Additional footage from the Battle of the Last Alliance in the FotR Prologue.
+</li><li> Famous footage of <a href="/wiki/Arwen" title="Arwen">Arwen</a> at Helm's Deep, cut by Jackson during a revision to the film's plot. Foreshadowing this sequence were scenes where Arwen and Elrond visit Galadriel at Lothlórien (seen in <i>The Two Towers</i> teaser trailer). The scene was edited down to a telepathic communication between Elrond and Galadriel.
+</li><li> A line of dialogue during the death of Saruman, in which he reveals that Wormtongue poisoned Théodred, giving further context as to why Wormtongue kills Saruman and Legolas in turn kills Wormtongue.
+</li><li> Further epilogue footage, including that of Legolas and Gimli, as well as Éowyn and Faramir's wedding and Aragorn's death and funeral.
+</li><li> Faramir having a vision of Frodo becoming like Gollum.
+</li><li> Dialogue from the Council of Elrond, such as Gandalf explaining how Sauron forged the One Ring.
+</li><li> An unknown scene displayed in <i>The Two Towers</i> preview of Éomer lowering a spear while riding his horse.
+</li><li> Éowyn defending the refugees in the Glittering Caves from Uruk-hai intruders.
+</li><li> An obscure shot from the trailers of two Elven girls playing about in Rivendell.
+</li><li> A conversation between Elrond and Arwen on a bridge in Rivendell, after Arwen decides to wait for Aragorn. Elrond leaves saying "I cannot protect you anymore."
+</li><li> Sauron fighting Aragorn at the Black Gate. A computer-generated Troll was placed over Sauron due to Jackson feeling the scene was inappropriate. Sauron is also seen in a beautiful form as Annatar, giver of gifts.
+</li><li> Also at the Black Gate sequence, Pippin was seen in the trailer holding a wounded Merry, a scene which takes place after the Battle of the Pelennor Fields upon Pippin discovering Merry under the <a class="mw-redirect" href="/wiki/Oliphaunt" title="Oliphaunt">Oliphaunt</a>.
+</li><li> More Arwen footage, including a flashback scene of her first meeting with a beardless Aragorn (seen in the Two Towers teaser).
+</li><li> Aragorn having his armour fitted during the preparations for the <a class="mw-redirect" href="/wiki/Battle_of_the_Morannon" title="Battle of the Morannon">Battle of the Black Gate</a>. This was the final scene filmed during principal photography.
+</li><li> An attack by Moria Orcs on Lothlórien. Jackson replaced this with a more suspenseful entrance for the Fellowship.
+</li></ul>
+<p>Peter Jackson has stated that he would like to include some of these unused scenes in a future 'Ultimate Edition' home video release (probably High Definition) of the film trilogy. They will not be re-inserted into the movies but available for viewing separately. This edition will also include outtakes.
+</p>
+<h3><span class="mw-headline" id="Music">Music</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=9" title="Edit Music section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h3>
+<p><a href="/wiki/Howard_Shore" title="Howard Shore">Howard Shore</a> composed the trilogy's music. He was hired in August 2000 and visited the set, and watched the assembly cuts of Films 1 and 3. Although the first film had some of its score done in Wellington, the trilogy's score was mostly recorded in <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Watford" title="wikipedia:Watford">Watford</a> Town Hall and mixed at <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Abbey_Road_Studios" title="wikipedia:Abbey Road Studios">Abbey Road Studios</a>. Jackson planned to advise the score for six weeks each year in London, although for <i>The Two Towers</i> he stayed 12. As a <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/The_Beatles" title="wikipedia:The Beatles">Beatles</a> fan, Jackson had a photo tribute done there on the zebra crossing.
+</p><p>The soundtrack is primarily played by the <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/London_Philharmonic_Orchestra" title="wikipedia:London Philharmonic Orchestra">London Philharmonic Orchestra</a>, and many artists such as <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Ben_Del_Maestro" title="wikipedia:Ben Del Maestro">Ben Del Maestro</a>, <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Enya" title="wikipedia:Enya">Enya</a>, <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Renee_Fleming" title="wikipedia:Renee Fleming">Renee Fleming</a>, <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/James_Galway" title="wikipedia:James Galway">Sir James Galway</a> and <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Annie_Lennox" title="wikipedia:Annie Lennox">Annie Lennox</a> contributed. Even actors <a href="/wiki/Billy_Boyd" title="Billy Boyd">Billy Boyd</a>, <a href="/wiki/Viggo_Mortensen" title="Viggo Mortensen">Viggo Mortensen</a>, <a href="/wiki/Liv_Tyler" title="Liv Tyler">Liv Tyler</a>, <a href="/wiki/Miranda_Otto" title="Miranda Otto">Miranda Otto</a> (extended cuts only for the latter two) and <a href="/wiki/Peter_Jackson" title="Peter Jackson">Peter Jackson</a> (for a single gong sound in the second film) contributed to the score. Fran Walsh and Philippa Boyens also wrote the lyrics to various music and songs, which David Salo translated into Tolkien's languages. The third film's end song, <i><a href="/wiki/Into_the_West_(song)" title="Into the West (song)">Into the West</a></i>, was a tribute to a young filmmaker Jackson and Walsh befriended named <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Cameron_Duncan" title="wikipedia:Cameron Duncan">Cameron Duncan</a>, who died of cancer in 2003.
+</p><p>Shore composed a main theme for the Fellowship rather than many different character themes, and its strength and weaknesses in volume are depicted at different points in the trilogy. On top of that, individual themes were composed to represent different cultures. Infamously, the amount of music Shore had to write every day for the third film increased dramatically to around seven minutes.
+</p>
+<h3><span class="mw-headline" id="Sound">Sound</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=10" title="Edit Sound section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h3>
+<p>Sound technicians spent the early part of the year trying to find the right sounds: animal sounds like tigers and walruses were bought. Sometimes human voices were used, such as Fran Walsh as the Nazgûl scream and David Farmer as some Warg howls. Some sounds were unexpected: a donkey screech is the Fell Beast, and the <i>mûmakil</i> roar comes from the beginning and end of a lion. In addition, there was <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Dubbing_(filmmaking)" title="wikipedia:Dubbing (filmmaking)">ADR</a> for most of the dialogue.
+</p><p>The technicians worked with New Zealand locals to get many of the sounds. They re-recorded sounds in abandoned tunnels for an echo-like effect in the Moria sequence. 10,000 New Zealand cricket fans provided the sound of the Uruk-hai army in <i>The Two Towers</i>, with Jackson acting as conductor during a single cricket break. They spent time recording sounds in a graveyard at night, and also had construction workers drop stone blocks for the sounds of boulders firing and landing in <i>The Return of the King</i>. Mixing generally took place between August and November at "The Film Mix", before Jackson commissioned building a new studio in 2003. Annoyingly, the building wasn't fully completed as they started mixing for <i>The Return of the King</i>.
+</p>
+<h2><span class="mw-headline" id="Releases">Releases</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=11" title="Edit Releases section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<p>The online promotional trailer for the trilogy was first released on <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/April_27" title="wikipedia:April 27">April 27</a>, <a class="mw-redirect" href="/wiki/2000" title="2000">2000</a> and shattered records for download hits, registering 1.7 million hits in the first 24 hours of its release. The trailer used a selection from the soundtrack for <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Braveheart" title="wikipedia:Braveheart">Braveheart</a>, and <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/The_Shawshank_Redemption" title="wikipedia:The Shawshank Redemption">The Shawshank Redemption</a> among other cuts. In 2001, 24 minutes of footage from the trilogy, primarily the Moria sequence, was shown at the <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Cannes_Film_Festival" title="wikipedia:Cannes Film Festival">Cannes Film Festival</a>, and very well received. The showing also included an area designed to look like <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a>.
+</p><p><i><a class="mw-redirect" href="/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film)" title="The Lord of the Rings: The Fellowship of the Ring (film)">The Lord of the Rings: The Fellowship of the Ring</a></i> was released <a href="/wiki/December_19" title="December 19">December 19</a>, <a class="mw-redirect" href="/wiki/2001" title="2001">2001</a>. It grossed $47 million in its U.S. opening weekend and made around $871 million worldwide. A preview of <i>The Lord of the Rings: The Two Towers</i> was attached at the end of the cinema release for the film.
+</p><p>A promotional trailer was later released. The trailer contained some music re-scored from the film <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Requiem_for_a_Dream" title="wikipedia:Requiem for a Dream">Requiem for a Dream</a></i>. <i><a class="mw-redirect" href="/wiki/The_Lord_of_the_Rings:_The_Two_Towers_(film)" title="The Lord of the Rings: The Two Towers (film)">The Lord of the Rings: The Two Towers</a></i> was released <a href="/wiki/December_18" title="December 18">December 18</a>, <a class="mw-redirect" href="/wiki/2002" title="2002">2002</a>. It grossed $62 million in its first U.S. weekend and out-grossed its predecessor, grossing $926 million worldwide.
+</p><p>The promotional trailer for <i><a class="mw-redirect" href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(film)" title="The Lord of the Rings: The Return of the King (film)">The Return of the King</a></i> was debuted exclusively before the New Line Cinema film <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Secondhand_Lions" title="wikipedia:Secondhand Lions">Secondhand Lions</a></i> on <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/September_23" title="wikipedia:September 23">September 23</a>, <a class="mw-redirect" href="/wiki/2003" title="2003">2003</a>. Released <a href="/wiki/December_17" title="December 17">December 17</a> <a class="mw-redirect" href="/wiki/2003" title="2003">2003</a>, its first U.S. weekend gross was $72 million, and became the second film (after <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Titanic_(1997_film)" title="wikipedia:Titanic (1997 film)"><i>Titanic</i></a>) to gross over $1 billion worldwide.
+</p><p>Each film was released on standard two disc edition DVDs containing previews of the next film. The success of the theatrical cuts brought about four disc Extended Editions, with new editing, added special effects and music. With the films and special features spread over two discs apiece, they were issued as follows:
+</p>
+<ul><li> <i>The Lord of the Rings: The Fellowship of the Ring</i>, <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/November_12" title="wikipedia:November 12">November 12</a>, <a class="mw-redirect" href="/wiki/2002" title="2002">2002</a>. Containing 30 minutes more footage, in a green sleeve. It contains an Alan Lee painting of the Fellowship entering Moria, and the Moria Gate on the back of the sleeve. An <a href="/wiki/Argonath" title="Argonath">Argonath</a> styled bookend was issued within a Collector's Edition.
+</li><li> <i>The Lord of the Rings: The Two Towers</i>, <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/November_18" title="wikipedia:November 18">November 18</a>, <a class="mw-redirect" href="/wiki/2003" title="2003">2003</a>. It contains 42 minutes more footage. A Rohirrim sun symbol decorates the back of its red sleeve and a Lee painting of Gandalf the White's entrance. The Collector's Edition contained a Sméagol statue, with a crueler looking statue of his Gollum persona available for order during a limited time.
+</li><li> <i>The Lord of the Rings: The Return of the King</i> <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/December_14" title="wikipedia:December 14">December 14</a>, <a class="mw-redirect" href="/wiki/2004" title="2004">2004</a>. It has 50 minutes more footage, and a blue sleeve with the White Tree of Gondor. The Lee painting is of the Grey Havens. The Collector's Edition included a model of Minas Tirith, with Minas Morgul available for order during a limited time.
+</li></ul>
+<dl><dd>A Trilogy Supertrailer appears in many places such as the Return of the King Special Features and Movieweb.
+</dd></dl>
+<p>The Special Extended DVD Editions also had in-sleeve maps of the Fellowship's travels. They have also played at <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/movie_theaters" title="wikipedia:movie theaters">movie theaters</a>, most notably for a <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/December_16" title="wikipedia:December 16">December 16</a> <a class="mw-redirect" href="/wiki/2003" title="2003">2003</a> marathon screening culminating in a midnight screening of the third film.
+</p><p>On <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/August_29" title="wikipedia:August 29">August 29</a> <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/2006" title="wikipedia:2006">2006</a> both versions were put together in a Limited Edition "<a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Seamless_branching" title="wikipedia:Seamless branching">branching</a>" version plus a new feature-length documentary by <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Costa_Botes" title="wikipedia:Costa Botes">Costa Botes</a>. The complete trilogy was released in a 6 Disc set on November 14, 2006.
+</p>
+<h2><span class="mw-headline" id="Public_and_critical_response">Public and critical response</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=12" title="Edit Public and critical response section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<p><i>The Lord of the Rings</i> film trilogy is verified to be the currently highest grossing motion picture trilogy worldwide of all time, besting such other film franchises as the <a class="external text exitstitial" href="http://en.wikipedia.org/wiki/Star_Wars">two Star Wars Trilogies</a> and <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/The_Godfather" title="wikipedia:The Godfather">The Godfather</a>. The film trilogy also tied a record for the total number of Academy Awards won.
+</p><p>The majority of critics have also praised the trilogy, with <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Kenneth_Turan" title="wikipedia:Kenneth Turan">Kenneth Turan</a> of the <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Los_Angeles_Times" title="wikipedia:Los Angeles Times">Los Angeles Times</a> writing that "<i>the trilogy will not soon, if ever, find its equal</i>". In particular, performances from <a href="/wiki/Ian_McKellen" title="Ian McKellen">Ian McKellen</a>, <a href="/wiki/Sean_Astin" title="Sean Astin">Sean Astin</a>, <a href="/wiki/Sean_Bean" title="Sean Bean">Sean Bean</a>, <a href="/wiki/Andy_Serkis" title="Andy Serkis">Andy Serkis</a>, <a href="/wiki/Bernard_Hill" title="Bernard Hill">Bernard Hill</a>, <a href="/wiki/Viggo_Mortensen" title="Viggo Mortensen">Viggo Mortensen</a> and <a href="/wiki/Miranda_Otto" title="Miranda Otto">Miranda Otto</a> stood out for many in audience polls, although the entire cast was well praised and won awards of Best Acting Ensemble. The special effects for the battles and Gollum were also praised. Overall, the films received a positive 93% critics rating on <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/rottentomatoes.com" title="wikipedia:rottentomatoes.com">rottentomatoes.com</a>, (93% for FotR, 94% for RotK and 97% for TTT) a consensus amongst film critics.
+</p><p>The trilogy appears in many "Top 10" film lists, such as the <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Dallas-Fort_Worth_Film_Critics_Association%27s_Top_10_Films" title="wikipedia:Dallas-Fort Worth Film Critics Association's Top 10 Films">Dallas-Fort Worth Film Critics Association's Top 10 Films</a>, <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Time_Magazine%27s_All-Time_100_Movies" title="wikipedia:Time Magazine's All-Time 100 Movies">Time Magazine's All-Time 100 Movies</a>, <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/James_Berardinelli" title="wikipedia:James Berardinelli">James Berardinelli</a>'s Top 100, and The Screen Directory's "Top Ten Films of All Time" (considering the trilogy as "one epic film split into three parts"). In 2007, <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/USA_Today" title="wikipedia:USA Today">USA Today</a></i> named the trilogy as the most important films of the past 25 years.
+</p><p>In 2006, all the three films were in the Top 10 of <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="wikipedia:Internet Movie Database">IMDb</a>'s famous <i>Top 250</i> list. As of September 3, 2007, RotK stood in the 10th place, FotR in the 17th place and TTT in the 25th place, a consensus amongst voters. The trilogy is constantly increasing and decreasing its rating due to the many voters, and is the only movie trilogy in the site that has all its three movies in the Top 25 of the list (this feat has since been matched only by Christopher Nolan's Batman Trilogy), a firm display of the Lord of the Rings film trilogy's popularity and reputation as the best trilogy of all time. FotR is the third most voted movie on IMDb (only after <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/The_Shawshank_Redemption" title="wikipedia:The Shawshank Redemption">The Shawshank Redemption</a> and <a class="external text exitstitial" href="http://www.imdb.com/title/tt0468569/" rel="nofollow">The Dark Knight</a> </i>), with an average of 814,515 votes as of December 16, 2013. RotK and TTT, respectively, follow closely after.
+</p><p>Overall, The Lord of the Rings trilogy is well praised and considered by many the best trilogy of all time and the best movie (considering the trilogy as a whole unique epic) of the Twenty-First Century.
+</p>
+<h3><span class="mw-headline" id="Comparison_of_worldwide_box_office_figures">Comparison of worldwide box office figures</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=13" title="Edit Comparison of worldwide box office figures section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h3>
+<p>The following movies were all released with but a few years of each other:
+</p>
+<ul><li><i>The Lord of the Rings</i> film trilogy: $2.993 billion
+</li><li><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_films" title="wikipedia:Pirates of the Caribbean films"><i>Pirates of the Caribbean</i></a> trilogy (as of July 17, 2007): $2.650 billion
+</li><li><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Spider-Man_film_series" title="wikipedia:Spider-Man film series"><i>Spider-Man</i></a> trilogy: $2.488 billion
+</li><li><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Prequel_trilogy_(Star_Wars)" title="wikipedia:Prequel trilogy (Star Wars)"><i>Star Wars: Episodes I</i>, <i>II</i>, and <i>III</i></a>: $2.315 billion.
+</li></ul>
+<h3><span class="mw-headline" id="Facts_and_figures_about_the_trilogy">Facts and figures about the trilogy</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=14" title="Edit Facts and figures about the trilogy section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h3>
+<ul><li>Amount of film shot during production: Over 6 million feet (over 1,800 kilometers)
+</li><li>Swords, axes, shields and makeup prosthetics created: 48,000
+</li><li>Background actors cast: 20,602
+</li><li>Costumes produced by the wardrobe department: 19,000
+</li><li>New Zealand cricket fans enlisted to create the Orc army's grunts: 10,000
+</li><li>Behind-the-scenes crew members: 2,400 at the height of production
+</li><li>Pairs of prosthetic Hobbit feet created: 1,600
+</li><li>Most real horses in one scene: 250
+</li><li>Computer special-effects artists employed: 180
+</li><li>Total speaking roles: 114
+</li><li>Locations in New Zealand used as backdrops: 100
+</li><li>Tailors, cobblers, designers, et al. in the wardrobe department: 50
+</li><li>Actors trained to speak fictional dialects and languages: 30
+</li><li>Total years of development for all three films: 7
+</li><li>Combined running time of the series (extended DVD editions): 680 minutes (11 hours and 20 minutes)
+</li><li>The Lord of the Rings movies were released on DVD a few months before the Boxing day release of the next film. There were special extended edition DVDs which were much longer with four commentaries, and many documentaries.
+</li><li>The Lord of the Rings trilogy was quite successful in the United States, making the top 10 most successful movies of all time (in the box office.) Many actors in the movies including Elijah Wood and Sean Astin were from this country.
+</li></ul>
+<h3><span class="mw-headline" id="Awards_won">Awards won</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=15" title="Edit Awards won section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h3>
+<figure class="article-thumb tright show-info-icon" style="width: 180px"> <a class="image image-thumbnail" href="http://img4.wikia.nocookie.net/__cb20060223104023/lotr/images/8/80/Rotk_poster.jpg"><img alt="Rotk poster" class="thumbimage lzy lzyPlcHld " data-image-key="Rotk_poster.jpg" data-image-name="Rotk poster.jpg" data-src="http://img4.wikia.nocookie.net/__cb20060223104023/lotr/images/thumb/8/80/Rotk_poster.jpg/180px-Rotk_poster.jpg" height="251" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="180"><noscript><img alt="Rotk poster" class="thumbimage " data-image-key="Rotk_poster.jpg" data-image-name="Rotk poster.jpg" height="251" src="http://img4.wikia.nocookie.net/__cb20060223104023/lotr/images/thumb/8/80/Rotk_poster.jpg/180px-Rotk_poster.jpg" width="180"/></noscript></img></a> <figcaption> <a class="sprite info-icon" href="/wiki/File:Rotk_poster.jpg"></a> <p class="caption"><i>The Lord of the Rings: The Return of the King</i> movie poster (2003)</p> </figcaption> </figure>
+<p>The three films together were nominated for a total of 30 Academy Awards, of which they won 17, a record for any movie trilogy. On its own, <i>The Return of the King</i> tied the previous record of eleven Academy Awards and won in every category it was nominated in, an extremely rare feat. Return of the King also tied a record for the total number of Academy Awards won, 11, with <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Ben-Hur_(1959_film)" title="wikipedia:Ben-Hur (1959 film)">Ben-Hur</a> and <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Titanic_(1997_film)" title="wikipedia:Titanic (1997 film)">Titanic</a>. Although the three films failed to win any acting awards from the Academy, <a href="/wiki/Ian_McKellen" title="Ian McKellen">Ian McKellen</a> earned the series its sole Academy acting nomination for the 2001 release of The Fellowship of the Ring.
+</p>
+<ul><li><i>The Fellowship of the Ring</i> — Nominations: 13, Wins: 4 in <a class="mw-redirect" href="/wiki/2002" title="2002">2002</a>.
+</li><li><i>The Two Towers</i> — Nominations: 6, Wins: 2
+</li><li><i>The Return of the King</i> — Nominations: 11, Wins: 11 in <a class="mw-redirect" href="/wiki/2004" title="2004">2004</a>, four of which were <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Golden_Globe_Award" title="wikipedia:Golden Globe Award">Golden Globes awards</a>.
+</li></ul>
+<table class="wikitable" style="margin:left;">
+<tr>
+<th rowspan="2" style="width: 214px;"> Award
+</th><th colspan="4"> Awards Won
+</th></tr>
+<tr>
+<th style="width: 86px;">The Fellowship of the Ring
+</th><th style="width: 86px;">The Two Towers
+</th><th style="width: 86px;">The Return of the King
+</th></tr>
+<tr>
+<td> <b>Art Direction</b>
+</td><td style="background: #ddffdd"> Nomination
+</td><td style="background: #ddffdd"> Nomination
+</td><td style="background: #90ff90"> Win
+</td></tr>
+<tr>
+<td> <b>Cinematography</b>
+</td><td style="background: #90ff90"> Win
+</td><td>
+</td><td>
+</td></tr>
+<tr>
+<td> <b>Costume Design</b>
+</td><td style="background: #ddffdd"> Nomination
+</td><td>
+</td><td style="background: #90ff90"> Win
+</td></tr>
+<tr>
+<td> <b>Directing</b>
+</td><td style="background: #ddffdd"> Nomination
+</td><td>
+</td><td style="background: #90ff90"> Win
+</td></tr>
+<tr>
+<td> <b>Film Editing</b>
+</td><td style="background: #ddffdd"> Nomination
+</td><td style="background: #ddffdd"> Nomination
+</td><td style="background: #90ff90"> Win
+</td></tr>
+<tr>
+<td> <b>Makeup</b>
+</td><td style="background: #90ff90"> Win
+</td><td>
+</td><td style="background: #90ff90"> Win
+</td></tr>
+<tr>
+<td> <b>Music</b> (Original Score)
+</td><td style="background: #90ff90"> Win
+</td><td>
+</td><td style="background: #90ff90"> Win
+</td></tr>
+<tr>
+<td> <b>Music</b> (Original Song)
+</td><td style="background: #ddffdd"> Nomination "May It Be"
+</td><td>
+</td><td style="background: #90ff90"> Win "Into the West"
+</td></tr>
+<tr>
+<td> <b>Best Picture</b>
+</td><td style="background: #ddffdd"> Nomination
+</td><td style="background: #ddffdd"> Nomination
+</td><td style="background: #90ff90"> Win
+</td></tr>
+<tr>
+<td> <b>Sound Editing</b>
+</td><td>
+</td><td style="background: #90ff90"> Win
+</td><td>
+</td></tr>
+<tr>
+<td> <b>Sound Mixing</b>
+</td><td style="background: #ddffdd"> Nomination
+</td><td style="background: #ddffdd"> Nomination
+</td><td style="background: #90ff90"> Win
+</td></tr>
+<tr>
+<td> <b>Supporting Actor</b>
+</td><td style="background: #ddffdd"> Nomination <a href="/wiki/Ian_McKellen" title="Ian McKellen">Ian McKellen</a>
+</td><td>
+</td><td>
+</td></tr>
+<tr>
+<td> <b>Visual Effects</b>
+</td><td style="background: #90ff90"> Win
+</td><td style="background: #90ff90"> Win
+</td><td style="background: #90ff90"> Win
+</td></tr>
+<tr>
+<td> <b>Writing</b> (Previously Produced or Published)
+</td><td style="background: #ddffdd"> Nomination
+</td><td>
+</td><td style="background: #90ff90"> Win
+</td></tr></table>
+<p>As well as Academy Awards, each film of the trilogy scored <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/MTV_Movie_Awards" title="wikipedia:MTV Movie Awards">MTV Movie Awards</a>' Best Film, and the <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Hugo_Awards" title="wikipedia:Hugo Awards">Hugo Awards</a> for Best Dramatic Presentation categories. The first and third films also won the Best Film <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/BAFTA" title="wikipedia:BAFTA">BAFTAs</a>. It must also be noted that the soundtrack for the Two Towers did not receive a nomination because of the rule prohibiting a soundtrack including music from a previous soundtrack to be eligible for nomination. This rule was overturned in time for <i>The Return of the King</i> to receive the Oscar for Best Music Score.
+</p>
+<h3><span class="mw-headline" id="Reactions_to_changes_in_the_movies_from_the_book">Reactions to changes in the movies from the book</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=16" title="Edit Reactions to changes in the movies from the book section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h3>
+<p>While the films were generally well received, some readers of the book decried certain changes made in the adaptation, including changes in tone and themes; various changes made to characters such as <a class="mw-redirect" href="/wiki/Aragorn" title="Aragorn">Aragorn</a>, <a href="/wiki/Arwen" title="Arwen">Arwen</a>, <a class="mw-redirect" href="/wiki/Denethor" title="Denethor">Denethor</a>, <a href="/wiki/Faramir" title="Faramir">Faramir</a> and Gimli, as well as to the main protagonist <a href="/wiki/Frodo_Baggins" title="Frodo Baggins">Frodo</a> himself; changes made to events (such as the Elves participating at the <a href="/wiki/Battle_of_the_Hornburg" title="Battle of the Hornburg">Battle of Helm's Deep</a>, and Faramir taking the hobbits to <a href="/wiki/Osgiliath" title="Osgiliath">Osgiliath</a>); and the deletion of the penultimate chapter of Tolkien's work, "<a href="/wiki/The_Scouring_of_the_Shire" title="The Scouring of the Shire">The Scouring of the Shire</a>", a part he felt thematically necessary. For example, <a href="/wiki/Wayne_Hammond" title="Wayne Hammond">Wayne G. Hammond</a>, a noted <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Tolkien_research" title="wikipedia:Tolkien research">Tolkien scholar</a>, has said of the first two films:
+</p><p><br/>
+</p>
+<dl><dd>"<i>"</i>I find both of the Jackson films to be travesties as adaptations... faithful only on a basic level of plot... Cut and compress as necessary, yes, but don't change or add new material without very good reason... In the moments in which the films succeed, they do so by staying close to what Tolkien so carefully wrote; where they fail, it tends to be where they diverge from him, most seriously in the area of characterization. Most of the characters in the films are mere shadows of those in the book, weak and diminished (notably Frodo) or insulting caricatures (Pippin, Merry, and Gimli)... [T]he filmmakers sacrifice the richness of Tolkien's story and characters, not to mention common sense, for violence, cheap humor, and cheaper thrills... [S]o many of its reviewers have praised it as faithful to the book, or even superior to it, all of which adds insult to injury and is demonstrably wrong...'<b>"</b>
+</dd><dd>—Wayne Hammond
+</dd></dl>
+<p>Some fans of the book who disagreed with such changes have released their <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/fan_edit" title="wikipedia:fan edit">fan edits</a> of the films, which removed many of the changes to bring them closer to the original. The theatrical version of <i><a href="/wiki/The_Two_Towers:_The_Purist_Edit" title="The Two Towers: The Purist Edit">The Lord of the Rings: The Two Towers</a></i> has received this treatment, and a combined 8-hour version of the trilogy exists, called "<a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/The_Two_Towers:_The_Purist_Edit" title="wikipedia:The Two Towers: The Purist Edit">The Lord of the Rings: The Purist Edition</a>".
+Supporters of the film trilogy assert that it is a worthy interpretation of the book, most changes stemming from the filmmakers putting the book into a modern context; connected to this is their perceived need for developing characters further. It is important to note that many who worked on the trilogy are fans of the book, including <a class="mw-redirect" href="/wiki/Christopher_Lee" title="Christopher Lee">Christopher Lee</a>, who alone among the cast had actually met Tolkien in person, and Boyens once noted that no matter what, it is simply their interpretation of the book. Jackson once said that to simply summarise the story on screen would be a mess, and in his own words, "<i>Sure, it's not really The Lord of the Rings... but it could still be a pretty damn cool movie.</i>" Other fans also claim that despite any changes, they do not matter within the context of stand-alone films, and nonetheless they serve as a tribute to the book and yet appeal to those who have not read it, and even lead some to. The Encyclopedia of Arda's Movie Guide states:
+</p><p><br/>
+</p>
+<dl><dd>"<i>"</i>It seems appropriate to end with a word of acknowledgement of Peter Jackson and everyone else associated with the movie version of The Lord of the Rings. However, of course, they haven't come close to the scope and intricacy of the original story that would be quite impossible; what they have produced is still nothing less than a masterpiece. The film-makers, and of course Peter Jackson in particular, have to be admired merely for having the courage to take on such an immense challenge, let alone to produce such an exceptional result. The complete story of The Lord of the Rings is probably unfilmable, but Peter Jackson has come closer than anyone could have imagined possible.<i>"</i>"
+</dd><dd>—Encyclopedia of Arda's Movie Guide
+</dd></dl>
+<h3><span class="mw-headline" id="Three_films_or_one.3F">Three films or one?</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=17" title="Edit Three films or one? section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h3>
+<p>Because the films were shot together and then edited into three separate films released theatrically over a span of three successive years, a significant number of fans and critics have come to regard the trilogy as a single film. They argue that as with the book, which was meant to be a single novel but was first released in three parts for marketing and budget reasons (leading to the common but erroneous label of "trilogy"); Jackson's trilogy is one long 10-hour film. When <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Time_magazine" title="wikipedia:Time magazine">Time magazine</a> placed the trilogy in its <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Time_magazine_top_100" title="wikipedia:Time magazine top 100">top 100 list</a> it was done under a single heading.
+</p>
+<h3><span class="mw-headline" id="Legacy">Legacy</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=18" title="Edit Legacy section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h3>
+<p>The release of the films saw a surge of interest in <i>The Lord of the Rings</i> and Tolkien's other works, vastly increasing his impact on popular culture. For example, in 2003, the BBC conducted a poll to find the U.K.'s favourite book, and <i>The Lord of the Rings</i> won, at the height of anticipation for the third film. Despite higher sales, it was rumoured that the Tolkien family became split on the trilogy, with <a href="/wiki/Christopher_Tolkien" title="Christopher Tolkien">Christopher Tolkien</a> and <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Simon_Tolkien" title="wikipedia:Simon Tolkien">Simon Tolkien</a> feuding over whether or not it was a good idea to adapt. Christopher Tolkien has since denied these claims saying, "My own position is that <i>The Lord of the Rings</i> is peculiarly unsuitable to transformation into visual dramatic form. The suggestions that have been made that I 'disapprove' of the films, vent to the extent of thinking ill of those with whom I may differ, are wholly without foundation." He added that he had never "expressed any such feeling". Capitalizing on the trilogy's success, a musical adaptation of the book was launched in Toronto in 2006, but it closed after mostly poor reviews. The success of the films has also spawned the production of video games and many other kinds of merchandise.
+</p><p>Jackson has become his own mogul like <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Steven_Spielberg" title="wikipedia:Steven Spielberg">Steven Spielberg</a>, and has befriended some industry heavyweights like <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Bryan_Singer" title="wikipedia:Bryan Singer">Bryan Singer</a>, <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Frank_Darabont" title="wikipedia:Frank Darabont">Frank Darabont</a> and <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/James_Cameron" title="wikipedia:James Cameron">James Cameron</a>. He founded his own film production company <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Wingnut_Films" title="wikipedia:Wingnut Films">Wingnut Films</a>, and <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Wingnut_Interactive" title="wikipedia:Wingnut Interactive">Wingnut Interactive</a>, a video game company. He was also finally given a chance to remake <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/King_Kong_(2005_film)" title="wikipedia:King Kong (2005 film)">King Kong</a></i> in 2005; although it was not as successful, it nevertheless still received critical acclaim. On a personal level, he found it hard to leave the trilogy and still keeps the Bag End set (as a guesthouse) and Rivendell miniatures. He has also become a "favourite son" of New Zealand. Howard Shore also found leaving difficult, and in 2004 toured with <i>The Lord of the Rings Symphony</i>, consisting of two hours of the score.
+</p><p>The trilogy has also renewed interest in the fantasy film genre. Around the same time, fellow New Zealand director <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Andrew_Adamson" title="wikipedia:Andrew Adamson">Andrew Adamson</a> began <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/The_Chronicles_of_Narnia_(film_series)" title="wikipedia:The Chronicles of Narnia (film series)">The Chronicles of Narnia<i> film series</i></a>, credited by many to be stylistically influenced by <i>The Lord of the Rings</i>, being also shot in <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> and having art direction from Weta Workshop, as well as its own extended edition. <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/MGM" title="wikipedia:MGM">MGM</a> wishes to make an adaptation of <i><a href="/wiki/The_Hobbit" title="The Hobbit">The Hobbit</a></i> in co-operation with <a href="/wiki/New_Line_Cinema" title="New Line Cinema">New Line Cinema</a>, although Jackson is not signed on due to a dispute with the studio.
+</p><p><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Motion_capture" title="wikipedia:Motion capture">Motion capture</a> was used for characters in <i>King Kong</i>, <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/I,_Robot_(film)" title="wikipedia:I, Robot (film)">I, Robot</a></i> and <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest" title="wikipedia:Pirates of the Caribbean: Dead Man's Chest">Pirates of the Caribbean</a></i>. <i><a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Kingdom_of_Heaven_(film)" title="wikipedia:Kingdom of Heaven (film)">Kingdom of Heaven</a></i> is one of many epics to use the <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Massive_(software)" title="wikipedia:Massive (software)">MASSIVE</a> technology. In non-filmic terms, tourism for <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> is up, possibly due to its exposure in the trilogy, with the tourism industry in the country waking up to an audience's familiarity.
+</p><p>In summary, The Lord of the Rings film trilogy is a myth on its own, and will perhaps be a major influence upon other films in the future.
+</p>
+<table border="0" cellpadding="3" cellspacing="3" class="bg-Shade" style="margin: 0 auto; border: 1px solid darkgray; background: #E0E0E0;">
+<tr>
+<td> <a class="image image-thumbnail" href="http://img2.wikia.nocookie.net/__cb20141012060007/lotr/images/1/14/Small_Wikipedia_logo.png"><img alt="Small Wikipedia logo" class="lzy lzyPlcHld " data-image-key="Small_Wikipedia_logo.png" data-image-name="Small Wikipedia logo.png" data-src="http://img2.wikia.nocookie.net/__cb20141012060007/lotr/images/1/14/Small_Wikipedia_logo.png" height="35" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="35"><noscript><img alt="Small Wikipedia logo" class="" data-image-key="Small_Wikipedia_logo.png" data-image-name="Small Wikipedia logo.png" height="35" src="http://img2.wikia.nocookie.net/__cb20141012060007/lotr/images/1/14/Small_Wikipedia_logo.png" width="35"/></noscript></img></a>
+</td><td> This page uses content from <a class="external text exitstitial" href="http://www.wikipedia.org"><b>Wikipedia</b></a>. The original article was at <a class="extiw exitstitial" href="http://en.wikipedia.org/wiki/Lord_of_the_Rings_movie_trilogy" title="wikipedia:Lord of the Rings movie trilogy">Lord of the Rings movie trilogy</a>. The list of authors can be seen in the <a class="external text exitstitial" href="http://en.wikipedia.org/w/index.php?title=Lord+of+the+Rings+movie+trilogy&amp;action=history"><b>page history</b></a>. As with <a href="/wiki/LOTR:About" title="LOTR:About">The One Wiki to Rule Them All</a>, the text of Wikipedia is available under the <a class="external text exitstitial" href="http://creativecommons.org/licenses/by-sa/3.0/%7CCreative" rel="nofollow">Commons Attribution-Share Alike</a> license.
+</td></tr></table>
+<p><br/>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=19" title="Edit See also section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<ul><li><a href="/wiki/The_Fellowship_of_the_Ring_(film)" title="The Fellowship of the Ring (film)">The Fellowship of the Ring</a>
+</li><li><i><a href="/wiki/The_Two_Towers_(film)" title="The Two Towers (film)">The Two Towers</a></i>
+</li><li><i><a href="/wiki/The_Return_of_the_King_(film)" title="The Return of the King (film)">The Return of the King</a></i>
+</li><li><a href="/wiki/Peter_Jackson" title="Peter Jackson">Peter Jackson</a>
+</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="editsection"><a href="/wiki/Lord_of_the_Rings_film_trilogy?action=edit&amp;section=20" title="Edit External links section"><img class="sprite edit-pencil" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D"/>Edit</a></span></h2>
+<ul><li><a class="external text exitstitial" href="http://www.lordoftherings.net" rel="nofollow">Official site of the films</a>
+</li><li><a class="image image-thumbnail" href="http://img2.wikia.nocookie.net/__cb20110413000805/lotr/images/d/d3/Tolkien_Gateway_favicon.png"><img alt="Tolkien Gateway favicon" class="lzy lzyPlcHld " data-image-key="Tolkien_Gateway_favicon.png" data-image-name="Tolkien Gateway favicon.png" data-src="http://img2.wikia.nocookie.net/__cb20110413000805/lotr/images/d/d3/Tolkien_Gateway_favicon.png" height="16" onload="if(typeof ImgLzy==='object'){ImgLzy.load(this)}" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="16"><noscript><img alt="Tolkien Gateway favicon" class="" data-image-key="Tolkien_Gateway_favicon.png" data-image-name="Tolkien Gateway favicon.png" height="16" src="http://img2.wikia.nocookie.net/__cb20110413000805/lotr/images/d/d3/Tolkien_Gateway_favicon.png" width="16"/></noscript></img></a> <span class="plainlinks"><a class="external text exitstitial" href="http://www.tolkiengateway.net/wiki/The_Lord_of_the_Rings:_The_Motion_Picture_Trilogy" rel="nofollow">The Lord of the Rings: The Motion Picture Trilogy</a></span> at <span class="plainlinks"><a class="external text exitstitial" href="http://www.tolkiengateway.net/" rel="nofollow">Tolkien Gateway</a></span>
+</li><li><a class="external text exitstitial" href="http://artsandfaith.com/t100/2005/entry.php?film=109" rel="nofollow"><i>The Lord of the Rings</i> film trilogy</a> at the *<a class="external text exitstitial" href="http://artsandfaith.com/top100/" rel="nofollow">Arts &amp; Faith Top100 Spiritually Significant Films</a> list
+</li></ul>
+<!-- 
+NewPP limit report
+Preprocessor node count: 292/300000
+Post‐expand include size: 8687/2097152 bytes
+Template argument size: 2941/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<!-- Saved in parser cache with key lotr:pcache:idhash:2978-0!*!0!!en!2!* -->
+<noscript><link href="http://slot1.images.wikia.nocookie.net/__cb1423474000/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" rel="stylesheet"/></noscript><noscript><link href="http://slot1.images.wikia.nocookie.net/__cb1423474000/common/extensions/wikia/TOCimprovements/TOCNoScript.css" rel="stylesheet"/></noscript></div><div class="printfooter">
+Retrieved from "<a href="http://lotr.wikia.com/wiki/Lord_of_the_Rings_film_trilogy?oldid=152982">http://lotr.wikia.com/wiki/Lord_of_the_Rings_film_trilogy?oldid=152982</a>"</div>
+</div>
+<nav class="article-categories CategorySelect articlePage userCanEdit" id="articleCategories">
+<div class="container">
+<div class="special-categories"><a class="categoriesLink" href="/wiki/Special:Categories" rel="nofollow" title="Special:Categories">Categories</a>:</div>
+<ul class="categories">
+<li class="category normal" data-name="Real World" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Real_World" title="Category:Real World">Real World</a></span>
+<ul class="toolbar">
+<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+</ul>
+</li>
+<li class="category normal" data-name="Movies" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Movies" title="Category:Movies">Movies</a></span>
+<ul class="toolbar">
+<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+</ul>
+</li>
+<li class="category normal" data-name="Films directed by Peter Jackson" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Films_directed_by_Peter_Jackson" title="Category:Films directed by Peter Jackson">Films directed by Peter Jackson</a></span>
+<ul class="toolbar">
+<li class="tool editCategory venus-icon-edit-large sprite-small edit" title=""></li>
+<li class="tool removeCategory venus-icon-cross-negative sprite-small delete" title=""></li>
+</ul>
+</li>
+<li class="last">
+<button class="wikia-button secondary add" id="CategorySelectAdd" type="button">Add category</button>
+<input autocomplete="off" class="input" id="CategorySelectInput" name="CategorySelectInput" placeholder="Add category..." type="text"> </input></li>
+</ul>
+</div>
+<div class="toolbar">
+<button class="wikia-button secondary cancel" id="CategorySelectCancel" type="button">Cancel</button>
+<button class="wikia-button save" disabled="disabled" id="CategorySelectSave" type="button">Save</button>
+</div>
+</nav>
+<nav class="WikiaArticleInterlang">
+<h3>Languages: </h3>
+<ul>
+<li><a href="http://de.lotr.wikia.com/wiki/Der_Herr_der_Ringe_Filmtrilogie_(2001-2003)">Deutsch</a></li>
+<li><a href="http://esdla.wikia.com/wiki/Trilog%C3%ADa_cinematogr%C3%A1fica_de_El_Se%C3%B1or_de_los_Anillos">Español</a></li>
+<li><a href="http://ru.lotr.wikia.com/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%B8%D0%BD_%D0%BA%D0%BE%D0%BB%D0%B5%D1%86_(%D0%BA%D0%B8%D0%BD%D0%BE%D1%82%D1%80%D0%B8%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)">Русский</a></li>
+<li><a href="http://pl.lotr.wikia.com/wiki/W%C5%82adca_Pier%C5%9Bcieni_(film)">Polski</a></li>
+<li><a href="http://it.lotr.wikia.com/wiki/Trilogia_del_Signore_degli_Anelli">Italiano</a></li>
+<li><a href="http://terramedia.wikia.com/wiki/O_Senhor_dos_An%C3%A9is_(filme)">Português do Brasil</a></li>
+</ul>
+</nav>
+
+<div class="WikiaArticleFooter" id="WikiaArticleFooter">
+<div id="RelatedPagesModuleWrapper"></div> </div>
+<div class="noprint" id="WikiaArticleBottomAd">
+<!-- BEGIN SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<div class="wikia-ad noprint default-height" id="PREFOOTER_LEFT_BOXAD">
+
+</div>
+<!-- END SLOTNAME: PREFOOTER_LEFT_BOXAD -->
+<!-- BEGIN SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+<div class="wikia-ad noprint default-height" id="PREFOOTER_RIGHT_BOXAD">
+
+</div>
+<!-- END SLOTNAME: PREFOOTER_RIGHT_BOXAD -->
+</div>
+</div>
+</article><!-- WikiaMainContent -->
+<div class="WikiaRail" id="WikiaRail">
+<!-- BEGIN SLOTNAME: TOP_RIGHT_BOXAD -->
+<div class="wikia-ad noprint default-height" id="TOP_RIGHT_BOXAD">
+
+</div>
+<!-- END SLOTNAME: TOP_RIGHT_BOXAD -->
+<div class="loading"></div>
+</div>
+<footer class="WikiaFooter notoolbar" id="WikiaFooter">
+<!-- BEGIN SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<div class="wikia-ad noprint default-height" id="LEFT_SKYSCRAPER_3">
+
+</div>
+<!-- END SLOTNAME: LEFT_SKYSCRAPER_3 -->
+<section>
+<div class="header-container">
+<h1>Around Wikia's network</h1>
+<a class="wikia-button" href="http://community.wikia.com/wiki/Special:RandomWiki/159" id="WikiaRandomWiki">Random Wiki</a>
+</div>
+
+<ul class="LazyLoadAd SPOTLIGHT_FOOTER" id="SPOTLIGHT_FOOTER">
+<li class="WikiaSpotlight item-1" id="SPOTLIGHT_FOOTER_1"></li>
+<li class="WikiaSpotlight item-2" id="SPOTLIGHT_FOOTER_2"></li>
+<li class="WikiaSpotlight item-3" id="SPOTLIGHT_FOOTER_3"></li>
+</ul>
+</section>
+</footer>
+<footer class="global-footer row">
+<nav>
+<div class="branding vertical-books black">
+<a class="wikia-logo" href="http://bookshub.wikia.com/wiki/Books_Hub">
+<img src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D">
+<span>Books</span>
+</img></a>
+</div>
+<ul>
+<li>
+<a href="http://www.wikia.com/About"><span>About</span></a>
+</li>
+<li>
+<a href="http://community.wikia.com"><span>Community Central</span></a>
+</li>
+<li>
+<a href="http://www.wikia.com/Careers">Careers</a>
+</li>
+<li>
+<a href="http://www.wikia.com/Advertising">Advertise</a>
+</li>
+<li>
+<a href="http://api.wikia.com/"><span>API</span></a>
+</li>
+<li>
+<a href="/wiki/Special:Contact">Contact Wikia</a>
+</li>
+<li>
+<a href="http://www.wikia.com/Terms_of_Use">Terms of Use</a>
+</li>
+<li>
+<a href="http://www.wikia.com/Privacy_Policy">Privacy Policy</a>
+</li>
+<li>
+					Content is available under <a href="http://www.wikia.com/Licensing" title="homepage:Licensing">CC-BY-SA</a>.				</li>
+</ul>
+</nav>
+</footer>
+</div>
+</section><!--WikiaPage-->
+<div id="WikiaBar">
+<div class="WikiaBarWrapper hidden" id="WikiaBarWrapper">
+<div class="wikia-bar wikia-bar-anon">
+<a class="arrow" data-tooltip="Collapse" data-tooltipshow="Show" href="#"></a>
+<div class="ad">
+<div class="noprint" id="WIKIA_BAR_BOXAD_1" style="width: 300px; position: relative;"></div>
+</div>
+<div class="message" data-messagetooltip="Click here for more information!" data-wikiabarcontent='[{"text":"Sign up for a Block N Load Beta Code!","href":"http:\/\/ow.ly\/HAB5Q"},{"text":"Sign up for a Block N Load Beta Code!","href":"http:\/\/ow.ly\/HAB5Q"},{"text":"Sign up for a Block N Load Beta Code!","href":"http:\/\/ow.ly\/HAB5Q"},{"text":"Sign up for a Block N Load Beta Code!","href":"http:\/\/ow.ly\/HAB5Q"},{"text":"Sign up for a Block N Load Beta Code!","href":"http:\/\/ow.ly\/HAB5Q"}]'></div>
+<a class="wikiabar-button" data-index="0" href="http://www.wikia.com/Entertainment">
+<img class="icon cup" src="http://slot1.images.wikia.nocookie.net/__cb1423474000/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png"/>
+<span>Entertainment</span>
+</a>
+<a class="wikiabar-button" data-index="1" href="http://www.wikia.com/Video_Games">
+<img class="icon cup" src="http://slot1.images.wikia.nocookie.net/__cb1423474000/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png"/>
+<span>Video Games</span>
+</a>
+<a class="wikiabar-button" data-index="2" href="http://www.wikia.com/Lifestyle">
+<img class="icon cup" src="http://slot1.images.wikia.nocookie.net/__cb1423474000/common/extensions/wikia/WikiaBar/images/wikiabarIcon.png"/>
+<span>Lifestyle</span>
+</a>
+</div>
+</div>
+<div class="WikiaBarCollapseWrapper">
+<a class="wikia-bar-collapse" data-tooltip="Collapse" href="#"></a>
+</div>
+</div>
+<!-- BEGIN SLOTNAME: GPT_FLUSH -->
+<div class="wikia-ad noprint default-height" id="GPT_FLUSH">
+
+</div>
+<!-- END SLOTNAME: GPT_FLUSH -->
+<!-- BEGIN SLOTNAME: INVISIBLE_1 -->
+<div class="wikia-ad noprint default-height" id="INVISIBLE_1">
+
+</div>
+<!-- END SLOTNAME: INVISIBLE_1 -->
+<!-- BEGIN SLOTNAME: INVISIBLE_2 -->
+<div class="wikia-ad noprint default-height" id="INVISIBLE_2">
+
+</div>
+<!-- END SLOTNAME: INVISIBLE_2 -->
+<!-- BEGIN SLOTNAME: SEVENONEMEDIA_FLUSH -->
+<div class="wikia-ad noprint default-height" id="SEVENONEMEDIA_FLUSH">
+
+</div>
+<!-- END SLOTNAME: SEVENONEMEDIA_FLUSH -->
+</div>
+<!--[if lt IE 8]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1423474000/common/resources/wikia/libraries/json2/json2.js"></script>
+	<![endif]-->
+<!--[if lt IE 9]>
+		<script src="http://slot1.images.wikia.nocookie.net/__cb1423474000/common/resources/wikia/libraries/html5/html5.min.js"></script>
+	<![endif]-->
+<!-- Combined JS files and head scripts -->
+<!-- Liftium options -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

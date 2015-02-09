@@ -1,0 +1,13 @@
+Title: The Lord of the Rings: The Fellowship of the Ring (2001) - IMDb
+Date: Mon, 09 Feb 2015 20:42:34 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYh0fh4jAV9cf93-R7Mpf2x-BcCL53_90NQPK5GnvFNAKz8qgcsCF5x41PoGF-5-GmZZiiqUspk%0D%0AWRyKWNUmzsAqgLSf8P00QTeFMONCsiuf70Qy-QMGIqgVQEYDoihxMg-AzSsnaiOeudQVCa3UAWLC%0D%0AKWEyTIHrOLy6ho2PIXGyngWFpWhHR62UicBaOPpACllM4JK5e31uZxYsFhK-K122tdr6sg31gEcM%0D%0A4upreP6pvM4hH-tYh52clJOfKJt9fhp8BgAXSRfIXGFlR3Fh4rcyeg%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:41 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:41 GMT; Path=/
+Set-Cookie: session-id-time=1581194554; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:41 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

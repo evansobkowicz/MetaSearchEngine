@@ -1,0 +1,156 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>The Catcher in the Rye Challenge — CKSF.ORG - Blog</title>
+<meta content="Mango 1.7" name="generator"/>
+<meta content="A blog on scholarship news, financial aid information, college orientation and issues that affects High School, College and Parents." name="description"/>
+<link href="/skins/cksf/assets/styles/master.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="/skins/cksf/assets/styles/style.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="/skins/cksf/assets/styles/custom.css" media="screen" rel="stylesheet" type="text/css"/>
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" href="/skins/cksf/assets/styles/ie7.css" media="screen" />
+	<![endif]-->
+<!--[if lte IE 6]>
+	<link rel="stylesheet" type="text/css" href="/skins/cksf/assets/styles/ie6.css" media="screen" />
+	<![endif]-->
+<meta content="index, follow" name="robots"/>
+<link href="http://blog.cksf.org/feeds/atom.cfm" rel="alternate" title="Atom" type="application/atom+xml"/>
+<link href="http://blog.cksf.org/feeds/rss.cfm" rel="alternate" title="RSS 2.0" type="application/rss+xml"/>
+<link href="http://blog.cksf.org/api" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="/assets/plugins/colorcoding/style.css" rel="stylesheet" type="text/css"/>
+<link href="/assets/plugins/Lightbox2/lightbox.css" media="screen" rel="stylesheet" type="text/css"/>
+
+
+
+
+<style>#prevLink:hover, #prevLink:visited:hover { background: url(/assets/plugins/lightbox2/prevlabel.gif) left 15% no-repeat; }#nextLink:hover, #nextLink:visited:hover { background: url(/assets/plugins/lightbox2/nextlabel.gif) right 15% no-repeat; }</style>
+</head>
+<body class="custom">
+<div id="outerWrapper">
+<div id="innerWrapper">
+<div id="header">
+<div id="mainLogo"><a href="default.cfm"><img alt="Common Knowledge Scholarship Foundation" src="/skins/cksf/assets/images/cksf-logo.gif"/></a></div>
+<div id="headerLogin">
+<form action="/skins/cksf/loginRedirect.cfm" class="headerLoginForm" method="POST" name="LoginForm">
+<fieldset>
+<div>
+<label for="Username">Username:</label> <input class="headerLoginInput" name="username" required="" type="text"/>
+</div>
+<div>
+<label for="Password">Password:</label> <input class="headerLoginInput" name="password" required="" type="password"/>
+</div>
+</fieldset>
+<a href="index.cfm?Page=CKSF_Rules"><img alt="Register" height="20" src="/skins/cksf/assets/images/header-login-register.gif" width="45"/></a>
+<input class="loginBtn" src="/skins/cksf/assets/images/login-btn.gif" type="image"/>
+</form>
+</div>
+<div id="shareLinkContainer">
+<a href="https://www.facebook.com/pages/Common-Knowledge-Scholarship-Foundation/233253670042128 " target="_blank"><img alt="Facebook" height="31" src="/skins/cksf/assets/images/facebook-btn.gif" width="31"/></a>
+<a href="http://twitter.com//ck_scholarships" target="_blank"><img alt="Twitter" height="30" src="/skins/cksf/assets/images/twitter-btn.gif" width="30"/></a>
+<a href="http://www.youtube.com/user/CKScholarships?feature=mhee" target="_blank"><img alt="You Tube" height="31" src="/skins/cksf/assets/images/youTube-btn.gif" width="31"/></a>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FCommon-Knowledge-Scholarship-Foundation%2F233253670042128&amp;send=false&amp;layout=standard&amp;width=31&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35&amp;appId=136458976384604" style="border:none; overflow:hidden; width:53px; height:31px;"></iframe>
+</div>
+</div>
+<div id="topNav">
+<ul id="menu">
+<li><a href="http://www.cksf.org/default.cfm">Home</a></li>
+<li><a href="http://www.cksf.org/index.cfm?Page=Scholarships">Scholarships</a></li>
+<li><a href="http://cksf-results.com/" target="_blank">Results</a></li>
+<li><a href="http://www.cksf.org/index.cfm?Page=Students_Parents">Students &amp; Parents</a></li>
+<li><a href="http://tuitionback.org/page.cfm/tuition-back-scholarships">Tuition Back Scholarships</a></li>
+<li><a href="http://www.cksf.org/cksf-store/index.cfm" target="_blank">CKSF Store</a></li>
+</ul>
+</div>
+<br/>
+<ul id="nav">
+<li><a href="/">front page</a></li>
+<li><a href="/page.cfm/archives" title="Archives">
+                    Archives</a></li>
+<li><a href="/page.cfm/cheat-sheet" title="Cheat Sheet">
+                    Cheat Sheet</a></li>
+<li><a href="/page.cfm/scholarships" title="Scholarship">
+                    Scholarship</a></li>
+</ul>
+<div id="content_box">
+<div class="pages" id="content_adPage">
+<h2>The Catcher in the Rye Challenge</h2>
+<p class="breadcrumb"> <a href="/page.cfm/scholarships" title="Scholarship">Scholarship</a> &gt; The Catcher in the Rye Challenge  </p>
+<div class="entry"><h4><strong style="font-size: 1.2em;">About the Scholarship<a href="http://astore.amazon.com/commoknowls07-20/detail/0316769487" target="_blank"><img alt="" src="http://blog.cksf.org/assets/content/rye_catcher.jpg" style="width: 200px; height: 279px; float: right; margin: 10px;"/></a></strong></h4>
+<hr/>
+<p>CKSF's The Catcher in the Rye Challenge provides people, of all ages, a chance to win a scholarship by taking several online quizzes based off of J. D. Salinger's <a href="http://astore.amazon.com/commoknowls07-20/detail/0316769487" target="_blank"><u><em>The Catcher in the Rye</em></u></a>.</p>
+<h4><strong>Eligibility</strong></h4>
+<hr/>
+<p>Anyone in the United States  </p>
+<h4><strong>Awards</strong></h4>
+<hr/>
+<p>Electronic Amazon gift cards will be awarded to the top ten scorers.</p>
+<table border="0" cellpadding="1" cellspacing="1" style="width: 300px;">
+<tbody>
+<tr>
+<td>1st - $50</td>
+<td>2nd - $30</td>
+</tr>
+<tr>
+<td>3rd - $25</td>
+<td>4th - $20</td>
+</tr>
+<tr>
+<td>5th - $20</td>
+<td>6th - $15</td>
+</tr>
+<tr>
+<td>7th - $10</td>
+<td>8th - $10</td>
+</tr>
+<tr>
+<td>9th - $10</td>
+<td>10th - $10</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h4><strong>How it Works</strong></h4>
+<hr/>
+<p>Participants must register with <a href="http://www.cksf.org/" target="_blank">CKSF</a> to take the scholarship quizzes. The Challenge Round is split up into 4 quizzes. Scores from each quiz are added together for each participant and the top 25% of scorers will be advanced to the Championship Round. The top ten scorers at the end of the Championship Round will receive electronic Amazon gift cards.</p>
+<h4><strong><strong>Quiz Dates</strong></strong></h4>
+<hr/>
+<p><b>Challenge Round:</b><br/>
+Quiz 1 (Chapters 1-7): 8/4/2013 - 9/1/2013<br/>
+Quiz 2 (Chapters 8-14): 8/11/2013 - 9/1/2013<br/>
+Quiz 3 (Chapters 15-20): 8/18/2013 - 9/1/2013<br/>
+Quiz 4 (Chapters 21-26): 8/25/2013 - 9/1/2013<br/>
+<i>Top 25% of scorers advance to the Championship Round</i></p>
+<p><b>Championship Round:</b> 9/4/2013 - 9/6/2013</p>
+<h4><strong><strong>Quiz Details</strong></strong></h4>
+<hr/>
+<p>To participate, you must register with the Common Knowledge Scholarship Foundation at www.cksf.org. For all CKSF scholarship quizzes, 500 points are awarded  for each correct answer and 1 point is deducted for each second taken to complete a question. Results are available immediately to each participant and the overall ranking is available within three hours under the "Results" tab at www.cksf.org. </p>
+<p></p>
+</div>
+<div class="entry-footer entry">
+</div>
+<p class="tagged"></p>
+<div class="clear"></div>
+<div id="comments">
+</div> <!-- Close #comments container -->
+<div class="clear flat"></div>
+</div>
+<div id="sidebar_adPage">
+
+
+</div>
+</div>
+<div id="footer">
+<p>Common Knowledge Scholarship Foundation, Inc. P.O. Box 290361 Davie Fl, 33329-0361.(c) 2001- 2011 Common Knowledge Scholarship Foundation, Inc.
+All rights reserved.<br/>
+Developed and administered at Nova Southeastern University, the Common Knowledge Scholarship Foundation (CKSF) is a 501(c)(3) nonprofit organization<br/>  and a member of the National Scholarship Providers Association (NSPA).
+</p>
+</div><!--End of footer-->
+</div><!--End of Inner Wrapper-->
+</div><!--End of Outer Wrapper-->
+
+
+</body>
+</html>

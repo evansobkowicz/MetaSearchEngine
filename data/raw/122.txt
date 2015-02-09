@@ -1,0 +1,448 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/specialsPage-v2.dwt.aspx" codeOutsideHTMLIsLocked="true" -->
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title id="TitleID">The Da Vinci Code: A Biblical Response -- CBN.com</title>
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<!-- #BeginEditable "description" -->
+<meta content="The Da Vinci Code: A Biblical Response -- CBN.com" name="description">
+<!-- #EndEditable -->
+<!-- #BeginEditable "keywords" -->
+<meta content="The Da Vinci Code, Da Vinci Code, Dan Brown, Ben Witherington, Jesus Christ, Jesus, Intervarsity Press, Christian, history, Holy Grail, Mary Magdalene, Bible, Scripture, Robert Langdon, religious, symbologist, The Last Supper, Church History, God, Father, Son, Holy Spirit, faith, error, philosophy, novel, religion, history, historical, fiction, canonical Gospels, canon, Matthew, Mark, Luke, John, Gnosticism, Gnostic Gospels, Constantine, Roman Catholic, Church, Old Testament, New Testament, Council of Nicaea, Emperor, Dead Sea Scrolls, Nag Hammadi, Shekinah glory, sacred feminine, female, deity, Creator God, Spirit, Greco-Roman, Rome, Baal, Magna Mater, fertility, goddess, The Louvre, Paris, movie, movies, Tom Hanks, Ron Howard, Ian McKellen, Leonardo Da Vinci, Alfred Molina, Paul Bettany, Jean Reno, Audrey Tautou, Sony Pictures, Sir Leigh Teabing, Roman Catholic Church, Catholic, Catholocism, heresy, blasphemy, blasphemous, Sophie Neveu, Bishop Aringarosa, Knights Templar, Mona Lisa, Andr Vernet, Silas, Bezu Fache, Imagine Entertainment, The Vitruvian Man, controversy, apologetics, defend the faith" name="keywords">
+<!-- #EndEditable -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="NV255" id="WTsv" name="WT.sv"/>
+<link href="/noindex/template/layout.css" rel="stylesheet" type="text/css"/>
+<link href="/noindex/template/touts.css" rel="stylesheet" type="text/css"/>
+<link href="/noindex/template/styles.css" rel="stylesheet" type="text/css"/>
+<link href="/Global/App_Themes/Social/Dashboard.css" rel="stylesheet" type="text/css"/>
+<link href="/Global/App_Themes/Default/jquery.pager.css" rel="stylesheet" type="text/css"/>
+<link href="/Global/App_Themes/Default/comments.css" rel="stylesheet" type="text/css"/>
+<!-- special ... -1 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/scripts/biblereferencer/styles.css" rel="stylesheet" type="text/css"/>
+
+
+</meta></meta></meta></head></html>
+<link href="/templates/common/special-styles.css" rel="stylesheet" type="text/css">
+<!-- #BeginEditable "head" -->
+<link href="/special/DaVinciCode/DaVinciCode-styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+-->
+</style>
+<!-- #EndEditable -->
+</link></link>
+<body id="BodyID">
+<div id="specialWrapper">
+<div id="specialHeader">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr valign="middle">
+<td align="center">
+<!------ OAS AD 'Top' begin ------>
+
+<!------ OAS AD 'Top' end ------>
+</td>
+<!------ OAS AD 'Top1' begin ------>
+
+<!------ OAS AD 'Top1' end ------>
+</tr>
+</table>
+</div>
+<a href="/"><img border="0" id="homeButton" src="/templates/images/spacer.gif"/></a>
+<div id="globalMenu"><a href="http://bible.cbn.com">Bible</a><a href="/spirituallife/PrayerAndCounseling/index.aspx">Prayer Request</a><a href="/giving/700club/option.aspx?m=GVSL0004&amp;intcmp=GVSL0004_special">Give to CBN</a><a href="/partners/index.aspx">Partners</a><a href="/community/af/emailpreferences.aspx?intcmp=TNEM0001_700club">E-mail Updates</a><a href="/about/index.aspx">About</a><a href="/contact/feedback.aspx">Contact</a>    <!--SEARCH FORM - Used in the new header to forward search requests to the google mini.-->
+
+<form style="display:inline; margin:0px; padding:0px;">
+<input id="txtSearch" maxlength="256" name="q" type="text"/><input id="btnGo" onclick="googleSearch(this)" style="height:18px;" type="button" value="Search"/>
+</form>
+</div>
+<div id="mainMenu"><a href="/">Home</a><a href="/700club/">700 Club</a><a href="/cbnnews/">CBNNews</a><a href="/spirituallife/">Spiritual Life</a><a href="/family/">Family</a><a href="/health/">Health</a><a href="/finance/">Finance</a><a href="/entertainment/">Entertainment</a><a href="/CBNTelevision.aspx">TV &amp; Radio</a><a href="/worldreach/index.aspx">International</a><a href="http://superbook.cbn.com/">Kids</a><a href="http://shop.cbn.com/">Shop</a></div>
+</div>
+<div id="mainContent">
+<!-- InstanceBeginEditable name="contentArea" --><div id="DVwrapper">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td id="DVleftcol" width="100"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td id="DVleftcol"><div align="center" style="background-color:#3E020A;">
+<table align="left" height="100%" width="100%">
+<tr>
+<td width="53"><div align="left"><a href="index.aspx">Home</a></div></td>
+<td width="56"><div align="left"><a href="archive.aspx">Archive</a></div></td>
+<td width="202"> </td>
+</tr>
+<tr>
+<td align="left" colspan="4" height="58" width="331"><div style="background-color:#3E020A; padding:3px;">
+<p><strong>CBN Exclusive Ministry Booklet: <a href="http://cbn.com/community/booklets/DaVinciCode/beyond_the_code.pdf" target="_blank">Beyond the Code</a></strong></p>
+</div></td>
+</tr></table>
+</div></td>
+</tr>
+</table>
+<table border="0" cellpadding="3" cellspacing="0" width="100%">
+<tr>
+<td><table border="0" cellpadding="0" cellspacing="0" class="featureBlock" width="344">
+<tr>
+<td bgcolor="#3E020A" class="copy"><a href="/special/davincicode/Gospel_Dan_Brown.aspx"><img alt="The Gospel According to Dan Brown" border="0" height="109" src="/images3/Dan_Brown_Gospel_MD.jpg" width="143"/></a>
+<h1><a href="/special/davincicode/Gospel_Dan_Brown.aspx"><strong> The Gospel According to Dan Brown </strong></a></h1>
+<p>A spiritual storm is coming your way, and it’s inevitable. At the eye of this   storm is this message: What the church has taught you about Jesus is wrong. </p></td>
+</tr>
+</table>
+<a href="/entertainment/books/carpenter_abanes_davincicode.aspx"></a>
+<table cellpadding="5" style="border-color: #D2C599; border-style: solid; border-width: 1px;" width="100%">
+<tr>
+<td colspan="2"><h2 align="center" style="color: #6D0412; background-color: #D2C599;">Video Features </h2></td>
+</tr>
+<tr>
+<td><img alt="Play Video" border="0" height="28" src="../../video/videoplay-trans.gif" width="41"/></td>
+<td><p>Answers to questions about Jesus and the Bible from <em>The Da Vinci Code</em> -- featuring Dr. Corne Bekker of Regent University .</p>
+<p><a href="/vod/index.aspx?s=/cbncom/current/CorneGnosticismFinalPt1">What is Gnosticism?</a></p>
+<p><a href="/vod/index.aspx?s=/cbncom/current/CorneGnostoPt2">What is Arianism? </a></p>
+<p><a href="/vod/index.aspx?s=/cbncom/current/CorneHowWeGotBiblePT5">How did we get our Bible?</a></p>
+<p><a href="/vod/index.aspx?s=/cbncom/current/CorneWhatHistorySaysPT6">What does history tell us about Jesus and the Bible?</a></p>
+<p><a href="/vod/index.aspx?s=/cbncom/current/CorneGospelOfJudasFINALPt3">What is the Gospel of Judas?</a></p>
+<p><a href="/vod/index.aspx?s=/cbncom/current/CorneGospelOfMaryMalePT4L">Is Christianity against women?</a></p></td>
+</tr>
+<tr>
+<td><img alt="Play Video" border="0" height="28" src="../../video/videoplay-trans.gif" width="41"/></td>
+<td><p>Craig von Buseck: <em>The Da Vinci Code </em>Roundtable Discussion</p>
+<p>Part one: <a href="/vod/index.aspx?s=/cbncom/current/studio10/DaVinci_Panel_Pt1" target="vidframe">Why are Christians opposed to the movie? </a></p>
+<p>Part two: <a href="/vod/index.aspx?s=/cbncom/current/studio10/DaVinci_Panel_Pt2">What is Gnosticism and how is it represented in this movie?</a></p>
+<p>Part three: <a href="/vod/index.aspx?s=/cbncom/current/studio10/DaVinci_Panel_Pt3">How can Christians respond to 'The Da Vinci Code' in a positive manner?</a></p>
+<p>Part four: <a href="/vod/index.aspx?s=/cbncom/current/studio10/DaVinci_Panel_Pt4">Blurring the line between fact and fiction.</a></p>
+<p>Part five: <a href="/vod/index.aspx?s=/cbncom/current/studio10/DaVinci_Panel_Pt5">Opening the dialogue about the truth of Jesus and the early church.</a></p></td>
+</tr>
+<tr>
+<td><img alt="Play Video" border="0" height="28" src="../../video/videoplay-trans.gif" width="41"/></td>
+<td><p>Josh McDowell: </p>
+<p><a href="javascript:video('studio10','/cbncom/current/studio10/JoshMcPt1','','')">What is the so-called 'new wisdom' of <em>The Da Vinci Code</em>?</a></p>
+<p><a href="javascript:video('studio10','/cbncom/current/studio10/JoshMcPt2','','')">Was Jesus Married to Mary Magdalene?</a> </p>
+<p><a href="javascript:video('cbni','/cbncom/current/JoshMcdowellPromo','','')"><em>The Da Vinci Code</em> -- A Quest for   Answers</a></p></td>
+</tr>
+<tr>
+<td width="46"><a href="http://www.davincideception.com/video.asp"><img alt="Play Video" border="0" height="28" src="../../video/videoplay-trans.gif" width="41"/></a></td>
+<td><a href="http://www.davincideception.com/video.asp">Dr. Erwin Lutzer: What <em>The Da Vinci Code</em> is Teaching</a></td>
+</tr>
+<tr>
+<td><a href="javascript:video('cbni','/cbncom/current/Strobel_1','','')"><img alt="Play Video" border="0" height="28" src="../../video/videoplay-trans.gif" width="41"/></a></td>
+<td><p><a href="javascript:video('cbni','/cbncom/current/Strobel_1','','')">Lee Strobel: Exploring <em>The Da Vinci Code</em></a> part one</p>
+<p><a href="javascript:video('cbni','/cbncom/current/Strobel_2','','')">Lee Strobel: Exploring <em>The Da Vinci Code</em> </a>part two</p></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="featureBlock" width="100%">
+<tr>
+<td bgcolor="#3E020A" class="copy"><a href="/special/DaVinciCode/GRobertson_Christianity_PaganRome.aspx"><img alt="Gordon Robertson" border="0" height="109" src="/images3/Gordon_Robertson_MD.jpg" width="143"/></a><a href="/special/DaVinciCode/CNW_Dictionary-DaVinciCode.aspx"></a><a href="/special/DaVinciCode/Euteneuer_PaganDaVinci.aspx"></a>
+<h1><a href="/special/DaVinciCode/GRobertson_Christianity_PaganRome.aspx">How Christianity Survived in Pagan Rome</a></h1>
+<p>The real history of Christianity in the Roman Empire is far more complex –   and filled with enough flesh and blood to make it a better story than the one   Dan Brown invented.</p>
+<p><strong>Related News Story</strong>: <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/05/14/MNGKLIRPU41.DTL&amp;hw=Da+Vinci+Code&amp;sn=006&amp;sc=763">Some Christians shun 'Da Vinci Code' boycott</a> -- <br>
+                  San Francisco Chronicle</br></p></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="featureBlock" width="100%">
+<tr>
+<td class="copy"><table border="0" cellpadding="0" cellspacing="0" class="featureBlock" width="100%">
+<tr>
+<td bgcolor="#3E020A" class="copy"><a href="/700club/features/opus-dei060206.aspx"><img alt="Alfred Molina in The Da Vinci Code" border="0" height="109" src="/special/DaVinciCode/images/AlfredMolina_DaVinciMovie_MD.jpg" width="143"/></a><a href="/special/DaVinciCode/Metaxas_Screwtape.aspx"></a>
+<h1><a href="/700club/features/opus-dei060206.aspx"><strong>The Truth About Opus Dei </strong></a></h1>
+<p>The 700 Club talked with Opus Dei’s communications director atop their 16-floor U.S.   headquarters about the media’s perception of the group’s secrecy and the effect <em>The Da Vinci Code</em> has had on their organization.</p></td>
+</tr>
+</table>
+<a href="/entertainment/Screen/Bell_DaVinci.asp"><img alt="The Da Vinci Code movie" border="0" height="65" src="/special/davincicode/images/DaVinciCodeMovie_SM.jpg" width="85"/></a>
+<h1><strong><a href="/entertainment/Screen/Bell_DaVinci.asp"><strong>The Da Vinci Code: Movie Review</strong></a></strong></h1>
+<p>Nathaniel Bell discusses how this film will go down in history as this year's Holy Grail of overblown thrillers despite the hype surrounding it. </p></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="featureBlock" width="100%">
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td class="copy"><a href="/special/DaVinciCode/Witherington_TheGospelCodeB.aspx"><img border="0" height="65" src="/special/DaVinciCode/images/Book_TheGospelCode_SM.jpg" width="85"/></a><a href="/special/DaVinciCode/Witherington_TheGospelCodeA.aspx"></a><a href="/special/DaVinciCode/Bock_JesusSingle.aspx"></a>
+<h1><a href="/special/DaVinciCode/Witherington_TheGospelCodeB.aspx">The 'Browning' of Christian History</a></h1>
+<p>"Our concern isn't really with Brown’s mistakes about medieval history, but    the religious foundations on which his Grail theories are based."</p></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td class="copy"><a href="/special/DaVinciCode/FloryMonroe_DaVinciWitnessing.aspx"><img alt="Fear Not Da Vinci" border="0" height="65" src="/special/DaVinciCode/images/Book_FearNotDaVinci_SM.jpg" width="85"/></a><a href="/special/DaVinciCode/Miesel_Crisis_DaVinci.aspx"></a>
+<h1><a href="/special/DaVinciCode/FloryMonroe_DaVinciWitnessing.aspx">Using The Da Vinci Code as a Witnessing Tool</a></h1>
+<p>Here are some specific examples of encounters, questions and topics you’re likely to hear when you use <em>The Da Vinci Code</em> as a witnessing tool -- and   creative ways to respond to those questions and turn them into productive   discussions. </p></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td class="copy"><a href="/special/DaVinciCode/Metaxas_Screwtape.aspx"><img alt="Screwtape" border="0" height="65" src="/special/DaVinciCode/images/screwtape_SM.jpg" width="85"/></a><a href="/entertainment/sports/carpenter-davincidecoderring.aspx"></a>
+<h1><a href="/special/DaVinciCode/Metaxas_Screwtape.aspx">Screwtape and The Da Vinci Code</a></h1>
+<p>Author Eric Metaxas responds to Dan Brown's <em>The Da Vinci Code</em> from the viewpoint  of C.S. Lewis' character Screwtape. Metaxas argues against the claims  Brown's novel suggests in this  letter addressed to Wormwood. </p></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td class="copy" height="121"><a href="/special/DaVinciCode/Mangalwadi_ReligiousSex.aspx"><img alt="Hollywood and Christianity" border="0" height="65" src="/images3/DaVinci_Generic_sm.jpg" width="85"/></a>
+<h1><a href="/special/DaVinciCode/Mangalwadi_ReligiousSex.aspx"><strong>The Da Vinci Code: Reviving Religious Sex?</strong></a></h1>
+<p><em>The Da Vinci Code</em> promotes salvation through sex more effectively than   its predecessors because it is an engaging novel. It teaches "sacred sex" not on   the basis of Pagan philosophy ... but by   invoking the authority of Jesus." </p>
+<p> </p></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td colspan="3"><h2>Other  Da Vinci Code Discussion Sites </h2>
+<br>
+</br></td>
+</tr>
+<tr>
+<td rowspan="2" width="50%"><ul>
+<li><a href="http://www.thedavincidialogue.com/" target="_blank">The Da Vinci Dialogue</a> </li>
+<li><a href="http://go.family.org/davinci/" target="_blank">Focus on the Family <em>Da Vinci Code</em> Section </a>
+<li><a href="http://www.truthsthattransform.org/" target="_blank">Truths That Transform: D. James Kennedy </a></li>
+<li><a href="http://www.campuscrusade.com/DaVinciquest/" target="_blank">Campus Crusade:  The Da Vinci Quest Project </a>
+<li><a href="http://www.hollywoodjesus.com/comments/davinci/news.html" target="_blank">Hollywood Jesus: Da Vinci Code News </a></li>
+<li><a href="http://www.davincideception.com/main.htm" target="_blank">Da Vinci Didn't Convince Me</a></li>
+<li><a href="http://www.thetruthaboutdavinci.com/" target="_blank">Da Vinci Code Truth</a> </li>
+<li><a href="http://www.leestrobel.com/" target="_blank">Lee Strobel on The Da Vinci Code </a></li>
+<li><a href="http://josh.davinciquest.org" target="_blank">Josh McDowell on The Da Vinci Code </a></li>
+<li><a href="http://www.outreach.com/print/articlef.asp?article_name=p-davincicode&amp;sourcecode=06E3128" target="_blank">Christianity Today: Da Vinci  Code Outreach Tools </a></li>
+<li><a href="http://www.jimgarlow.com/cdvcode/cdvcode.cfm" target="_blank">Jim Garlow: Preparing for Da Vinci </a></li>
+</li></li></ul></td>
+<td class="sectionDivider" width="10">  </td>
+<td rowspan="2" width="50%"><ul>
+<li><a href="http://www.campuscrusade.com/DaVinciquest/Pdfs/DaVinciStudyGuide.pdf" target="_blank">The Da Vinci Quest Study Guide: </a>Josh McDowell </li>
+<li><a href="http://www.probe.org/content/view/1312/38/" target="_blank">Probe Ministries: Redeeming the Da Vinci Code: </a></li>
+<li><a href="http://milano.arounder.com/da_vinci_last_supper/fullscreen.html" target="_blank">Virtual tour of The Last Supper by Leonardo da Vinci</a></li>
+<li><a href="http://www.campuscrusade.com/DaVinciquest/Pdfs/IdeasISSUE_ONE.pdf" target="_blank">Ministry Outreach Ideas from Campus Crusade </a></li>
+<li><a href="http://www.nbctexas.org/media/davinci.htm" target="_blank">Deciphering the Da Vinci Code</a>: <strong>Streamed Audio </strong></li>
+<li><a href="http://www.christianbookguides.com/downloads/sermonnotes/84308_sermon.pdf" target="_blank">Jesus, Mary Magdalen, and The Da Vinci Code</a>: Dr. Erwin Lutzer 
+                      <li><a href="http://www.christianbookguides.com/downloads/guides/84308_guide2.pdf" target="_blank">Discussion Starters from Dr. Erwin Lutzer</a>
+<li><a href="http://www.thomasnelson.com/consumer/Downloads/BreakDaVinciSermonOutline.pdf" target="_blank">"Did the Church Lie?" A Sermon Outline from Darrell Bock </a>
+</li></li></li></ul></td>
+</tr>
+<tr>
+<td class="sectionDivider">  </td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td colspan="3"><h2>Recommended Books and Videos </h2>
+<br>
+</br></td>
+</tr>
+<tr>
+<td rowspan="2" width="50%"><ul>
+<li><a href="http://www.parable.com/cbn/item_078144165X.htm" target="_blank"><em>Cracking Da Vinci's Code</em></a> </li>
+<li><em><a href="http://www.parable.com/cbn/item_0736914390.htm" target="_blank">The Truth Behind the Da Vinci Code</a></em></li>
+<li><a href="http://www.parable.com/cbn/item_1596441488.htm" target="_blank"><em>The Gospel Code: A Critique of the Da Vinci Code by   Dan Brown</em></a></li>
+<li><em><a href="http://www.parable.com/cbn/item_0825460964.htm" target="_blank">The Books the Church Suppressed: Fiction and Truth in   the the Da Vinci Code</a></em></li>
+<li><a href="http://www.parable.com/cbn/item_0764201859.htm" target="_blank"><em>The Da Vinci Codebreaker: An Easy-To-Use Fact   Checker</em></a></li>
+<li><a href="http://www.parable.com/cbn/item_0899570526.htm" target="_blank"><em>Fear Not Da Vinci: Using the Da Vinci Code to Share   Your Faith</em></a></li>
+<li><em><a href="http://www.amazon.com/gp/product/1850492093/sr=8-1/qid=1143825689/ref=sr_1_1/103-3059073-2370266?_encoding=UTF8" target="_blank">The Da Vinci Code on Trial: Filtering Fact from   Fiction</a></em><br>
+</br></li>
+</ul></td>
+<td class="sectionDivider" width="10"> </td>
+<td rowspan="2" width="50%"><ul>
+<li><a href="http://www.parable.com/cbn/item_1414306334.htm" target="_blank"><em>The Da Vinci Deception</em></a>
+<li><a href="http://www.parable.com/cbn/item_0785260463.htm" target="_blank"><em>Breaking the Da Vinci Code: Answers to the Questions   Everybody's Asking</em></a>
+<li><em><a href="http://www.amazon.com/gp/product/0786186305/qid=1143825792/sr=1-3/ref=sr_1_3/103-3059073-2370266?s=books&amp;v=glance&amp;n=283155" target="_blank">Breaking the Da Vinci Code</a></em> -- Compact Disc
+                        <li><a href="http://www.parable.com/cbn/item_083083267X.htm" target="_blank"><em>The Gospel Code: Novel Claims about Jesus, Mary   Magdalene and Da Vinci </em></a>
+<li><em><a href="http://www.parable.com/cbn/item_1931602867.htm" target="_blank">The Da Vinci Code Deception</a></em> -- DVD
+                          <li><em><a href="http://www.parable.com/cbn/item_0310273722.htm" target="_blank">Exploring the Da Vinci Code: Investigating the Issues   Raised by the Book &amp; Movie</a></em>
+<li><a href="http://www.parable.com/cbn/item_0310272653.htm" target="_blank"><em>Discussing the Da Vinci Code Discussion Guide</em></a>
+<li><em><a href="http://www.parable.com/cbn/item_1414310285.htm" target="_blank">Magdalene</a> </em><strong>-- A Novel </strong>
+</li></li></li></li></li></li></li></li></ul></td>
+</tr>
+<tr>
+<td class="sectionDivider"> </td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td><div class="item">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="sectionDivider" width="10"> </td>
+<td width="50%"> </td>
+</tr>
+</table>
+</div></td>
+</tr>
+</table></td>
+<td id="DVrightcol" width="300"><div class="item">
+<h2>Differences Between Book &amp; The Bible</h2>
+<p>Here are only a few of the errors represented as fact in Dan Brown's novel, <em>The Da Vinci Code</em>. </p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="largecopy" width="171"><h2>Da Vinci Code says... </h2>
+<p>Jesus is a great man or prophet in the earliest historical sources but was later proclaimed divine at the Council of Nicaea.<br>
+<br>
+<br>
+</br></br></br></p></td>
+<td class="sectionDivider" rowspan="2" width="11"><img height="1" src="/templates/images/spacer.gif" width="10"/></td>
+<td class="largecopy" width="175"><h2>The Bible Says... </h2>
+<p> Jesus is called “God” (theos) 7 times in the New Testament. He is called “Lord” (kyrios) in the divine sense numerous times. No serious historian  argues that these  texts postdate the Council of Nicaea.</p></td>
+</tr>
+<tr>
+<td class="largecopy" width="50%"><h2>Da Vinci Code says... </h2>
+<p>The Dead Sea Scrolls along with the Nag Hammadi documents are the earliest   Christian records. </p></td>
+<td class="largecopy" width="50%"><h2>History  Says... </h2>
+<p>The Dead Sea Scrolls are purely Jewish documents; there is nothing Christian   about them. There is also no evidence any of the Nag Hammadi documents existed   before the late second century A.D., with the possible exception of the Gospel   of Thomas.</p></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="largecopy" width="171"><h2>Da Vinci Code says... </h2>
+<p>“One particularly troubling theme kept recurring in the [Gnostic] gospels. Mary Magdalene. . . More specifically, her marriage to Jesus Christ" (p. 244). <br>
+<br>
+<br>
+</br></br></br></p></td>
+<td class="sectionDivider" rowspan="2" width="11"><img height="1" src="/templates/images/spacer.gif" width="10"/></td>
+<td class="largecopy" width="175"><h2>History   Says... </h2>
+<p>The Gnostic Gospels, a collection of anonymous writings that blended pseudo-Christian ideas with esoteric spirituality, say nothing about Mary and Jesus being married. <strong>*</strong></p></td>
+</tr>
+<tr>
+<td class="largecopy" width="50%"><h2>Da Vinci Code says... </h2>
+<p>“The Bible, as we know it today, was collated by the pagan Roman Emperor Constantine” (p. 231).</p></td>
+<td class="largecopy" width="50%"><h2>History   Says... </h2>
+<p>The Bible was not collated by Constantine, who died in 337 A.D. The Old Testament existed prior to even Jesus’s day. And the New Testament, although it started coming together by the end of the first century (about 90-100 A.D.), was not formalized until about 393-397 A.D. (after Constantine’s death). <strong>*</strong></p></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="largecopy" width="171"><h2>Da Vinci Code says... </h2>
+<p>“The royal bloodline of Jesus Christ has been chronicled in exhaustive detail by scores of historians” (p. 253).<br>
+<br>
+<br>
+</br></br></br></p></td>
+<td class="sectionDivider" rowspan="2" width="11"><img height="1" src="/templates/images/spacer.gif" width="10"/></td>
+<td class="largecopy" width="175"><h2>The Facts    Say... </h2>
+<p>Following this comment about “historians,” Dan Brown lists four books written by various authors: Margaret Starbird, Michael Baigent, Richard Leigh, Henry Lincoln, Lynn Picknett and Clive Prince. But none of them are historians. Starbird has an M.A. in comparative literature and German. Baigent holds an undergraduate degree in psychology and is pursuing an M.A. in mysticism. Leigh is a novelist and short story writer.  Lincoln gained notoriety as a BBC television personality and scriptwriter. And Picknett, along with Prince, is involved in occultism, the paranormal, and UFO studies. <strong>*</strong></p></td>
+</tr>
+<tr>
+<td class="largecopy" width="50%"><h2>Da Vinci Code says... </h2>
+<p>Leonardo Da Vinci made the following comments about the New Testament: 1) “Many have made a trade of delusions and false miracles, deceiving the stupid multitude”; and 2) “Blinding ignorance does misled us. O! Wretched mortals, open your eyes” (p. 231).</p></td>
+<td class="largecopy" width="50%"><h2>History   Says... </h2>
+<p>These remarks have nothing to do with Leonardo’s views on scripture. His first comment, in context, is about alchemists who claimed that they could change lead into gold. His second comment, in context, refers to the foolishness of what he called men’s “own opinions,” “lascivious joys,” and “[v]ain splenour.” Brown completely misrepresented Leonardo’s writings to make it seem as if the great artist detested the Bible. <strong>*</strong></p></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="largecopy" width="171"><h2>Da Vinci Code says... </h2>
+<p>“The Jewish Tetragrammaton YHWH—the sacred name for God—in fact derived from Jehovah, an androgynous physical union between the masculine Jah and the pre-Hebraic name for Eve, Havah (p. 309).<br>
+<br>
+<br>
+<br>
+</br></br></br></br></p></td>
+<td class="sectionDivider" rowspan="2" width="11"><img height="1" src="/templates/images/spacer.gif" width="10"/></td>
+<td class="largecopy" width="175"><h2> History  Says... </h2>
+<p>YHWH was not derived from “JEHOVAH.” The term actually predates “JEHOVAH” by thousands of years. Brown, in fact, has it backwards—i.e., “JEHOVAH” was derived from YHWH. It is merely the sixteenth century Latinized form of YHWH with “a,” “o” and “a” (the vowels from adonai, “my Lord”) inserted between each consonant (Latinizing the word changed the “Y” and “W” to “J” and “V.”). As for the word Havah, there is nothing “pre-Hebraic” about it. This is simply “Eve” in Hebrew and it appears in the Old Testament. <strong>*</strong></p></td>
+</tr>
+<tr>
+<td class="largecopy" width="50%"><h2>Da Vinci Code says... </h2>
+<p>Constantine “commissioned and financed a new Bible, which omitted those gospels that spoke of Christ’s human traits and embellished those gospels that made him godlike. The earlier gospels were outlawed, gathered up and burned” (p. 234).</p></td>
+<td class="largecopy" width="50%"><h2> History  Says... </h2>
+<p>First, there was no “new” Bible commissioned by Constantine. The emperor simply requested that Eusebius (the Bishop of Carthage) make fifty copies of the already existing and widely accepted scriptures. Second, no evidence suggests that Constantine or anyone else “embellished” Matthew, Mark, Luke, or John. Third, there were no gospels burned by Constantine. Although some texts written by Arius were burned, none of them were gospels. Fourth, there were no gospels “earlier” than Matthew, Mark, Luke or John. Finally, as previusly noted, the gospels in our Bible clearly depict Christ’s “human traits,” which is consistent with the Christian teaching that Jesus was 100% deity as well as 100% human. <strong>*</strong></p></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="largecopy" width="171"><h2>Da Vinci Code says... </h2>
+<p>Sexual union between man and woman through which each became spiritually whole had been recast as a shameful act by the Church to 'reeducate' the pagan and feminine-worshipping religions. <br>
+<br>
+<br>
+</br></br></br></p></td>
+<td class="sectionDivider" rowspan="2" width="11"><img height="1" src="/templates/images/spacer.gif" width="10"/></td>
+<td class="largecopy" width="175"><h2>The Bible   Says... </h2>
+<p> The marriage bed is treasured and honored as pure (Heb. 13:4). Sexual activities and pleasure are normal, expected, and encouraged within a marriage. Sexual union is a divine moment for a husband and a wife -- a representation of the image of God that defines us. God established boundaries around sex to protect it and maximize its joy. <strong>*</strong></p></td>
+</tr>
+<tr>
+<td class="largecopy" width="50%"><h2>Da Vinci Code says... </h2>
+<p>“[A]ny gospels that described earthly aspects of Jesus’ life had to be omitted from the Bible” (p. 244). </p></td>
+<td class="largecopy" width="50%"><h2>The Bible   Says... </h2>
+<p>The gospels in our New Testament present many “earthly aspects” of Christ’s life such as his physical frailties (hunger, fatigue, death); emotions (anguish, outrage, love); and relational interactions (with his mother, friends, and followers). <strong>*</strong></p></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="largecopy" width="171"><h2>Da Vinci Code says... </h2>
+<p>Leonardo’s worship of the goddess and the feminine can be seen in his Mona Lisa painting. That name comes from two Egyptian deities: the god Amon and the goddess Isis, whose “ancient pictogram was once called L’ISA. The title Mona Lisa, then, is really “an anagram of the divine union of male and female (p. 121).<br>
+<br>
+</br></br></p></td>
+<td class="sectionDivider" rowspan="2" width="11"><img height="1" src="/templates/images/spacer.gif" width="10"/></td>
+<td class="largecopy" width="175"><h2> History  Says... </h2>
+<p> Leonardao Da Vinci did not even name this particular painting. None of his works, in fact, were titled by him. The Mona Lisa was catalogud by author Giorgio Vasari in his book Lives of the Artists (1550). It was he who first called it the Monna Lisa, which in English was shortened to Mona Lisa. It simply means Madame Lisa, and refers to the likely subject: Lisa Gherardini del Giocondo, the wife of Francesco del Giocondo. <strong>*</strong></p></td>
+</tr>
+<tr>
+<td class="largecopy" width="50%"> </td>
+<td class="largecopy" width="50%"> </td>
+</tr>
+<tr>
+<td colspan="3"><p><strong>*</strong> Excerpt from <em><a href="http://www.parable.com/cbn/item_0736914390.htm">The Truth Behind The Da Vinci Code</a></em> by Richard Abanes</p>
+<p>Related article: <a href="/special/davincicode/abanes_truth-danbrown.aspx">The Truth, Dan Brown, and <em>The Da Vinci Code</em> </a></p></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
+</div></td>
+</tr>
+</table>
+</div>
+<!-- InstanceEndEditable -->
+</div></body>
+
+<div class="copyright" style="text-align:center; clear: left;">© 2015 The Christian Broadcasting Network, Inc., A Non-profit 501 (c)(3) Charitable Organization.  <a href="/about/termsofuse.aspx">Terms of Service</a>. <a href="/about/privacy_notice.aspx">Privacy Policy</a>.</div>
+<!-- SiteCatalyst code version: H.20.2. -->
+
+
+
+
+<noscript>
+<!--
+	// Comment out for https compatibility
+	<a href="http://www.omniture.com" title="Web Analytics">
+	<img src="http://cbn.122.2o7.net/b/ss/cbncomdev/1/H.20.2--NS/0" height="1" width="1" border="0" alt="" />
+	</a>-->
+</noscript>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.2. -->
+<!-- ga conv must execute after sitecatalyst scripts -->
+
+<!-- end of ga conv -->
+<!-- START OF UserZoom Tag -->
+
+<!-- END OF UserZoom Tag -->
+
+<!-- InstanceEnd -->

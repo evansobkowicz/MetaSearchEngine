@@ -1,0 +1,464 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!--
+	generated in 0.664 seconds
+	58767 bytes batcached for 300 seconds
+-->
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Anne of Green Gables | Tea in a Teacup</title>
+<link href="https://teainateacup.wordpress.com/xmlrpc.php" rel="pingback"/>
+<link href="https://teainateacup.wordpress.com/feed/" rel="alternate" title="Tea in a Teacup » Feed" type="application/rss+xml"/>
+<link href="https://teainateacup.wordpress.com/comments/feed/" rel="alternate" title="Tea in a Teacup » Comments Feed" type="application/rss+xml"/>
+<link href="https://teainateacup.wordpress.com/tag/anne-of-green-gables/feed/" rel="alternate" title="Tea in a Teacup » Anne of Green Gables Tag Feed" type="application/rss+xml"/>
+
+<link href="https://s2.wp.com/_static/??-eJyNkdFuwyAMRX9ozEoVddvDtG8hxCFODEbBUZS/H1m1blU7tBe4F51rjIEtGSdRMSqE1SRePcUMORDjnhaZ0Omte3Y5P8HjGNOMGSbUZN1svtwd3rH4n4B4j72sagZhlg026j1W76A4UCTdr+JfsI4YSmtp7SBQ1p1F5lrQyYLlPCSrBxGwJ4tcasRqcyGdv1OHHMsY7ifwqBc4dqyVxiATXdYLRhBFqZD5Kmp5j2JYnFWSeGPMwJaWWnTB49OK9FCoX/avp40teJbO8gF8hPemPTWnl7fXtpk+AQAW65k=" id="all-css-0" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1387483371g" id="print-css-0" media="print" rel="stylesheet" type="text/css"/>
+
+
+<link href="https://teainateacup.wordpress.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://s1.wp.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress.com" name="generator"/>
+<link href="https://s2.wp.com/i/favicon.ico" rel="shortcut icon" sizes="16x16 24x24 32x32 48x48" type="image/x-icon"/>
+<link href="https://s2.wp.com/i/favicon.ico" rel="icon" sizes="16x16 24x24 32x32 48x48" type="image/x-icon"/>
+<link href="https://s0.wp.com/i/webclip.png" rel="apple-touch-icon-precomposed"/>
+<link href="https://teainateacup.wordpress.com/?openidserver=1" rel="openid.server"/>
+<link href="https://teainateacup.wordpress.com/" rel="openid.delegate"/>
+<link href="https://teainateacup.wordpress.com/osd.xml" rel="search" title="Tea in a Teacup" type="application/opensearchdescription+xml"/>
+<link href="http://wordpress.com/opensearch.xml" rel="search" title="WordPress.com" type="application/opensearchdescription+xml"/>
+<style type="text/css">
+.widget_twitter li {
+	word-wrap: break-word;
+}
+</style>
+<meta content="Tea in a Teacup" name="application-name"/><meta content="width=device-width;height=device-height" name="msapplication-window"/><meta content="Frills and Furbelows, Corsets and Cuffs, Prose and Poetry, Mittens and Muffs." name="msapplication-tooltip"/><meta content="name=Subscribe;action-uri=https://teainateacup.wordpress.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="Posts about Anne of Green Gables on Tea in a Teacup" name="title"/>
+<meta content="Posts about Anne of Green Gables written by Tea in a Teacup" name="description"/>
+<style type="text/css">
+			#header h1 a,
+		#header h2 {
+			color: #265E15 !important;
+		}
+				#headerimage {
+			background: url('https://teainateacup.files.wordpress.com/2011/05/cropped-img_3012.jpg') no-repeat;
+			height: 200px;
+		}
+	</style>
+<style id="custom-background-css" type="text/css">
+body.custom-background { background-color: #eca19d; }
+</style>
+<style id="syntaxhighlighteranchor" type="text/css"></style>
+</head>
+<body class="archive tag tag-anne-of-green-gables tag-670810 custom-background mp6 customizer-styles-applied highlander-enabled highlander-light infinite-scroll neverending" id="section-index">
+<div class="clearfix" id="navigation">
+<div class="menu">
+<ul>
+<li><a href="https://teainateacup.wordpress.com/" title="Home">Home</a></li>
+<li class="page_item page-item-2 page_item_has_children"><a href="https://teainateacup.wordpress.com/about/">About</a></li>
+<li class="page_item page-item-305"><a href="https://teainateacup.wordpress.com/comic-relief/">Comic Relief</a></li>
+<li class="page_item page-item-365"><a href="https://teainateacup.wordpress.com/reviews/">Reviews</a></li>
+<li class="page_item page-item-529"><a href="https://teainateacup.wordpress.com/costumes/">Costumes</a></li>
+<li class="page_item page-item-690"><a href="https://teainateacup.wordpress.com/my-regency-journey/">My Regency Journey</a></li>
+<li class="page_item page-item-4"><a href="https://teainateacup.wordpress.com/contact/">Contact</a></li>
+</ul>
+</div>
+</div><!-- end id:navigation -->
+<div id="container">
+<div id="header">
+<h1><a href="https://teainateacup.wordpress.com/" title="Tea in a Teacup">Tea in a Teacup</a></h1>
+<h2>Frills and Furbelows, Corsets and Cuffs, Prose and Poetry, Mittens and Muffs.</h2>
+</div><!-- end id:header -->
+<div id="feedarea">
+<dl>
+<dt><strong>Feeds:</strong></dt>
+<dd><a href="https://teainateacup.wordpress.com/feed/">Posts</a></dd>
+<dd><a href="https://teainateacup.wordpress.com/comments/feed/">Comments</a></dd>
+</dl>
+</div><!-- end id:feedarea -->
+<div id="headerimage">
+</div><!-- end id:headerimage -->
+<div id="content">
+<div id="content-main">
+<h2 class="pagetitle">Posts Tagged ‘Anne of Green Gables’</h2>
+<div class="post-170 post type-post status-publish format-standard hentry category-edwardian-era category-literature-2 tag-anne-of-green-gables tag-lucy-maud-montgomery tag-simple-pleasures" id="post-170">
+<div class="posttitle">
+<h2><a href="https://teainateacup.wordpress.com/2011/06/08/simple-pleasures-of-life/" rel="bookmark">The Simple Pleasures of Life</a></h2>
+<p class="post-info">
+						Posted in <a href="https://teainateacup.wordpress.com/category/edwardian-era/" rel="category tag">Edwardian era</a>, <a href="https://teainateacup.wordpress.com/category/literature-2/" rel="category tag">Literature</a>, tagged <a href="https://teainateacup.wordpress.com/tag/anne-of-green-gables/" rel="tag">Anne of Green Gables</a>, <a href="https://teainateacup.wordpress.com/tag/lucy-maud-montgomery/" rel="tag">Lucy Maud Montgomery</a>, <a href="https://teainateacup.wordpress.com/tag/simple-pleasures/" rel="tag">simple pleasures</a> on June 8, 2011 | 
+													<a href="https://teainateacup.wordpress.com/2011/06/08/simple-pleasures-of-life/#respond" title="Comment on The Simple Pleasures of Life">Leave a Comment »</a> </p>
+</div>
+<div class="entry">
+<blockquote><p>“After all,” Anne had said to Marilla once, “I believe the nicest and sweetest days are not those on which anything very splendid or wonderful or exciting happens but just those that bring simple little pleasures, following one another softly, like pearls slipping of a string.” Life at Green Gables was full of such days…</p></blockquote>
+<p style="text-align:right;"><em>Anne of Windy Willows</em> – Lucy Maud Montgomery</p>
+<p style="text-align:left;">I remember one day lamenting over the fact that special and fun things hardly ever happened in my life. Then I wondered if I could change that.</p>
+<p style="text-align:left;">I decided that, in order to be able to be excited about SOMETHING, I would be excited about ANYTHING that was mildly pleasing. And it worked! Every week I had several things to be excited about… sometimes it was payday, sometimes an afternoon in a cafe with a friend, or reading inside with the sound of rain on the roof, or even a sleep-in on the weekend. Everything seemed to have suddenly become so much more exciting! And it was all because I looked forward to it and enjoyed the moment when it arrived!</p>
+<div class="wp-caption alignright" id="attachment_172" style="width: 250px"><a href="https://teainateacup.files.wordpress.com/2011/06/anne-of-green-gables1.jpg"><img alt="" class="size-full wp-image-172" src="https://teainateacup.files.wordpress.com/2011/06/anne-of-green-gables1.jpg?w=500" title="Anne of Green Gables"/></a><p class="wp-caption-text">Diana Barry and Anne Shirley in Anne of Green Gables, played by Schuyler Grant and Megan Follows.</p></div>
+<p style="text-align:left;">It is for this reason that this passage from <em>Anne</em> resounds with me. She didn’t need anything fantastically exciting to happen to her each day in order for her to be happy. She just focussed on the “simple little pleasures” of life. Sometimes it was a stroll in the fields, or seeing springtime bring out new blooms, or having some raspberry cordial with a bosom friend (hehe). There are tonnes of otherwise menial moments in Anne’s life that filled her with raptures.</p>
+<p style="text-align:left;">She didn’t wait for something exciting to happen to her, she just made every day exciting.</p>
+<p style="text-align:left;">Green Gables was full of such days…. is your home full of such days?</p>
+<h3 style="text-align:left;">Related Posts</h3>
+<p><a href="https://teainateacup.wordpress.com/2011/05/12/a-bend-in-the-road/">A Bend in the Road</a></p>
+<h3 style="text-align:left;">Relevant Links</h3>
+<p><a href="http://gutenberg.net.au/ebooks01/0100251h.html">Anne of Windy Willows</a> – read online</p>
+<p><a href="https://teainateacup.wordpress.com/2011/06/08/simple-pleasures-of-life/" rel="bookmark" title="Permanent Link to The Simple Pleasures of Life">Read Full Post »</a></p>
+</div>
+</div>
+<div class="post-36 post type-post status-publish format-standard hentry category-edwardian-era category-literature-2 tag-anne-of-green-gables tag-bend-in-the-road tag-literature tag-lucy-maud-montgomery tag-megan-follows tag-quote" id="post-36">
+<div class="posttitle">
+<h2><a href="https://teainateacup.wordpress.com/2011/05/12/a-bend-in-the-road/" rel="bookmark">A Bend in the Road</a></h2>
+<p class="post-info">
+						Posted in <a href="https://teainateacup.wordpress.com/category/edwardian-era/" rel="category tag">Edwardian era</a>, <a href="https://teainateacup.wordpress.com/category/literature-2/" rel="category tag">Literature</a>, tagged <a href="https://teainateacup.wordpress.com/tag/anne-of-green-gables/" rel="tag">Anne of Green Gables</a>, <a href="https://teainateacup.wordpress.com/tag/bend-in-the-road/" rel="tag">Bend in the Road</a>, <a href="https://teainateacup.wordpress.com/tag/literature/" rel="tag">literature</a>, <a href="https://teainateacup.wordpress.com/tag/lucy-maud-montgomery/" rel="tag">Lucy Maud Montgomery</a>, <a href="https://teainateacup.wordpress.com/tag/megan-follows/" rel="tag">Megan Follows</a>, <a href="https://teainateacup.wordpress.com/tag/quote/" rel="tag">quote</a> on May 12, 2011 | 
+													<a href="https://teainateacup.wordpress.com/2011/05/12/a-bend-in-the-road/#comments" title="Comment on A Bend in the Road">4 Comments »</a> </p>
+</div>
+<div class="entry">
+<blockquote><p><em>When I left Queen’s my future seemed to stretch out before me like a straight road. I thought I could see along it for many a milestone. Now there is a bend in it. I don’t know what lies around the bend, but I’m going to believe that the best does. It has a fascination of its own, that bend, Marilla. I wonder how the road beyond it goes – what new landscapes – what new beauties – what curves and hills and valleys further on. </em></p></blockquote>
+<p align="right">Anne of Green Gables – Lucy Maud Montgomery</p>
+<div class="wp-caption aligncenter" id="attachment_40" style="width: 360px"><a href="https://teainateacup.files.wordpress.com/2011/05/anne.jpg"><img alt="Anne of Green Gables" class="size-full wp-image-40 " src="https://teainateacup.files.wordpress.com/2011/05/anne.jpg?w=500" title="anne"/></a><p class="wp-caption-text">Anne of Green Gables (Megan Follows)</p></div>
+<p align="right" style="text-align:left;">Anne of Green Gables has always been one of my favourite characters.</p>
+<p align="right" style="text-align:left;">Anne inspires me. She is stoic in the face of adversity. She has courage to rise against any attempt at intimidation. She keeps hope alive down deep. She perseveres despite enormous hardship. She is true to herself, even when people don’t understand her.  And even when life around her changes – when there is a bend in the road – she is never shaken.</p>
+<p align="right" style="text-align:left;">I have recently had an unexpected (and unwanted) bend in my own road. The sort of “bend” that makes you worry, cry, feel uncertain and really wish it would all go away.</p>
+<p align="right" style="text-align:left;">We all have unwanted “bends” in our lives, and none of us knows what is on the other side of them. But can we say <em>I don’t know what lies around the bend, but I’m going to believe that the best does? </em>Can the bend hold a fascination for you, like it did for Anne? Can you wonder how the road beyond it goes? What new beauties and landscapes you will discover?</p>
+<p align="right" style="text-align:left;">I guess it is all about choosing to live on the positive side of life!</p>
+<p align="right" style="text-align:left;">Has your road got a bend in it?</p>
+<h3 align="right" style="text-align:left;">Related Posts</h3>
+<p><a href="https://teainateacup.wordpress.com/2011/06/08/simple-pleasures-of-life/">Simple Pleasures of Life</a></p>
+<p><a href="https://teainateacup.wordpress.com/2011/05/12/a-bend-in-the-road/" rel="bookmark" title="Permanent Link to A Bend in the Road">Read Full Post »</a></p>
+</div>
+</div>
+<p align="center"></p>
+</div><!-- end id:content-main -->
+<div id="sidebar">
+<ul>
+<li class="sidebox"><h2>Search for something</h2><form action="https://teainateacup.wordpress.com/" class="searchform" id="searchform" method="get" role="search">
+<div>
+<label class="screen-reader-text" for="s">Search for:</label>
+<input id="s" name="s" type="text" value=""/>
+<input id="searchsubmit" type="submit" value="Search"/>
+</div>
+</form></li><li class="sidebox"><h2><label for="subscribe-field">Follow by Email</label></h2>
+<form accept-charset="utf-8" action="https://subscribe.wordpress.com" id="subscribe-blog" method="post">
+<p>Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+<p><input id="subscribe-field" name="email" placeholder="Enter your email address" style="width: 95%; padding: 1px 2px" type="text" value=""/></p>
+<p>
+<input name="action" type="hidden" value="subscribe"/>
+<input name="blog_id" type="hidden" value="22899124"/>
+<input name="source" type="hidden" value="https://teainateacup.wordpress.com/tag/anne-of-green-gables/"/>
+<input name="sub-type" type="hidden" value="widget"/>
+<input name="redirect_fragment" type="hidden" value="blog_subscription-3"/>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="04175b9789"/> <input type="submit" value="Yes please!"/>
+</p>
+</form>
+</li> <li class="sidebox"> <h2>Recent Posts</h2> <ul>
+<li>
+<a href="https://teainateacup.wordpress.com/2015/01/18/regency-whitework-handkerchief-sampler/">Regency Whitework Handkerchief Sampler</a>
+</li>
+<li>
+<a href="https://teainateacup.wordpress.com/2015/01/06/dresden-whitework-stitch-sampler/">Dresden Whitework Stitch Sampler</a>
+</li>
+<li>
+<a href="https://teainateacup.wordpress.com/2014/12/12/my-new-lady/">My New Lady</a>
+</li>
+<li>
+<a href="https://teainateacup.wordpress.com/2014/11/29/making-a-victorian-petticoat/">Making a Victorian Petticoat</a>
+</li>
+<li>
+<a href="https://teainateacup.wordpress.com/2014/11/22/making-a-victorian-chemise/">Making a Victorian Chemise</a>
+</li>
+<li>
+<a href="https://teainateacup.wordpress.com/2014/11/14/making-a-victorian-corset/">Making a Victorian Corset</a>
+</li>
+<li>
+<a href="https://teainateacup.wordpress.com/2014/10/13/pulled-work-embroidery-sampler-part-nine/">Pulled Work Embroidery Sampler: Part Nine</a>
+</li>
+<li>
+<a href="https://teainateacup.wordpress.com/2014/10/02/pulled-work-embroidery-sampler-part-eight/">Pulled Work Embroidery Sampler: Part Eight</a>
+</li>
+<li>
+<a href="https://teainateacup.wordpress.com/2014/09/15/pulled-work-embroidery-sampler-part-seven/">Pulled Work Embroidery Sampler: Part Seven</a>
+</li>
+<li>
+<a href="https://teainateacup.wordpress.com/2014/09/07/meeting-mr-darcy-in-the-lake/">Meeting Mr Darcy in the lake</a>
+</li>
+</ul>
+</li><li class="sidebox"><h2>Pages</h2> <ul>
+<li class="page_item page-item-2 page_item_has_children"><a href="https://teainateacup.wordpress.com/about/">About</a>
+<ul class="children">
+<li class="page_item page-item-303"><a href="https://teainateacup.wordpress.com/about/about-me/">About Me</a></li>
+</ul>
+</li>
+<li class="page_item page-item-305"><a href="https://teainateacup.wordpress.com/comic-relief/">Comic Relief</a></li>
+<li class="page_item page-item-365"><a href="https://teainateacup.wordpress.com/reviews/">Reviews</a></li>
+<li class="page_item page-item-529"><a href="https://teainateacup.wordpress.com/costumes/">Costumes</a></li>
+<li class="page_item page-item-690"><a href="https://teainateacup.wordpress.com/my-regency-journey/">My Regency Journey</a></li>
+<li class="page_item page-item-4"><a href="https://teainateacup.wordpress.com/contact/">Contact</a></li>
+</ul>
+</li><li class="sidebox"><h2>Looking for Something?</h2> <ul>
+<li class="cat-item cat-item-16960"><a href="https://teainateacup.wordpress.com/category/16th-century/">16th Century</a> (3)
+</li>
+<li class="cat-item cat-item-16912"><a href="https://teainateacup.wordpress.com/category/17th-century/">17th Century</a> (2)
+</li>
+<li class="cat-item cat-item-63345581"><a href="https://teainateacup.wordpress.com/category/18th-century-2/">18th Century</a> (45)
+</li>
+<li class="cat-item cat-item-16962"><a href="https://teainateacup.wordpress.com/category/19th-century/">19th Century</a> (16)
+</li>
+<li class="cat-item cat-item-16963"><a href="https://teainateacup.wordpress.com/category/20th-century/">20th Century</a> (5)
+</li>
+<li class="cat-item cat-item-19599"><a href="https://teainateacup.wordpress.com/category/artwork/">Artwork</a> (8)
+</li>
+<li class="cat-item cat-item-6096"><a href="https://teainateacup.wordpress.com/category/cooking/">Cooking</a> (1)
+</li>
+<li class="cat-item cat-item-30694999"><a href="https://teainateacup.wordpress.com/category/craft-2/">Craft</a> (10)
+</li>
+<li class="cat-item cat-item-8189495"><a href="https://teainateacup.wordpress.com/category/edwardian-era/">Edwardian era</a> (8)
+</li>
+<li class="cat-item cat-item-35013301"><a href="https://teainateacup.wordpress.com/category/embroidery-2/">Embroidery</a> (25)
+</li>
+<li class="cat-item cat-item-3737"><a href="https://teainateacup.wordpress.com/category/fashion/">Fashion</a> (50)
+</li>
+<li class="cat-item cat-item-1777253"><a href="https://teainateacup.wordpress.com/category/historical-costumes/">Historical Costumes</a> (45)
+</li>
+<li class="cat-item cat-item-60018359"><a href="https://teainateacup.wordpress.com/category/historical-customs/">Historical Customs</a> (17)
+</li>
+<li class="cat-item cat-item-620139"><a href="https://teainateacup.wordpress.com/category/historical-events/">Historical Events</a> (2)
+</li>
+<li class="cat-item cat-item-34921487"><a href="https://teainateacup.wordpress.com/category/literature-2/">Literature</a> (32)
+</li>
+<li class="cat-item cat-item-453583"><a href="https://teainateacup.wordpress.com/category/medical-practices/">Medical Practices</a> (1)
+</li>
+<li class="cat-item cat-item-1738835"><a href="https://teainateacup.wordpress.com/category/millinery/">Millinery</a> (5)
+</li>
+<li class="cat-item cat-item-17799283"><a href="https://teainateacup.wordpress.com/category/people-in-history/">People in History</a> (25)
+</li>
+<li class="cat-item cat-item-1861871"><a href="https://teainateacup.wordpress.com/category/poetry-2/">Poetry</a> (9)
+</li>
+<li class="cat-item cat-item-398"><a href="https://teainateacup.wordpress.com/category/politics/">Politics</a> (1)
+</li>
+<li class="cat-item cat-item-1979313"><a href="https://teainateacup.wordpress.com/category/regency-era/">Regency era</a> (58)
+</li>
+<li class="cat-item cat-item-1745"><a href="https://teainateacup.wordpress.com/category/review/">Review</a> (19)
+</li>
+<li class="cat-item cat-item-34918548"><a href="https://teainateacup.wordpress.com/category/sewing-2/">Sewing</a> (51)
+</li>
+<li class="cat-item cat-item-9101"><a href="https://teainateacup.wordpress.com/category/woodwork/">Woodwork</a> (1)
+</li>
+<li class="cat-item cat-item-349"><a href="https://teainateacup.wordpress.com/category/writing/">Writing</a> (2)
+</li>
+</ul>
+</li><li class="sidebox"><h2>Archives</h2> <select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+<option value="">Select Month</option>
+<option value="https://teainateacup.wordpress.com/2015/01/"> January 2015  (2)</option>
+<option value="https://teainateacup.wordpress.com/2014/12/"> December 2014  (1)</option>
+<option value="https://teainateacup.wordpress.com/2014/11/"> November 2014  (3)</option>
+<option value="https://teainateacup.wordpress.com/2014/10/"> October 2014  (2)</option>
+<option value="https://teainateacup.wordpress.com/2014/09/"> September 2014  (2)</option>
+<option value="https://teainateacup.wordpress.com/2014/08/"> August 2014  (3)</option>
+<option value="https://teainateacup.wordpress.com/2014/07/"> July 2014  (4)</option>
+<option value="https://teainateacup.wordpress.com/2014/06/"> June 2014  (1)</option>
+<option value="https://teainateacup.wordpress.com/2014/05/"> May 2014  (1)</option>
+<option value="https://teainateacup.wordpress.com/2014/04/"> April 2014  (2)</option>
+<option value="https://teainateacup.wordpress.com/2014/03/"> March 2014  (1)</option>
+<option value="https://teainateacup.wordpress.com/2014/02/"> February 2014  (1)</option>
+<option value="https://teainateacup.wordpress.com/2014/01/"> January 2014  (2)</option>
+<option value="https://teainateacup.wordpress.com/2013/11/"> November 2013  (1)</option>
+<option value="https://teainateacup.wordpress.com/2013/10/"> October 2013  (2)</option>
+<option value="https://teainateacup.wordpress.com/2013/09/"> September 2013  (3)</option>
+<option value="https://teainateacup.wordpress.com/2013/08/"> August 2013  (3)</option>
+<option value="https://teainateacup.wordpress.com/2013/07/"> July 2013  (3)</option>
+<option value="https://teainateacup.wordpress.com/2013/06/"> June 2013  (2)</option>
+<option value="https://teainateacup.wordpress.com/2013/05/"> May 2013  (3)</option>
+<option value="https://teainateacup.wordpress.com/2013/04/"> April 2013  (2)</option>
+<option value="https://teainateacup.wordpress.com/2013/03/"> March 2013  (4)</option>
+<option value="https://teainateacup.wordpress.com/2013/02/"> February 2013  (3)</option>
+<option value="https://teainateacup.wordpress.com/2013/01/"> January 2013  (6)</option>
+<option value="https://teainateacup.wordpress.com/2012/12/"> December 2012  (3)</option>
+<option value="https://teainateacup.wordpress.com/2012/11/"> November 2012  (3)</option>
+<option value="https://teainateacup.wordpress.com/2012/10/"> October 2012  (4)</option>
+<option value="https://teainateacup.wordpress.com/2012/09/"> September 2012  (3)</option>
+<option value="https://teainateacup.wordpress.com/2012/08/"> August 2012  (6)</option>
+<option value="https://teainateacup.wordpress.com/2012/07/"> July 2012  (4)</option>
+<option value="https://teainateacup.wordpress.com/2012/06/"> June 2012  (4)</option>
+<option value="https://teainateacup.wordpress.com/2012/05/"> May 2012  (4)</option>
+<option value="https://teainateacup.wordpress.com/2012/04/"> April 2012  (6)</option>
+<option value="https://teainateacup.wordpress.com/2012/03/"> March 2012  (3)</option>
+<option value="https://teainateacup.wordpress.com/2012/02/"> February 2012  (4)</option>
+<option value="https://teainateacup.wordpress.com/2012/01/"> January 2012  (4)</option>
+<option value="https://teainateacup.wordpress.com/2011/12/"> December 2011  (6)</option>
+<option value="https://teainateacup.wordpress.com/2011/11/"> November 2011  (4)</option>
+<option value="https://teainateacup.wordpress.com/2011/10/"> October 2011  (5)</option>
+<option value="https://teainateacup.wordpress.com/2011/09/"> September 2011  (4)</option>
+<option value="https://teainateacup.wordpress.com/2011/08/"> August 2011  (4)</option>
+<option value="https://teainateacup.wordpress.com/2011/07/"> July 2011  (5)</option>
+<option value="https://teainateacup.wordpress.com/2011/06/"> June 2011  (5)</option>
+<option value="https://teainateacup.wordpress.com/2011/05/"> May 2011  (8)</option>
+</select>
+</li><li class="sidebox"><h2>Follow me on Facebook</h2> <div class="textwidget"><!-- Facebook Badge START --><a href="http://www.facebook.com/pages/Tea-in-a-Teacup/182412965141625" style='font-family:"font-size:11px;font-variant:normal;font-style:normal;font-weight:normal;color:#3B5998;text-decoration:none;' target="_TOP" title="Tea in a Teacup">Tea in a Teacup</a><br/><a href="http://www.facebook.com/pages/Tea-in-a-Teacup/182412965141625" target="_TOP" title="Tea in a Teacup"><img height="214" src="http://badge.facebook.com/badge/182412965141625.1576.918037520.png" style="border:0;" width="120"/></a><br/><a href="http://www.facebook.com/business/dashboard/" style='font-family:"font-size:11px;font-variant:normal;font-style:normal;font-weight:normal;color:#3B5998;text-decoration:none;' target="_TOP" title="Make your own badge!">Promote Your Page Too</a><!-- Facebook Badge END --></div>
+</li><li class="sidebox"><h2><a href="http://twitter.com/TeainaTeacup">Follow me on Twitter</a></h2><ul class="tweets">
+<li>
+				I am beginning a foray into Victorian costuming! It all begins with a chemise and corset... 				<a class="timesince" href="http://twitter.com/TeainaTeacup/statuses/521502297772150784">3 months ago</a>
+</li>
+<li>
+				I am almost finished a new set of 18th century stays, and have begun handsewing an 18th c chemise too! Can't wait to wear them. 				<a class="timesince" href="http://twitter.com/TeainaTeacup/statuses/477622500994453504">8 months ago</a>
+</li>
+</ul><a class="twitter-follow-button" data-link-color="#265e15" data-show-count="false" data-text-color="#333333" href="http://twitter.com/TeainaTeacup">Follow @TeainaTeacup</a></li><li class="sidebox"><h2>Historical Sew-Fortnightly</h2><div style="overflow:hidden;"><a href="http://thedreamstress.com/the-historical-sew-fortnightly/"><img class="aligncenter" height="250" src="http://thedreamstress.com/wp-content/uploads/2012/12/HSFsm.jpg" width="210"/></a></div>
+</li><li class="sidebox"><h2>Reading Challenge</h2><div style="overflow:hidden;"><a href="http://historicaltapestry.blogspot.com.au/2012/11/2013-historical-fiction-reading.html?showComment=1359178145966"><img class="alignnone" height="590" src="http://4.bp.blogspot.com/-ShyzneubTuI/ULXuIQV161I/AAAAAAAAOpg/NC9GWVEYMAg/s1600/HFReadingChallenge2013-V2.jpg" width="221"/></a></div>
+</li><li class="sidebox"><h2>Looking for something else?</h2><div style="overflow:hidden"><a class="tag-link-16961" href="https://teainateacup.wordpress.com/tag/18th-century/" style="font-size: 10.990291262136pt;" title="4 topics">18th century</a>
+<a class="tag-link-29831542" href="https://teainateacup.wordpress.com/tag/18th-century-costumes/" style="font-size: 12.077669902913pt;" title="5 topics">18th century costumes</a>
+<a class="tag-link-61847380" href="https://teainateacup.wordpress.com/tag/19th-century-costumes/" style="font-size: 9.631067961165pt;" title="3 topics">19th century costumes</a>
+<a class="tag-link-3373937" href="https://teainateacup.wordpress.com/tag/1765/" style="font-size: 8pt;" title="2 topics">1765</a>
+<a class="tag-link-19788871" href="https://teainateacup.wordpress.com/tag/ackermanns-repository/" style="font-size: 12.077669902913pt;" title="5 topics">Ackermann's Repository</a>
+<a class="tag-link-670810" href="https://teainateacup.wordpress.com/tag/anne-of-green-gables/" style="font-size: 8pt;" title="2 topics">Anne of Green Gables</a>
+<a class="tag-link-62183027" href="https://teainateacup.wordpress.com/tag/bonnet-making/" style="font-size: 8pt;" title="2 topics">Bonnet making</a>
+<a class="tag-link-626461" href="https://teainateacup.wordpress.com/tag/chemise/" style="font-size: 9.631067961165pt;" title="3 topics">chemise</a>
+<a class="tag-link-9279289" href="https://teainateacup.wordpress.com/tag/cording/" style="font-size: 8pt;" title="2 topics">cording</a>
+<a class="tag-link-200186" href="https://teainateacup.wordpress.com/tag/corset/" style="font-size: 8pt;" title="2 topics">corset</a>
+<a class="tag-link-58410792" href="https://teainateacup.wordpress.com/tag/corset-construction/" style="font-size: 8pt;" title="2 topics">corset construction</a>
+<a class="tag-link-1132408" href="https://teainateacup.wordpress.com/tag/corsetry/" style="font-size: 12.077669902913pt;" title="5 topics">Corsetry</a>
+<a class="tag-link-15513148" href="https://teainateacup.wordpress.com/tag/corsets-and-crinolines/" style="font-size: 12.077669902913pt;" title="5 topics">Corsets and Crinolines</a>
+<a class="tag-link-14877" href="https://teainateacup.wordpress.com/tag/craft/" style="font-size: 10.990291262136pt;" title="4 topics">craft</a>
+<a class="tag-link-371741" href="https://teainateacup.wordpress.com/tag/craft-tutorial/" style="font-size: 9.631067961165pt;" title="3 topics">craft tutorial</a>
+<a class="tag-link-49046825" href="https://teainateacup.wordpress.com/tag/dresden-work/" style="font-size: 15.611650485437pt;" title="10 topics">Dresden work</a>
+<a class="tag-link-475574" href="https://teainateacup.wordpress.com/tag/eighteenth-century/" style="font-size: 13.029126213592pt;" title="6 topics">eighteenth century</a>
+<a class="tag-link-65134161" href="https://teainateacup.wordpress.com/tag/eighteenth-century-fashion/" style="font-size: 12.077669902913pt;" title="5 topics">eighteenth century fashion</a>
+<a class="tag-link-224604" href="https://teainateacup.wordpress.com/tag/eighteenth-century-literature/" style="font-size: 10.990291262136pt;" title="4 topics">eighteenth century literature</a>
+<a class="tag-link-5752193" href="https://teainateacup.wordpress.com/tag/eighteenth-century-poetry/" style="font-size: 8pt;" title="2 topics">eighteenth century poetry</a>
+<a class="tag-link-33649" href="https://teainateacup.wordpress.com/tag/embroidery/" style="font-size: 13.708737864078pt;" title="7 topics">embroidery</a>
+<a class="tag-link-6780279" href="https://teainateacup.wordpress.com/tag/embroidery-sampler/" style="font-size: 14.388349514563pt;" title="8 topics">embroidery sampler</a>
+<a class="tag-link-2217944" href="https://teainateacup.wordpress.com/tag/embroidery-tutorial/" style="font-size: 13.708737864078pt;" title="7 topics">embroidery tutorial</a>
+<a class="tag-link-42596" href="https://teainateacup.wordpress.com/tag/fans/" style="font-size: 8pt;" title="2 topics">Fans</a>
+<a class="tag-link-299726" href="https://teainateacup.wordpress.com/tag/french-revolution/" style="font-size: 9.631067961165pt;" title="3 topics">french revolution</a>
+<a class="tag-link-15223385" href="https://teainateacup.wordpress.com/tag/hat-trimmings/" style="font-size: 9.631067961165pt;" title="3 topics">hat trimmings</a>
+<a class="tag-link-92732" href="https://teainateacup.wordpress.com/tag/historical-fiction/" style="font-size: 9.631067961165pt;" title="3 topics">historical fiction</a>
+<a class="tag-link-133111354" href="https://teainateacup.wordpress.com/tag/historical-sew-fortnightly/" style="font-size: 9.631067961165pt;" title="3 topics">Historical Sew-Fortnightly</a>
+<a class="tag-link-2708" href="https://teainateacup.wordpress.com/tag/how-to/" style="font-size: 15.067961165049pt;" title="9 topics">how to</a>
+<a class="tag-link-89950" href="https://teainateacup.wordpress.com/tag/jane-austen/" style="font-size: 18.194174757282pt;" title="16 topics">Jane Austen</a>
+<a class="tag-link-85971430" href="https://teainateacup.wordpress.com/tag/jane-austen-festival-australia-2012/" style="font-size: 9.631067961165pt;" title="3 topics">Jane Austen Festival Australia 2012</a>
+<a class="tag-link-136627382" href="https://teainateacup.wordpress.com/tag/jane-austen-festival-australia-2013/" style="font-size: 10.990291262136pt;" title="4 topics">Jane Austen Festival Australia 2013</a>
+<a class="tag-link-2375891" href="https://teainateacup.wordpress.com/tag/jane-austen-letters/" style="font-size: 10.990291262136pt;" title="4 topics">Jane Austen letters</a>
+<a class="tag-link-10948061" href="https://teainateacup.wordpress.com/tag/janet-arnold/" style="font-size: 15.611650485437pt;" title="10 topics">Janet Arnold</a>
+<a class="tag-link-343444" href="https://teainateacup.wordpress.com/tag/joe-miller/" style="font-size: 8pt;" title="2 topics">Joe Miller</a>
+<a class="tag-link-24115414" href="https://teainateacup.wordpress.com/tag/joe-millers-jests/" style="font-size: 8pt;" title="2 topics">Joe Miller's Jests</a>
+<a class="tag-link-8900944" href="https://teainateacup.wordpress.com/tag/lady-susan/" style="font-size: 8pt;" title="2 topics">Lady Susan</a>
+<a class="tag-link-557" href="https://teainateacup.wordpress.com/tag/literature/" style="font-size: 13.708737864078pt;" title="7 topics">literature</a>
+<a class="tag-link-1590815" href="https://teainateacup.wordpress.com/tag/lucy-maud-montgomery/" style="font-size: 8pt;" title="2 topics">Lucy Maud Montgomery</a>
+<a class="tag-link-4550" href="https://teainateacup.wordpress.com/tag/marriage/" style="font-size: 10.990291262136pt;" title="4 topics">marriage</a>
+<a class="tag-link-88663866" href="https://teainateacup.wordpress.com/tag/mens-regency-costumes/" style="font-size: 15.067961165049pt;" title="9 topics">Men's Regency costumes</a>
+<a class="tag-link-224605" href="https://teainateacup.wordpress.com/tag/nineteenth-century-literature/" style="font-size: 13.029126213592pt;" title="6 topics">nineteenth century literature</a>
+<a class="tag-link-15513149" href="https://teainateacup.wordpress.com/tag/norah-waugh/" style="font-size: 13.708737864078pt;" title="7 topics">Norah Waugh</a>
+<a class="tag-link-1093410" href="https://teainateacup.wordpress.com/tag/northanger-abbey/" style="font-size: 8pt;" title="2 topics">Northanger Abbey</a>
+<a class="tag-link-147622" href="https://teainateacup.wordpress.com/tag/oscar-wilde/" style="font-size: 9.631067961165pt;" title="3 topics">Oscar Wilde</a>
+<a class="tag-link-142963" href="https://teainateacup.wordpress.com/tag/pamela/" style="font-size: 8pt;" title="2 topics">Pamela</a>
+<a class="tag-link-357237" href="https://teainateacup.wordpress.com/tag/panniers/" style="font-size: 8pt;" title="2 topics">panniers</a>
+<a class="tag-link-449964" href="https://teainateacup.wordpress.com/tag/pattern-drafting/" style="font-size: 8pt;" title="2 topics">Pattern Drafting</a>
+<a class="tag-link-39314194" href="https://teainateacup.wordpress.com/tag/patterns-of-fashion-1/" style="font-size: 14.388349514563pt;" title="8 topics">Patterns of Fashion 1</a>
+<a class="tag-link-422" href="https://teainateacup.wordpress.com/tag/poetry/" style="font-size: 9.631067961165pt;" title="3 topics">poetry</a>
+<a class="tag-link-61847379" href="https://teainateacup.wordpress.com/tag/poke-bonnet/" style="font-size: 8pt;" title="2 topics">Poke Bonnet</a>
+<a class="tag-link-82470" href="https://teainateacup.wordpress.com/tag/pride-and-prejudice/" style="font-size: 13.029126213592pt;" title="6 topics">Pride and Prejudice</a>
+<a class="tag-link-139054409" href="https://teainateacup.wordpress.com/tag/pulled-work/" style="font-size: 15.067961165049pt;" title="9 topics">pulled work</a>
+<a class="tag-link-248462738" href="https://teainateacup.wordpress.com/tag/pulled-work-stitches/" style="font-size: 14.388349514563pt;" title="8 topics">pulled work stitches</a>
+<a class="tag-link-72788" href="https://teainateacup.wordpress.com/tag/regency/" style="font-size: 15.067961165049pt;" title="9 topics">Regency</a>
+<a class="tag-link-9888321" href="https://teainateacup.wordpress.com/tag/regency-corset/" style="font-size: 9.631067961165pt;" title="3 topics">Regency corset</a>
+<a class="tag-link-5374302" href="https://teainateacup.wordpress.com/tag/regency-costumes/" style="font-size: 17.78640776699pt;" title="15 topics">Regency costumes</a>
+<a class="tag-link-1708138" href="https://teainateacup.wordpress.com/tag/regency-fashion/" style="font-size: 22pt;" title="31 topics">Regency Fashion</a>
+<a class="tag-link-6618185" href="https://teainateacup.wordpress.com/tag/ribbon-flower/" style="font-size: 8pt;" title="2 topics">ribbon flower</a>
+<a class="tag-link-14643696" href="https://teainateacup.wordpress.com/tag/ribbon-trims/" style="font-size: 8pt;" title="2 topics">ribbon trims</a>
+<a class="tag-link-214332" href="https://teainateacup.wordpress.com/tag/rococo/" style="font-size: 8pt;" title="2 topics">rococo</a>
+<a class="tag-link-1791601" href="https://teainateacup.wordpress.com/tag/samuel-richardson/" style="font-size: 8pt;" title="2 topics">Samuel Richardson</a>
+<a class="tag-link-709377" href="https://teainateacup.wordpress.com/tag/sense-and-sensibility/" style="font-size: 8pt;" title="2 topics">Sense and Sensibility</a>
+<a class="tag-link-30314" href="https://teainateacup.wordpress.com/tag/sewing/" style="font-size: 10.990291262136pt;" title="4 topics">sewing</a>
+<a class="tag-link-4152824" href="https://teainateacup.wordpress.com/tag/sewing-costumes/" style="font-size: 8pt;" title="2 topics">sewing costumes</a>
+<a class="tag-link-670479" href="https://teainateacup.wordpress.com/tag/teacup/" style="font-size: 9.631067961165pt;" title="3 topics">teacup</a>
+<a class="tag-link-89381052" href="https://teainateacup.wordpress.com/tag/the-cut-of-mens-clothes/" style="font-size: 9.631067961165pt;" title="3 topics">The Cut of Men's Clothes</a>
+<a class="tag-link-9670823" href="https://teainateacup.wordpress.com/tag/the-gentlemans-magazine/" style="font-size: 14.388349514563pt;" title="8 topics">The Gentlemans Magazine</a>
+<a class="tag-link-259628" href="https://teainateacup.wordpress.com/tag/the-spectator/" style="font-size: 8pt;" title="2 topics">The Spectator</a>
+<a class="tag-link-1198852" href="https://teainateacup.wordpress.com/tag/tyburn/" style="font-size: 8pt;" title="2 topics">Tyburn</a>
+<a class="tag-link-10296761" href="https://teainateacup.wordpress.com/tag/victorian-costumes/" style="font-size: 9.631067961165pt;" title="3 topics">victorian costumes</a>
+<a class="tag-link-2420584" href="https://teainateacup.wordpress.com/tag/victorian-fashion/" style="font-size: 12.077669902913pt;" title="5 topics">Victorian fashion</a>
+<a class="tag-link-926536" href="https://teainateacup.wordpress.com/tag/whitework/" style="font-size: 16.563106796117pt;" title="12 topics">whitework</a>
+<a class="tag-link-3848467" href="https://teainateacup.wordpress.com/tag/william-hogarth/" style="font-size: 8pt;" title="2 topics">William Hogarth</a>
+<a class="tag-link-598" href="https://teainateacup.wordpress.com/tag/women/" style="font-size: 9.631067961165pt;" title="3 topics">Women</a></div></li><li class="sidebox"><h2>Reading Challenge</h2><div style="overflow:hidden;"><a href="http://historicaltapestry.blogspot.com.au/2011/12/historical-fiction-challenge-2012.html"><img class="alignnone" height="148" src="http://1.bp.blogspot.com/-eWUmVCqGbSU/TtY1iDbwS1I/AAAAAAAABG0/AZsRZxeyGgc/s1600/Badge-HF-challenge-2012_sma.png" width="200"/></a></div>
+</li><li class="sidebox"><h2>Reading Challenge</h2><div style="overflow:hidden;"><a href="http://historicaltapestry.blogspot.com/2010/12/historical-fiction-challenge-2011.html"><img class="alignnone" height="325" src="http://1.bp.blogspot.com/_FQJMNt1iphk/TROu8aMmwjI/AAAAAAAAA8E/tlD6xN-a1Vs/s1600/historicalfiction_challenge_button+06.png" width="177"/></a></div>
+</li><li class="sidebox"><h2>Which Jane Austen heroine are You?</h2> <div class="textwidget"><p align="center"><a href="http://www.strangegirl.com/emma/quiz.php" target="_blank"><img alt="I am Elizabeth Bennet!" height="300" src="http://www.strangegirl.com/emma/quizlizzy.jpg" width="200"/><br/> <br/>
+Take the Quiz here!</a></p></div>
+</li><li class="sidebox"><h2>Reading Challenge</h2><div style="overflow:hidden;"><a href="http://stilettostorytime.wordpress.com/2011/01/10/welcome-to-the-classics-challenge-2011/"><img class="alignnone" height="134" src="http://3.bp.blogspot.com/-TXHKFNDY3ls/TWBu3YI3OFI/AAAAAAAADlo/qUbhpZQ7piU/s1600/classics+challenge.jpg" width="160"/></a></div>
+</li></ul>
+</div><!-- end id:sidebar -->
+</div><!-- end id:content -->
+</div><!-- end id:container -->
+<div id="footer">
+<div id="colophon">
+<p><a href="https://wordpress.com/?ref=footer_website">Create a free website or blog at WordPress.com</a>.</p>
+<p><a href="https://wordpress.com/themes/mistylook/" title="Learn more about this theme">The MistyLook Theme</a>.</p>
+<br class="clear"/>
+</div><!-- end #colophon-->
+</div><!-- end #footer-->
+
+<!-- wpcom_wp_footer -->
+
+
+
+
+<div style="display:none">
+</div>
+<div id="infinite-footer">
+<div class="container">
+<div class="blog-info">
+<a href="https://teainateacup.wordpress.com/" id="infinity-blog-title" rel="home">
+						Tea in a Teacup					</a>
+</div>
+<div class="blog-credits">
+<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com</a>. <a href="https://wordpress.com/themes/mistylook/" title="Learn more about this theme">The MistyLook Theme</a>.				</div>
+</div>
+</div><!-- #infinite-footer -->
+<div class="loggedout-follow-normal" id="bit">
+<a class="bsub" href="javascript:void(0)"><span id="bsub-text">Follow</span></a>
+<div id="bitsubscribe">
+<h3><label for="loggedout-follow-field">Follow “Tea in a Teacup”</label></h3>
+<form accept-charset="utf-8" action="https://subscribe.wordpress.com" id="loggedout-follow" method="post">
+<p>Get every new post delivered to your Inbox.</p>
+<p id="loggedout-follow-error" style="display: none;"></p>
+<p class="bit-follow-count">Join 264 other followers</p>
+<p><input id="loggedout-follow-field" name="email" onblur='this.value=(this.value=="") ? "Enter your email address" : this.value;' onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' type="email" value="Enter your email address"/></p>
+<input name="action" type="hidden" value="subscribe"/>
+<input name="blog_id" type="hidden" value="22899124"/>
+<input name="source" type="hidden" value="https://teainateacup.wordpress.com/tag/anne-of-green-gables/"/>
+<input name="sub-type" type="hidden" value="loggedout-follow"/>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="04175b9789"/><input name="_wp_http_referer" type="hidden" value="/tag/anne-of-green-gables/"/>
+<p id="bsub-subscribe-button"><input type="submit" value="Sign me up"/></p>
+</form>
+<div id="bsub-credit"><a href="https://wordpress.com/?ref=lof">Build a website with WordPress.com</a></div>
+</div><!-- #bitsubscribe -->
+</div><!-- #bit -->
+<div id="carousel-reblog-box">
+<form action="" name="carousel-reblog">
+<textarea id="carousel-reblog-content" name="carousel-reblog-content" onblur="if ( this.value == '' || this.value == '' ) { this.value = 'Add your thoughts here... (optional)'; }" onclick="if ( this.value == 'Add your thoughts here... (optional)' ) { this.value = ''; }">Add your thoughts here... (optional)</textarea>
+<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+<select id="carousel-reblog-to-blog-id" name="carousel-reblog-to-blog-id">
+</select>
+<div class="submit">
+<span class="canceltext"><a class="cancel" href="">Cancel</a></span>
+<input class="button" id="carousel-reblog-submit" name="carousel-reblog-submit" type="submit" value="Reblog Post"/>
+<input id="carousel-reblog-blog-id" type="hidden" value="22899124"/>
+<input id="carousel-reblog-blog-url" type="hidden" value="https://teainateacup.wordpress.com"/>
+<input id="carousel-reblog-blog-title" type="hidden" value="Tea in a Teacup"/>
+<input id="carousel-reblog-post-url" type="hidden" value=""/>
+<input id="carousel-reblog-post-title" type="hidden" value=""/>
+</div>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="1d7e00ee90"/><input name="_wp_http_referer" type="hidden" value="/tag/anne-of-green-gables/"/> </form>
+<div class="arrow"></div>
+</div>
+<link href="https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1412618825g" id="all-css-0" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825g&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link href="https://s2.wp.com/wp-content/mu-plugins/tiled-gallery/tiled-gallery.css?m=1401143454g" id="all-css-2" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+ 
+
+
+<noscript><img alt="" src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden"/></noscript>
+</body>
+</html>

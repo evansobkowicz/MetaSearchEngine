@@ -1,0 +1,15 @@
+Title: Wardell: Games on Xbox One and PS4 Will Look Like The Lord of The Rings in a Few Years; Talks DirectX 12  |  DualShockers
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.3
+X-Pingback: http://www.dualshockers.com/xmlrpc.php
+Link: <http://www.dualshockers.com/?p=345799>; rel=shortlink
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 20:28:01 GMT
+X-Varnish: 1639478921 1639363003
+Age: 10337
+Via: 1.1 varnish
+Connection: close
+X-Cache: HIT
+

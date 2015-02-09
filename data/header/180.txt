@@ -1,0 +1,8 @@
+Title: Anne of Green Gables Store
+Date: Mon, 09 Feb 2015 20:44:41 GMT
+Server: Apache/2.2.27 (Unix) mod_ssl/2.2.27 OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_fcgid/2.3.9 Resin/3.1.10
+X-Powered-By: PHP/4.4.9
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+

@@ -1,0 +1,10 @@
+Title: The Catcher in the Rye Challenge — CKSF.ORG - Blog
+Content-Type: text/html; charset=UTF-8
+Server: Microsoft-IIS/7.0
+Set-Cookie: CFID=4198028;expires=Wed, 01-Feb-2045 20:44:00 GMT;path=/
+Set-Cookie: CFTOKEN=623232fcecd6b904-60DA70CF-E82F-0C3D-AE466D491FE5FBAC;expires=Wed, 01-Feb-2045 20:44:00 GMT;path=/
+Set-Cookie: JSESSIONID=8430498f7e6b91f6f49755437315543784a7;path=/
+X-Powered-By: ASP.NET
+Date: Mon, 09 Feb 2015 20:43:59 GMT
+Connection: close
+

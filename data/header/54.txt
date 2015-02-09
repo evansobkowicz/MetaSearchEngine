@@ -1,0 +1,13 @@
+Title: The Lord of the Rings: The Return of the King (2003) - IMDb
+Date: Mon, 09 Feb 2015 20:42:41 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYti34isXseT3x614MZ0lFWLL213PdrGmF6HvoqsOhoyTkUXlAS91VSTwT8Iwq4owCIBOOWCSOf%0D%0AiYuB1_80E7l3UowNcox5a2y2uOmjnTPv0aZStisj_s20mzRcsy2nxRp-TvOc92NP7umj3C8icWhN%0D%0Ar3laX5sXJOWw7whqHo-Lgbwn94viCQBEmhPkOBOAX4yzm9FLP63zGFMdTb4SdezrNkLThOnLRnEN%0D%0A3uDRWw2HBNvtXFuGo_v5IJJkSuCdb2FOeloratDvxWeux11Ubw-9vg%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:48 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:48 GMT; Path=/
+Set-Cookie: session-id-time=1581194560; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:48 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

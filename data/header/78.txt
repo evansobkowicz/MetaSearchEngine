@@ -1,0 +1,14 @@
+Title: A Drop of Romeo: And Then There Were None
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 09 Feb 2015 20:43:05 GMT
+Date: Mon, 09 Feb 2015 20:43:05 GMT
+Cache-Control: private, max-age=0
+Last-Modified: Fri, 06 Feb 2015 21:39:32 GMT
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Alternate-Protocol: 80:quic,p=0.02
+Accept-Ranges: none
+Vary: Accept-Encoding
+Connection: close
+

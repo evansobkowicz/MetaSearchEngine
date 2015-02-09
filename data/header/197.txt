@@ -1,0 +1,13 @@
+Title: The Eagle Has Landed (1976) - IMDb
+Date: Mon, 09 Feb 2015 20:45:03 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYpZSNBwcpbRfWlCJyqqmLk4XXWfXQ4K0_3XvygZPAY1KFEww4T-kiG8KvoVehoSrTbQLDLuB3a%0D%0AdQfeJSaYBqfo80k3sSt5jZh8lbVgVEXesi1ajAFXyJp7aA5g9xiOzDev53ynITtbk9XyegsMXuGp%0D%0Ag1PCEYecGzf9PGUBcB47T0h2qbWaTMe5IAJVE5kTW8PnoP7uWhEHdsmojdnLN3VItHdhQbFJef0b%0D%0Akv_4Rpq7IdxqH9P93QjHcbC_Eh-j-pj73TlP7MeNDoecIsVaRrKydA%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:59:11 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:59:11 GMT; Path=/
+Set-Cookie: session-id-time=1581194703; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:59:11 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

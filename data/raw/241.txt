@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Avatar - Wikipedia, the free encyclopedia</title>
+<meta content="MediaWiki 1.25wmf15" name="generator"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Avatar" rel="alternate"/>
+<link href="/w/index.php?title=Avatar&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Avatar&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="/wiki/Avatar" hreflang="x-default" rel="alternate"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="http://en.wikipedia.org/wiki/Avatar" rel="canonical"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+
+
+
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Avatar skin-vector action-view vector-animateLayout">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><span dir="auto">Avatar</span></h1>
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote">This article is about the original concept in Hinduism.  For the 2009 film, see <a href="/wiki/Avatar_(2009_film)" title="Avatar (2009 film)">Avatar (2009 film)</a>.  For the computing use, see <a href="/wiki/Avatar_(computing)" title="Avatar (computing)">Avatar (computing)</a>.  For other uses, see <a class="mw-disambig" href="/wiki/Avatar_(disambiguation)" title="Avatar (disambiguation)">Avatar (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Avatars.jpg"><img alt="" class="thumbimage" data-file-height="448" data-file-width="357" height="314" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Avatars.jpg/250px-Avatars.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/a/a0/Avatars.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a0/Avatars.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Avatars.jpg" title="Enlarge"></a></div>
+Ten avatars of <a href="/wiki/Vishnu" title="Vishnu">Vishnu</a> (<a href="/wiki/Matsya" title="Matsya">Matsya</a>, <a href="/wiki/Kurma" title="Kurma">Kurma</a>, <a href="/wiki/Varaha" title="Varaha">Varaha</a>, <a href="/wiki/Vamana" title="Vamana">Vamana</a>, <a href="/wiki/Krishna" title="Krishna">Krishna</a>, <a href="/wiki/Kalki" title="Kalki">Kalki</a>, <a class="mw-redirect" href="/wiki/Buddha" title="Buddha">Buddha</a>, <a class="mw-redirect" href="/wiki/Parshurama" title="Parshurama">Parshurama</a>, <a href="/wiki/Rama" title="Rama">Rama</a> &amp; <a href="/wiki/Narasimha" title="Narasimha">Narasimha</a>). Painting from <a href="/wiki/Jaipur" title="Jaipur">Jaipur</a>, now at the <a href="/wiki/Victoria_and_Albert_Museum" title="Victoria and Albert Museum">Victoria and Albert Museum</a></div>
+</div>
+</div>
+<p>In <a href="/wiki/Hinduism" title="Hinduism">Hinduism</a>, an <b>avatar</b> (<span class="nowrap"><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ˈ/ primary stress follows">ˈ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/æ/ short 'a' in 'bad'">æ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="'v' in 'vie'">v</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ə/ 'u' in 'syrup'">ə</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ˌ/ secondary stress follows">ˌ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="'t' in 'tie'">t</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ɑr/ 'ar' in 'bard'">ɑr</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English">,</a></span> <span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ˌ/ secondary stress follows">ˌ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/æ/ short 'a' in 'bad'">æ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="'v' in 'vie'">v</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ə/ 'u' in 'syrup'">ə</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ˈ/ primary stress follows">ˈ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="'t' in 'tie'">t</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ɑr/ 'ar' in 'bard'">ɑr</span></a></span><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>;<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> <small>Hindustani: </small><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_Hindi_and_Urdu" title="Help:IPA for Hindi and Urdu">[əʋˈt̪aːr]</a></span> from <a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> <a class="extiw" href="//en.wiktionary.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%B0#Sanskrit" title="wikt:अवतार">अवतार</a> <i><span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration">avatāra</span></i> "descent") is a deliberate descent of a <a href="/wiki/Deity" title="Deity">deity</a> to Earth, or a descent of the <a href="/wiki/Supreme_Being" title="Supreme Being">Supreme Being</a> (e.g., <a href="/wiki/Vishnu" title="Vishnu">Vishnu</a> for <a href="/wiki/Vaishnavism" title="Vaishnavism">Vaishnavites</a>), and is mostly translated into English as "<a href="/wiki/Incarnation" title="Incarnation">incarnation</a>", but more accurately as "appearance" or "manifestation".<sup class="reference" id="cite_ref-Matchett_2-0"><a href="#cite_note-Matchett-2"><span>[</span>2<span>]</span></a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>The phenomenon of an avatar is observed in <a href="/wiki/Hinduism" title="Hinduism">Hinduism</a>,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> <a href="/wiki/Ayyavazhi" title="Ayyavazhi">Ayyavazhi</a>, and <a href="/wiki/Sikhism" title="Sikhism">Sikhism</a>. Avatar is regarded as one of the core principles of Hinduism.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>The term is most often associated with <a href="/wiki/Vishnu" title="Vishnu">Vishnu</a>, though it has also come to be associated with other deities.<sup class="reference" id="cite_ref-Gale.27s_6-0"><a href="#cite_note-Gale.27s-6"><span>[</span>6<span>]</span></a></sup> Varying lists of avatars of Vishnu appear in Hindu scriptures, including the ten <a href="/wiki/Dashavatara" title="Dashavatara">Dashavatara</a> of the <i><a href="/wiki/Garuda_Purana" title="Garuda Purana">Garuda Purana</a></i> and the twenty-two avatars in the <i><a href="/wiki/Bhagavata_Purana" title="Bhagavata Purana">Bhagavata Purana</a></i>, though the latter adds that the incarnations of Vishnu are innumerable.<sup class="reference" id="cite_ref-Bryant_7-0"><a href="#cite_note-Bryant-7"><span>[</span>7<span>]</span></a></sup> The avatars of Vishnu are a primary component of <a href="/wiki/Vaishnavism" title="Vaishnavism">Vaishnavism</a>. An early reference to avatar, and to avatar <i>doctrine</i>, is in the <i><a href="/wiki/Bhagavad_Gita" title="Bhagavad Gita">Bhagavad Gita</a></i>.<sup class="reference" id="cite_ref-Sheth_8-0"><a href="#cite_note-Sheth-8"><span>[</span>8<span>]</span></a></sup></p>
+<p><a href="/wiki/Shiva" title="Shiva">Shiva</a> and <a href="/wiki/Ganesha" title="Ganesha">Ganesha</a> are also described as descending in the form of avatars. The various manifestations of <a href="/wiki/Devi" title="Devi">Devi</a>, the Divine Mother principal in Hinduism, are also described as avatars or incarnations by some scholars and followers of <a href="/wiki/Shaktism" title="Shaktism">Shaktism</a>.<sup class="reference" id="cite_ref-Sheth_8-1"><a href="#cite_note-Sheth-8"><span>[</span>8<span>]</span></a></sup><sup class="reference" id="cite_ref-Hawley_9-0"><a href="#cite_note-Hawley-9"><span>[</span>9<span>]</span></a></sup> The avatars of Vishnu carry a greater theological prominence than those of other deities, which some scholars perceive to be imitative of the Vishnu avatar lists.</p>
+<p>In <a href="/wiki/Sikhism" title="Sikhism">Sikhism</a>, an avatar is a deliberate descent of a soul to earth in any form.<sup class="reference" id="cite_ref-Page_792.2C_Line_7.2C_Bhagat_Kabir_10-0"><a href="#cite_note-Page_792.2C_Line_7.2C_Bhagat_Kabir-10"><span>[</span>10<span>]</span></a></sup> <a href="/wiki/Guru_Granth_Sahib" title="Guru Granth Sahib">Guru Granth Sahib</a> believes in the existence of the Dashavatara. In <i><a href="/wiki/Dasam_Granth" title="Dasam Granth">Dasam Granth</a></i>, Guru Gobind Singh wrote three composition on historical avatars which include Vishnu Avatar, Brahma Avatar, and Rudra Avatar.<sup class="reference" id="cite_ref-Dasam_Granth_Sahib_11-0"><a href="#cite_note-Dasam_Granth_Sahib-11"><span>[</span>11<span>]</span></a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology_and_meaning"><span class="tocnumber">1</span> <span class="toctext">Etymology and meaning</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Avatars_of_Vishnu"><span class="tocnumber">2</span> <span class="toctext">Avatars of Vishnu</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Dashavatara"><span class="tocnumber">2.1</span> <span class="toctext">Dashavatara</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#In_the_Bhagavata_Purana"><span class="tocnumber">2.2</span> <span class="toctext">In the Bhagavata Purana</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Other_Vaishnava_avatars"><span class="tocnumber">2.3</span> <span class="toctext">Other Vaishnava avatars</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Purusha_avatars"><span class="tocnumber">2.3.1</span> <span class="toctext">Purusha avatars</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Guna_avatars"><span class="tocnumber">2.3.2</span> <span class="toctext">Guna avatars</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Manvantara_avatars"><span class="tocnumber">2.3.3</span> <span class="toctext">Manvantara avatars</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Shaktyavesa_and_Avesa_avatars"><span class="tocnumber">2.3.4</span> <span class="toctext">Shaktyavesa and Avesa avatars</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#In_Sikhism"><span class="tocnumber">2.4</span> <span class="toctext">In Sikhism</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Avatars_of_Ganesha"><span class="tocnumber">3</span> <span class="toctext">Avatars of Ganesha</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Avatars_of_Shiva"><span class="tocnumber">4</span> <span class="toctext">Avatars of Shiva</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Avatars_of_Devi"><span class="tocnumber">5</span> <span class="toctext">Avatars of Devi</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Avatars_of_Lakshmi"><span class="tocnumber">6</span> <span class="toctext">Avatars of Lakshmi</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Avatars_of_Brahma"><span class="tocnumber">7</span> <span class="toctext">Avatars of Brahma</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Etymology_and_meaning">Etymology and meaning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=1" title="Edit section: Etymology and meaning">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Sanskrit noun <i><span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration">avatāra</span></i> is derived from the verbal root <span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration"><i>tṝ</i></span> "to cross over", joined with the prefix <i><span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration">ava</span></i> "off, away, down". The word does not occur in the Vedas, but is recorded in <span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration"><a href="/wiki/P%C4%81%E1%B9%87ini" title="Pāṇini">Pāṇini</a></span> (3.3.120). <i><span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration">Avatāra</span></i> was initially used to describe different deities, then around the 6th century AD it began to be used primarily to describe the manifestations of <a href="/wiki/Vishnu" title="Vishnu">Vishnu</a>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> While earlier texts mention deities taking on different forms, the <i><a href="/wiki/Bhagavad_Gita" title="Bhagavad Gita">Bhagavad Gita</a></i> (4.5-9) is the first text to discuss the doctrine associated with the term even though the word <i>avatāra</i> itself is not mentioned.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>According to some scholars like <a href="/wiki/Mercy_Oduyoye" title="Mercy Oduyoye">Mercy Oduyoye</a>, H. M. Vroom, and Noel Sheth, the common translation "<a href="/wiki/Incarnation" title="Incarnation">incarnation</a>" is somewhat misleading as the concept of an avatar corresponds more closely to the view of <a href="/wiki/Docetism" title="Docetism">Docetism</a> in <a href="/wiki/Christian_theology" title="Christian theology">Christian theology</a>, as different from the idea of God 'in the flesh' in mainstream <a href="/wiki/Christology" title="Christology">Christology</a>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Avatars_of_Vishnu">Avatars of Vishnu</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=2" title="Edit section: Avatars of Vishnu">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Vishnu" title="Vishnu">Vishnu</a></div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Matsya_painting.jpg"><img alt="" class="thumbimage" data-file-height="977" data-file-width="700" height="307" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Matsya_painting.jpg/220px-Matsya_painting.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Matsya_painting.jpg/330px-Matsya_painting.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Matsya_painting.jpg/440px-Matsya_painting.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Matsya_painting.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Matsya" title="Matsya">Matsya</a>, fish avatar of Vishnu</div>
+</div>
+</div>
+<p>The concept of avatar within Hinduism is most often associated with <a href="/wiki/Vishnu" title="Vishnu">Vishnu</a>, the preserver or sustainer aspect of God within the Hindu Trinity or <a href="/wiki/Trimurti" title="Trimurti">Trimurti</a> or the one and only supreme God for followers of <a href="/wiki/Vaishnavism" title="Vaishnavism">Vaishnavism</a>.</p>
+<p>Vishnu's avatars typically descend for a very specific purpose. An oft-quoted passage from the <a href="/wiki/Bhagavad_Gita" title="Bhagavad Gita">Bhagavad Gita</a> describes the typical role of an avatar of Vishnu—as bringing <a href="/wiki/Dharma" title="Dharma">dharma</a>, or righteousness, back to the social and cosmic order:<sup class="reference" id="cite_ref-Matchett_2-1"><a href="#cite_note-Matchett-2"><span>[</span>2<span>]</span></a></sup><sup class="reference" id="cite_ref-Gale.27s_6-1"><a href="#cite_note-Gale.27s-6"><span>[</span>6<span>]</span></a></sup></p>
+<blockquote>
+<table class="cquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">Whenever righteousness wanes and unrighteousness increases I send myself forth.<br/>
+<p>For the protection of the good and for the destruction of evil,<br/>
+and for the establishment of righteousness,<br/>
+I come into being age after age. (Gita:4.7–8)</p>
+</td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”</td>
+</tr>
+</table>
+</blockquote>
+<p>The descents of Vishnu are also integral to His teaching and tradition, whereas the accounts of other deities are not so strictly dependent on their avatar stories. Although it is usual to speak of Vishnu as the source of the avatars, within the <a href="/wiki/Vaishnavism" title="Vaishnavism">Vaishnavism</a> branch of Hinduism <a href="/wiki/Narayana" title="Narayana">Narayana</a>, <a href="/wiki/Vasudeva" title="Vasudeva">Vasudeva</a>, and <a href="/wiki/Krishna" title="Krishna">Krishna</a> are also seen as names denoting divine aspects which descend as avatars.<sup class="reference" id="cite_ref-Matchett_2-2"><a href="#cite_note-Matchett-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Bhagavata_Purana" title="Bhagavata Purana">Bhagavata Purana</a> describes Vishnu's avatars as innumerable, though there are ten incarnations (<i><a href="/wiki/Dashavatara" title="Dashavatara">Dashavatara</a></i>), that are widely seen as his major appearances.<sup class="reference" id="cite_ref-Matchett_2-3"><a href="#cite_note-Matchett-2"><span>[</span>2<span>]</span></a></sup><sup class="reference" id="cite_ref-Bryant_7-1"><a href="#cite_note-Bryant-7"><span>[</span>7<span>]</span></a></sup> Krishna and <a href="/wiki/Rama" title="Rama">Rama</a> are the two mostly widely known and worshiped avatars of Vishnu, with their stories told in the two major Sanskrit epics, the <a href="/wiki/Mahabharata" title="Mahabharata">Mahabharata</a> and the <a href="/wiki/Ramayana" title="Ramayana">Ramayana</a>.<sup class="reference" id="cite_ref-King_16-0"><a href="#cite_note-King-16"><span>[</span>16<span>]</span></a></sup> Different lists of Vishnu's avatars appear in different texts, including: the <i>dasavatara</i> from the <a href="/wiki/Garuda_Purana" title="Garuda Purana">Garuda Purana</a>; lists of twenty-two, twenty-three, and sixteen avatars in the <a href="/wiki/Bhagavata_Purana" title="Bhagavata Purana">Bhagavata Purana</a>;<sup class="reference" id="cite_ref-Mishra_17-0"><a href="#cite_note-Mishra-17"><span>[</span>17<span>]</span></a></sup> thirty-nine avatars in the <a class="mw-redirect" href="/wiki/Pa%C3%B1caratra" title="Pañcaratra">Pañcaratra</a><sup class="reference" id="cite_ref-18"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> the <i>dasavatara</i> again in <a href="/wiki/Agni_Purana" title="Agni Purana">Agni Purana</a>; the first eight of the <i>dasavatara</i> in <a href="/wiki/Padma_Purana" title="Padma Purana">Padma Purana</a>. The commonly accepted number of ten was fixed well before the 10th century CE.<sup class="reference" id="cite_ref-Mishra_17-1"><a href="#cite_note-Mishra-17"><span>[</span>17<span>]</span></a></sup> In addition, various Vaishnava saints and founders are considered to be partial avatars.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>The various avatars categorized in many different ways. For example: <i>Purusavatara</i> is the first avatara; <i>Gunavataras</i> are represented by the <a href="/wiki/Trimurti" title="Trimurti">Trimurti</a> (<a href="/wiki/Brahma" title="Brahma">Brahma</a>, <a href="/wiki/Vishnu" title="Vishnu">Vishnu</a>, and <a href="/wiki/Shiva" title="Shiva">Shiva</a>) who each preside over one of the <a href="/wiki/Gu%E1%B9%87a" title="Guṇa">Guṇas</a> (rajas, sattva, and tamas); <i>Lilavataras</i> are the well-known ones, and include <i>Avesavataras</i> (beings into whom part of God Himself has entered) and <i>saktyamsavesa</i> (into whom only parts of His power enter); <i>Kalpa-</i>, <i>Manvantara-</i>, and <i>Yuga-avataras</i> descend during different cosmic ages.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> Some <a href="/wiki/Vaishnavism" title="Vaishnavism">Vaishnavism</a> schools consider Krishna to be the source of all avatars (<a href="/wiki/Krishnaism" title="Krishnaism">Krishnaism</a>).</p>
+<h3><span class="mw-headline" id="Dashavatara">Dashavatara</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=3" title="Edit section: Dashavatara">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Dashavatara" title="Dashavatara">Dashavatara</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Varaha_avtar,_killing_a_demon_to_protect_Bhu,_c1740.jpg"><img alt="" class="thumbimage" data-file-height="530" data-file-width="394" height="296" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Varaha_avtar%2C_killing_a_demon_to_protect_Bhu%2C_c1740.jpg/220px-Varaha_avtar%2C_killing_a_demon_to_protect_Bhu%2C_c1740.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Varaha_avtar%2C_killing_a_demon_to_protect_Bhu%2C_c1740.jpg/330px-Varaha_avtar%2C_killing_a_demon_to_protect_Bhu%2C_c1740.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/cd/Varaha_avtar%2C_killing_a_demon_to_protect_Bhu%2C_c1740.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Varaha_avtar,_killing_a_demon_to_protect_Bhu,_c1740.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Varaha" title="Varaha">Varaha</a>, the boar avatar of Vishnu (18th-century painting, probably of <a href="/wiki/Pahari_people" title="Pahari people">Pahari</a> provenance)</div>
+</div>
+</div>
+<p>The ten best known avatars of Vishnu are collectively known as the <i>Dasavatara</i> (a <a href="/wiki/Sanskrit_compound" title="Sanskrit compound">Sanskrit compound</a> meaning "ten avatars"). This list is included in the <a href="/wiki/Garuda_Purana" title="Garuda Purana">Garuda Purana</a> (1.86.10"11).<sup class="reference" id="cite_ref-21"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<p>The first four are said to have appeared in the <a href="/wiki/Satya_Yuga" title="Satya Yuga">Satya Yuga</a> (the first of the four <a href="/wiki/Yuga" title="Yuga">Yugas</a> or ages in the time cycle described within Hinduism). The next three avatars appeared in the <a href="/wiki/Treta_Yuga" title="Treta Yuga">Treta Yuga</a>, the eighth descent in the <a href="/wiki/Dvapara_Yuga" title="Dvapara Yuga">Dvapara Yuga</a> and the ninth in the <a href="/wiki/Kali_Yuga" title="Kali Yuga">Kali Yuga</a>. The tenth, Kalki, is predicted to appear at the end of the Kali Yuga.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<ol>
+<li><a href="/wiki/Matsya" title="Matsya">Matsya</a>, the fish-avatar who saved <a href="/wiki/Sraddhadeva_Manu" title="Sraddhadeva Manu">Manu</a> – the progenitor of mankind from the great deluge and rescued the Vedic scriptures by killing a demon. Story can be found in the <a href="/wiki/Matsya_Purana" title="Matsya Purana">Matsya Purana</a>.</li>
+<li><a href="/wiki/Kurma" title="Kurma">Kurma</a>, the <a href="/wiki/Tortoise" title="Tortoise">tortoise</a>-avatar, who helped in the <a href="/wiki/Samudra_manthan" title="Samudra manthan">Samudra manthan</a> – the churning of the ocean. Story can be found in the <a href="/wiki/Kurma_Purana" title="Kurma Purana">Kurma Purana</a>.</li>
+<li><a href="/wiki/Varaha" title="Varaha">Varaha</a>, the <a class="mw-redirect" href="/wiki/Boar" title="Boar">boar</a>-avatar, who rescued the earth from the ocean, by killing her kidnapper-demon <a href="/wiki/Hiranyaksha" title="Hiranyaksha">Hiranyaksha</a>. Story can be found in the <a href="/wiki/Varaha_Purana" title="Varaha Purana">Varaha Purana</a>.</li>
+<li><a href="/wiki/Narasimha" title="Narasimha">Narasimha</a>, the half man-half <a href="/wiki/Lion" title="Lion">lion</a> avatar, who killed the tyrant demon-king <a href="/wiki/Hiranyakashipu" title="Hiranyakashipu">Hiranyakashipu</a>, to rescue the demon's son <a href="/wiki/Prahlada" title="Prahlada">Prahlada</a>, who was a Vishnu-devotee</li>
+<li><a href="/wiki/Vamana" title="Vamana">Vamana</a>, the dwarf-avatar, who subdued the king <a href="/wiki/Mahabali" title="Mahabali">Maha Bali</a>. Story can be found in the <a href="/wiki/Vamana_Purana" title="Vamana Purana">Vamana Purana</a>.</li>
+<li><a href="/wiki/Parashurama" title="Parashurama">Parashurama</a>, sage with the axe who killed the thousand-armed king <a href="/wiki/Kartavirya_Arjuna" title="Kartavirya Arjuna">Kartavirya Arjuna</a></li>
+<li><a href="/wiki/Rama" title="Rama">Rama</a>, the king of <a href="/wiki/Ayodhya" title="Ayodhya">Ayodhya</a> and the hero of the Hindu epic <a href="/wiki/Ramayana" title="Ramayana">Ramayana</a></li>
+<li><a href="/wiki/Krishna" title="Krishna">Krishna</a>, the king of <a href="/wiki/Dwarka" title="Dwarka">Dwarka</a>, a central character in the <a href="/wiki/Bhagavata_Purana" title="Bhagavata Purana">Bhagavata Purana</a> and the <a href="/wiki/Mahabharata" title="Mahabharata">Mahabharata</a> and reciter of <a href="/wiki/Bhagavad_Gita" title="Bhagavad Gita">Bhagavad Gita</a>.</li>
+<li><a href="/wiki/Gautama_Buddha_in_Hinduism" title="Gautama Buddha in Hinduism">Buddha</a>, the sage</li>
+<li><a href="/wiki/Kalki" title="Kalki">Kalki</a> ("Eternity", or "time", or "The Destroyer of foulness"), who is expected to appear at the end of Kali Yuga. Story can be found in the <a href="/wiki/Kalki_Purana" title="Kalki Purana">Kalki Purana</a>.</li>
+</ol>
+<ul>
+<li>Note: Some versions include <a href="/wiki/Balarama" title="Balarama">Balarama</a> (the elder brother of Krishna) as the eighth avatar, with Krishna listed as the ninth instead of Buddha, while others replace Buddha with Balarama as the ninth avatar.Jayadeva in his Git Govinda instead adds both Balarama and Buddha,but omits Krishna as he is taken as the equivalent of Vishnu,the origin of all avatars.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="In_the_Bhagavata_Purana">In the Bhagavata Purana</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=4" title="Edit section: In the Bhagavata Purana">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Mohini_in_Belur_temple.jpg"><img alt="" class="thumbimage" data-file-height="992" data-file-width="430" height="508" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mohini_in_Belur_temple.jpg/220px-Mohini_in_Belur_temple.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mohini_in_Belur_temple.jpg/330px-Mohini_in_Belur_temple.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4f/Mohini_in_Belur_temple.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Mohini_in_Belur_temple.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Mohini" title="Mohini">Mohini</a>, the only female avatar of Vishnu (statue in a <a href="/wiki/Belur" title="Belur">Belur</a> temple, Karnataka.)</div>
+</div>
+</div>
+<p>As many as forty specific avatars of Vishnu are mentioned in the <a href="/wiki/Bhagavata_Purana" title="Bhagavata Purana">Bhagavata Purana</a>, though the book adds that the number is innumerable.<sup class="reference" id="cite_ref-Rukmani_24-0"><a href="#cite_note-Rukmani-24"><span>[</span>24<span>]</span></a></sup> Twenty-two avatars of Vishnu are listed numerically in the first book:<sup class="reference" id="cite_ref-25"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></p>
+<ol>
+<li><a href="/wiki/Four_Kumaras" title="Four Kumaras">Four Kumaras</a> (Catursana) [BP 1.3.6] – the four Sons of god <a href="/wiki/Brahma" title="Brahma">Brahma</a> and exemplified the path of devotion.</li>
+<li>Varaha [BP 1.3.7]</li>
+<li><a href="/wiki/Narada" title="Narada">Narada</a> [BP 1.3.8] the divine-sage who travels the worlds as a devotee of Vishnu</li>
+<li><a href="/wiki/Nara-Narayana" title="Nara-Narayana">Nara-Narayana</a> [BP 1.3.9] – the twin-sages</li>
+<li><a href="/wiki/Kapila" title="Kapila">Kapila</a> [BP 1.3.10] – a renowned sage spoken of in the <a href="/wiki/Mahabharata" title="Mahabharata">Mahabharata</a>, son of <a class="new" href="/w/index.php?title=Kardama_Muni&amp;action=edit&amp;redlink=1" title="Kardama Muni (page does not exist)">Kardama Muni</a> and <a class="new" href="/w/index.php?title=Devahuti&amp;action=edit&amp;redlink=1" title="Devahuti (page does not exist)">Devahuti</a> and sometimes identified with the founder of the <a href="/wiki/Samkhya" title="Samkhya">Samkhya</a> school of philosophy</li>
+<li><a href="/wiki/Dattatreya" title="Dattatreya">Dattatreya</a> [BP 1.3.11] – the combined avatar of the Hindu <a href="/wiki/Trimurti" title="Trimurti">trinity</a> Brahma, Vishnu and Shiva. He was born to the sage <a href="/wiki/Atri" title="Atri">Atri</a> became a great seer himself.</li>
+<li><a href="/wiki/Yajna_(avatar)" title="Yajna (avatar)">Yajna</a> [BP 1.3.12] – the lord of fire-sacrifice, who took was the <a href="/wiki/Indra" title="Indra">Indra</a> – the lord of <a href="/wiki/Heaven" title="Heaven">heaven</a></li>
+<li><a href="/wiki/Rishabha_(Hinduism)" title="Rishabha (Hinduism)">Rishabha</a> [BP 1.3.13] – the father of <a href="/wiki/Bharata_(emperor)" title="Bharata (emperor)">King Bharata</a> and Bahubali</li>
+<li><a href="/wiki/Prithu" title="Prithu">Prithu</a> [BP 1.3.14] – the sovereign-king who milked the earth as a cow to get the world's grain and vegetation and also invented agriculture</li>
+<li>Matsya [BP 1.3.15]</li>
+<li>Kurma [BP 1.3.16]</li>
+<li><a href="/wiki/Dhanvantari" title="Dhanvantari">Dhanvantari</a> [BP 1.3.17] – the father of <a href="/wiki/Ayurveda" title="Ayurveda">Ayurveda</a> medicine and a physician to the <a href="/wiki/Deva_(Hinduism)" title="Deva (Hinduism)">Devas</a>.</li>
+<li><a href="/wiki/Mohini" title="Mohini">Mohini</a> [BP 1.3.17] – the enchantress</li>
+<li>Narasimha [BP 1.3.18]</li>
+<li>Vamana [BP 1.3.19]</li>
+<li>Parashurama [BP 1.3.20]</li>
+<li><a href="/wiki/Vyasa" title="Vyasa">Vyasa</a> [BP] 1.3.21] – the compiler of the scriptures – <a href="/wiki/Vedas" title="Vedas">Vedas</a> and writer of the scriptures <a href="/wiki/Puranas" title="Puranas">Puranas</a> and the epic <a href="/wiki/Mahabharata" title="Mahabharata">Mahabharata</a></li>
+<li>Rama [BP 1.3.22]</li>
+<li>Krishna [BP 1.3.23]</li>
+<li>Balarama [BP 1.3.23]</li>
+<li>Buddha [BP 1.3.24]</li>
+<li>Kalki [BP 1.3.25]</li>
+</ol>
+<p>Besides these, several others are mentioned like Sri Hayagriva, Hari, Hamsa, Prsnigarbha, Vibhu, Satyasena, Vaikuntha, Sarvabhauma, Visvaksena, Dharmasetu, Sudhama, Yogesvara, Brhadbhanu. <sup class="reference" id="cite_ref-26"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup> The Golden incarnation [BP 11.5.32]  the avatara in Kali-yuga for propagating hari-namasankirtan, which is sometimes interpreted as the saint <a href="/wiki/Chaitanya_Mahaprabhu" title="Chaitanya Mahaprabhu">Chaitanya Mahaprabhu</a> is also mentioned, though there is no explicit mention of a name in the verse.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Other_Vaishnava_avatars">Other Vaishnava avatars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=5" title="Edit section: Other Vaishnava avatars">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;background-color: #001A57; border-color: #120A8F"><a href="/wiki/Vaishnavism" title="Vaishnavism"><span style="color:#f3e5ab">Vaishnavism</span></a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a class="image" href="/wiki/File:Vishnu.jpg"><img alt="Vishnu.jpg" data-file-height="246" data-file-width="205" height="246" src="//upload.wikimedia.org/wikipedia/commons/a/a6/Vishnu.jpg" width="205"/></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0; text-align:center;"><span style="color:#001A57">Supreme Deity</span></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li><a href="/wiki/Vishnu" title="Vishnu">Vishnu</a></li>
+<li><a href="/wiki/Krishna" title="Krishna">Krishna</a></li>
+<li><a href="/wiki/Rama" title="Rama">Rama</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0; text-align:center;"><span style="color:#001A57">Important deities</span></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<dl>
+<dt><a href="/wiki/Dashavatara" title="Dashavatara">Dashavatara</a></dt>
+</dl>
+<ul>
+<li><a href="/wiki/Matsya" title="Matsya">Matsya</a></li>
+<li><a href="/wiki/Kurma" title="Kurma">Kurma</a></li>
+<li><a href="/wiki/Varaha" title="Varaha">Varaha</a></li>
+<li><a href="/wiki/Narasimha" title="Narasimha">Narasimha</a></li>
+<li><a href="/wiki/Vamana" title="Vamana">Vamana</a></li>
+<li><a class="mw-redirect" href="/wiki/Parasurama" title="Parasurama">Parasurama</a></li>
+<li><a href="/wiki/Rama" title="Rama">Rama</a></li>
+<li><a href="/wiki/Balarama" title="Balarama">Balarama</a></li>
+<li><a href="/wiki/Krishna" title="Krishna">Krishna</a></li>
+<li><a href="/wiki/Kalki" title="Kalki">Kalki</a></li>
+</ul>
+<dl>
+<dt>Other Avatars</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Mohini" title="Mohini">Mohini</a></li>
+<li><a href="/wiki/Nara-Narayana" title="Nara-Narayana">Nara-Narayana</a></li>
+<li><a class="mw-redirect" href="/wiki/Hayagriva_(Hinduism)" title="Hayagriva (Hinduism)">Hayagriva</a></li>
+</ul>
+<dl>
+<dt>Related</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Lakshmi" title="Lakshmi">Lakshmi</a></li>
+<li><a href="/wiki/Sita" title="Sita">Sita</a></li>
+<li><a href="/wiki/Hanuman" title="Hanuman">Hanuman</a></li>
+<li><a href="/wiki/Shesha" title="Shesha">Shesha</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0; text-align:center;"><a class="mw-redirect" href="/wiki/Hindu_scriptures" title="Hindu scriptures"><span style="color:#001A57">Texts</span></a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li><a href="/wiki/Vedas" title="Vedas">Vedas</a></li>
+<li><a href="/wiki/Upanishads" title="Upanishads">Upanishads</a></li>
+<li><a href="/wiki/Bhagavad_Gita" title="Bhagavad Gita">Bhagavad Gita</a></li>
+<li><a class="mw-redirect" href="/wiki/Divya_Prabandha" title="Divya Prabandha">Divya Prabandha</a></li>
+<li><a href="/wiki/Ramcharitmanas" title="Ramcharitmanas">Ramcharitmanas</a></li>
+</ul>
+<dl>
+<dt><a href="/wiki/Puranas" title="Puranas">Puranas</a></dt>
+</dl>
+<ul>
+<li><a href="/wiki/Vishnu_Purana" title="Vishnu Purana">Vishnu</a></li>
+<li><a href="/wiki/Bhagavata_Purana" title="Bhagavata Purana">Bhagavata</a></li>
+<li><a href="/wiki/Naradiya_Purana" title="Naradiya Purana">Naradiya</a></li>
+<li><a href="/wiki/Garuda_Purana" title="Garuda Purana">Garuda</a></li>
+<li><a href="/wiki/Padma_Purana" title="Padma Purana">Padma</a></li>
+<li><a href="/wiki/Agni_Purana" title="Agni Purana">Agni</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0; text-align:center;"><span style="color:#001A57">Sampradayas</span></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Sri_Sampradaya" title="Sri Sampradaya">Sri</a> (<a href="/wiki/Vishishtadvaita" title="Vishishtadvaita">Vishishtadvaita</a>)</li>
+<li><a href="/wiki/Brahma_Sampradaya" title="Brahma Sampradaya">Brahma</a> (<a href="/wiki/Dvaita" title="Dvaita">Dvaita</a>, <a href="/wiki/Achintya_Bheda_Abheda" title="Achintya Bheda Abheda">Acintyabhedabheda</a>)</li>
+<li><a href="/wiki/Rudra_Sampradaya" title="Rudra Sampradaya">Rudra</a> (<a href="/wiki/Shuddhadvaita" title="Shuddhadvaita">Shuddhadvaita</a>)</li>
+<li><a href="/wiki/Nimbarka_Sampradaya" title="Nimbarka Sampradaya">Nimbarka</a> (<a href="/wiki/Dvaitadvaita" title="Dvaitadvaita">Dvaitadvaita</a>)</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0; text-align:center;"><a href="/wiki/Category:Hindu_philosophers" title="Category:Hindu philosophers"><span style="color:#001A57">Philosopher-Acharyas</span></a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li><a href="/wiki/Nammalvar" title="Nammalvar">Nammalvar</a></li>
+<li><a href="/wiki/Yamunacharya" title="Yamunacharya">Yamunacharya</a></li>
+<li><a href="/wiki/Ramanuja" title="Ramanuja">Ramanuja</a></li>
+<li><a href="/wiki/Madhvacharya" title="Madhvacharya">Madhva</a></li>
+<li><a href="/wiki/Chaitanya_Mahaprabhu" title="Chaitanya Mahaprabhu">Chaitanya</a></li>
+<li><a class="mw-redirect" href="/wiki/Vallabha" title="Vallabha">Vallabha</a></li>
+<li><a href="/wiki/Sankardev" title="Sankardev">Sankardev</a></li>
+<li><a href="/wiki/Madhavdev" title="Madhavdev">Madhavdev</a></li>
+<li><a href="/wiki/Nimbarka" title="Nimbarka">Nimbarka</a></li>
+<li><a href="/wiki/Pillai_Lokacharya" title="Pillai Lokacharya">Pillai Lokacharya</a></li>
+<li><a class="mw-redirect" href="/wiki/Prabhupada" title="Prabhupada">Prabhupada</a></li>
+<li><a href="/wiki/Vedanta_Desika" title="Vedanta Desika">Vedanta Desika</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0; text-align:center;"><span style="color:#001A57">Related traditions</span></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li><a href="/wiki/Pushtimarg" title="Pushtimarg">Pushtimarg</a></li>
+<li><a class="mw-redirect" href="/wiki/Bhagavatism" title="Bhagavatism">Bhagavatism</a></li>
+<li><a href="/wiki/International_Society_for_Krishna_Consciousness" title="International Society for Krishna Consciousness">ISKCON</a></li>
+<li><a href="/wiki/Swaminarayan_Hinduism" title="Swaminarayan Hinduism">Swaminarayan</a></li>
+<li><a href="/wiki/Ekasarana_Dharma" title="Ekasarana Dharma">Ekasarana</a></li>
+<li><a class="mw-redirect" href="/wiki/Pranami" title="Pranami">Pranami</a></li>
+<li><a class="mw-redirect" href="/wiki/Ramanandi" title="Ramanandi">Ramanandi</a></li>
+<li><a href="/wiki/Vaikhanasas" title="Vaikhanasas">Vaikhanasas</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;background-color :#001A57"><span class="metadata"><a class="image" href="/wiki/File:Om.svg"><img alt="Portal icon" data-file-height="367" data-file-width="356" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8e/Om.svg/16px-Om.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8e/Om.svg/23px-Om.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8e/Om.svg/31px-Om.svg.png 2x" width="16"/></a></span> <a href="/wiki/Portal:Hinduism" title="Portal:Hinduism">Hinduism portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Vaishnavism" title="Template:Vaishnavism"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Vaishnavism" title="Template talk:Vaishnavism"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Vaishnavism&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>There are many senses and shades of meaning of the term avatar within Hinduism.</p>
+<h4><span class="mw-headline" id="Purusha_avatars">Purusha avatars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=6" title="Edit section: Purusha avatars">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Purusha avatars are sometimes described as the original avatars of Vishnu within the Universe:<sup class="reference" id="cite_ref-28"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup><sup class="reference" id="cite_ref-autogenerated1_29-0"><a href="#cite_note-autogenerated1-29"><span>[</span>29<span>]</span></a></sup><sup class="reference" id="cite_ref-30"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></p>
+<ul>
+<li><a href="/wiki/Vasudeva" title="Vasudeva">Vasudeva</a></li>
+<li><a href="/wiki/Shesha" title="Shesha">Sankarshan</a></li>
+<li><a href="/wiki/Pradyumna" title="Pradyumna">Pradyumna</a></li>
+<li><a href="/wiki/Aniruddha" title="Aniruddha">Aniruddha</a></li>
+</ul>
+<h4><span class="mw-headline" id="Guna_avatars">Guna avatars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=7" title="Edit section: Guna avatars">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Trimurti" title="Trimurti">Trimurti</a></div>
+<p>The personalities of the <a href="/wiki/Trimurti" title="Trimurti">Trimurti</a> (Hindu trinity) are also sometimes referred to as <i>Guna avatars</i>, because of their roles of controlling the three modes (<a class="mw-redirect" href="/wiki/Guna" title="Guna">gunas</a>) of nature,<sup class="reference" id="cite_ref-autogenerated1_29-1"><a href="#cite_note-autogenerated1-29"><span>[</span>29<span>]</span></a></sup> even though they have not descended upon an earthly planet in the general sense of the term 'avatar'.</p>
+<ul>
+<li><a href="/wiki/Brahma" title="Brahma">Brahma</a> – As controller of the mode of goodness (<a href="/wiki/Sattva" title="Sattva">sattva</a>)</li>
+<li><a href="/wiki/Vishnu" title="Vishnu">Vishnu</a> – Controller of the mode of passion and desire (<a href="/wiki/Rajas" title="Rajas">rajas</a>)</li>
+<li><a href="/wiki/Shiva" title="Shiva">Shiva</a> – Controller of the mode of ignorance (<a href="/wiki/Tamas_(philosophy)" title="Tamas (philosophy)">tamas</a>)</li>
+</ul>
+<h4><span class="mw-headline" id="Manvantara_avatars">Manvantara avatars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=8" title="Edit section: Manvantara avatars">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Manvantara avatars are beings responsible for creating progeny throughout the Universe. There are said to be unlimited numbers of these avatars.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources"><span title="The material near this tag may rely on an unreliable source. (January 2010)">unreliable source?</span></a></i>]</sup> "During the hundred years of Brahmā's life, there are <i>504,000 manvantara-avatāras</i>."<sup class="reference" id="cite_ref-32"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></p>
+<h4><span class="mw-headline" id="Shaktyavesa_and_Avesa_avatars">Shaktyavesa and Avesa avatars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=9" title="Edit section: Shaktyavesa and Avesa avatars">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Avataric incarnations are classified as two kinds</p>
+<ul>
+<li>direct (<i>sakshat</i>)</li>
+<li>indirect (<i>avesa</i>)</li>
+</ul>
+<p>When Vishnu himself descends, he is called <i>sakshat</i> or <i>shaktyavesa-avatara</i>, a direct incarnation of God. But when he does not incarnate directly, but indirectly empowers some living entity to represent him, that living entity is called an indirect or <i>avesa</i> avatar.<sup class="reference" id="cite_ref-33"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources"><span title="The material near this tag may rely on an unreliable source. (January 2010)">unreliable source?</span></a></i>]</sup></p>
+<p>There are said to be a great number of <i>avesa</i> avatars. Examples include <a href="/wiki/Narada" title="Narada">Narada Muni</a>, <a class="mw-redirect" href="/wiki/Buddha_as_an_Avatar_of_Vishnu" title="Buddha as an Avatar of Vishnu">Sugata Buddha</a>, and <a href="/wiki/Parashurama" title="Parashurama">Parashurama</a>. Parashurama is the only one of the traditional ten avatars that is not a direct descent of Vishnu.</p>
+<p>According to the <a href="/wiki/Sri_Vaishnavism" title="Sri Vaishnavism">Sri Vaishnavism</a> sect of Hinduism, there are two types of primary or direct avatars, Purna avatars and Amsarupavatars:</p>
+<ol>
+<li>Purna avatars are those in which Vishnu takes form directly and all the qualities and powers of God are expressed, (e.g. <a href="/wiki/Narasimha" title="Narasimha">Narasimha</a>, <a href="/wiki/Rama" title="Rama">Rama</a> and <a href="/wiki/Krishna" title="Krishna">Krishna</a>).,<sup class="reference" id="cite_ref-34"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup><sup class="reference" id="cite_ref-35"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources"><span title="The material near this tag may rely on an unreliable source. (January 2010)">unreliable source?</span></a></i>]</sup></li>
+<li>Amsarupavatars are those in which Vishnu takes form directly but He is manifest in the person only partially. (e.g. avatars from <a href="/wiki/Matsya" title="Matsya">Matsya</a>, <a href="/wiki/Kurma" title="Kurma">Kurma</a> etc.).</li>
+</ol>
+<p>The <i>avesa</i> or indirect avatars are generally not worshiped as the Supreme being. Only the direct, primary avatars are worshiped in this way. In practice, the direct avatars that are worshiped today are the Purna avatars of Narasimha, Rama and Krishna. Among most <a class="mw-redirect" href="/wiki/Vaishnava" title="Vaishnava">Vaishnava</a> traditions, <a href="/wiki/Krishna" title="Krishna">Krishna</a> is considered to be the highest Purna avatar. However, followers of <a class="mw-redirect" href="/wiki/Chaitanya" title="Chaitanya">Chaitanya</a> (including <a href="/wiki/International_Society_for_Krishna_Consciousness" title="International Society for Krishna Consciousness">ISKCON</a>), <a href="/wiki/Nimbarka" title="Nimbarka">Nimbarka</a>, and <a href="/wiki/Vallabha_Acharya" title="Vallabha Acharya">Vallabha Acharya</a> differ philosophically from other <a class="mw-redirect" href="/wiki/Vaishnavas" title="Vaishnavas">Vaishnavas</a>, such as <a class="mw-redirect" href="/wiki/Ramanujacharya" title="Ramanujacharya">Ramanujacharya</a> and <a href="/wiki/Madhvacharya" title="Madhvacharya">Madhvacharya</a>, and consider <a href="/wiki/Krishna" title="Krishna">Krishna</a> to be the ultimate Godhead, not simply an avatar. That said, all Hindus believe that there is no difference between worship of <a href="/wiki/Vishnu" title="Vishnu">Vishnu</a> and His avatars as it all leads to Him. According to <a href="/wiki/Madhvacharya" title="Madhvacharya">Madhvacharya</a> (chief proponent of <a href="/wiki/Dvaita" title="Dvaita">Dvaita</a> or school of differential <a href="/wiki/Monism" title="Monism">monism</a>), all avatars of <a href="/wiki/Vishnu" title="Vishnu">Vishnu</a> are alike in potency and every other quality. There is no gradation among them, and perceiving or claiming any differences among avatars is a cause of eternal damnation. See Madhva's commentary on <a href="/wiki/Katha_Upanishad" title="Katha Upanishad">Katha Upanishad</a>.</p>
+<h3><span class="mw-headline" id="In_Sikhism">In Sikhism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=10" title="Edit section: In Sikhism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>24 avatars of <a href="/wiki/Vishnu" title="Vishnu">Vishnu</a> are mentioned in Bachitar Natak's composition in <a href="/wiki/Dasam_Granth" title="Dasam Granth">Dasam Granth</a>, the second scripture of <a href="/wiki/Sikh" title="Sikh">Sikhs</a> written by <a href="/wiki/Guru_Gobind_Singh" title="Guru Gobind Singh">Guru Gobind Singh</a>:<sup class="reference" id="cite_ref-Dasam_Granth_Sahib_11-1"><a href="#cite_note-Dasam_Granth_Sahib-11"><span>[</span>11<span>]</span></a></sup></p>
+<div class="div-col columns column-count column-count-4" style="-moz-column-count: 4; -webkit-column-count: 4; column-count: 4;">
+<ol>
+<li>Macha (<a href="/wiki/Matsya" title="Matsya">Matsya</a>)</li>
+<li>Kaccha (<a href="/wiki/Kurma" title="Kurma">Kurma</a>)</li>
+<li>Narayana (<a href="/wiki/Narayana" title="Narayana">Narayana</a> in Nara-Narayana)</li>
+<li>Maha Mohini (<a href="/wiki/Mohini" title="Mohini">Mohini</a>)</li>
+<li>Bairaha (<a href="/wiki/Varaha" title="Varaha">Varaha</a>)</li>
+<li>Nar Singha (<a href="/wiki/Narasimha" title="Narasimha">Narasimha</a>)</li>
+<li>Bavana (<a href="/wiki/Vamana" title="Vamana">Vamana</a>)</li>
+<li><a href="/wiki/Parashurama" title="Parashurama">Parashurama</a></li>
+<li><a href="/wiki/Brahma" title="Brahma">Brahma</a></li>
+<li>Rudra (<a href="/wiki/Shiva" title="Shiva">Shiva</a>)</li>
+<li><a href="/wiki/Jalandhara" title="Jalandhara">Jalandhara</a></li>
+<li>Bishan (<a href="/wiki/Vishnu" title="Vishnu">Vishnu</a>)</li>
+<li>Sheshayi (<a href="/wiki/Shesh" title="Shesh">Shesh</a>)</li>
+<li><a href="/wiki/Arihant_(Jainism)" title="Arihant (Jainism)">Arihant Dev</a></li>
+<li><a href="/wiki/Manu_(Hinduism)" title="Manu (Hinduism)">Manu Raja</a></li>
+<li><a href="/wiki/Dhanvantari" title="Dhanvantari">Dhanvantari</a></li>
+<li><a href="/wiki/Surya" title="Surya">Suraja</a> (the sun)</li>
+<li><a href="/wiki/Chandra" title="Chandra">Chandara</a> (the moon)</li>
+<li><a href="/wiki/Rama" title="Rama">Rama</a></li>
+<li><a href="/wiki/Balarama" title="Balarama">Balarama</a></li>
+<li><a href="/wiki/Krishna" title="Krishna">Krishna</a></li>
+<li><a href="/wiki/Nara-Narayana" title="Nara-Narayana">Nara</a> (Nara in Nara-Narayana, ie, <a href="/wiki/Arjuna" title="Arjuna">Arjuna</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Buddha" title="Buddha">Buddha</a></li>
+<li><a href="/wiki/Kalki" title="Kalki">Kalki</a></li>
+</ol>
+</div>
+<p>Before describing these avatars, the composers have written that these tried to equate themselves with god and unable to know secrets of almighty. But Dasam Granth is controversial among Sikh scholars and few of them believe it to be the work of Guru Gobind Singh.</p>
+<h2><span class="mw-headline" id="Avatars_of_Ganesha">Avatars of Ganesha</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=11" title="Edit section: Avatars of Ganesha">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Linga_Purana" title="Linga Purana">Linga Purana</a> declares that Ganesha incarnates to destroy demons and to help the gods and pious people.<sup class="reference" id="cite_ref-Grimes_36-0"><a href="#cite_note-Grimes-36"><span>[</span>36<span>]</span></a></sup> The two <a href="/wiki/Upapurana" title="Upapurana">upapuranas</a> – <a href="/wiki/Ganesha_Purana" title="Ganesha Purana">Ganesha Purana</a> and <a href="/wiki/Mudgala_Purana" title="Mudgala Purana">Mudgala Purana</a> – detail the avatars of Ganesha. Both these upapuranas are core scriptures of the <a href="/wiki/Ganapatya" title="Ganapatya">Ganapatya</a> sect – exclusively dedicated to Ganesha worship.</p>
+<p>Four avatars of Ganesha are listed in the Ganesha Purana:Mohotkata, Mayūreśvara, Gajanana and Dhumraketu. Each avatar corresponds to a different yuga, has a different mount and different skin complexion, but all the avatars have a common purpose – to slay demons.<sup class="reference" id="cite_ref-37"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></p>
+<p>The Mudgala Purana describes eight avatars of Ganesha:<sup class="reference" id="cite_ref-Granoff_38-0"><a href="#cite_note-Granoff-38"><span>[</span>38<span>]</span></a></sup></p>
+<ol>
+<li>Vakratunda (<span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration">Vakratuṇḍa</span>) ("twisting trunk"), his mount is a lion.</li>
+<li>Ekadanta ("single tusk"), his mount is a mouse.</li>
+<li>Mahodara ("big belly"), his mount is a mouse.</li>
+<li>Gajavaktra (or Gajānana) ("elephant face"), his mount is a mouse.</li>
+<li>Lambodara ("pendulous belly"), his mount is a mouse.</li>
+<li>Vikata (<span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration">Vikaṭa</span>) ("unusual form", "misshapen"), his mount is a peacock.</li>
+<li>Vighnaraja (<span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration">Vighnarāja</span>) ("king of obstacles"), his mount is the celestial serpent <span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration">Śeṣa</span>.</li>
+<li>Dhumravarna (<span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration">Dhūmravarṇa</span>) ("grey color") corresponds to Śiva, his mount is a horse.</li>
+</ol>
+<h2><span class="mw-headline" id="Avatars_of_Shiva">Avatars of Shiva</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=12" title="Edit section: Avatars of Shiva">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Sarabha_Narasinmha_Kangra.jpg"><img alt="" class="thumbimage" data-file-height="430" data-file-width="579" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sarabha_Narasinmha_Kangra.jpg/220px-Sarabha_Narasinmha_Kangra.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sarabha_Narasinmha_Kangra.jpg/330px-Sarabha_Narasinmha_Kangra.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sarabha_Narasinmha_Kangra.jpg/440px-Sarabha_Narasinmha_Kangra.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sarabha_Narasinmha_Kangra.jpg" title="Enlarge"></a></div>
+Sharabha (right) with Narasimha (18th-century painting, <a href="/wiki/Pahari_people" title="Pahari people">Pahari</a>/<a href="/wiki/Kangra_painting" title="Kangra painting">Kangra</a> School)</div>
+</div>
+</div>
+<p>Although <a href="/wiki/Puranas" title="Puranas">Puranic scriptures</a> contain occasional references to avatars of Shiva, the idea is not universally accepted in <a class="mw-redirect" href="/wiki/Saivism" title="Saivism">Saivism</a>.<sup class="reference" id="cite_ref-Sheth_8-2"><a href="#cite_note-Sheth-8"><span>[</span>8<span>]</span></a></sup><sup class="reference" id="cite_ref-39"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup> As an avatar requires residence in a womb, Shiva as ayonija (not of a womb) cannot manifest himself as an avatar. The <a href="/wiki/Linga_Purana" title="Linga Purana">Linga Purana</a> speaks of twenty-eight forms of Shiva which are sometimes seen as avatars.<sup class="reference" id="cite_ref-40"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup> In the <a href="/wiki/Shiva_Purana" title="Shiva Purana">Shiva Purana</a> there is a distinctly Saivite version of a traditional avatar myth: Shiva brings forth <a href="/wiki/Virabhadra" title="Virabhadra">Virabhadra</a>, one of his terrifying forms, in order to calm <a href="/wiki/Narasimha" title="Narasimha">Narasimha</a>, an avatar of Vishnu. When that fails, Shiva manifests as the human-lion-bird <a href="/wiki/Sharabha" title="Sharabha">Sharabha</a>. The story concludes with Narasimha becoming a devotee of Shiva after being bound by Sharabha.<sup class="reference" id="cite_ref-41"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup> However, Vaishnava followers including <a href="/wiki/Dvaita" title="Dvaita">Dvaita</a> scholars, such as Vijayindra Tirtha (1539–95) refute this Shaivite view of Narasimha based on their reading of <a href="/wiki/Puranas" title="Puranas">Sattvika Puranas</a> and <a href="/wiki/%C5%9Aruti" title="Śruti">Śruti</a> texts.<sup class="reference" id="cite_ref-42"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup></p>
+<p>The monkey-god <a href="/wiki/Hanuman" title="Hanuman">Hanuman</a> who helped Rama – the Vishnu avatar is considered by some to be the eleventh avatar of <a href="/wiki/Rudra" title="Rudra">Rudra</a> (Shiva).<sup class="reference" id="cite_ref-43"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup><sup class="reference" id="cite_ref-44"><a href="#cite_note-44"><span>[</span>44<span>]</span></a></sup> Some regional deities like <a href="/wiki/Khandoba" title="Khandoba">Khandoba</a> are also believed by some to be avatars of Shiva.<sup class="reference" id="cite_ref-45"><a href="#cite_note-45"><span>[</span>45<span>]</span></a></sup><sup class="reference" id="cite_ref-46"><a href="#cite_note-46"><span>[</span>46<span>]</span></a></sup></p>
+<p>Other stated avatars of Shiva, according to some sources, are 8th century non-dualist <a href="/wiki/Vedanta" title="Vedanta">Vedanta</a> philosopher (<a href="/wiki/Advaita_Vedanta" title="Advaita Vedanta">Advaita Vedanta</a>) <a href="/wiki/Adi_Shankara" title="Adi Shankara">Adi Shankara</a>. He was named "Shankara" after Lord Shiva and is considered by some to have been an incarnation of the god<sup class="reference" id="cite_ref-47"><a href="#cite_note-47"><span>[</span>47<span>]</span></a></sup> and <a href="/wiki/Virabhadra" title="Virabhadra">Virabhadra</a> who was born when Shiva grabbed a lock of his matted hair and dashed it to the ground. Virabhadra then destroyed <a href="/wiki/Daksha" title="Daksha">Daksha</a>'s <a href="/wiki/Yajna" title="Yajna">yajna</a> (fire sacrifice) and severed his head as per Shiva's instructions.<sup class="reference" id="cite_ref-Mani_48-0"><a href="#cite_note-Mani-48"><span>[</span>48<span>]</span></a></sup></p>
+<p>In <a href="/wiki/Dasam_Granth" title="Dasam Granth">Dasam Granth</a>, Guru Gobind Singh have mentioned two avatars of Rudra: <a href="/wiki/Dattatreya" title="Dattatreya">Dattatreya</a> Avatar and <a class="mw-redirect" href="/wiki/Parasnath" title="Parasnath">Parasnath</a> Avatar.<sup class="reference" id="cite_ref-49"><a href="#cite_note-49"><span>[</span>49<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Avatars_of_Devi">Avatars of Devi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=13" title="Edit section: Avatars of Devi">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Hanuman_before_Rama.jpg"><img alt="" class="thumbimage" data-file-height="500" data-file-width="744" height="202" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hanuman_before_Rama.jpg/300px-Hanuman_before_Rama.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hanuman_before_Rama.jpg/450px-Hanuman_before_Rama.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hanuman_before_Rama.jpg/600px-Hanuman_before_Rama.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Hanuman_before_Rama.jpg" title="Enlarge"></a></div>
+A 17th-century painting depicting Hanuman worshiping Rama and his wife Sita. Lakshmana is also seen in this painting from <a href="/wiki/Smithsonian_Institution" title="Smithsonian Institution">Smithsonian Institution</a> collection. Rama is considered the avatar of Vishnu, Sita of Vishnu's consort Lakshmi, Lakshmana of <a href="/wiki/Shesha" title="Shesha">Shesha</a> – the serpent on whom Vishnu sleeps, and Hanuman is believed to be an avatar of Shiva.</div>
+</div>
+</div>
+<p>Avatars are also observed in <a href="/wiki/Shaktism" title="Shaktism">Shaktism</a>, the sect dedicated to the worship of the Goddess (<a href="/wiki/Devi" title="Devi">Devi</a>), but they do not have universal acceptance in the sect. The <a class="mw-redirect" href="/wiki/Devi_Bhagavata_Purana" title="Devi Bhagavata Purana">Devi Bhagavata Purana</a> describes the descent of Devi avatars to punish the wicked and defend the righteous—much as the <a href="/wiki/Bhagavata_Purana" title="Bhagavata Purana">Bhagavata Purana</a> does with the avatars of Vishnu.<sup class="reference" id="cite_ref-Triumph_50-0"><a href="#cite_note-Triumph-50"><span>[</span>50<span>]</span></a></sup> Like Vishnu, his consort <a href="/wiki/Lakshmi" title="Lakshmi">Lakshmi</a> incarnates as <a href="/wiki/Sita" title="Sita">Sita</a> and <a href="/wiki/Radha" title="Radha">Radha</a> – the consorts of Rama and Krishna avatars.<sup class="reference" id="cite_ref-51"><a href="#cite_note-51"><span>[</span>51<span>]</span></a></sup> Nilakantha, an 18th-century commentator on the Devi Bhagavata Purana – which includes the Devi Gita – says that various avatars of the Goddess includes <a href="/wiki/Shakambhari" title="Shakambhari">Shakambhari</a> and even the masculine Krishna and Rama – generally thought to be Vishnu's avatars.<sup class="reference" id="cite_ref-52"><a href="#cite_note-52"><span>[</span>52<span>]</span></a></sup> <a href="/wiki/Lakshmi" title="Lakshmi">Lakshmi</a> and <a href="/wiki/Saraswati" title="Saraswati">Saraswati</a> are also goddesses worshipped as Devi avatars.<sup class="reference" id="cite_ref-53"><a href="#cite_note-53"><span>[</span>53<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Avatars_of_Lakshmi">Avatars of Lakshmi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=14" title="Edit section: Avatars of Lakshmi">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Sridevi" title="Sridevi">Sridevi</a> and <a class="mw-redirect" href="/wiki/Bhudevi" title="Bhudevi">Bhudevi</a> are two different forms of Goddess <a href="/wiki/Lakshmi" title="Lakshmi">Lakshmi</a>. Dharini, the consort of <a href="/wiki/Parashurama" title="Parashurama">Parashurama</a>, <a href="/wiki/Sita" title="Sita">Sita</a>, the consort of <a href="/wiki/Rama" title="Rama">Rama</a> and <a class="mw-redirect" href="/wiki/Yashodhara" title="Yashodhara">Yashodhara</a>, the consort of <a class="mw-redirect" href="/wiki/Buddha" title="Buddha">Buddha</a> along with the consorts of the previous incarnations of Vishnu are all considered full incarnations of Lakshmi.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup> On the other hand, <a href="/wiki/Radha" title="Radha">Radha</a> and the <a href="/wiki/Gopi" title="Gopi">gopis</a> , <a href="/wiki/Rukmini" title="Rukmini">Rukmini</a>, <a href="/wiki/Satyabhama" title="Satyabhama">Satyabhama</a> and the rest of <a href="/wiki/Krishna" title="Krishna">Krishna</a>'s wives with the exception of <a class="mw-redirect" href="/wiki/Kalindi" title="Kalindi">Yamuna</a> are all considered partial incarnations of <a href="/wiki/Lakshmi" title="Lakshmi">Lakshmi</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Avatars_of_Brahma">Avatars of Brahma</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=15" title="Edit section: Avatars of Brahma">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Dasam_Granth" title="Dasam Granth">Dasam Granth</a>, second scriptures of Sikhs written by Guru Gobind Singh, mentioned seven Brahma Avatars.<sup class="reference" id="cite_ref-54"><a href="#cite_note-54"><span>[</span>54<span>]</span></a></sup></p>
+<ol>
+<li><a href="/wiki/Valmiki" title="Valmiki">Valmiki</a> Avatar</li>
+<li><a class="mw-redirect" href="/wiki/Kashyap" title="Kashyap">Kashyap</a> Avatar</li>
+<li><a class="mw-disambig" href="/wiki/Sukra" title="Sukra">Sukra</a> Avatar</li>
+<li><a class="new" href="/w/index.php?title=Baches&amp;action=edit&amp;redlink=1" title="Baches (page does not exist)">Baches</a> Avatar</li>
+<li><a class="mw-redirect" href="/wiki/Vyas" title="Vyas">Vyas</a> Avatar</li>
+<li><a class="new" href="/w/index.php?title=Khat_Rishi&amp;action=edit&amp;redlink=1" title="Khat Rishi (page does not exist)">Khat Rishi</a> Avatar</li>
+<li><a class="mw-redirect" href="/wiki/Kalidas" title="Kalidas">Kalidas</a> Avatar</li>
+</ol>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Avatars_in_the_Mahabharata" title="Avatars in the Mahabharata">Avatars in the Mahabharata</a></li>
+<li><a href="/wiki/Dashavatara" title="Dashavatara">Dashavatara</a></li>
+<li><a href="/wiki/Gautama_Buddha_in_Hinduism" title="Gautama Buddha in Hinduism">Gautama Buddha in Hinduism</a></li>
+<li><a href="/wiki/Incarnation" title="Incarnation">Incarnation</a></li>
+<li><a href="/wiki/List_of_avatar_claimants" title="List of avatar claimants">List of avatar claimants</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://dictionary.reference.com/browse/avatar" rel="nofollow">"avatar"</a>. <i><a href="/wiki/Random_House_Webster%27s_Unabridged_Dictionary" title="Random House Webster's Unabridged Dictionary">Random House Webster's Unabridged Dictionary</a></i>.</span></li>
+<li id="cite_note-Matchett-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Matchett_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Matchett_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Matchett_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Matchett_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Matchett, Freda (2001). <a class="external text" href="http://books.google.com/?id=1oqTYiPeAxMC&amp;pg=PA4" rel="nofollow"><i>Krishna, Lord or Avatara?: the relationship between Krishna and Vishnu</i></a>. 9780700712816. p. 4. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7007-1281-6" title="Special:BookSources/978-0-7007-1281-6">978-0-7007-1281-6</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=Freda&amp;rft.aulast=Matchett&amp;rft.au=Matchett%2C+Freda&amp;rft.btitle=Krishna%2C+Lord+or+Avatara%3F%3A+the+relationship+between+Krishna+and+Vishnu&amp;rft.date=2001&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D1oqTYiPeAxMC%26pg%3DPA4&amp;rft.isbn=978-0-7007-1281-6&amp;rft.pages=4&amp;rft.pub=9780700712816&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Introduction to World Religions, by <a class="mw-redirect" href="/wiki/Christopher_Hugh_Partridge" title="Christopher Hugh Partridge">Christopher Hugh Partridge</a>, pg. 148, at <a class="external text" href="http://books.google.com/books?id=7lEFyGiP5r8C&amp;pg=PA148&amp;dq=avatar+supreme+Being+Vaishnavism&amp;hl=en&amp;ei=sE2ATPPYCMGBlAfE0oWUDg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3&amp;ved=0CC4Q6AEwAjgK#v=onepage&amp;q=avatar%20supreme%20Being%20Vaishnavism&amp;f=false" rel="nofollow">Books.Google.com</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Vivekjivandas, Sadhu. <i>Hinduism: An Introduction – Part 1</i>. (Swaminarayan Aksharpith: Ahmedabad, 2010) p. 33. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9788175264335">ISBN 978-81-7526-433-5</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Vivekjivandas, Sadhu. <i>Hinduism: An Introduction – Part 1</i>. (Swaminarayan Aksharpith: Ahmedabad, 2010) p. 33–36. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9788175264335">ISBN 978-81-7526-433-5</a></span></li>
+<li id="cite_note-Gale.27s-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gale.27s_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gale.27s_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Kinsley, David (2005). Lindsay Jones, ed. <i>Gale's Encyclopedia of Religion</i> <b>2</b> (Second ed.). Thomson Gale. pp. 707–708. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-02-865735-7" title="Special:BookSources/0-02-865735-7">0-02-865735-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=David&amp;rft.au=Kinsley%2C+David&amp;rft.aulast=Kinsley&amp;rft.btitle=Gale%27s+Encyclopedia+of+Religion&amp;rft.date=2005&amp;rft.edition=Second&amp;rft.genre=book&amp;rft.isbn=0-02-865735-7&amp;rft.pages=707-708&amp;rft.pub=Thomson+Gale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=2"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Bryant-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bryant_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bryant_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Bryant, Edwin Francis (2007). <a class="external text" href="http://books.google.com/?id=0z02cZe8PU8C&amp;pg=PT32" rel="nofollow"><i>Krishna: A Sourcebook</i></a>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a> US. p. 18. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-514891-6" title="Special:BookSources/978-0-19-514891-6">978-0-19-514891-6</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.au=Bryant%2C+Edwin+Francis&amp;rft.aufirst=Edwin+Francis&amp;rft.aulast=Bryant&amp;rft.btitle=Krishna%3A+A+Sourcebook&amp;rft.date=2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D0z02cZe8PU8C%26pg%3DPT32&amp;rft.isbn=978-0-19-514891-6&amp;rft.pages=18&amp;rft.pub=Oxford+University+Press+US&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Sheth-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sheth_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sheth_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Sheth_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Sheth, Noel (Jan 2002). "Hindu Avatāra and Christian Incarnation: A Comparison". <i>Philosophy East and West</i> (<a class="mw-redirect" href="/wiki/University_of_Hawai%27i_Press" title="University of Hawai'i Press">University of Hawai'i Press</a>) <b>52</b> (1 (Jan. 2002)): 98–125. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1353%2Fpew.2002.0005" rel="nofollow">10.1353/pew.2002.0005</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/1400135" rel="nofollow">1400135</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.atitle=Hindu+Avat%C4%81ra+and+Christian+Incarnation%3A+A+Comparison&amp;rft.aufirst=Noel&amp;rft.aulast=Sheth&amp;rft.au=Sheth%2C+Noel&amp;rft.date=Jan+2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1353%2Fpew.2002.0005&amp;rft.issue=1+%28Jan.+2002%29&amp;rft.jstor=1400135&amp;rft.jtitle=Philosophy+East+and+West&amp;rft.pages=98-125&amp;rft.pub=University+of+Hawai%27i+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=52"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Hawley-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hawley_9-0">^</a></b></span> <span class="reference-text"><span class="citation book">Hawley, John Stratton; Vasudha Narayanan (2006). <a class="external text" href="http://books.google.com/?id=7DLj1tYmoTQC&amp;pg=PA174" rel="nofollow"><i>The life of Hinduism</i></a>. <a href="/wiki/University_of_California_Press" title="University of California Press">University of California Press</a>. p. 174. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-520-24914-1" title="Special:BookSources/978-0-520-24914-1">978-0-520-24914-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=John+Stratton&amp;rft.au=Hawley%2C+John+Stratton&amp;rft.aulast=Hawley&amp;rft.au=Vasudha+Narayanan&amp;rft.btitle=The+life+of+Hinduism&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D7DLj1tYmoTQC%26pg%3DPA174&amp;rft.isbn=978-0-520-24914-1&amp;rft.pages=174&amp;rft.pub=University+of+California+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Page_792.2C_Line_7.2C_Bhagat_Kabir-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Page_792.2C_Line_7.2C_Bhagat_Kabir_10-0">^</a></b></span> <span class="reference-text">Page 792, Line 7, Bhagat Kabir</span></li>
+<li id="cite_note-Dasam_Granth_Sahib-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dasam_Granth_Sahib_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dasam_Granth_Sahib_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://books.google.co.in/books?id=8-h8ptzp0lUC&amp;pg=PA16&amp;dq=chaubis+avtar&amp;hl=en&amp;sa=X&amp;ei=IuXcT6XCHYunrAeB0_DGDQ&amp;ved=0CDMQ6AEwAA#v=onepage&amp;q=chaubis%20avtar&amp;f=false" rel="nofollow">Dasam Granth Sahib</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Sheth, p. 116.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Sheth, pp. 98, 116.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Mercy Amba Oduyoye, H. M. Vroom, <i>One gospel – many cultures: case studies and reflections on cross-cultural theology</i>, Rodopi, 2003, ISBN 920-0897-7, p. 111.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Sheth, p. 108.</span></li>
+<li id="cite_note-King-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-King_16-0">^</a></b></span> <span class="reference-text"><span class="citation book">King, Anna S. (2005). <a class="external text" href="http://books.google.com/?id=0FvH1aCXETwC&amp;pg=PA32" rel="nofollow"><i>The intimate other: love divine in Indic religions</i></a>. Orient Blackswan. pp. 32–33. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-81-250-2801-7" title="Special:BookSources/978-81-250-2801-7">978-81-250-2801-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=Anna+S.&amp;rft.au=King%2C+Anna+S.&amp;rft.aulast=King&amp;rft.btitle=The+intimate+other%3A+love+divine+in+Indic+religions&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D0FvH1aCXETwC%26pg%3DPA32&amp;rft.isbn=978-81-250-2801-7&amp;rft.pages=32-33&amp;rft.pub=Orient+Blackswan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Mishra-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mishra_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mishra_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Mishra, Vibhuti Bhushan (1973). <a class="external text" href="http://books.google.com/?id=nAQ4AAAAIAAJ&amp;pg=PA4" rel="nofollow"><i>Religious beliefs and practices of North India during the early mediaeval period, Volume 1</i></a>. BRILL. pp. 4–5. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-90-04-03610-9" title="Special:BookSources/978-90-04-03610-9">978-90-04-03610-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=Vibhuti+Bhushan&amp;rft.aulast=Mishra&amp;rft.au=Mishra%2C+Vibhuti+Bhushan&amp;rft.btitle=Religious+beliefs+and+practices+of+North+India+during+the+early+mediaeval+period%2C+Volume+1&amp;rft.date=1973&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DnAQ4AAAAIAAJ%26pg%3DPA4&amp;rft.isbn=978-90-04-03610-9&amp;rft.pages=4-5&amp;rft.pub=BRILL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation book">Schrader, Friedrich Otto (1916). <a class="external text" href="http://books.google.com/?id=OlgLAQAAIAAJ" rel="nofollow"><i>Introduction to the Pāñcarātra and the Ahirbudhnya saṃhitā</i></a>. Adyar Library. p. 42.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=Friedrich+Otto&amp;rft.aulast=Schrader&amp;rft.au=Schrader%2C+Friedrich+Otto&amp;rft.btitle=Introduction+to+the+P%C4%81%C3%B1car%C4%81tra+and+the+Ahirbudhnya+sa%E1%B9%83hit%C4%81&amp;rft.date=1916&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DOlgLAQAAIAAJ&amp;rft.pages=42&amp;rft.pub=Adyar+Library&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Sheth, p. 100.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Sheth, pp. 100–101.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Garuda Purana (1.86.10-11)</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Matchett, p. 86.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation book">Gopal, Madan (1990). K.S. Gautam, ed. <i>India through the ages</i>. Publication Division, Ministry of Information and Broadcasting, Government of India. p. 74.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=Madan&amp;rft.au=Gopal%2C+Madan&amp;rft.aulast=Gopal&amp;rft.btitle=India+through+the+ages&amp;rft.date=1990&amp;rft.genre=book&amp;rft.pages=74&amp;rft.pub=Publication+Division%2C+Ministry+of+Information+and+Broadcasting%2C+Government+of+India&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Rukmani-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rukmani_24-0">^</a></b></span> <span class="reference-text"><span class="citation book">Rukmani, T. S. (1970). <i>A critical study of the Bhagavata Purana, with special reference to bhakti</i>. Chowkhamba Sanskrit studies <b>77</b>. Varanasi: Chowkhamba Sanskrit Series. p. 4.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=T.+S.&amp;rft.aulast=Rukmani&amp;rft.au=Rukmani%2C+T.+S.&amp;rft.btitle=A+critical+study+of+the+Bhagavata+Purana%2C+with+special+reference+to+bhakti&amp;rft.date=1970&amp;rft.genre=book&amp;rft.pages=4&amp;rft.place=Varanasi&amp;rft.pub=Chowkhamba+Sanskrit+Series&amp;rft.series=Chowkhamba+Sanskrit+studies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=77"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a class="external text" href="http://srimadbhagavatam.com/1/3/en1" rel="nofollow">Bhag-P 1.3</a> Canto 1, Chapter 3</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a class="external free" href="http://vedabase.net/sb/1/3/26/en2.php" rel="nofollow">http://vedabase.net/sb/1/3/26/en2.php</a></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a class="external text" href="http://vedabase.net/sb/11/5/32/en" rel="nofollow">The Golden Avatara</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.hinduwebsite.com/hinduism/concepts/avatar.asp" rel="nofollow">"Categories of Incarnations"</a>. June 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-07</span></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.btitle=Categories+of+Incarnations&amp;rft.date=June+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hinduwebsite.com%2Fhinduism%2Fconcepts%2Favatar.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-autogenerated1-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.gaudiya.com/index.php?topic=theology" rel="nofollow">gaudiya.com – theology</a></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation book">Mittal, Sushil (2004). <i>The Hindu World</i>. New York: Routledge. p. 164. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-203-67414-6" title="Special:BookSources/0-203-67414-6">0-203-67414-6</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=Sushil&amp;rft.aulast=Mittal&amp;rft.au=Mittal%2C+Sushil&amp;rft.btitle=The+Hindu+World&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-203-67414-6&amp;rft.pages=164&amp;rft.place=New+York&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.indiadivine.org/hinduism/articles/86/1/Avatar---Categories-of-Incarnations/" rel="nofollow">Avatar – Categories of Incarnations,by Atmatattva Das, 06/17/2005</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" since June 2011">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Śrī Caitanya Caritāmṛta Madhya 20.322</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a class="external text" href="http://lordcaitanya.com/8/en1" rel="nofollow">Teachings of Lord Chaitanya – Avatars</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.srivaishnavan.com/ans_iswara.html#67" rel="nofollow">Types of Avatars; answers to questions #67-70.</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.dlshq.org/religions/avatara.htm#kinds" rel="nofollow">DLSHQ.org</a></span></li>
+<li id="cite_note-Grimes-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Grimes_36-0">^</a></b></span> <span class="reference-text"><span class="citation book">Grimes, John A. (1995). <a class="external text" href="http://books.google.com/?id=aoqB4n95pSoC&amp;pg=PT105" rel="nofollow"><i>Gaṇapati: song of the self</i></a>. <a class="mw-redirect" href="/wiki/SUNY_Press" title="SUNY Press">SUNY Press</a>. p. 105. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7914-2439-1" title="Special:BookSources/978-0-7914-2439-1">978-0-7914-2439-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=John+A.&amp;rft.au=Grimes%2C+John+A.&amp;rft.aulast=Grimes&amp;rft.btitle=Ga%E1%B9%87apati%3A+song+of+the+self&amp;rft.date=1995&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DaoqB4n95pSoC%26pg%3DPT105&amp;rft.isbn=978-0-7914-2439-1&amp;rft.pages=105&amp;rft.pub=SUNY+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Grimes, pp. 100–105.</span></li>
+<li id="cite_note-Granoff-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-Granoff_38-0">^</a></b></span> <span class="reference-text">Phyllis Granoff, "<span class="Unicode" style="white-space:normal; text-decoration: none" title="International Alphabet of Sanskrit Transliteration">Gaṇeśa as Metaphor</span>," in Robert L. Brown (ed.) Ganesh: Studies of an Asian God, pp. 94–5, note 2. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0791406571">ISBN 0-7914-0657-1</a></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation book">Parrinder, Edward Geoffrey (1982). <i>Avatar and incarnation</i>. Oxford: Oxford University Press. p. 88. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-520361-5" title="Special:BookSources/0-19-520361-5">0-19-520361-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=Edward+Geoffrey&amp;rft.aulast=Parrinder&amp;rft.au=Parrinder%2C+Edward+Geoffrey&amp;rft.btitle=Avatar+and+incarnation&amp;rft.date=1982&amp;rft.genre=book&amp;rft.isbn=0-19-520361-5&amp;rft.pages=88&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation book">Winternitz, Moriz; V. Srinivasa Sarma (1981). <a class="external text" href="http://books.google.com/?id=JRfuJFRV_O8C&amp;pg=PA543" rel="nofollow"><i>A History of Indian Literature, Volume 1</i></a>. Motilal Banarsidass. pp. 543–544. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-81-208-0264-3" title="Special:BookSources/978-81-208-0264-3">978-81-208-0264-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=Moriz&amp;rft.aulast=Winternitz&amp;rft.au=V.+Srinivasa+Sarma&amp;rft.au=Winternitz%2C+Moriz&amp;rft.btitle=A+History+of+Indian+Literature%2C+Volume+1&amp;rft.date=1981&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DJRfuJFRV_O8C%26pg%3DPA543&amp;rft.isbn=978-81-208-0264-3&amp;rft.pages=543-544&amp;rft.pub=Motilal+Banarsidass&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Soifer, pp. 91–92.</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><span class="citation book">Sharma, B. N. Krishnamurti (2000). <a class="external text" href="http://books.google.com/?id=FVtpFMPMulcC&amp;pg=PA412" rel="nofollow"><i>A history of the Dvaita school of Vedānta and its literature: from the earliest beginnings to our own times</i></a>. Motilal Banarsidass Publ. p. 412. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-81-208-1575-9" title="Special:BookSources/978-81-208-1575-9">978-81-208-1575-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=B.+N.+Krishnamurti&amp;rft.aulast=Sharma&amp;rft.au=Sharma%2C+B.+N.+Krishnamurti&amp;rft.btitle=A+history+of+the+Dvaita+school+of+Ved%C4%81nta+and+its+literature%3A+from+the+earliest+beginnings+to+our+own+times&amp;rft.date=2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DFVtpFMPMulcC%26pg%3DPA412&amp;rft.isbn=978-81-208-1575-9&amp;rft.pages=412&amp;rft.pub=Motilal+Banarsidass+Publ.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><span class="citation book">Lutgendorf, Philip (2007). <a class="external text" href="http://books.google.com/?id=fVFC2Nx-LP8C&amp;pg=PT333&amp;dq=avatara+Hanuman&amp;cd=1#v=snippet&amp;q=avatara%20%20Shiva" rel="nofollow"><i>Hanuman's tale: the messages of a divine monkey</i></a>. Oxford University Press US. p. 44. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-530921-8" title="Special:BookSources/978-0-19-530921-8">978-0-19-530921-8</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aufirst=Philip&amp;rft.aulast=Lutgendorf&amp;rft.au=Lutgendorf%2C+Philip&amp;rft.btitle=Hanuman%27s+tale%3A+the+messages+of+a+divine+monkey&amp;rft.date=2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DfVFC2Nx-LP8C%26pg%3DPT333%26dq%3Davatara%2BHanuman%26cd%3D1%23v%3Dsnippet%26q%3Davatara%2520%2520Shiva&amp;rft.isbn=978-0-19-530921-8&amp;rft.pages=44&amp;rft.pub=Oxford+University+Press+US&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><span class="citation book">Catherine Ludvík (1994). <a class="external text" href="http://books.google.com/?id=KCXQN0qoAe0C&amp;pg=PA10&amp;dq=Hanuman+Rudra&amp;cd=2#v=onepage&amp;q=Hanuman%20Rudra" rel="nofollow"><i>Hanumān in the Rāmāyaṇa of Vālmīki and the Rāmacaritamānasa of Tulasī Dāsa</i></a>. Motilal Banarsidass Publ. pp. 10–11. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-81-208-1122-5" title="Special:BookSources/978-81-208-1122-5">978-81-208-1122-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.au=Catherine+Ludv%C3%ADk&amp;rft.aulast=Catherine+Ludv%C3%ADk&amp;rft.btitle=Hanum%C4%81n+in+the+R%C4%81m%C4%81ya%E1%B9%87a+of+V%C4%81lm%C4%ABki+and+the+R%C4%81macaritam%C4%81nasa+of+Tulas%C4%AB+D%C4%81sa&amp;rft.date=1994&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DKCXQN0qoAe0C%26pg%3DPA10%26dq%3DHanuman%2BRudra%26cd%3D2%23v%3Donepage%26q%3DHanuman%2520Rudra&amp;rft.isbn=978-81-208-1122-5&amp;rft.pages=10-11&amp;rft.pub=Motilal+Banarsidass+Publ.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><span class="citation book">Sontheimer, Gunther-Dietz (1990). <a class="external text" href="http://books.google.com/books?id=McwUAAAAIAAJ&amp;pg=PA129&amp;dq=khandoba&amp;as_brr=3&amp;sig=ehrDuvjgTUjPr6SBpxYdUXEGjy0#PPP1,M1" rel="nofollow">"God as King for All: The Sanskrit Malhari Mahatmya and its context"</a>. In Hans Bakker. <i>The History of Sacred Places in India as Reflected in Traditional Literature</i>. BRILL. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/90-04-09318-4" title="Special:BookSources/90-04-09318-4">90-04-09318-4</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.atitle=God+as+King+for+All%3A+The+Sanskrit+Malhari+Mahatmya+and+its+context&amp;rft.aufirst=Gunther-Dietz&amp;rft.aulast=Sontheimer&amp;rft.au=Sontheimer%2C+Gunther-Dietz&amp;rft.btitle=The+History+of+Sacred+Places+in+India+as+Reflected+in+Traditional+Literature&amp;rft.date=1990&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DMcwUAAAAIAAJ%26pg%3DPA129%26dq%3Dkhandoba%26as_brr%3D3%26sig%3DehrDuvjgTUjPr6SBpxYdUXEGjy0%23PPP1%2CM1&amp;rft.isbn=90-04-09318-4&amp;rft.pub=BRILL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> p.118</span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><span class="citation book">Sontheimer, Gunther-Dietz (1989). <a class="external text" href="http://books.google.com/books?id=CLmuJhU3wC8C&amp;pg=PA299&amp;dq=Between+Ghost+and+God+Sontheimer&amp;ei=LFVwR-f4NIyEiQHq5_B1&amp;sig=_KDFDF3dMBnCxpRu5wSOkVP1tus" rel="nofollow">"Between Ghost and God: Folk Deity of the Deccan"</a>. In Alf Hiltebeitel. <i>Criminal Gods and Demon Devotees: Essays on the Guardians of Popular Hinduism</i>. <a href="/wiki/State_University_of_New_York" title="State University of New York">SUNY</a> Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-88706-981-9" title="Special:BookSources/0-88706-981-9">0-88706-981-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.atitle=Between+Ghost+and+God%3A+Folk+Deity+of+the+Deccan&amp;rft.aufirst=Gunther-Dietz&amp;rft.aulast=Sontheimer&amp;rft.au=Sontheimer%2C+Gunther-Dietz&amp;rft.btitle=Criminal+Gods+and+Demon+Devotees%3A+Essays+on+the+Guardians+of+Popular+Hinduism&amp;rft.date=1989&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DCLmuJhU3wC8C%26pg%3DPA299%26dq%3DBetween%2BGhost%2Band%2BGod%2BSontheimer%26ei%3DLFVwR-f4NIyEiQHq5_B1%26sig%3D_KDFDF3dMBnCxpRu5wSOkVP1tus&amp;rft.isbn=0-88706-981-9&amp;rft.pub=SUNY+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> p.332</span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text">Padma Purana 6.236.7-11</span></li>
+<li id="cite_note-Mani-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mani_48-0">^</a></b></span> <span class="reference-text"><span class="citation book">Mani, Vettam (1975). <i>Puranic Encyclopaedia: A Comprehensive Dictionary With Special Reference to the Epic and Puranic Literature</i>. Delhi: Motilal Banarsidass. p. 859. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8426-0822-2" title="Special:BookSources/0-8426-0822-2">0-8426-0822-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.aulast=Mani%2C+Vettam&amp;rft.au=Mani%2C+Vettam&amp;rft.btitle=Puranic+Encyclopaedia%3A+A+Comprehensive+Dictionary+With+Special+Reference+to+the+Epic+and+Puranic+Literature&amp;rft.date=1975&amp;rft.genre=book&amp;rft.isbn=0-8426-0822-2&amp;rft.pages=859&amp;rft.place=Delhi&amp;rft.pub=Motilal+Banarsidass&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><a class="external text" href="http://books.google.co.in/books?id=8-h8ptzp0lUC&amp;pg=PA16&amp;dq=chaubis+avtar&amp;hl=en&amp;sa=X&amp;ei=IuXcT6XCHYunrAeB0_DGDQ&amp;ved=0CDMQ6AEwAA#v=onepage&amp;q=chaubis%20avtar&amp;f=false" rel="nofollow">Composition 10, Rudra Avtar</a></span></li>
+<li id="cite_note-Triumph-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-Triumph_50-0">^</a></b></span> <span class="reference-text"><span class="citation book">Brown, Cheever Mackenzie (1990). <a class="external text" href="http://books.google.com/?id=erENsMcblGAC&amp;pg=PA32" rel="nofollow"><i>The triumph of the goddess: the canonical models and theological visions of the Devī-Bhāgavata Purāṇa</i></a>. SUNY Press. p. 32. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7914-0363-1" title="Special:BookSources/978-0-7914-0363-1">978-0-7914-0363-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.au=Brown%2C+Cheever+Mackenzie&amp;rft.aufirst=Cheever+Mackenzie&amp;rft.aulast=Brown&amp;rft.btitle=The+triumph+of+the+goddess%3A+the+canonical+models+and+theological+visions+of+the+Dev%C4%AB-Bh%C4%81gavata+Pur%C4%81%E1%B9%87a&amp;rft.date=1990&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DerENsMcblGAC%26pg%3DPA32&amp;rft.isbn=978-0-7914-0363-1&amp;rft.pages=32&amp;rft.pub=SUNY+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><i>Hindu Avatāra and Christian Incarnation: A Comparison</i>, Noel Sheth Philosophy East and West, Vol. 52, No. 1 (Jan., 2002), pp. 98, 117.</span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><span class="citation book">Brown, Cheever Mackenzie (1998). <a class="external text" href="http://books.google.com/?id=OxayHczql9EC&amp;printsec=frontcover&amp;dq=Devi+Gita&amp;cd=1#v=snippet&amp;q=Devi%20avatara" rel="nofollow"><i>The Devī Gītā: the song of the Goddess</i></a>. SUNY Press. p. 272. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7914-3940-1" title="Special:BookSources/978-0-7914-3940-1">978-0-7914-3940-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.au=Brown%2C+Cheever+Mackenzie&amp;rft.aulast=Brown%2C+Cheever+Mackenzie&amp;rft.btitle=The+Dev%C4%AB+G%C4%ABt%C4%81%3A+the+song+of+the+Goddess&amp;rft.date=1998&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DOxayHczql9EC%26printsec%3Dfrontcover%26dq%3DDevi%2BGita%26cd%3D1%23v%3Dsnippet%26q%3DDevi%2520avatara&amp;rft.isbn=978-0-7914-3940-1&amp;rft.pages=272&amp;rft.pub=SUNY+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> verses 9.22cd-23ab</span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text">Brown, p. 270.</span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><a class="external text" href="http://books.google.co.in/books?id=8-h8ptzp0lUC&amp;pg=PA16&amp;dq=chaubis+avtar&amp;hl=en&amp;sa=X&amp;ei=IuXcT6XCHYunrAeB0_DGDQ&amp;ved=0CDMQ6AEwAA#v=onepage&amp;q=chaubis%20avtar&amp;f=false" rel="nofollow">Composition 9 - Brahma Avtar</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=18" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Alain_Dani%C3%A9lou" title="Alain Daniélou">Daniélou, Alain</a> (1991) [1964]. <i><a class="external text" href="http://books.google.com/books?id=1HMXN9h6WX0C" rel="nofollow">The myths and gods of India</a></i>. Inner Traditions, Vermont, USA. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0892813547">ISBN 0-89281-354-7</a>. pp. 164–187.</li>
+<li><span class="citation journal">Coleman, T. (2011). "Avatāra". <i>Oxford Bibliographies Online: Hinduism</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1093%2Fobo%2F9780195399318-0009" rel="nofollow">10.1093/obo/9780195399318-0009</a>. Short introduction and bibliography of sources about <i>Avatāra</i> (subscription required).</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAvatar&amp;rft.atitle=Avat%C4%81ra&amp;rft.au=Coleman%2C+T.&amp;rft.aufirst=T.&amp;rft.aulast=Coleman&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1093%2Fobo%2F9780195399318-0009&amp;rft.jtitle=Oxford+Bibliographies+Online%3A+Hinduism&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1093.2Fobo.2F9780195399318-0009&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Avatar&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" data-file-height="1089" data-file-width="1000" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/55px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/73px-Wiktionary-logo-en.svg.png 2x" width="37"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="//en.wiktionary.org/wiki/avatar" title="wiktionary:avatar">avatar</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="//commons.wikimedia.org/wiki/Category:Avatar" title="commons:Category:Avatar">Avatar</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" data-file-height="430" data-file-width="410" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" width="38"/></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> article <i><b><a class="extiw" href="//en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Avatar" title="wikisource:1911 Encyclopædia Britannica/Avatar">Avatar</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" data-file-height="355" data-file-width="300" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a class="extiw" href="//en.wikiquote.org/wiki/Special:Search/Avatar" title="q:Special:Search/Avatar">Avatar</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.sscnet.ucla.edu/southasia/Religions/Avatars/Vishnu.html" rel="nofollow">Avatars (Incarnations or Descents) of Vishnu</a></li>
+<li><a class="external text" href="http://home.online.no/~solibakk/firstava.html" rel="nofollow">Meher Baba's interpretation of the Avatar's origin</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col" style="background:#FFD068;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:VishnuAvatars" title="Template:VishnuAvatars"><span style=";background:#FFD068;;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:VishnuAvatars" title="Template talk:VishnuAvatars"><span style=";background:#FFD068;;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:VishnuAvatars&amp;action=edit"><span style=";background:#FFD068;;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><strong class="selflink">Avatars</strong> of <a href="/wiki/Vishnu" title="Vishnu">Vishnu</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background:#FFD068;"><a href="/wiki/Dashavatara" title="Dashavatara">Dashavatara</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Matsya" title="Matsya">Matsya</a></li>
+<li><a href="/wiki/Kurma" title="Kurma">Kurma</a></li>
+<li><a href="/wiki/Varaha" title="Varaha">Varaha</a></li>
+<li><a href="/wiki/Narasimha" title="Narasimha">Narasimha</a></li>
+<li><a href="/wiki/Vamana" title="Vamana">Vamana</a></li>
+<li><a href="/wiki/Parashurama" title="Parashurama">Parashurama</a></li>
+<li><a href="/wiki/Rama" title="Rama">Rama</a></li>
+<li><a href="/wiki/Balarama" title="Balarama">Balarama</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Krishna" title="Krishna">Krishna</a></li>
+<li><a href="/wiki/Gautama_Buddha_in_Hinduism" title="Gautama Buddha in Hinduism">Buddha</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Kalki" title="Kalki">Kalki</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Vishnu.jpg"><img alt="Vishnu.jpg" data-file-height="246" data-file-width="205" height="72" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Vishnu.jpg/60px-Vishnu.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Vishnu.jpg/90px-Vishnu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Vishnu.jpg/120px-Vishnu.jpg 2x" width="60"/></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background:#FFD068;">Other avatars</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Four_Kumaras" title="Four Kumaras">Four Kumaras</a></li>
+<li><a href="/wiki/Narada" title="Narada">Narada</a></li>
+<li><a href="/wiki/Nara-Narayana" title="Nara-Narayana">Nara-Narayana</a></li>
+<li><a href="/wiki/Kapila" title="Kapila">Kapila</a></li>
+<li><a href="/wiki/Dattatreya" title="Dattatreya">Dattatreya</a></li>
+<li><a href="/wiki/Yajna_(avatar)" title="Yajna (avatar)">Yajna</a></li>
+<li><a href="/wiki/Rishabha_(Hinduism)" title="Rishabha (Hinduism)">Rishabha</a></li>
+<li><a href="/wiki/Prithu" title="Prithu">Prithu</a></li>
+<li><a href="/wiki/Dhanvantari" title="Dhanvantari">Dhanvantari</a></li>
+<li><a href="/wiki/Mohini" title="Mohini">Mohini</a></li>
+<li><a href="/wiki/Vyasa" title="Vyasa">Vyasa</a></li>
+<li><a href="/wiki/Prsnigarbha" title="Prsnigarbha">Prsnigarbha</a></li>
+<li><a href="/wiki/Hayagriva" title="Hayagriva">Hayagriva</a></li>
+<li><a href="/wiki/Hamsa_(bird)" title="Hamsa (bird)">Hamsa</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background:#FFD068;">
+<div><small><sup><small>1</small></sup> Buddha or Balarama is considered the avatar of Vishnu, depending on the tradition. In North India, Buddha is included and in South India, Balarama.</small></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col" style="background:#FFC569;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hindu_deities_and_texts" title="Template:Hindu deities and texts"><span style=";background:#FFC569;;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hindu_deities_and_texts" title="Template talk:Hindu deities and texts"><span style=";background:#FFC569;;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hindu_deities_and_texts&amp;action=edit"><span style=";background:#FFC569;;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Hindu_deities" title="Hindu deities">Hindu deities</a> and <a href="/wiki/Hindu_texts" title="Hindu texts">texts</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background:#FFC569;"><a href="/wiki/Deva_(Hinduism)" title="Deva (Hinduism)">Gods</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trimurti" title="Trimurti">Trimurti</a>
+<ul>
+<li><a href="/wiki/Brahma" title="Brahma">Brahma</a></li>
+<li><a href="/wiki/Vishnu" title="Vishnu">Vishnu</a></li>
+<li><a href="/wiki/Shiva" title="Shiva">Shiva</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ganesha" title="Ganesha">Ganesha</a></li>
+<li><a href="/wiki/Rama" title="Rama">Rama</a></li>
+<li><a href="/wiki/Krishna" title="Krishna">Krishna</a></li>
+<li><a href="/wiki/Kartikeya" title="Kartikeya">Kartikeya</a></li>
+<li><a href="/wiki/Hanuman" title="Hanuman">Hanuman</a></li>
+<li><a href="/wiki/Indra" title="Indra">Indra</a></li>
+<li><a href="/wiki/Surya" title="Surya">Surya</a></li>
+<li><i><a href="/wiki/Category:Hindu_gods" title="Category:Hindu gods">more</a></i></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Om.svg" title="Hindu omkaar"><img alt="Hindu omkaar" data-file-height="367" data-file-width="356" height="52" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8e/Om.svg/50px-Om.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8e/Om.svg/75px-Om.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8e/Om.svg/100px-Om.svg.png 2x" width="50"/></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background:#FFC569;"><a href="/wiki/Devi" title="Devi">Goddesses</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tridevi" title="Tridevi">Tridevi</a>
+<ul>
+<li><a href="/wiki/Saraswati" title="Saraswati">Saraswati</a></li>
+<li><a href="/wiki/Lakshmi" title="Lakshmi">Lakshmi</a></li>
+<li><a href="/wiki/Parvati" title="Parvati">Parvati</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Adi_Parashakti" title="Adi Parashakti">Adi Parashakti</a></li>
+<li><a href="/wiki/Sati_(goddess)" title="Sati (goddess)">Sati</a></li>
+<li><a href="/wiki/Durga" title="Durga">Durga</a></li>
+<li><a href="/wiki/Shakti" title="Shakti">Shakti</a></li>
+<li><a href="/wiki/Kali" title="Kali">Kali</a></li>
+<li><a href="/wiki/Sita" title="Sita">Sita</a></li>
+<li><a href="/wiki/Radha" title="Radha">Radha</a></li>
+<li><a href="/wiki/Mahavidya" title="Mahavidya">Mahavidya</a></li>
+<li><a href="/wiki/Navadurga" title="Navadurga">Navadurga</a></li>
+<li><a href="/wiki/Matrikas" title="Matrikas">Matrikas</a></li>
+<li><i><a href="/wiki/Category:Hindu_goddesses" title="Category:Hindu goddesses">more</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background:#FFC569;">Texts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vedas" title="Vedas">Vedas</a>
+<ul>
+<li><a href="/wiki/Rigveda" title="Rigveda">Rig</a></li>
+<li><a href="/wiki/Samaveda" title="Samaveda">Sama</a></li>
+<li><a href="/wiki/Yajurveda" title="Yajurveda">Yajur</a></li>
+<li><a href="/wiki/Atharvaveda" title="Atharvaveda">Atharva</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Upanishads" title="Upanishads">Upanishads</a></li>
+<li><a href="/wiki/Puranas" title="Puranas">Puranas</a></li>
+<li><a href="/wiki/Ramayana" title="Ramayana">Ramayana</a></li>
+<li><a href="/wiki/Mahabharata" title="Mahabharata">Mahabharata</a></li>
+<li><a href="/wiki/Bhagavad_Gita" title="Bhagavad Gita">Bhagavad Gita</a></li>
+<li><a href="/wiki/Yoga_Sutras_of_Patanjali" title="Yoga Sutras of Patanjali">Yoga Sutras of Patanjali</a></li>
+<li><i><a href="/wiki/Category:Hindu_texts" title="Category:Hindu texts">more</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3" style="background:#FFC569;">
+<div>
+<ul>
+<li><a href="/wiki/Hinduism" title="Hinduism">Hinduism</a></li>
+<li><a href="/wiki/Hindu_mythology" title="Hindu mythology">Hindu mythology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1165
+CPU time usage: 0.662 seconds
+Real time usage: 0.808 seconds
+Preprocessor visited node count: 7869/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 119346/2097152 bytes
+Template argument size: 10222/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.141/10.000 seconds
+Lua memory usage: 3.79 MB/50 MB
+-->
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  584.817      1 - -total
+ 29.05%  169.870      1 - Template:Reflist
+ 14.79%   86.478     21 - Template:Cite_book
+ 11.74%   68.636      1 - Template:IPAc-en
+ 10.81%   63.236      1 - Template:Nowrap
+  8.58%   50.154     15 - Template:H:IPA
+  7.99%   46.742      6 - Template:Fix
+  7.59%   44.395      3 - Template:Verify_credibility
+  7.40%   43.261      1 - Template:About
+  6.81%   39.816      9 - Template:Category_handler
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:100368-0!*!0!!en!4!* and timestamp 20150208024501 and revision id 646128920
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Avatar&amp;oldid=646128920">http://en.wikipedia.org/w/index.php?title=Avatar&amp;oldid=646128920</a>"					</div>
+<div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Forms_of_Vishnu" title="Category:Forms of Vishnu">Forms of Vishnu</a></li><li><a href="/wiki/Category:Hindu_philosophical_concepts" title="Category:Hindu philosophical concepts">Hindu philosophical concepts</a></li><li><a href="/wiki/Category:Vaishnavism" title="Category:Vaishnavism">Vaishnavism</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_June_2011" title="Category:Articles with dead external links from June 2011">Articles with dead external links from June 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_January_2010" title="Category:Articles lacking reliable references from January 2010">Articles lacking reliable references from January 2010</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2014" title="Category:Articles with unsourced statements from May 2014">Articles with unsourced statements from May 2014</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Avatar&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Avatar" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Avatar" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Avatar" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Avatar">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Avatar&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Avatar&amp;action=history" title="Past versions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if one exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li>
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+<li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li>
+<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+<li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li>
+<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Avatar" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li>
+<li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Avatar" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
+<li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
+<li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=Avatar&amp;oldid=646128920" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=Avatar&amp;action=info" title="More information about this page">Page information</a></li>
+<li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q83090" title="Link to connected data repository item [g]">Wikidata item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Avatar&amp;id=646128920" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Avatar">Create a book</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Avatar&amp;oldid=646128920&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="t-print"><a accesskey="p" href="/w/index.php?title=Avatar&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D9%81%D8%A7%D8%AA%D8%A7%D8%B1" hreflang="ar" lang="ar" title="أفاتار – Arabic">العربية</a></li>
+<li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%85%E0%A6%AC%E0%A6%A4%E0%A6%BE%E0%A6%B0" hreflang="bn" lang="bn" title="অবতার – Bengali">বাংলা</a></li>
+<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80" hreflang="bg" lang="bg" title="Аватар – Bulgarian">Български</a></li>
+<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Avatar_(mitologia)" hreflang="ca" lang="ca" title="Avatar (mitologia) – Catalan">Català</a></li>
+<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Avat%C3%A1r" hreflang="cs" lang="cs" title="Avatár – Czech">Čeština</a></li>
+<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Avatar" hreflang="da" lang="da" title="Avatar – Danish">Dansk</a></li>
+<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Avatara" hreflang="de" lang="de" title="Avatara – German">Deutsch</a></li>
+<li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Avataara" hreflang="et" lang="et" title="Avataara – Estonian">Eesti</a></li>
+<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%91%CE%B2%CE%B1%CF%84%CE%AC%CF%81%CE%B1" hreflang="el" lang="el" title="Αβατάρα – Greek">Ελληνικά</a></li>
+<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Avatar" hreflang="es" lang="es" title="Avatar – Spanish">Español</a></li>
+<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Avataro" hreflang="eo" lang="eo" title="Avataro – Esperanto">Esperanto</a></li>
+<li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Avatar" hreflang="eu" lang="eu" title="Avatar – Basque">Euskara</a></li>
+<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D9%88%D8%AA%D8%A7%D8%B1" hreflang="fa" lang="fa" title="اوتار – Persian">فارسی</a></li>
+<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Avatar_(hindouisme)" hreflang="fr" lang="fr" title="Avatar (hindouisme) – French">Français</a></li>
+<li class="interlanguage-link interwiki-ga"><a href="//ga.wikipedia.org/wiki/Abhat%C3%A1r" hreflang="ga" lang="ga" title="Abhatár – Irish">Gaeilge</a></li>
+<li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Avatar" hreflang="gl" lang="gl" title="Avatar – Galician">Galego</a></li>
+<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%95%84%EB%B0%94%ED%83%80%EB%9D%BC" hreflang="ko" lang="ko" title="아바타라 – Korean">한국어</a></li>
+<li class="interlanguage-link interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%B1%D5%BE%D5%A1%D5%BF%D5%A1%D6%80" hreflang="hy" lang="hy" title="Ավատար – Armenian">Հայերեն</a></li>
+<li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%B0" hreflang="hi" lang="hi" title="अवतार – Hindi">हिन्दी</a></li>
+<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Avatar" hreflang="hr" lang="hr" title="Avatar – Croatian">Hrvatski</a></li>
+<li class="interlanguage-link interwiki-id badge-Q17437798 badge-goodarticle" title="good article"><a href="//id.wikipedia.org/wiki/Awatara" hreflang="id" lang="id" title="Awatara – Indonesian">Bahasa Indonesia</a></li>
+<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Avat%C4%81ra" hreflang="it" lang="it" title="Avatāra – Italian">Italiano</a></li>
+<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%95%D7%95%D7%98%D7%90%D7%A8" hreflang="he" lang="he" title="אווטאר – Hebrew">עברית</a></li>
+<li class="interlanguage-link interwiki-jv"><a href="//jv.wikipedia.org/wiki/Awatara" hreflang="jv" lang="jv" title="Awatara – Javanese">Basa Jawa</a></li>
+<li class="interlanguage-link interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%B5%E0%B2%A4%E0%B2%BE%E0%B2%B0" hreflang="kn" lang="kn" title="ಅವತಾರ – Kannada">ಕನ್ನಡ</a></li>
+<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%90%E1%83%95%E1%83%90%E1%83%A2%E1%83%90%E1%83%A0%E1%83%90" hreflang="ka" lang="ka" title="ავატარა – Georgian">ქართული</a></li>
+<li class="interlanguage-link interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80%D0%B0" hreflang="kk" lang="kk" title="Аватара – Kazakh">Қазақша</a></li>
+<li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Avatara" hreflang="la" lang="la" title="Avatara – Latin">Latina</a></li>
+<li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Avat%C4%81ra" hreflang="lv" lang="lv" title="Avatāra – Latvian">Latviešu</a></li>
+<li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Avatara" hreflang="lt" lang="lt" title="Avatara – Lithuanian">Lietuvių</a></li>
+<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Avat%C3%A1ra" hreflang="hu" lang="hu" title="Avatára – Hungarian">Magyar</a></li>
+<li class="interlanguage-link interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80" hreflang="mk" lang="mk" title="Аватар – Macedonian">Македонски</a></li>
+<li class="interlanguage-link interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%B0" hreflang="mr" lang="mr" title="अवतार – Marathi">मराठी</a></li>
+<li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Avatar" hreflang="ms" lang="ms" title="Avatar – Malay">Bahasa Melayu</a></li>
+<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Avatar_(hindoe%C3%AFsme)" hreflang="nl" lang="nl" title="Avatar (hindoeïsme) – Dutch">Nederlands</a></li>
+<li class="interlanguage-link interwiki-ne"><a href="//ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%B0" hreflang="ne" lang="ne" title="अवतार – Nepali">नेपाली</a></li>
+<li class="interlanguage-link interwiki-new"><a href="//new.wikipedia.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%AE%E0%A5%8D_(%E0%A4%B8%E0%A4%A8%E0%A5%8D_%E0%A5%A7%E0%A5%AF%E0%A5%AF%E0%A5%AB%E0%A4%AF%E0%A4%BE_%E0%A4%B8%E0%A4%82%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A4%BE)" hreflang="new" lang="new" title="अवतारम् (सन् १९९५या संकिपा) – Newari">नेपाल भाषा</a></li>
+<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B4%E3%82%A1%E3%82%BF%E3%83%BC%E3%83%A9" hreflang="ja" lang="ja" title="アヴァターラ – Japanese">日本語</a></li>
+<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Avatar" hreflang="no" lang="no" title="Avatar – Norwegian (bokmål)">Norsk bokmål</a></li>
+<li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Avatar" hreflang="nn" lang="nn" title="Avatar – Norwegian Nynorsk">Norsk nynorsk</a></li>
+<li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Avatar" hreflang="oc" lang="oc" title="Avatar – Occitan">Occitan</a></li>
+<li class="interlanguage-link interwiki-km"><a href="//km.wikipedia.org/wiki/%E1%9E%A2%E1%9E%9C%E1%9E%8F%E1%9E%B6%E1%9E%9A" hreflang="km" lang="km" title="អវតារ – Khmer">ភាសាខ្មែរ</a></li>
+<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Awatara" hreflang="pl" lang="pl" title="Awatara – Polish">Polski</a></li>
+<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Avatar" hreflang="pt" lang="pt" title="Avatar – Portuguese">Português</a></li>
+<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Avatar" hreflang="ro" lang="ro" title="Avatar – Romanian">Română</a></li>
+<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80%D0%B0" hreflang="ru" lang="ru" title="Аватара – Russian">Русский</a></li>
+<li class="interlanguage-link interwiki-sah"><a href="//sah.wikipedia.org/wiki/Avatar" hreflang="sah" lang="sah" title="Avatar – Sakha">Саха тыла</a></li>
+<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Avatar" hreflang="simple" lang="simple" title="Avatar – Simple English">Simple English</a></li>
+<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Avat%C3%A1ra" hreflang="sk" lang="sk" title="Avatára – Slovak">Slovenčina</a></li>
+<li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Avatar" hreflang="sl" lang="sl" title="Avatar – Slovenian">Slovenščina</a></li>
+<li class="interlanguage-link interwiki-ckb"><a href="//ckb.wikipedia.org/wiki/%D8%A6%DB%95%DA%A4%DB%95%D8%AA%D8%A7%D8%B1" hreflang="ckb" lang="ckb" title="ئەڤەتار – Sorani Kurdish">کوردی</a></li>
+<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80" hreflang="sr" lang="sr" title="Аватар – Serbian">Српски / srpski</a></li>
+<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Avatar_(hindulaisuus)" hreflang="fi" lang="fi" title="Avatar (hindulaisuus) – Finnish">Suomi</a></li>
+<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Avatar" hreflang="sv" lang="sv" title="Avatar – Swedish">Svenska</a></li>
+<li class="interlanguage-link interwiki-tl"><a href="//tl.wikipedia.org/wiki/Abatar_(termino)" hreflang="tl" lang="tl" title="Abatar (termino) – Tagalog">Tagalog</a></li>
+<li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B5%E0%AE%A4%E0%AE%BE%E0%AE%B0%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="அவதாரம் – Tamil">தமிழ்</a></li>
+<li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%A7%E0%B8%95%E0%B8%B2%E0%B8%A3" hreflang="th" lang="th" title="อวตาร – Thai">ไทย</a></li>
+<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Avatar" hreflang="tr" lang="tr" title="Avatar – Turkish">Türkçe</a></li>
+<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80%D0%B0" hreflang="uk" lang="uk" title="Аватара – Ukrainian">Українська</a></li>
+<li class="interlanguage-link interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D8%A7%D9%88%D8%AA%D8%A7%D8%B1" hreflang="ur" lang="ur" title="اوتار – Urdu">اردو</a></li>
+<li class="interlanguage-link interwiki-war"><a href="//war.wikipedia.org/wiki/Abatar" hreflang="war" lang="war" title="Abatar – Waray">Winaray</a></li>
+<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%8C%96%E8%BA%AB_(%E5%8D%B0%E5%BA%A6%E6%95%99)" hreflang="zh" lang="zh" title="化身 (印度教) – Chinese">中文</a></li>
+<li class="uls-p-lang-dummy"><a href="#"></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" class="wbc-editpage" href="//www.wikidata.org/wiki/Q83090#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 8 February 2015, at 02:45.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Avatar&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
+</li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+
+</body>
+</html>

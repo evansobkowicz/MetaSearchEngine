@@ -1,0 +1,1129 @@
+<!DOCTYPE html>
+
+<html class="desktop">
+<head>
+<meta content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" name="google-site-verification"/>
+<title>The Catcher in the Rye Quotes by J.D. Salinger</title>
+<meta content="425 quotes from The Catcher in the Rye: ‘What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was..." name="description">
+<meta content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=" name="verify-v1">
+<meta content="app-id=355833469" name="apple-itunes-app">
+
+<link href="http://s.gr-assets.com/assets/goodreads-7563c2af52182cc1220560a048aa1315.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<meta content="authenticity_token" name="csrf-param"/>
+<meta content="wPggs/EW5SQJ5KfzlC2SQNv9LDpNux02fzLGirYiOTpcGsS8WFaAM2K6z0L7gIQx8eQ/I9R3L/6f7jHXBeLRjg==" name="csrf-token"/>
+<meta content="1VN1ZX5N24EA2ASR4KS8" name="request-id"/>
+<link href="http://www.goodreads.com/work/quotes/3036731-the-catcher-in-the-rye" rel="canonical"/>
+<!--[if lte IE 6]>
+    <link href="http://s.gr-assets.com/assets/ie6-cc52aa7387334f5af5c4030b6967aeae.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+//<![CDATA[
+
+      try {
+        document.execCommand("BackgroundImageCache", false, true);
+      }
+      catch(err) {}
+
+//]]>
+</script>  <![endif]-->
+<!--[if lt IE 9]>
+    <link href="http://s.gr-assets.com/assets/ie-359aa440eb656520ac599b277282c9da.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+<!--[if lt IE 8]>
+    <link href="http://s.gr-assets.com/assets/common_images_ie-7e02aa56087d0ffa4d957885fe28af2c.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+<!--[if gte IE 8]><!-->
+<link href="http://s.gr-assets.com/assets/common_images-f3d5973863608a51d0a0cdb6ac9ab82e.css" media="screen" rel="stylesheet" type="text/css"/>
+<!--<![endif]-->
+
+
+
+
+<link href="/opensearch.xml" rel="search" title="Goodreads" type="application/opensearchdescription+xml">
+
+
+</link></meta></meta></meta></head>
+<body class="">
+<div class="content">
+<div class="uitext" id="siteheader">
+<div class="mainContent">
+<ul class="nav" id="usernav">
+<li>
+<strong>
+<a class="navlink" href="/user/new" rel="nofollow">register</a>
+</strong>
+</li>
+<li>
+<a class="navlink" href="/about/how_it_works" rel="nofollow">tour</a>
+</li>
+<li>
+<a class="navlink" href="/user/sign_in?returnurl=%2Fwork%2Fquotes%2F3036731-the-catcher-in-the-rye" rel="nofollow">sign in</a>
+</li>
+</ul>
+<div id="logo">
+<a href="/">
+<img alt="Goodreads: Book reviews, recommendations, and discussion" border="0" src="http://s.gr-assets.com/assets/layout/goodreads_logo_324-a908b923dc3ed9b7a13f3da4d1ffb2df.png" width="140"/>
+</a>
+</div>
+<div id="sitesearch">
+<form accept-charset="UTF-8" action="/search" id="headerSearchForm" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/></div><div class="auto_complete_field_wrapper">
+<input id="sitesearch_field" name="query" placeholder="Title / Author / ISBN" type="text"/>
+<div id="sitesearch_autocomplete"></div>
+<img alt="Loading-trans" class="loading" id="sitesearch_field_loading" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" style="display: none"/>
+</div>
+<a class="submitLink" href="#" onclick="$j('#headerSearchForm').submit(); return false;"><img alt="search" src="http://s.gr-assets.com/assets/layout/magnifying_glass-a2d7514d50bcee1a0061f1ece7821750.png" title="Title / Author / ISBN" width="16"/></a>
+</form>
+</div>
+<ul class="nav" id="sitenav">
+<li>
+<a class="navlink" href="/">Home</a>
+</li>
+<li>
+<a class="navlink" href="/review/list" rel="nofollow">My Books</a>
+</li>
+<li>
+<a class="navlink" href="/friend" rel="nofollow">Friends</a>
+</li>
+<li>
+<a class="navlink" href="/recommendations" rel="nofollow">Recommendations</a>
+</li>
+<li>
+<a class="navlink" href="/book" rel="nofollow">Explore</a>
+</li>
+<li class="notificationIcon withsubnav exploreMenu">
+<div class="dropDownContainer">
+<div class="dropDown">
+<div class="caretArrow"></div>
+<div class="dropDownMenu">
+<div class="exploreMenuContent">
+<ul class="content">
+<li>
+<a href="/genres">Genres</a>
+</li>
+<li>
+<a href="/list" title="Popular lists of books">Listopia</a>
+</li>
+<li>
+<a href="/giveaway" title="Free book giveaways">Giveaways</a>
+</li>
+<li>
+<a href="/choiceawards/best-books-2014" title="2014 Goodreads Choice Awards">Choice Awards</a>
+</li>
+<li>
+<a href="/book/popular_by_date/2015/2" title="Popular New Releases">Popular</a>
+</li>
+<li>
+<a href="/voice">Goodreads Voice</a>
+</li>
+<li>
+<a href="/ebooks">Ebooks</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Fun
+</b>
+</li>
+<li>
+<a href="/trivia">Trivia</a>
+</li>
+<li>
+<a href="/quizzes">Quizzes</a>
+</li>
+<li>
+<a href="/quotes">Quotes</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Community
+</b>
+</li>
+<li>
+<a href="/group">Groups</a>
+</li>
+<li>
+<a href="/story">Creative Writing</a>
+</li>
+<li>
+<a href="/user/online_now" rel="nofollow">People</a>
+</li>
+<li>
+<a href="/event">Events</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<a class="dropDownOpener subnavlink" href="/book"></a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="mainContentContainer ">
+<div class="mainContent">
+<div id="premiumAdTop">
+<div id="div-gpt-ad-3669135cef" style="width: 970px; height: 66px">
+
+</div>
+</div>
+<div class="mainContentFloat">
+<div id="flashContainer">
+</div>
+<div id="connectPrompt" style="display:none;">
+<div class="connectPromptHolder">
+<div class="vcenteredLineOfBlocks" style="margin:15px auto 0;">
+<div class="regPromptText">
+<div class="title">
+</div>
+<div class="subtext test_styles">
+Get quotes daily
+</div>
+</div>
+<div id="facebookRegPrompt">
+<a class="fbjsLogin fbButton connectPromptButton" data-tracking-id="fb_connect_prompt_quote_reg_prompt" href="/user/new">
+<img alt="Facebook" src="http://s.gr-assets.com/assets/facebook/fb-icon-8d74377d3ff4a368f05860c35d8025b2.png"/>
+Sign in with Facebook
+</a>
+<div class="connectPromptAlternates">
+<a href="/user/sign_up?connect_prompt=true&amp;qotd_option=true">Sign in <br/> options</a>
+</div>
+</div>
+<div id="generalRegPrompt">
+<div class="connectPromptButton">
+<a class="button orange" href="/user/sign_up?connect_prompt=true&amp;qotd_option=true">Join Goodreads</a>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<h1>The Catcher in the Rye Quotes</h1>
+<div class="leftContainer">
+<div class="right">
+<div class="wtrButtonContainer wtrSignedOut" id="1_book_5107">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="5EDsH6VpbKBVySuMpJKLoeV+QREKM7sX9g6qpEgn3Rp4oggQDCkJtz6XQz3LP53Qz2dSCJP/id8W0l35++c1rg=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="5107"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_5107"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="2IVQBu4J1R8CQv4kFKuz/uwjSjxrbx1Y8qFDRE4kEWdEZ7QJR0mwCGkclpV7BqWPxjpZJfKjL5ASfbQZ/eT50w=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_5107"/>
+<input id="book_id" name="book_id" type="hidden" value="5107"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+<div class="wtrShelfMenu">
+<ul class="wtrExclusiveShelves">
+<li><button class="wtrExclusiveShelf" name="name" type="submit" value="to-read">
+<span class="progressTrigger">Want to Read</span>
+<img alt="saving…" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif"/>
+</button>
+</li>
+<li><button class="wtrExclusiveShelf" name="name" type="submit" value="currently-reading">
+<span class="progressTrigger">Currently Reading</span>
+<img alt="saving…" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif"/>
+</button>
+</li>
+<li><button class="wtrExclusiveShelf" name="name" type="submit" value="read">
+<span class="progressTrigger">Read</span>
+<img alt="saving…" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif"/>
+</button>
+</li>
+</ul>
+</div>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="5107" data-submit-url="/review/rate/5107?stars_click=true&amp;wtr_button_id=1_book_5107" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</div>
+<a class="leftAlignedImage" href="/book/show/5107.The_Catcher_in_the_Rye"><img alt="The Catcher in the Rye" src="http://d.gr-assets.com/books/1398034300s/5107.jpg"/></a>
+<a class="bookTitle" href="/book/show/5107.The_Catcher_in_the_Rye">The Catcher in the Rye</a>
+<span class="by">by</span>
+<a class="authorName" href="/author/show/819789.J_D_Salinger">J.D. Salinger</a><br/>
+  1,580,549 ratings,
+  3.77
+  average rating, 33,134 reviews
+  <br/>
+<div class="clear"></div>
+<div class="mediumText">
+    The Catcher in the Rye Quotes
+      <span class="smallText">
+(showing
+1-30
+of
+425)
+</span>
+</div>
+<div class="clear"></div>
+<div class="quotes">
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/authors">authors</a>,
+       <a href="/quotes/tag/books">books</a>,
+       <a href="/quotes/tag/literature">literature</a>,
+       <a href="/quotes/tag/reading">reading</a>,
+       <a href="/quotes/tag/writing">writing</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/5169-what-really-knocks-me-out-is-a-book-that-when" title="View this quote">14705 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “Don't ever tell anybody anything.  If you do, you start missing everybody.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/salinger">salinger</a>,
+       <a href="/quotes/tag/stories">stories</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/10624-don-t-ever-tell-anybody-anything-if-you-do-you-start" title="View this quote">3981 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “I'm quite illiterate, but I read a lot. ”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/holden">holden</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/100646-i-m-quite-illiterate-but-i-read-a-lot" title="View this quote">2949 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “Among other things, you'll find that you're not the first person who was ever confused and frightened and even sickened by human behavior. You're by no means alone on that score, you'll be excited and stimulated to know. Many, many men have been just as troubled morally and spiritually as you are right now. Happily, some of them kept records of their troubles. You'll learn from them—if you want to. Just as someday, if you have something to offer, someone will learn something from you. It's a beautiful reciprocal arrangement. And it isn't education. It's history. It's poetry.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/antolini">antolini</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/53259-among-other-things-you-ll-find-that-you-re-not-the-first" title="View this quote">2923 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “Anyway, I keep picturing all these little kids playing some game in this big field of rye and all.  Thousands of little kids, and nobody's around - nobody big, I mean - except me.  And I'm standing on the edge of some crazy cliff.  What I have to do, I have to catch everybody if they start to go over the cliff - I mean if they're running and they don't look where they're going I have to come out from somewhere and catch them.  That's all I do all day.  I'd just be the catcher in the rye and all.  I know it's crazy, but that's the only thing I'd really like to be.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/holden">holden</a>,
+       <a href="/quotes/tag/holden-caulfield">holden-caulfield</a>,
+       <a href="/quotes/tag/hope">hope</a>,
+       <a href="/quotes/tag/run">run</a>,
+       <a href="/quotes/tag/save">save</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/5722-anyway-i-keep-picturing-all-these-little-kids-playing-some" title="View this quote">2422 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “I am always saying "Glad to've met you" to somebody I'm not at all glad I met. If you want to stay alive, you have to say that stuff, though.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/friendship">friendship</a>,
+       <a href="/quotes/tag/insincerity">insincerity</a>,
+       <a href="/quotes/tag/manners">manners</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/70234-i-am-always-saying-glad-to-ve-met-you-to-somebody" title="View this quote">2026 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “That's the thing about girls. Every time they do something pretty, even if they're not much to look at, or even if they're sort of stupid, you fall in love with them, and then you never know where the hell you are. Girls. Jesus Christ. They can drive you crazy. They really can.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/girls">girls</a>,
+       <a href="/quotes/tag/holden">holden</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/34445-that-s-the-thing-about-girls-every-time-they-do-something" title="View this quote">1855 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “I like it when somebody gets excited about something. It's nice.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="right">
+<a class="smallText" href="/quotes/122049-i-like-it-when-somebody-gets-excited-about-something-it-s" title="View this quote">1675 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “Mothers are all slightly insane.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/motherhood">motherhood</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/10858-mothers-are-all-slightly-insane" title="View this quote">1586 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “It's funny.  All you have to do is say something nobody understands and they'll do practically anything you want them to.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/bluffing">bluffing</a>,
+       <a href="/quotes/tag/confusion">confusion</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/10622-it-s-funny-all-you-have-to-do-is-say-something" title="View this quote">1501 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “The mark of the immature man is that he wants to die nobly for a cause, while the mark of the mature man is that he wants to live humbly for one.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/attributed">attributed</a>,
+       <a href="/quotes/tag/growing-up">growing-up</a>,
+       <a href="/quotes/tag/wilhelm-stekel">wilhelm-stekel</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/159302-the-mark-of-the-immature-man-is-that-he-wants" title="View this quote">1438 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “When you're dead, they really fix you up. I hope to hell when I do die somebody has sense enough to just dump me in the river or something. Anything except sticking me in a goddam cemetery. People coming and putting a bunch of flowers on your stomach on Sunday, and all that crap. Who wants flowers when you're dead? Nobody.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/cemetery">cemetery</a>,
+       <a href="/quotes/tag/death">death</a>,
+       <a href="/quotes/tag/funeral-rites">funeral-rites</a>,
+       <a href="/quotes/tag/holden">holden</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/70232-when-you-re-dead-they-really-fix-you-up-i-hope" title="View this quote">1342 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “And I have one of those very loud, stupid laughs. I mean if I ever sat behind myself in a movie or something, I'd probably lean over and tell myself to please shut up.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/holden-caulfield">holden-caulfield</a>,
+       <a href="/quotes/tag/laughter">laughter</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/80120-and-i-have-one-of-those-very-loud-stupid-laughs" title="View this quote">1261 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “I don't exactly know what I mean by that, but I mean it.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="right">
+<a class="smallText" href="/quotes/63062-i-don-t-exactly-know-what-i-mean-by-that-but" title="View this quote">1182 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “Certain things, they should stay the way they are. You ought to be able to stick them in one of those big glass cases and just leave them alone.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/change">change</a>,
+       <a href="/quotes/tag/holden-caulfield">holden-caulfield</a>,
+       <a href="/quotes/tag/stasis">stasis</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/79451-certain-things-they-should-stay-the-way-they-are-you" title="View this quote">1148 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “People are always ruining things for you.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/holden">holden</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/17182-people-are-always-ruining-things-for-you" title="View this quote">1116 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “when you're not looking, somebody'll sneak up and write "Fuck you" right under your nose.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/humor">humor</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/68797-when-you-re-not-looking-somebody-ll-sneak-up-and-write-fuck" title="View this quote">1005 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “I'm the most terrific liar you ever saw in your life. It's awful. If I'm on my way to the store to buy a magazine, even, and somebody asks me where I'm going, I'm liable to say I'm going to the opera. It's terrible.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/holden-caulfield">holden-caulfield</a>,
+       <a href="/quotes/tag/life">life</a>,
+       <a href="/quotes/tag/lying">lying</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/29664-i-m-the-most-terrific-liar-you-ever-saw-in-your" title="View this quote">959 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “I'd just be the catcher in the rye and all. I know it's crazy, but that's the only thing I'd really like to be. I know it's crazy.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/crazy">crazy</a>,
+       <a href="/quotes/tag/salinger">salinger</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/586195-i-d-just-be-the-catcher-in-the-rye-and-all" title="View this quote">950 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “All morons hate it when you call them a moron.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/holden">holden</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/103446-all-morons-hate-it-when-you-call-them-a-moron" title="View this quote">887 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “If a girl looks swell when she meets you, who gives a damn if she's late?”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/girls">girls</a>,
+       <a href="/quotes/tag/holden">holden</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/53252-if-a-girl-looks-swell-when-she-meets-you-who" title="View this quote">875 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “People never notice anything.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/holden">holden</a>,
+       <a href="/quotes/tag/obliviousness">obliviousness</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/100660-people-never-notice-anything" title="View this quote">795 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “People always clap for the wrong reasons.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="right">
+<a class="smallText" href="/quotes/2182-people-always-clap-for-the-wrong-reasons" title="View this quote">733 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “The best thing, though, in that museum was that everything always stayed right where it was. Nobody'd move. You could go there a hundred thousand times, and that Eskimo would still be just finished catching those two fish, the birds would still be on their way south, the deers would still be drinking out of that water hole, with their pretty antlers and they're pretty, skinny legs, and that squaw with the naked bosom would still be weaving that same blanket. Nobody's be different. The only thing that would be different would be you. Not that you'd be so much older or anything. It wouldn't be that, exactly. You'd just be different, that's all. You'd have an overcoat this time. Or the kid that was your partner in line the last time had got scarlet fever and you'd have a new partner. Or you'd have a substitute taking the class, instead of Miss Aigletinger. Or you'd heard your mother and father having a terrific fight in the bathroom. Or you'd just passed by one of those puddles in the street with gasoline rainbows in them. I mean you'd be different in some way—I can't explain what I mean. And even if I could, I'm not sure I'd feel like it.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/holden">holden</a>,
+       <a href="/quotes/tag/interesting">interesting</a>,
+       <a href="/quotes/tag/life">life</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/100686-the-best-thing-though-in-that-museum-was-that-everything" title="View this quote">672 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “I was trying to feel some kind of good-bye.  I mean I’ve left schools and places I didn’t even know I was leaving them.  I hate that.  I don’t care if it’s a sad good-bye or a bad good-bye, but when I leave a place I like to know I’m leaving it.  If you don’t you feel even worse.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/goodbye">goodbye</a>,
+       <a href="/quotes/tag/holden">holden</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/10857-i-was-trying-to-feel-some-kind-of-good-bye-i" title="View this quote">630 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “If you do something too good, then, after a while, if you don't watch it, you start showing off. And then you're not as good any more.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/holden">holden</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/53253-if-you-do-something-too-good-then-after-a-while" title="View this quote">614 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “Grand. There's a word I really hate. It's a phony. I could puke every time I hear it.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/holden">holden</a>,
+       <a href="/quotes/tag/writing">writing</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/412-grand-there-s-a-word-i-really-hate-it-s-a-phony" title="View this quote">570 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “It was that kind of a crazy afternoon, terrifically cold, and no sun out or anything, and you felt like you were disappearing every time you crossed a road.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/holden">holden</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/556-it-was-that-kind-of-a-crazy-afternoon-terrifically-cold" title="View this quote">514 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “Almost every time somebody gives me a present, it ends up making me sad.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/67">67</a>,
+       <a href="/quotes/tag/iceskates">iceskates</a>,
+       <a href="/quotes/tag/lexidreams">lexidreams</a>,
+       <a href="/quotes/tag/presents">presents</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/4376-almost-every-time-somebody-gives-me-a-present-it-ends" title="View this quote">511 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “If you had a million years to do it in, you couldn't rub out even half the "Fuck you" signs in the world. It's impossible.”
+  <br>  ―
+    <a href="/author/show/819789.J_D_Salinger">J.D. Salinger</a>,
+    <i>
+<a href="/work/quotes/3036731">The Catcher in the Rye</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/fuck-you">fuck-you</a>,
+       <a href="/quotes/tag/holden">holden</a>,
+       <a href="/quotes/tag/humor">humor</a>,
+       <a href="/quotes/tag/signs">signs</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/103454-if-you-had-a-million-years-to-do-it-in" title="View this quote">472 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+</div>
+<br/>
+<div style="text-align: right; width: 100%">
+<div><span class="previous_page disabled">« previous</span> <em class="current">1</em> <a href="/work/quotes/3036731-the-catcher-in-the-rye?page=2" rel="next">2</a> <a href="/work/quotes/3036731-the-catcher-in-the-rye?page=3">3</a> <a href="/work/quotes/3036731-the-catcher-in-the-rye?page=4">4</a> <a href="/work/quotes/3036731-the-catcher-in-the-rye?page=5">5</a> <a href="/work/quotes/3036731-the-catcher-in-the-rye?page=6">6</a> <a href="/work/quotes/3036731-the-catcher-in-the-rye?page=7">7</a> <a href="/work/quotes/3036731-the-catcher-in-the-rye?page=8">8</a> <a href="/work/quotes/3036731-the-catcher-in-the-rye?page=9">9</a> <span class="gap">…</span> <a href="/work/quotes/3036731-the-catcher-in-the-rye?page=14">14</a> <a href="/work/quotes/3036731-the-catcher-in-the-rye?page=15">15</a> <a class="next_page" href="/work/quotes/3036731-the-catcher-in-the-rye?page=2" rel="next">next »</a></div>
+</div>
+</div>
+<div class="rightContainer">
+<form accept-charset="UTF-8" action="/quotes/search" class="quoteSearchForm box greyBox" method="get" name="quoteSearchForm"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/></div>
+<label class="mainLabel">Find quotes</label>
+<input class="text greyText" id="explore_search_query" name="q" placeholder="Keyword, Author" type="text"/>
+<input class="searchButton button" name="commit" type="submit" value="Search"/>
+</form>
+<p>
+<a class="actionLinkLite" href="/quotes">All Quotes</a>
+<br/>
+<a class="actionLinkLite" href="/author/quotes/819789.J_D_Salinger">Quotes By J.D. Salinger</a><br/>
+<a class="actionLinkLite" href="/games/quotes" rel="nofollow">Play The 'Guess That Quote' Game</a>
+</p>
+<br/>
+<div id="div-gpt-ad-4bd9d39412" style="width: 300px; height: 250px">
+
+</div>
+<br/>
+<div id="self_serve_ads"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="footerContainer">
+<div class="footer">
+<div class="copyright">
+          © 2015 Goodreads Inc
+        </div>
+<div class="adminLinksContainer">
+<ul class="adminLinks">
+<li>
+<a class="first" href="/about/us" rel="nofollow">about us</a>
+</li>
+<li>
+<a href="/advertisers" rel="nofollow">advertise</a>
+</li>
+<li>
+<a href="/author/program" rel="nofollow">author program</a>
+</li>
+<li>
+<a href="/jobs" rel="nofollow">jobs</a>
+</li>
+<li>
+<a href="/api" rel="nofollow">api</a>
+</li>
+<li>
+<a href="/blog/index">our blog</a>
+</li>
+<li>
+<a href="/about/terms" rel="nofollow">terms</a>
+</li>
+<li>
+<a href="/about/privacy" rel="nofollow">privacy</a>
+</li>
+<li>
+<a class="last" href="/help" rel="nofollow">help</a>
+</li>
+<li class="mobileToggleLink">
+<span class="label">switch to:</span>
+<a href="/toggle_mobile?switch_to=mobile" rel="nofollow">mobile version</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="overlay" onclick="Lightbox.hideBox('dropout')" style="display:none"></div>
+<div id="box" style="display:none">
+<div class="xBackground js-closeModalIcon" id="close" onclick="Lightbox.hideBox('dropout')" title="Close this window"></div>
+<div id="boxContents"></div>
+<div id="boxContentsLeftovers" style="display:none"></div>
+<div class="clear"></div>
+</div>
+<div id="fbSigninNotification" style="display:none;">
+<p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+<img alt="Login_animation" src="http://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif"/>
+</div>
+
+<div id="fb-root"></div>
+
+
+
+<noscript>
+<div style="display: none">
+<img alt="" border="0" height="1" src="http://pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif" style="display: none;" width="1"/>
+</div>
+<img alt="" height="0" src="http://b.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" style="display: none" width="0"/>
+</noscript>
+</body>
+</html>

@@ -1,0 +1,16 @@
+Title: The Lion, the Witch, and the Wardrobe (The Chronicles of Narnia, Book 1): C. S. Lewis, Pauline Baynes: 9780064471046: Amazon.com: Books
+Date: Mon, 09 Feb 2015 20:43:27 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 1Q9FYXE13GJHSYQJ3JGA
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: book_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: Ryf3VXmWVqNQox8hY+GeuNB2495OGl/8knoAny39V9d7Axj+oV7IY3dMGI30MHF7
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+

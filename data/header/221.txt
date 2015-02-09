@@ -1,0 +1,18 @@
+Title: Watership Down by Richard Adams — Reviews, Discussion, Bookclubs, Lists
+Date: Mon, 09 Feb 2015 20:45:24 GMT
+Server: Server
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+Vary: User-Agent,Accept-Encoding
+X-Request-Id: 1SVFVHGNFCXD1G0C3XTC
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "554eb79f088abe9435df44fabe924edc"
+Cache-Control: max-age=0, private, must-revalidate
+X-Frame-Options: SAMEORIGIN
+X-Runtime: 0.030395
+X-Content-Type-Options: nosniff
+Set-Cookie: csid=BAhJIhg0NjEtMjcyNzIyNy00MjM0MDgzBjoGRVQ%3D--e19fc29a5a1b3a6e1602712bec1b3bf18f899681; path=/; expires=Fri, 09-Feb-2035 20:45:24 GMT
+Set-Cookie: locale=en; path=/
+Set-Cookie: _session_id2=313ffdaab9ba243af0a98721a8b122bd; path=/; expires=Tue, 10-Feb-2015 02:45:24 GMT; HttpOnly
+Transfer-Encoding: chunked
+

@@ -1,0 +1,13 @@
+Title: The Lord of the Rings: The Two Towers (2002) - IMDb
+Date: Mon, 09 Feb 2015 20:42:39 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYo1o5wxKF-ExZhAXzXavskUARRujHqAO3Q-ug50DDbY3yMZX-0nNjZ3LPEQYELiJzSZg8_wdMr%0D%0AYb4ylhimB0LUVaGd16eq0FZyGDyWOsROaqK1CnFRKKfOnSTVnHXH0hKXxXDKBnShSH-fIecD8Ont%0D%0A3ClbQ4HQHT5uMcNY7F9kJoTyKlCwtQkL_YMeQBeK16rg6yh_8-FhQ5sjY5S6CX_G7vT2s4HuwVja%0D%0ArSKaFoUe0FczMBvFa68-ecnDCh2j_sATbK5qF9Or2CBPEVxgdaYUzQ%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:47 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:47 GMT; Path=/
+Set-Cookie: session-id-time=1581194560; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:47 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

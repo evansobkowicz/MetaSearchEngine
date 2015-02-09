@@ -1,0 +1,16 @@
+Title: Amazon.com: The Eagle Has Landed (Collector''s Edition) [Bluray/DVD] [Blu-ray]: Michael Caine, Donald Sutherland, Robert Duvall, Jenny Agutter, Donald Pleasence, John Sturges: Movies & TV
+Date: Mon, 09 Feb 2015 20:45:06 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 0VKZV9SQN1Z9TQKBSD8T
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: dvd_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: h/GOfG4sPjCqO48xYxmm5WL2QrRa2QwvHfatM6aBhzUHKsscb6uHAuIZGqkB05MV
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+

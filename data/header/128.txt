@@ -1,0 +1,9 @@
+Title: SparkNotes: The Catcher in the Rye
+Server: Apache
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Date: Mon, 09 Feb 2015 20:43:55 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+

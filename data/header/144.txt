@@ -1,0 +1,18 @@
+Title: The Catcher in the Rye by J.D. Salinger — Reviews, Discussion, Bookclubs, Lists
+Date: Mon, 09 Feb 2015 20:44:09 GMT
+Server: Server
+Content-Type: text/html; charset=utf-8
+Content-Length: 537671
+Status: 200 OK
+Vary: User-Agent,Accept-Encoding
+X-Request-Id: 11K1P2Z7Q47PG11PFYS4
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "a6c39ba12b1ea8fd9f1f1341162e4e96"
+Cache-Control: max-age=0, private, must-revalidate
+X-Frame-Options: SAMEORIGIN
+X-Runtime: 0.067521
+X-Content-Type-Options: nosniff
+Set-Cookie: csid=BAhJIhgzOTYtNzE0OTQ2Ni00NjE4NzgyBjoGRVQ%3D--db09fff79b28f983b28d2a0d70d7f116b4590312; path=/; expires=Fri, 09-Feb-2035 20:44:09 GMT
+Set-Cookie: locale=en; path=/
+Set-Cookie: _session_id2=0618ef292ce354f359b68b8aff24af67; path=/; expires=Tue, 10-Feb-2015 02:44:09 GMT; HttpOnly
+

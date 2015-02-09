@@ -1,0 +1,20 @@
+Title: The Catcher in the Rye - Wikiquote
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=1916; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sat, 10 Jan 2015 19:15:59 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 3253372183 3246984627, 1339329310 1321910558
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 20:44:11 GMT
+Age: 14848
+Connection: close
+X-Cache: cp1067 hit (1), cp1054 frontend hit (3)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikiquote.org
+

@@ -1,0 +1,13 @@
+Title: Lolita (1997) - IMDb
+Date: Mon, 09 Feb 2015 20:44:17 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYv1Q3CoQaT-q8jVCnciYi_ucOD97P83-IN7-prd49r6qtLej0aLVPSdJ-Y5hJUmvkC7Aci9isd%0D%0Asdx3C-t7Nc-oL4ryudbN9SbtToQB9_WGOASHG7HDWVjC-GlnpYGSzlqTeMZbVQXPSJlmxVgbNQy1%0D%0AbbfUBMNL7HuPdZutejv_Eeqevk3uNq5G0EAtzsP3G8gx5M8kos0h11F8W_T--yNnapKInh_F1ha4%0D%0A7IIFcOJNr-PeGnW2M2sYg5rk8htDq2FF6cLqQLmIyK2RIM7RyC4V1A%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:58:24 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:58:24 GMT; Path=/
+Set-Cookie: session-id-time=1581194657; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:58:24 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

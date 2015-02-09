@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Agatha Christie community forum</title>
+<link href="/applications/dashboard/design/style.css?v=2.2.17" media="all" rel="stylesheet" type="text/css"/>
+<link href="/plugins/Signatures/design/signature.css?v=1.6.0" media="all" rel="stylesheet" type="text/css"/>
+<link href="/plugins/Spoilers/design/spoilers.css?v=1.2" media="all" rel="stylesheet" type="text/css"/>
+<link href="/plugins/Tagging/design/childtagslist.css?v=1.8.10" media="all" rel="stylesheet" type="text/css"/>
+<link href="/plugins/cleditor/design/jquery.cleditor.css?v=1.3.3" media="all" rel="stylesheet" type="text/css"/>
+<link href="/plugins/Tagging/design/tag.css?v=1.8.10" media="all" rel="stylesheet" type="text/css"/>
+<link href="/plugins/Reactions/design/reactions.css?v=1.3" media="all" rel="stylesheet" type="text/css"/>
+<link href="/applications/reputation/design/reputation.css?v=2.2.17" media="all" rel="stylesheet" type="text/css"/>
+<link href="/plugins/AdvancedSearch/design/advanced-search.css?v=1.0.5" media="all" rel="stylesheet" type="text/css"/>
+<link href="/plugins/FileUpload/design/fileupload.css?v=1.8.4" media="all" rel="stylesheet" type="text/css"/>
+<link href="/plugins/Emotify/design/emotify.css?v=2.0.5.1" media="all" rel="stylesheet" type="text/css"/>
+<link href="/themes/Bootstrap/design/custom.css?v=1.0.10" media="all" rel="stylesheet" type="text/css"/>
+<link href="/plugin/customcss/community.agathachristie.com/rev_33_2013-10-29-11-58-37.css?v=2.2.17" media="all" rel="stylesheet" type="text/css"/>
+<link href="/resources/css/vanillicon.css?v=2.2.17" media="all" rel="stylesheet" type="text/css"/>
+<link href="/plugins/jsconnect/design/jsconnect.css?v=1.4.4" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://community.agathachristie.com/categories" rel="canonical"/>
+<meta content="Agatha Christie" property="og:site_name"/>
+<meta content="Agatha Christie community forum" itemprop="name" property="og:title"/>
+<meta content="http://community.agathachristie.com/categories" property="og:url"/>
+<meta content="Welcome to the Official Agatha Christie forum. Chat about the best-selling novelist of all time, her works, life and detectives, including Hercule Poirot and Miss Marple." itemprop="description" name="description" property="og:description"/>
+<meta content="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/8957D6HGG4VK.jpg" itemprop="image" property="og:image"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="http://sandbox.tangentlabs.co.uk/agatha/css/vanilla.css" rel="stylesheet">
+</link></head>
+<body class="Vanilla Categories index Section-CategoryList" id="vanilla_categories_index">
+<div id="Frame">
+<header class="site-header" id="top">
+<div class="accounts">
+<div class="container">
+<a class="back-home-link" href="http://www.agathachristie.com">Back to agathachristie.com</a>
+<div class="MeWrap">
+<div class="MeBox MeBox-SignIn Inline FlyoutRight"><div class="SignInLinks"><a href="/entry/signin?Target=categories" rel="nofollow">Sign In</a> <span class="Bullet">·</span> <a class="ApplyButton" href="/entry/register?Target=categories" rel="nofollow">Register</a> </div> <div class="SignInIcons"></div></div>
+</div>
+</div>
+</div>
+<div class="brand">
+<div class="container">
+<strong class="SiteTitle"><a href="http://www.agathachristie.com"><img alt="Agatha Christie" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/8957D6HGG4VK.jpg"/></a></strong>
+</div>
+</div>
+<div class="nav-main">
+<div class="container">
+<div class="row-fluid">
+<div class="span9">
+<ul class="SiteMenu">
+<!-- -->
+<li><a class="" href="/discussions">Discussions</a></li>
+<li><a class="" href="/activity">Activity</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="SiteSearch"><form action="/search" method="get">
+<div>
+<input class="InputBox" id="Form_Search" name="Search" placeholder="Search" type="text" value=""/><input class="Button" id="Form_Go" type="submit" value="Go"/>
+</div>
+</form></div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="Body">
+<div class="BreadcrumbsWrapper">
+<div class="Row">
+<span class="Breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><span class="CrumbLabel CrumbLabel HomeCrumb Last"><a href="http://community.agathachristie.com/" itemprop="url"><span itemprop="title">Home</span></a></span> </span>
+</div>
+</div>
+<div class="Row">
+<div class="Column PanelColumn" id="Panel">
+<div class="Box GuestBox">
+<h4>Welcome</h4>
+<p>If you’re new to the site and would like to get involved please click on one of the buttons in the box below.</p>
+<p>
+<div class="JsConnect-Container ConnectButton Small UserInfo" rel="http://www.agathachristie.com/jsconnect/?client_id=1068855419&amp;Target=%2F&amp;callback=?" style="display: none"><div class="JsConnect-Connect"><a class="ConnectLink"><img class="ProfilePhotoSmall UserPhoto" src="https://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.ssl.cf1.rackcdn.com/images/usericon_50.png"/><span class="Username"></span><div class="ConnectLabel TextColor">Sign In with Agatha Christie</div></a></div></div></p>
+<div class="P"><a class="Button Primary" href="/entry/signin?Target=categories" rel="nofollow">Sign In</a> <a class="Button ApplyButton" href="/entry/register?Target=categories" rel="nofollow">Register</a></div> </div>
+<div class="BoxFilter BoxDiscussionFilter">
+<ul class="FilterMenu">
+<li class="AllCategories Active"><a href="/categories"><span class="Sprite SpAllCategories"></span> Categories</a></li> <li class="Discussions"><a class="" href="/discussions"><span class="Sprite SpDiscussions"></span> Recent Discussions</a></li>
+<li class="Activities"><a class="" href="/activity"><span class="Sprite SpActivity"></span> Activity</a></li> <li class="Participated"><a href="/discussions/participated"><span class="Sprite SpParticipated"></span>Participated</a></li><li class="Reactions-BestOf"><a href="/bestof/everything"><span class="Sprite SpBestOf"></span> Best Of...</a></li> </ul>
+</div> <div class="Box Tags">
+<h4>Popular Tags</h4> <ul class="TagCloud">
+<li><a class="Tag_writing" href="/discussions/tagged/writing">writing <span class="Count">23</span></a></li>
+<li><a class="Tag_poirot" href="/discussions/tagged/poirot">poirot <span class="Count">21</span></a></li>
+<li><a class="Tag_miss_marple" href="/discussions/tagged/miss%20marple">miss marple <span class="Count">12</span></a></li>
+<li><a class="Tag_write-your-own" href="/discussions/tagged/write-your-own">write your own <span class="Count">12</span></a></li>
+<li><a class="Tag_write_your_own" href="/discussions/tagged/write%20your%20own">write your own <span class="Count">11</span></a></li>
+<li><a class="Tag_book-of-the-month" href="/discussions/tagged/book-of-the-month">book of the month <span class="Count">8</span></a></li>
+<li><a class="Tag_book_of_the_month" href="/discussions/tagged/book%20of%20the%20month">book of the month <span class="Count">5</span></a></li>
+<li><a class="Tag_book-club" href="/discussions/tagged/book-club">book club <span class="Count">5</span></a></li>
+<li><a class="Tag_and-then-there-were-none" href="/discussions/tagged/and-then-there-were-none">and then there were none <span class="Count">4</span></a></li>
+<li><a class="Tag_david-suchet" href="/discussions/tagged/david-suchet">david suchet <span class="Count">4</span></a></li>
+<li><a class="Tag_a_murder_is_announced" href="/discussions/tagged/a%20murder%20is%20announced">a murder is announced <span class="Count">3</span></a></li>
+<li><a class="Tag_tv" href="/discussions/tagged/tv">tv <span class="Count">3</span></a></li>
+<li><a class="Tag_tommy-and-tuppence" href="/discussions/tagged/tommy-and-tuppence">tommy and tuppence <span class="Count">3</span></a></li>
+<li><a class="Tag_competition" href="/discussions/tagged/competition">competition <span class="Count">3</span></a></li>
+<li><a class="Tag_masterpiece-mystery" href="/discussions/tagged/masterpiece-mystery">masterpiece mystery <span class="Count">3</span></a></li>
+<li><a class="Tag_endless_night" href="/discussions/tagged/endless%20night">endless night <span class="Count">2</span></a></li>
+<li><a class="Tag_supernatural" href="/discussions/tagged/supernatural">supernatural <span class="Count">2</span></a></li>
+<li><a class="Tag_tommy_and_tuppence" href="/discussions/tagged/tommy%20and%20tuppence">tommy and tuppence <span class="Count">2</span></a></li>
+<li><a class="Tag_dead-man-s-folly" href="/discussions/tagged/dead-man-s-folly">dead man's folly <span class="Count">2</span></a></li>
+<li><a class="Tag_sophie-hannah" href="/discussions/tagged/sophie-hannah">sophie hannah <span class="Count">2</span></a></li>
+<li><a class="Tag_miss-marple" href="/discussions/tagged/miss-marple">miss marple <span class="Count">2</span></a></li>
+<li><a class="Tag_n_or_m?" href="/discussions/tagged/n%20or%20m%3F">n or m? <span class="Count">1</span></a></li>
+<li><a class="Tag_world_war_ii" href="/discussions/tagged/world%20war%20ii">world war ii <span class="Count">1</span></a></li>
+<li><a class="Tag_world-book-night" href="/discussions/tagged/world-book-night">world book night <span class="Count">1</span></a></li>
+<li><a class="Tag_big-four" href="/discussions/tagged/big-four">big four <span class="Count">1</span></a></li>
+</ul>
+</div>
+</div>
+<div class="Column ContentColumn" id="Content"><h1 class="H HomepageTitle">Agatha Christie community forum</h1>
+<div class="P PageDescription">Welcome to the Official Agatha Christie forum. Chat about the best-selling novelist of all time, her works, life and detectives, including Hercule Poirot and Miss Marple.</div>
+<div class="CategoriesWrap">
+<div class="DataListWrap">
+<ul class="DataList CategoryList">
+<li class="Item Category-general-agatha-christie-discussions Item-Category-general-agatha-christie-discussions Depth1 Depth-1 Unread Rank-Admin" id="Category_2">
+<div class="ItemContent Category">
+<h2 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/general-agatha-christie-discussions"><img alt="General Agatha Christie discussions" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/VC0D202M9RO1.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/general-agatha-christie-discussions">General Agatha Christie discussions</a></h2>
+<div class="CategoryDescription">
+            For everything else including the Guess the Quote game         </div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/general-agatha-christie-discussions/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="201 discussions">201</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="3,884 comments">3.9K</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/510/what-is-your-favorite-book-to-movie-adaptation#latest">WHAT IS YOUR FAVORITE BOOK TO MOVIE ADAPTATION?</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/711/Tim%20Thomas">Tim Thomas</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/510/what-is-your-favorite-book-to-movie-adaptation#latest"><time datetime="2015-02-09T11:11:41+00:00" title="February  9, 2015 11:11AM">11:11AM</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Alt Category-write-your-own-christie Item-Category-write-your-own-christie Depth1 Depth-1 Unread Rank-Admin" id="Category_30">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/write-your-own-christie"><img alt="Write Your Own Christie" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/YS2KE8LOCVIO.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/write-your-own-christie">Write Your Own Christie</a></h3>
+<div class="CategoryDescription">
+            We're inviting you to join our writing competition, in which you can take part in creating a new collaborative mystery novel.
+Any tips, techniques or questions, post them here.         </div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/write-your-own-christie/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="29 discussions">29</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="293 comments">293</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/431/a-real-death#latest">a real death</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/3827/AgathaSparrow">AgathaSparrow</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/431/a-real-death#latest"><time datetime="2015-01-04T13:50:17+00:00" title="January  4, 2015  1:50PM">January 4</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Category-guess-the-quote Item-Category-guess-the-quote Depth1 Depth-1 Unread Rank-Admin" id="Category_26">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category Hidden NoPhoto" href="//community.agathachristie.com/categories/guess-the-quote"><span class="sr-only">Expand for more options.</span></a><a class="Title" href="//community.agathachristie.com/categories/guess-the-quote">Guess the Quote</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/guess-the-quote/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="9 discussions">9</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="1,772 comments">1.8K</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/44/i-need-help-identifying-a-christie-quotation#latest">I Need Help Identifying a Christie Quotation</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/3913/luismk">luismk</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/44/i-need-help-identifying-a-christie-quotation#latest"><time datetime="2015-01-15T21:19:15+00:00" title="January 15, 2015  9:19PM">January 15</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Alt Category-stories Item-Category-stories Depth1 Depth-1 Unread Rank-Admin" id="Category_4">
+<div class="ItemContent Category">
+<h2 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category Hidden NoPhoto" href="//community.agathachristie.com/categories/stories"><span class="sr-only">Expand for more options.</span></a><a class="Title" href="//community.agathachristie.com/categories/stories">Stories</a></h2>
+<div class="CategoryDescription">
+            Whether the original novel, play short story or a TV or Film adaptation by someone else, this is the place to discuss Christie's stories         </div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/stories/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="123 discussions">123</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="1,813 comments">1.8K</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/506/februarys-book-of-the-month-nemesis#latest">February's Book of the Month: Nemesis</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/95/Tommy_A_Jones">Tommy_A_Jones</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/506/februarys-book-of-the-month-nemesis#latest"><time datetime="2015-02-09T16:43:24+00:00" title="February  9, 2015  4:43PM">4:43PM</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Category-and-then-there-were-none Item-Category-and-then-there-were-none Depth1 Depth-1 Unread Rank-Admin" id="Category_14">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/and-then-there-were-none"><img alt="And Then There Were None" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/2KRDMKI8C0XK.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/and-then-there-were-none">And Then There Were None</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/and-then-there-were-none/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="10 discussions">10</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="151 comments">151</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/203/and-then-there-were-none-opens-january-24#latest">"And Then There Were None" Opens January 24</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/76/tudes">tudes</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/203/and-then-there-were-none-opens-january-24#latest"><time datetime="2015-01-21T13:29:22+00:00" title="January 21, 2015  1:29PM">January 21</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Alt Category-all-poirot-novels Item-Category-all-poirot-novels Depth1 Depth-1 Unread Rank-Admin" id="Category_11">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/all-poirot-novels"><img alt="All Poirot novels" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/IDO5QZ3DJVJ3.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/all-poirot-novels">All Poirot novels</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/all-poirot-novels/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="44 discussions">44</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="719 comments">719</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/39/sophie-hannahs-poirot#latest">Sophie Hannah's Poirot</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/4013/Philip%20Lombard">Philip Lombard</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/39/sophie-hannahs-poirot#latest"><time datetime="2015-01-31T18:52:26+00:00" title="January 31, 2015  6:52PM">January 31</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Category-all-poirot-short-stories Item-Category-all-poirot-short-stories Depth1 Depth-1 Unread Rank-Admin" id="Category_13">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category Hidden NoPhoto" href="//community.agathachristie.com/categories/all-poirot-short-stories"><span class="sr-only">Expand for more options.</span></a><a class="Title" href="//community.agathachristie.com/categories/all-poirot-short-stories">All Poirot short stories</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/all-poirot-short-stories/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="5 discussions">5</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="40 comments">40</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/508/bridge#latest">Bridge</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/95/Tommy_A_Jones">Tommy_A_Jones</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/508/bridge#latest"><time datetime="2015-02-09T12:43:43+00:00" title="February  9, 2015 12:43PM">12:43PM</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Alt Category-all-miss-marple-stories Item-Category-all-miss-marple-stories Depth1 Depth-1 Unread Rank-Admin" id="Category_12">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/all-miss-marple-stories"><img alt="All Miss Marple stories" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/0JYSI666JXNG.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/all-miss-marple-stories">All Miss Marple stories</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/all-miss-marple-stories/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="13 discussions">13</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="151 comments">151</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/236/favorite-miss-marple-stories#latest">Favorite Miss Marple Stories?</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/3913/luismk">luismk</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/236/favorite-miss-marple-stories#latest"><time datetime="2015-01-15T19:47:30+00:00" title="January 15, 2015  7:47PM">January 15</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Category-all-tommy-and-tuppence-stories Item-Category-all-tommy-and-tuppence-stories Depth1 Depth-1 Unread Rank-Admin" id="Category_17">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/all-tommy-and-tuppence-stories"><img alt="All Tommy and Tuppence stories" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/2HBGTW0Z7L6F.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/all-tommy-and-tuppence-stories">All Tommy and Tuppence stories</a></h3>
+<div class="CategoryDescription">
+            From Young Adventurers to silver sleuths         </div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/all-tommy-and-tuppence-stories/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="6 discussions">6</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="145 comments">145</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/70/postern-of-fate#latest">Postern Of Fate</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/95/Tommy_A_Jones">Tommy_A_Jones</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/70/postern-of-fate#latest"><time datetime="2015-01-07T16:04:51+00:00" title="January  7, 2015  4:04PM">January 7</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Alt Category-non-series-novels Item-Category-non-series-novels Depth1 Depth-1 Unread Rank-Admin" id="Category_15">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category Hidden NoPhoto" href="//community.agathachristie.com/categories/non-series-novels"><span class="sr-only">Expand for more options.</span></a><a class="Title" href="//community.agathachristie.com/categories/non-series-novels">Non-series novels</a></h3>
+<div class="CategoryDescription">
+            For all except And Then There Were None         </div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/non-series-novels/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="15 discussions">15</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="188 comments">188</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/147/death-comes-as-the-end#latest">Death Comes As The End</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/76/tudes">tudes</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/147/death-comes-as-the-end#latest"><time datetime="2015-01-02T21:11:23+00:00" title="January  2, 2015  9:11PM">January 2</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Category-non-series-short-stories Item-Category-non-series-short-stories Depth1 Depth-1 Unread Rank-Admin" id="Category_16">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category Hidden NoPhoto" href="//community.agathachristie.com/categories/non-series-short-stories"><span class="sr-only">Expand for more options.</span></a><a class="Title" href="//community.agathachristie.com/categories/non-series-short-stories">Non-series short stories</a></h3>
+<div class="CategoryDescription">
+            Over 100 to discuss including The Witness for the Prosecution and Three Blind Mice         </div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/non-series-short-stories/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="5 discussions">5</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="13 comments">13</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/396/supernatural-the-hound-of-death#latest">Supernatural - The Hound of Death</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/95/Tommy_A_Jones">Tommy_A_Jones</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/396/supernatural-the-hound-of-death#latest"><time datetime="2015-01-30T15:03:48+00:00" title="January 30, 2015  3:03PM">January 30</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Alt Category-mary-westmacotts Item-Category-mary-westmacotts Depth1 Depth-1 Unread Rank-Admin" id="Category_18">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category Hidden NoPhoto" href="//community.agathachristie.com/categories/mary-westmacotts"><span class="sr-only">Expand for more options.</span></a><a class="Title" href="//community.agathachristie.com/categories/mary-westmacotts">Mary Westmacotts</a></h3>
+<div class="CategoryDescription">
+            Stories written by Agatha Christie under the pseudonym Mary Westmacott         </div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/mary-westmacotts/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="1 discussion">1</span> discussion</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="13 comments">13</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/106/which-mary-westmacotts-novel-have-you-read#latest">Which Mary Westmacotts novel have you read?</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/1970/maryamalbulushi">maryamalbulushi</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/106/which-mary-westmacotts-novel-have-you-read#latest"><time datetime="2014-08-03T11:32:11+00:00" title="August  3, 2014 11:32AM">August 2014</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Category-all-plays Item-Category-all-plays Depth1 Depth-1 Unread Rank-Admin" id="Category_19">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category Hidden NoPhoto" href="//community.agathachristie.com/categories/all-plays"><span class="sr-only">Expand for more options.</span></a><a class="Title" href="//community.agathachristie.com/categories/all-plays">All plays</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/all-plays/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="9 discussions">9</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="62 comments">62</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/499/witness-for-the-prosecution-stockport-garrick-31-jan-7-feb-2015#latest">"Witness for the Prosecution" - Stockport Garrick 31 Jan - 7 Feb 2015</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/3893/Stockport%20Garrick">Stockport Garrick</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/499/witness-for-the-prosecution-stockport-garrick-31-jan-7-feb-2015#latest"><time datetime="2015-02-01T22:18:04+00:00" title="February  1, 2015 10:18PM">February 1</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Alt Category-detectives Item-Category-detectives Depth1 Depth-1 Unread Rank-Admin" id="Category_3">
+<div class="ItemContent Category">
+<h2 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category Hidden NoPhoto" href="//community.agathachristie.com/categories/detectives"><span class="sr-only">Expand for more options.</span></a><a class="Title" href="//community.agathachristie.com/categories/detectives">Detectives</a></h2>
+<div class="CategoryDescription">
+            Who is Christie's greatest detective? The best actor to play Poirot? Discuss here.         </div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/detectives/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="57 discussions">57</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="636 comments">636</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/178/hercule-poirot-or-miss-marple#latest">Hercule Poirot or Miss Marple ?</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/95/Tommy_A_Jones">Tommy_A_Jones</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/178/hercule-poirot-or-miss-marple#latest"><time datetime="2015-02-07T15:04:05+00:00" title="February  7, 2015  3:04PM">February 7</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Category-hercule-poirot Item-Category-hercule-poirot Depth1 Depth-1 Unread Rank-Admin" id="Category_20">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/hercule-poirot"><img alt="Hercule Poirot" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/DZ51TV14G305.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/hercule-poirot">Hercule Poirot</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/hercule-poirot/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="36 discussions">36</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="368 comments">368</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/502/hercule-poirot-and-miss-marple-should-meet#latest">Hercule Poirot and Miss Marple should meet.</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/95/Tommy_A_Jones">Tommy_A_Jones</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/502/hercule-poirot-and-miss-marple-should-meet#latest"><time datetime="2015-02-09T12:45:20+00:00" title="February  9, 2015 12:45PM">12:45PM</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Alt Category-miss-marple Item-Category-miss-marple Depth1 Depth-1 Unread Rank-Admin" id="Category_21">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/miss-marple"><img alt="Miss Marple" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/E2QLUUHL1EZE.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/miss-marple">Miss Marple</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/miss-marple/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="9 discussions">9</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="125 comments">125</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/41/hickson-vs-all-the-other-jane-marples#latest">Hickson Vs all the other Jane Marples</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/95/Tommy_A_Jones">Tommy_A_Jones</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/41/hickson-vs-all-the-other-jane-marples#latest"><time datetime="2015-02-05T16:51:51+00:00" title="February  5, 2015  4:51PM">February 5</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Category-tommy-and-tuppence Item-Category-tommy-and-tuppence Depth1 Depth-1 Unread Rank-Admin" id="Category_22">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/tommy-and-tuppence"><img alt="Tommy and Tuppence" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/XHB98V9DZI2M.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/tommy-and-tuppence">Tommy and Tuppence</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/tommy-and-tuppence/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="1 discussion">1</span> discussion</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="2 comments">2</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/53/hannibal-the-dog-of-the-beresfords#latest">Hannibal the dog of The Beresfords</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/1870/Frank">Frank</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/53/hannibal-the-dog-of-the-beresfords#latest"><time datetime="2014-05-20T00:21:04+00:00" title="May 20, 2014 12:21AM">May 2014</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Alt Category-ariadne-oliver Item-Category-ariadne-oliver Depth1 Depth-1 Unread Rank-Admin" id="Category_23">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/ariadne-oliver"><img alt="Ariadne Oliver" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/UPDW8WMQ0YMM.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/ariadne-oliver">Ariadne Oliver</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/ariadne-oliver/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="4 discussions">4</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="37 comments">37</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/97/is-ariadne-oliver-similar-to-agatha-christie#latest">Is Ariadne Oliver similar to Agatha Christie?</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/2719/Paula%20%20">Paula  </a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/97/is-ariadne-oliver-similar-to-agatha-christie#latest"><time datetime="2014-07-29T06:27:27+00:00" title="July 29, 2014  6:27AM">July 2014</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Category-parker-pyne Item-Category-parker-pyne Depth1 Depth-1 Unread Rank-Admin" id="Category_24">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/parker-pyne"><img alt="Parker Pyne" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/8TAEV6GBNKTQ.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/parker-pyne">Parker Pyne</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/parker-pyne/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="3 discussions">3</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="10 comments">10</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/495/a-change-for-good#latest">A change for good ?</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/95/Tommy_A_Jones">Tommy_A_Jones</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/495/a-change-for-good#latest"><time datetime="2015-01-09T15:18:53+00:00" title="January  9, 2015  3:18PM">January 9</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Alt Category-harley-quin Item-Category-harley-quin Depth1 Depth-1 Unread Rank-Admin" id="Category_25">
+<div class="ItemContent Category">
+<h3 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/harley-quin"><img alt="Harley Quin" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/0PFQTFKVQXW1.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/harley-quin">Harley Quin</a></h3>
+<div class="CategoryDescription">
+</div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/harley-quin/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="3 discussions">3</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="53 comments">53</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/448/how-do-you-see-the-mysterious-mr-quins-ending-story#latest">How do you see The Mysterious Mr Quin's ending story?</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/95/Tommy_A_Jones">Tommy_A_Jones</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/448/how-do-you-see-the-mysterious-mr-quins-ending-story#latest"><time datetime="2014-11-05T15:19:30+00:00" title="November  5, 2014  3:19PM">November 2014</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Category-ask-an-expert Item-Category-ask-an-expert Depth1 Depth-1 Unread Rank-Admin" id="Category_9">
+<div class="ItemContent Category">
+<h2 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category Hidden NoPhoto" href="//community.agathachristie.com/categories/ask-an-expert"><span class="sr-only">Expand for more options.</span></a><a class="Title" href="//community.agathachristie.com/categories/ask-an-expert">Ask an expert</a></h2>
+<div class="CategoryDescription">
+            Do you have a specific question? Ask here and if someone knows the answer they are sure to reply.          </div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/ask-an-expert/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="50 discussions">50</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="242 comments">242</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/500/the-ending-of-the-cards-on-table#latest">the ending of the cards on table</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/53/GKCfan">GKCfan</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/500/the-ending-of-the-cards-on-table#latest"><time datetime="2015-01-21T05:21:18+00:00" title="January 21, 2015  5:21AM">January 21</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Alt Category-not-about-agatha-christie- Item-Category-not-about-agatha-christie- Depth1 Depth-1 Unread Rank-Admin" id="Category_29">
+<div class="ItemContent Category">
+<h2 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category Hidden NoPhoto" href="//community.agathachristie.com/categories/not-about-agatha-christie-"><span class="sr-only">Expand for more options.</span></a><a class="Title" href="//community.agathachristie.com/categories/not-about-agatha-christie-">Not about Agatha Christie </a></h2>
+<div class="CategoryDescription">
+            As requested, a place for Christie fans to discuss non-Christie topics.         </div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/not-about-agatha-christie-/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="26 discussions">26</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="206 comments">206</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/511/help-with-authors-please#latest">Help with Authors please</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/1970/maryamalbulushi">maryamalbulushi</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/511/help-with-authors-please#latest"><time datetime="2015-02-09T18:13:19+00:00" title="February  9, 2015  6:13PM">6:13PM</time></a></span></span></span>
+</div>
+</div>
+</li>
+<li class="Item Category-mystery-man-game-2013 Item-Category-mystery-man-game-2013 Depth1 Depth-1 Unread Rank-Admin" id="Category_28">
+<div class="ItemContent Category">
+<h2 class="CategoryName TitleWrap"><a class="Item-Icon PhotoWrap PhotoWrap-Category" href="//community.agathachristie.com/categories/mystery-man-game-2013"><img alt="Mystery Man Game 2013" class="CategoryPhoto" src="http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/agathachristie.vanillaforums.com/59G66SXA6DG7.jpg"/></a><a class="Title" href="//community.agathachristie.com/categories/mystery-man-game-2013">Mystery Man Game 2013</a></h2>
+<div class="CategoryDescription">
+            This is the place to discuss this year's Mystery Man game, either join an existing discussion or add your own discussion topic.          </div>
+<div class="Meta">
+<span class="MItem RSS"><a class="SpRSS" href="/categories/mystery-man-game-2013/feed.rss"> </a></span>
+<span class="MItem MItem-Count DiscussionCount"><span class="Number" title="17 discussions">17</span> discussions</span>
+<span class="MItem MItem-Count CommentCount"><span class="Number" title="707 comments">707</span> comments</span>
+<span class="MItem LastestPost LastDiscussionTitle"><span class="MostRecent"><span class="MLabel">Most recent:</span> <a class="LatestPostTitle" href="//community.agathachristie.com/discussion/108/the-winner-of-the-mystery-man-game-2013-is#latest">THE WINNER OF THE MYSTERY MAN GAME 2013 IS.....</a> <span class="MostRecentBy">by <a class="UserLink" href="/profile/3176/myrto2">myrto2</a></span> <span class="MostRecentOn">on <a class="CommentDate" href="//community.agathachristie.com/discussion/108/the-winner-of-the-mystery-man-game-2013-is#latest"><time datetime="2014-09-21T17:00:06+00:00" title="September 21, 2014  5:00PM">September 2014</time></a></span></span></span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div id="Foot">
+<div class="Row">
+<a class="PoweredByVanilla" href="http://vanillaforums.com" title="Community Software by Vanilla Forums">Powered by Vanilla</a>
+</div>
+</div>
+</div>
+
+</body>
+</html>

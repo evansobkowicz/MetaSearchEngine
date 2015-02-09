@@ -1,0 +1,12 @@
+Title: Avatar  Reviews & Ratings - IMDb
+Date: Mon, 09 Feb 2015 20:45:41 GMT
+Server: HTTPDaemon
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: uu=BCYiI83Q0ZodEiUzQD1H3nJX1q9ZPWs8_em3Q9fxeng_vW9AzgwFNd6vDHXT9iBP2MaHJISENl1jCoGADftaOcmdg4Ur6dJdSZuPvc0FFI741m09wDadInJz3zsH-TWURJwlRRimgFtW7tZESZxkn1Q3r4ziIQkMD5_wlVJGrybU4CE;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=ZbIyjrK8ckuy6F4/JMyE4QeBbbqgkVqM8BkNuqPSfTKzwn7504IumZCRXRoA0U26oKcq7COxbbqjknju59HN2eCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Tue, 10 Feb 2015 08:00:00 GMT;path=/;domain=.imdb.com
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

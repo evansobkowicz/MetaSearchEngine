@@ -1,0 +1,15 @@
+Title: 
+Date: Mon, 09 Feb 2015 20:44:18 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Set-Cookie: PHPSESSID=v6sc0mqda70ufn76q6e7ug8li3; path=/; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: language=en; expires=Wed, 11-Mar-2015 20:44:18 GMT; path=/; domain=designsbylolita.com
+Set-Cookie: currency=USD; expires=Wed, 11-Mar-2015 20:44:18 GMT; path=/; domain=designsbylolita.com
+Vary: Accept-Encoding,User-Agent
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

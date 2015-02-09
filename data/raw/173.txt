@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+<!-- Basic Page Needs
+
+  ================================================== -->
+<meta charset="utf-8"/>
+<!--[if lt IE 9]>
+
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+
+	<![endif]-->
+<!-- CSS
+
+  ================================================== -->
+<link href="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/style.css" rel="stylesheet" type="text/css"/>
+<meta content="width=device-width, user-scalable=no" name="viewport">
+<link href="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/stylesheet/foundation-responsive.css" rel="stylesheet">
+<!--[if IE 7]>
+
+		<link rel="stylesheet" href="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/stylesheet/ie7-style.css" /> 
+
+		<link rel="stylesheet" href="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/stylesheet/font-awesome/font-awesome-ie7.min.css" /> 
+
+	<![endif]-->
+<link href="http://sullivanmovies.com/wp-content/uploads/2013/08/s-logo.png" rel="shortcut icon" type="image/x-icon"/><meta content="http://sullivanmovies.com/wp-content/uploads/2012/11/anneaudio21-150x150.jpg" property="og:image"/>
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.15 - http://yoast.com/wordpress/seo/ -->
+<title>Anne of Green Gables Audio Book - Sullivan Entertainment</title>
+<meta content="Anne of Green Gables Audio Book" name="description"/>
+<link href="http://sullivanmovies.com/portfolio/anne-of-green-gables-audio-book/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="Anne of Green Gables Audio Book - Sullivan Entertainment" property="og:title"/>
+<meta content="Anne of Green Gables Audio Book" property="og:description"/>
+<meta content="http://sullivanmovies.com/portfolio/anne-of-green-gables-audio-book/" property="og:url"/>
+<meta content="Sullivan Entertainment" property="og:site_name"/>
+<meta content="http://sullivanmovies.com/wp-content/uploads/2012/11/anneaudio21.jpg" property="og:image"/>
+<meta content="http://sullivanmovies.com/wp-content/uploads/2013/08/Anne-of-Green-Gables-Audio-Book.jpg" property="og:image"/>
+<!-- / Yoast WordPress SEO plugin. -->
+<link href="http://sullivanmovies.com/feed/" rel="alternate" title="Sullivan Entertainment » Feed" type="application/rss+xml"/>
+<link href="http://sullivanmovies.com/comments/feed/" rel="alternate" title="Sullivan Entertainment » Comments Feed" type="application/rss+xml"/>
+<link href="http://sullivanmovies.com/portfolio/anne-of-green-gables-audio-book/feed/" rel="alternate" title="Sullivan Entertainment » Anne of Green Gables Audio Book Comments Feed" type="application/rss+xml"/>
+<link href="http://sullivanmovies.com/wp-content/plugins/network-shared-posts/net_shared_posts.css?ver=4.0" id="netspostscss-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/style-custom.css?ver=4.0" id="style-custom-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Droid+Serif%3An%2Ci%2Cb%2Cbi&amp;subset=latin&amp;ver=4.0" id="Google-Font-Droid+Serif-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans%3An%2Ci%2Cb%2Cbi&amp;subset=latin&amp;ver=4.0" id="Google-Font-Open+Sans-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://sullivanmovies.com/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css?ver=4.0" id="jetpack-subscriptions-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://sullivanmovies.com/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.40.7" id="mappress-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://sullivanmovies.com/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.26" id="wpProQuiz_front_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://sullivanmovies.com/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003" id="jetpack-widgets-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/stylesheet/superfish.css?ver=4.0" id="superfish-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/stylesheet/fancybox.css?ver=4.0" id="fancybox-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/stylesheet/jquery.fancybox-thumbs.css?ver=4.0" id="fancybox-thumbs-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/stylesheet/font-awesome/font-awesome.css?ver=4.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/stylesheet/flexslider.css?ver=4.0" id="flex-slider-css" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+<link href="http://sullivanmovies.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://sullivanmovies.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="http://sullivanmovies.com/wp-content/plugins/category-rss-widget-menu/wp_cat_rss_style.css" rel="stylesheet" type="text/css"/>
+
+<style media="screen" type="text/css">
+          div.printfriendly {
+            margin: 12px 12px 12px 12px;;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            text-decoration: none;
+            font-size: 14px;
+            color: #6D9F00;
+            vertical-align: bottom;
+            border: none;
+          }
+
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            display:inline-block;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+<style media="print" type="text/css">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<style type="text/css">img#wpstats{display:none}</style>
+
+<!--[if lt IE 9]>
+<style type="text/css">
+	html,body, div.header-outer-wrapper{ min-width: 1240px; }
+
+	div.shortcode-dropcap.circle,
+	div.anythingSlider .anythingControls ul a, .flex-control-nav li a, 
+	.nivo-controlNav a, ls-bottom-slidebuttons a{
+		z-index: 1000;
+		position: relative;
+		behavior: url(http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/stylesheet/ie-fix/PIE.php);
+	}
+	div.top-search-wrapper .search-text{ width: 185px; }
+	div.top-search-wrapper .search-text input{ float: right; }
+	div.logo-right-text-content { width: 400px !important; }
+	
+	span.portfolio-thumbnail-image-hover,
+	span.hover-link, span.hover-video, span.hover-zoom{ display: none !important; }
+	
+	.portfolio-media-wrapper:hover span{ display: block !important; }
+	.blog-media-wrapper:hover span{ display: block !important; }
+	
+	ul.gdl-accordion li, ul.gdl-toggle-box li{ overflow: hidden; }
+	
+	div.content-outer-wrapper.full-container.boxed-style-enabled{ margin-top: -130px; }div.gdl-top-slider.full-container.boxed-style-enabled .ls-kingpower .ls-bottom-nav-wrapper,div.gdl-top-slider.full-container.boxed-style-enabled .flex-control-nav-wrapper, div.gdl-top-slider.full-container.boxed-style-enabled .flex-caption,div.gdl-top-slider.full-container.boxed-style-enabled .nivo-controlNav-wrapper, div.gdl-top-slider.full-container.boxed-style-enabled .nivo-caption,div.gdl-top-slider.full-container.boxed-style-enabled .nivo-directionNav a.nivo-prevNav, div.gdl-top-slider.full-container.boxed-style-enabled .flex-direction-nav li .flex-prev, div.gdl-top-slider.full-container.boxed-style-enabled .ls-kingpower .ls-nav-prev,div.gdl-top-slider.full-container.boxed-style-enabled .nivo-directionNav a.nivo-nextNav, div.gdl-top-slider.full-container.boxed-style-enabled .flex-direction-nav li .flex-next, div.gdl-top-slider.full-container.boxed-style-enabled .ls-kingpower .ls-nav-next{ margin-bottom: 130px; }	
+	div.gdl-top-slider.boxed-style-enabled .ls-kingpower .ls-bottom-nav-wrapper,
+	div.gdl-top-slider.boxed-style-enabled .flex-control-nav-wrapper,
+	div.gdl-top-slider.boxed-style-enabled .flex-caption,
+	div.gdl-top-slider.boxed-style-enabled .nivo-controlNav-wrapper,
+	div.gdl-top-slider.boxed-style-enabled .nivo-caption { left: 50%; margin-left: -620px; }  
+	div.gdl-top-slider.boxed-style-enabled .ls-kingpower .ls-nav-prev,
+	div.gdl-top-slider.boxed-style-enabled .nivo-directionNav a.nivo-prevNav, 
+	div.gdl-top-slider.boxed-style-enabled .flex-direction-nav li .flex-prev{ right: 50%; margin-right: -569px; }
+	div.gdl-top-slider.boxed-style-enabled .ls-kingpower .ls-nav-next,
+	div.gdl-top-slider.boxed-style-enabled .nivo-directionNav a.nivo-nextNav, 
+	div.gdl-top-slider.boxed-style-enabled .flex-direction-nav li .flex-next{ right: 50%; margin-right: -620px; } 
+	
+	div.header-outer-wrapper.full-container.boxed-style-enabled { position: absolute; left: 0px; right: 0px; z-index: 99; }
+	div.content-outer-wrapper.full-container.boxed-style-enabled { position: relative; z-index: 50; }	
+
+	div.gdl-top-slider.boxed-style-enabled .ls-kingpower .ls-bottom-nav-wrapper,
+	div.gdl-top-slider.boxed-style-enabled .flex-control-nav-wrapper,
+	div.gdl-top-slider.boxed-style-enabled .flex-caption,
+	div.gdl-top-slider.boxed-style-enabled .nivo-controlNav-wrapper,
+	div.gdl-top-slider.boxed-style-enabled .nivo-caption { left: 50%; margin-left: -620px; }  
+	div.gdl-top-slider.boxed-style-enabled .ls-kingpower .ls-nav-prev,
+	div.gdl-top-slider.boxed-style-enabled .nivo-directionNav a.nivo-prevNav, 
+	div.gdl-top-slider.boxed-style-enabled .flex-direction-nav li .flex-prev{ right: 50%; margin-right: -569px; }
+	div.gdl-top-slider.boxed-style-enabled .ls-kingpower .ls-nav-next,
+	div.gdl-top-slider.boxed-style-enabled .nivo-directionNav a.nivo-nextNav, 
+	div.gdl-top-slider.boxed-style-enabled .flex-direction-nav li .flex-next{ right: 50%; margin-right: -620px; } 
+	
+	div.header-outer-wrapper.full-container.boxed-style-enabled { position: absolute; left: 0px; right: 0px; z-index: 99; }
+	div.content-outer-wrapper.full-container.boxed-style-enabled { position: relative; z-index: 50; }		
+	
+	div.logo-wrapper img{ float: left; }
+	.logo-wrapper{ overflow: hidden; width: 238px !important; }	
+</style>
+<![endif]-->
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+</meta></link></meta></head>
+<body class="single single-portfolio postid-4207">
+<div class="body-outer-wrapper">
+<div class="body-wrapper">
+<div class="header-outer-wrapper ">
+<!-- top navigation -->
+<div class="top-navigation-wrapper boxed-style">
+<div class="top-navigation-container container">
+<div class="top-navigation-left"><div class="top-search"><div class="gdl-search-form">
+<form action="http://sullivanmovies.com/" id="searchform" method="get">
+<div class="search-text" id="search-text">
+<input autocomplete="off" data-default="Type keywords..." id="s" name="s" type="text" value="Type keywords..."/>
+</div>
+<input id="searchsubmit" type="submit" value=""/>
+<div class="clear"></div>
+</form>
+</div></div><div class="social-wrapper gdl-retina" id="gdl-social-icon"><div class="social-icon-wrapper"><div class="social-icon"><a href="http://www.facebook.com/sullivanent" target="_blank"><img alt="facebook" height="16" src="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/images/icon/light/social-icon/facebook.png" width="16"/></a></div><div class="social-icon"><a href="http://www.linkedin.com/company/1577123" target="_blank"><img alt="linkedin" height="16" src="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/images/icon/light/social-icon/linkedin.png" width="16"/></a></div><div class="social-icon"><a href="http://www.stumbleupon.com/stumbler/Sullivan-ent" target="_blank"><img alt="stumble-upon" height="16" src="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/images/icon/light/social-icon/stumble-upon.png" width="16"/></a></div><div class="social-icon"><a href="http://www.twitter.com/sullivanent" target="_blank"><img alt="twitter" height="16" src="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/images/icon/light/social-icon/twitter.png" width="16"/></a></div><div class="social-icon"><a href="https://vimeo.com/user22285610" target="_blank"><img alt="vimeo" height="16" src="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/images/icon/light/social-icon/vimeo.png" width="16"/></a></div><div class="social-icon"><a href="http://www.youtube.com/sullivanmovies" target="_blank"><img alt="youtube" height="16" src="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/images/icon/light/social-icon/youtube.png" width="16"/></a></div><div class="social-icon"><a href="https://plus.google.com/+sullivanentertainment/posts" target="_blank"><img alt="google_plus" height="16" src="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/images/icon/light/social-icon/google-plus.png" width="16"/></a></div><div class="social-icon"><a href="http://pinterest.com/sullivanmovies/" target="_blank"><img alt="pinterest" height="16" src="http://sullivanmovies.com/wp-content/themes/kingpower-v1-02/images/icon/light/social-icon/pinterest.png" width="16"/></a></div></div></div></div><div class="top-navigation-right"><div class="top-navigation-right-text"><a href="/trademark-copyright/">Trademark &amp; Copyright</a>
+<a href="/media/gallery">Media Gallery</a>
+<a href="/forums/" target="blank">Fan Forum</a>
+<a href="/company/contact/">Contact</a>
+<a href="/home/">Home</a>
+</div></div>
+<div class="clear"></div>
+</div>
+</div> <!-- top navigation wrapper -->
+<div class="header-wrapper container main">
+<!-- Get Logo -->
+<div class="logo-wrapper">
+<a href="http://sullivanmovies.com"><img alt="" src="http://sullivanmovies.com/wp-content/uploads/2014/04/sullivan-logo-2013-we.png"/></a>
+</div>
+<!-- Navigation -->
+<div class="gdl-navigation-wrapper">
+<div class="responsive-menu-wrapper"><select class="menu dropdown-menu" id="menu-main"><option class="blank" value="">– Main Menu –</option><option class="icon-briefcase menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7653 menu-item-depth-0" value="http://sullivanmovies.com/company/">About Us</option> <option class="icon-briefcase menu-item menu-item-type-post_type menu-item-object-page menu-item-7639 menu-item-depth-1" value="http://sullivanmovies.com/company/company-overview/">- Company Overview</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10145 menu-item-depth-1" value="http://sullivanmovies.com/company/development/">- Development</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7641 menu-item-depth-1" value="http://sullivanmovies.com/company/our-values/">- Our Values</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7649 menu-item-depth-1" value="http://sullivanmovies.com/company/management-team/">- Management Team</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9540 menu-item-depth-1" value="http://sullivanmovies.com/company/awards/">- Awards</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7642 menu-item-depth-1" value="http://sullivanmovies.com/company/studio-services/">- Studio Services</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7654 menu-item-depth-1" value="http://sullivanmovies.com/partnerships/">- Partnerships</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10147 menu-item-depth-1" value="http://sullivanmovies.com/company/videos/">- Videos</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7650 menu-item-depth-1" value="http://sullivanmovies.com/company/contact/">- Contact</option>
+<option class="icon-book menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8524 menu-item-depth-0" value="http://sullivanmovies.com/library/">Production</option> <option class="icon-film menu-item menu-item-type-post_type menu-item-object-page menu-item-6472 menu-item-depth-1" value="http://sullivanmovies.com/library/films/">- Films</option>
+<option class="icon-desktop menu-item menu-item-type-post_type menu-item-object-page menu-item-6452 menu-item-depth-1" value="http://sullivanmovies.com/library/television/">- TV Series</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8050 menu-item-depth-1" value="http://sullivanmovies.com/library/documentaries/">- Documentaries</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10159 menu-item-depth-1" value="http://sullivanmovies.com/library/kids/">- Kids</option>
+<option class="icon-music menu-item menu-item-type-post_type menu-item-object-page menu-item-6478 menu-item-depth-1" value="http://sullivanmovies.com/library/music/">- Music</option>
+<option class="icon-book menu-item menu-item-type-post_type menu-item-object-page menu-item-6445 menu-item-depth-1" value="http://sullivanmovies.com/library/books/">- Books</option>
+<option class="icon-film menu-item menu-item-type-post_type menu-item-object-page menu-item-9836 menu-item-depth-0" value="http://sullivanmovies.com/company/studio-services/">Studio</option>
+<option class="icon-pencil menu-item menu-item-type-post_type menu-item-object-page menu-item-6590 menu-item-depth-0" value="http://sullivanmovies.com/articles/">Blog</option>
+<option class="icon-shopping-cart menu-item menu-item-type-custom menu-item-object-custom menu-item-16 menu-item-depth-0" value="http://shopatsullivan.com">Store</option>
+<option class="icon-picture menu-item menu-item-type-custom menu-item-object-custom menu-item-8477 menu-item-depth-0" value="http://www.navillusgallery.com/">Navillus Gallery</option>
+</select></div><div class="clear"></div><div class="navigation-wrapper"><div class="gdl-current-menu"></div><div class="menu-wrapper" id="main-superfish-wrapper"><ul class="sf-menu" id="menu-main-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="menu-item-7653"><a href="http://sullivanmovies.com/company/"><i class="gdl-menu-icon icon-briefcase"></i><span class="gdl-des-prepend"><span class="gdl-label">About Us</span></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-7639"><a href="http://sullivanmovies.com/company/company-overview/"><span class="gdl-sub-label">Company Overview</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-10145"><a href="http://sullivanmovies.com/company/development/"><span class="gdl-sub-label">Development</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-7641"><a href="http://sullivanmovies.com/company/our-values/"><span class="gdl-sub-label">Our Values</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-7649"><a href="http://sullivanmovies.com/company/management-team/"><span class="gdl-sub-label">Management Team</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-9540"><a href="http://sullivanmovies.com/company/awards/"><span class="gdl-sub-label">Awards</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-7642"><a href="http://sullivanmovies.com/company/studio-services/"><span class="gdl-sub-label">Studio Services</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-7654"><a href="http://sullivanmovies.com/partnerships/"><span class="gdl-sub-label">Partnerships</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-10147"><a href="http://sullivanmovies.com/company/videos/"><span class="gdl-sub-label">Videos</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-7650"><a href="http://sullivanmovies.com/company/contact/"><span class="gdl-sub-label">Contact</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="menu-item-8524"><a href="http://sullivanmovies.com/library/"><i class="gdl-menu-icon icon-book"></i><span class="gdl-des-prepend"><span class="gdl-label">Production</span></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-6472"><a href="http://sullivanmovies.com/library/films/"><span class="gdl-sub-label">Films</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-6452"><a href="http://sullivanmovies.com/library/television/"><span class="gdl-sub-label">TV Series</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-8050"><a href="http://sullivanmovies.com/library/documentaries/"><span class="gdl-sub-label">Documentaries</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-10159"><a href="http://sullivanmovies.com/library/kids/"><span class="gdl-sub-label">Kids</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-6478"><a href="http://sullivanmovies.com/library/music/"><span class="gdl-sub-label">Music</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-6445"><a href="http://sullivanmovies.com/library/books/"><span class="gdl-sub-label">Books</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-9836"><a href="http://sullivanmovies.com/company/studio-services/"><i class="gdl-menu-icon icon-film"></i><span class="gdl-des-prepend"><span class="gdl-label">Studio</span></span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-6590"><a href="http://sullivanmovies.com/articles/"><i class="gdl-menu-icon icon-pencil"></i><span class="gdl-des-prepend"><span class="gdl-label">Blog</span></span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-16"><a href="http://shopatsullivan.com" target="_blank"><i class="gdl-menu-icon icon-shopping-cart"></i><span class="gdl-des-prepend"><span class="gdl-label">Store</span></span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-8477"><a href="http://www.navillusgallery.com/" target="_blank"><i class="gdl-menu-icon icon-picture"></i><span class="gdl-des-prepend"><span class="gdl-label">Navillus Gallery</span></span></a></li>
+</ul></div><div class="clear"></div></div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div> <!-- header wrapper container -->
+</div> <!-- header outer wrapper -->
+<div class="page-header-wrapper boxed-style gdl-border-x bottom"><div class="page-header-container container"><div class="page-header-inner-wrapper"><div class="page-header-left-bar"></div><div class="page-header-left-bar"></div><h1 class="page-header-title">Anne of Green Gables Audio Book</h1></div><span class="page-header-caption"></span></div><div class="page-title-top-shadow"></div><div class="page-title-bottom-shadow"></div><div class="gdl-search-form">
+<form action="http://sullivanmovies.com/" id="searchform" method="get">
+<div class="search-text" id="search-text">
+<input autocomplete="off" data-default="Type keywords..." id="s" name="s" type="text" value="Type keywords..."/>
+</div>
+<input id="searchsubmit" type="submit" value=""/>
+<div class="clear"></div>
+</form>
+</div></div>
+<div class="content-outer-wrapper ">
+<div class="header-bottom-bar-wrapper boxed-style">
+<div class="header-bottom-bar boxed-style"></div>
+</div>
+<div class="content-wrapper container main "> <div class="post-4207 portfolio type-portfolio status-publish has-post-thumbnail hentry" id="post-4207">
+<div class="page-wrapper single-portfolio ">
+<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb20 gdl-blog-full twelve columns"><div class="gdl-single-portfolio mb0"><div class="port-content-wrapper"><div class="port-info-wrapper"><div class="port-nav"><div class="port-next-nav"><a href="http://sullivanmovies.com/portfolio/rilla-of-ingleside/" rel="prev"></a></div><div class="clear"></div></div><div class="port-tags port-info"><span class="head">Tags: </span><a href="http://sullivanmovies.com/articles/portfolio-tag/anne-of-green-gables-2/" rel="tag">anne of green gables</a></div></div><div class="port-content"><div class="shortcode3-4 sullivan-portfolio ">
+<h2><a data-rel="fancybox" href="http://sullivanmovies.com/wp-content/uploads/2013/08/Anne-of-Green-Gables-Audio-Book.jpg"><img alt="Anne of Green Gables Audio Book" class="size-full wp-image-8513 alignleft" height="372" src="http://sullivanmovies.com/wp-content/uploads/2013/08/Anne-of-Green-Gables-Audio-Book.jpg" width="350"/></a>Synopsis</h2>
+<p>Now is your chance to revisit Lucy Maud Montgomery’s classic story in a totally new way! Perfect for long car rides or trips, this audio book is read by the acclaimed Writer/Director of all the Anne of Green Gables films, Kevin Sullivan. The Anne of Green Gables Audio Book is great listening for the whole family and is a perfect addition to every Anne of Green Gables collection.</p>
+<p><strong>Plot Summary:</strong> The moment an eleven-year-old, plucky orphan named Anne Shirley arrives at Green Gables, the lives of brother and sister, Matthew and Marilla Cuthbert, are changed forever. Anne is a skinny, self-possessed spirit with fiery, red hair, whose boundless imagination transports her from one adventure to the next. Perpetually in search of like-minded spirits, Anne’s journey to belong is met with many obstacles along the way. However, she is determined to say and do anything to convince her mild-mannered hosts to let her stay at Green Gables. Montgomery’s classic is set against the spectacular beauty of Prince Edward Island, Canada; a place that captures both Anne’s heart and the emotions of legions of readers around the world. The timeless stories and characters come to life, just as they do on page, in this audio-book feature.</p>
+</div>
+<div class="shortcode1-4 sullivan-portfolio last">
+<div class="sidebar-buttons"><a class="gdl-button large" href="http://shopatsullivan.com/audio-book-1.html" style="color:#ffffff; background-color:#18a348; " target="_blank">Purchase</a><a class="gdl-button large" href="http://www.anne.sullivanmovies.com/" style="color:#COLOR_CODE; background-color:#COLOR_CODE; " target="_blank">Website</a></div>
+</div>
+<div class="clear"></div>
+<div class="printfriendly pf-alignleft"><a href="http://www.printfriendly.com/print?url=http://sullivanmovies.com/portfolio/anne-of-green-gables-audio-book/" onclick="window.print(); return false;" rel="nofollow"><img alt="Print Friendly" data-rel="fancybox" src="http://cdn.printfriendly.com/pf-button.gif" style="border:none;-webkit-box-shadow:none; box-shadow:none;"/></a></div></div></div><div class="clear"></div><div class="gdl-related-portfolio"><div class="gdl-header-wrapper "><div class="gdl-header-left-bar"></div><div class="gdl-header-left-bar"></div><h3 class="gdl-header-title">Related Portfolio</h3><div class="gdl-header-divider"></div><div class="clear"></div></div><div class="portfolio-item-holder row"><div class="three columns portfolio-item mb40"><div class="portfolio-media-wrapper gdl-image"><a class="hover-wrapper" href="http://sullivanmovies.com/portfolio/anne-of-green-gables-movie/" title="Anne of Green Gables"><span class="portfolio-thumbnail-image-hover"></span><span class="hover-link hover-icon"></span></a><img alt="Anne of Green Gables" src="http://sullivanmovies.com/wp-content/uploads/2013/09/AOGG1-007-400x400.jpg"/></div><div class="portfolio-context"><h2 class="portfolio-title"><a href="http://sullivanmovies.com/portfolio/anne-of-green-gables-movie/">Anne of Green Gables</a></h2><div class="portfolio-tag"><a href="http://sullivanmovies.com/articles/portfolio-tag/anne-of-green-gables-2/" rel="tag">anne of green gables</a></div></div><div class="clear"></div></div><div class="three columns portfolio-item mb40"><div class="portfolio-media-wrapper gdl-image"><a class="hover-wrapper" href="http://sullivanmovies.com/portfolio/anne-of-green-gables-the-sequel/" title="Anne of Green Gables: The Sequel"><span class="portfolio-thumbnail-image-hover"></span><span class="hover-link hover-icon"></span></a><img alt="Anne of Green Gables: The Sequel" src="http://sullivanmovies.com/wp-content/uploads/2013/09/Anne-picnic-400x400.jpg"/></div><div class="portfolio-context"><h2 class="portfolio-title"><a href="http://sullivanmovies.com/portfolio/anne-of-green-gables-the-sequel/">Anne of Green Gables: The Sequel</a></h2><div class="portfolio-tag"><a href="http://sullivanmovies.com/articles/portfolio-tag/anne-of-green-gables-2/" rel="tag">anne of green gables</a></div></div><div class="clear"></div></div><div class="three columns portfolio-item mb40"><div class="portfolio-media-wrapper gdl-image"><a class="hover-wrapper" href="http://sullivanmovies.com/portfolio/anne-of-green-gables-the-continuing-story/" title="Anne of Green Gables: The Continuing Story"><span class="portfolio-thumbnail-image-hover"></span><span class="hover-link hover-icon"></span></a><img alt="Anne of Green Gables: The Continuing Story" src="http://sullivanmovies.com/wp-content/uploads/2013/07/AOGG3-009-400x400.jpg"/></div><div class="portfolio-context"><h2 class="portfolio-title"><a href="http://sullivanmovies.com/portfolio/anne-of-green-gables-the-continuing-story/">Anne of Green Gables: The Continuing Story</a></h2><div class="portfolio-tag"><a href="http://sullivanmovies.com/articles/portfolio-tag/anne-of-green-gables-2/" rel="tag">anne of green gables</a></div></div><div class="clear"></div></div><div class="three columns portfolio-item mb40"><div class="portfolio-media-wrapper gdl-image"><a class="hover-wrapper" href="http://sullivanmovies.com/portfolio/anne-of-green-gables-a-new-beginning/" title="Anne of Green Gables: A New Beginning"><span class="portfolio-thumbnail-image-hover"></span><span class="hover-link hover-icon"></span></a><img alt="Anne of Green Gables: A New Beginning" src="http://sullivanmovies.com/wp-content/uploads/2013/10/AOGG4-009-400x400.jpg"/></div><div class="portfolio-context"><h2 class="portfolio-title"><a href="http://sullivanmovies.com/portfolio/anne-of-green-gables-a-new-beginning/">Anne of Green Gables: A New Beginning</a></h2><div class="portfolio-tag"><a href="http://sullivanmovies.com/articles/portfolio-tag/anne-of-green-gables-2/" rel="tag">anne of green gables</a></div></div><div class="clear"></div></div> 
+</div><div class="clear"></div></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div> <div class="clear"></div>
+</div> <!-- page wrapper -->
+</div> <!-- post class -->
+</div> <!-- content wrapper -->
+</div> <!-- content outer wrapper -->
+<div class="footer-wrapper boxed-style">
+<!-- Get Footer Widget -->
+<div class="container footer-container">
+<div class="footer-widget-wrapper">
+<div class="row">
+<div class="three columns gdl-footer-1 mb0"><div class="custom-sidebar widget_text" id="text-2"><h3 class="custom-sidebar-title">Contact Us</h3> <div class="textwidget">+1 (416) 921-7177<br/>
+<a class="icon_text icon_email default" href="mailto:inquire@sullivan-ent.com">  inquire@sullivan-ent.com</a><br/>
+110 Davenport Road<br/>
+Toronto, ON	 M5R 3R3</div>
+</div><div class="custom-sidebar widget_search" id="search-4"><h3 class="custom-sidebar-title">Search</h3><div class="gdl-search-form">
+<form action="http://sullivanmovies.com/" id="searchform" method="get">
+<div class="search-text" id="search-text">
+<input autocomplete="off" data-default="Type keywords..." id="s" name="s" type="text" value="Type keywords..."/>
+</div>
+<input id="searchsubmit" type="submit" value=""/>
+<div class="clear"></div>
+</form>
+</div></div></div><div class="three columns gdl-footer-2 mb0"><div class="custom-sidebar widget_text" id="text-3"><h3 class="custom-sidebar-title">Social Media</h3> <div class="textwidget"><p><a href="https://www.facebook.com/sullivanent" target="_blank"><img alt="Facebook Icon" src="http://sullivanmovies.com/wp-content/uploads/sites/7/2014/10/facebook.png" width="33"/></a> <a href="https://twitter.com/sullivanent" target="_blank"><img alt="Twitter Icon" src="http://sullivanmovies.com/wp-content/uploads/sites/7/2014/10/twitter.png" width="33"/></a> <a href="http://www.pinterest.com/sullivanmovies/" target="_blank"><img alt="Pinterest Icon" src="http://sullivanmovies.com/wp-content/uploads/sites/7/2014/10/pinterest.png" width="33"/></a> <a href="https://plus.google.com/+sullivanentertainment/posts"></a><img alt="Google Plus Icon" src="http://sullivanmovies.com/wp-content/uploads/sites/7/2014/10/google-plus-icon.png" width="33px"/> <a href="http://www.youtube.com/user/sullivanmovies" target="_blank"> <img alt="Youtube Icon" src="http://sullivanmovies.com/wp-content/uploads/sites/7/2014/10/youtube.png" width="33"/></a> <a href="http://vimeo.com/user22285610" target="_blank"><img alt="Vimeo Icon" src="http://sullivanmovies.com/wp-content/uploads/sites/7/2014/10/vimeo.png" width="33"/></a> <a href="http://www.stumbleupon.com/stumbler/Sullivan-ent " target="_blank"><img alt="Stumble Upon Icon" src="http://sullivanmovies.com/wp-content/uploads/2014/06/stumbleupon.png" width="32px"/></a></p>
+</div>
+</div></div><div class="three columns gdl-footer-3 mb0"><div class="custom-sidebar widget_text" id="text-4"><h3 class="custom-sidebar-title">Our Partners</h3> <div class="textwidget"><a href="http://sullivanmovies.com/partnerships/"></a>
+<img alt="free the children" src="http://sullivanmovies.com/wp-content/uploads/2012/12/free-the-children-logo-300x173.png" width="120px"/>   
+
+<img alt="amfar" src="http://sullivanmovies.com/wp-content/uploads/2013/08/amfar.png" width="120px"/></div></div></div></div></div></div></div></div></div></body></html> <br/><br/>
+<img alt="dignitas" src="http://sullivanmovies.com/wp-content/uploads/2013/08/Dignitas_logo_med_4c_660.png" width="150px"/>
+
+<div class="three columns gdl-footer-4 mb0"><div class="custom-sidebar widget_text" id="text-5"><h3 class="custom-sidebar-title">Our Websites</h3> <div class="textwidget"><ul><li><a href="http://anne.sullivanmovies.com">Anne of Green Gables</a></li>
+<li><a href="http://annetoon.sullivanmovies.com">Anne: The Animated Series</a></li>
+<li><a href="http://avonlea.sullivanmovies.com">Road to Avonlea</a></li>
+<li><a href="http://wamb.sullivanmovies.com">Wind at My Back</a></li>
+<li><a href="http://mozart.sullivanmovies.com">Mozart's Magic Flute Diaries</a></li>
+<li><a href="http://www.hiddenmasterpieces.com/">Hidden Masterpieces</a></li></ul></div>
+</div></div> <div class="clear"></div>
+ <!-- close row -->
+<!-- Get Copyright Text -->
+<div class="copyright-wrapper">
+<div class="copyright-border"></div>
+<div class="copyright-left">
+								Copyright © 2015 <a href="http://sullivanmovies.com">Sullivan Entertainment</a>. All rights reserved.							</div>
+<div class="copyright-scroll-top scroll-top"></div>
+</div>
+
+
+<!-- footer wrapper -->
+ <!-- body wrapper -->
+ <!-- body outer wrapper -->
+<div style="display:none">
+</div>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

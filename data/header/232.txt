@@ -1,0 +1,13 @@
+Title: Avatar (2009) - Trivia - IMDb
+Date: Mon, 09 Feb 2015 20:45:39 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYp9uyhFFJ__fuVnK21Lz4HuIbs55M_9nV5xbpfea7_If7pVZNBdRlAn-9HJ6e3FzqYSnKP5Er-%0D%0AsbPvx--wKoUtKCKAOVgXN6yXqfutAZAvIbLs-owBnCIHHFTUrDxVuYZ-fHbsGmipxBtuQfjLyfXs%0D%0AZ7gz25qb4jIS7W5XXaHS1qNKH91wA4utPKWYdlwNL2y5Rdg7Lwpj4ZL0oR52PNrH7CODPOnRS7Rj%0D%0ATdUbwXG3GLYlP7_LRpJ9Et0Y1_Hw2GmhNEx2g8X75XWfUwZXbyduuQ%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:59:47 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:59:47 GMT; Path=/
+Set-Cookie: session-id-time=1581194740; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:59:47 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

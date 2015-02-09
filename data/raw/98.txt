@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+
+<!--[if IE 7]>
+<html id="ie7" lang="en">
+<![endif]-->
+<!--[if (gt IE 7) | (!IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<!--
+	generated in 0.162 seconds
+	35107 bytes batcached for 300 seconds
+-->
+<head>
+<meta charset="utf-8"/>
+<title>The Lion The Witch and the Wardrobe | From Screen to Words</title>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://fromscreentowords.wordpress.com/xmlrpc.php" rel="pingback"/>
+<link href="https://fromscreentowords.wordpress.com/feed/" rel="alternate" title="From Screen to Words » Feed" type="application/rss+xml"/>
+<link href="https://fromscreentowords.wordpress.com/comments/feed/" rel="alternate" title="From Screen to Words » Comments Feed" type="application/rss+xml"/>
+<link href="https://fromscreentowords.wordpress.com/tag/the-lion-the-witch-and-the-wardrobe/feed/" rel="alternate" title="From Screen to Words » The Lion The Witch and the Wardrobe Tag Feed" type="application/rss+xml"/>
+
+<link href="https://s2.wp.com/_static/??-eJx9UVtuxCAMvFCplVXUx0fVsxBwiLMGIyCKcvuSRN12tS0/aAbNDIwNa1RGQsFQwC8q8uIoZMieGLeYZEZT7tmzyfkJ/rYxXTHDjCVqc1UHe5APLO7HIM6hlaWoUZhlhZWsw+YbFEYKVLYbaImNJKz3PuqyKzxa0sjoq6xl8/Hl27XDqbZ5LFKmmpMhLgNEYpPq73PZGFvB6GWm8zxlBEEKVWW+gZbfoSgWowtJuCNqZE2pZU24T75CB1X1i/5XbOrBsQyaW6nnvvIReWLlElmlg637z8eUP/1H11+6y+v7W9/NX+Q16z0=" id="all-css-0" media="all" rel="stylesheet" type="text/css"/>
+
+
+<link href="https://fromscreentowords.wordpress.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://s1.wp.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress.com" name="generator"/>
+<link href="https://s2.wp.com/i/favicon.ico" rel="shortcut icon" sizes="16x16 24x24 32x32 48x48" type="image/x-icon"/>
+<link href="https://s2.wp.com/i/favicon.ico" rel="icon" sizes="16x16 24x24 32x32 48x48" type="image/x-icon"/>
+<link href="https://s0.wp.com/i/webclip.png" rel="apple-touch-icon-precomposed"/>
+<link href="https://fromscreentowords.wordpress.com/?openidserver=1" rel="openid.server"/>
+<link href="https://fromscreentowords.wordpress.com/" rel="openid.delegate"/>
+<link href="https://fromscreentowords.wordpress.com/osd.xml" rel="search" title="From Screen to Words" type="application/opensearchdescription+xml"/>
+<link href="http://wordpress.com/opensearch.xml" rel="search" title="WordPress.com" type="application/opensearchdescription+xml"/>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+<meta content="From Screen to Words" name="application-name"/><meta content="width=device-width;height=device-height" name="msapplication-window"/><meta content="An analysis blog of films and TV programmes" name="msapplication-tooltip"/><meta content="name=Subscribe;action-uri=https://fromscreentowords.wordpress.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="Posts about The Lion The Witch and the Wardrobe on From Screen to Words" name="title"/>
+<meta content="Posts about The Lion The Witch and the Wardrobe written by Lauren" name="description"/>
+<style type="text/css">
+			#site-title a {
+			color: #2186d3;
+		}
+		</style>
+<style id="custom-background-css" type="text/css">
+body.custom-background { background-color: #ffffff; background-image: url('https://fromscreentowords.files.wordpress.com/2013/04/blog-bg.png'); background-repeat: repeat; background-position: top center; background-attachment: scroll; }
+</style>
+<style id="syntaxhighlighteranchor" type="text/css"></style>
+</head>
+<body class="archive tag tag-the-lion-the-witch-and-the-wardrobe tag-310588 custom-background mp6 customizer-styles-applied two-column content-sidebar color-light highlander-enabled highlander-light infinite-scroll neverending">
+<div id="wrapper"><div class="hfeed" id="container">
+<div class="blog" id="page">
+<div id="header">
+<div id="site-title">
+<span>
+<a href="https://fromscreentowords.wordpress.com/" rel="home" title="From Screen to Words">From Screen to Words</a>
+</span>
+</div>
+<div id="nav" role="navigation">
+<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+<div class="menu"><ul><li><a href="https://fromscreentowords.wordpress.com/">Home</a></li><li class="page_item page-item-1"><a href="https://fromscreentowords.wordpress.com/about/">About</a></li></ul></div>
+</div><!-- #nav -->
+<div id="pic">
+<a href="https://fromscreentowords.wordpress.com/" rel="home">
+</a>
+</div><!-- #pic -->
+</div><!-- #header -->
+<div id="content-box">
+<div id="content-container">
+<div id="content" role="main">
+<h1 class="page-title archive-head">
+			Tag Archives: <span>The Lion The Witch and the Wardrobe</span> </h1>
+<div class="post-276 post type-post status-publish format-standard hentry category-genres tag-awake tag-fantasy tag-film tag-the-chronicles-of-narnia tag-the-lion-the-witch-and-the-wardrobe tag-tv" id="post-276">
+<div class="entry-meta">
+
+		April 13, 2013 · 1:48 pm	</div><!-- .entry-meta -->
+<h2 class="entry-title"><a href="https://fromscreentowords.wordpress.com/2013/04/13/fantasy-and-the-fantastic-with-awake-and-narnia-the-lion-the-witch-and-the-wardrobe/" rel="bookmark">Fantasy and the Fantastic – with ‘Awake’ and ‘Narnia – The Lion, The Witch and The Wardrobe’</a></h2> <div class="entry entry-content">
+<p>Fantasy as a genre is “the imagining of things that do not exist in reality” (Oxford University Press 2004), and is usually linked to other genres such as horror, science-fiction and adventure.</p>
+<p>Like realism, fantasy can be identified in different ways. Form, style, subject matter and tone can all present fantasy, but fantasy is most commonly used as a narrative or a thematic device e.g. featuring alternate realities or manipulating time and space, or through iconography frequently associated with fantasy films and programmes. This can include magic and mythology, the use of special effects or Computer Generated Imagery to create a fantasy world, and in language unique to the film or programme e.g. in names of characters or places.</p>
+<p>Animation is often used to show fantastical films or programmes. Anything can be created on-screen, so it’s easier to design imaginary worlds and creatures with animation rather than struggling to make a physical version in reality. Impossible physics can also be implemented in animations rather than reality e.g. manipulating gravity, size and mortality to suit the text.</p>
+<p>But where does realism end and fantasy begin? Although we can view these as opposing ideas, i.e. realism representing reality and everyday life, and fantasy being imaginary and fictional, they can also co-exist together in fantasy texts, and often do.</p>
+<p>An example of this is in the television programme <i>Awake</i> (Killen 2012).</p>
+<p><a href="https://fromscreentowords.files.wordpress.com/2013/04/awake.png"><img alt="Awake" class="alignnone size-medium wp-image-345" height="168" src="https://fromscreentowords.files.wordpress.com/2013/04/awake.png?w=300&amp;h=168" width="300"/></a></p>
+<p>It features a man alternating between two parallel lives following a car crash, but they both represent realism. Both of the realities bleed into each other as Mark, being a police detective, is able to solve crimes using information from both realities that would’ve been impossible to solve without. It also features unusual editing that breaks away from conventions, further separating it from realism.</p>
+<p>The Narnia films represent fantasy in an entirely different way.</p>
+<p><a href="https://fromscreentowords.files.wordpress.com/2013/04/narnia.jpg"><img alt="Narnia" class="alignnone size-medium wp-image-347" height="225" src="https://fromscreentowords.files.wordpress.com/2013/04/narnia.jpg?w=300&amp;h=225" width="300"/></a></p>
+<p>The first one, <i>The Lion, The Witch and The Wardrobe</i> (Adamson 2005), shows four children being evacuated during World War 2 to an old house in the countryside, and they soon discover an entire magical land in the back of a wardrobe. Although it features some elements of realism e.g. representing the events of World War 2 accurately with a bombing raid and evacuation, much of the film is entirely fantastical. It has elements of magic, with the Witch having a magical staff and Lucy, one of the children, having a bottle of magical liquid that can heal any injury. It features unusual names of places and characters that are unique to the fantasy world of Narnia, and it uses lots of CGI to create fantasy creatures and places e.g. talking animals, dwarves and the Witch’s palace.</p>
+<p>Bibliography:</p>
+<p>Adamson, A., 2005. <i>The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)</i>, Available at: <a href="http://www.imdb.com/title/tt0363771/" rel="nofollow">http://www.imdb.com/title/tt0363771/</a>.</p>
+<p>Killen, K., 2012. Awake. Available at: <a href="http://www.imdb.com/title/tt1839683/" rel="nofollow">http://www.imdb.com/title/tt1839683/</a>.</p>
+<p>Oxford University Press, 2004. <i>The Oxford English minidictionary</i> 6th ed., Oxford ; New York: Oxford University Press.</p>
+</div><!-- .entry-content -->
+<div class="entry-links">
+<p class="comment-number"><a href="https://fromscreentowords.wordpress.com/2013/04/13/fantasy-and-the-fantastic-with-awake-and-narnia-the-lion-the-witch-and-the-wardrobe/#respond" title="Comment on Fantasy and the Fantastic – with ‘Awake’ and ‘Narnia – The Lion, The Witch and The Wardrobe’">Leave a comment</a></p>
+<p class="entry-categories tagged">Filed under <a href="https://fromscreentowords.wordpress.com/category/genres/" rel="category tag">Genres</a></p>
+<p class="entry-tags tagged">Tagged as <a href="https://fromscreentowords.wordpress.com/tag/awake/" rel="tag">Awake</a>, <a href="https://fromscreentowords.wordpress.com/tag/fantasy/" rel="tag">fantasy</a>, <a href="https://fromscreentowords.wordpress.com/tag/film/" rel="tag">film</a>, <a href="https://fromscreentowords.wordpress.com/tag/the-chronicles-of-narnia/" rel="tag">The Chronicles of Narnia</a>, <a href="https://fromscreentowords.wordpress.com/tag/the-lion-the-witch-and-the-wardrobe/" rel="tag">The Lion The Witch and the Wardrobe</a>, <a href="https://fromscreentowords.wordpress.com/tag/tv/" rel="tag">TV</a><br/></p>
+</div><!-- .entry-links -->
+</div><!-- #post-## -->
+</div><!-- #content -->
+</div><!-- #content-container -->
+<div class="widget-area" id="sidebar" role="complementary">
+<ul class="xoxo sidebar-list">
+<li class="widget widget_search" id="search-2"><form action="https://fromscreentowords.wordpress.com/" class="searchform" id="searchform" method="get" role="search">
+<div>
+<label class="screen-reader-text" for="s">Search for:</label>
+<input id="s" name="s" type="text" value=""/>
+<input id="searchsubmit" type="submit" value="Search"/>
+</div>
+</form></li> <aside class="widget widget_recent_entries" id="recent-posts-2"> <h3 class="widget-title">Recent Posts</h3> <ul>
+<li>
+<a href="https://fromscreentowords.wordpress.com/2013/06/10/thank-you/">Thank you! :)</a>
+</li>
+<li>
+<a href="https://fromscreentowords.wordpress.com/2013/05/04/world-cinema-with-nine-queens-and-goodbye-lenin/">World cinema – with ‘Nine Queens’ and ‘Goodbye Lenin!’</a>
+</li>
+<li>
+<a href="https://fromscreentowords.wordpress.com/2013/05/04/authorship-with-touch-of-evil-and-sherlock/">Authorship – with ‘Touch of Evil’ and ‘Sherlock’</a>
+</li>
+<li>
+<a href="https://fromscreentowords.wordpress.com/2013/05/03/documentaries-with-aileen-the-selling-of-a-serial-killer-and-ancient-egypt-life-and-death-in-the-valley-of-the-kings-2/">Documentaries – with ‘Aileen: The Selling of a Serial Killer’ and ‘Ancient Egypt – Life and Death in the Valley of the Kings’</a>
+</li>
+<li>
+<a href="https://fromscreentowords.wordpress.com/2013/05/01/texts-and-subtexts-with-buffy-the-vampire-slayer-and-the-ring/">Texts and subtexts – with ‘Buffy the Vampire Slayer’ and ‘The Ring’</a>
+</li>
+</ul>
+</aside><li class="widget widget_archive" id="archives-2"><h3 class="widget-title">Archives</h3> <ul>
+<li><a href="https://fromscreentowords.wordpress.com/2013/06/">June 2013</a></li>
+<li><a href="https://fromscreentowords.wordpress.com/2013/05/">May 2013</a></li>
+<li><a href="https://fromscreentowords.wordpress.com/2013/04/">April 2013</a></li>
+<li><a href="https://fromscreentowords.wordpress.com/2013/03/">March 2013</a></li>
+<li><a href="https://fromscreentowords.wordpress.com/2013/02/">February 2013</a></li>
+</ul>
+</li><li class="widget widget_categories" id="categories-2"><h3 class="widget-title">Categories</h3> <ul>
+<li class="cat-item cat-item-49007503"><a href="https://fromscreentowords.wordpress.com/category/creative-aspects/">Creative aspects</a>
+</li>
+<li class="cat-item cat-item-165232444"><a href="https://fromscreentowords.wordpress.com/category/film-and-tv-issues/">Film and TV issues</a>
+</li>
+<li class="cat-item cat-item-35672"><a href="https://fromscreentowords.wordpress.com/category/genres/">Genres</a>
+</li>
+<li class="cat-item cat-item-1"><a href="https://fromscreentowords.wordpress.com/category/uncategorized/">Uncategorized</a>
+</li>
+</ul>
+</li><li class="widget widget_meta" id="meta-2"><h3 class="widget-title">Meta</h3> <ul>
+<li><a href="https://en.wordpress.com/signup/?ref=wplogin">Register</a></li> <li><a href="https://fromscreentowords.wordpress.com/wp-login.php">Log in</a></li>
+<li><a href="https://fromscreentowords.wordpress.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://fromscreentowords.wordpress.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="http://wordpress.com/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.com</a></li> </ul>
+</li><li class="widget widget_top-posts" id="top-posts-2"><h3 class="widget-title">Top Posts &amp; Pages</h3><ul><li><a class="bump-view" data-bump-view="tp" href="https://fromscreentowords.wordpress.com/2013/02/24/narrative-and-editing-with-run-lola-run/">Narrative and editing - with 'Run Lola Run'</a></li>
+</ul></li><li class="widget widget_recent_comments" id="recent-comments-3"><h3 class="widget-title">Recent Comments</h3> <table border="0" cellpadding="0" cellspacing="0" class="recentcommentsavatar">
+<tr><td class="recentcommentsavatartop" style="height:48px; width:48px;" title="Lauren"><a href="https://fromscreentowords.wordpress.com" rel="nofollow"><img alt="" class="avatar avatar-48" height="48" src="https://1.gravatar.com/avatar/af26abfefa424aa56d0a177216e436cc?s=48&amp;d=identicon&amp;r=G" width="48"/></a></td><td class="recentcommentstexttop" style=""><a href="https://fromscreentowords.wordpress.com" rel="nofollow">Lauren</a> on <a href="https://fromscreentowords.wordpress.com/2013/05/03/documentaries-with-aileen-the-selling-of-a-serial-killer-and-ancient-egypt-life-and-death-in-the-valley-of-the-kings-2/comment-page-1/#comment-112">Documentaries – with…</a></td></tr><tr><td class="recentcommentsavatarend" style="height:48px; width:48px;" title="Lauren"><a href="https://fromscreentowords.wordpress.com" rel="nofollow"><img alt="" class="avatar avatar-48" height="48" src="https://1.gravatar.com/avatar/af26abfefa424aa56d0a177216e436cc?s=48&amp;d=identicon&amp;r=G" width="48"/></a></td><td class="recentcommentstextend" style=""><a href="https://fromscreentowords.wordpress.com" rel="nofollow">Lauren</a> on <a href="https://fromscreentowords.wordpress.com/2013/03/15/character-and-performance-with-breaking-bad-and-gavin-and-stacey/comment-page-1/#comment-111">Character and performance – wi…</a></td></tr> </table>
+</li> </ul>
+</div><!-- #sidebar .widget-area -->
+</div><!-- #content-box -->
+<div id="footer" role="contentinfo">
+<div id="colophon">
+<div id="site-info">
+<a href="https://fromscreentowords.wordpress.com/" rel="home" title="From Screen to Words">From Screen to Words</a> · An analysis blog of films and TV programmes				</div><!-- #site-info -->
+<div id="site-generator">
+<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com</a>.
+					·
+					<a href="https://wordpress.com/themes/pilcrow/" title="Learn more about this theme">The Pilcrow Theme</a>.				</div><!-- #site-generator -->
+</div><!-- #colophon -->
+</div><!-- #footer -->
+</div><!-- #page .blog -->
+</div><!-- #container -->
+</div><!-- #wrapper --> 
+<!-- wpcom_wp_footer -->
+
+
+
+
+<div style="display:none">
+<div class="grofile-hash-map-af26abfefa424aa56d0a177216e436cc">
+</div>
+</div>
+<div id="infinite-footer">
+<div class="container">
+<div class="blog-info">
+<a href="https://fromscreentowords.wordpress.com/" id="infinity-blog-title" rel="home">
+						From Screen to Words					</a>
+</div>
+<div class="blog-credits">
+<a href="https://wordpress.com/?ref=footer_website">Create a free website or blog at WordPress.com</a>. <a href="https://wordpress.com/themes/pilcrow/" title="Learn more about this theme">The Pilcrow Theme</a>.				</div>
+</div>
+</div><!-- #infinite-footer -->
+<div class="loggedout-follow-normal" id="bit">
+<a class="bsub" href="javascript:void(0)"><span id="bsub-text">Follow</span></a>
+<div id="bitsubscribe">
+<h3><label for="loggedout-follow-field">Follow “From Screen to Words”</label></h3>
+<form accept-charset="utf-8" action="https://subscribe.wordpress.com" id="loggedout-follow" method="post">
+<p>Get every new post delivered to your Inbox.</p>
+<p id="loggedout-follow-error" style="display: none;"></p>
+<p><input id="loggedout-follow-field" name="email" onblur='this.value=(this.value=="") ? "Enter your email address" : this.value;' onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' type="email" value="Enter your email address"/></p>
+<input name="action" type="hidden" value="subscribe"/>
+<input name="blog_id" type="hidden" value="46147751"/>
+<input name="source" type="hidden" value="https://fromscreentowords.wordpress.com/tag/the-lion-the-witch-and-the-wardrobe/"/>
+<input name="sub-type" type="hidden" value="loggedout-follow"/>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="8d8e60e5c4"/><input name="_wp_http_referer" type="hidden" value="/tag/the-lion-the-witch-and-the-wardrobe/"/>
+<p id="bsub-subscribe-button"><input type="submit" value="Sign me up"/></p>
+</form>
+<div id="bsub-credit"><a href="https://wordpress.com/?ref=lof">Build a website with WordPress.com</a></div>
+</div><!-- #bitsubscribe -->
+</div><!-- #bit -->
+<div id="carousel-reblog-box">
+<form action="" name="carousel-reblog">
+<textarea id="carousel-reblog-content" name="carousel-reblog-content" onblur="if ( this.value == '' || this.value == '' ) { this.value = 'Add your thoughts here... (optional)'; }" onclick="if ( this.value == 'Add your thoughts here... (optional)' ) { this.value = ''; }">Add your thoughts here... (optional)</textarea>
+<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+<select id="carousel-reblog-to-blog-id" name="carousel-reblog-to-blog-id">
+</select>
+<div class="submit">
+<span class="canceltext"><a class="cancel" href="">Cancel</a></span>
+<input class="button" id="carousel-reblog-submit" name="carousel-reblog-submit" type="submit" value="Reblog Post"/>
+<input id="carousel-reblog-blog-id" type="hidden" value="46147751"/>
+<input id="carousel-reblog-blog-url" type="hidden" value="https://fromscreentowords.wordpress.com"/>
+<input id="carousel-reblog-blog-title" type="hidden" value="From Screen to Words"/>
+<input id="carousel-reblog-post-url" type="hidden" value=""/>
+<input id="carousel-reblog-post-title" type="hidden" value=""/>
+</div>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="1d7e00ee90"/><input name="_wp_http_referer" type="hidden" value="/tag/the-lion-the-witch-and-the-wardrobe/"/> </form>
+<div class="arrow"></div>
+</div>
+<link href="https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1412618825g" id="all-css-0" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825g&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link href="https://s2.wp.com/wp-content/mu-plugins/tiled-gallery/tiled-gallery.css?m=1401143454g" id="all-css-2" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+ 
+
+
+<noscript><img alt="" src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden"/></noscript>
+</body>
+</html>

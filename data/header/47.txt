@@ -1,0 +1,17 @@
+Title: Buy tickets to The Little Prince
+
+Server: Cowboy
+Connection: close
+Date: Mon, 09 Feb 2015 20:42:32 GMT
+Status: 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 4431
+X-Ua-Compatible: IE=Edge,chrome=1
+Etag: "2f7b15323c96b4174fdf9f77600bb98c"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _artful.ly_session_s=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWRiYzg2NTAyNWIwNTg4MWUwMzVjNDVlMzgyYjE4M2ZiBjsAVEkiEmxhc3RfZXZlbnRfaWQGOwBGSSIJNDc2MQY7AFRJIgxjYXJ0X2lkBjsARmkDHn0k--379cfe84609bd522d8d369c3cb714b5b86fcf2b2; path=/; HttpOnly; secure
+X-Request-Id: 09c07d97-c1d8-4716-b53f-90cfdf88f4e8
+X-Runtime: 0.110012
+X-Rack-Cache: miss
+Via: 1.1 vegur
+

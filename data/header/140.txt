@@ -1,0 +1,21 @@
+Title: "The Catcher in the Rye" film version – should it happen? - CSMonitor.com
+Server: Apache/2.2.15 (Red Hat)
+Content-Length: 63137
+Content-Type: text/html; charset=utf-8
+X-Powered-By: eZ Publish
+Vary: Accept-Encoding
+X-Varnish: 1946336730
+X-Ttl: -1.000
+x-url: /Books/chapter-and-verse/2010/0818/The-Catcher-in-the-Rye-film-version-should-it-happen
+ezp-published: 1282146116
+ezp-class: csm_blog_post
+ezp-remote_id: ee74274a9be61ec6038a24ceddf979fa
+ezp-is_archive: 1
+Content-Language: en-US
+Served-by: 
+Pragma: 
+Cache-Control: max-age=3600
+Expires: Mon, 09 Feb 2015 21:44:05 GMT
+Date: Mon, 09 Feb 2015 20:44:05 GMT
+Connection: close
+

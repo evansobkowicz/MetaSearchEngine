@@ -1,0 +1,23 @@
+Title: The Lord of the Rings - Lord of the Rings Wiki
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-language: en
+X-Backend-Response-Time: 0.241
+ETag: "20150203200022-1423267875"
+Last-Modified: Tue, 03 Feb 2015 20:00:22 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 199787
+Accept-Ranges: bytes
+Date: Mon, 09 Feb 2015 20:42:50 GMT
+Age: 55167
+Connection: close
+X-Served-By: ap-s48, cache-wk-sjc3161-WKSJC, cache-atl6224-ATL
+X-Cache: ORIGIN, MISS, HIT
+X-Cache-Hits: ORIGIN, 0, 1
+X-Timer: S1423514570.596341,VS0,VE5
+Vary: Accept-Encoding,Cookie
+Set-Cookie: wikia_beacon_id=f8UHI2JIE3; domain=.wikia.com; path=/; expires=Sat, 08 Aug 2015 20:42:50 GMT;
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+

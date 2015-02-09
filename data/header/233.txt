@@ -1,0 +1,13 @@
+Title: Avatar (2009) - Parents Guide
+Date: Mon, 09 Feb 2015 20:45:40 GMT
+Server: HTTPDaemon
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private
+Expires: Thu, 01 Jan 1970 22:00:00 GMT
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: uu=BCYsJx6-AvzGd2O2CcsdwJ1tZIs2HlNe93kintg9BxTTbr9-UR6eFXr65pYYD-ERVmSKJbFsNgWPsE8cenzQ_JTCibkucm2GpRBIEL7_Bset765O6nCJ1KJv4guflmBzzToFVXOqmVBprb6vy33JveF3pAbnnzgzwMoQiC75sfKpbRU;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=H3xloUBUmsszLY9cCw26MwenOqqgkW26kBl9MsPSHvmzsl7psDHOqeCRbbqXx+36gJFtjOeHr1qj9E7ed9HNOeCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Tue, 10 Feb 2015 08:00:00 GMT;path=/;domain=.imdb.com
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

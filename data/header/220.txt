@@ -1,0 +1,16 @@
+Title: Watership Down: A Novel: Richard Adams: 9780743277709: Amazon.com: Books
+Date: Mon, 09 Feb 2015 20:45:21 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 078QG1DGAR8RF8Q0V2CB
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: book_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: HhvsaO+PeC1paH8gJTD+B/PBuKJ4nDhDmd7GvdCgCFgk4bzoH3ItpN9R7SbHsRyl
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+

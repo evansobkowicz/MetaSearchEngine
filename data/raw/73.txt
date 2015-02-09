@@ -1,0 +1,728 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<!--[if IE]><![endif]--><!--Empty IE conditional comment to improve site performance-->
+<html lang="en">
+<head>
+<!-- 15 -->
+
+
+<title>SparkNotes: And Then There Were None: Chapter I</title>
+<meta content="A summary of Chapter I in Agatha Christie's And Then There Were None. Learn exactly what happened in this chapter, scene, or section of And Then There Were None and what it means. Perfect for acing essays, tests, and quizzes, as well as for writing lesson plans." name="description"/>
+<meta content="And Then There Were None, Chapter I, Agatha Christie, scene summary, scene summaries, chapter summary, chapter summaries, short summary, criticism, literary criticism, review, scene synopsis, interpretation, teaching, lesson plan" name="keywords"/>
+<link href="http://img.sparknotes.com/images/new_global/new_favicon.ico" rel="shortcut icon"/>
+<link href="http://img.sparknotes.com/css/2013/styles.css" rel="stylesheet"/>
+<link href="http://img.sparknotes.com/css/2013/large-screens.css" rel="stylesheet"/>
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE8.css" /><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE.css" /><![endif]-->
+
+
+
+
+
+</head>
+<body class="study-guides blue-background">
+<div id="fb-root"></div>
+ 
+<header>
+<link href="http://img.sparknotes.com/css/gigya.css" rel="stylesheet"/>
+<div class="short-light-grey-gradient">
+<div class="clearfix centered-width masthead">
+<div class="col-1-3">
+<div class="utility navigation">
+<div id="placeholder">
+
+</div>
+										 
+				</div>
+</div>
+<div class="col-1-3 center logo">
+<h2 class="is-centered"><a class="logo hide-text" href="http://www.sparknotes.com/">SparkNotes</a></h2>
+</div>
+<div class="col-1-3 last">
+<navigation>
+<div id="user-links-wrapper">
+<div class="login" id="login-dialog" style="display:none;">
+<form action="https://www.sparknotes.com/login" id="loginform" method="POST">
+<input class="jsClearOnFocus" id="email" name="email" placeholder="email" type="text">
+<input class="jsClearOnFocus" id="password" name="password" type="password" value="password">
+<input checked="checked" id="remember_me" name="remember_me" type="checkbox">
+<label for="remember_me"> Remember me</label>
+<input class="turquoise-gradient" id="login" name="submit" type="submit" value="Log in">
+<input name="uri" type="hidden" value="http://www.sparknotes.com/">
+<input id="referer" name="referer" type="hidden" value="http://www.sparknotes.com/">
+</input></input></input></input></input></input></form>
+</div>
+
+
+
+
+
+</div>
+</navigation>
+<div class="ui-widget search small-search">
+<form action="http://www.sparknotes.com/search" class="clearfix search" id="searchform" method="get">
+<fieldset>
+<input class="search_field inner-shadow grey-text" id="search-sparknotes" name="q" placeholder="By keyword" type="text" value=""/>
+<input type="submit" value="Go"/>
+<!--      						<input name="searchbg" value="" class="searchbg" type="hidden" />
+      						
+      						<input name="template" value="default" type="hidden" />
+      						
+      						<input type="hidden" name="output" value="xml_no_dtd" />
+      						
+      						<input type="hidden" name="oe" value="UTF-8"/>
+      						
+      						<input type="hidden" name="ie" value="UTF-8" />
+      						
+      						<input type="hidden" name="client" value="default_frontend" />
+      						
+      						<input type="hidden" name="proxystylesheet" value="default_frontend" />
+      						
+      						<input type="hidden" name="site" value="SparkNotes" /> -->
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</div>
+<!-- Begin comScore Tag -->
+
+<noscript>
+<img alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035001&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+<a class="hide-text hide-text-accessibility" href="#startcontent">Skip over navigation</a>
+<div class="dark-grey-background">
+<div class="clearfix no-columns center centered-width top-nav-container">
+<navigation>
+<ul class="clearfix is-inline is-centered top-nav" id="menu">
+<li id="sparknotes-tab"><a class="semi-bold light-text" href="http://www.sparknotes.com/sparknotes/">SparkNotes</a>
+<div class="clearfix dropdown text-color dropdown-sparknotes dark-drop-shadow">
+<div class="col-1-8">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/"><strong>SparkNotes Main</strong></a></h5></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/"><strong>Video SparkNotes</strong></a></li>
+<li><a href="http://www.sparknotes.com/shakespeare/"><strong>Shakespeare SparkNotes</strong></a></li>
+<li><a href="http://www.sparknotes.com/lit/index_title.html"><strong>Titles A-Z</strong></a></li>
+<li>
+<ul class="clearfix margin-0 alpha">
+<li><a href="http://www.sparknotes.com/lit/index_a.html">A</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_b.html">B</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_c.html">C</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_d.html">D</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_e.html">E</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_f.html">F</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_g.html">G</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_h.html">H</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_i.html">I</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_j.html">J</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_k.html">K</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_l.html">L</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_m.html">M</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_n.html">N</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_o.html">O</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_p.html">P</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_r.html">R</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_s.html">S</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_t.html">T</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_u.html">U</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_v.html">V</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_w.html">W</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_y.html">Y</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="http://www.sparknotes.com/lit/index_author.html"><strong>Authors A-Z</strong></a></li>
+<li>
+<ul class="clearfix margin-0 alpha">
+<li><a href="http://www.sparknotes.com/lit/index_author_a.html">A</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_b.html">B</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_c.html">C</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_d.html">D</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_e.html">E</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_f.html">F</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_g.html">G</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_h.html">H</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_i.html">I</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_j.html">J</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_k.html">K</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_l.html">L</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_m.html">M</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_n.html">N</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_o.html">O</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_p.html">P</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_r.html">R</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_s.html">S</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_t.html">T</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_u.html">U</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_v.html">V</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_w.html">W</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_y.html">Y</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-1-4">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Top SparkNotes</a></h5></li>
+<li><a class="main" href="http://www.sparknotes.com/lit/mocking/">To Kill a Mockingbird</a></li>
+<li><a href="http://www.sparknotes.com/lit/gatsby/">The Great Gatsby</a></li>
+<li><a href="http://www.sparknotes.com/lit/flies/">Lord of the Flies</a></li>
+<li><a href="http://www.sparknotes.com/lit/huckfinn">Adventures of Huck Finn</a></li>
+<li><a href="http://www.sparknotes.com/lit/catcher/">The Catcher in the Rye</a></li>
+<li><a href="http://www.sparknotes.com/lit/1984">1984</a></li>
+<li><a href="http://www.sparknotes.com/lit/451">Fahrenheit 451</a></li>
+<li><a href="http://www.sparknotes.com/lit/scarlet">The Scarlet Letter</a></li>
+<li><a href="http://www.sparknotes.com/lit/grapesofwrath">The Grapes of Wrath</a></li>
+<li><a href="http://www.sparknotes.com/lit/bravenew">Brave New World</a></li>
+<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/"><strong>See all →</strong></a></li>
+</ul>
+</div>
+<div class="col-1-4">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/video/">Top Video SparkNotes</a></h5></li>
+<li><a class="main" href="http://www.sparknotes.com/sparknotes/video/1984">1984</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/hamlet">Hamlet</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/romeojuliet">Romeo and Juliet</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/mocking">To Kill A Mockingbird</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/othello">Othello</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/macbeth">Macbeth</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/scarlet">The Scarlet Letter</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/flies">Lord of the Flies</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/frankenstein">Frankenstein</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/gatsby">The Great Gatsby</a></li>
+<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/video/"><strong>See all →</strong></a></li>
+</ul>
+</div>
+<div class="col-1-8 last">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Other Subjects</a></h5></li>
+<li><a class="main" href="http://www.sparknotes.com/biology/">Biology</a></li>
+<li><a href="http://www.sparknotes.com/biography/">Biography</a></li>
+<li><a href="http://www.sparknotes.com/chemistry/">Chemistry</a></li>
+<li><a href="http://www.sparknotes.com/cs/">Computer Science</a></li>
+<li><a href="http://www.sparknotes.com/drama/">Drama</a></li>
+<li><a href="http://www.sparknotes.com/economics/">Economics</a></li>
+<li><a href="http://www.sparknotes.com/film/">Film</a></li>
+<li><a href="http://www.sparknotes.com/history/">History</a></li>
+<li><a href="http://www.sparknotes.com/lit/">Literature</a></li>
+<li><a href="http://www.sparknotes.com/math/">Math</a></li>
+<li><a href="http://www.sparknotes.com/philosophy/">Philosophy</a></li>
+<li><a href="http://www.sparknotes.com/physics/">Physics</a></li>
+<li><a href="http://www.sparknotes.com/poetry/">Poetry</a></li>
+<li><a href="http://www.sparknotes.com/psychology/">Psychology</a></li>
+<li><a href="http://www.sparknotes.com/sociology/">Sociology</a></li>
+<li><a href="http://www.sparknotes.com/us-government-and-politics/">U.S. Government</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li id="no-fear"><a class="semi-bold light-text" href="http://nfs.sparknotes.com/">No Fear</a>
+<div class="clearfix dropdown dropdown-no-fear text-color dark-drop-shadow">
+</div>
+</li>
+<li id="test-prep"><a class="semi-bold light-text" href="http://www.sparknotes.com/testprep/">Test Prep</a>
+<div class="clearfix dropdown dropdown-test-prep text-color dark-drop-shadow centered-width">
+<div class="col-1-4">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/">Test Prep Main</a></h5></li>
+<li><a href="http://www.sparknotes.com/testprep/newsat/">SAT</a></li>
+<li><a href="http://www.sparknotes.com/testprep/act/">ACT</a></li>
+<li><a href="http://www.sparknotes.com/testprep/gre/">GRE</a></li>
+</ul>
+</div>
+<div class="col-1-4 last">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/newsat/">SAT Subject Tests</a></h5></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/biology/">SAT Biology</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/chemistry/">SAT Chemistry</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/history/">SAT History</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/math1c/">SAT Math Level 1</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/math2c/">SAT Math Level 2</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/physics/">SAT Physics</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li id="video"><a class="semi-bold light-text" href="http://www.sparknotes.com/video/">Video</a>
+<div class="clearfix dropdown dropdown-video text-color border-dark-grey">
+</div>
+</li>
+<li id="sparklife"><a class="semi-bold light-text" href="http://community.sparknotes.com/">SparkLife</a>
+<div class="clearfix dropdown dropdown-sparklife text-color dark-drop-shadow">
+</div>
+</li>
+<li id="mindhut"><a class="semi-bold light-text" href="http://www.sparknotes.com/mindhut">The Mindhut</a>
+<div class="clearfix dropdown dropdown-mindhut text-color dark-drop-shadow">
+</div>
+</li>
+</ul>
+</navigation>
+</div>
+</div>
+<a class="hide-text hide-text-accessibility" id="startcontent"></a><!-- For accesibility -->
+</header>
+
+<div id="ad-skin-bg">
+<div id="ad-skin-img">
+<div class="inner-content blue-background">
+<div class="center no-columns top-ad">
+<div class="is-centered ad-container">
+
+</div>
+</div>
+<div class="clearfix breadcrumbs">
+<ul class="clearfix is-inline semi-bold">
+<li class="margin-0">
+<a href="http://www.sparknotes.com">Home</a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/sparknotes/">SparkNotes </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/lit/">Literature Study Guides </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/lit/andthenthere/">And Then There Were None </a> <span class="link-color">→</span> Chapter I    	</li>
+</ul>
+</div>
+<div class="clearfix interior">
+<div class="col-small-left">
+<div class="light-blue-background border-blue left-menu">
+<h2>Contents</h2>
+<ul>
+<h4 class="semi-bold">General Info</h4>
+<li><a href="http://www.sparknotes.com/lit/andthenthere/context.html">Context</a></li>
+<li><a href="http://www.sparknotes.com/lit/andthenthere/summary.html">Plot Overview</a></li>
+<li><a href="http://www.sparknotes.com/lit/andthenthere/characters.html">Character List</a></li>
+<li><a href="http://www.sparknotes.com/lit/andthenthere/canalysis.html">Analysis of Major Characters</a></li>
+<li><a href="http://www.sparknotes.com/lit/andthenthere/themes.html">Themes, Motifs &amp; Symbols</a></li>
+<h4 class="semi-bold">Summary &amp; Analysis</h4><li class="active">Chapter I</li><li><a href="http://www.sparknotes.com/lit/andthenthere/section2.rhtml">Chapter II</a></li><li><a href="http://www.sparknotes.com/lit/andthenthere/section3.rhtml">Chapters III–IV</a></li><li><a href="http://www.sparknotes.com/lit/andthenthere/section4.rhtml">Chapters V–VI</a></li><li><a href="http://www.sparknotes.com/lit/andthenthere/section5.rhtml">Chapters VII–VIII</a></li><li><a href="http://www.sparknotes.com/lit/andthenthere/section6.rhtml">Chapters IX–X</a></li><li><a href="http://www.sparknotes.com/lit/andthenthere/section7.rhtml">Chapters XI–XII</a></li><li><a href="http://www.sparknotes.com/lit/andthenthere/section8.rhtml">Chapters XIII–XIV</a></li><li><a href="http://www.sparknotes.com/lit/andthenthere/section9.rhtml">Chapters XV–XVI</a></li><li><a href="http://www.sparknotes.com/lit/andthenthere/section10.rhtml">Epilogue</a></li>
+<h4 class="semi-bold">Study Tools</h4>
+<li><a href="http://www.sparknotes.com/lit/andthenthere/quotes.html">Important Quotations Explained</a></li>
+<li><a href="http://www.sparknotes.com/lit/andthenthere/facts.html">Key Facts</a></li>
+<li><a href="http://www.sparknotes.com/lit/andthenthere/study.html">Study Questions &amp; Essay Topics</a></li>
+<li><a href="http://www.sparknotes.com/lit/andthenthere/quiz.html">Quiz</a></li>
+<li><a href="http://www.sparknotes.com/lit/andthenthere/bibliography.html">Suggestions for Further Reading</a></li>
+<li><a href="http://www.sparknotes.com/lit/andthenthere/citing.html">How to Cite This SparkNote</a></li>
+</ul>
+</div>
+<div id="leftAd">
+
+</div>
+</div>
+<div class="col-mid">
+<div class="white-background border-blue content">
+<h1 class="title padding-btm-0">And Then There Were None</h1><h2 class="author">Agatha Christie</h2>
+<div class="clearfix next-previous center"><a class="left arrow-nav previous text-color" href="http://www.sparknotes.com/lit/andthenthere/themes.html" title="previous">←</a><div class="next-title text-color is-centered">Chapter I</div><a class="right arrow-nav next text-color" href="http://www.sparknotes.com/lit/andthenthere/section2.rhtml" title="next">→</a></div><div class="tooltip dark-grey-background"><h3 class="semi-bold">Themes, Motifs &amp; Symbols</h3></div><div class="tooltip dark-grey-background"><h3 class="semi-bold">Chapter II</h3></div><div class="clearfix">
+<h5 class="right">
+</h5>
+<div style="clear:both;"></div>
+</div>
+<div class="studyGuideText" id="section">
+<h4>Summary: Chapter I</h4>
+<p>Justice Wargrave, a recently retired judge, is taking
+a train to the seaside town of Sticklehaven, where he is to catch
+a boat to Indian Island. He recalls the rumors that have swirled
+around the island: since a mysterious Mr. Owen purchased the place,
+people have suggested that a film star or a member of the royal
+family really owns the island. Wargrave takes a letter from his
+pocket and glances over its contents. The letter invites him to
+spend some time on the island and is signed by an old friend of
+his, Constance Culmington, whom he has not seen for eight years.
+He reflects that Constance is exactly the kind of woman who would
+buy a place like Indian Island.</p>
+<div class="floatingad"></div>
+<p>	On the same train, Vera Claythorne ponders her invitation
+to the island. She has been hired as a secretary by Una Nancy Owen, apparently
+the wife of the island’s owner. Vera reflects how lucky she is to
+get this job, especially after her involvement in a coroner’s inquest
+into someone’s death. She was cleared of all blame for the death,
+we learn, but Hugo Hamilton, the man she loved, thought her guilty.
+She thinks of the sea and of swimming after someone in particular,
+knowing she would not reach him in time to save him. She forces
+her mind away from those memories and glances at the man across
+from her, thinking he looks well traveled. </p>
+<p>	The man, Philip Lombard, gazes at Vera and finds her
+attractive and capable-looking. He has been hired for a mysterious
+job on Indian Island and is being paid well for it, because he has
+a reputation as a “good man in a tight place.” He has never met
+his employer; someone named Isaac Morris hired him. Lombard looks forward
+to whatever he will find on the island.</p>
+<p>	In another part of the train, Emily Brent sits up straight;
+she disapproves of slouching. She approves of very little, in fact.
+She is a very conservative, religious woman who holds most of the
+world in contempt. She has been invited to Indian Island for a holiday
+by someone who claims to have once shared a guesthouse with her. Emily
+Brent has decided to accept the invitation, even though she cannot
+quite read the name on the signature.</p>
+<p>	General Macarthur is taking a slower train to Sticklehaven.
+He has been invited to the island and promised that some of his
+friends will be there to talk over old times. He is glad to have
+the invitation; he has worried that people avoid him because of
+a thirty-year-old rumor. He does not explain the nature of the rumor.</p>
+<p>	Dr. Armstrong is driving to the island, having been asked
+to report on the condition of Mr. Owen’s ailing wife. He is a wealthy and
+successful medical man, but, as he drives, he reflects on the good luck
+that enabled his career to survive an incident that happened some
+years before, when he drank heavily. A sports car roars past Armstrong,
+driven by Tony Marston, a rich, handsome, and carefree young man
+on his way to Indian Island.</p>
+<div class="floatingad"></div>
+<p>	Mr. Blore, a former detective and another guest, is taking
+a different train from the one the others are taking. He has a list
+of the names of all the other guests, and he reads it over, reflecting
+that this job will probably be easy. His only company on the train
+is an old man who warns him that a storm is coming and that the
+day of judgment is near. As the man gets off the train, Blore reflects
+that the old man is closer to death and judgment than he himself
+is. The narrator warns us that “there, as it happens, he was wrong.
+. . .”</p>
+<h4>Analysis: Chapter I</h4>
+<p>Agatha Christie opens <i>And Then There Were None</i> with
+a shifting point of view unusual in the mystery genre. She gives
+us a look into each character’s thoughts during his or her journey
+to Sticklehaven and Indian Island. Murder mysteries usually avoid
+such a tactic—an early glimpse into the murderer’s thoughts might
+reveal his or her guilt and thereby ruin the suspense. In this novel,
+however, Christie’s innovative perspective into different characters’
+thoughts increases the difficulty of discerning the true murderer
+and, as a result, establishes a more satisfying ending. For instance,
+by letting us know what each character is thinking—and such glimpses
+continue throughout the novel—Christie actually increases the suspense, since
+each character seems to harbor both innocent and guilty musings,
+even in the privacy of his or her own thoughts. One of them may
+be a killer, but we have no way of telling exactly who it is, since man,
+woman, young, and old alike express suspicious thoughts alongside
+genuine fears. By the time the killer is revealed, we have run the
+gamut of responses, from condemnation to sympathy for several characters.</p>
+<p>The opening chapter also builds suspense through Christie’s
+use of dramatic irony, the contrast between what a character thinks
+to be the truth and what we, the readers or audience, know to be
+the truth. While some of the characters, like Emily Brent and General Macarthur,
+believe that they are going to Indian Island to visit old friends
+and others, like Blore and Lombard, believe that they have been
+hired to do odd jobs on the island, we sense early on that they are
+all being deceived. The lack of a single reason for the various
+visitors to come to the island makes the whole process seem like
+a pretext for some deeper, hidden motive. Because Christie gives
+us access to her characters’ minds, we can see that each character,
+for the moment, possesses only a limited understanding of the situation, while
+we can understand that each character is embarking on a greater
+adventure than he or she realizes.</p>
+<p>Christie’s partially developed insinuations that her characters possess
+dark secrets emphasize the suspicious nature of the situation. She
+reveals nothing definite in these opening scenes, but she gives
+hints of ugly pasts: Vera recalls being acquitted by a coroner’s inquest,
+which typically takes place after a suspicious death; Lombard thinks
+about the fact that he has not always followed the law, but “always
+got away with it”; General Macarthur’s thoughts turn to a “damned
+rumour” that has dogged him for years; Dr. Armstrong thinks about
+how lucky he has been to “pull himself together” after some “business”
+years before. Even before the really sinister events begin, we recognize
+that each potential victim is also a potential suspect.</p>
+<p>	Christie also establishes a clear authorial presence
+in the first chapter. She creates a mood of foreboding by using
+the old seafaring man, who tells Blore that “the day of judgment
+is at hand.” Christie imbues the situation with an even more ominous
+tone when she explicitly states that Blore is wrong to assume that
+the old-timer is closer to judgment than he is. This foreshadowing
+sets a precedent for a significant authorial presence throughout
+the novel, as Christie repeatedly comments on events in a dramatic
+or even melodramatic fashion. Because <i>And Then There Were
+None</i> lacks a brilliant detective to serve as an agent of
+the moral order, the authorial presence must provide omniscient
+commentary on events.</p>
+<p>This kind of heavy-handed writing may be connected to
+the fact that <i>And Then There Were None</i> lacks the
+brilliant detective who usually plays a central role in murder mysteries.
+Figures like Sherlock Holmes or Christie’s own creations, Miss Marple
+and Hercule Poirot, typically serve as agents of the moral order,
+bringing their powers to bear on violent events and thereby investing
+them with meaning. With no such figure present in this novel, the
+authorial voice becomes stronger, providing the kind of omniscient
+commentary on events that a detective usually provides in works
+of the murder-mystery genre.</p>
+</div>
+<div class="clearFloats"></div>
+<div class="clearfix">
+<div class="right"> </div>
+<div style="clear:both;"></div>
+</div>
+<!-- psst!  did you know theres no quiz on this page? -->
+</div>
+<div class="white-background border-blue more-help interior">
+<h3>More Help</h3>
+<div class="more-help-interior">
+<ul class="clearfix is-inline" id="more-help-carousel">
+<li class="center">
+<a class="is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634682&amp;prid=1586634682" target="_blank">
+<img src="http://img.sparknotes.com/images/more_help/lit_guide_book.jpg">
+</img></a>
+<h5><a class="text-color is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634682&amp;prid=1586634682" target="_blank">Buy the print And Then There Were None SparkNote on BN.com</a></h5>
+</li>
+<li class="center">
+<a class="is-centered" href="http://www.barnesandnoble.com/w/and-then-there-were-none-sparknotes-literature-guide-agatha-christie/1104681316?ean=2940000054918" target="_blank">
+<img src="http://img.sparknotes.com/images/more_help/moreHelp_ebook.png">
+</img></a>
+<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/and-then-there-were-none-sparknotes-literature-guide-agatha-christie/1104681316?ean=2940000054918" target="_blank">Buy the ebook of this SparkNote on BN.com</a></h5>
+</li>
+<li class="center">
+<a class="is-centered" href="http://www.barnesandnoble.com/w/and-then-there-were-none-sparknotes-literature-guide-agatha-christie/1104681316?ean=9781411487123" target="_blank">
+<img src="http://img.sparknotes.com/images/more_help/moreHelp_pdf.png">
+</img></a>
+<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/and-then-there-were-none-sparknotes-literature-guide-agatha-christie/1104681316?ean=9781411487123" target="_blank">Download the PDF of this SparkNote on BN.com</a></h5>
+</li>
+<li class="center">
+<a class="is-centered" href="http://www.barnesandnoble.com/w/and-then-there-were-none-agatha-christie/1100155524?ean=9780312330873" target="_blank">
+<img src="http://img.sparknotes.com/content/cover/9780312330873.jpg">
+</img></a>
+<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/and-then-there-were-none-agatha-christie/1100155524?ean=9780312330873" target="_blank">Order And Then There Were None at BN.com</a></h5>
+</li>
+</ul>
+<a class="arrow" href="javascript: void(0)" id="carousel_prev">Previous</a>
+<a class="arrow" href="javascript: void(0)" id="carousel_next">Next</a>
+
+</div>
+</div>
+<div class="light-blue-background border-blue content">
+<div class="containerUGC">
+<div class="header clearfix">
+<h2 class="left"><a class="text-color" href="/lit/andthenthere/notes">Readers' Notes<br/>
+<span>Most Helpful Readers' Notes (8 total)</span>
+</a></h2>
+<a class="right semi-bold blue-block-link" href="javascript:void(0);" onclick="addNoteInternal('andthenthere', 'lit')">Add a note   →</a>
+</div>
+<div class="white-background noteContainer border-light-blue clearfix">
+<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/andthenthere/notes/674">Protagonist</a></h6>
+<h3>by <a class="semi-bold" href="/account/pbonner126">pbonner126</a>, August 22, 2013</h3>
+<p class="noteExcerpt"><p>Protagonist-the leading character, hero, or heroine of a drama or other literary work.</p>
+</p>
+<div class="clearfix">
+<p class="left">
+<a class="text-color border-0" href="/lit/andthenthere/notes/674"><span class="commentIcon"></span>1 Comments</a></p>
+<p class="right">
+<strong>1</strong> out of 
+	<strong>2</strong> people found this helpful
+    	</p>
+</div>
+</div>
+<div class="white-background noteContainer border-light-blue clearfix">
+<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/andthenthere/notes/1247">Mall di Jakarta</a></h6>
+<h3>by <a class="semi-bold" href="/account/saadillah">saadillah</a>, March 15, 2014</h3>
+<p class="noteExcerpt"><p>This mall di jakarta ... please welcome ..<br/>
+oke</p>
+<p><p><a href="http://infoejaman.blogspot.com/2014/03/bintaro-jaya-xchange-mall-pusat.html" rel="nofollow">
+http://infoejaman.blogspot.com/2014/03/bintaro-jaya-xchange-mall-pusat.html
+</a>
+</p><br/>
+<p><a href="http://infoejaman.blogspot.com/2014/03/bintaro-jaya-xchange-mall-pusat.html" rel="nofollow">
+http://infoejaman.blogspot.com/2014/03/bintaro-jaya-xchange-mall-pusat.html
+</a>
+</p></p>
+</p>
+<div class="clearfix">
+<p class="left">
+<a class="text-color border-0" href="/lit/andthenthere/notes/1247"><span class="commentIcon"></span>0 Comments</a></p>
+<p class="right">
+</p>
+</div>
+</div>
+<div class="white-background noteContainer border-light-blue clearfix">
+<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/andthenthere/notes/1258">I'm saved!</a></h6>
+<h3>by <a class="semi-bold" href="/account/DangoCake913">DangoCake913</a>, March 19, 2014</h3>
+<p class="noteExcerpt"><p>I was doing a project on this book and I procrastinated until the end and it's due in two days (yeah I know procrastinating is bad...) so this saved me from having to reread the entire book again!<br/>
+*cries happy tears*<br/>
+(^ •u• ^)<br/>
+cats</p>
+</p>
+<div class="clearfix">
+<p class="left">
+<a class="text-color border-0" href="/lit/andthenthere/notes/1258"><span class="commentIcon"></span>3 Comments</a></p>
+<p class="right">
+<strong>7</strong> out of 
+	<strong>9</strong> people found this helpful
+    	</p>
+</div>
+</div>
+<h5 class="center"><a href="/lit/andthenthere/notes">See all 8 readers' notes   →</a></h5>
+</div>
+</div>
+</div>
+<div class="col-1-3 last">
+<div class="border-blue white-background lit-guides-social">
+<h3>Follow Us</h3>
+<div class="fb-like" data-href="https://www.facebook.com/SPARKNOTES" data-send="false" data-show-faces="true" data-width="270"></div>
+<a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/SparkNotes">Follow @SparkNotes</a>
+
+</div><div class="white-background border-blue blog-feature">
+<h3 class="sparklife-logo-home"><a class="hide-text" href="http://community.sparknotes.com/">SparkLife</a></h3>
+<h2>Take a Study Break!</h2>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaygift15study.gif	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide">Things we want more than a date this V Day</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/benbarnesstudy.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges">Ben Barnes spoke to us and revealed his secret nerdy habit (it's a WHOPPER!)</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaycustomstudy.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts">We made Valentines for everyone who thinks love is just a shout into the void but yells anyway</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/horscrstudy.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be">We want to know: what would YOUR horcrux be?</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/litval15study.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes">The best imaginary Valentines you could hope for...</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/tv2015study.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why">Get out your sitting pants, these awesome TV shows are back SOON!</a></h4>
+</div>
+</div>
+<h3 class="geekOut border-top-blue"><a class="hide-text" href="http://www.sparknotes.com/mindhut">The MindHut</a></h3>
+<h2>Take a Study Break!</h2>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/grosssodaz0_Slidemhthumbcar.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition">The Sparkitors review GROSS SODAS</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/lyriczzznewthumbnewlyrcsz.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science">Pop lyrics explained by SCIENCE!</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/OldTechBigMoney2_Slidemhcar.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today">You'll never believe how much this computer is worth</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/docwhomtsdocseussmhcar.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers">Doctor Who meets Dr. Seuss</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/WeirdAnimalPoops0_Slidethumbzzz.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop">This post is 100% about weird animal poop</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/couldanotsuckkkked.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help">The Last Airbender could have rocked if they'd just done THIS</a></h4>
+</div>
+</div>
+</div>
+<!-- todo: include GlobalTemplatePlugin/modules/project_templates/templates/_bookBlogPosts.php here -->
+<div class="light-grey-white-background border-blue padding-15 margin-btm-30">
+<h3 class="bnBookBlog">
+<a class="hide-text" href="http://www.barnesandnoble.com/blog/">From the B&amp;N; Book Blog</a>
+</h3>
+<div class="clearfix media sidebar-media">
+<a href="">
+<a class="fixed-media" href="http://bit.ly/1C0XZ91"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AlexCrow_LargeWide.jpg"/></a>
+</a>
+<div class="media-text">
+<h4 class="semi-bold">
+<a href="http://bit.ly/1C0XZ91">7 Totally Weird, Totally Awesome YA Novels</a> </h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media">
+<a href="">
+<a class="fixed-media" href="http://bit.ly/1vqrLVr"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AAnarrators_LargeWide.jpg"/></a>
+</a>
+<div class="media-text">
+<h4 class="semi-bold">
+<a href="http://bit.ly/1vqrLVr">8 Great YA Novels with African American Narrators</a> </h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media">
+<a href="">
+<a class="fixed-media" href="http://bit.ly/1zxaolZ"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_GroundhogDay_LargeWide.jpg"/></a>
+</a>
+<div class="media-text">
+<h4 class="semi-bold">
+<a href="http://bit.ly/1zxaolZ">5 Time-Looping Tales Perfect for Groundhog Day</a> </h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media">
+<a href="">
+<a class="fixed-media" href="http://bit.ly/1LEwN5z"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_readermultitasking_LargeWide.jpg"/></a>
+</a>
+<div class="media-text">
+<h4 class="semi-bold">
+<a href="http://bit.ly/1LEwN5z">Dos and Dont’s of Multitasking While Reading</a> </h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media">
+<a href="">
+<a class="fixed-media" href="http://bit.ly/1BPyJA6"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_litladyjan27_LargeWide.jpg"/></a>
+</a>
+<div class="media-text">
+<h4 class="semi-bold">
+<a href="http://bit.ly/1BPyJA6">How to Get Your Parents to Read Your Favorite Book</a> </h4>
+</div>
+</div>
+</div>
+<div class="center">
+<div class="is-centered border-grey">
+
+
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<footer>
+<div class="dark-grey-background">
+<div class="clearfix center centered-width footer">
+<h6 class="semi-bold">When your books and teachers don't make sense, we do.</h6>
+<navigation>
+<ul class="clearfix is-inline is-centered semi-bold">
+<li class="first"><a href="http://www.sparknotes.com/contact/">Contact Us</a></li>
+<li><a href="http://www.sparknotes.com/legal/">Legal</a></li>
+<li><a href="http://www.sparknotes.com/about/">About</a></li>
+<li><a href="http://www.sparknotes.com/sitemap/">Sitemap</a></li>
+<li><a href="http://www.sparknotes.com/mobile-apps/">Mobile Apps</a></li>
+<li><a href="http://www.sparknotes.com/advertisers/">Advertise</a></li>
+<li><a class="hide-text small-facebook" href="http://www.facebook.com/SPARKNOTES">Facebook</a></li>
+<li><a class="hide-text small-twitter" href="https://twitter.com/SparkNotes">Twitter</a></li>
+</ul>
+<p class="is-centered">SparkNotes is brought to you by <a href="http://www.barnesandnoble.com/">B&amp;N</a>. Visit B&amp;N to buy and rent <a href="http://www.barnesandnoble.com/textbooks/index.asp">textbooks</a>, and check out our award-winning tablets and ereaders, including <a href="http://www.barnesandnoble.com/u/samsung-galaxy-tab-4-nook-tablet/379004262">Samsung Galaxy Tab 4 NOOK</a> and <a href="http://www.barnesandnoble.com/u/nook-glowlight-ereader/379004122">NOOK GlowLight</a>.</p>
+</navigation>
+<p class="is-centered small">© 2015 <a class="light-grey" href="http://www.sparknotes.com/">SparkNotes LLC</a>, All Rights Reserved</p>
+</div>
+</div>
+</footer>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+
+<noscript>
+<div>
+<img alt="" height="1" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704167h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1"/>
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+</div>
+
+
+
+
+</div>
+</body>
+</html>

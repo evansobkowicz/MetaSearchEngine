@@ -1,0 +1,13 @@
+Title: The Name of the Rose (1986) - Synopsis
+Date: Mon, 09 Feb 2015 20:44:49 GMT
+Server: HTTPDaemon
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private
+Expires: Thu, 01 Jan 1970 22:00:00 GMT
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: uu=BCYowI9EtJZIXnP3rUfM-B6K8BVj2B-xBg0vTcbCey8qeUBqQnvMcpxRBUp--hLstru8Pj4cQ-W4rqRIxVc9AZ0kJqAw7_xIBEZmnDx4g6HF-3d5fiC344TAg-VUvQ_m1s8M2VGYuE6b5er3jgIL27hiZwACEpSH-lLgAa-m_riO4cM;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=L/B/oJMEK2W95ZImKyLCKgbGfbqgkW2NmIHl2qPy7iojoj6p4DJ++YCRbYoGES2aoJFb/fXSLbqjhU6/h9HNyeCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Tue, 10 Feb 2015 08:00:00 GMT;path=/;domain=.imdb.com
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

@@ -1,0 +1,16 @@
+Title: Amazon.com: And Then There Were None (9780062073488): Agatha Christie: Books
+Date: Mon, 09 Feb 2015 20:42:56 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 0G2WS30JK5KD65TQW84Z
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: book_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: 1P9E3nB8KRpBg+xD2hMz5TIj8S9w/R++PCIvTJKFUa3tU/pc9eFSa6RWlGVRJSKm
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+

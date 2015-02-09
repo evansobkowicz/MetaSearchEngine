@@ -1,0 +1,13 @@
+Title: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) - IMDb
+Date: Mon, 09 Feb 2015 20:43:17 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYi4yaLsJ488hpv5EqO0Asf0zVSFx0X_TIPF8BmtTOZbfP5tC9i9ytAE3nQGxR7kwvp0h4WhbzJ%0D%0Aoji1HdBy0H9L7dZGDWYHCDD8mFvGMNd1km1EdJaoWAW5AI6WsRy7738mTAJuRQKk9BxAiaC00DOE%0D%0AAcm_61Fv7moN7OObiwX0PjoxZWgslurfiCMDLTGsBvlTs_2KM3MLHEMBonmNVVB8D57eobUPn65Q%0D%0A9kXAkVhPoKMok__NKWGMg7jLS0OsuC_6Hd64Ss-5a47Z_Jv6DZJZLg%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:57:24 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:57:24 GMT; Path=/
+Set-Cookie: session-id-time=1581194597; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:57:24 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

@@ -1,0 +1,16 @@
+Title: The Name of the Rose by Umberto Eco
+Date: Mon, 09 Feb 2015 20:45:01 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+X-Host: p8w4.geo.ne1.yahoo.com
+X-INKT-URI: http://www.postmodernmystery.com//name_of_the_rose.html
+X-INKT-SITE: http://www.postmodernmystery.com
+Last-Modified: Tue, 23 Aug 2011 21:57:20 GMT
+Accept-Ranges: bytes
+Content-Length: 45048
+Vary: Accept-Encoding
+Content-Type: text/html
+Cache-Control: private
+Age: 0
+Connection: close
+Server: ATS/5.0.1
+

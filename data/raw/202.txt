@@ -1,0 +1,1237 @@
+
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+<head><meta charset="utf-8"/><title>
+	The Eagle Has Landed
+</title>
+<meta content="The Eagle Has Landed" name="title"/>
+<meta content="The Eagle has Landed,Eagle Has Landed" name="keywords"/>
+<meta content="The Eagle Has Landed is a book by Jack Higgins set during World War II. It first published in 1975. It was made into a film of the same name in 1976 starring Michael Caine, Donald Sutherland, Jenny Agutter and Robert Duvall. The plot has similarities with that of Went the Day Well?, a film made duri..." name="description"/>
+<meta content="845129225512039" property="fb:app_id"/>
+<meta content="The Eagle Has Landed" property="og:title"/>
+<meta content="Quazoo" property="og:site_name"/>
+<meta content="The Eagle Has Landed is a book by Jack Higgins set during World War II. It first published in 1975. It was made into a film of the same name in 1976 starring Michael Caine, Donald Sutherland, Jenny Agutter and Robert Duvall. The plot has similarities with that of Went the Day Well?, a film made duri..." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="http://upload.wikimedia.org/wikipedia/en/d/dc/TheEagleHasLanded.jpg" property="og:image"/>
+<meta content="http://www.quazoo.com/q/The_Eagle_Has_Landed" property="og:url"/>
+<meta content="6A9E1CBE4E0FCE3FD920D83589A71722" name="msvalidate.01"/><meta content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,width=device-width,user-scalable=no" id="viewport" name="viewport"/><link href="../icon.ico" rel="shortcut icon" type="image/x-icon"/>
+
+<link href="/App_Themes/DefaultTheme/Default.css?v=50" rel="stylesheet" type="text/css"/>
+<link href="/App_Themes/DefaultTheme/WikipediaStyle.css?v=50" rel="stylesheet" type="text/css"/>
+<link href="/Content/themes/base/jquery.ui.all.css?v=50" rel="stylesheet" type="text/css"/>
+<link href="/Content/themes/base/jquery.autocomplete.css?v=50" rel="stylesheet" type="text/css"/>
+<link href="/Content/themes/base/menu.css?v=50" rel="stylesheet" type="text/css"/>
+<link href="/Content/themes/base/subModal.css?v=50" rel="stylesheet" type="text/css"/>
+</head>
+<body style="background-color:rgb(255, 255, 255);">
+<form action="The Eagle Has Landed?q=The+Eagle+Has+Landed" id="form1" method="post">
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwULLTE5MTUwMjQzMDcPZBYCZg8PFgQeD19fQW50aVhzcmZUb2tlbgUgZDk0ZjYxMzZiNmVhNGE3YmI5ZjU4ZWIxYzMwMzJlNGUeEl9fQW50aVhzcmZVc2VyTmFtZWVkZGScU0XgqR79QaV3jOLWc/7ALkySt6qDjziSM15y0Nq1QA=="/>
+<div id="pageWrap">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="divBannerTopAds" style="display:none;height:94px;position:fixed;background-color:white;z-index:9001;">
+<table style="width:100%;height:90px;margin:2px 0px 2px 0px;border:1px solid rgb(220, 220, 220);background-color:white;">
+<tr>
+<td></td>
+</tr>
+</table>
+</div>
+<div id="area_Option_Banner">
+<table border="0" id="tblOptionBanner" style="padding:0px;border-spacing:0px;width:100%;height:20px;background-color:rgb(0, 204, 255);">
+<tr>
+<td style="vertical-align:top;padding:0px;border-spacing:0px;border:0px;text-align:center;">
+<span id="spEditPortalDisplay" style="display:none"><a class="linkBlue" onclick="EditPortalDisplay();">edit</a><br/></span>
+<span id="spBecomeEditor" style="font-size:87.5%;color:white;font-weight:bold;display:none;"><a class="linkBlue" id="aBecomeEditor" onclick="SaveCollection();">create an album with this name</a><br/></span>
+<span id="spEditMode" style="font-size:87.5%;color:white;font-weight:bold;display:none;">The Eagle Has Landed  <a class="linkBlue" id="aEditMode" onclick="EditCollectionName();">Save</a><br/></span>
+<span id="spRedirectFrom" style="font-size:14px;color:white;font-weight: normal;display:none;">redirect from: <a class="link" id="aRedirectFrom"></a><br/></span>
+<span id="spAlertEnabled" style="color: #00FF00; font-size: 87.5%;font-weight:bold;display:none;">Alert enabled<br/></span>
+<span id="spProcessingCollection" style="color: #FFFFFF; font-size: 87.5%;font-weight:bold;display:none;">processing...<br/></span>
+</td>
+</tr>
+</table>
+</div>
+<div id="area_topConnections" style="overflow-x:auto;overflow-y:hidden;border:0px solid transparent;height:30px;-webkit-overflow-scrolling: touch;">
+<table style="width:100%;border-spacing:0px;margin-bottom: 5px;border:0px;">
+<tr>
+<td colspan="2" id="tdTopConnections" style="vertical-align:middle;text-align:center;height:20px;border-bottom:1px solid rgb(220, 220, 220);">
+<table border="0" id="tblTopConnections" style="width:100%;border-spacing:0px;">
+<tr>
+<td>
+<center>
+<table border="0" id="tblConnections" style="padding:0px;"></table>
+</center>
+</td>
+</tr>
+</table>
+<div id="mobileTopConnections" style="overflow-x:auto;overflow-y:hidden;border:0px solid transparent;height:30px;-webkit-overflow-scrolling: touch;padding-top:5px;">
+<table id="tblTopMobileConnections" style="width:100%;padding:0px 0px 0px 0px;text-align:center; vertical-align:middle;height:20px;display:none;border:0px solid black;">
+<tr>
+<td>
+<center>
+<ul id="ulConnections" style="list-style-type: none;height: 20px;vertical-align:top;overflow-x:auto;overflow-y:hidden;margin: 0 0 0 0;border:0px solid black;text-align: center;white-space:nowrap;">
+</ul>
+</center>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="area_top" style="border:0px solid blue;">
+<table border="0" id="tblAreaTop" style="width:100%;padding:0px 20px 0px 20px;border-spacing:0px;margin-bottom: 5px;">
+<tr>
+<td id="tdTitle" style="height:34px;padding-top:5px;background-color:rgba(250, 250, 250, 1);border-bottom:1px solid rgb(220, 220, 220);">
+<table style="border:0px;height:28px;padding:0px;border-spacing:0px;background-repeat: repeat-x;width:100%;">
+<tr>
+<td id="tdLogoZone" style="vertical-align:middle;text-align:left;width:100px;padding-bottom:2px;padding-left:7px;">
+<img id="imgShowTree" src="http://www.quazoo.com/Images/showTree.png?v=1" style="cursor:pointer;vertical-align:top;padding-top:2px;" width="18"/>
+<span id="spTabName" style=" font-size:100%;cursor:pointer;padding-top:2px;font-family:'Arial Narrow';">MENU</span>
+<span id="spOption" style="display:none;">
+<a id="aSlideshowColHome" onclick="window.location.href='http://www.quazoo.com';" style="font-family:'Arial Narrow';font-size:75%;color:rgb(159, 159, 159);cursor:pointer;"><img id="imgHomeIcon" src="http://s2.quazoo.com/Pictures/Collections/90/5778131/THUMB_5778131_70_70.jpg?v=1" style="cursor:pointer;padding-top:3px;padding-right:2px;vertical-align:top;width:15px;"/>HOME</a><span id="sepOption1" style="font-family:'Arial Narrow';font-size:75%;color:rgb(127, 127, 127);cursor:pointer;padding:0px 2px 0px 4px;">|</span>
+<a href="http://www.quazoo.com/q/The Eagle Has Landed" id="aSlideshowColAll" style="font-family:'Arial Narrow';font-size:75%;color:black;cursor:pointer;text-decoration:none;">ALL</a><span id="sepOption2" style="font-family:'Arial Narrow';font-size:62.5%;color:rgb(127, 127, 127);cursor:pointer;padding:0px 2px 0px 4px;">•</span>
+<a href="http://www.quazoo.com/q/The Eagle Has Landed?tab=videos" id="aSlideshowColVideos" rel="nofollow" style="font-family:'Arial Narrow';font-size:75%;color:rgb(159, 159, 159);cursor:pointer;text-decoration:none;">VIDEOS</a><span id="sepOption3" style="font-family:'Arial Narrow';font-size:62.5%;color:rgb(127, 127, 127);cursor:pointer;padding:0px 2px 0px 4px;">•</span>
+<a href="http://www.quazoo.com/q/The Eagle Has Landed?tab=images" id="aSlideshowColImages" style="font-family:'Arial Narrow';font-size:75%;color:rgb(159, 159, 159);cursor:pointer;text-decoration:none;">IMAGES</a><span id="sepOption4" style="font-family:'Arial Narrow';font-size:62.5%;color:rgb(127, 127, 127);cursor:pointer;padding:0px 2px 0px 4px;">•</span>
+<a href="javascript:void(0)" id="aSlideshowColMore" onclick="ShowMoreTabs()" style="font-family:'Arial Narrow';font-size:75%;color:rgb(159, 159, 159);cursor:pointer;text-decoration:none;">MORE</a>
+</span>
+</td>
+<td id="tdCollectionName" style="vertical-align:bottom;color: rgb(0, 0, 0);display:none;font-family: 'Arial Narrow';text-align:center;">
+</td>
+</tr>
+</table>
+</td>
+<td id="tdMenuSettings" style="vertical-align:top;text-align:right;width:36px;height:35px;padding-top:10px;background-color:rgba(250, 250, 250, 1);border-bottom:1px solid rgb(220, 220, 220);">
+<table style="border:0px solid black;padding:0px;border-spacing:0px;width:100%;">
+<tr>
+<td>
+<table border="0" style="padding:0px 10px 0px 0px;border-spacing:0px;display:table;">
+<tr>
+<td align="right" id="tdSearchBox" style="display:none;vertical-align:middle;white-space:nowrap;color: rgb(0, 0, 0);">
+<input id="txtQuickSearch" onclick="OpenQuickPrompts();" style="height:20px;width:155px;font-size: 100%;font-style: normal;font-family:'Arial Narrow';font-weight: normal;border:1px solid rgb(200, 200, 200);color:rgb(0, 0, 0);padding-left:5px;-webkit-appearance: none;-webkit-border-radius:0;border-radius:0;" type="text" value=""/>
+</td>
+<td style="padding-top:2px; width:16px;text-align:right;">
+<img alt="" height="16" id="imgSearchTopics" onclick="ShowTreeLeft('searchbox');" src="http://www.quazoo.com/images/inpRoundSearchLoop.png" style="cursor: pointer;" width="16"/>
+</td>
+<td style="padding-left:2px; width:16px;">
+<img height="16" id="imgAddTopics" onclick="ShowTreeLeft('moreoption');" src="http://www.quazoo.com/images/addQuazooWhite.png" style="cursor: pointer; border: 0px;padding-left: 10px;" width="16"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="vertical-align:top;">
+<div id="areaLeft" style="overflow-y:hidden;overflow-x: hidden;height: 0px;display:none;width:100%;border:0px solid black;">
+<table border="0" style="border-spacing:0px;">
+<tr>
+<td id="tdOverview" style="text-align: center;padding-bottom:5px;">
+</td>
+</tr>
+<!-- <tr>
+                                <td id="tdTopicName" style="background-color:rgba(255, 255, 255, 1);text-align:left;padding-top:5px;padding-left:5px;">
+                    
+                                </td>
+
+                                <td id="tdRemoveFeedTopic"  style="background-color:rgba(255, 255, 255, 1);text-align:right;padding-top:0px;padding-right:10px;">
+
+                                </td>
+                            </tr>-->
+<tr>
+<td>
+<div id="areaTree" style="border:0px solid Black;overflow-y:hidden;overflow-x: hidden;border:0px solid red;">
+<table border="0" id="tblTopicTree" style="border-spacing:0px;padding:0px 20px 0px 20px;">
+<tr>
+<td id="tdTopicTree" style="text-align: center;line-height:0px;border:0px solid red;">
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td id="tdMenu" style="height: 60px;padding:15px 0px 20px 0px;display:none;">
+<center>
+<table border="0" style="padding-right:10px;">
+<tr>
+<td style="text-align: center;padding-left:100px;">
+<center>
+<table border="0" style="width:132px;background-color:white;border-spacing:0px;border:1px solid rgb(220, 220, 220);padding:0px;height:18px;">
+<tr>
+<td style="width: 185px;">
+<input autocomplete="off" class="ac_input" id="txtTreePrompts" onclick="ClearTreePrompts();" style="height:18px;width: 130px;padding-left: 5px;font-size: 100%; font-family: 'Arial Narrow'; font-weight: normal; border: 0px none;background-color: rgb(255, 255, 255); outline-width: 0px;color:rgb(159, 159, 159)" type="text" value="New topic">
+</input></td>
+<td style="width:15px;padding-right: 4px;">
+<span onclick="InsertTreeTopic();" style="font-size:112.5%;cursor:pointer;">+</span>
+</td>
+</tr>
+</table>
+</center>
+</td>
+<td style="padding-left:10px;vertical-align:middle;">
+<a id="aTreeInsertDivider" onclick="InsertTreeDivider()" rel="nofollow" style="text-decoration:none;font-size:87.5%;font-family:'Arial Narrow';color:#00B0F0;cursor:pointer;">Divider</a>
+</td>
+<td style="padding-left:10px;vertical-align:middle;">
+<a id="aInsertTitle" onclick="ShowAddTitle()" rel="nofollow" style="text-decoration:none;font-size:87.5%;font-family:'Arial Narrow';color:#00B0F0;cursor:pointer;">Title</a>
+</td>
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="divShowMoreTabs" style="width:70px;height: 50px;border: 1px solid #dfdfdf;display:none;position:fixed;z-index: 9007;background-color: white;padding:0px 5px 0px 5px;">
+<table>
+<tr>
+<td>
+<a href="http://www.quazoo.com/q/The Eagle Has Landed?tab=news" id="aSlideshowColNews" rel="nofollow" style="font-family:'Arial Narrow';font-size:75%;color:rgb(159, 159, 159);cursor:pointer;text-decoration:none;">NEWS</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="http://www.quazoo.com/q/The Eagle Has Landed?tab=shops" id="aSlideshowColShop" rel="nofollow" style="font-family:'Arial Narrow';font-size:75%;color:rgb(159, 159, 159);cursor:pointer;text-decoration:none;">SHOPS</a><sup id="supShop" style="color:red;font-size:10px;"><i>New</i></sup>
+</td>
+</tr>
+</table>
+</div>
+<div id="divHideTree" onclick="HideTreeLeft()" style="width: 30px; height: 30px; position: fixed; z-index: 9007; background-color: transparent;cursor:pointer;display:none;">
+<table>
+<tr>
+<td>
+<img src="http://www.quazoo.com/images/arrowLeft.png" style="cursor: pointer;" title="CLOSE MENU"/>
+</td>
+</tr>
+</table>
+</div>
+<div id="area_bottom" style="overflow-x:auto;overflow-y:hidden;border:0px solid transparent;height:30px;-webkit-overflow-scrolling: touch;display:none;">
+<table border="0" id="tblAreaBottom" style="width:100%;padding-top:7px;border-spacing:0px;">
+<tr>
+<td style="vertical-align:middle;text-align:center;height:15px;border-top:1px solid rgb(200, 200, 200);padding-bottom:5px;">
+<table border="0" id="tblPopular" style="padding:0px; border-spacing:0px;"></table>
+</td>
+</tr>
+</table>
+<table id="tblAreaBottomMobile" style="width:100%;margin-top:5px; padding:0px 0px 5px 0px;border-top:1px solid rgb(200, 200, 200);display:table-cell;display:none;">
+<tr>
+<td id="tdCarousel" style="background-color:rgb(255, 255, 255);">
+<ul id="ulCarousel" style="list-style-type: none;height: 30px;vertical-align:top;overflow-x:auto;overflow-y:hidden;margin: 0.1em 0 0 0;">
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<!-- Slideshow zone;-->
+<div id="divOpacity" style="position:fixed; z-index: 9002; display: none; width: 0px;height: 0px; top: 0px; left: 0px;overflow:hidden;">
+</div>
+<div id="divUserNoAccount" style="position:fixed; z-index: 9011; display: none; width: 0px;height: 0px; top: 0px; left: 0px;overflow:hidden;background-color:rgb(250, 250, 250);">
+<table id="tblUserAccount" style="width:100%;padding:10px 20px 70px 90px">
+<tr>
+<td colspan="2" style="text-align:right">
+<a class="link_subsection_normal" onclick="SkipStep();" rel="nofollow">Skip</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" id="tdWelcome" style="padding-top:75px;font-size:150%;font-family: 'Arial Narrow';">
+                    Welcome to Quazoo !
+                </td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:left;padding-top:25px;">
+<span style="font-family: 'Arial Narrow';font-size:110%;">Subscribe to receive information and news about Quazoo</span>
+</td>
+</tr>
+<tr>
+<td style="width:90px;padding-top:3px;">
+<span style="font-family: 'Arial Narrow';font-size:110%;">Your email:</span>
+</td>
+<td style="padding-top:5px;">
+<input id="inpUserEmailNoAccount" onkeypress="return  SaveEmailEvent(event);" style="width:250px"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" id="tdEmailDone" style="text-align:right;padding-top:40px;padding-right:50px">
+<a class="link_subsection_normal" onclick="SaveEmail();" rel="nofollow">SUBSCRIBE</a>
+</td>
+</tr>
+</table>
+</div>
+<div id="divWikipedia" style="position:fixed;z-index: 9006;display: none; width: 0px;height: 0px; top: 0px; left: 0px;overflow:hidden;">
+<iframe id="frmWikipedia" style="border:0px;overflow-x:hidden;overflow-y:auto;width:100%;padding:0px;display:block;"></iframe>
+</div>
+<div id="divTopics" style="position:fixed;z-index: 9002;display: none; width: 0px;height: 0px; top: 0px; left: 0px;overflow:auto;">
+</div>
+<div id="divCloseX" style="position:fixed;z-index: 9006;display: none; width: 20px;height: 25px; top: 0px; left: 0px;padding:10px 10px 10px 10px;overflow:hidden;background-color:white;cursor:pointer;">
+<table border="0" style="width:100%;padding:0px;border-spacing:0px;">
+<tr>
+<td id="tdCloseX" style="padding-bottom:15px;color:rgb(255, 255, 255);font-family:Tahoma;font-size:175%;" title="close">
+<img onclick="HideFeeds(false)" src="http://www.quazoo.com/images/closeSlideshow.png" title="close"/>
+</td>
+</tr>
+</table>
+</div>
+<div id="divFeed" style="position:fixed;z-index: 9002;display: none; width: 0px;height: 0px; top: 0px; left: 0px;overflow:hidden;background-color:transparent;;">
+<table border="0" style="width:100%;border-spacing:0;padding:0px">
+<tr>
+<td id="tdFeedName" style="height:50px;background-color:transparent;vertical-align:bottom">
+</td>
+</tr>
+<tr>
+<td id="tdFeed" style="text-align:center">
+</td>
+</tr>
+<tr>
+<td id="tdFeedSoruce" style="height:20px;background-color:transparent;text-align:right;vertical-align:top;color:#7F7F7F;font-size:87.5%;font-family:Arial Narrow;"></td>
+</tr>
+<tr>
+<td id="tdFeedAds" style="text-align:center;height:100px;background-color:transparent;">
+</td>
+</tr>
+</table>
+</div>
+<div id="divPrev" style="position:fixed;z-index: 9004;display: none; width: 0px;height: 0px; top: 0px; left: 0px;overflow:hidden;background-color:rgb(0, 0, 0);">
+<table border="0" style="width:100%;border-spacing:0;padding:0px;">
+<tr>
+<td id="tdPrev" style="vertical-align:top;text-align:center;">
+<span id="spPrev" style="font-size:450%;font-family:Calibri;color:rgb(255,255,255);cursor:pointer;display:none;">‹</span>
+</td>
+</tr>
+</table>
+</div>
+<div id="divMainPrev" style="position:absolute;z-index: 9004;display: none; width: 0px;height: 0px; top: 0px; left: 0px;overflow:hidden;background-color:rgb(0, 0, 0);">
+<table border="0" style="width:100%;border-spacing:0;padding:0px;">
+<tr>
+<td id="tdMainPrev" style="vertical-align:top;text-align:center;">
+<span id="spMainPrev" style="font-size:450%;font-family:Calibri;color:rgb(255,255,255);cursor:pointer;display:none;">‹</span>
+</td>
+</tr>
+</table>
+</div>
+<div id="divNext" style="position:fixed;z-index: 9004;display: none; width: 0px;height: 0px; top: 0px; left: 0px;overflow:hidden;background-color:rgb(0, 0, 0);">
+<table border="0" style="width:100%;border-spacing:0;padding:0px;">
+<tr>
+<td id="tdNext" style="vertical-align:top;text-align:center;">
+<span id="spNext" style="font-size:450%;font-family:Calibri;color:rgb(255,255,255);cursor:pointer;display:none;">›</span>
+</td>
+</tr>
+</table>
+</div>
+<div id="divMainNext" style="position:absolute;z-index: 9004;display: none; width: 0px;height: 0px; top: 0px; left: 0px;overflow:hidden;background-color:rgb(0, 0, 0);">
+<table border="0" style="width:100%;border-spacing:0;padding:0px;">
+<tr>
+<td id="td2" style="vertical-align:top;text-align:center;">
+<span id="spMainNext" style="font-size:450%;font-family:Calibri;color:rgb(255,255,255);cursor:pointer;display:none;">›</span>
+</td>
+</tr>
+</table>
+</div>
+<div id="areaOverSlideshow" style="width:140px;height:40px;border:0px solid White;position:fixed;z-index: 9005; display: none; top: 0px; left: 0px;overflow:hidden;">
+<table border="0" id="tblOverSlideshow" style="width:100px;border-spacing:0;padding:5px 10px 5px 10px;display:table;background-color:transparent;">
+<tr>
+<td style="padding-top:3px;width:20px;">
+<img id="btnPlaySlideshow" onclick="StartSlideshow()" src="http://www.quazoo.com/images/playButtonSlideshow.png" style="cursor:pointer;display:none;" title="play">
+</img></td>
+<td style="padding-left:10px;">
+<img id="slideThumbUp" src="http://www.quazoo.com/images/ThumbUpWhite.png" style="cursor:pointer" title="like">
+</img></td>
+<td style="padding-top:8px;padding-left:10px">
+<img id="slideThumbDown" src="http://www.quazoo.com/images/ThumbDownWhite.png" style="cursor:pointer" title="don't like">
+</img></td>
+<td style="padding-top:5px;padding-left:10px;">
+<img height="16px" id="aFlagImage" onclick="jvascript:void(0);" src="http://www.quazoo.com/Images/emptyFlag.png" style="cursor:pointer;" title="flag">
+</img></td>
+<td style="padding-top:5px;padding-left:10px;">
+<img height="16px" id="aShareSlideshow" onclick="ShowSlideshowMenu();" src="http://www.quazoo.com/Images/shareIcon.png" style="cursor:pointer;" title="share">
+</img></td>
+</tr>
+</table>
+</div>
+<div id="divShowInformation" style="display:none;z-index:9006;top:15px;position:absolute;">
+<img src="http://www.quazoo.com/Images/downArrow.png" title="show information"/>
+</div>
+<div id="divMoreOption" style="width:160px;border: 1px solid #dfdfdf;display:none;position:fixed;z-index: 9008;background-color: white;">
+<table style="padding: 0px 0px 5px 10px;width:100%;">
+<tr>
+<td style="padding-bottom: 5px;padding-top:10px;display:none">
+<input autocomplete="off" class="ac_input" id="txtSubmitLink" onclick="$(this).val(''); $(this).css('color', 'black');" oncontextmenu="$(this).val(''); $(this).css('color', 'black');" style="width: 130px; font-size: 100%; font-family: 'Arial Narrow'; border: 1px solid gray; font-weight: normal;border:1px solid rgb(220, 220, 220); background-color: rgb(255, 255, 255); padding-left: 5px; outline-width: 0px;height:16px;" type="text"/>
+</td>
+</tr>
+<tr>
+<td style="border-bottom:1px solid #dfdfdf;padding-bottom: 5px;padding-left:7px;display:none">
+<a class="link_subsection_disabled" id="aConnect" rel="nofollow">Connect</a>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 5px;padding-top:5px;padding-left:7px;display:none">
+<a class="link_subsection_disabled" id="aTreeAddList" rel="nofollow">Add topics</a>
+</td>
+</tr>
+<tr>
+<td style="border-bottom:1px solid #dfdfdf;padding-bottom: 5px;padding-left:7px;display:none">
+<a class="link_subsection_disabled" id="aEditMenuCollectionTree" rel="nofollow">Name, editors</a>
+</td>
+</tr>
+<!--<tr>
+                <td style="padding-bottom: 0px;padding-top:5px;padding-left:7px;">
+                     <table id="tblLikeMenu" style="padding:0px 5px 0px 5px;cursor:pointer;" onclick='LikeCollection("aLikeMenuCollection577208", 577208,  " + DisplayColID + ", " + UserID + ", true, false, \"" + collection.DNS + "\", \"" + LocalDNS + "\")'>
+                        <tr>
+                            <td style="vertical-align:middle">
+                                <img src="http://www.snipview.com/Images/ThumbUpBlue.png" height="16px" id="aLikeMenuCollection577208"  />
+                            </td>
+                            <td style="vertical-align:middle;padding-top:3px;">
+                                <span style="color:#00b0f0;font-size:100%;padding-left:2px;font-family:Arial Narrow;">Like</span>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>  -->
+<tr>
+<td style="padding-bottom: 0px;padding-top:5px;padding-left:7px;">
+<table id="tblShareMenu" onclick="ShareQuazooCollection(event, 577208, 'The Eagle Has Landed', 'The_Eagle_Has_Landed', 's4.quazoo.com', 'The Eagle Has Landed is a book by Jack Higgins set during World War II. It first published in 1975. It was made into a film of the same name in 1976 starring Michael Caine, Donald Sutherland, Jenny Agutter and Robert Duvall. The plot has similarities with that of Went the Day Well?, a film made duri...', 'http://upload.wikimedia.org/wikipedia/en/d/dc/TheEagleHasLanded.jpg', '-1', '', 'divMoreOption');" style="padding:0px 5px 0px 5px;cursor:pointer;">
+<tr>
+<td style="vertical-align:middle">
+<img height="16px" id="aShareMenuCollection577208" src="http://www.snipview.com/Images/shareIconBlue.png">
+</img></td>
+<td style="vertical-align:middle;padding-top:3px;">
+<span style="color:#00b0f0;font-size:100%;padding-left:2px;font-family:Arial Narrow;">Share</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-bottom:1px solid #dfdfdf;padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<table onclick="OpenFlagColAdminMenu(577208, 's4.quazoo.com', 'aFlagCollection');" style="padding:0px 5px 0px 5px;cursor:pointer;">
+<tr>
+<td style="vertical-align:middle">
+<img height="16px" id="aFlagCollection577208" src="http://www.snipview.com/Images/emptyFlagBlue.png"/>
+</td>
+<td style="vertical-align:middle;padding-top:3px;">
+<span style="color:#00b0f0;font-size:100%;padding-left:2px;font-family:Arial Narrow;">Flag</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 0px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.webvision.us/Contact.aspx" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;" target="_blank">Contact</a>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 5px;padding-top:5px;padding-left:7px;display:none">
+<a class="link_subsection_normal" onclick="ShowSettings()" rel="nofollow">Settings</a>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 5px;padding-left:7px;display:none">
+<a class="link_subsection_normal" href="http://www.quazoo.com/SignOut" rel="nofollow">Sign out</a>
+</td>
+</tr>
+<tr>
+<td style="border-top:1px solid #dfdfdf;padding-bottom: 5px;padding-top:5px;padding-left:7px;display:none">
+<a class="link_subsection_normal" onclick="ShowProfileMenu();" rel="nofollow">Admin</a>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" id="aEmbedQuazoo" onclick="ShowEmbedCode($('#aEmbedQuazoo'))" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;">Embed</a>
+</td>
+</tr>
+<tr>
+<td "="" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" id="aSafeSearch" onclick="SafeSearchMode('off');" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;">Safe search: ON</a>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="javascript:function ShareQuazoo(){var d=document,b=d.body,l=d.location;try{if(!b)throw(0);d.title='(Saving...) '+d.title;window.location.href='http://www.quazoo.com/share?url='+encodeURIComponent(l.href)+'&amp;t='+(new Date().getTime());}catch(e){alert('Please wait until the page has loaded.');}}ShareQuazoo();void(0);" rel="nofollow" style="padding: 5px; background: -webkit-linear-gradient(rgb(240, 240, 240), rgb(200, 200, 200), rgb(240, 240, 240));background: -o-linear-gradient(rgb(240, 240, 240),rgb(200, 200, 200), rgb(240, 240, 240)); background: -moz-linear-gradient(rgb(240, 240, 240),rgb(200, 200, 200), rgb(240, 240, 240));  background: linear-gradient(rgb(240, 240, 240),rgb(200, 200, 200), rgb(240, 240, 240));" title="Drag this button to your bookmarks bar.">
+<img height="15" src="http://www.quazoo.com/Images/iconQuazoo.jpg" style="padding-top: 3px;vertical-align: top;" width="15"> <span>+Quazoo</span>
+</img></a><br/>
+</td>
+</tr>
+<tr>
+<td id="tdDoneMenu" style="padding-bottom: 10px;padding-top:5px;padding-right:5px; text-align:right">
+<input class="button" id="btnDoneTree" name="btnDoneTree" onclick="DoneTree();" type="button" value="Done">
+</input></td>
+</tr>
+</table>
+</div>
+<div id="divMoreOptionNoAccount" style="width:160px;height:225px;border: 1px solid #dfdfdf;display:none;position:fixed;z-index: 9008;background-color: white;">
+<table style="padding: 0px 0px 5px 10px;width:100%;">
+<tr>
+<td style="padding-top: 5px;padding-left:7px;">
+<a class="link_subsection_normal" onclick="Login();" rel="nofollow">Sign in</a>
+</td>
+</tr>
+<tr>
+<td "="" style="padding-bottom: 0px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" id="aUserSafeSearch" onclick="SafeSearchMode('off');" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;">Safe search: ON</a>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 0px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.webvision.us/Contact.aspx" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;" target="_blank">Contact</a>
+</td>
+</tr>
+<tr>
+<td style="border-bottom:1px solid #dfdfdf;padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_disabled" href="" rel="nofollow">Request account </a>
+</td>
+</tr>
+<!--<tr>
+                <td style="padding-bottom: 0px;padding-top:5px;padding-left:7px;">
+                     <table id="tblLikeMenu" style="padding:0px 5px 0px 5px;cursor:pointer;" onclick='LikeCollection("aLikeMenuCollection577208", 577208,  " + DisplayColID + ", " + UserID + ", true, false, \"" + collection.DNS + "\", \"" + LocalDNS + "\")'>
+                        <tr>
+                            <td style="vertical-align:middle">
+                                <img src="http://www.quazoo.com/Images/ThumbUpBlue.png" height="16px" id="aLikeMenuCollection577208"  />
+                            </td>
+                            <td style="vertical-align:middle;padding-top:3px;">
+                                <span style="color:#00b0f0;font-size:100%;padding-left:2px;font-family:Arial Narrow;">Like</span>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>  -->
+<tr>
+<td style="padding-bottom: 0px;padding-top:5px;padding-left:7px;">
+<table id="tblShareMenu" onclick="ShareQuazooCollection(event, 577208, 'The Eagle Has Landed', 'The_Eagle_Has_Landed', 's4.quazoo.com', 'The Eagle Has Landed is a book by Jack Higgins set during World War II. It first published in 1975. It was made into a film of the same name in 1976 starring Michael Caine, Donald Sutherland, Jenny Agutter and Robert Duvall. The plot has similarities with that of Went the Day Well?, a film made duri...', 'http://upload.wikimedia.org/wikipedia/en/d/dc/TheEagleHasLanded.jpg', '-1', '', 'divMoreOptionNoAccount');" style="padding:0px 5px 0px 5px;cursor:pointer;">
+<tr>
+<td style="vertical-align:middle">
+<img height="16px" id="aShareMenuCollection577208" src="http://www.quazoo.com/Images/shareIconBlue.png">
+</img></td>
+<td style="vertical-align:middle;padding-top:3px;">
+<span style="color:#00b0f0;font-size:100%;padding-left:2px;font-family:Arial Narrow;">Share</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-bottom:1px solid #dfdfdf;padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<table onclick="OpenFlagColUserMenu(1, 577208, 's4.quazoo.com', 'aFlagCollection577208')" style="padding:0px 5px 0px 5px;cursor:pointer;">
+<tr>
+<td style="vertical-align:middle">
+<img height="16px" id="aFlagCollection577208" src="http://www.quazoo.com/Images/emptyFlagBlue.png"/>
+</td>
+<td style="vertical-align:middle;padding-top:3px;">
+<span style="color:#00b0f0;font-size:100%;padding-left:2px;font-family:Arial Narrow;">Flag</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 10px;padding-left:7px;">
+<a class="link_subsection_normal" id="aEmbedQuazooNoAccount" onclick="ShowEmbedCode($('#aEmbedQuazooNoAccount'))" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;">Embed</a>
+</td>
+</tr>
+</table>
+</div>
+<div id="divCloseTree" style="width:120px;display:none;position:fixed;z-index: 9007;">
+<table style="padding: 0px 0px 5px 10px;width:100%;">
+<tr>
+<td id="tdDoneMenu" style="padding-bottom: 10px;padding-top:5px;padding-right:5px; text-align:right">
+<input class="button" id="btnDoneTree" name="btnDoneTree" onclick="DoneTree();" type="button" value="Done">
+</input></td>
+</tr>
+</table>
+</div>
+<div id="divAdminOption" style="width:160px;height:450px;border: 1px solid #dfdfdf;display:none;position:fixed;z-index: 9008;background-color: white;">
+<table style="padding: 0px 0px 5px 10px;width:100%;">
+<tr>
+<td style="text-align: right;padding-right:10px;height:15px;padding-right:7px;">
+<a onclick="$('#divAdminOption').hide();" rel="nofollow" style="text-decoration:none;font-size:100%;font-family:'Arial Narrow';color:#F20062;cursor:pointer;">x</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption1" style="padding-bottom: 5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/QMagazine" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;">QMagazine</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption2" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/category" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;">Wiki category</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption3" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/wikipagelinks" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;">Wiki Page Link</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption3" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/pagelinks" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;">Page Link</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption4" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/QMonitor" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;" target="_blank">QMonitor</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption6" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" onclick="ShowBookOption()" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;">QBook</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption7" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/AdminComments" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;" target="_blank">Comments</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption8" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/AdminItems" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;" target="_blank">User Addtions</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption9" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/Flag" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;" target="_blank">Collection Flag</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption10" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/UserFlag" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;" target="_blank">Collection User Flag</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption11" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/ItemFlag" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;" target="_blank">Item Flag</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption12" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/ItemUserFlag" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;" target="_blank">Item User Flag</a>
+</td>
+</tr>
+<tr>
+<td id="tdAdminOption12" style="padding-bottom: 5px;padding-top:5px;padding-left:7px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com/WrongImages" rel="nofollow" style="font-size:100%;font-family: 'Arial Narrow';color:#00b0f0;" target="_blank">Wrong Images</a>
+</td>
+</tr>
+</table>
+</div>
+<div id="divAddList" style="width:260px;height: 180px;border: 1px solid #dfdfdf;display:none;position:fixed;z-index: 9008;background-color: white;padding:0px 5px 0px 5px;display: none">
+<table>
+<tr>
+<td colspan="2" style="text-align: right;">
+<a onclick="$('#divAddList').hide();" rel="nofollow" style="text-decoration:none;font-size:100%;font-family:'Arial Narrow';color:#F20062;cursor:pointer;">x</a>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<textarea id="txtAddlist" rows="4" style="font-size: 100%; font-family:'Arial Narrow';width: 250px;border:1px solid rgb(220, 220, 220);outline-width: 0px;"></textarea><br/>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<input id="ckVisibleTreeTopics" name="ckVisibleTreeTopics" type="checkbox"><label for="ckVisibleTreeTopics" style="font-size:100%;font-family:'Arial Narrow';cursor:pointer;">show in slider</label>
+</input></td>
+<td style="text-align: right;">
+<a id="aAddList" onclick="AddTreeMultiTopicName()" style="text-decoration:none;font-size:100%;font-family:'Arial Narrow';color:#00B0F0;cursor:pointer;">+Add</a>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+<input id="ckShowSubTopics" name="ckShowSubTopics" type="checkbox"><label for="ckShowSubTopics" style="font-size:100%;font-family:'Arial Narrow';cursor:pointer;">show content from all topics</label>
+</input></td>
+<td style="text-align: right;">
+</td>
+</tr>
+</table>
+</div>
+<div id="divAddTitle" style="width:210px;height: 75px;border: 1px solid #dfdfdf;display:none;position:fixed;z-index: 9007;background-color: white;padding:0px 5px 0px 5px;display: none">
+<table>
+<tr>
+<td colspan="2" style="text-align: right;">
+<a onclick="$('#divAddTitle').hide();" rel="nofollow" style="text-decoration:none;font-size:100%;font-family:'Arial Narrow';color:#F20062;cursor:pointer;">x</a>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<input id="txtTitle" style="font-size: 100%; font-family:'Arial Narrow';width: 200px;border:1px solid rgb(220, 220, 220);outline-width: 0px;height:18px;"/>
+</td>
+</tr>
+<tr>
+<td style="text-align: right;">
+<a id="aAddTitle" onclick="InsertTreeTitle()" rel="nofollow" style="text-decoration:none;font-size:100%;font-family:'Arial Narrow';color:#00B0F0;cursor:pointer;">Insert</a>
+</td>
+</tr>
+</table>
+</div>
+<div id="areaLeftShow" onmouseout="clearTimeout(timeoutTree)" onmouseover="ShowTree()" style="display:none;position:fixed;z-index:9000;">
+<table border="0" style="border-spacing:0px;width:22px;">
+<tr>
+<td>
+<img src="http://www.quazoo.com/Images/showTree.png" style="cursor:pointer;"/>
+</td>
+</tr>
+</table>
+</div>
+<div id="divMainFrame" style="z-index: 5004;background-color:rgb(255, 255, 255);">
+<table border="0" id="tblMainFrame" style="border:0px;border-spacing:0px;padding:0px 20px 0px 20px">
+<tr id="trMaineFrame1">
+<td id="tdAreaInfo" style="background-repeat: no-repeat; background-image: url('http://www.quazoo.com/Images/loadingWikipedia.gif'); background-position: center center; -moz-background-size: 66px 66px; -o-background-size: 66px 66px; -webkit-background-size: 66px 66px; background-size: 66px 66px;vertical-align:top;">
+<table style="border:0px solid black;border-spacing:0px;">
+<tr>
+<td id="tdPictureZoneRight" style="vertical-align:middle;display:none;">
+<table style="width:100%;height:540px;border:0px solid red;">
+<tr>
+<td align="center" style="height:480px;vertical-align:middle;">
+<table border="0" id="tblSaveCoverRight" style="display:none;padding:2px 5px 2px 5px;border-spacing:0px;background-repeat:repeat;background-image:url('http://www.quazoo.com/images/transparencyBlack50.png');">
+<tr>
+<td>
+<a class="linkBlueSmall" id="aSaveCoverRight" rel="nofollow" style="color:white;font-size:100%;">Save as cover</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="left" style="vertical-align:bottom;padding-left:20px;padding-bottom:20px;display:none;">
+<table border="0" id="tblChangeCoverRight" style="padding:2px 5px 2px 5px;border-spacing:0px;background-repeat:repeat;background-image:url('http://www.quazoo.com/images/transparencyBlack50.png');display:none;">
+<tr>
+<td>
+<a id="aPrevCoverImageRight" onclick="ChangeColImage(577208, 's4.quazoo.com', 'The Eagle Has Landed', false, 'tdAreaInfo', 0, 540);" rel="nofollow" style="color:white;font-weight:bold;font-size:125%;cursor:pointer;"> &lt; </a>
+<a id="aNextCoverImageRight" onclick="ChangeColImage(577208, 's4.quazoo.com', 'The Eagle Has Landed', true, 'tdAreaInfo', 0, 540);" rel="nofollow" style="color:white;font-weight:bold;font-size:125%;cursor:pointer;"> &gt; </a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td id="tdGrayZone" style="padding-left:30px;height:540px;width:220px;vertical-align:top;background-repeat:repeat;background-image:url('http://www.quazoo.com/images/transparencyBlack40.png');">
+<table style="width:100%">
+<tr>
+<td style="height:270px;vertical-align:top;">
+<table border="0" style="border-spacing:0px;padding-top:30px;width:100%;">
+<tr>
+<td id="tdAreaInfoCollectionName" style="padding-top:10px;font-family:'Arial Narrow';color:#FFFFFF;">
+</td>
+</tr>
+<tr>
+<td id="tdAreaInfoUserName" style="padding-top:10px;font-family:'Arial Narrow';font-size:100%;color:white;">
+<table border="0" style="border-spacing:0px">
+<tr>
+<td>
+<a class="linkBlueSmall" id="aAreaInfoUserPhoto" rel="nofollow" target="_blank"></a>
+</td>
+<td style="vertical-align:bottom;padding-left:5px;padding-top:5px;">
+<a class="linkBlueSmall" id="aAreaInfoUserName" rel="nofollow" style="color:white;font-size:112.5%;" target="_blank"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle;padding-right:10px;padding-top:20px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FQuazoo%2F1511733605730902&amp;width=50&amp;layout=button&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=20&amp;appId=845129225512039" style="border:none; overflow:hidden; width:50px; height:20px;"></iframe>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="height:240px;vertical-align:top;">
+<table border="0" id="tblInsideZone" style="border-spacing:0px;width:100%;">
+<tr>
+<td id="txtInside" style="font-family:'Arial Narrow';font-size:125%;color:rgb(255, 102, 0);">
+                                                             INSIDE:
+                                                         </td>
+</tr>
+<tr>
+<td style="padding-top:10px;">
+<table border="0" id="tblInside" style="padding:0px; border-spacing:0px;"></table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td id="tdPictureZone" style="vertical-align:top;">
+<table style="width:100%;height:540px;border:0px solid red;">
+<tr>
+<td align="right" style="vertical-align:top;padding-top:20px;padding-right:20px;">
+<table style="width:110px;cursor:pointer;">
+<tr>
+<td style="padding-right:5px">
+<table onmouseover="ShareQuazooCollection(event, 577208, 'The Eagle Has Landed', 'The_Eagle_Has_Landed', 's4.quazoo.com', 'The Eagle Has Landed is a book by Jack Higgins set during World War II. It first published in 1975. It was made into a film of the same name in 1976 starring Michael Caine, Donald Sutherland, Jenny Agutter and Robert Duvall. The plot has similarities with that of Went the Day Well?, a film made duri...', 'http://upload.wikimedia.org/wikipedia/en/d/dc/TheEagleHasLanded.jpg', '-1', '', '');" style="padding:0px 5px 0px 5px;background-repeat:repeat;background-image:url('http://www.quazoo.com/images/transparencyBlack50.png');">
+<tr>
+<td style="vertical-align:middle">
+<img height="16px" id="aShareCollection577208" src="http://www.quazoo.com/Images/shareIcon.png">
+</img></td>
+<td style="vertical-align:middle;padding-top:3px;">
+<span style="color:white;font-size:18px;padding-left:2px;font-family:Arial Narrow;">Share</span>
+</td>
+</tr>
+</table>
+</td>
+<td style="padding:0px 5px 0px 5px;vertical-align:middle;text-align:center;width:30px;background-repeat:repeat;background-image:url('http://www.quazoo.com/images/transparencyBlack50.png');">
+<table onclick="OpenFlagColUserMenu(1, 577208, 's4.quazoo.com', 'aFlagCollection577208')" style="padding:0px 5px 0px 5px;">
+<tr>
+<td style="vertical-align:middle">
+<img height="16px" id="aFlagCollection577208" src="http://www.quazoo.com/Images/emptyFlag.png"/>
+</td>
+<td style="vertical-align:middle;padding-top:3px;">
+<span style="color:white;font-size:18px;padding-left:2px;font-family:Arial Narrow;">Flag</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="height:10px;vertical-align:middle;">
+<table border="0" id="tblSaveCover" style="display:none;padding:2px 5px 2px 5px;border-spacing:0px;background-repeat:repeat;background-image:url('http://www.quazoo.com/images/transparencyBlack50.png');">
+<tr>
+<td>
+<a class="linkBlueSmall" id="aSaveCover" rel="nofollow" style="color:white;font-size:100%;">Save as cover</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="right" style="vertical-align:bottom;padding-right:40px;padding-bottom:20px;">
+<table border="0" id="tblChangeCover" style="padding:2px 5px 2px 5px;border-spacing:0px;background-repeat:repeat;background-image:url('http://www.quazoo.com/images/transparencyBlack50.png');display:none;">
+<tr>
+<td>
+<a id="aPrevCoverImage" onclick="ChangeColImage(577208, 's4.quazoo.com', 'The Eagle Has Landed', false, 'tdAreaInfo', 0, 540);" rel="nofollow" style="color:white;font-weight:bold;font-size:125%;cursor:pointer;"> &lt; </a>
+<a id="aNextCoverImage" onclick="ChangeColImage(577208, 's4.quazoo.com', 'The Eagle Has Landed', true, 'tdAreaInfo', 0, 540);" rel="nofollow" style="color:white;font-weight:bold;font-size:125%;cursor:pointer;"> &gt; </a>
+</td>
+<td style="display:none">
+<img id="imgWrongImage" src="http://www.quazoo.com/Images/exclamation.png" title="wrong image"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td id="tdCoverSource" style="height:18px;color:#7F7F7F;font-size:87.5%;">
+</td>
+</tr>
+<tr id="trMaineFrame2">
+<td id="tdMaineFrame2" style="vertical-align:top;padding:0px;">
+<table border="0" id="tblMainContent" style="padding:25px 0px 150px 0px; border-spacing:0px;">
+<tr>
+<td style="width:100%;padding:0px 0px 0px 0px;vertical-align:top;">
+<table border="0" id="tblFeeds" style="padding:0px; border-spacing:0px;width:100%">
+<tr>
+<td id="tdFeedsColumn1" style="padding:0px 14px 0px 0px;vertical-align:top;border-right:1px solid rgb(220, 220, 220);">
+<table border="0" id="tblCollection" style="border-spacing:0px;padding:0px;display:inline-block;">
+</table>
+<table border="0" id="tblGoogleAdsFirstColumn1" style="width:100%;border-spacing:0px;padding:0px 0px 20px 0px;margin:5px 0px 0px 0px;display: none;">
+<tr>
+<td style="height:10px;color:#9F9F9F;font-size:75%;text-align:right;font-family:Arial Narrow">
+                                             ADVERTISEMENT
+                                         </td>
+</tr>
+<tr>
+<td align="center" id="tdGoogleAdsFirstColumn1" style="text-align:center;border:1px solid rgb(220, 220, 220);height:250px;margin:5px;">
+</td>
+</tr>
+</table>
+<table border="0" id="tblGoogleWebColumn1" style="width:100%;border-spacing:0px;padding:10px 0px 0px 0px;display: none;">
+</table>
+<table border="0" id="tblGoogleImagesColumn1" style="width:100%;border-spacing:0px;padding:10px 0px 0px 0px;display: none;">
+</table>
+<table border="0" id="tblVideoColumn1" style="width:100%;border-spacing:0px;padding:10px 0px 0px 0px;display: none;">
+</table>
+<table border="0" id="tblFeedsColumn1" style="border-spacing:0px;padding:0px;display: inline-block;">
+</table>
+</td>
+<td id="tdFeedsColumn2" style="padding:0px 0px 0px 15px;vertical-align:top;">
+<table border="0" id="tblGoogleAdsFirstColumn2" style="width:100%;border-spacing:0px;padding:5px 0px 20px 0px;margin:0px 0px 0px 0px;;display: none;">
+<tr>
+<td style="height:10px;color:#9F9F9F;font-size:75%;text-align:right;font-family:Arial Narrow">
+                                             ADVERTISEMENT
+                                         </td>
+</tr>
+<tr>
+<td align="center" id="tdGoogleAdsFirstColumn2" style="text-align:center;border:1px solid rgb(220, 220, 220);height:250px;margin:5px;">
+</td>
+</tr>
+</table>
+<table border="0" id="tblGoogleWebColumn2" style="width:100%;border-spacing:0px;padding:15px 0px 0px 0px;display:inline-block;">
+</table>
+<table border="0" id="tblGoogleImagesColumn2" style="width:100%;border-spacing:0px;padding:10px 0px 0px 0px;display:inline-block;">
+</table>
+<table border="0" id="tblVideoColumn2" style="width:100%;border-spacing:0px;padding:10px 0px 10px 0px;display:inline-block;">
+</table>
+<table border="0" id="tblFeedsColumn2" style="border-spacing:0px;padding:0px 0px 0px 0px;display: inline-block;">
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" id="tdPopularCol" style="padding:20px 0px 20px 0px;vertical-align:top;display:none;">
+<table border="0" id="tblPopularCol" style="border-spacing:0px;padding:0px;display: inline-block;">
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<table id="tblShop" style="width:100%;padding:0px 0px 10px 0px;display:none">
+<tr>
+<td colspan="2" style="font-size: 150%;padding-bottom:10px;">
+                                            Shops:
+                                        </td>
+</tr>
+<tr>
+<td id="tdShop1" style="vertical-align:top;">
+<table border="0" id="tblShopCol1" style="border-spacing:0px;padding:0px;display: inline-block;">
+</table>
+</td>
+<td id="tdShop2" style="vertical-align:top;">
+<table border="0" id="tblShopCol2" style="border-spacing:0px;padding:0px;display: inline-block;">
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-bottom:10px;">
+<a class="linkSubBuzz" href="javascript:void(0);" onclick="window.location.href=$('#aSlideshowColShop').attr('href');" style="color:black;">view more</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td id="tdPopularFeedsColumn1" style="padding:0px 14px 0px 0px;vertical-align:top;border-right:1px solid rgb(220, 220, 220);">
+<table border="0" id="tblPopularFeedsColumn1" style="border-spacing:0px;padding:0px;display: inline-block;">
+</table>
+</td>
+<td id="tdPopularFeedsColumn2" style="padding:0px 0px 0px 15px;vertical-align:top;">
+<table border="0" id="tblPopularFeedsColumn2" style="border-spacing:0px;padding:0px 0px 0px 0px;display: inline-block;">
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div id="mobilePage1" isload="true" pageno="1" style="padding-top:55px; display:none;overflow:hidden;height:auto;position:absolute;">
+<table border="0" id="tblMobileMainContent" style="padding:0px 0px 50px 40px; border-spacing:0px;">
+<tr>
+<td id="tdMobileMainContent" style="width:100%;padding:0px 0px 0px 0px;vertical-align:top;">
+<table border="0" id="tblMobileFeeds" style="padding:0px; border-spacing:0px;width:100%">
+<tr>
+<td id="tdMobileFeedsColumn1" style="padding:0px 0px 0px 0px;vertical-align:top;">
+<table border="0" style="padding:0px 0px 0px 0px;border-spacing:0px;">
+<tr>
+<td id="tdMobileCollection" style="vertical-align:top">
+<table border="0" id="tblMobileCollection" style="border-spacing:0px;padding:0px;display:inline-block;">
+</table>
+</td>
+<td id="tdMobileGoogle" style="vertical-align:top;padding:0px 0px 0px 30px;">
+<table border="0" id="tblMobileGoogleAdsFirst577208" style="width:100%;border-spacing:0px;padding:0px 0px 20px 0px;margin:5px 0px 0px 0px;display:none;">
+<tr>
+<td style="height:10px;color:#9F9F9F;font-size:75%;text-align:right;font-family:Arial Narrow">
+                                                             ADVERTISEMENT
+                                                         </td>
+</tr>
+<tr>
+<td align="center" id="tdMobileGoogleAdsFirst577208" style="text-align:center;border:1px solid rgb(220, 220, 220);height:250px;">
+</td>
+</tr>
+</table>
+<table border="0" id="tblMobileGoogleWeb" style="width:100%;border-spacing:0px;padding:15px 0px 0px 0px;display:inline-block;">
+</table>
+<table border="0" id="tblMobileGoogleImages" style="width:100%;border-spacing:0px;padding:10px 0px 0px 0px;display:inline-block;">
+</table>
+<table border="0" id="tblMobileVideos" style="width:100%;border-spacing:0px;padding:10px 0px 0px 0px;display:inline-block;">
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td id="tdMobileFeedsColumn2" style="vertical-align:top;padding:0px 0px 0px 0px;">
+<table border="0" id="tblMobileFeedsColumn1" style="border-spacing:0px;padding:0px;display: inline-block;">
+<tr id="trMobileFeed">
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" id="tdMobilePopularCol577208" style="padding:20px 14px 0px 0px;vertical-align:top;">
+<table border="0" id="tblMobilePopularCol577208" style="width:100%;border-spacing:0px;padding:0px;display: inline-block;">
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" id="tdMobileShop577208">
+<table id="tblMobileShop577208" style="width:100%;padding:0px 0px 10px 0px;display:none">
+<tr>
+<td colspan="2" style="font-size: 150%;">
+                                                Shops:
+                                            </td>
+</tr>
+<tr>
+<td style="vertical-align:top;">
+<table border="0" id="tblMobileShopCol1577208" style="border-spacing:0px;padding:0px;display: inline-block;">
+</table>
+</td>
+<td style="vertical-align:top;">
+<table border="0" id="tblMobileShopCol2577208" style="border-spacing:0px;padding:0px;display: inline-block;">
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a class="linkSubBuzz" href="javascript:void(0);" onclick="window.location.href=$('#aSlideshowColShop').attr('href');" style="color:black;">view more</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<table>
+<tr>
+<td id="tdMobilePopularFeedsColumn1" style="padding:0px 0px 0px 0px;vertical-align:top;">
+<table border="0" id="tblMorePopularTopicFeed1577208" style="padding:20px 0px 20px 0px;border-spacing: 0px;"></table>
+</td>
+<td id="tdMobilePopularFeedsColumn2" style="vertical-align:top;padding:0px 0px 0px 30px;">
+<table border="0" id="tblMorePopularTopicFeed2577208" style="padding:20px 0px 20px 0px;border-spacing: 0px;"></table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+</td>
+</tr>
+</table>
+</div>
+<div id="divShareQuazoo" onmouseout="$('#div1').hide();" onmouseover="window.clearTimeout(timeoutShareMenu);$('#div1').show();" style="position: absolute; z-index: 9000;display:none;">
+<div class="Menu" id="div1" style="position: absolute; z-index: 9000; height:70px;width: 340px;padding-left:10px;">
+<table style="padding:0px 0px 0px 0px;">
+<tr>
+<td style="text-align: right;height:10px;padding-right:5px;">
+<a onclick="HideShareQuazoo(event);" rel="nofollow" style="text-decoration:none;font-size:100%;font-family:'Arial Narrow';color:#F20062;cursor:pointer;">x</a>
+</td>
+</tr>
+<tr>
+<td>
+<table style="border-spacing:5px;">
+<tr>
+<td style="vertical-align:middle;width:60px;padding-top:5px;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FQuazoo%2F1511733605730902&amp;width=50&amp;layout=button&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=20&amp;appId=845129225512039" style="border:none; overflow:hidden; width:50px; height:20px;"></iframe>
+</td>
+<td style="vertical-align:middle;width:35px;">
+<a id="btnFacebook" onclick="HideShareQuazoo();" rel="nofollow"><img src="http://www.quazoo.com/Images/facebookShare1.png" title="share on Facebook"/></a>
+</td>
+<td style="vertical-align:middle;width:35px;">
+<a id="btnTwitter" onclick="HideShareQuazoo();" rel="nofollow"><img src="http://www.quazoo.com/Images/tweetShare1.png" title="share on Twitter"/></a>
+</td>
+<td style="vertical-align:middle;width:35px;">
+<a id="btnPinIt" onclick="HideShareQuazoo();" rel="nofollow"><img src="http://www.quazoo.com/Images/pinItShare1.png" title="share on Pinterest"/></a>
+</td>
+<td style="vertical-align:middle;width:35px;">
+<a id="btnGoogle" onclick="HideShareQuazoo();" rel="nofollow"><img src="http://www.quazoo.com/Images/googleShare1.png" title="share on Google+"/></a>
+</td>
+<td style="vertical-align:middle;width:35px;">
+<a id="btnTumblr" onclick="HideShareQuazoo();" rel="nofollow"><img src="http://www.quazoo.com/Images/tumblrShare1.png" title="share on Tumblr"/></a>
+</td>
+<td style="vertical-align:middle;width:35px;;">
+<a id="btnReddit" onclick="HideShareQuazoo();" rel="nofollow"><img src="http://www.quazoo.com/Images/redditShare1.png" title="share on Reddit"/></a>
+</td>
+<td style="vertical-align:middle;width:35px;">
+<a id="btnStumble" onclick="HideShareQuazoo();" rel="nofollow"><img src="http://www.quazoo.com/Images/stumbleShare1.png" title="share on StumbleUpon"/></a>
+</td>
+</tr>
+</table>
+</td></tr>
+</table>
+</div>
+</div>
+<div id="divMobileFrame" onclick="CloseTree()" onmouseover="CloseTree()" style="z-index: 5004;background-color:rgb(255, 255, 255);display:none;border:0px solid green;overflow:hidden;height:auto;position:static">
+<div feedcolid="577208" feeddns="s4.quazoo.com" id="mobilePage577208" isload="true" pageno="0" style="position:absolute;padding-top:85px;padding-bottom:300px;overflow:hidden;height:auto;border:0px solid red;">
+</div>
+</div>
+<iframe id="frm_MoreTabs" style="display: none; position: absolute; z-index: 9000;height: 225px; width: 100px;border:0px;"></iframe>
+<div class="Menu" id="divMoreTabs" style="display: none; position: fixed;z-index: 9005; height: 225px; width: 100px;">
+</div>
+<div id="keyboard" style="position: fixed;">
+</div>
+<div id="divRemoveMenuIcon" style="position: fixed; z-index: 9000; height:40px;width: 40px;display: none;background-color:white">
+<table style="margin:8px 8px 8px 8px;background-color:white;">
+<tr>
+<td>
+<img src="http://www.quazoo.com/Images/feedRemove.png" style="cursor:pointer"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="Menu" id="divRemoveMenu" style="position: relative; z-index: 9000; height:90px;width: 250px;display: none;">
+<table border="0" style="width:100%;padding:0px;border-spacing:0px">
+<tr>
+<td id="tdRemoveFeed" style="padding-left:10px;height:15px;padding-top:5px;padding-bottom:5px;">
+<a class="link_subsection_normal" id="aRemoveFeed" rel="nofollow">Remove this</a>
+</td>
+</tr>
+<tr>
+<td id="tdRemoveItem" style="padding-left:10px;height:15px;padding-top:5px;padding-bottom:5px;">
+<a class="link_subsection_normal" id="aRemoveItem" rel="nofollow">Remove from all locations</a>
+</td>
+</tr>
+<tr>
+<td id="tdRemoveTopic" style="padding-left: 10px; height: 15px;padding-top:5px;">
+<a class="link_subsection_normal" id="aRemoveTopic" rel="nofollow">Remove all from</a>
+</td>
+</tr>
+</table>
+</div>
+<div class="Menu" id="divEmbedCode" style="position: fixed; z-index: 9008; height:310px;width: 370px;display: none;padding-left:10px;">
+<table>
+<tr>
+<td style="text-align: right;">
+<a onclick="$('#divEmbedCode').hide();" style="text-decoration:none;font-size:100%;font-family:'Arial Narrow';color:#F20062;cursor:pointer;">x</a>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+                    URL
+                </td>
+</tr>
+<tr>
+<td style="padding-top:5px;padding-bottom:10px;">
+<input id="txtQuazooURL" onclick="this.select();" rows="10" style="width:350px;" type="text"/>
+</td>
+</tr>
+<tr>
+<td style="text-align: left;">
+                    Embed Code
+                </td>
+</tr>
+<tr>
+<td style="padding-top:5px;">
+<textarea id="txtEmbedCode" onclick="this.select();" rows="10" style="width:350px;"></textarea>
+</td>
+</tr>
+</table>
+</div>
+<div id="divFeedSaveCover" style="position: relative; z-index: 9000; width: 115px;display: none;background-repeat:repeat;background-image:url('http://www.quazoo.com/images/transparencyBlack50.png');">
+<table border="0" style="width:100%;padding:0px;border-spacing:0px">
+<tr>
+<td style="padding:5px 5px 5px 5px;">
+<a class="linkBlueSmall" id="aFeedSaveCover" rel="nofollow" style="color:white;font-size:100%;">Save as cover</a>
+</td>
+</tr>
+</table>
+</div>
+<div id="divQuazooTip" style="position:absolute; z-index: 9000; display: none; width: 0px;height: 0px; top: 0px; left: 0px;overflow:hidden;background-color:rgb(250, 250, 250);">
+<table style="width:100%;">
+<tr>
+<td>
+<table id="tblScrolTip" style="width:100%;padding-top:15px;">
+<tr>
+<td style="text-align:center;font-size:100%;text-decoration:none;">
+                                Scroll to see content
+                            </td>
+</tr>
+<tr>
+<td id="tdGotItScrollDown" style="text-align:center;">
+<img id="imgTipScrollDown" src="http://www.quazoo.com/Images/downArrowRemove.png" style="cursor:pointer" title="scroll to see content">
+</img></td>
+</tr>
+</table>
+</td>
+<td style="text-align:right;vertical-align:top;padding:2px 2px 0px 0px;">
+<a class="link_subsection_normal" onclick="$('#divQuazooTip').hide();" rel="nofollow">x</a>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<table id="tblSwipeTip" style="width:100%;">
+<tr>
+<td style="padding-top:15px;font-size:100%;font-family: 'Arial Narrow';text-align:center;">
+                                    Use horizontal slide to change page
+                                </td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-top:10px;padding-right:15px;">
+<a class="link_subsection_normal" onclick="HideQuazooTip();" rel="nofollow">Got it ! Don't show this again</a>
+</td>
+</tr>
+</table>
+</div>
+<div id="divQuazooFlag" style="position:fixed; z-index: 9999; display: none; width: 0px;height: 0px; top: 0px; left: 0px;overflow:hidden;background-color:rgb(250, 250, 250);">
+<table id="tblQuazooFlag">
+<tr>
+<td style="text-align:center">
+                    This page may contain material which is not appropriate for all audiences<br/>including nudity, sex, violence, profanity and other similar material
+                </td>
+</tr>
+<tr>
+<td style="text-align:center;padding-top:10px;">
+<a class="link_subsection_normal" href="http://www.quazoo.com" rel="nofollow">Go back to Quazoo</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;padding-top:10px;">
+                    By clicking below you certify that you are over 18 years of age,<br/>or over the minimum legal age required in your constituency,<br/>if different from above
+                </td>
+</tr>
+<tr>
+<td style="text-align:center;padding-top:10px;">
+<a class="link_subsection_normal" id="aViewPage" onclick="ViewColFlag()" rel="nofollow">View page</a>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;padding-top:10px;">
+<a class="link_subsection_normal" onclick="ViewAllPageFlag()" rel="nofollow">View all pages in this website<br/>regardless of their content</a>
+</td>
+</tr>
+</table>
+</div>
+
+</div>
+</form>
+</body>
+</html>

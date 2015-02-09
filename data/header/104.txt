@@ -1,0 +1,15 @@
+Title: The Da Vinci Code | Sony Pictures
+Date: Mon, 09 Feb 2015 20:43:38 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Tue, 27 May 2014 15:13:41 GMT
+ETag: "4175-4fa6324167340"
+Accept-Ranges: bytes
+Content-Length: 16757
+P3P: CP="CAO DSP COR CURa ADMa DEVa TAIa CONi OUR DELa BUS IND PHY ONL UNI COM NAV INT DEM PRE NON PSA PSD"
+Keep-Alive: timeout=300, max=3
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: sto-id-20480=KBBOAAAKFAAA; Expires=Thu, 06-Feb-2025 20:43:38 GMT; Path=/
+Set-Cookie: NSC_tpozqjd-83+63+23+94-91=ffffffffc5dc2c5345525d5f4f58455e445a4a423660;path=/;httponly
+

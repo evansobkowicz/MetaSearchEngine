@@ -1,0 +1,15 @@
+Title: The Lion The Witch and the Wardrobe | From Screen to Words
+Server: nginx
+Date: Mon, 09 Feb 2015 20:43:30 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Vary: Cookie
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+X-Pingback: https://fromscreentowords.wordpress.com/xmlrpc.php
+Last-Modified: Mon, 09 Feb 2015 20:43:30 GMT
+Cache-Control: max-age=300, must-revalidate
+X-nananana: Batcache
+X-ac: 1.dca _dca
+

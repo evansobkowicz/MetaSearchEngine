@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html class="red_brand" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>  The Chronicles of Narnia: The Lion, The Witch and The Wardrobe | Walden Media</title>
+
+<link href="http://www.walden.com/movie/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-3/feed/" rel="alternate" title="Walden Media » The Chronicles of Narnia: The Lion, The Witch and The Wardrobe Comments Feed" type="application/rss+xml"/>
+<link href="http://fonts.googleapis.com/css?family=Economica%3A400%2C700&amp;ver=3.9.1" id="walden_media_google_fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.walden.com/wp-content/themes/walden-media/style.css?ver=3.9.1" id="walden_media_main_styles-css" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+<link href="http://www.walden.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://www.walden.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="http://www.walden.com/movie/the-chronicles-of-narnia-prince-caspian/" rel="prev" title="The Chronicles of Narnia: Prince Caspian"/>
+<link href="http://www.walden.com/movie/the-chronicles-of-narnia-prince-caspian/" rel="next" title="The Chronicles of Narnia: Prince Caspian"/>
+<meta content="WordPress 3.9.1" name="generator"/>
+<link href="http://www.walden.com/movie/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-3/" rel="canonical"/>
+<link href="http://www.walden.com/?p=683" rel="shortlink"/>
+<meta content="article" property="og:type"/>
+<meta content="Walden Media" property="og:site_name"/>
+<meta content="http://www.walden.com/movie/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-3/" property="og:url"/>
+<meta content="The Chronicles of Narnia: The Lion, The Witch and The Wardrobe" property="og:title"/>
+<meta content="Lewis’ timeless adventure follows the exploits of the four Pevensie siblings – Lucy, Edmund, Susan and Peter – in World War II England who enter the world of Narnia through a magical wardrobe while playing a game of ‘hide-and-seek’ at the rural estate of a mysterious professor" property="og:description"/>
+<meta content="" property="og:image"/>
+<meta content="2012-01-04T04:40:59+00:00" property="article:published_time"/> <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+<body class="single single-movie postid-683 movie">
+<div id="header">
+<div class="wrapper">
+<div id="logo">
+<a href="http://www.walden.com"><img alt="Walden Media Logo" src="http://www.walden.com/wp-content/themes/walden-media/images/logo.png"/></a>
+</div><!-- end logo -->
+<div class="social large">
+<ul>
+<li class="twitter"><a href="https://www.twitter.com/waldenmedia"><img src="http://www.walden.com/wp-content/themes/walden-media/images/twitter_icon-large.png"/></a></li> <li class="facebook"><a href="https://www.facebook.com/waldenmedia"><img src="http://www.walden.com/wp-content/themes/walden-media/images/facebook_icon-large.png"/></a></li> <li class="youtube"><a href="http://www.youtube.com/user/waldenmediatrailers"><img src="http://www.walden.com/wp-content/themes/walden-media/images/youtube_icon-large.png"/></a></li> <li class="pinterest"><a href="https://www.pinterest.com/waldenmedia"><img src="http://www.walden.com/wp-content/themes/walden-media/images/pinterest_icon-large.png"/></a></li> </ul> </div><!-- end social -->
+</div><!-- end wrapper - header -->
+<div class="clear"></div>
+</div><!-- end header -->
+<div id="nav">
+<div class="wrapper">
+<div class="menu-primary-main-navigation-container"><ul class="menu" id="menu-primary-main-navigation"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4502" id="menu-item-4502"><a href="http://www.walden.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5629" id="menu-item-5629"><a href="http://www.walden.com/thegiver/">The Giver</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1795" id="menu-item-1795"><a href="http://www.walden.com/movies/">Movies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1797" id="menu-item-1797"><a href="http://www.walden.com/books/">Books</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5189" id="menu-item-5189"><a href="http://www.walden.com/contests/">Contests</a></li>
+<li class="search menu-item menu-item-type-post_type menu-item-object-page menu-item-6225" id="menu-item-6225"><a href="http://www.walden.com/search/">Search</a></li>
+</ul></div> </div><!-- end wrapper - nav -->
+<div class="clear"></div>
+</div><!-- end nav -->
+<div id="search">
+<div class="wrapper">
+<div class="close">X</div>
+<h2>Search Walden Media</h2>
+<div id="search_form">
+<form action="http://www.walden.com" id="main_search_form" method="get" name="main_search">
+<input id="main_search" name="s" type="text" value="Search">
+<input id="main_search_btn" type="submit" value="Search">
+</input></input></form>
+</div><!-- end search_form -->
+<div id="search_by">
+<h3>Browse the latest:</h3>
+<div class="horizontal">
+<div class="menu-search-main-container"><ul class="menu" id="menu-search-main"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-movie-ancestor current-menu-parent current-movie-parent menu-item-1800" id="menu-item-1800"><a href="http://www.walden.com/blog/category/movies/">Movies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1801" id="menu-item-1801"><a href="http://www.walden.com/blog/category/education/">Education</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1802" id="menu-item-1802"><a href="http://www.walden.com/blog/category/book/">Book</a></li>
+</ul></div> </div>
+<h3>Categories:</h3>
+<div class="cats">
+<div class="menu-search-categories-container"><ul class="menu" id="menu-search-categories"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-movie-ancestor current-menu-parent current-movie-parent menu-item-1803" id="menu-item-1803"><a href="http://www.walden.com/blog/category/movies/family/">Family</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-movie-ancestor current-menu-parent current-movie-parent menu-item-1804" id="menu-item-1804"><a href="http://www.walden.com/blog/category/movies/adventure-movies/">Adventure Movies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1805" id="menu-item-1805"><a href="http://www.walden.com/blog/category/movies/comedy/">Comedy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1806" id="menu-item-1806"><a href="http://www.walden.com/blog/category/book/fairy-tale-book/">Fairy Tale Books</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1807" id="menu-item-1807"><a href="http://www.walden.com/blog/category/book/fantasy-book/">Fantasy Books</a></li>
+</ul></div> </div>
+<div class="clear"></div>
+</div><!-- end search_by -->
+<div class="clear"></div>
+</div><!-- end wrapper - search -->
+<div class="clear"></div>
+</div><!-- end nav -->
+<div id="content">
+<div class="wrapper">
+<h1 class="page_heading red">
+<span class="parent">movie</span> <span class="title">  The Chronicles of Narnia: The Lion, The Witch and The Wardrobe</span>
+<div class="clear"></div>
+</h1>
+<div id="feature">
+<div class="right" id="share"></div><!-- end share -->
+<div class="clear"></div>
+<div id="premier">
+<img src="http://www.walden.com/wp-content/uploads/2012/01/LWW_HEROIMAGE1.jpg"/> </div><!-- end premier -->
+</div><!-- end -->
+<div id="content_wrapper">
+<div id="main_content">
+<div id="production_sections_nav">
+<ul>
+<li class="current" id="clips_btn">Watch</li>
+<li id="details_btn">About</li>
+<li id="education_btn">Learn</li> </ul>
+<div class="clear"></div>
+</div><!-- production_sections_nav -->
+<div id="sections">
+<div class="clip_grid current red" id="clips">
+<ul>
+<li class="production">
+<div class="image">
+<img src="http://www.walden.com/wp-content/themes/walden-media/images/placeholder_thumb.gif"/>
+<div class="overlay">
+<a class="yt_box" href="http://youtu.be/teyy5o5Gc6Y">Watch Clip</a>
+</div>
+</div>
+<h3><a class="yt_box" href="http://youtu.be/teyy5o5Gc6Y">The Chronicles of Narnia: The Lion, The Witch and the Wardrobe Trailer</a></h3>
+</li>
+</ul>
+<div class="feed_nav">
+<div class="prev"></div>
+<div class="pages">
+</div>
+<div class="next"></div>
+</div><!-- end feed_nav -->
+</div><!-- end clip_grid -->
+<div id="details">
+<!-- <h2>The Chronicles of Narnia: The Lion, The Witch and The Wardrobe Details</h2> -->
+<div class="wysiwyg">
+<p>C.S. Lewis’ timeless adventure follows the exploits of the four Pevensie siblings – Lucy, Edmund, Susan and Peter – in World War II England who enter the world of Narnia through a magical wardrobe while playing a game of ‘hide-and-seek’ at the rural estate of a mysterious professor. Once there, the children discover a charming, once peaceful land inhabited by talking beasts, dwarfs, fauns, centaurs and giants that has become a world cursed to eternal winter by the evil White Witch, Jadis. Under the guidance of a noble and mystical ruler, the magnificent lion Aslan, the children fight to overcome Jadis’ powerful hold over Narnia in a spectacular, climactic battle that will free Narnia from her icy spell forever.</p>
+</div>
+<p class="directors"><strong>Directed by: </strong>Andrew Adamson</p> <p class="producers"><strong>Produced by: </strong>Mark Johnson, Douglas Gresham, Philip Steuer, Andrew Adamson, Perry Moore</p> <p class="writers"><strong>Written by: </strong>Ann Peacock and Andrew Adamson and Christopher Markus &amp; Stephen McFeely</p> <p class="rating"><strong>Rating: </strong>PG</p> <p class="distributors"><strong>Distributed by: </strong>Walt Disney Pictures</p> <div class="additional_details">
+</div>
+</div><!-- end details -->
+<div id="education">
+<!-- <h2>The Chronicles of Narnia: The Lion, The Witch and The Wardrobe Educational Materials</h2> -->
+<div class="additional_details">The Educator’s Guide shows students through a variety of activities, how a faithful adaptation of a beloved book moves from page to screen, by examining how actors, designers and directors worked together in creating the production.
+
+<a href="http://www.walden.com/wp-content/uploads/2008/07/LWW_EdGuide.pdf">The Lion, The Witch and The Wardrobe: Educators Guide</a></div> </div><!-- end details -->
+</div><!-- end sections -->
+</div><!-- end main_content -->
+<div id="sidebar">
+<div class="widget widget_reallysimpletwitterwidget" id="reallysimpletwitterwidget-2"><h3 class="widgettitle"><a class="twitter_title_link" href="http://twitter.com/waldenmedia">Walden on Twitter</a></h3>
+<ul class="really_simple_twitter_widget"><li>50 of the best Valentine's Day books for kids... great for snow day reading! <a class="twitter-link" href="http://t.co/SMwDi2HfBM">http://t.co/SMwDi2HfBM</a> via @SeeMomClick</li><li>Aslan, Boston needs you. For real. <a class="twitter-link" href="http://twitter.com/#!/search/%23Narnia">#Narnia</a> <a class="twitter-link" href="http://twitter.com/#!/search/%23nomoresnow">#nomoresnow</a> <a class="twitter-link" href="http://t.co/lNMSZSLQyN">http://t.co/lNMSZSLQyN</a></li><li>RT <a class="twitter-user" href="http://twitter.com/StudioJJK">@StudioJJK</a>: We piloted the Platypus Police Academy event for kids in Denver. "Reading is 90% of police work."—Commander Nagle <a class="twitter-link" href="http://t.co/LKPZoYvBRj">http://t.co/LKPZoYvBRj</a></li><li>RT <a class="twitter-user" href="http://twitter.com/WaldenPondPress">@WaldenPondPress</a>: Today's <a class="twitter-link" href="http://twitter.com/#!/search/%23TBT">#TBT</a> is an oldie but a goodie! Recognize any of these guys? GUYS READ:The Joke (<a class="twitter-user" href="http://twitter.com/macbarnett">@macbarnett</a> @Jon_Scieszka): <a class="twitter-link" href="http://t.co/NvjhvLEoJm">http://t.co/NvjhvLEoJm</a></li><li>Happy Friday everyone! <a class="twitter-link" href="http://t.co/BLgxGuEBzR">http://t.co/BLgxGuEBzR</a></li></ul></div>
+</div><!-- end sidebar -->
+<div class="clear"></div>
+</div><!-- end content_wrapper -->
+</div><!-- end wrapper - content -->
+<div class="clear"></div>
+</div><!-- end content -->
+<div id="footer">
+<div class="wrapper">
+<div id="footer_branding">
+<img alt="Walden Media Logo" src="http://www.walden.com/wp-content/themes/walden-media/images/logo_small.png"/>
+<h3>We tell stories that recapture the imagination, rekindle curiosity, and demonstrate the rewards of virtue.</h3>
+</div><!-- end footer_branding -->
+<div id="footer_box1">
+<div id="footer_nav">
+<div class="menu-footer-nav-container"><ul class="menu" id="menu-footer-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1812" id="menu-item-1812"><a href="http://www.walden.com/terms-of-service/">Terms of Service</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7314" id="menu-item-7314"><a href="http://www.walden.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1811" id="menu-item-1811"><a href="http://www.walden.com/contact/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1813" id="menu-item-1813"><a href="http://www.walden.com/company-info/">Company Info</a></li>
+</ul></div> </div>
+<div class="social">
+<ul>
+<li class="twitter"><a href="https://www.twitter.com/waldenmedia"><img src="http://www.walden.com/wp-content/themes/walden-media/images/twitter_icon.jpg"/></a></li> <li class="facebook"><a href="https://www.facebook.com/waldenmedia"><img src="http://www.walden.com/wp-content/themes/walden-media/images/facebook_icon.jpg"/></a></li> <li class="youtube"><a href="http://www.youtube.com/user/waldenmediatrailers"><img src="http://www.walden.com/wp-content/themes/walden-media/images/youtube_icon.jpg"/></a></li> <li class="pinterest"><a href="https://www.pinterest.com/waldenmedia"><img src="http://www.walden.com/wp-content/themes/walden-media/images/pinterest_icon.jpg"/></a></li> </ul> </div><!-- end social -->
+</div><!-- end footer_box1 -->
+<div id="footer_box2">
+<div class="location">
+<h4>West Coast Office</h4>
+<p>1888 Century Park East, 14th Fl.<br/>
+                        Los Angeles, CA 90067<br/>
+                        United States</p>
+</div>
+<div class="location">
+<h4>East Coast Office</h4>
+<p>711 Atlantic Avenue<br>
+                        Boston, MA  02111<br>
+                        United States</br></br></p>
+</div>
+<div class="clear"></div>
+</div><!-- end footer_box2 -->
+<div class="clear"></div>
+</div><!-- end wrapper - footer -->
+<div class="clear"></div>
+</div><!-- end footer -->
+<div id="subfooter">
+<div class="wrapper">
+<p>© 2012 Walden Media, LLC and its related entities. All rights reserved.</p>
+</div><!-- end wrapper - subfooter -->
+<div class="clear"></div>
+</div><!-- end subfooter -->
+</body>
+</html>

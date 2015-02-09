@@ -1,0 +1,13 @@
+Title: Sean Astin - IMDb
+Date: Mon, 09 Feb 2015 20:42:38 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYqW2DvH0GAfkN0lAvIjERpI7jYsRTLfZ1gL9Sn3sC-HiaMllJdOAc_cwrSDevp15YjTlZ-hlb2%0D%0A4-_74E3cL8_Gye8_vxlvZxy8cGEac-aeGWNMeFOo2prhE-bs2T5u3-2KO45PbM8EADfrZjXlwXSB%0D%0AMZhYu01JcZ5cY2X-YonBSN2HL1KL7AgMR_HXk_Phl26hzwYWJsm-nClhrB8XQATNo6MdJhOIKdyJ%0D%0AQMot7H_bcPlRNZ4ZeXiBflWPGdOZrb2Fqcs-_gfY8mbQMwQMctfDtg%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:46 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:46 GMT; Path=/
+Set-Cookie: session-id-time=1581194559; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:46 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

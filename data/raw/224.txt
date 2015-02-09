@@ -1,0 +1,5608 @@
+
+<!DOCTYPE html>
+
+<html itemscope="" itemtype="http://www.schema.org/Movie" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head prefix="og: http://ogp.me/ns# flixstertomatoes: http://ogp.me/ns/apps/flixstertomatoes#">
+
+<!--[if lt IE 9]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script>
+        
+        if (typeof console === "undefined" || typeof console.log === "undefined") {
+            console={};
+            console.log = function(msg){};
+            console.error = function(msg){};
+        }
+    </script>
+    <style>
+        .fontelloIcon:before {
+            visibility: hidden;
+        }
+        p {
+            color:black;
+        }
+        div {
+            color:black;
+        }
+        .menuHeader {
+            display:inline-block;
+        }
+        .menuHeader a {
+            max-width:205px;
+        }
+        .row-sameColumnHeight {
+            margin-left:-10px;
+            margin-right:-10px;
+        }
+        .hoverBubble {
+            display: none;
+        }
+        .hoverBubble .bubbleContent {
+            display: none;
+        }
+        #movies_sidebar, #mainColumn {
+            background-color:white;
+        }
+    </style>
+    <![endif]-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<meta content="VPPXtECgUUeuATBacnqnCm4ydGO99reF-xgNklSbNbc" name="google-site-verification"/>
+<meta content="034F16304017CA7DCF45D43850915323" name="msvalidate.01"/>
+<link href="http://d3biamo577v4eu.cloudfront.net/static/images/icons/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="http://d3biamo577v4eu.cloudfront.net/static/images/icons/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+
+<noscript>
+<iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-TW7ZFZ" style="display: none; visibility: hidden" width="0"></iframe>
+</noscript>
+
+<!-- End Google Tag Manager -->
+
+
+<title>Watership Down - Rotten Tomatoes</title>
+<link href="http://www.rottentomatoes.com/m/watership_down/" itemprop="url" rel="canonical"/>
+<meta content="Critics Consensus: Aimed at adults perhaps more than children, this is a respectful, beautifully animated adaptation of Richard Adams' beloved book." itemprop="description" name="description"/>
+<link href="android-app://net.flixster.android/flixster/movie?id=10301" rel="alternate"/>
+<meta content="326803741017" property="fb:app_id"/>
+<meta content="Watership Down" property="og:title"/>
+<meta content="video.movie" property="og:type"/>
+<meta content="http://content7.flixster.com/movie/11/15/28/11152877_800.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="1200" property="og:image:height"/>
+<meta content="http://www.rottentomatoes.com/m/watership_down/" property="og:url"/>
+<meta content="Critics Consensus: Aimed at adults perhaps more than children, this is a respectful, beautifully animated adaptation of Richard Adams' beloved book." property="og:description"/>
+<meta content="product" name="twitter:card">
+<meta content="@rottentomatoes" name="twitter:site">
+<meta content="Watership Down" name="twitter:title">
+<meta content="Critics Consensus: Aimed at adults perhaps more than children, this is a respectful, beautifully animated adaptation of Richard Adams' beloved book." name="twitter:description">
+<meta content="http://content7.flixster.com/movie/11/15/28/11152877_800.jpg" name="twitter:image:src">
+<meta content="81% of critics liked it" name="twitter:data1">
+<meta content="TOMATOMETER" name="twitter:label1">
+<meta content="86% of users liked it" name="twitter:data2">
+<meta content="AUDIENCE" name="twitter:label2">
+<meta content="10301" name="movieID">
+<meta content="1978-11-01" property="video:release_date"/>
+<meta content="92" property="video:duration"/>
+<meta content="http://www.rottentomatoes.com/celebrity/martin_rosen/" property="video:director"/>
+<meta content="http://www.rottentomatoes.com/celebrity/john_hurt/" property="video:actor"/>
+<meta content="http://www.rottentomatoes.com/celebrity/richard_briers/" property="video:actor"/>
+<meta content="http://www.rottentomatoes.com/celebrity/michael_graham_cox/" property="video:actor"/>
+<meta content="http://www.rottentomatoes.com/celebrity/john_bennett/" property="video:actor"/>
+<meta content="http://www.rottentomatoes.com/celebrity/simon_cadell/" property="video:actor"/>
+<link href="http://d3biamo577v4eu.cloudfront.net/static/styles/movie/quotes.css" rel="stylesheet" type="text/css"/>
+<link href="//cdn.jsdelivr.net/jquery.slick/1.3.7/slick.css" rel="stylesheet" type="text/css"/>
+
+
+<link href="//d3biamo577v4eu.cloudfront.net/v/less/?f=/styles/rt_redesign.less&amp;f=/styles/movie.less&amp;f=/styles/ratingWidget.less&amp;f=/styles/hoverBubble.less" rel="stylesheet" type="text/css"/>
+
+</meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
+<body class="body ">
+
+<div id="emptyPlaceholder"></div>
+<div id="fb-root"></div>
+
+
+<div id="overlay" style="height:0px;"></div>
+
+<div class="body_main container">
+<div class="leaderboard_wrapper" id="top_leaderboard_wrapper">
+<div class="leaderboard_helper">
+<div id="leaderboard_top_ad">
+
+</div>
+</div>
+</div>
+<div class="head" id="head">
+<div class="modal fade" id="whatIsTomatometer">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h2 class="modal-title">What is the Tomatometer™?</h2>
+</div>
+<div class="modal-body">
+<p>
+                    The Tomatometer rating – based on the published opinions of hundreds of film and
+                    television critics – is a trusted measurement of movie and TV programming quality
+                    for millions of moviegoers. It represents the percentage of professional critic reviews
+                    that are positive for a given film or television show.
+                </p>
+<div class="row-sameColumnHeight noSpacing" style="margin:20px 0">
+<div class="col-xs-18" style="vertical-align:bottom">
+<div class="title">
+<h3>
+<span style="background-color:white">From the Critics</span>
+</h3>
+</div>
+</div>
+<div class="col-xs-6" style="vertical-align:bottom">
+<h3 class="noSpacing center">From RT Users Like You!</h3>
+</div>
+</div>
+<div class="row-sameColumnHeight noSpacing">
+<div class="col-xs-18">
+<div class="col-xs-8 center">
+<span class="icon huge fresh"></span>
+<p class="noSpacing bold">Fresh</p>
+<p>The Tomatometer is 60% or higher.</p>
+</div>
+<div class="col-xs-8 center">
+<span class="icon huge rotten"></span>
+<p class="noSpacing bold">Rotten</p>
+<p>The Tomatometer is 59% or lower.</p>
+</div>
+<div class="col-xs-8 center">
+<span class="icon huge certified"></span>
+<p class="noSpacing bold">Certified Fresh</p>
+<p>The Tomatometer is 75% or higher, with 40 reviews (movies) or 20 reviews (TV). At least 5 reviews from Top Critics.</p>
+</div>
+</div>
+<div class="col-xs-6 center">
+<span class="icon huge popcorn"></span>
+<p class="noSpacing bold">Audience Score</p>
+<p>Percentage of users who rate a movie or TV show positively.</p>
+</div>
+</div>
+<div class="clickForMore" style="margin-bottom:0">
+<a class="unstyled articleLink" href="/about/">Learn More <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="signup">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h4 class="modal-title">Sign up for Rotten Tomatoes</h4>
+</div>
+<div class="modal-body">
+<p class="text-center">
+<img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/>
+</p>
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-6 text-right">
+<i class="glyphicon glyphicon-star"></i>
+</div>
+<div class="col-sm-18">
+<p>
+<strong>Rate movies &amp; TV</strong> and see your friends' ratings
+                            </p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 text-right">
+<i class="glyphicon glyphicon-thumbs-up"></i>
+</div>
+<div class="col-sm-18">
+<p>
+<strong>Get recommendations</strong> personalized for you
+                            </p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 text-right">
+<i class="glyphicon glyphicon-comment"></i>
+</div>
+<div class="col-sm-18">
+<p>
+<strong>Join the discussion</strong> with other movie buffs
+                            </p>
+</div>
+</div>
+<br/>
+<p class="text-center">
+<small>
+                            By clicking “Sign up”, I agree to the
+                            <a href="/terms/" target="_blank">Terms of Service</a>
+                            and <a href="/privacy/">Privacy Policy</a>.
+                        </small>
+</p>
+<p class="text-center">
+<a class="btn btn-primary-fb btn-lg" href="javascript:FB.login();"> <i class="fontelloIcon icon-facebook-squared"></i> Sign up with Facebook
+                        </a><br/> <small>or <a data-dismiss="modal" data-target="#signup_email" data-toggle="modal" href="#signup_email">sign up with email</a></small>
+</p>
+<br/>
+<p class="text-center">
+<small>Already have an account? <a data-dismiss="modal" data-target="#login" data-toggle="modal" href="#login">Log in here</a></small>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="signup_email">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h4 class="modal-title">Sign up with Email</h4>
+</div>
+<div class="modal-body">
+<p class="text-center">
+<img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/>
+</p>
+<p class="text-center">
+<small>Already have an account? <a data-dismiss="modal" data-target="#login" data-toggle="modal" href="#login">Log in here</a></small>
+</p>
+
+<form action="https://www.rottentomatoes.com/user/account/action/register/" class="form-horizontal" method="POST" role="form">
+<input name="invite" type="hidden" value=""/> <input name="v" type="hidden" value=""/> <input name="login_redirect" type="hidden" value="http://www.rottentomatoes.com/m/watership_down/"/>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_first_name">First Name</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_first_name" name="register_first_name" placeholder="first name"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_last_name">Last Name</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_last_name" name="register_last_name" placeholder="last name"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_email">Email</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_email" name="register_email" placeholder="e.g. johndoe@gmail.com" type="email" value=""/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_birthday_month">Birthday</label>
+<div class="col-sm-9">
+<select class="form-control" id="register_birthday_month" name="register_birthday_month">
+<option value="-1">Month</option>
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option>
+</select>
+</div>
+<div class="col-sm-4">
+<select class="form-control" id="register_birthday_day" name="register_birthday_day">
+<option value="0">Day</option>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+<option>11</option>
+<option>12</option>
+<option>13</option>
+<option>14</option>
+<option>15</option>
+<option>16</option>
+<option>17</option>
+<option>18</option>
+<option>19</option>
+<option>20</option>
+<option>21</option>
+<option>22</option>
+<option>23</option>
+<option>24</option>
+<option>25</option>
+<option>26</option>
+<option>27</option>
+<option>28</option>
+<option>29</option>
+<option>30</option>
+<option>31</option>
+</select>
+</div>
+<div class="col-sm-5">
+<select class="form-control" id="register_birthday_year" name="register_birthday_year">
+<option value="2015">Year</option>
+<option>2014</option>
+<option>2013</option>
+<option>2012</option>
+<option>2011</option>
+<option>2010</option>
+<option>2009</option>
+<option>2008</option>
+<option>2007</option>
+<option>2006</option>
+<option>2005</option>
+<option>2004</option>
+<option>2003</option>
+<option>2002</option>
+<option>2001</option>
+<option>2000</option>
+<option>1999</option>
+<option>1998</option>
+<option>1997</option>
+<option>1996</option>
+<option>1995</option>
+<option>1994</option>
+<option>1993</option>
+<option>1992</option>
+<option>1991</option>
+<option>1990</option>
+<option>1989</option>
+<option>1988</option>
+<option>1987</option>
+<option>1986</option>
+<option>1985</option>
+<option>1984</option>
+<option>1983</option>
+<option>1982</option>
+<option>1981</option>
+<option>1980</option>
+<option>1979</option>
+<option>1978</option>
+<option>1977</option>
+<option>1976</option>
+<option>1975</option>
+<option>1974</option>
+<option>1973</option>
+<option>1972</option>
+<option>1971</option>
+<option>1970</option>
+<option>1969</option>
+<option>1968</option>
+<option>1967</option>
+<option>1966</option>
+<option>1965</option>
+<option>1964</option>
+<option>1963</option>
+<option>1962</option>
+<option>1961</option>
+<option>1960</option>
+<option>1959</option>
+<option>1958</option>
+<option>1957</option>
+<option>1956</option>
+<option>1955</option>
+<option>1954</option>
+<option>1953</option>
+<option>1952</option>
+<option>1951</option>
+<option>1950</option>
+<option>1949</option>
+<option>1948</option>
+<option>1947</option>
+<option>1946</option>
+<option>1945</option>
+<option>1944</option>
+<option>1943</option>
+<option>1942</option>
+<option>1941</option>
+<option>1940</option>
+<option>1939</option>
+<option>1938</option>
+<option>1937</option>
+<option>1936</option>
+<option>1935</option>
+<option>1934</option>
+<option>1933</option>
+<option>1932</option>
+<option>1931</option>
+<option>1930</option>
+<option>1929</option>
+<option>1928</option>
+<option>1927</option>
+<option>1926</option>
+<option>1925</option>
+<option>1924</option>
+<option>1923</option>
+<option>1922</option>
+<option>1921</option>
+<option>1920</option>
+<option>1919</option>
+<option>1918</option>
+<option>1917</option>
+<option>1916</option>
+<option>1915</option>
+</select>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_password">Password</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_password" name="register_password" placeholder="At least 6 characters" type="password"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_password_check">Confirm Password</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_password_check" name="register_password_check" placeholder="Confirm password" type="password"/>
+</div>
+</div>
+<div id="recaptcha_widget" style="display: none">
+<div class="form-group">
+<label class="control-label col-sm-6" for="recaptcha_response_field"><span class="recaptcha_only_if_image">Type in the <br/>words <a href="javascript:Recaptcha.showhelp()"><i class="glyphicon glyphicon-question-sign"></i></a>:
+								</span></label>
+<div class="col-sm-18">
+<div id="recaptcha_image"></div>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6"><span class="recaptcha_only_if_incorrect_sol" style="color: red">Incorrect please try again</span></label>
+<div class="col-sm-18">
+<div class="input-group">
+<input class="form-control" id="recaptcha_response_field" name="recaptcha_response_field" type="text"/> <span class="input-group-btn"><a class="btn btn-default" href="javascript:Recaptcha.reload()"><i class="glyphicon glyphicon-refresh"></i></a></span>
+</div>
+</div>
+</div>
+</div>
+<div class="form-group">
+<div class="col-sm-6"> </div>
+<div class="col-sm-18">
+<small>By clicking “Sign Up”, I agree to the <a href="/terms/" target="_blank">Terms of Service</a> and <a href="/privacy/" target="_blank">Privacy Policy</a></small>
+</div>
+</div>
+<div class="form-group">
+<div class="col-sm-6"> </div>
+<div class="col-sm-18">
+<button class="btn btn-primary-rt" type="submit">Sign Up</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="login">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h4 class="modal-title">Log In to Rotten Tomatoes</h4>
+</div>
+<div class="modal-body">
+<p class="text-center"><img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/></p>
+<p>
+<a class="btn btn-primary-fb btn-lg fullWidth" href="javascript:void(0);" id="fbLoginButton"><i class="fontelloIcon icon-facebook-squared"></i> Log in with Facebook</a>
+</p>
+<p class="text-center">OR</p>
+<form action="https://www.rottentomatoes.com/user/account/login/" method="POST" role="form">
+<div class="form-group">
+<input class="form-control" name="login_username" placeholder="Username or Email" type="text">
+</input></div>
+<div class="form-group">
+<input class="form-control" name="login_password" placeholder="Password" type="password">
+</input></div>
+<div class="form-group">
+<button class="btn btn-default" type="submit">Log In</button>
+<p><small>
+<a href="/login/forgot_password/">Forgot your password?</a><br/>
+                            Don't have an account? <a data-dismiss="modal" data-target="#signup" data-toggle="modal" href="#signup">Sign up here</a>
+</small></p>
+</div>
+<input name="redirectUrl" type="hidden" value="http://www.rottentomatoes.com/m/watership_down/"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header_main">
+<div class="navbar navbar-rt" role="navigation">
+<div class="navbar-header pull-right">
+<div class="header_links">
+<a data-target="#whatIsTomatometer" data-toggle="modal" id="header-whats-the-tomatometer">What's the Tomatometer?</a>
+<a href="/critics/" id="header-top-bar-critics">RT Critics</a>
+<a href="/newsletter/" id="header-top-bar-newsletter">Newsletter</a>
+<div id="headerUserSection" style="display: inline-block;">
+<a class="signupLink login" data-target="#signup" data-toggle="modal" href="#signup" id="header-top-bar-signup">SIGN UP</a>
+<a class="loginLink login" data-target="#login" data-toggle="modal" href="#" id="header-top-bar-login">LOG IN</a>
+<div class="userDropdown dropdown" style="display: none;">
+<a href="/user/id/"><img class="userThumb"/><span class="userName">Logged In</span> <span class="fontelloIcon icon-down-dir"></span></a>
+<ul class="dropdown-menu roundMenu">
+<li class="media userStats">
+<a class="pull-left" href="/user/id/">
+<img alt="" src="//static6.flixster.com/static/locker/images/actor.default.tmb.gif" width="40"/>
+</a>
+<div class="media-body">
+<div class="name">
+<a class="unstyled articleLink name" href="/user/id/">
+</a>
+</div>
+<div class="wts">
+<a class="unstyled articleLink stat" href="/user/id//wts">
+<span class="glyphicon glyphicon-plus" style="color:#0C89C8"></span>
+                                            0 Want To See
+                                        </a>
+</div>
+<div class="ratings">
+<a class="unstyled articleLink stat" href="/user/id//ratings">
+<span class="glyphicon glyphicon-star" style="color:#F18714"></span>
+                                            0 Ratings
+                                        </a>
+</div>
+<div class="friends">
+<a class="unstyled articleLink stat" href="user/id//friends">
+<span class="icon friends"></span>
+                                            0 friends
+                                        </a>
+</div>
+</div>
+</li>
+<li class="header-top-bar-item"><a class="articleLink" href="/user/" id="header-top-bar-profile" style="margin-bottom:-4px">Profile</a></li>
+<li class="header-top-bar-item"><a class="articleLink" href="/user/account/" id="header-top-bar-account" style="margin-bottom:-4px">Account</a></li>
+<li class="header-top-bar-item"><a class="articleLink" href="/logout/" id="header-top-bar-logout">Log Out</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-collapse row">
+<div class="col-xs-13">
+<div class="navbar-brand">
+<a href="/" id="header-rt-logo"> <img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/>
+</a>
+</div>
+<form action="/search/" method="get">
+<div class="navbar-searchbox">
+<div class="input-group" style="width: 100%">
+<input class="form-control" id="search-term" name="srch-term" placeholder="Search movies, TV, actors, more...." type="text">
+<div class="input-group-btn">
+<button class="btn btn-default searchBtn" style="height: 34px" type="submit">
+<em class="glyphicon glyphicon-search"></em>
+</button>
+</div>
+</input></div>
+</div>
+</form>
+</div>
+<div class="navbar-nav col-xs-11" id="menu">
+<ul class="list-inline">
+<li class="menuHeader center dropdown noSpacing">
+<a class="h2 white" href="/browse/" id="movieMenu" role="button">
+                            Movies<span class="fontelloIcon icon-down-dir"></span>
+</a>
+<div aria-labelledby="movieMenu" class="dropdown-menu" role="menu">
+<div class="row-sameColumnHeight">
+<div class="col-xs-5 subnav">
+<div class="innerSubnav">
+<h2 class="title">Movies in Theaters</h2>
+<ul class="list-unstyled" id="header-movies-in-theaters">
+<li>
+<a class="unstyled articleLink" href="/browse/opening/">Opening This Week</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/in-theaters/">Top Box Office</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/upcoming/">Coming Soon to Theaters</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/box-office/">Weekend Earnings</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/cf-in-theaters/">Certified Fresh Movies</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-5 subnav">
+<div class="innerSubnav">
+<a class="unstyled articleLink" href="/dvd/"><h2 class="title">On Dvd &amp; Streaming</h2></a>
+<ul class="list-unstyled" id="header-on-dvd-streaming">
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/?services=netflix_iw">Netflix Streaming</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/?services=itunes">iTunes</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/?services=amazon_prime;amazon">Amazon and Amazon Prime</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-top-rentals/">Top Rentals</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-new-releases/">New Releases</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-upcoming/">Coming Soon to DVD</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/cf-dvd-all/">Certified Fresh Movies</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/">Browse All</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-3 subnav">
+<div class="innerSubnav">
+<h2 class="title">More</h2>
+<ul class="list-unstyled" id="header-movies-more">
+<li><a class="unstyled articleLink" href="/top/">Top Movies</a></li>
+<li><a class="unstyled articleLink" href="/trailers/">Trailers</a></li>
+<li><a class="unstyled articleLink" href="/photos/">Photos</a></li>
+<li><a class="unstyled articleLink" href="http://forum.rottentomatoes.com">Forums</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-11 subnav">
+<h2 class="title">Certified Fresh Picks</h2>
+<ul class="list-inline freshPicks" id="header-certified-fresh-picks">
+<li>
+<a class="unstyled articleLink cfpLinks" href="/m/american_sniper/">
+<p class="topText bold">In Theaters</p>
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="http://content8.flixster.com/movie/11/18/08/11180834_det.jpg"/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">73%</span>
+</div>
+<p class="title noSpacing">American Sniper</p>
+</a>
+</li>
+<li>
+<a class="unstyled articleLink cfpLinks" href="/m/selma/">
+<p class="topText bold">In Theaters</p>
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="http://content7.flixster.com/movie/11/18/14/11181437_det.jpg"/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">98%</span>
+</div>
+<p class="title noSpacing">Selma</p>
+</a>
+</li>
+<li>
+<a class="unstyled articleLink cfpLinks" href="/m/john_wick/">
+<p class="topText bold">On Dvd/Streaming</p>
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="http://content8.flixster.com/movie/11/18/08/11180842_det.jpg"/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">83%</span>
+</div>
+<p class="title noSpacing">John Wick</p>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="menuHeader center dropdown noSpacing dropdown-toggle">
+<a class="h2" href="/top-tv/" id="tvMenu"> TV<span class="fontelloIcon icon-down-dir"></span></a>
+<div aria-labelledby="tvMenu" class="dropdown-menu" role="menu">
+<div class="row-sameColumnHeight">
+<div class="col-xs-7 subnav">
+<div class="innerSubnav" id="header-tv-col1">
+<h2 class="title">
+        
+            
+            
+                New Television
+            
+        
+    </h2>
+<table class="movie_list tv_list" id="tv-list-1">
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table></div></div></div></div></li></ul></div></div></div></div></div></div></body></html>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12057">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">94%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/togetherness/s01/" id="tvPosterLink">Togetherness: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12090">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/fortitude/s01/" id="tvPosterLink">Fortitude: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7718">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/fresh-off-the-boat/s01/" id="tvPosterLink">Fresh Off the Boat: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12492">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">81%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/man-seeking-woman/s01/" id="tvPosterLink">Man Seeking Woman: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12053">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/eye-candy/s01/" id="tvPosterLink">Eye Candy: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12571">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">73%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/babylon/s01/" id="tvPosterLink">Babylon: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="8076">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">57%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/12-monkeys/s01/" id="tvPosterLink">12 Monkeys: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="13271">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">58%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/sons-of-liberty/s01/" id="tvPosterLink">Sons of Liberty: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7466">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">50%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/allegiance/s01/" id="tvPosterLink">Allegiance: Season 1</a>
+</td>
+
+
+<div class="clickForMore">
+<a class="unstyled articleLink" href="/browse/tv-list-1/" id="tv-list-1-view-all">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+
+
+<div class="col-xs-7 subnav">
+<div class="innerSubnav" id="header-tv-col2">
+<h2 class="title">
+        
+            
+            
+                New TV Episodes Tonight
+            
+        
+    </h2>
+<table class="movie_list tv_list" id="tv-list-2">
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7787">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table></div></div>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/jane-the-virgin/s01/" id="tvPosterLink">Jane the Virgin: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="6913">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/gotham/s01/" id="tvPosterLink">Gotham: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="6859">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">75%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/chasing-life/s01/" id="tvPosterLink">Chasing Life: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12053">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/eye-candy/s01/" id="tvPosterLink">Eye Candy: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7034">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/sleepy-hollow/s02/" id="tvPosterLink">Sleepy Hollow: Season 2</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="6936">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">40%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/scorpion/s01/" id="tvPosterLink">Scorpion: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7458">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">26%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/state-of-affairs/s01/" id="tvPosterLink">State of Affairs: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="13311">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/the-fosters/s03/" id="tvPosterLink">The Fosters: Season 3</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="13205">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/the-originals/s03/" id="tvPosterLink">The Originals: Season 3</a>
+</td>
+
+
+<div class="clickForMore">
+<a class="unstyled articleLink" href="/browse/tv-list-2/" id="tv-list-2-view-all">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+
+
+<div class="col-xs-5 subnav">
+<div class="innerSubnav">
+<h2 class="title">More</h2>
+<ul class="list-unstyled" id="header-tv-more">
+<li><a class="unstyled articleLink" href="/tv/">Latest on TV</a></li>
+<li><a class="unstyled articleLink" href="/top-tv/">Top TV Shows</a></li>
+<li><a class="unstyled articleLink" href="/browse/tv-list-3/">Certified Fresh TV</a></li>
+</ul>
+<h2 class="title" style="margin-top: 20px">Episodic Reviews</h2>
+<ul class="list-unstyled" id="header-tv-episodic-reviews">
+<li><a href="/tv/gotham/s01/e01"> Gotham Season 1 </a></li>
+<li><a href="/tv/boardwalk-empire/s05/e01/"> Boardwalk Empire Season 5 </a></li>
+<li><a href="/tv/sons-of-anarchy/s07/e01/"> Sons of Anarchy Season 7 </a></li>
+<li><a href="/tv/game-of-thrones/s04/e01/"> Game of Thrones Season 4 </a></li>
+<li><a href="/tv/mad-men/s07/e01/"> Mad Men Season 7 </a></li>
+<li><a href="/tv/homeland/s04/e01/"> Homeland Season 4 </a></li>
+<li><a href="/tv/the-walking-dead/s05/e01/"> The Walking Dead Season 5 </a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-5 subnav freshPicks">
+<div class="innerSubnav">
+<h2 class="title">Certified Fresh Pick</h2>
+<ul class="list-unstyled" id="header-tv-certified-fresh">
+<li>
+<a class="unstyled articleLink cfpLinks" href="/tv/better-call-saul/s01/">
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="
+                                                                
+                                                                
+                                                                    http://content7.flixster.com/tv/14/35/143509_det.jpg
+                                                                
+                                                            "/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">100%</span>
+</div>
+<p class="title noSpacing">Better Call Saul: Season 1</p>
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<li class="menuHeader center dropdown noSpacing dropdown-toggle">
+<a class="h2" href="/news/" id="newsMenu">
+                            News<span class="fontelloIcon icon-down-dir"></span>
+</a>
+<div aria-labelledby="newsMenu" class="dropdown-menu" role="menu">
+<div class="row-sameColumnHeight noSpacing">
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-guides">
+<h2 class="title">Guides</h2>
+<div class="media menuHeadline">
+<div class="subnavcell pull-left">
+</div>
+<div class="media-body subnavcell">
+<h2 class="media-heading noSpacing">
+<a class="unstyled" data-pageheader="Guides" href="/hub/awards-tour-2015">Awards Tour 2015</a>
+</h2>
+</div>
+</div>
+<ul class="list-unstyled">
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/hobbit_headquarters">Hobbit Headquarters</a></li>
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/scare-central">Scare Central</a></li>
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/holiday-guide-2014">Holiday TV &amp; Movie Guide 2014</a></li>
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/summer-movie-guide-2014">Summer Movie Guide 2014</a></li>
+</ul>
+<div class="clickForMore">
+<a class="unstyled articleLink" data-pageheader="Guides - Show All" href="/guides/">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-rtnews">
+<h2 class="title">RT News</h2>
+<ul class="redDot" style="margin-left: 10px">
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/m/the_spongebob_movie_sponge_out_of_water/news/1932728/box_office_guru_wrapup_spongebob_dethrones_american_sniper_with_strong_debut/">Box Office Guru Wrapup: <em>SpongeBob</em> Dethrones <em>American Sniper</em> With Strong Debut</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/news/1932504/2015_bafta_awards_winners/">2015 BAFTA Awards Winners</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/m/1016885-public_enemy/news/1932675/watch_tcms_31_days_of_oscar/">Watch TCM's 31 Days of Oscar</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/m/citizenfour/news/1932727/winners_of_the_67th_annual_directors_guild_of_america_awards/">Winners Of The 67th Annual Directors Guild Of America Awards</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/news/1932726/2015_naacp_image_award_winners/">2015 NAACP Image Award Winners</a>
+</li>
+</ul>
+<div class="clickForMore" style="margin-bottom: 0">
+<a class="unstyled articleLink" data-pageheader="RT News - Show All" href="/news/?filter=rt">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-best-worst">
+<h2 class="title">Best and Worst</h2>
+<div class="media menuHeadline">
+<a class="pull-left" data-pageheader="Best and Worst" href="/guides/best-christmas-movies/">
+<img src="http://content7.flixster.com/site/10/25/47/10254737_ori.jpg" style="border:0px;"/>
+</a>
+<div class="media-body">
+<h2 class="media-heading">
+<a class="" data-pageheader="Best and Worst" href="/guides/best-christmas-movies/">Best Christmas Movies</a>
+</h2>
+</div>
+</div>
+<ul>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/holiday-movie-scorecard-2014/">Holiday Movie Scorecard 2014</a>
+</li>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/best-horror-movies/">Best Horror Movies</a>
+</li>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/worst_summer_movies/">Worst Summer Movies</a>
+</li>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/summer-movie-scorecard-2014/">Summer Movie Scorecard 2014</a>
+</li>
+</ul>
+<div class="clickForMore">
+<a class="unstyled articleLink" data-pageheader="Best and Worst - Show All" href="/guides/">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-columns">
+<h2 class="title">Columns</h2>
+<ul class="list-unstyled">
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="24 Frames" href="/news/columns/24_frames">24 Frames</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Box Office Guru" href="/news/columns/box_office">Box Office Guru</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Critics Consensus" href="/news/columns/critics_consensus">Critics Consensus</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Five Favorite Films" href="/news/columns/five_favorite_films">Five Favorite Films</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Now Streaming" href="/news/columns/now_streaming">Now Streaming</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Parental Guidance" href="/news/columns/parental_guidance">Parental Guidance</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Red Carpet Roundup" href="/news/columns/red_carpet_round_up">Red Carpet Roundup</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="RT on DVD" href="/news/columns/rt_on_dvd">RT on DVD</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Total Recall" href="/news/columns/total_recall">Total Recall</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="TV Talk" href="/news/columns/tv_talk">TV Talk</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Video Interviews" href="/news/columns/video_interviews">Video Interviews</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Weekly Binge" href="/news/columns/weekly_binge">Weekly Binge</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Weekly Ketchup" href="/news/columns/weekly_ketchup">Weekly Ketchup</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="h2 menuHeader center noSpacing" id="header-tickets-showtimes" style="border-radius: 5px">
+<a class="menuHeader" href="/showtimes/" id="ticketingMenu"> Tickets &amp; Showtimes </a>
+</li>
+
+
+
+
+<div class="trendingBar">
+<div class="fr">
+<ul class="list-inline social">
+<li class="header">Follow Us</li>
+<li><a class="unstyled trendingLink fontelloIcon icon-twitter white" href="http://twitter.com/rottentomatoes" id="header-twitter-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-facebook-squared white" href="http://www.facebook.com/rottentomatoes" id="header-facebook-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-gplus white" href="https://plus.google.com/+RottenTomatoes" id="header-google-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-youtube-play white" href="http://www.youtube.com/user/rottentomatoes" id="header-youtube-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-tumblr white" href="http://rottentomatoes.tumblr.com/" id="header-tumblr-social-link" target="_blank"></a></li>
+</ul>
+</div>
+<ul class="list-inline trendingEl">
+<li class="header">Trending on RT</li>
+<li>
+<a class="unstyled trendingLink" href="/news/1932504/2015_bafta_awards_winners/">
+                            BAFTAs
+                        </a>
+</li>
+<li>
+<a class="unstyled trendingLink" href="/m/the_spongebob_movie_sponge_out_of_water/news/1932728/box_office_guru_wrapup_spongebob_dethrones_american_sniper_with_strong_debut/">
+                            SpongeBob's B.O.
+                        </a>
+</li>
+<li>
+<a class="unstyled trendingLink" href="/news/1932522/vote_for_the_razzie_redeemer_award/">
+                            Vote in the Razzies
+                        </a>
+</li>
+<li>
+<a class="unstyled trendingLink" href="/tv/better-call-saul/s01/">
+                            Better Call Saul
+                        </a>
+</li>
+</ul>
+</div>
+
+
+<div class="leaderboard_wrapper" style="min-height:0; padding:0;">
+<div class="leaderboard_helper">
+<div id="below_header_ad" style="display:none; padding: 10px 0px;"></div>
+</div>
+</div>
+
+<div class="container">
+<div class="col mob col-left hidden-xs" id="movieListColumn">
+<div id="movies_sidebar">
+<ul class="nav nav-tabs">
+<li class="in-theaters-tab ">
+<a data-toggle="tab" href="#in-theaters">
+                In <br/>Theaters
+            </a>
+</li>
+<li class="on-dvd-tab active">
+<a data-toggle="tab" href="#on-dvd">
+                DVD &amp; Streaming
+            </a>
+</li>
+<li class="on-tv-tab ">
+<a data-toggle="tab" href="#on-tv">
+                TV <br/> Shows
+            </a>
+</li>
+</ul>
+<div class="tab-content" style="height:auto;">
+<div class="tab-pane fade " id="in-theaters">
+<style>
+.sidebarInTheaterOpening,.sidebarInTheaterTopBoxOffice,.sidebarInTheaterComingSoon { font-size:14px }
+</style>
+<h3 style="color:#787878">Opening</h3>
+<table class="movie_list opening">
+<tr class="sidebarInTheaterOpening" data-movie-id="771353298">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">81%</span>
+</span>
+</td></tr></table></div></div></div></div></div>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/kingsman_the_secret_service/" sub="hover" target="_top">Kingsman: The Secret Service</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771311953">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/fifty_shades_of_grey/" sub="hover" target="_top">Fifty Shades of Grey</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771372796">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">93%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/what_we_do_in_the_shadows/" sub="hover" target="_top">What We Do In The Shadows</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771387675">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">53%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_last_5_years/" sub="hover" target="_top">The Last 5 Years</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771380773">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">70%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_rewrite/" sub="hover" target="_top">The Rewrite</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771386199" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/old_fashioned/" sub="hover" target="_top">Old Fashioned</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771380481" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/gett_the_trial_of_viviane_amsalem/" sub="hover" target="_top">GETT: The Trial of Viviane Amsalem</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771391037" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">83%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/wyrmwood/" sub="hover" target="_top">Wyrmwood</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771404224" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">60%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/da_sweet_blood_of_jesus/" sub="hover" target="_top">Da Sweet Blood of Jesus</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771366554" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/white_rabbit/" sub="hover" target="_top">White Rabbit</a></td>
+<td class="right_col right">Feb 13</td>
+
+
+<div class="showMore openingShortMore" data-show="sidebarInTheaterOpening">
+<a class="pull-right" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll openingMore">
+<a class="unstyled articleLink" href="/browse/opening/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+<h3 style="color:#787878">Top Box Office</h3>
+<table class="movie_list top_box_office">
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771361762">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">75%</span>
+</span>
+</td></tr></table>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_spongebob_movie_sponge_out_of_water/" sub="hover" target="_top">The SpongeBob Movie: Sponge Out of Water</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $56.0M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771357000">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">73%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/american_sniper/" sub="hover" target="_top">American Sniper</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $24.2M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771352387">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">22%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/jupiter_ascending_2014/" sub="hover" target="_top">Jupiter Ascending</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $19.0M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771247934">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">10%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/seventh_son/" sub="hover" target="_top">Seventh Son</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $7.1M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771366608">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">98%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/paddington_2014/" sub="hover" target="_top">Paddington</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $5.4M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771355515">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">38%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/project_almanac/" sub="hover" target="_top">Project Almanac</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $5.3M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771372271">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_imitation_game/" sub="hover" target="_top">The Imitation Game</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $4.9M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771373844">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">33%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_wedding_ringer/" sub="hover" target="_top">The Wedding Ringer</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $4.8M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771383833">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">37%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/black_or_white/" sub="hover" target="_top">Black or White</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $4.5M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771370937">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">13%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_boy_next_door_2015/" sub="hover" target="_top">The Boy Next Door</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $4.1M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771373945" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">10%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/taken_3/" sub="hover" target="_top">Taken 3</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $2.4M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771383243" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">98%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/selma/" sub="hover" target="_top">Selma</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $1.7M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771361913" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">10%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_loft/" sub="hover" target="_top">The Loft</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $1.5M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771372602" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">92%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/birdman_2014/" sub="hover" target="_top">Birdman</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $1.4M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771373530" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/a_most_violent_year/" sub="hover" target="_top">A Most Violent Year</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $1.0M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771366367" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">80%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_theory_of_everything_2014/" sub="hover" target="_top">The Theory of Everything</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $1.0M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771387088" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/still_alice/" sub="hover" target="_top">Still Alice</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $0.9M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771356920" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">72%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/into_the_woods_2014/" sub="hover" target="_top">Into the Woods</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $0.9M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771403070" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">18%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/strange_magic/" sub="hover" target="_top">Strange Magic</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $0.8M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771371883" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">95%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/whiplash_2014/" sub="hover" target="_top">Whiplash</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $0.8M
+                    
+                </td>
+
+
+<div class="showMore" data-show="sidebarInTheaterComingSoon">
+<a class="pull-right" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll topBoxOfficeMore">
+<a class="unstyled articleLink" href="/browse/in-theaters/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+<h3 style="color:#787878">Coming Soon</h3>
+<table class="movie_list comingSoon">
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771369273">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr></table>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/hot_tub_time_machine_2/" sub="hover" target="_top">Hot Tub Time Machine 2</a></td>
+<td class="right_col right">Feb 20</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771381399">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_duff/" sub="hover" target="_top">The DUFF</a></td>
+<td class="right_col right">Feb 20</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771360014">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/mcfarland_usa/" sub="hover" target="_top">McFarland USA</a></td>
+<td class="right_col right">Feb 20</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771379871">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">91%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/wild_tales/" sub="hover" target="_top">Wild Tales</a></td>
+<td class="right_col right">Feb 20</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771407670">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/gekijouban_naruto_the_last/" sub="hover" target="_top">Gekijouban Naruto: The Last</a></td>
+<td class="right_col right">Feb 20</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771321013" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/focus_2014/" sub="hover" target="_top">Focus</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771371933" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_lazarus_effect/" sub="hover" target="_top">The Lazarus Effect</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771380717" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">71%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/everly/" sub="hover" target="_top">Everly</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771321139" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">68%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/maps_to_the_stars/" sub="hover" target="_top">Maps to the Stars</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771374324" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">98%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/71_2015/" sub="hover" target="_top">'71</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771380369" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">63%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_salvation/" sub="hover" target="_top">The Salvation</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771360372" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/chappie/" sub="hover" target="_top">Chappie</a></td>
+<td class="right_col right">Mar 06</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771369492" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/unfinished_business_2015/" sub="hover" target="_top">Unfinished Business</a></td>
+<td class="right_col right">Mar 06</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771386174" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_second_best_exotic_marigold_hotel/" sub="hover" target="_top">The Second Best Exotic Marigold Hotel</a></td>
+<td class="right_col right">Mar 06</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771363700" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/these_final_hours/" sub="hover" target="_top">These Final Hours</a></td>
+<td class="right_col right">Mar 06</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771270966" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/cinderella_2013/" sub="hover" target="_top">Cinderella</a></td>
+<td class="right_col right">Mar 13</td>
+
+
+<div class="showMore" data-show="sidebarInTheaterComingSoon">
+<a class="pull-right" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll comingSoonMore" style="margin-bottom:5px">
+<a class="unstyled articleLink" href="/browse/upcoming/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+
+<div class="tab-pane fade active in" id="on-dvd">
+<style>
+.sidebarDvdTopRentals,.sidebarDvdComingSoon { font-size:14px }
+</style>
+<h3 style="color:#787878">Top Rentals</h3>
+<table class="movie_list top_rentals">
+<tr class="sidebarDvdTopRentals" data-movie-id="771311818">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">91%</span>
+</span>
+</td></tr></table></div>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/guardians_of_the_galaxy/" sub="hover" target="_top">Guardians of the Galaxy</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771360863">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">66%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/lucy_2014/" sub="hover" target="_top">Lucy</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771191433">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">21%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/teenage_mutant_ninja_turtles_2013/" sub="hover" target="_top">Teenage Mutant Ninja Turtles</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771354484">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">77%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/fury_2015/" sub="hover" target="_top">Fury</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771360861">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">88%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/gone_girl/" sub="hover" target="_top">Gone Girl</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771313085">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">61%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_equalizer_2013/" sub="hover" target="_top">The Equalizer</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771349837">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">63%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_maze_runner/" sub="hover" target="_top">The Maze Runner</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771373348">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">98%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/boyhood/" sub="hover" target="_top">Boyhood</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771380953">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">95%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/nightcrawler/" sub="hover" target="_top">Nightcrawler</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771386515">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">83%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/john_wick/" sub="hover" target="_top">John Wick</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771323152">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">82%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_book_of_life_2014/" sub="hover" target="_top">The Book of Life</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771350092">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">75%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_boxtrolls/" sub="hover" target="_top">The Boxtrolls</a>
+</td>
+
+
+<div class="showAll topRentalsMore">
+<a class="unstyled articleLink" href="/browse/dvd-top-rentals/">
+        View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+<h3 style="color:#787878">New On DVD This Week</h3>
+<table class="movie_list new_release">
+<tr class="sidebarDvdComingSoon" data-movie-id="770909937">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">62%</span>
+</span>
+</td></tr></table>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/alexander_and_the_terrible_horrible_no_good_very_bad_day/" sub="hover" target="_top">Alexander and the Terrible, Horr...</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771364788">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">8%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/addicted_2014/" sub="hover" target="_top">Addicted</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771373588">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">81%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/predestination/" sub="hover" target="_top">Predestination</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771362833">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">74%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/rosewater/" sub="hover" target="_top">Rosewater</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771359639">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">77%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/kill_the_messenger_2015/" sub="hover" target="_top">Kill the Messenger</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771371920">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">69%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/laggies/" sub="hover" target="_top">Laggies</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771380333">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">93%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/force_majeure_2014/" sub="hover" target="_top">Force Majeure</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771362221">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">74%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/felony_2013/" sub="hover" target="_top">Felony</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771318427">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">17%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/tarzan_2013/" sub="hover" target="_top">Tarzan</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771380698">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">29%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_song/" sub="hover" target="_top">The Song</a>
+</td>
+
+
+<div class="showAll newReleaseMore" style="margin-bottom:10px">
+<a class="unstyled articleLink" href="/browse/dvd-new-releases/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+
+<div class="tab-pane fade " id="on-tv">
+<style>
+.tvList1,.tvList2,.tvList3 { font-size:14px }
+</style>
+<h3 style="color:#787878">New Television</h3>
+<table class="movie_list tv_list">
+<tr class="tv_show_tr tvList1" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table></div>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="12057">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">94%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/togetherness/s01/" id="tvPosterLink">Togetherness: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="12090">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/fortitude/s01/" id="tvPosterLink">Fortitude: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="7718">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/fresh-off-the-boat/s01/" id="tvPosterLink">Fresh Off the Boat: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="12492">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">81%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/man-seeking-woman/s01/" id="tvPosterLink">Man Seeking Woman: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="12053">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/eye-candy/s01/" id="tvPosterLink">Eye Candy: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="12571">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">73%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/babylon/s01/" id="tvPosterLink">Babylon: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="8076">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">57%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/12-monkeys/s01/" id="tvPosterLink">12 Monkeys: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="13271">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">58%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/sons-of-liberty/s01/" id="tvPosterLink">Sons of Liberty: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="7466">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">50%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/allegiance/s01/" id="tvPosterLink">Allegiance: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="8069">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">36%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/backstrom/s01/" id="tvPosterLink">Backstrom: Season 1</a>
+</td>
+
+
+<div class="showMore tvList1More" data-show="tvList1">
+<a class="fr" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll openingMore">
+<a class="unstyled articleLink" href="/browse/tv-list-1/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+<br/><br/>
+<h3 style="color:#787878">New TV Episodes Tonight</h3>
+<table class="movie_list tv_list">
+<tr class="tv_show_tr tvList2" data-season-id="7787">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/jane-the-virgin/s01/" id="tvPosterLink">Jane the Virgin: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList2" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList2" data-season-id="6913">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/gotham/s01/" id="tvPosterLink">Gotham: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList2" data-season-id="6859">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">75%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/chasing-life/s01/" id="tvPosterLink">Chasing Life: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList2" data-season-id="12053">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/eye-candy/s01/" id="tvPosterLink">Eye Candy: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList2" data-season-id="7034">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/sleepy-hollow/s02/" id="tvPosterLink">Sleepy Hollow: Season 2</a>
+</td>
+
+
+<div class="showMore tvList2More" data-show="tvList2">
+<a class="fr" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll openingMore">
+<a class="unstyled articleLink" href="/browse/tv-list-2/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+<br/><br/>
+<h3 style="color:#787878">Certified Fresh TV</h3>
+<table class="movie_list tv_list">
+<tr class="tv_show_tr tvList3" data-season-id="12580">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/the-americans/s03/" id="tvPosterLink">The Americans: Season 3</a>
+</td>
+
+<tr class="tv_show_tr tvList3" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList3" data-season-id="7739">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">86%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/black-ish/s01/" id="tvPosterLink">black-ish: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList3" data-season-id="9403">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">79%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/downton-abbey/s05/" id="tvPosterLink">Downton Abbey: Season 5</a>
+</td>
+
+<tr class="tv_show_tr tvList3" data-season-id="7538">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/empire/s01/" id="tvPosterLink">Empire: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList3" data-season-id="6914">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">96%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/flash/s01/" id="tvPosterLink">The Flash: Season 1</a>
+</td>
+
+
+<div class="showMore tvList3More" data-show="tvList3">
+<a class="fr" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll openingMore">
+<a class="unstyled articleLink" href="/browse/tv-list-3/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+
+
+
+
+
+
+<div class="col mob col-center-right" id="mainColumn">
+
+<h1 class="movie_title">
+<span itemprop="name">
+                Watership Down
+                <span class="h3 subtle"> (1978)</span>
+</span>
+</h1>
+<div class="row" id="topSection">
+<div class="col-xs-7">
+<a class="trailer_play_action_button" data-trailer-url="/m/watership_down/trailer/" data-video-id="11197747" id="poster_link">
+<img alt="Watership Down" class="" height="258" itemprop="image" src="http://content7.flixster.com/movie/11/15/28/11152877_det.jpg" style="width:100%; height:auto;" title="Watership Down" width="180"/>
+<span class="play_button_big"></span>
+</a>
+</div>
+<div class="col-xs-17">
+<div>
+<div class="row-sameColumnHeight" id="scorePanel">
+<div class="col-xs-16 tmeterpanel">
+<ul class="pull-right" role="tablist">
+<li class="active pull-left critics-score">
+<a class="articleLink unstyled smaller gray" data-toggle="tab" href="#all-critics-numbers" role="tab">
+                    All Critics
+                </a>
+</li>
+<li class="pull-left"> | </li>
+<li class="pull-left critics-score">
+<a class="articleLink unstyled smaller gray" data-toggle="tab" href="#top-critics-numbers" role="tab">
+                    Top Critics
+                </a>
+</li></ul></div></div></div></div></div></div>
+
+<h3>TOMATOMETER <span class="glyphicon glyphicon-question-sign" data-placement="bottom" data-toggle="tooltip" rel="tooltip" title="The percentage of Approved Tomatometer Critics who have given this movie a positive review"></span></h3>
+<div class="tab-content">
+<div class="tab-pane active" id="all-critics-numbers" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+<meta content="All Critic Tomatometer" itemprop="name"/>
+<div class="row" style="margin-top:-10px">
+<div class="col-xs-12">
+<div class="tomato-left">
+<div class="meter">
+<a class="unstyled articleLink" href="#contentReviews" id="tomato_meter_link">
+<span class="meter-tomato icon big fresh pull-left"></span>
+<span class="meter-value"><span itemprop="ratingValue">81</span>%</span>
+<meta content="100" itemprop="bestrating"/>
+<meta content="0" itemprop="worstrating"/>
+</a>
+</div>
+<div id="scoreStats">
+<div>
+<span class="subtle">Average Rating: </span>
+                            
+                                
+                                    7.1/10
+                                
+                                
+                            
+                        </div>
+<div>
+<span class="subtle">Reviews Counted: </span>
+<span itemprop="reviewCount ratingCount">27</span>
+</div>
+<div>
+<span class="subtle">Fresh: </span>
+                                22
+                        </div>
+<div>
+<span class="subtle">Rotten: </span>
+                                5
+                        </div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 tomato-info" style="padding-left:0">
+<div class="progress" style="margin-top:10px">
+<div class="progress-bar fresh" style="width:81%;"></div>
+</div>
+<p class="critic_consensus">
+<span class="subtle">Critics Consensus:</span>
+                        Aimed at adults perhaps more than children, this is a respectful, beautifully animated adaptation of Richard Adams' beloved book.
+                </p>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="top-critics-numbers" itemscope="" itemtype="http://schema.org/AggregateRating">
+<meta content="Top Critic Tomatometer" itemprop="name"/>
+<p class="noReviewText">No Top Critics Tomatometer score yet...</p>
+<div class="row">
+<div class="col-xs-12">
+<div class="tomato-left">
+<div id="scoreStats">
+<div>
+<span class="subtle">Average Rating: </span>
+                            
+                                
+                                
+                                    N/A
+                                
+                            
+                        </div>
+<div>
+<span class="subtle">Reviews Counted: </span>
+<span itemprop="reviewCount ratingCount">3</span>
+</div>
+<div>
+<span class="subtle">Fresh: </span>
+                                1
+                        </div>
+<div>
+<span class="subtle">Rotten: </span>
+                                2
+                        </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-xs-8 audiencepanel">
+<h3>
+            AUDIENCE SCORE
+            <span class="glyphicon glyphicon-question-sign" data-placement="bottom" data-toggle="tooltip" rel="tooltip" title="The percentage of Rotten Tomatoes users who have rated this movie 3.5 stars or higher"></span>
+</h3>
+<div class="audience-score meter">
+<a class="unstyled articleLink" href="#audience_reviews">
+<div class="meter media" itemscope="" itemtype="http://schema.org/AggregateRating">
+<meta content="Audience Score" itemprop="name"/>
+<span class="meter-tomato icon big popcorn pull-left"></span>
+<div class="media-body">
+<span class="meter-value"><span itemprop="ratingValue">86</span>%</span>
+<div class="smaller bold" style="padding-left:5px">liked it</div>
+<meta content="100" itemprop="bestrating"/>
+<meta content="0" itemprop="worstrating"/>
+<meta content="33286" itemprop="ratingcount"/>
+</div>
+</div>
+</a>
+</div>
+<div class="audience-info">
+<div>
+<span class="subtle">Average Rating:</span>
+                
+                    
+                        3.6/5
+                    
+                    
+                
+            </div>
+<div>
+<span class="subtle">
+                    User Ratings:
+                </span>
+                33,286
+            </div>
+</div>
+</div>
+
+<div class="media" id="movie_videos">
+<div class="inlineBlock" id="trailer_thumb">
+<h3 class="lineHeader"><span class="pull-left">Trailer</span></h3>
+<div style="position:relative">
+<a class="trailer_play_action_button video_unit" data-trailer-url="/m/watership_down/trailer/" href="javascript:void(0)" id="mob_trailer">
+<span>
+<div class="trailer_thumb_img" style="background-image:url('http://content.internetvideoarchive.com/content/photos/8901/645625_028.jpg');">
+<h3 class="panel-heading">HD Video</h3>
+<span class="playButton fontelloIcon icon-play light-translucent white"></span>
+</div>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="rating_widget large_rating_widget facebook_manager media" data-media-id="10301" data-type="movie" id="rating_widget">
+<h3 class="lineHeader"><span>ADD YOUR RATING</span></h3>
+<a class="pull-left" href="">
+<img alt="" class="media-object fl" src="//static6.flixster.com/static/locker/images/actor.default.tmb.gif" sub="img" width="50"/>
+</a>
+<div class="media-body">
+<div class="rating_buttons">
+<div class="rating_button"><input class="wts clear" type="button" value="+"/></div>
+<div class="rating_button"><input class="ni clear" type="button" value="-"/></div>
+<div class="rating_button"><input class="stars clear" type="button"/></div>
+</div>
+<div style="padding:5px">
+<textarea class="review clearfix" id="review_text" placeholder="Add a Review (Optional)" style="resize:both;"></textarea>
+</div>
+<div class="clearfix" style="height:20px;padding:0 5px">
+<div class="pull-left">
+<a class="edit_button subtle smaller fr articleLink" href="javascript:void(0);">Edit</a>
+<a class="post_button" href="javascript:void(0);"></a>
+<span class="status"></span>
+</div>
+<div class="pull-right fb-share_button on">
+<div class="fb-checkbox"></div>
+<div class="fb-logo"></div>
+<span class="fb-sharetext">
+                    Share on Facebook
+                </span>
+</div>
+<span class="socialMsg fr like_status small subtle" style="display:none;"></span>
+</div>
+</div>
+</div>
+
+
+
+
+<hr/>
+<div class="media">
+<div class="pull-right col-right hidden-xs">
+<p class="center subtle small" style="margin-top:10px;">ADVERTISEMENT</p>
+<div class="medrec_ad" id="medrec_top_ad"></div>
+
+</div>
+<div class="media-body">
+<div class="movie_info clearfix">
+<h2>Movie Info</h2>
+<p class="movie_synopsis" id="movieSynopsis">
+		
+		
+		
+		
+	    Unique in the annals of animated films, Watership Down is a serious, even grim tale that many will find relentless and depressing and others will find poetic and moving. It doesn't pull any punches. Death -- violent, disturbing death -- is ever present, portrayed in a manner that is astonishingly honest for a cartoon. As a result, it is that rare animated film that really aims for a mature audience, despite its superficial funny animal trappings. It has a brilliant opening, most likely created
+        
+            <span id="movieSynopsisRemaining" style="display: none;"> by UPA veteran John Hubley, which in a primitive and simplistic style relates a creation myth as told by rabbits. The style changes thereafter, with beautiful watercolor backgrounds and a more natural approach to character animation. Unfortunately, the animation suffers somewhat from this point, becoming a bit sloppy, although it continues to portray the characters' movements as realistically as possible. The character designs themselves are rather too similar, with the result that it is sometimes difficult to tell the various rabbits apart. The story is also sometimes told in too-broad strokes, leaving those unfamiliar with the novel confused as to exactly what has happened and, more importantly, why. However, these flaws are redeemed by some unforgettable sequences, including a chilling segment detailing the destruction of the rabbits' warren and a devastatingly sad end sequence in which the Black Rabbit of Death gently takes one of the heroes away with it. Voiced by a fine cast, with stellar work from John Hurt and Richard Briers, Watership Down is an imperfect film with some of the most powerful moments ever created for the genre. ~ Craig Butler, Rovi</span>
+<a href="javascript:void(0);" id="showMoreSynopsis">… More</a>
+
+</p>
+<div class="left_col">
+<dl class="dl-horizontal">
+<dt class="subtle">Rating:</dt>
+<dd itemprop="contentRating">PG</dd>
+<dt class="subtle">Genre:</dt>
+<dd>
+<a class="a" href="/browse/dvd-all/?genres=9"><span itemprop="genre">Drama</span></a>
+                        , 
+                    
+                        <a class="a" href="/browse/dvd-all/?genres=2"><span itemprop="genre">Animation</span></a>
+                        , 
+                    
+                        <a class="a" href="/browse/dvd-all/?genres=11"><span itemprop="genre">Kids &amp; Family</span></a>
+</dd>
+<dt class="subtle">Directed By:</dt>
+<dd itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a class="a" href="/celebrity/martin_rosen/" itemprop="url">
+<span itemprop="name">Martin Rosen</span>
+</a>
+</dd>
+<dt class="subtle">In Theaters:</dt>
+<dd content="1978-11-01" itemprop="datePublished">
+                    Nov 1, 1978
+                     Wide
+                </dd>
+<dt class="subtle">On DVD:</dt>
+<dd>
+                    Mar 26, 2002
+                </dd>
+<dt class="subtle">Runtime:</dt>
+<dd>
+<time datetime="P92M" itemprop="duration">
+                        1 hr. 32 min.
+                    </time>
+</dd>
+</dl>
+<div>
+<span itemprop="productionCompany">WARNER BROTHERS PICTURES</span>
+</div>
+</div>
+</div>
+<hr/>
+<div id="watch-it-now" style="display:inline-block">
+<div>
+<h2>WATCH IT NOW</h2>
+<table class="movie_links">
+<tbody>
+<tr id="amazonAffiliates">
+<td class="logo">
+<a class="buy" href="http://www.amazon.com/gp/product/B00N8MBFT2/ref=atv_feed_catalog?tag=rottetomao_aiv_mv-20" onclick="trackAffiliateEvent('amazon')" target="blank"><i class="pull-left amazoninstant"></i></a>
+</td>
+<td class="price-col">
+<a class="buy" href="http://www.amazon.com/gp/product/B00N8MBFT2/ref=atv_feed_catalog?tag=rottetomao_aiv_mv-20" onclick="trackAffiliateEvent('amazon')" target="blank">Buy
+                                                $14.99</a>
+<a class="rent" href="http://www.amazon.com/gp/product/B00N8MCQRC/ref=atv_feed_catalog?tag=rottetomao_aiv_mv-20" onclick="trackAffiliateEvent('amazon')" target="blank">Rent
+                                                $2.99</a>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="movie_links">
+<tbody>
+<tr id="itunesAffiliates">
+<td class="logo">
+<a "buy"="" href="https://itunes.apple.com/us/movie/watership-down/id896027991?at=10l9IP&amp;ct=RT&amp;uo=5" onclick="trackAffiliateEvent('itunes')" target="blank">
+<i class="pull-left itunes"></i>
+</a>
+</td>
+<td class="price-col">
+<a class="buy" href="https://itunes.apple.com/us/movie/watership-down/id896027991?at=10l9IP&amp;ct=RT&amp;uo=5" onclick="trackAffiliateEvent('itunes')" target="blank">Buy $14.99</a>
+<a class="rent" href="https://itunes.apple.com/us/movie/watership-down/id896027991?at=10l9IP&amp;ct=RT&amp;uo=5" onclick="trackAffiliateEvent('itunes')" target="blank">Rent $2.99</a>
+</td>
+</tr>
+<tr id="netflixAffiliates">
+<td class="logo">
+<i class="pull-left netflix"></i>
+</td>
+<td class="price-col">
+<a class="netflix_link" href="https://movies.netflix.com/WiMovie/60022175" id="addMe" onclick="trackAffiliateEvent('netflix')" target="blank">Add to Queue</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<hr/>
+<div class="inlineBlock">
+<h2>Cast</h2>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/john_hurt/" itemprop="url">
+<img alt="John Hurt" class="actorThumb medium media-object" height="50" itemprop="image" src="http://content9.flixster.com/rtactor/40/38/40387_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/john_hurt/" itemprop="url">
+<span itemprop="name">
+            John Hurt
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Hazel</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/richard_briers/" itemprop="url">
+<img alt="Richard Briers" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content7.flixster.com/photo/91/99/28/9199289_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/richard_briers/" itemprop="url">
+<span itemprop="name">
+            Richard Briers
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Fiver</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/michael_graham_cox/" itemprop="url">
+<img alt="Michael Graham Cox" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/michael_graham_cox/" itemprop="url">
+<span itemprop="name">
+            Michael Graham Cox
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Bigwig</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/john_bennett/" itemprop="url">
+<img alt="John Bennett" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/john_bennett/" itemprop="url">
+<span itemprop="name">
+            John Bennett
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Capt. Holly</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/simon_cadell/" itemprop="url">
+<img alt="Simon Cadell" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/simon_cadell/" itemprop="url">
+<span itemprop="name">
+            Simon Cadell
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Blackberry</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/roy_kinnear/" itemprop="url">
+<img alt="Roy Kinnear" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content8.flixster.com/photo/31/57/66/3157666_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/roy_kinnear/" itemprop="url">
+<span itemprop="name">
+            Roy Kinnear
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Pipkin</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/richard_ocallaghan/" itemprop="url">
+<img alt="Richard O'Callaghan" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/richard_ocallaghan/" itemprop="url">
+<span itemprop="name">
+            Richard O'Callaghan
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Dandelion</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/terence_rigby/" itemprop="url">
+<img alt="Terence Rigby" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content9.flixster.com/photo/11/55/02/11550243_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/terence_rigby/" itemprop="url">
+<span itemprop="name">
+            Terence Rigby
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Silver</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/ralph_richardson/" itemprop="url">
+<img alt="Ralph Richardson" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content8.flixster.com/photo/37/93/56/3793566_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/ralph_richardson/" itemprop="url">
+<span itemprop="name">
+            Ralph Richardson
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Chief Rabbit</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/denholm_elliott/" itemprop="url">
+<img alt="Denholm Elliott" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content7.flixster.com/photo/12/87/94/12879485_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/denholm_elliott/" itemprop="url">
+<span itemprop="name">
+            Denholm Elliott
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Cowslip</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/zero_mostel/" itemprop="url">
+<img alt="Zero Mostel" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content8.flixster.com/photo/54/36/85/5436858_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/zero_mostel/" itemprop="url">
+<span itemprop="name">
+            Zero Mostel
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Kehaar</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/mary_maddox/" itemprop="url">
+<img alt="Mary Maddox" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/mary_maddox/" itemprop="url">
+<span itemprop="name">
+            Mary Maddox
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Clover</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/hannah-gordon/" itemprop="url">
+<img alt="Hannah Gordon" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content9.flixster.com/photo/11/15/71/11157163_tmb.png" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/hannah-gordon/" itemprop="url">
+<span itemprop="name">
+            Hannah Gordon
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Hyzenthlay</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/lyn_farleigh/" itemprop="url">
+<img alt="Lyn Farleigh" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/lyn_farleigh/" itemprop="url">
+<span itemprop="name">
+            Lyn Farleigh
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Cat</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/harry_andrews/" itemprop="url">
+<img alt="Harry Andrews" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content8.flixster.com/photo/10/37/47/10374782_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/harry_andrews/" itemprop="url">
+<span itemprop="name">
+            Harry Andrews
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Gen. Woundwort</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/nigel_hawthorne/" itemprop="url">
+<img alt="Nigel Hawthorne" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content7.flixster.com/photo/68/11/26/6811269_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/nigel_hawthorne/" itemprop="url">
+<span itemprop="name">
+            Nigel Hawthorne
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Campion</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/joss_ackland/" itemprop="url">
+<img alt="Joss Ackland" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content9.flixster.com/photo/54/78/24/5478247_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/joss_ackland/" itemprop="url">
+<span itemprop="name">
+            Joss Ackland
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Black Rabbit</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/clifton_james/" itemprop="url">
+<img alt="Clifton James" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content6.flixster.com/photo/54/14/61/5414612_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/clifton_james/" itemprop="url">
+<span itemprop="name">
+            Clifton James
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Blackavar</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/michael_hordern/" itemprop="url">
+<img alt="Michael Hordern" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content7.flixster.com/photo/70/70/44/7070441_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/michael_hordern/" itemprop="url">
+<span itemprop="name">
+            Michael Hordern
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Frith</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/derek_griffiths/" itemprop="url">
+<img alt="Derek Griffiths" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content6.flixster.com/photo/11/55/55/11555528_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/derek_griffiths/" itemprop="url">
+<span itemprop="name">
+            Derek Griffiths
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Vervain</span>
+</div>
+</div>
+</div>
+<a class="unstyled articleLink" href="javascript:void(0);" id="showMoreCast">
+        Show More Cast <span class="caret"></span>
+</a>
+
+</div>
+</div>
+<br/>
+<div class="panel panel-rt panel-box " id="fb-friend-reviews-box">
+<h2 class="panel-heading">Friend Ratings</h2>
+<div class="panel-body content_body">
+<div align="center" style="background:#EEEEEE; padding:15px;">
+<p>No Friends? Inconceivable! Log in to see what your friends have to say.</p>
+<a class="button btn btn-primary-rt" data-dismiss="modal" data-target="#login" data-toggle="modal" href="#login" id="login-link">Login</a>
+</div>
+</div>
+</div>
+<style>
+.cl { clear: left; }
+.cr { clear: right; }
+#reviews {
+    width: 100%;
+    overflow: hidden;
+}
+</style>
+<div class="panel panel-rt panel-box " id="contentReviews">
+<h2 class="panel-heading">Critic Reviews for <em>Watership Down</em></h2>
+<div class="panel-body content_body">
+<p id="criticHeaders">
+<a class="unstyled subtle articleLink small" href="/m/watership_down/reviews/">All Critics (27)</a>
+
+                | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="small unstyled subtle articleLink" href="/m/watership_down/reviews/?type=top_critics">Top Critics (3)</a>
+
+                
+                | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="small unstyled subtle articleLink" href="/m/watership_down/reviews/?sort=fresh">Fresh (22)</a>
+
+                | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="small unstyled subtle articleLink" href="/m/watership_down/reviews/?sort=rotten">Rotten (5)</a>
+
+                | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="small unstyled subtle articleLink" href="/m/watership_down/reviews/?type=dvd">DVD (12)</a>
+</p>
+<div comp="HoverTip" id="reviews">
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small rotten" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 6/10"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="-1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...lovely to look at and fun to listen to, but dull and lethargic in spots, too, and sometimes brutally savage.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.dvdtown.com/reviews/watership-down/6352" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>October 3, 2008</span>
+<meta content="2008-10-03" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content9.flixster.com/critic/22/2243_tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/john-j-puccio/">John J. Puccio</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Movie Metropolis</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble top_critic pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A rare movie that keeps kids on the edge of their chairs without inducing in their parents an overwhelming desire to escape theirs for a smoke in the lobby.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.time.com/time/magazine/article/0,9171,946188,00.html?promoid=googlep" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>September 4, 2008</span>
+<meta content="2008-09-04" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content7.flixster.com/critic/16/1609_tmb.gif"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/richard-schickel/">Richard Schickel</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">TIME Magazine</div>
+<div class="small" style="color:#3A9425"><span class="glyphicon glyphicon-star"></span> Top Critic</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 4/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A beautifully realised animation, Watership Down ultimately works because it doesn't dilute the violence and drama of Adams' book with a rose-tinted lens.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.channel4.com/film/reviews/film.jsp?id=110052" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>September 3, 2008</span>
+<meta content="2008-09-03" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/richard-luck/">Richard Luck</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Film4</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 3/4"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Expertly and realistically animated, this version of the popular novel didn't seem to have an audience.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://movies.tvguide.com/watership/review/122438" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>September 3, 2008</span>
+<meta content="2008-09-03" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+</div>
+<div class="subtle small" itemprop="sourceOrganization">TV Guide's Movie Guide</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble top_critic pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small rotten"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="-1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A brief spark of imagination survives in a prologue sequence, designed by the great John Hubley before he was fired from the film. The rest is blandness.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://onfilm.chicagoreader.com/movies/capsules/9104_WATERSHIP_DOWN" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>September 3, 2008</span>
+<meta content="2008-09-03" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content7.flixster.com/critic/15/1581_tmb.gif"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/dave-kehr/">Dave Kehr</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Chicago Reader</div>
+<div class="small" style="color:#3A9425"><span class="glyphicon glyphicon-star"></span> Top Critic</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: A-"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The rabbits' interactions mirror those of human behavior, and so too does the film possess a startlingly tangible sense of death.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://projectionbooth.blogspot.com/2008/02/watership-down-1978-b.html" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>March 20, 2008</span>
+<meta content="2008-03-20" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content7.flixster.com/critic/22/2213_tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/rob-humanick/">Rob Humanick</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Projection Booth</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 4/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artful, pretty forgotten (and it should not be) animation of best seller.
+
+
+                </p>
+<div class="pull-right smaller">
+<span>February 17, 2008</span>
+<meta content="2008-02-17" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content9.flixster.com/critic/17/1759_tmb.gif"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/steve-crum/">Steve Crum</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Video-Reviewmaster.com</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble top_critic pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small rotten"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="-1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The 'camera' takes a conventionally objective viewpoint, perpetually rolling over rolling countryside, which effectively robs the plot of all its terror and tension.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.timeout.com/film/reviews/64284/watership_down.html" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>January 26, 2006</span>
+<meta content="2006-01-26" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Time Out</div>
+<div class="small" style="color:#3A9425"><span class="glyphicon glyphicon-star"></span> Top Critic</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 4/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Classic non-children's animated film.
+
+
+                </p>
+<div class="pull-right smaller">
+<span>October 7, 2005</span>
+<meta content="2005-10-07" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content9.flixster.com/critic/17/1747_tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/kevin-carr/">Kevin Carr</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">7M Pictures</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 4/4"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cuts so deep on so many ethereal levels that you can flip to nearly any page in the history book and see a parallel.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://azstarnet.com/sn/review/83996.php" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>July 17, 2005</span>
+<meta content="2005-07-17" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content7.flixster.com/critic/17/1717_tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/phil-villarreal/">Phil Villarreal</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Arizona Daily Star</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: A+"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Don't listen to anybody who writes it off as a 'cartoon about bunnies.' Stunning beauty, smart scripting, a splendid score ... this is a serious film for serious moviegoers.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://lookingcloser.org/2007/12/watership-down-1978/" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>January 15, 2005</span>
+<meta content="2005-01-15" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content9.flixster.com/critic/17/1711_tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/jeffrey-overstreet/">Jeffrey Overstreet</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Looking Closer</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click to read the article.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.staciwilson.com/animalmovies/watership.html" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>January 12, 2005</span>
+<meta content="2005-01-12" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content6.flixster.com/critic/24/2492_tmb.gif"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/staci-layne-wilson/">Staci Layne Wilson</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">StaciWilson.com</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: A-"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Richard Adams's unforgettable, much-loved tale is honorably brought to life in a low-key, realistic animated style well suited to the naturalism and mature tone of the book.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://decentfilms.com/reviews/watershipdown.html" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>August 22, 2004</span>
+<meta content="2004-08-22" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content6.flixster.com/critic/24/2436_tmb.gif"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/steven-d-greydanus/">Steven D. Greydanus</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Decent Films Guide</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A respectful screen version of Richard Adams' bestselling novel.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.spiritualityandpractice.com/films/films.php?id=7311" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>January 24, 2004</span>
+<meta content="2004-01-24" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content8.flixster.com/critic/16/1682_tmb.gif"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/frederic-and-mary-ann-brussat/">Frederic and Mary Ann Brussat</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Spirituality and Practice</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 3/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For a kid, it's great. Kids can't normally smell extremely episodic, fractured narratives.
+
+
+                </p>
+<div class="pull-right smaller">
+<span>July 31, 2003</span>
+<meta content="2003-07-31" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content7.flixster.com/critic/16/1665_tmb.gif"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/widgett-walls/">Widgett Walls</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Needcoffee.com</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 4/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multiplying isn't all the rabbits are good at...
+
+
+                </p>
+<div class="pull-right smaller">
+<span>June 30, 2003</span>
+<meta content="2003-06-30" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content8.flixster.com/critic/17/1722_tmb.gif"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/kevin-a-ranson/">Kevin A. Ranson</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">MovieCrypt.com</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 3/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Great animation.
+
+
+                </p>
+<div class="pull-right smaller">
+<span>August 22, 2002</span>
+<meta content="2002-08-22" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content7.flixster.com/critic/16/1669_tmb.gif"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/bob-bloom/">Bob Bloom</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Journal and Courier (Lafayette, IN)</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 3/4"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unsentimental and terrifying.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://filmfreakcentral.net/dvdreviews/watershipdown.htm" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>May 8, 2002</span>
+<meta content="2002-05-08" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/walter-chaw/">Walter Chaw</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Film Freak Central</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 5/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A dark and transfixing fable that happens to star cartoon bunnies.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://efilmcritic.com/review.php?movie=2485&amp;reviewer=416" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>January 1, 2000</span>
+<meta content="2000-01-01" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content9.flixster.com/critic/21/2131_tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/rob-gonsalves/">Rob Gonsalves</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">eFilmCritic.com</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 4/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+</p>
+<div class="pull-right smaller">
+<span>April 6, 2006</span>
+<meta content="2006-04-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content8.flixster.com/critic/22/2242_tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/cole-smithey/">Cole Smithey</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">ColeSmithey.com</div>
+</div>
+</div>
+</div>
+</div>
+<div class="view-all">
+<a class="view_all_critic_reviews" href="/m/watership_down/reviews/">View All Critic Reviews (27) <span <="" class="fontelloIcon icon-angle-right" span=""></span></a>
+</div>
+</div>
+</div>
+<div class="panel panel-rt panel-box " id="audience_reviews">
+<h2 class="panel-heading">Audience Reviews for <em>Watership Down</em></h2>
+<div class="panel-body content_body">
+<div>
+<div class="quote_bubble fl cl">
+<div class="review_quote" id="quoteBubble913720411_10301">
+<div class="media">
+<div class="media-body">
+<div class="starHeader">
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+</div>
+<p class="comment" style="line-height:1.25">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Watership Down shows faithfulness and outmost respect for the novel. I admire the choice to go in the direction of adults for a film that features bunnies. It's amazing how  a cartoon can really push the barriers for emotional impact. It's suprisingly gory (it was a pleasant one). I cry when I watch Watership Down. It's an underated animated jewel that one day will be appreciated for it's majesty. An absolute classic, among my favorite films.
+
+
+                </p>
+<a class="more" href="javascript:void(0)">More</a>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img alt="Directors Cat" class="critic_thumb" height="50" src="//static6.flixster.com/static/locker/images/actor.default.tmb.gif" width="50"/>
+</div>
+<div class="media-body">
+            
+                
+                Directors Cat
+            
+            
+                <p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+</div>
+</div>
+</div>
+<div class="quote_bubble fr cr">
+<div class="review_quote" id="quoteBubble901259087_10301">
+<div class="media">
+<div class="media-body">
+<div class="starHeader">
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+                            
+                            ½
+                        </div>
+<p class="comment" style="line-height:1.25">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is possibly one of those innovative animated tales that is nowhere near recognized for the strength and creativity it has. Watership Down is a story that makes Bambi looked entirely phoned in and misguided (not saying it is). Strong in voice acting and stunning artwork, this film starts off just a little lacking in the animation department, but that changes less than ten minutes in, for you are taken away by the complexity, drama and overall tension of the story and environment. And not only this, the film is created in such a way that it is far more suitable for adults than children, even if it is centered around a collection of rabbits and their search for a new home. Most likely where Charles Grosvenor got the plotline for his much more "kids-friendly" film Once Upon A Forest, Watership Down is edgy, dramatic, truly beautiful and wonderfully engrossing, one of the best animated films I have ever seen.
+
+
+                </p>
+<a class="more" href="javascript:void(0)">More</a>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img alt="Matthew Roe" class="critic_thumb" height="50" src="//static6.flixster.com/static/locker/images/actor.default.tmb.gif" width="50"/>
+</div>
+<div class="media-body">
+            
+                
+                Matthew Roe
+            
+            
+                <p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+</div>
+</div>
+</div>
+<div class="quote_bubble fl cl">
+<div class="review_quote" id="quoteBubble342775249_10301">
+<div class="media">
+<div class="media-body">
+<div class="starHeader">
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+                            
+                            ½
+                        </div>
+<p class="comment" style="line-height:1.25">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Such a great movie, loved it as a kid and still stands up today.  Brings a tear to my everytime I watch it.
+
+
+                </p>
+<a class="more" href="javascript:void(0)">More</a>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img alt="stuartb1234" class="critic_thumb" height="50" src="//graph.facebook.com/690840605/picture" width="50"/>
+</div>
+<div class="media-body">
+<a class="unstyled articleLink" href="/user/id/342775249/">
+                        Stuart Brooks
+                    </a>
+<p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+</div>
+</div>
+</div>
+<div class="quote_bubble fr cr">
+<div class="review_quote" id="quoteBubble356918815_10301">
+<div class="media">
+<div class="media-body">
+<div class="starHeader">
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+                            
+                            
+                            ½
+                        </div>
+<p class="comment" style="line-height:1.25">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Like Dark Crystal and Wizard of Oz, it's one of those classic kids films that's almost guaranteed to scar your children for life.
+
+
+                </p>
+<a class="more" href="javascript:void(0)">More</a>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img alt="kenstachnik" class="critic_thumb" height="50" src="//graph.facebook.com/1442397439/picture" width="50"/>
+</div>
+<div class="media-body">
+<a class="unstyled articleLink" href="/user/id/356918815/">
+                        Ken Stachnik
+                    </a>
+<p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+</div>
+</div>
+</div>
+</div>
+<div class="view-all">
+<a class="" href="/m/watership_down/reviews/?type=user">
+                            View All Audience Reviews <span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+</div>
+</div>
+
+<div class="panel panel-rt panel-box " id="quotesList">
+<h2 class="panel-heading"><em>Watership Down</em> Quotes</h2>
+<div class="panel-body content_body">
+<div class="media">
+<div class="pull-right" style="width:300px;">
+<div class="medrec_ad" id="medrec_bottom_ad"></div>
+
+<br/>
+</div>
+<div class="media-body">
+<div class="quote_bubble fullWidth">
+<div class="review_quote media">
+<dl class="dl-horizontal quote">
+<dt class="bold quote_actor">Gen. Woundwort:</dt>
+<dd class="line">I'll settle with you myself Bigwig, no use to take you back.</dd>
+<dt class="bold quote_actor">Bigwig:</dt>
+<dd class="line">Come on and try ya' crack brain slave driver!</dd>
+</dl>
+<a class="more" href="javascript:void(0)">More</a>
+<div class="quoteFooter">
+                                – Submitted by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+
+<a class="a" href="/user/id/935501256/">Tyler B</a> (2 years ago)
+                                
+                            </div>
+</div>
+</div>
+<div class="quote_bubble fullWidth">
+<div class="review_quote media">
+<dl class="dl-horizontal quote">
+<dt class="bold quote_actor">Capt. Holly:</dt>
+<dd class="line">It's you who'll be killed!</dd>
+</dl>
+<a class="more" href="javascript:void(0)">More</a>
+<div class="quoteFooter">
+                                – Submitted by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+
+<a class="a" href="/user/id/927243917/">Peppers R</a> (2 years ago)
+                                
+                            </div>
+</div>
+</div>
+<div class="quote_bubble fullWidth">
+<div class="review_quote media">
+<dl class="dl-horizontal quote">
+<dt class="bold quote_actor">Kehaar:</dt>
+<dd class="line">Ees long way?</dd>
+</dl>
+<a class="more" href="javascript:void(0)">More</a>
+<div class="quoteFooter">
+                                – Submitted by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+
+<a class="a" href="/user/id/927243917/">Peppers R</a> (2 years ago)
+                                
+                            </div>
+</div>
+</div>
+<div class="quote_bubble fullWidth">
+<div class="review_quote media">
+<dl class="dl-horizontal quote">
+<dt class="bold quote_actor">Fiver:</dt>
+<dd class="line">Violet's gone.</dd>
+</dl>
+<a class="more" href="javascript:void(0)">More</a>
+<div class="quoteFooter">
+                                – Submitted by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+
+<a class="a" href="/user/id/927243917/">Peppers R</a> (2 years ago)
+                                
+                            </div>
+</div>
+</div>
+<div class="clickForMore" style="display:inline-block; width:100%">
+<a class="unstyled articleLink fr" href="/m/watership_down/quotes/"><p>View All Quotes (18) <span class="fontelloIcon icon-angle-right"></span></p></a></div></div></div></div></div>
+
+
+
+
+
+
+<div class="panel panel-rt panel-box " id="discussionForum">
+<h2 class="panel-heading">Discussion Forum</h2>
+<div class="panel-body content_body">
+<div id="threadsPreview">
+<style>
+    th { font-size:14px; font-weight:bold; color:#787878 }
+</style>
+<div style="background:#EEEEEE; padding:15px; text-align:center;">
+<p>Discuss Watership Down on our Movie forum!</p>
+<form action="http://forum.rottentomatoes.com/forum/category/2/10301" method="post">
+<button class="btn btn-primary-rt" name="forum_name" type="submit" value="Watership Down">
+<span>Go to Forum</span>
+</button>
+</form>
+</div>
+</div>
+<div class="view-all">
+<a href="http://forum.rottentomatoes.com/forum/category/2/10301">View All Posts <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+<div class="panel panel-rt panel-box " id="newsAndFeatures">
+<h2 class="panel-heading">News &amp; Features</h2>
+<div class="panel-body content_body">
+<div class="media-body">
+<div class="panel-body">
+<div class="col-xs-15">
+<div class="row">
+<div class="newsItem col-xs-12">
+<a class="unstyled articleLink" href="/gallery/24frames_epic_scifi/">
+<div class="bannerPic" style="background-image:url('http://content7.flixster.com/site/10/26/97/10269705_ori.jpg')"></div>
+<div class="panel bannerCaption">
+<div class="panel-body">
+<p class="noSpacing title">
+                    Epic Sci-Fi
+                </p>
+<p class="byline noSpacing">
+                    
+                                24 pictures of epic sci-fi flims
+                            
+                </p>
+</div>
+</div>
+</a>
+</div>
+<div class="newsItem col-xs-12">
+<a class="unstyled articleLink" href="/m/magic_mike_xxl/trailers/11222732">
+<div class="bannerPic" style="background-image:url('http://content7.flixster.com/site/10/26/97/10269725_ori.jpg')"></div>
+<div class="panel bannerCaption">
+<div class="panel-body">
+<p class="noSpacing title">
+                    Magic Mike XXL
+                </p>
+<p class="byline noSpacing">
+                    
+                                Channing Tatum strip dances in first trailer
+                            
+                </p>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="newsItem col-xs-12">
+<a class="unstyled articleLink" href="/tv/daredevil/news/1932696/marvels_daredevil_on_netflix_teaser_trailer/">
+<div class="bannerPic" style="background-image:url('http://content8.flixster.com/site/10/26/97/10269726_ori.jpg')"></div>
+<div class="panel bannerCaption">
+<div class="panel-body">
+<p class="noSpacing title">
+                    Daredevil
+                </p>
+<p class="byline noSpacing">
+                    
+                                Marvel/Netflix show gets first trailer
+                            
+                </p>
+</div>
+</div>
+</a>
+</div>
+<div class="newsItem col-xs-12">
+<a class="unstyled articleLink" href="/tv/the-man-in-the-high-castle/news/1932672/amazon_pilot_season_4_what_the_critics_think/">
+<div class="bannerPic" style="background-image:url('http://content9.flixster.com/site/10/26/96/10269687_ori.jpg')"></div>
+<div class="panel bannerCaption">
+<div class="panel-body">
+<p class="noSpacing title">
+                    Amazon Pilot Season 4
+                </p>
+<p class="byline noSpacing">
+                    
+                                Which shows deserve "Prime" status?
+                            
+                </p>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-xs-9 newsList">
+<h2>TOP HEADLINES</h2>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/tv_editorial/news/1932729/grammy_ratings_drop_but_still_dwarf_competition/" target="_blank">Grammy Ratings Drop, But Still Dwarf Competition</a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/the_imitation_game/news/1932725/jennifer_lawrence_and_chris_pratt_are_sci-fi_passengers/" target="_blank">Jennifer Lawrence and Chris Pratt Are Sci-Fi <i>Passengers</i></a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/tv_editorial/news/1932724/the_legend_of_zelda_is_coming_to_netflix/" target="_blank"><i>The Legend of Zelda</i> Is Coming to Netflix</a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/miss_peregrines_home_for_peculiars/news/1932723/samuel_l_jackson_joins_miss_peregrines_home_for_peculiar_children/" target="_blank">Samuel L. Jackson Joins <i>Miss Peregrine's Home for Peculiar Children</i></a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/tv_editorial/news/1932722/abc_revives_battlebots/" target="_blank">ABC Revives <i>BattleBots</i></a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/rebel_without_a_cause/news/1932721/stewart_stern_1922-2015/" target="_blank">Stewart Stern: 1922-2015</a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/strange_love_of_martha_ivers/news/1932720/lizabeth_scott_1922-2015/" target="_blank">Lizabeth Scott: 1922-2015</a>
+<br/>
+<a class="unstyled" href="/source-337"><span class="subtle">– New York Times</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/tv_editorial/news/1932719/rosie_odonnell_departing_the_view_again/" target="_blank">Rosie O'Donnell Departing <i>The View</i> Again</a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div class="clickForMore">
+<a class="articleLink unstyled" href="/news/"><p>More News <span class="fontelloIcon icon-angle-right"></span></p></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img height="1" src="http://segs.btrll.com/v1/tpix/-/-/-/-/-/sid.6548936" width="1"/>
+
+<div class="modal fade" id="newTrailerModal" tabindex="-1">
+<div class="modal-dialog modal-lg">
+<div class="closebutton"><span class="glyphicon glyphicon-remove-circle lightGray"></span></div>
+<iframe id="videoPlayer" src="about:none"></iframe>
+</div>
+</div>
+
+
+
+
+<div class="sleaderboard_wrapper">
+<div id="leaderboard_bottom_ad">
+
+</div>
+</div>
+<style>#skin_ad { height:0px !important; }</style>
+<div id="skin_ad">
+
+</div>
+<div id="foot">
+<div class="row">
+<div class="col-xs-5 subnav">
+<ul class="unstyled">
+<li><a class="unstyled trendingLink" href="/help_desk/" id="footer-help">Help</a></li>
+<li><a class="unstyled trendingLink" href="/about/" id="footer-about">About Rotten Tomatoes</a></li>
+<li><a class="unstyled trendingLink" data-target="#whatIsTomatometer" data-toggle="modal" id="footer-tomatometer">What's the Tomatometer?</a></li>
+<li><a class="unstyled trendingLink" href="http://www.flixster.com/careers" id="footer-jobs">Jobs</a></li>
+</ul>
+</div>
+<div class="col-xs-4 subnav">
+<ul>
+<li><a class="unstyled trendingLink" href="/help_desk/critics/" id="footer-critics">Critic Submission</a></li>
+<li><a class="unstyled trendingLink" href="/press/" id="footer-press">Press</a></li>
+<li><a class="unstyled trendingLink" href="http://developer.rottentomatoes.com" id="footer-api">API</a></li>
+<li><a class="unstyled trendingLink" href="/help_desk/licensing/" id="footer-licensing">Licensing</a></li>
+</ul>
+</div>
+<div class="col-xs-7 subnav">
+<h2><span class="glyphicon glyphicon-envelope"></span>  JOIN THE NEWSLETTER</h2>
+<div style="margin:10px 0">
+                Get the freshest reviews, news, and more delivered right to your inbox!
+            </div>
+<form action="/promo/newsletter-signup-confirm" id="newsletterSignup" method="POST" target="_blank">
+<div class="input-group">
+<input class="form-control" name="email" placeholder="Enter your email address" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary-rt" id="footer-newsletter-join" type="button">Join</button>
+</span>
+</div>
+</form>
+</div>
+<div class="col-xs-8 subnav">
+<h2>Follow Us</h2>
+<div>
+<a class="unstyled trendingLink fontelloIcon icon-twitter footerIcon" href="http://twitter.com/rottentomatoes" id="footer-follow-us-twitter"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-facebook-squared footerIcon" href="http://www.facebook.com/rottentomatoes" id="footer-follow-us-facebook"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-gplus footerIcon" href="https://plus.google.com/+RottenTomatoes" id="footer-follow-us-google"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-youtube-play footerIcon" href="http://www.youtube.com/user/rottentomatoes" id="footer-follow-us-youtube"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-tumblr footerIcon" href="http://rottentomatoes.tumblr.com/" id="footer-follow-us-tumblr"></a>   
+            </div>
+</div>
+</div>
+<div class="subtle" style="padding:10px">
+<span class="easteregg">Copyright © Flixster, Inc. All rights reserved.</span>
+<a href="/copyright/" id="footer-copyright">Copyright Policy</a> |
+        <a href="/privacy/" id="footer-privacy">Privacy Policy</a> |
+        <a href="/terms/" id="footer-tos">Terms of Service</a> |
+        <a href="/privacy#id.6x3busrdhxyw" id="footer-ad-choices">Ad Choices</a> |        
+        <a href="/mobile/info/" id="footer-mobile">Mobile Apps</a>
+</div>
+</div>
+<div class="social-tools" id="social-tools">
+<a class="social-tools-facebook-like" href="javascript:void(0);" title="Facebook Like"></a>
+<a class="social-tools-facebook-share" href="javascript:void(0);" title="Facebook Share"></a>
+<a class="social-tools-twitter" href="javascript:void(0);" title="Twitter"></a>
+<a class="social-tools-pinterest" href="javascript:void(0);" title="Pinterest"></a>
+<a class="social-tools-googleplus" href="javascript:void(0);" title="Google+"></a>
+<a class="social-tools-stumbleupon" href="javascript:void(0);" title="StumbleUpon"></a>
+</div>
+
+
+
+<!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+
+
+<style>
+.flip {
+    transition:transform 0.25s;
+}
+.flip:hover {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    -ms-filter: flipv; /*IE*/
+    filter: flipv; /*IE*/
+    top: 1px; position: relative;
+}
+</style>

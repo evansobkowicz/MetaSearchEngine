@@ -1,0 +1,19 @@
+Title: Aslan from ''The Lion, The Witch and the Wardrobe'' comes to studio | WYFF Home  - WYFF Home
+Server: Apache
+X-IB-Site-Name: htv-gs
+X-IB-Content-Type: video
+X-IB-Context-Urn: urn:ibsys:coremedia:9324882
+X-IB-Content-Urn: urn:ibsys:coremedia:31161004
+X-IB-Timestamp: 2015-02-09T20:43:31.213Z
+X-IB-Return-Receipts: true
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+X-Server-Name: prodcaefrontend-htv01-wdc01b
+Vary: Accept-Encoding
+Date: Mon, 09 Feb 2015 20:43:33 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: geo_code=US-NY; path=/
+X-Geo-Code: US-NY
+

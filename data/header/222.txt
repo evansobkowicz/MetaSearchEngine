@@ -1,0 +1,23 @@
+Title: Image - Watership down cover.jpg - Watership Down Wiki
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-language: en
+X-Backend-Response-Time: 0.316
+ETag: "20130409010937-1423489337"
+Last-Modified: Tue, 09 Apr 2013 01:09:37 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 56278
+Accept-Ranges: bytes
+Date: Mon, 09 Feb 2015 20:45:27 GMT
+Age: 20498
+Connection: close
+X-Served-By: ap-s11, cache-wk-sjc3161-WKSJC, cache-jfk1021-JFK
+X-Cache: ORIGIN, HIT, MISS
+X-Cache-Hits: ORIGIN, 1, 0
+X-Timer: S1423514727.076170,VS0,VE71
+Vary: Accept-Encoding,Cookie
+Set-Cookie: wikia_beacon_id=7h3DEsfcWt; domain=.wikia.com; path=/; expires=Sat, 08 Aug 2015 20:45:27 GMT;
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+

@@ -1,0 +1,27 @@
+Title: Buy Acclaimed Lord of the Rings Game Shadow of Mordor for $30 - GameSpot
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.17
+Set-Cookie: PHPSESSID=5g9dmsmpmc1r0bdi758stsv9u0; path=/
+Cache-Control: public, s-maxage=301
+Server: nginx/1.2.0
+Vary: Accept-Encoding, X-Cache-Device, X-Cache-Region, X-Cache-AB
+Date: Mon, 09 Feb 2015 20:42:07 GMT
+X-TX-ID: b45fa373-50d3-4017-8d02-f8d2da22befb
+X-Phoenix-Id: 54d91bc645f2c
+X-Varnish: 54133807 51742725
+Age: 38
+Via: 1.1 varnish-v4
+X-Cache-Debug-Served-By: ws419.phx2.cbsig.net
+X-Cache-Debug-Result: hit
+X-Cache-Debug-Hits: 1043
+X-Cache-Device: other
+X-Cache-Region: us-us
+X-Cache-AB: 19-0|32-0|33-0|34-0|35-0
+Set-Cookie: xcr=us-us; expires=Tue, 10-Feb-2015 20:42:46 GMT; path=/; httponly
+Set-Cookie: xcab=19-0%7C32-0%7C33-0%7C34-0%7C35-0; expires=Tue, 09-Feb-2016 20:42:46 GMT; path=/
+Set-Cookie: vguid=38f6ef75-23b9-42a6-b783-c389e1fcce76; path=/
+Set-Cookie: AD_SESSION=e; path=/; domain=gamespot.com
+

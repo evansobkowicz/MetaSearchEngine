@@ -1,0 +1,23 @@
+Title: Urban Dictionary: Eagle has Landed
+Server: Cowboy
+Status: 200 OK
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Cache-Control: max-age=3600, public
+Etag: "60612e8d51eea17f6a8431aa1408fc1c"
+X-Request-Id: 933a26a9-9dcd-4d71-a5ea-3f6f7633eee2
+X-Runtime: 0.121492
+Via: 1.1 vegur
+Content-Length: 61797
+Accept-Ranges: bytes
+Date: Mon, 09 Feb 2015 20:45:05 GMT
+Via: 1.1 varnish
+Age: 12609
+Connection: close
+X-Served-By: cache-atl6234-ATL
+X-Cache: HIT
+X-Cache-Hits: 1
+Vary: Accept-Encoding
+

@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>And Then There Were None (play) - Wikipedia, the free encyclopedia</title>
+<meta content="MediaWiki 1.25wmf15" name="generator"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/And_Then_There_Were_None_(play)" rel="alternate"/>
+<link href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="/wiki/And_Then_There_Were_None_(play)" hreflang="x-default" rel="alternate"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="http://en.wikipedia.org/wiki/And_Then_There_Were_None_(play)" rel="canonical"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+
+
+
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-And_Then_There_Were_None_play skin-vector action-view vector-animateLayout">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><span dir="auto"><i>And Then There Were None</i> (play)</span></h1>
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox vevent" style="width:22em">
+<tr>
+<th class="summary" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic">And Then There Were None</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:And_Then_There_Were_None_1945.jpg"><img alt="And Then There Were None 1945.jpg" data-file-height="875" data-file-width="1200" height="237" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/And_Then_There_Were_None_1945.jpg/325px-And_Then_There_Were_None_1945.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/And_Then_There_Were_None_1945.jpg/488px-And_Then_There_Were_None_1945.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/And_Then_There_Were_None_1945.jpg/650px-And_Then_There_Were_None_1945.jpg 2x" width="325"/></a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap">Written by</th>
+<td class="description"><a href="/wiki/Agatha_Christie" title="Agatha Christie">Agatha Christie</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap">Date premiered</th>
+<td>20 September 1943</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space: nowrap">Original language</th>
+<td>English</td>
+</tr>
+</table>
+<p><i><b>And Then There Were None</b></i> is a 1943 play by <a class="mw-redirect" href="/wiki/Crime_writer" title="Crime writer">crime writer</a> <a href="/wiki/Agatha_Christie" title="Agatha Christie">Agatha Christie</a>. The play, like the 1939 <a href="/wiki/And_Then_There_Were_None" title="And Then There Were None">book on which it is based</a>, was originally titled and performed in the UK as <i><b>Ten Little Niggers</b></i>. It was also performed under the name <i><b>Ten Little Indians</b></i>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Scenes"><span class="tocnumber">2</span> <span class="toctext">Scenes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Reception_of_London_production"><span class="tocnumber">3</span> <span class="toctext">Reception of London production</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Credits_of_London_production"><span class="tocnumber">3.1</span> <span class="toctext">Credits of London production</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Broadway_production"><span class="tocnumber">4</span> <span class="toctext">Broadway production</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Credits_of_Broadway_production"><span class="tocnumber">4.1</span> <span class="toctext">Credits of Broadway production</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Publication_and_further_adaptations"><span class="tocnumber">5</span> <span class="toctext">Publication and further adaptations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#2005_production"><span class="tocnumber">5.1</span> <span class="toctext">2005 production</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Christie had been pleased with the book, stating in her autobiography "I wrote the book after a tremendous amount of planning, and I was pleased with what I made of it."<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> The book was very well received upon publication and soon after Christie received a request from <a class="new" href="/w/index.php?title=Reginald_Simpson&amp;action=edit&amp;redlink=1" title="Reginald Simpson (page does not exist)">Reginald Simpson</a> to be allowed to dramatise it. Christie refused as she relished the challenge herself<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> although she was intermittently some two years in carrying out the task. She knew the ending would have to be changed as all of the characters die in the book and therefore "I must make two of the characters innocent, to be reunited at the end and come safe out of the ordeal."<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> The original <a href="/wiki/Nursery_rhyme" title="Nursery rhyme">nursery rhyme</a> on which the book was based had an alternative ending of...</p>
+<dl>
+<dd>"He got married and then there were none"</dd>
+</dl>
+<p>...which allowed Christie to portray a different conclusion on stage.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>After the play had been written, most people she discussed it with considered it impossible to produce. She received some encouragement from Charles Cochrane but he was unable to find financial backers. Finally, Bertie Mayer who had produced the 1928 play <i><a href="/wiki/Alibi_(play)" title="Alibi (play)">Alibi</a></i> agreed to stage it.<sup class="reference" id="cite_ref-An_Autobiography._Page_472_5-0"><a href="#cite_note-An_Autobiography._Page_472-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>After a try-out at the <a href="/wiki/New_Wimbledon_Theatre" title="New Wimbledon Theatre">Wimbledon Theatre</a> starting on 20 September 1943, the play opened in the West End at the <a href="/wiki/St_James%27s_Theatre" title="St James's Theatre">St James's Theatre</a> on 17 November. It gained good reviews and ran for 260 performances until 24 February 1944 when the theatre was bombed. It then transferred to the <a href="/wiki/Cambridge_Theatre" title="Cambridge Theatre">Cambridge Theatre</a> opening on 29 February and running at that venue until 6 May. It then transferred back to the restored St James' on 9 May and finally closed on 1 July.</p>
+<p>Although she didn't feel it to be her best play, Christie did declare it was her best piece of "craftsmanship". She also considered it to be the play which formally started her career as a playwright, despite the success of <i><a href="/wiki/Black_Coffee_(play)" title="Black Coffee (play)">Black Coffee</a></i> in 1930.<sup class="reference" id="cite_ref-An_Autobiography._Page_472_5-1"><a href="#cite_note-An_Autobiography._Page_472-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Scenes">Scenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit&amp;section=2" title="Edit section: Scenes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The scene of the play is the living-room of the house on Indian Island (Note: Nigger Island in the 1943 UK production), off the coast of <a href="/wiki/Devon" title="Devon">Devon</a>. The time – the present.</p>
+<p><b>ACT I</b></p>
+<ul>
+<li>An evening in August</li>
+</ul>
+<p><b>ACT II</b></p>
+<ul>
+<li>Scene 1 – The following morning</li>
+<li>Scene 2 – The same day. Afternoon</li>
+</ul>
+<p><b>ACT III</b></p>
+<ul>
+<li>Scene 1 – The same day. Evening</li>
+<li>Scene 2 – The following morning</li>
+</ul>
+<h2><span class="mw-headline" id="Reception_of_London_production">Reception of London production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit&amp;section=3" title="Edit section: Reception of London production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Ivor_Brown" title="Ivor Brown">Ivor Brown</a> reviewed the play in <i><a href="/wiki/The_Observer" title="The Observer">The Observer</a>'</i>s issue of 21 November 1943 when he said, "Miss Agatha Christie does not stint things. Like Hotspur, who could kill six dozen Scots at breakfast, complain of his quiet life, and then ask for work, she is not one to be concerned about a mere singleton corpse. But she can add quality to quantity in her domestic morgue. In <i>Ten Little Niggers</i> she shows an intense ingenuity in adapting that very lethal rhyme (so oddly deemed a nursery matter) to modern conditions." Mr. Brown concluded that Henrietta Watson's portrayal of Emily Brent was, "the most authentic member of a house party with 'no future in it.' as the airmen say. That gently lugubrious phrase certainly does not hold of the play."<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Credits_of_London_production">Credits of London production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit&amp;section=4" title="Edit section: Credits of London production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Director:</b> Irene Hentschel<br/>
+<b>Decor by:</b> <a href="/wiki/Clifford_Pember" title="Clifford Pember">Clifford Pember</a></p>
+<p><b>Cast:</b><sup class="reference" id="cite_ref-7"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><br/>
+<i>William Murray</i> played Rogers<br/>
+<i>Reginald Barlow</i> played Narracott<br/>
+<i>Hilda Bruce-Potter</i> played Mrs Rogers<br/>
+<i><a href="/wiki/Linden_Travers" title="Linden Travers">Linden Travers</a></i> played Vera Claythorne<br/>
+<i>Terence de Marney</i> played Philip Lombard<br/>
+<i>Michael Blake</i> played Anthony Marston<br/>
+<i><a href="/wiki/Percy_Walsh" title="Percy Walsh">Percy Walsh</a></i> played William Blore<br/>
+<i>Eric Cowley</i> played General MacKenzie<br/>
+<i>Henrietta Watson</i> played Emily Brent<br/>
+<i>Allan Jeayes</i> played Sir Lawrence Wargarve<br/>
+<i>Gwyn Nicholls</i> played Dr Armstrong</p>
+<h2><span class="mw-headline" id="Broadway_production">Broadway production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit&amp;section=5" title="Edit section: Broadway production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A production in New York opened at the <a href="/wiki/Broadhurst_Theatre" title="Broadhurst Theatre">Broadhurst Theatre</a> under the title <i><b>Ten Little Indians</b></i> on 27 June 1944. On 6 January 1945, it transferred to the <a href="/wiki/Gerald_Schoenfeld_Theatre" title="Gerald Schoenfeld Theatre">Plymouth Theatre</a> where it ran from 9 January until 30 June 1945. The total run on Broadway was 426 performances.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Credits_of_Broadway_production">Credits of Broadway production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit&amp;section=6" title="Edit section: Credits of Broadway production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Director:</b> <a href="/wiki/Albert_de_Courville" title="Albert de Courville">Albert de Courville</a></p>
+<p><b>Cast:</b><br/>
+<i>Neil Fitzgerald</i> as Rogers<br/>
+<i>Georgia Harvey</i> as Mrs. Rogers<br/>
+<i><a href="/wiki/Halliwell_Hobbes" title="Halliwell Hobbes">Halliwell Hobbes</a></i> as Sir Lawrence Wargrave<br/>
+<i>Nicholas Joy</i> as General MacKenzie<br/>
+<i>Anthony Kemble Cooper</i> as Anthony Marston<br/>
+<i><a href="/wiki/Claudia_Morgan" title="Claudia Morgan">Claudia Morgan</a></i> as Vera Claythorne<br/>
+<i>Patrick O'Connor</i> as Fred Narracott<br/>
+<i><a class="mw-redirect" href="/wiki/James_Patrick_O%27Malley" title="James Patrick O'Malley">James Patrick O'Malley</a></i> as William Blore<br/>
+<i>Michael Whalen</i> as Philip Lombard<br/>
+<i><a href="/wiki/Estelle_Winwood" title="Estelle Winwood">Estelle Winwood</a></i> as Emily Brent<br/>
+<i>Harry Worth</i> as Dr. Armstrong</p>
+<h2><span class="mw-headline" id="Publication_and_further_adaptations">Publication and further adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit&amp;section=7" title="Edit section: Publication and further adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The play was first published by <a class="mw-redirect" href="/wiki/Samuel_French_Ltd" title="Samuel French Ltd">Samuel French Ltd</a> as a paperback in 1944. It was first published in hardback in <i>The Mousetrap and Other Plays</i> by <a href="/wiki/Dodd,_Mead_and_Company" title="Dodd, Mead and Company">Dodd, Mead and Company</a> in 1978 (<a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0396076319">ISBN 0-39-607631-9</a>) and in the UK by <a class="mw-redirect" href="/wiki/Harper_Collins" title="Harper Collins">Harper Collins</a> in 1993 (<a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/000224344X">ISBN 0-00-224344-X</a>).</p>
+<p>At some point after the end of the <a class="mw-redirect" href="/wiki/Second_World_War" title="Second World War">Second World War</a>, a survivor of <a href="/wiki/Buchenwald_concentration_camp" title="Buchenwald concentration camp">Buchenwald concentration camp</a> contacted Christie and told her that the inmates had staged their own production there, undoubtedly writing their own script as they would not have had access to the Christie version. Christie was told that they found that it had "sustained them".<sup class="reference" id="cite_ref-9"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>In November 2007, Lakota East High School in <a href="/wiki/West_Chester_Township,_Butler_County,_Ohio" title="West Chester Township, Butler County, Ohio">West Chester, OH</a>, was set to perform the play but plans were cancelled after the <a class="mw-redirect" href="/wiki/NAACP" title="NAACP">NAACP</a> protested about the production because of the original title of the novel.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> Lakota East High School officials subsequently revised their plans and decided to perform the play on 29 November.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="2005_production">2005 production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit&amp;section=8" title="Edit section: 2005 production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 14 October 2005 a new version of play, written by <a href="/wiki/Kevin_Elyot" title="Kevin Elyot">Kevin Elyot</a> and directed by <a href="/wiki/Steven_Pimlott" title="Steven Pimlott">Steven Pimlott</a> opened at the <a href="/wiki/Gielgud_Theatre" title="Gielgud Theatre">Gielgud Theatre</a> in London. For this version, Elyot returned to the book version of story and restored the original ending where both Vera and Lombard die and Wargrave commits suicide. The version of the rhyme and island name used was "Ten Little Soldiers" and "Soldier Island" as per current printings of the novel. Despite very positive reviews, the play closed on 14 January 2006.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Notes</dt>
+</dl>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Christie, Agatha. <i>An Autobiography</i> (Page 471). Collins, 1977. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0002160129">ISBN 0-00-216012-9</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Morgan, Janet. <i>Agatha Christie, A Biography</i>. (Page 227) Collins, 1984 <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0002163306">ISBN 0-00-216330-6</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><i>An Autobiography</i>. (Pages 471–2).</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Morgan. (Pages 238–242)</span></li>
+<li id="cite_note-An_Autobiography._Page_472-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-An_Autobiography._Page_472_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-An_Autobiography._Page_472_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i>An Autobiography</i>. (Page 472).</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><i>The Observer</i> 21 November 1943 (Page 2)</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Christie, Agatha. <i>The Mousetrap and Other Plays</i> (Page 2) HarperCollins, 1993. <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/000224344X">ISBN 0-00-224344-X</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web">The Broadway League. <a class="external text" href="http://www.ibdb.com/production.asp?ID=1316" rel="nofollow">"Internet Broadway Database page on 1944 US play"</a>. Ibdb.com<span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnd+Then+There+Were+None+%28play%29&amp;rft.aulast=The+Broadway+League&amp;rft.au=The+Broadway+League&amp;rft.btitle=Internet+Broadway+Database+page+on+1944+US+play&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ibdb.com%2Fproduction.asp%3FID%3D1316&amp;rft.pub=Ibdb.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Morgan. (Page 266)</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web">Cincinnati Enquirer. <a class="external text" href="http://news.enquirer.com/apps/pbcs.dll/article?AID=/20071127/NEWS01/711270344" rel="nofollow">"Lakota cancels Christie play"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">27 November</span> 2007</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnd+Then+There+Were+None+%28play%29&amp;rft.au=Cincinnati+Enquirer&amp;rft.aulast=Cincinnati+Enquirer&amp;rft.btitle=Lakota+cancels+Christie+play&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnews.enquirer.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F20071127%2FNEWS01%2F711270344&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web">The Pulse Journal. <a class="external text" href="http://www.pulsejournal.com/n/content/oh/story/news/local/2007/11/29/hjn113007indians.html" rel="nofollow">"Lakota play now on despite NAACP objections"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2007</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnd+Then+There+Were+None+%28play%29&amp;rft.aulast=The+Pulse+Journal&amp;rft.au=The+Pulse+Journal&amp;rft.btitle=Lakota+play+now+on+despite+NAACP+objections&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.pulsejournal.com%2Fn%2Fcontent%2Foh%2Fstory%2Fnews%2Flocal%2F2007%2F11%2F29%2Fhjn113007indians.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.musicomh.com/theatre/and-then-there-were-none_1205.htm" rel="nofollow">"The London Theatre Guide review of the 2005 play"</a>. Musicomh.com<span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnd+Then+There+Were+None+%28play%29&amp;rft.btitle=The+London+Theatre+Guide+review+of+the+2005+play&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.musicomh.com%2Ftheatre%2Fand-then-there-were-none_1205.htm&amp;rft.pub=Musicomh.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.britishtheatreguide.info/reviews/therewerenone-rev.htm" rel="nofollow">"British Theatre Guide review of 2005 play"</a>. Britishtheatreguide.info<span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnd+Then+There+Were+None+%28play%29&amp;rft.btitle=British+Theatre+Guide+review+of+2005+play&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.britishtheatreguide.info%2Freviews%2Ftherewerenone-rev.htm&amp;rft.pub=Britishtheatreguide.info&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.thisistheatre.com/londonshows/andthentherewerenone.html" rel="nofollow">"This is Theatre.com review of 2005 play"</a>. Thisistheatre.com<span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnd+Then+There+Were+None+%28play%29&amp;rft.btitle=This+is+Theatre.com+review+of+2005+play&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.thisistheatre.com%2Flondonshows%2Fandthentherewerenone.html&amp;rft.pub=Thisistheatre.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.musicomh.com/theatre/and-then-there-were-none_1205.htm" rel="nofollow">"MusicOMH review of 2005 play"</a>. Musicomh.com<span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnd+Then+There+Were+None+%28play%29&amp;rft.btitle=MusicOMH+review+of+2005+play&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.musicomh.com%2Ftheatre%2Fand-then-there-were-none_1205.htm&amp;rft.pub=Musicomh.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<p><br/></p>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Agatha_Christie" title="Template:Agatha Christie"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Agatha_Christie" title="Template talk:Agatha Christie"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Agatha_Christie&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Agatha_Christie_bibliography" title="Agatha Christie bibliography">Works</a> by <a href="/wiki/Agatha_Christie" title="Agatha Christie">Agatha Christie</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Agatha_Christie%27s_fictional_universe" title="Agatha Christie's fictional universe">Universe</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Detectives</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hercule_Poirot" title="Hercule Poirot">Hercule Poirot</a></li>
+<li><a href="/wiki/Miss_Marple" title="Miss Marple">Miss Marple</a></li>
+<li><a href="/wiki/Tommy_and_Tuppence" title="Tommy and Tuppence">Tommy and Tuppence</a></li>
+<li><a href="/wiki/Ariadne_Oliver" title="Ariadne Oliver">Ariadne Oliver</a></li>
+<li><a href="/wiki/Arthur_Hastings" title="Arthur Hastings">Arthur Hastings</a></li>
+<li><a href="/wiki/Superintendent_Battle" title="Superintendent Battle">Superintendent Battle</a></li>
+<li><a href="/wiki/Inspector_Japp" title="Inspector Japp">Chief Inspector Japp</a></li>
+<li><a href="/wiki/Parker_Pyne" title="Parker Pyne">Parker Pyne</a></li>
+<li><a href="/wiki/Mr._Harley_Quin" title="Mr. Harley Quin">Mr. Harley Quin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Category:Novels_by_Agatha_Christie" title="Category:Novels by Agatha Christie">Novels</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Mysterious_Affair_at_Styles" title="The Mysterious Affair at Styles">The Mysterious Affair at Styles</a></i></li>
+<li><i><a href="/wiki/The_Secret_Adversary" title="The Secret Adversary">The Secret Adversary</a></i></li>
+<li><i><a href="/wiki/The_Murder_on_the_Links" title="The Murder on the Links">The Murder on the Links</a></i></li>
+<li><i><a href="/wiki/The_Man_in_the_Brown_Suit" title="The Man in the Brown Suit">The Man in the Brown Suit</a></i></li>
+<li><i><a href="/wiki/The_Secret_of_Chimneys" title="The Secret of Chimneys">The Secret of Chimneys</a></i></li>
+<li><i><a href="/wiki/The_Murder_of_Roger_Ackroyd" title="The Murder of Roger Ackroyd">The Murder of Roger Ackroyd</a></i></li>
+<li><i><a href="/wiki/The_Big_Four_(novel)" title="The Big Four (novel)">The Big Four</a></i></li>
+<li><i><a href="/wiki/The_Mystery_of_the_Blue_Train" title="The Mystery of the Blue Train">The Mystery of the Blue Train</a></i></li>
+<li><i><a href="/wiki/The_Seven_Dials_Mystery" title="The Seven Dials Mystery">The Seven Dials Mystery</a></i></li>
+<li><i><a href="/wiki/The_Murder_at_the_Vicarage" title="The Murder at the Vicarage">The Murder at the Vicarage</a></i></li>
+<li><i><a href="/wiki/The_Sittaford_Mystery" title="The Sittaford Mystery">The Sittaford Mystery</a></i></li>
+<li><i><a href="/wiki/Peril_at_End_House" title="Peril at End House">Peril at End House</a></i></li>
+<li><i><a href="/wiki/Lord_Edgware_Dies" title="Lord Edgware Dies">Lord Edgware Dies</a></i></li>
+<li><i><a href="/wiki/Murder_on_the_Orient_Express" title="Murder on the Orient Express">Murder on the Orient Express</a></i></li>
+<li><i><a href="/wiki/Why_Didn%27t_They_Ask_Evans%3F" title="Why Didn't They Ask Evans?">Why Didn't They Ask Evans?</a></i></li>
+<li><i><a href="/wiki/Three_Act_Tragedy" title="Three Act Tragedy">Three Act Tragedy</a></i></li>
+<li><i><a href="/wiki/Death_in_the_Clouds" title="Death in the Clouds">Death in the Clouds</a></i></li>
+<li><i><a href="/wiki/The_A.B.C._Murders" title="The A.B.C. Murders">The A.B.C. Murders</a></i></li>
+<li><i><a href="/wiki/Murder_in_Mesopotamia" title="Murder in Mesopotamia">Murder in Mesopotamia</a></i></li>
+<li><i><a href="/wiki/Cards_on_the_Table" title="Cards on the Table">Cards on the Table</a></i></li>
+<li><i><a href="/wiki/Dumb_Witness" title="Dumb Witness">Dumb Witness</a></i></li>
+<li><i><a href="/wiki/Death_on_the_Nile" title="Death on the Nile">Death on the Nile</a></i></li>
+<li><i><a href="/wiki/Appointment_with_Death" title="Appointment with Death">Appointment with Death</a></i></li>
+<li><i><a href="/wiki/Hercule_Poirot%27s_Christmas" title="Hercule Poirot's Christmas">Hercule Poirot's Christmas</a></i></li>
+<li><i><a href="/wiki/Murder_Is_Easy" title="Murder Is Easy">Murder Is Easy</a></i></li>
+<li><i><a href="/wiki/And_Then_There_Were_None" title="And Then There Were None">And Then There Were None</a></i></li>
+<li><i><a href="/wiki/Sad_Cypress" title="Sad Cypress">Sad Cypress</a></i></li>
+<li><i><a href="/wiki/One,_Two,_Buckle_My_Shoe_(novel)" title="One, Two, Buckle My Shoe (novel)">One, Two, Buckle My Shoe</a></i></li>
+<li><i><a href="/wiki/Evil_Under_the_Sun" title="Evil Under the Sun">Evil Under the Sun</a></i></li>
+<li><i><a href="/wiki/N_or_M%3F" title="N or M?">N or M?</a></i></li>
+<li><i><a href="/wiki/The_Body_in_the_Library" title="The Body in the Library">The Body in the Library</a></i></li>
+<li><i><a href="/wiki/Five_Little_Pigs" title="Five Little Pigs">Five Little Pigs</a></i></li>
+<li><i><a href="/wiki/The_Moving_Finger" title="The Moving Finger">The Moving Finger</a></i></li>
+<li><i><a href="/wiki/Towards_Zero" title="Towards Zero">Towards Zero</a></i></li>
+<li><i><a href="/wiki/Death_Comes_as_the_End" title="Death Comes as the End">Death Comes as the End</a></i></li>
+<li><i><a href="/wiki/Sparkling_Cyanide" title="Sparkling Cyanide">Sparkling Cyanide</a></i></li>
+<li><i><a href="/wiki/The_Hollow" title="The Hollow">The Hollow</a></i></li>
+<li><i><a href="/wiki/Taken_at_the_Flood" title="Taken at the Flood">Taken at the Flood</a></i></li>
+<li><i><a href="/wiki/Crooked_House" title="Crooked House">Crooked House</a></i></li>
+<li><i><a href="/wiki/A_Murder_Is_Announced" title="A Murder Is Announced">A Murder Is Announced</a></i></li>
+<li><i><a href="/wiki/They_Came_to_Baghdad" title="They Came to Baghdad">They Came to Baghdad</a></i></li>
+<li><i><a href="/wiki/Mrs_McGinty%27s_Dead" title="Mrs McGinty's Dead">Mrs McGinty's Dead</a></i></li>
+<li><i><a href="/wiki/They_Do_It_with_Mirrors" title="They Do It with Mirrors">They Do It with Mirrors</a></i></li>
+<li><i><a href="/wiki/After_the_Funeral" title="After the Funeral">After the Funeral</a></i></li>
+<li><i><a href="/wiki/A_Pocket_Full_of_Rye" title="A Pocket Full of Rye">A Pocket Full of Rye</a></i></li>
+<li><i><a href="/wiki/Destination_Unknown_(novel)" title="Destination Unknown (novel)">Destination Unknown</a></i></li>
+<li><i><a href="/wiki/Hickory_Dickory_Dock_(novel)" title="Hickory Dickory Dock (novel)">Hickory Dickory Dock</a></i></li>
+<li><i><a href="/wiki/Dead_Man%27s_Folly" title="Dead Man's Folly">Dead Man's Folly</a></i></li>
+<li><i><a href="/wiki/4.50_from_Paddington" title="4.50 from Paddington">4.50 from Paddington</a></i></li>
+<li><i><a href="/wiki/Ordeal_by_Innocence" title="Ordeal by Innocence">Ordeal by Innocence</a></i></li>
+<li><i><a href="/wiki/Cat_Among_the_Pigeons" title="Cat Among the Pigeons">Cat Among the Pigeons</a></i></li>
+<li><i><a href="/wiki/The_Pale_Horse" title="The Pale Horse">The Pale Horse</a></i></li>
+<li><i><a href="/wiki/The_Mirror_Crack%27d_from_Side_to_Side" title="The Mirror Crack'd from Side to Side">The Mirror Crack'd from Side to Side</a></i></li>
+<li><i><a href="/wiki/The_Clocks" title="The Clocks">The Clocks</a></i></li>
+<li><i><a href="/wiki/A_Caribbean_Mystery" title="A Caribbean Mystery">A Caribbean Mystery</a></i></li>
+<li><i><a href="/wiki/At_Bertram%27s_Hotel" title="At Bertram's Hotel">At Bertram's Hotel</a></i></li>
+<li><i><a href="/wiki/Third_Girl" title="Third Girl">Third Girl</a></i></li>
+<li><i><a href="/wiki/Endless_Night" title="Endless Night">Endless Night</a></i></li>
+<li><i><a href="/wiki/By_the_Pricking_of_My_Thumbs" title="By the Pricking of My Thumbs">By the Pricking of My Thumbs</a></i></li>
+<li><i><a href="/wiki/Hallowe%27en_Party" title="Hallowe'en Party">Hallowe'en Party</a></i></li>
+<li><i><a href="/wiki/Passenger_to_Frankfurt" title="Passenger to Frankfurt">Passenger to Frankfurt</a></i></li>
+<li><i><a href="/wiki/Nemesis_(Christie_novel)" title="Nemesis (Christie novel)">Nemesis</a></i></li>
+<li><i><a href="/wiki/Elephants_Can_Remember" title="Elephants Can Remember">Elephants Can Remember</a></i></li>
+<li><i><a href="/wiki/Postern_of_Fate" title="Postern of Fate">Postern of Fate</a></i></li>
+<li><i><a href="/wiki/Curtain_(novel)" title="Curtain (novel)">Curtain</a></i></li>
+<li><i><a href="/wiki/Sleeping_Murder" title="Sleeping Murder">Sleeping Murder</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">As Mary<br/>
+Westmacott</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Giant%27s_Bread" title="Giant's Bread">Giant's Bread</a></i></li>
+<li><i><a href="/wiki/Unfinished_Portrait_(novel)" title="Unfinished Portrait (novel)">Unfinished Portrait</a></i></li>
+<li><i><a href="/wiki/Absent_in_the_Spring" title="Absent in the Spring">Absent in the Spring</a></i></li>
+<li><i><a href="/wiki/The_Rose_and_the_Yew_Tree" title="The Rose and the Yew Tree">The Rose and the Yew Tree</a></i></li>
+<li><i><a href="/wiki/A_Daughter%27s_a_Daughter" title="A Daughter's a Daughter">A Daughter's a Daughter</a></i></li>
+<li><i><a href="/wiki/The_Burden" title="The Burden">The Burden</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Category:Short_story_collections_by_Agatha_Christie" title="Category:Short story collections by Agatha Christie">Short story<br/>
+collections</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Poirot_Investigates" title="Poirot Investigates">Poirot Investigates</a></i></li>
+<li><i><a href="/wiki/Partners_in_Crime_(short_story_collection)" title="Partners in Crime (short story collection)">Partners in Crime</a></i></li>
+<li><i><a href="/wiki/The_Mysterious_Mr_Quin" title="The Mysterious Mr Quin">The Mysterious Mr Quin</a></i></li>
+<li><i><a href="/wiki/The_Thirteen_Problems" title="The Thirteen Problems">The Thirteen Problems</a></i></li>
+<li><i><a href="/wiki/The_Hound_of_Death" title="The Hound of Death">The Hound of Death</a></i></li>
+<li><i><a href="/wiki/The_Listerdale_Mystery" title="The Listerdale Mystery">The Listerdale Mystery</a></i></li>
+<li><i><a href="/wiki/Parker_Pyne_Investigates" title="Parker Pyne Investigates">Parker Pyne Investigates</a></i></li>
+<li><i><a href="/wiki/Murder_in_the_Mews" title="Murder in the Mews">Murder in the Mews</a></i></li>
+<li><i><a href="/wiki/The_Regatta_Mystery" title="The Regatta Mystery">The Regatta Mystery</a></i></li>
+<li><i><a href="/wiki/The_Labours_of_Hercules" title="The Labours of Hercules">The Labours of Hercules</a></i></li>
+<li><i><a href="/wiki/The_Witness_for_the_Prosecution_and_Other_Stories" title="The Witness for the Prosecution and Other Stories">The Witness for the Prosecution and Other Stories</a></i></li>
+<li><i><a href="/wiki/Three_Blind_Mice_and_Other_Stories" title="Three Blind Mice and Other Stories">Three Blind Mice and Other Stories</a></i></li>
+<li><i><a href="/wiki/The_Under_Dog_and_Other_Stories" title="The Under Dog and Other Stories">The Under Dog and Other Stories</a></i></li>
+<li><i><a href="/wiki/The_Adventure_of_the_Christmas_Pudding" title="The Adventure of the Christmas Pudding">The Adventure of the Christmas Pudding</a></i></li>
+<li><i><a href="/wiki/Double_Sin_and_Other_Stories" title="Double Sin and Other Stories">Double Sin and Other Stories</a></i></li>
+<li><i><a href="/wiki/The_Golden_Ball_and_Other_Stories" title="The Golden Ball and Other Stories">The Golden Ball and Other Stories</a></i></li>
+<li><i><a href="/wiki/Poirot%27s_Early_Cases" title="Poirot's Early Cases">Poirot's Early Cases</a></i></li>
+<li><i><a href="/wiki/Miss_Marple%27s_Final_Cases_and_Two_Other_Stories" title="Miss Marple's Final Cases and Two Other Stories">Miss Marple's Final Cases and Two Other Stories</a></i></li>
+<li><i><a href="/wiki/Problem_at_Pollensa_Bay_and_Other_Stories" title="Problem at Pollensa Bay and Other Stories">Problem at Pollensa Bay and Other Stories</a></i></li>
+<li><i><a href="/wiki/The_Harlequin_Tea_Set" title="The Harlequin Tea Set">The Harlequin Tea Set</a></i></li>
+<li><i><a href="/wiki/While_the_Light_Lasts_and_Other_Stories" title="While the Light Lasts and Other Stories">While the Light Lasts and Other Stories</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Category:Plays_by_Agatha_Christie" title="Category:Plays by Agatha Christie">Plays</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Black_Coffee_(play)" title="Black Coffee (play)">Black Coffee</a></i></li>
+<li><i><strong class="selflink">And Then There Were None</strong></i></li>
+<li><i><a href="/wiki/Appointment_with_Death_(play)" title="Appointment with Death (play)">Appointment with Death</a></i></li>
+<li><i><a href="/wiki/Murder_on_the_Nile/Hidden_Horizon" title="Murder on the Nile/Hidden Horizon">Murder on the Nile/Hidden Horizon</a></i></li>
+<li><i><a href="/wiki/The_Hollow_(play)" title="The Hollow (play)">The Hollow</a></i></li>
+<li><i><a href="/wiki/The_Mousetrap" title="The Mousetrap">The Mousetrap</a></i></li>
+<li><i><a href="/wiki/Witness_for_the_Prosecution_(play)" title="Witness for the Prosecution (play)">Witness for the Prosecution</a></i></li>
+<li><i><a href="/wiki/Spider%27s_Web_(play)" title="Spider's Web (play)">Spider's Web</a></i></li>
+<li><i>A Daughter's a Daughter</i></li>
+<li><i>Towards Zero</i></li>
+<li><i><a href="/wiki/Verdict_(play)" title="Verdict (play)">Verdict</a></i></li>
+<li><i><a href="/wiki/The_Unexpected_Guest_(play)" title="The Unexpected Guest (play)">The Unexpected Guest</a></i></li>
+<li><i>Go Back for Murder</i></li>
+<li><i>Rule of Three</i></li>
+<li><i><a href="/wiki/Fiddlers_Three_(play)" title="Fiddlers Three (play)">Fiddlers Three</a></i></li>
+<li><i><a href="/wiki/Akhnaton_(play)" title="Akhnaton (play)">Akhnaton</a></i></li>
+<li><i><a href="/wiki/Chimneys_(play)" title="Chimneys (play)">Chimneys</a></i></li>
+<li><i>The Guinea Pig</i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Radio and<br/>
+television plays</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Wasp%27s_Nest" title="Wasp's Nest">Wasp's Nest</a></i></li>
+<li><i><a href="/wiki/The_Yellow_Iris" title="The Yellow Iris">The Yellow Iris</a></i></li>
+<li><i><a href="/wiki/Three_Blind_Mice_(radio_play_and_short_story)" title="Three Blind Mice (radio play and short story)">Three Blind Mice</a></i></li>
+<li><i><a href="/wiki/Butter_in_a_Lordly_Dish" title="Butter in a Lordly Dish">Butter in a Lordly Dish</a></i></li>
+<li><i><a href="/wiki/Personal_Call" title="Personal Call">Personal Call</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Category:Books_by_Agatha_Christie" title="Category:Books by Agatha Christie">Other books</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Road_of_Dreams" title="The Road of Dreams">The Road of Dreams</a></i></li>
+<li><i><a href="/wiki/Come,_Tell_Me_How_You_Live" title="Come, Tell Me How You Live">Come, Tell Me How You Live</a></i></li>
+<li><i><a href="/wiki/Star_Over_Bethlehem" title="Star Over Bethlehem">Star Over Bethlehem</a></i></li>
+<li><i><a href="/wiki/Poems_(Agatha_Christie)" title="Poems (Agatha Christie)">Poems</a></i></li>
+<li><i><a href="/wiki/Agatha_Christie:_An_Autobiography" title="Agatha Christie: An Autobiography">An Autobiography</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:Agatha_Christie" title="Book:Agatha Christie">Book</a></b></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Agatha_Christie" title="Category:Agatha Christie">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:And_Then_There_Were_None" title="Template:And Then There Were None"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:And_Then_There_Were_None" title="Template talk:And Then There Were None"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:And_Then_There_Were_None&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Agatha_Christie" title="Agatha Christie">Agatha Christie</a>'s <i><a href="/wiki/And_Then_There_Were_None" title="And Then There Were None">And Then There Were None</a></i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Films</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/And_Then_There_Were_None_(1945_film)" title="And Then There Were None (1945 film)">And Then There Were None</a></i> (1945)</li>
+<li><i><a href="/wiki/Ten_Little_Indians_(1965_film)" title="Ten Little Indians (1965 film)">Ten Little Indians</a></i> (1965)</li>
+<li><i><a href="/wiki/Gumnaam" title="Gumnaam">Gumnaam</a></i></li>
+<li><i><a href="/wiki/Adhey_Kangal" title="Adhey Kangal">Adhey Kangal</a></i></li>
+<li><i><a href="/wiki/Five_Dolls_for_an_August_Moon" title="Five Dolls for an August Moon">Five Dolls for an August Moon</a></i></li>
+<li><i><a href="/wiki/And_Then_There_Were_None_(1974_film)" title="And Then There Were None (1974 film)">And Then There Were None</a></i> (1974)</li>
+<li><i><a href="/wiki/Island_of_Blood_(1982_film)" title="Island of Blood (1982 film)">Island of Blood</a></i></li>
+<li><i><a href="/wiki/Desyat_Negrityat" title="Desyat Negrityat">Desyat Negrityat</a></i></li>
+<li><i><a href="/wiki/Ten_Little_Indians_(1989_film)" title="Ten Little Indians (1989 film)">Ten Little Indians</a></i> (1989)</li>
+<li><i><a href="/wiki/Identity_(film)" title="Identity (film)">Identity</a></i></li>
+<li><i><a href="/wiki/Devil_(2010_film)" title="Devil (2010 film)">Devil</a></i></li>
+<li><i><a href="/wiki/Game_(2011_film)" title="Game (2011 film)">Game</a></i></li>
+<li><i><a href="/wiki/And_Then_There_Were_None_(2015_film)" title="And Then There Were None (2015 film)">And Then There Were None</a></i> (2015)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><strong class="selflink">And Then There Were None</strong></i> (play)</li>
+<li><i><a href="/wiki/Agatha_Christie:_And_Then_There_Were_None" title="Agatha Christie: And Then There Were None">Agatha Christie: And Then There Were None</a></i> (game)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Related</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>"<a href="/wiki/And_Then_There_Were_Fewer" title="And Then There Were Fewer">And Then There Were Fewer</a>"</li>
+<li><a href="/wiki/Ten_Little_Indians" title="Ten Little Indians">Ten Little Indians</a></li>
+<li><i><a href="/wiki/The_Great_Explosion" title="The Great Explosion">The Great Explosion</a></i></li>
+<li><i><a href="/wiki/Something%27s_Afoot" title="Something's Afoot">Something's Afoot</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/I_Know_What_You_Did_Last_Wednesday" title="I Know What You Did Last Wednesday">I Know What You Did Last Wednesday</a></i></li>
+<li><i><a href="/wiki/A_Stab_in_the_Dark_(play)" title="A Stab in the Dark (play)">A Stab in the Dark</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1026
+CPU time usage: 0.373 seconds
+Real time usage: 0.426 seconds
+Preprocessor visited node count: 1086/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45992/2097152 bytes
+Template argument size: 344/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.111/10.000 seconds
+Lua memory usage: 2.62 MB/50 MB
+-->
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  275.582      1 - -total
+ 38.77%  106.856      1 - Template:Reflist
+ 24.69%   68.047      7 - Template:Cite_web
+ 18.14%   49.993      1 - Template:Infobox_play
+ 15.89%   43.784      1 - Template:Infobox
+ 15.68%   43.201      1 - Template:EngvarB
+ 14.33%   39.483      2 - Template:Navbox
+ 13.37%   36.836      1 - Template:Agatha_Christie
+  8.53%   23.512      2 - Template:DMCA
+  7.51%   20.704      2 - Template:Dated_maintenance_category
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12860171-0!*!0!!en!4!* and timestamp 20150201010130 and revision id 619828457
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=And_Then_There_Were_None_(play)&amp;oldid=619828457">http://en.wikipedia.org/w/index.php?title=And_Then_There_Were_None_(play)&amp;oldid=619828457</a>"					</div>
+<div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Plays_by_Agatha_Christie" title="Category:Plays by Agatha Christie">Plays by Agatha Christie</a></li><li><a href="/wiki/Category:1943_plays" title="Category:1943 plays">1943 plays</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:EngvarB_from_September_2013" title="Category:EngvarB from September 2013">EngvarB from September 2013</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2013" title="Category:Use dmy dates from September 2013">Use dmy dates from September 2013</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=And+Then+There+Were+None+%28play%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=And+Then+There+Were+None+%28play%29" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/And_Then_There_Were_None_(play)" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:And_Then_There_Were_None_(play)" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/And_Then_There_Were_None_(play)">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=history" title="Past versions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if one exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li>
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+<li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li>
+<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+<li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li>
+<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/And_Then_There_Were_None_(play)" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li>
+<li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/And_Then_There_Were_None_(play)" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
+<li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
+<li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;oldid=619828457" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;action=info" title="More information about this page">Page information</a></li>
+<li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q4195088" title="Link to connected data repository item [g]">Wikidata item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=And_Then_There_Were_None_%28play%29&amp;id=619828457" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=And+Then+There+Were+None+%28play%29">Create a book</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=And+Then+There+Were+None+%28play%29&amp;oldid=619828457&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="t-print"><a accesskey="p" href="/w/index.php?title=And_Then_There_Were_None_(play)&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AB%D9%85_%D9%84%D9%85_%D9%8A%D8%A8%D9%82_%D9%85%D9%86%D9%87%D9%85_%D8%A3%D8%AD%D8%AF_(%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9)" hreflang="ar" lang="ar" title="ثم لم يبق منهم أحد (مسرحية) – Arabic">العربية</a></li>
+<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Diez_negritos_(obra_de_teatro)" hreflang="es" lang="es" title="Diez negritos (obra de teatro) – Spanish">Español</a></li>
+<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Dix_petits_n%C3%A8gres_(pi%C3%A8ce_de_th%C3%A9%C3%A2tre)" hreflang="fr" lang="fr" title="Dix petits nègres (pièce de théâtre) – French">Français</a></li>
+<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%98_%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B5_%D1%81%D1%82%D0%B0%D0%BB%D0%BE_(%D0%BF%D1%8C%D0%B5%D1%81%D0%B0)" hreflang="ru" lang="ru" title="И никого не стало (пьеса) – Russian">Русский</a></li>
+<li class="uls-p-lang-dummy"><a href="#"></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" class="wbc-editpage" href="//www.wikidata.org/wiki/Q4195088#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 4 August 2014, at 15:30.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=And_Then_There_Were_None_(play)&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
+</li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+
+</body>
+</html>
