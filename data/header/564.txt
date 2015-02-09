@@ -1,0 +1,20 @@
+Title: Elvis Presley - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=9288; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 09 Feb 2015 15:24:29 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1589693244 1589411173, 2265910194 2218269421
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:44:29 GMT
+Age: 29988
+Connection: close
+X-Cache: cp1052 hit (8), cp1053 frontend hit (277)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

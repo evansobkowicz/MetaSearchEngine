@@ -1,0 +1,16 @@
+Title: The Beatles
+Date: Mon, 09 Feb 2015 23:44:05 GMT
+Server: Apache
+X-Drupal-Cache: HIT
+Etag: "1423520480-0"
+Content-Language: en
+X-Generator: Drupal 7 (http://drupal.org)
+Link: <http://www.thebeatles.com/>; rel="canonical",<http://www.thebeatles.com/>; rel="shortlink"
+Cache-Control: public, max-age=0
+Last-Modified: Mon, 09 Feb 2015 22:21:20 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding,User-Agent
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+

@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Guy Ritchie - Wikipedia, the free encyclopedia</title>
+<meta content="MediaWiki 1.25wmf14" name="generator"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Guy_Ritchie" rel="alternate"/>
+<link href="/w/index.php?title=Guy_Ritchie&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Guy_Ritchie&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="/wiki/Guy_Ritchie" hreflang="x-default" rel="alternate"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="http://en.wikipedia.org/wiki/Guy_Ritchie" rel="canonical"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+
+
+
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf14/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Guy_Ritchie skin-vector action-view vector-animateLayout">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><span dir="auto">Guy Ritchie</span></h1>
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Guy Ritchie</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Guy_Ritchie_2012.jpg"><img alt="Guy Ritchie 2012.jpg" data-file-height="720" data-file-width="511" height="310" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Guy_Ritchie_2012.jpg/220px-Guy_Ritchie_2012.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Guy_Ritchie_2012.jpg/330px-Guy_Ritchie_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Guy_Ritchie_2012.jpg/440px-Guy_Ritchie_2012.jpg 2x" width="220"/></a>
+<div>Ritchie at the <a href="/wiki/Paris" title="Paris">Paris</a> premiere of <i><a href="/wiki/Sherlock_Holmes:_A_Game_of_Shadows" title="Sherlock Holmes: A Game of Shadows">Sherlock Holmes: A Game of Shadows</a></i> in 2012</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.6em;">Born</th>
+<td><span class="nickname">Guy Stuart Ritchie</span><br/>
+<span style="display:none">(<span class="bday">1968-09-10</span>)</span> 10 September 1968 <span class="noprint ForceAgeToShow">(age 46)</span><br/>
+<span class="birthplace"><a href="/wiki/Hatfield,_Hertfordshire" title="Hatfield, Hertfordshire">Hatfield, Hertfordshire</a>, England</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.6em;">Occupation</th>
+<td class="role">Filmmaker, pub landlord, businessman</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.6em;">Years active</th>
+<td>1995–present</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.6em;"><span style="white-space:nowrap;">Spouse(s)</span></th>
+<td><span><a href="/wiki/Madonna_(entertainer)" title="Madonna (entertainer)">Madonna</a> (<abbr title="married">m.</abbr> 2000–08)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.6em;"><span style="white-space:nowrap;">Partner(s)</span></th>
+<td><a href="/wiki/Jacqui_Ainsley" title="Jacqui Ainsley">Jacqui Ainsley</a><br/>
+(2010–present)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;padding-right:0.6em;">Children</th>
+<td>5</td>
+</tr>
+</table>
+<p><b>Guy Stuart Ritchie</b> (born 10 September 1968) is an English filmmaker known for his crime films. He left high school and got entry-level jobs in the film industry in the mid-1990s. He eventually graduated to directing commercials. He made his first film in 1995, a 20-minute short which impressed investors who backed his first feature film, the crime comedy <i><a href="/wiki/Lock,_Stock_and_Two_Smoking_Barrels" title="Lock, Stock and Two Smoking Barrels">Lock, Stock and Two Smoking Barrels</a></i> (1998). He then directed another crime comedy, <i><a href="/wiki/Snatch_(film)" title="Snatch (film)">Snatch</a></i> (2000). His first two films were a commercial and critical success. His next two films, the romantic comedy <i><a href="/wiki/Swept_Away_(2002_film)" title="Swept Away (2002 film)">Swept Away</a></i> (2002) and the crime drama <i><a href="/wiki/Revolver_(2005_film)" title="Revolver (2005 film)">Revolver</a></i> (2005) were not a commercial or critical success. The next crime drama, <i><a href="/wiki/RocknRolla" title="RocknRolla">RocknRolla</a></i> (2008), received mixed reviews and a modest box office return. In 2009, he directed his first films in the action mystery genre, with <i><a href="/wiki/Sherlock_Holmes_(2009_film)" title="Sherlock Holmes (2009 film)">Sherlock Holmes</a></i> (2009) and its sequel <i><a href="/wiki/Sherlock_Holmes:_A_Game_of_Shadows" title="Sherlock Holmes: A Game of Shadows">Sherlock Holmes: A Game of Shadows</a></i> (2011). Both films were major box office successes, and the two films received positive, and moderately positive reviews, respectively.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Directing_career"><span class="tocnumber">2</span> <span class="toctext">Directing career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personal_life"><span class="tocnumber">3</span> <span class="toctext">Personal life</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Relationships"><span class="tocnumber">3.1</span> <span class="toctext">Relationships</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Filmography"><span class="tocnumber">4</span> <span class="toctext">Filmography</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guy_Ritchie&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ritchie was born in <a href="/wiki/Hatfield,_Hertfordshire" title="Hatfield, Hertfordshire">Hatfield, Hertfordshire</a>,<sup class="reference" id="cite_ref-b_1-0"><a href="#cite_note-b-1"><span>[</span>1<span>]</span></a></sup> the second of two children born to Amber (née Parkinson) and Captain John Vivian Ritchie (b. 1928), former <a href="/wiki/Seaforth_Highlanders" title="Seaforth Highlanders">Seaforth Highlanders</a> serviceman and advertising executive. John's father was Major Stewart Ritchie, who died in France, in 1940, during World War Two.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> John's mother was Doris Margaretta McLaughlin (b. 1896), daughter of Vivian Guy McLaughlin (b. 1865) and Edith Martineau (b. 1866). The McLaughlins have a pedigree going back to <a class="mw-redirect" href="/wiki/King_Edward_I_of_England" title="King Edward I of England">King Edward I of England</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Ritchie's mother, Amber, later married a baronet.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> His father's second marriage was to <a href="/wiki/Shireen_Ritchie,_Baroness_Ritchie_of_Brompton" title="Shireen Ritchie, Baroness Ritchie of Brompton">Shireen Ritchie, Baroness Ritchie of Brompton</a>, a former model and later Conservative politician and life peer.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Ritchie, who is <a href="/wiki/Dyslexia" title="Dyslexia">dyslexic</a>, was expelled from <a class="mw-redirect" href="/wiki/Stanbridge_Earls" title="Stanbridge Earls">Stanbridge Earls School</a> at the age of 15.<sup class="reference" id="cite_ref-b_1-1"><a href="#cite_note-b-1"><span>[</span>1<span>]</span></a></sup> He has stated that drug use was the reason for the expulsion; his father has said that it was because his son was caught "cutting class and entertaining a girl in his room."<sup class="reference" id="cite_ref-autogenerated304_7-0"><a href="#cite_note-autogenerated304-7"><span>[</span>7<span>]</span></a></sup> He also attended <a href="/wiki/Sibford_School" title="Sibford School">Sibford School</a> &amp; <a href="/wiki/Windlesham_House_School" title="Windlesham House School">Windlesham House School</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2014)">citation needed</span></a></i>]</sup></p>
+<p>In addition to his elder sister, Tabitha, a dance instructor, Ritchie has a half-brother, Kevin Bayton, who was born to Amber Parkinson when she was a teenager and given up for adoption.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> From 1973 until 1980, when they divorced,<sup class="reference" id="cite_ref-autogenerated304_7-1"><a href="#cite_note-autogenerated304-7"><span>[</span>7<span>]</span></a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> Ritchie's mother was married to Sir Michael Leighton, 11th baronet. As a divorcée, she is correctly styled as Amber, Lady Leighton.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Directing_career">Directing career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guy_Ritchie&amp;action=edit&amp;section=2" title="Edit section: Directing career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ritchie directed a 20-minute short film in 1995 entitled <i><a href="/wiki/The_Hard_Case" title="The Hard Case">The Hard Case</a></i>. In 1998, Ritchie and his dad contacted their friend <a href="/wiki/Peter_Morton" title="Peter Morton">Peter Morton</a>, of the <a href="/wiki/Hard_Rock_Cafe" title="Hard Rock Cafe">Hard Rock Cafe</a> chain, wondering if he had any potential investors for a debut film, Morton knew his nephew <a href="/wiki/Matthew_Vaughn" title="Matthew Vaughn">Matthew Vaughn</a> had been studying film production in Los Angeles. Peter informed Vaughn of Ritchie's new film idea, and Vaughn knew he could help out with his own found production ideas he had gained from his travels to America. Matthew, John, Guy and Peter all contacted their mutual acquaintance, <a href="/wiki/Trudie_Styler" title="Trudie Styler">Trudie Styler</a>, who they knew had enough money to invest in the production of Ritchie's second film. Styler informed them that she had previously seen The Hard Case, and decided that co-funding the project would be a worthwhile opportunity. After about eight months, the production of the film, <i><a href="/wiki/Lock,_Stock_and_Two_Smoking_Barrels" title="Lock, Stock and Two Smoking Barrels">Lock, Stock and Two Smoking Barrels</a></i> was completed, and it was released in 1998 to a national audience, then later went global after its positive reviews. Richie was introduced to <a href="/wiki/Madonna_(entertainer)" title="Madonna (entertainer)">Madonna</a> when the soundtrack for the film was issued on her <a href="/wiki/Maverick_Records" title="Maverick Records">Maverick Records</a> label. The film, whose main actor was <a href="/wiki/Nick_Moran" title="Nick Moran">Nick Moran</a>, also introduced actors <a href="/wiki/Jason_Statham" title="Jason Statham">Jason Statham</a> (<i><a href="/wiki/The_Transporter" title="The Transporter">The Transporter</a></i>), <a href="/wiki/Jason_Flemyng" title="Jason Flemyng">Jason Flemyng</a> and <a href="/wiki/Dexter_Fletcher" title="Dexter Fletcher">Dexter Fletcher</a> to worldwide audiences, as well as introducing former footballer <a href="/wiki/Vinnie_Jones" title="Vinnie Jones">Vinnie Jones</a> to a new career as a film star. In 2000 Ritchie won an <a href="/wiki/Edgar_Award" title="Edgar Award">Edgar Award</a> from the <a href="/wiki/Mystery_Writers_of_America" title="Mystery Writers of America">Mystery Writers of America</a> for Best Motion Picture Screenplay. Ritchie created and produced a spin-off television series called <i><a href="/wiki/Lock,_Stock..." title="Lock, Stock...">Lock, Stock...</a></i>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>His second feature film was <a class="mw-redirect" href="/wiki/Snatch_(movie)" title="Snatch (movie)"><i>Snatch</i></a>, released in the year 2000. Originally known as <i>Diamonds</i>, it was another caper comedy, this time backed by a major studio. The cast featured such Hollywood big names as <a href="/wiki/Brad_Pitt" title="Brad Pitt">Brad Pitt</a>, <a href="/wiki/Benicio_del_Toro" title="Benicio del Toro">Benicio del Toro</a> and <a href="/wiki/Dennis_Farina" title="Dennis Farina">Dennis Farina</a>, along with the returning Vinnie Jones and Statham. Similar to <i>Lock, Stock and Two Smoking Barrels</i> in featuring a complex and inventive storyline in which the characters weave in and out of each other's lives, the film also plays with time, depicting events from various perspectives. It currently has a rating of 73% on Rotten Tomatoes.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2014)">citation needed</span></a></i>]</sup></p>
+<p>Following his marriage to Madonna, Ritchie began focusing his filmmaking on his wife, directing her in both a music video (for the song "<a href="/wiki/What_It_Feels_Like_for_a_Girl" title="What It Feels Like for a Girl">What It Feels Like for a Girl</a>", a controversial video that showed Madonna engaging in violent behaviour, ostensibly directed at men, including T-boning a car with three men in it, tasering and robbing a man at an ATM, scratching a police car and shooting two officers with a water gun, driving her car through a group of men playing street hockey and incinerating a man by throwing a lighter into a pool of gasoline) and a short film, <i>Star</i>, for the <a class="mw-redirect" href="/wiki/BMW_films" title="BMW films">BMW films</a> series. Ritchie's next film, also featuring Madonna, was a remake of the 1974 <a href="/wiki/Lina_Wertm%C3%BCller" title="Lina Wertmüller">Lina Wertmüller</a> hit <i><a href="/wiki/Swept_Away_(1974_film)" title="Swept Away (1974 film)">Swept Away</a></i> (also entitled <i><a class="mw-redirect" href="/wiki/Swept_Away_(2002)" title="Swept Away (2002)">Swept Away</a></i>). Ritchie cast Madonna as a rich, rude socialite who, after a shipwreck, is trapped on a deserted island with a slovenly Communist sailor who humiliates her. Ritchie renamed the woman Amber Leighton after his mother. This film was both a critical and commercial disappointment.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2014)">citation needed</span></a></i>]</sup></p>
+<p>Ritchie's next project was a Vegas-themed heist film entitled <i><a href="/wiki/Revolver_(2005_film)" title="Revolver (2005 film)">Revolver</a></i>, which was critically panned in the US and UK.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> Ritchie was involved with a hidden camera show called <i>Swag</i>,<sup class="reference" id="cite_ref-15"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> for <a href="/wiki/Channel_5_(UK)" title="Channel 5 (UK)">Channel Five</a> in the UK, which turned the table on criminals and opportunists by using stunts to trap them in the act. Ritchie has also written and directed <i><a href="/wiki/RocknRolla" title="RocknRolla">RocknRolla</a></i> starring <a href="/wiki/Gerard_Butler" title="Gerard Butler">Gerard Butler</a>. It scores 60% on Rotten Tomatoes and was generally received well.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> Ritchie intends to develop the film into a trilogy, with the next entry being "The Real RocknRolla," as is stated at the end of "RocknRolla." Ritchie will also direct a film based on a comic book series he created with <a class="mw-redirect" href="/wiki/Virgin_Comics" title="Virgin Comics">Virgin Comics</a> entitled <i><a href="/wiki/Guy_Ritchie%27s_Gamekeeper" title="Guy Ritchie's Gamekeeper">Guy Ritchie's Gamekeeper</a></i>. The film rights were acquired by <a class="mw-redirect" href="/wiki/Warner_Brothers" title="Warner Brothers">Warner Brothers</a> in July 2007. The film's being produced by <a href="/wiki/Silver_Pictures" title="Silver Pictures">Silver Pictures</a>.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>In 2008, Ritchie directed a commercial for <a href="/wiki/Nike,_Inc." title="Nike, Inc.">Nike</a> called "Take It To The Next Level", about a young Dutch footballer who signs for <a href="/wiki/Arsenal_F.C." title="Arsenal F.C.">Arsenal</a>, showing the progression of his career from his viewpoint, until he makes his debut for <a href="/wiki/Netherlands_national_football_team" title="Netherlands national football team">the Netherlands</a>. The commercial features cameo appearances from some football players with music by <a href="/wiki/Eagles_of_Death_Metal" title="Eagles of Death Metal">Eagles of Death Metal</a>.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> Ritchie's movie <i><a href="/wiki/Sherlock_Holmes_(2009_film)" title="Sherlock Holmes (2009 film)">Sherlock Holmes</a></i>, starring <a href="/wiki/Robert_Downey,_Jr." title="Robert Downey, Jr.">Robert Downey, Jr.</a> and <a href="/wiki/Jude_Law" title="Jude Law">Jude Law</a>, received its theatrical release on 25 December 2009. The film was given generally positive reviews<sup class="reference" id="cite_ref-19"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> and grossed more than $520 million worldwide,<sup class="reference" id="cite_ref-20"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> becoming Ritchie's most successful film financially.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> The sequel, <i><a href="/wiki/Sherlock_Holmes:_A_Game_of_Shadows" title="Sherlock Holmes: A Game of Shadows">Sherlock Holmes: A Game of Shadows</a></i>, was released on 16 December 2011.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> In June 2012 it was announced that Ritchie would direct an adaptation of <i><a href="/wiki/Treasure_Island" title="Treasure Island">Treasure Island</a></i> by <a href="/wiki/Robert_Louis_Stevenson" title="Robert Louis Stevenson">Robert Louis Stevenson</a>.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup> On 29 October 2012, Ritchie produced a game trailer for <i><a href="/wiki/Call_of_Duty:_Black_Ops_II" title="Call of Duty: Black Ops II">Call of Duty: Black Ops II</a></i>.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<p>On 18 March 2013, <i><a href="/wiki/Deadline.com" title="Deadline.com">Deadline.com</a></i> reported that <i><a class="mw-redirect" href="/wiki/The_Man_From_U.N.C.L.E." title="The Man From U.N.C.L.E.">The Man From U.N.C.L.E.</a></i> was in production with Ritchie directing.<sup class="reference" id="cite_ref-tom_25-0"><a href="#cite_note-tom-25"><span>[</span>25<span>]</span></a></sup> On 31 July 2013, it was announced that Ritchie's adaptation would start filming in September 2013 in <a href="/wiki/London" title="London">London</a> and <a href="/wiki/Italy" title="Italy">Italy</a>.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup><sup class="reference" id="cite_ref-27"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> Warner Bros. set the film for a 16 January 2015 release.<sup class="reference" id="cite_ref-January16th-2015_28-0"><a href="#cite_note-January16th-2015-28"><span>[</span>28<span>]</span></a></sup></p>
+<p>In January 2014, Warner Bros set Ritchie to direct a new multi-film version of the <i>King Arthur</i> legend, which is scheduled for an 22 July 2016 release with <a class="mw-redirect" href="/wiki/Lionel_Wigram_(cinema)" title="Lionel Wigram (cinema)">Lionel Wigram</a> as producer and <a href="/wiki/Joby_Harold" title="Joby Harold">Joby Harold</a> as screenwriter.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup><sup class="reference" id="cite_ref-30"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup> <a href="/wiki/Idris_Elba" title="Idris Elba">Idris Elba</a> is in talks to play a Merlin-esque figure who trains and mentors Arthur.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup> <a href="/wiki/Charlie_Hunnam" title="Charlie Hunnam">Charlie Hunnam</a> will play King Arthur by Ritchie's choice.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guy_Ritchie&amp;action=edit&amp;section=3" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Guy_Ritchie_and_Madonna_(September_11_2005).jpg"><img alt="" class="thumbimage" data-file-height="290" data-file-width="297" height="215" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Guy_Ritchie_and_Madonna_%28September_11_2005%29.jpg/220px-Guy_Ritchie_and_Madonna_%28September_11_2005%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/2/28/Guy_Ritchie_and_Madonna_%28September_11_2005%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/2/28/Guy_Ritchie_and_Madonna_%28September_11_2005%29.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Guy_Ritchie_and_Madonna_(September_11_2005).jpg" title="Enlarge"></a></div>
+Ritchie and his then wife <a href="/wiki/Madonna_(entertainer)" title="Madonna (entertainer)">Madonna</a> in 2005</div>
+</div>
+</div>
+<p>On 18 May 2000, Ritchie was arrested by the police after he assaulted a 20-year-old man outside the <a href="/wiki/Kensington" title="Kensington">Kensington</a> home he shared with Madonna, causing actual bodily harm.<sup class="reference" id="cite_ref-33"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup> Ritchie started training in <a href="/wiki/Shotokan" title="Shotokan">Shotokan karate</a> at the age of seven at the <a href="/wiki/Budokwai" title="Budokwai">Budokwai</a> in London, where he later achieved a black belt in <a href="/wiki/Judo" title="Judo">judo</a>.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup> He also has a brown belt in <a class="mw-redirect" href="/wiki/Brazilian_Jiu-Jitsu" title="Brazilian Jiu-Jitsu">Brazilian Jiu-Jitsu</a>.<sup class="reference" id="cite_ref-35"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></p>
+<p>In February 2011 a £6m house he owns in London's <a href="/wiki/Fitzrovia" title="Fitzrovia">Fitzrovia</a> was occupied briefly by members of The Really Free School, a <a class="mw-redirect" href="/wiki/Squatter" title="Squatter">squatter</a> organization.<sup class="reference" id="cite_ref-36"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup><sup class="reference" id="cite_ref-37"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Relationships">Relationships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guy_Ritchie&amp;action=edit&amp;section=4" title="Edit section: Relationships">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 22 December 2000, Guy married American singer <a href="/wiki/Madonna_(entertainer)" title="Madonna (entertainer)">Madonna</a> at <a href="/wiki/Skibo_Castle" title="Skibo Castle">Skibo Castle</a> in <a href="/wiki/Scotland" title="Scotland">Scotland</a>.<sup class="reference" id="cite_ref-38"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup> They have a son, Rocco John Ritchie (born 11 August 2000 in Los Angeles) and adopted a Malawian baby boy in 2006, David (born 24 September 2005). On 15 October 2008, British media reported that a split was "imminent" between Ritchie and Madonna.<sup class="reference" id="cite_ref-39"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup> The split was confirmed by their spokesperson<sup class="reference" id="cite_ref-40"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup> and Ritchie and Madonna went public with the split because they "can’t bear to live with the pretense any longer".<sup class="reference" id="cite_ref-41"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></p>
+<p>On 15 December 2008, it was announced by Madonna's spokeswoman that the singer had agreed to a divorce settlement with Ritchie, the terms of which grant him between £50 million and £60 million, a figure that includes the value of the couple's <a class="mw-redirect" href="/wiki/The_Punch_Bowl_(Mayfair)" title="The Punch Bowl (Mayfair)">London pub</a> and residence and <a href="/wiki/Ashcombe_House,_Wiltshire" title="Ashcombe House, Wiltshire">Wiltshire estate</a> in England.<sup class="reference" id="cite_ref-42"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup> Madonna and Guy Ritchie's marriage was dissolved by District Judge Reid by <i><a href="/wiki/Decree_nisi" title="Decree nisi">decree nisi</a></i> at the clinical Principal Registry of the Family Division in High Holborn, London. Madonna and Ritchie entered into a compromise agreement for Rocco and David, then aged eight and three respectively, and divided the children's time between Ritchie's London home and Madonna's in New York, where the two will be joined by her daughter, Lourdes, from a previous relationship.<sup class="reference" id="cite_ref-43"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup><sup class="reference" id="cite_ref-44"><a href="#cite_note-44"><span>[</span>44<span>]</span></a></sup></p>
+<p>Richie is engaged to model <a href="/wiki/Jacqui_Ainsley" title="Jacqui Ainsley">Jacqui Ainsley</a> with whom he has three children: son Rafael (born 5 September 2011), daughter Rivka (born 29 November 2012) and a third child born in 2014.<sup class="reference" id="cite_ref-45"><a href="#cite_note-45"><span>[</span>45<span>]</span></a></sup><sup class="reference" id="cite_ref-46"><a href="#cite_note-46"><span>[</span>46<span>]</span></a></sup> <sup class="reference" id="cite_ref-47"><a href="#cite_note-47"><span>[</span>47<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guy_Ritchie&amp;action=edit&amp;section=5" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable plainrowheaders">
+<tr>
+<th>Year</th>
+<th>Film</th>
+<th>Notes</th>
+<th colspan="3">Credited as</th>
+</tr>
+<tr>
+<td style="text-align:center;">1995</td>
+<th scope="row"><i><a href="/wiki/The_Hard_Case" title="The Hard Case">The Hard Case</a></i></th>
+<td>20 min short film</td>
+<td><a href="/wiki/Film_director" title="Film director">Director</a></td>
+<td></td>
+<td><a href="/wiki/Screenwriter" title="Screenwriter">Screenwriter</a></td>
+</tr>
+<tr>
+<td style="text-align:center;">1998</td>
+<th scope="row"><i><a href="/wiki/Lock,_Stock_and_Two_Smoking_Barrels" title="Lock, Stock and Two Smoking Barrels">Lock, Stock and Two Smoking Barrels</a></i></th>
+<td>Feature film debut</td>
+<td>Director</td>
+<td></td>
+<td>Screenwriter</td>
+</tr>
+<tr>
+<td style="text-align:center;">2000</td>
+<th scope="row"><i><a href="/wiki/Snatch_(film)" title="Snatch (film)">Snatch</a></i></th>
+<td></td>
+<td>Director</td>
+<td></td>
+<td>Screenwriter</td>
+</tr>
+<tr>
+<td style="text-align:center;">2001</td>
+<th scope="row"><i><a href="/wiki/The_Hire#Star" title="The Hire">The Hire: Star</a></i></th>
+<td>BMW Short Film Commercial</td>
+<td>Director</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center;">2001</td>
+<th scope="row"><i><a href="/wiki/Mean_Machine_(film)" title="Mean Machine (film)">Mean Machine</a></i></th>
+<td></td>
+<td></td>
+<td><a href="/wiki/Executive_producer" title="Executive producer">Executive producer</a></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center;">2002</td>
+<th scope="row"><i><a href="/wiki/Swept_Away_(2002_film)" title="Swept Away (2002 film)">Swept Away</a></i></th>
+<td>With <a href="/wiki/Madonna_(entertainer)" title="Madonna (entertainer)">Madonna</a></td>
+<td>Director</td>
+<td></td>
+<td>Screenwriter</td>
+</tr>
+<tr>
+<td style="text-align:center;">2005</td>
+<th scope="row"><i><a href="/wiki/Revolver_(2005_film)" title="Revolver (2005 film)">Revolver</a></i></th>
+<td></td>
+<td>Director</td>
+<td></td>
+<td>Screenwriter</td>
+</tr>
+<tr>
+<td style="text-align:center;">2007</td>
+<th scope="row"><i>Suspect</i></th>
+<td>Television</td>
+<td>Director</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center;">2008</td>
+<th scope="row"><i><a href="/wiki/RocknRolla" title="RocknRolla">RocknRolla</a></i></th>
+<td></td>
+<td>Director</td>
+<td><a href="/wiki/Film_producer" title="Film producer">Producer</a></td>
+<td>Screenwriter</td>
+</tr>
+<tr>
+<td style="text-align:center;">2009</td>
+<th scope="row"><i><a href="/wiki/Sherlock_Holmes_(2009_film)" title="Sherlock Holmes (2009 film)">Sherlock Holmes</a></i></th>
+<td></td>
+<td>Director</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center;">2011</td>
+<th scope="row"><i><a href="/wiki/Sherlock_Holmes:_A_Game_of_Shadows" title="Sherlock Holmes: A Game of Shadows">Sherlock Holmes: A Game of Shadows</a></i></th>
+<td></td>
+<td>Director</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center;">2015</td>
+<th scope="row"><i><a href="/wiki/The_Man_from_U.N.C.L.E._(film)" title="The Man from U.N.C.L.E. (film)">The Man from U.N.C.L.E.</a></i></th>
+<td>In production</td>
+<td>Director</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guy_Ritchie&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-b-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-b_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-b_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.biography.com/search/article.do?id=201267" rel="nofollow">"Guy Ritchie Biography"</a>. <a class="mw-redirect" href="/wiki/The_Biography_Channel" title="The Biography Channel">The Biography Channel</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 December</span> 2007</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Guy+Ritchie+Biography&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.biography.com%2Fsearch%2Farticle.do%3Fid%3D201267&amp;rft.pub=The+Biography+Channel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.harrymclaughlin.com/Flipbook/Album4Feb2013.html#p=54" rel="nofollow">"Hero in two world wars"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2013</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Hero+in+two+world+wars&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.harrymclaughlin.com%2FFlipbook%2FAlbum4Feb2013.html%23p%3D54&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.harrymclaughlin.com/Descent_From_King_Edward_I_.pdf" rel="nofollow">"Background"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2013</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Background&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.harrymclaughlin.com%2FDescent_From_King_Edward_I_.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.harrymclaughlin.com/Flipbook/Album4Feb2013.htm" rel="nofollow">"Background Information"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2013</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Background+Information&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.harrymclaughlin.com%2FFlipbook%2FAlbum4Feb2013.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.filmreference.com/film/16/Guy-Ritchie.html" rel="nofollow">"Guy Ritchie Biography (1968–)"</a>. Filmreference.com. 22 December 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Guy+Ritchie+Biography+%281968%E2%80%93%29&amp;rft.date=22+December+2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.filmreference.com%2Ffilm%2F16%2FGuy-Ritchie.html&amp;rft.pub=Filmreference.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.telegraph.co.uk/news/obituaries/9229647/Baroness-Ritchie-of-Brompton.html" rel="nofollow">"Baroness Ritchie of Brompton"</a>. <a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Daily Telegraph</a>. 26 April 2012.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Baroness+Ritchie+of+Brompton&amp;rft.date=26+April+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fobituaries%2F9229647%2FBaroness-Ritchie-of-Brompton.html&amp;rft.pub=The+Daily+Telegraph&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-autogenerated304-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated304_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated304_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Morton, Andrew, "Madonna", London: Macmillan, 2002; page 304.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation news">O'HANLON, TERRY (31 December 2000). <a class="external text" href="http://findarticles.com/p/articles/mi_qn4161/is_20001231/ai_n14514261" rel="nofollow">"YOU CAN CALL HER MADGE; WORLD EXCLUSIVE: What Guy Ritchie, movie"</a>. Sunday Mirror.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.aufirst=TERRY&amp;rft.aulast=O%27HANLON&amp;rft.au=O%27HANLON%2C+TERRY&amp;rft.btitle=YOU+CAN+CALL+HER+MADGE%3B+WORLD+EXCLUSIVE%3A+What+Guy+Ritchie%2C+movie&amp;rft.date=31+December+2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffindarticles.com%2Fp%2Farticles%2Fmi_qn4161%2Fis_20001231%2Fai_n14514261&amp;rft.pub=Sunday+Mirror&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://web.archive.org/web/20010420122526/http://www.adoption-net.co.uk/news/2001/jan/010105guy.htm" rel="nofollow">"<span style="padding-left:0.2em;">'</span>My brother is Guy Ritchie<span style="padding-right:0.2em;">'</span>"</a>. 5 January 2001. Archived from <a class="external text" href="http://www.adoption-net.co.uk/news/2001/jan/010105guy.htm" rel="nofollow">the original</a> on 20 April 2001.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=%27My+brother+is+Guy+Ritchie%27&amp;rft.date=5+January+2001&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.adoption-net.co.uk%2Fnews%2F2001%2Fjan%2F010105guy.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.thepeerage.com/p9471.htm" rel="nofollow">"Person Page 9471"</a>. thePeerage.com<span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Person+Page+9471&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.thepeerage.com%2Fp9471.htm&amp;rft.pub=thePeerage.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Taraborrelli, <i><a href="/wiki/Madonna:_An_Intimate_Biography" title="Madonna: An Intimate Biography">Madonna: An Intimate Biography</a></i>, 2007, p. 189</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.imdb.com/title/tt243714/" rel="nofollow"><i>Lock, Stock... (2000)</i></a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web">Simon Guerrier. <a class="external text" href="http://www.filmfocus.co.uk/review.asp?ReviewID=344" rel="nofollow">"Revolver Review"</a>. filmfocus.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">12 December</span> 2007</span>. <q>Tedious, humourless, pretentious and nasty</q></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.aulast=Simon+Guerrier&amp;rft.au=Simon+Guerrier&amp;rft.btitle=Revolver+Review&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.filmfocus.co.uk%2Freview.asp%3FReviewID%3D344&amp;rft.pub=filmfocus.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web">Adrian Hennigan. <a class="external text" href="http://www.bbc.co.uk/films/2005/09/19/revolver_2005_review.shtml" rel="nofollow">"BBC – Movies – review – Revolver"</a>. bbc.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">12 December</span> 2007</span>. <q>plodding pretentiousness in a film that's illuminated by great action set-pieces and some powerful performances, but not redeemed</q></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.au=Adrian+Hennigan&amp;rft.aulast=Adrian+Hennigan&amp;rft.btitle=BBC%26nbsp%3B%E2%80%93+Movies%26nbsp%3B%E2%80%93+review%26nbsp%3B%E2%80%93+Revolver&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Ffilms%2F2005%2F09%2F19%2Frevolver_2005_review.shtml&amp;rft.pub=bbc.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web">UGO Team (13 March 2008). <a class="external text" href="http://www.ugo.com/movies/guy-ritchie-cameraman-stabbed" rel="nofollow">"Top 11 Guy Ritchie Moments"</a>. <i>Ugo</i>. UGO Entertainment<span class="reference-accessdate">. Retrieved <span class="nowrap">18 August</span> 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Top+11+Guy+Ritchie+Moments&amp;rft.aulast=UGO+Team&amp;rft.au=UGO+Team&amp;rft.date=13+March+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ugo.com%2Fmovies%2Fguy-ritchie-cameraman-stabbed&amp;rft.jtitle=Ugo&amp;rft.pub=UGO+Entertainment&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://web.archive.org/web/20070926225315/http://www.muchmusic.com/news/story.asp?id=19458" rel="nofollow">"Ludacris in new Guy Ritchie Film"</a>. Muchmusic. 26 June 2007. Archived from <a class="external text" href="http://www.muchmusic.com/news/story.asp?id=19458" rel="nofollow">the original</a> on 26 September 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">12 December</span> 2007</span>. <q>Ludacris scored a role in the latest Guy Ritchie film RocknRolla.</q></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Ludacris+in+new+Guy+Ritchie+Film&amp;rft.date=26+June+2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.muchmusic.com%2Fnews%2Fstory.asp%3Fid%3D19458&amp;rft.pub=Muchmusic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.virgincomics.com/pressrelease_Gk.html" rel="nofollow">News</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.metro.co.uk/sport/football/article.html?in_article_id=145076&amp;in_page_id=43" rel="nofollow">Guy Ritchie's new Nike advert to hit screens</a> Metro, 28 April 2008</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.rottentomatoes.com/m/sherlock_holmes_2009/" rel="nofollow">"Sherlock Holmes (2009)"</a>. <i><a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></i>. <a href="/wiki/Flixster" title="Flixster">Flixster</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Sherlock+Holmes+%282009%29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2Fsherlock_holmes_2009%2F&amp;rft.jtitle=Rotten+Tomatoes&amp;rft.pub=Flixster&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.boxofficemojo.com/movies/?id=sherlockholmes.htm" rel="nofollow">"Sherlock Holmes"</a>. <i><a href="/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Sherlock+Holmes&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.boxofficemojo.com%2Fmovies%2F%3Fid%3Dsherlockholmes.htm&amp;rft.jtitle=Box+Office+Mojo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.boxofficemojo.com/people/chart/?view=Director&amp;id=guyritchie.htm" rel="nofollow">"Guy Ritchie Movie Box Office Results"</a>. <i><a href="/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Guy+Ritchie+Movie+Box+Office+Results&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.boxofficemojo.com%2Fpeople%2Fchart%2F%3Fview%3DDirector%26id%3Dguyritchie.htm&amp;rft.jtitle=Box+Office+Mojo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.imdb.com/title/tt1515091/" rel="nofollow">"Untitled Sherlock Holmes (2011"</a>. <i><a class="mw-redirect" href="/wiki/IMDB" title="IMDB">IMDB</a></i>. <a class="mw-redirect" href="/wiki/IMDB" title="IMDB">IMDB</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 December</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Untitled+Sherlock+Holmes+%282011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1515091%2F&amp;rft.jtitle=IMDB&amp;rft.pub=IMDB&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web">Nick Newman (1 June 2012). <a class="external text" href="http://thefilmstage.com/news/guy-ritchie-sails-to-warners-treasure-island/" rel="nofollow">"Guy Ritchie Sails to Warners’ ‘Treasure Island"</a>. <i>The Film Stage</i>. Banquet Media<span class="reference-accessdate">. Retrieved <span class="nowrap">18 August</span> 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Guy+Ritchie+Sails+to+Warners%E2%80%99+%E2%80%98Treasure+Island&amp;rft.aulast=Nick+Newman&amp;rft.au=Nick+Newman&amp;rft.date=1+June+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fthefilmstage.com%2Fnews%2Fguy-ritchie-sails-to-warners-treasure-island%2F&amp;rft.jtitle=The+Film+Stage&amp;rft.pub=Banquet+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://collider.com/call-of-duty-black-ops-2-trailer-robert-downey-jr/" rel="nofollow">"Watch: Guy Ritchie’s Live-Action Trailer for CALL OF DUTY: BLACK OPS II Starring Robert Downey Jr"</a>. <i>collider.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2013</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Watch%3A+Guy+Ritchie%E2%80%99s+Live-Action+Trailer+for+CALL+OF+DUTY%3A+BLACK+OPS+II+Starring+Robert+Downey+Jr&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcollider.com%2Fcall-of-duty-black-ops-2-trailer-robert-downey-jr%2F&amp;rft.jtitle=collider.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-tom-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-tom_25-0">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://www.deadline.com/2013/03/tom-cruise-eyeing-the-man-from-u-n-c-l-e-with-guy-ritchie-at-warner-bros/" rel="nofollow">"Tom Cruise Eyeing 'The Man From U.N.C.L.E.' With Guy Ritchie At Warner Bros"</a>. <i>deadline.com</i>. 18 March 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2013</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Tom+Cruise+Eyeing+%27The+Man+From+U.N.C.L.E.%27+With+Guy+Ritchie+At+Warner+Bros&amp;rft.date=18+March+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2013%2F03%2Ftom-cruise-eyeing-the-man-from-u-n-c-l-e-with-guy-ritchie-at-warner-bros%2F&amp;rft.jtitle=deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://www.comingsoon.net/news/movienews.php?id=107240" rel="nofollow">"The Man From U.N.C.L.E. Finally Starts Filming in September"</a>. <i>comingsoon.net</i>. 31 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2013</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=The+Man+From+U.N.C.L.E.+Finally+Starts+Filming+in+September&amp;rft.date=31+July+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.comingsoon.net%2Fnews%2Fmovienews.php%3Fid%3D107240&amp;rft.jtitle=comingsoon.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://www.hitfix.com/news/man-from-uncle-aims-to-start-filming-in-september" rel="nofollow">"‘Man From U.N.C.L.E.’ aims to start filming in September"</a>. <i>hitfix.com</i>. 2 August 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2013</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=%E2%80%98Man+From+U.N.C.L.E.%E2%80%99+aims+to+start+filming+in+September&amp;rft.date=2+August+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hitfix.com%2Fnews%2Fman-from-uncle-aims-to-start-filming-in-september&amp;rft.jtitle=hitfix.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-January16th-2015-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-January16th-2015_28-0">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://www.deadline.com/2014/02/man-from-uncle-movie-release-date-january-15-2015-guy-ritchie/" rel="nofollow">"Warner Bros Dates ‘Man From U.N.C.L.E.’ For 2015 MLK Weekend; Will Smith’s ‘Focus’ Set For February 2015"</a>. <i>deadline.com</i>. 20 February 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">21 February</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Warner+Bros+Dates+%E2%80%98Man+From+U.N.C.L.E.%E2%80%99+For+2015+MLK+Weekend%3B+Will+Smith%E2%80%99s+%E2%80%98Focus%E2%80%99+Set+For+February+2015&amp;rft.date=20+February+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2014%2F02%2Fman-from-uncle-movie-release-date-january-15-2015-guy-ritchie%2F&amp;rft.jtitle=deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://www.deadline.com/2014/01/will-guy-ritchie-pull-sword-from-stone-after-all-and-make-king-arthur-movie-at-warner-bros/" rel="nofollow">"Will Guy Ritchie Pull Sword From Stone After All And Make King Arthur Movie At Warner Bros?"</a>. <i>deadline.com</i>. 27 January 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">19 April</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Will+Guy+Ritchie+Pull+Sword+From+Stone+After+All+And+Make+King+Arthur+Movie+At+Warner+Bros%3F&amp;rft.date=27+January+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.deadline.com%2F2014%2F01%2Fwill-guy-ritchie-pull-sword-from-stone-after-all-and-make-king-arthur-movie-at-warner-bros%2F&amp;rft.jtitle=deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://variety.com/2014/film/news/guy-ritchies-king-arthur-set-for-july-2016-release-1201155801/" rel="nofollow">"Guy Ritchie’s ‘King Arthur’ Set for July 2016 Release"</a>. <i>variety.com</i>. 10 April 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">19 April</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Guy+Ritchie%E2%80%99s+%E2%80%98King+Arthur%E2%80%99+Set+for+July+2016+Release&amp;rft.date=10+April+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvariety.com%2F2014%2Ffilm%2Fnews%2Fguy-ritchies-king-arthur-set-for-july-2016-release-1201155801%2F&amp;rft.jtitle=variety.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://variety.com/2014/film/news/idris-elba-king-arthur-warner-bros-guy-ritchie-1201264371/" rel="nofollow">"Idris Elba Eyes Guy Ritchie’s ‘King Arthur’ at Warner Bros."</a>. variety.com. 21 July 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">23 July</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Idris+Elba+Eyes+Guy+Ritchie%E2%80%99s+%E2%80%98King+Arthur%E2%80%99+at+Warner+Bros.&amp;rft.date=21+July+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fvariety.com%2F2014%2Ffilm%2Fnews%2Fidris-elba-king-arthur-warner-bros-guy-ritchie-1201264371%2F&amp;rft.pub=variety.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://deadline.com/2014/08/sons-of-anarchys-charlie-hunnam-is-guy-ritchies-choice-for-king-arthur-825945/" rel="nofollow">"‘Sons Of Anarchy’s Charlie Hunnam Is Guy Ritchie’s Choice For King Arthur"</a>. deadline.com.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=%E2%80%98Sons+Of+Anarchy%E2%80%99s+Charlie+Hunnam+Is+Guy+Ritchie%E2%80%99s+Choice+For+King+Arthur&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdeadline.com%2F2014%2F08%2Fsons-of-anarchys-charlie-hunnam-is-guy-ritchies-choice-for-king-arthur-825945%2F&amp;rft.pub=deadline.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation web">Craig Rosen. <a class="external text" href="http://music.yahoo.com/read/news/12051696" rel="nofollow">"Madonna's Man Guy Ritchie Arrested"</a>. <a href="/wiki/Yahoo!_Music" title="Yahoo! Music">Yahoo! Music</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 December</span> 2007</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.au=Craig+Rosen&amp;rft.aulast=Craig+Rosen&amp;rft.btitle=Madonna%27s+Man+Guy+Ritchie+Arrested&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmusic.yahoo.com%2Fread%2Fnews%2F12051696&amp;rft.pub=Yahoo%21+Music&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/09/25/nritch25.xml" rel="nofollow">"I am used to getting a good rumping from the critics. So what?"</a> by Charlotte Edwardes, Daily Telegraph, UK. 26 September 2005.</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nydailynews.com/gossip/2008/08/17/2008-08-17_madonnas_guy_madden_has_a_good_belt__in_.html" rel="nofollow">Brown belt</a> – Madonna's Guy Madden has a good belt – in Brazilian martial arts</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.independent.co.uk/news/people/news/guy-ritchies-home-taken-over-by-squatters-2215499.html" rel="nofollow">Guy Ritchie's home taken over by squatters</a>, Independent, 15 February 2011 accessed 20 February 2011</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.newstatesman.com/blogs/laurie-penny/2011/02/private-property-space-free" rel="nofollow">In defence of squatting</a>, By Laurie Penny, News Statesman, 20 February 2011, accessed 20 February 2011</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation news">Davies, Hugh; Aldrick, Philip (2000-12-08). <a class="external text" href="http://www.telegraph.co.uk/news/uknews/1377478/Madonnas-wedding-will-be-the-Highlands-biggest-fling.html?mobile=true" rel="nofollow">"Madonna's wedding will be the Highlands' biggest fling"</a>. <i><a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Daily Telegraph</a></i> (London)<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-05-08</span></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Madonna%27s+wedding+will+be+the+Highlands%27+biggest+fling&amp;rft.au=Aldrick%2C+Philip&amp;rft.au=Davies%2C+Hugh&amp;rft.aufirst=Hugh&amp;rft.aulast=Davies&amp;rft.date=2000-12-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fuknews%2F1377478%2FMadonnas-wedding-will-be-the-Highlands-biggest-fling.html%3Fmobile%3Dtrue&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://news.bbc.co.uk/1/hi/entertainment/7672083.stm" rel="nofollow">"Madonna and Ritchie confirm split"</a>. <i>BBC News</i>. 16 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Madonna+and+Ritchie+confirm+split&amp;rft.date=16+October+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fentertainment%2F7672083.stm&amp;rft.jtitle=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://news.sky.com/skynews/Home/Showbiz-News/Madonna-And-Guy-Ritchie-To-Divorce-After-Escalating-Rows-According-To-Newspaper-Reports/Article/200810315121143" rel="nofollow">"Madonna Divorce Is Confirmed"</a>. <i>Sky News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Madonna+Divorce+Is+Confirmed&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.sky.com%2Fskynews%2FHome%2FShowbiz-News%2FMadonna-And-Guy-Ritchie-To-Divorce-After-Escalating-Rows-According-To-Newspaper-Reports%2FArticle%2F200810315121143&amp;rft.jtitle=Sky+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://www.thesun.co.uk/sol/homepage/news/article1810184.ece" rel="nofollow">"Madonna and Guy to divorce – they can't bear to pretend to love each other anymore"</a>. <i>The Sun Online</i> (London). 15 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Madonna+and+Guy+to+divorce%26nbsp%3B%E2%80%93+they+can%27t+bear+to+pretend+to+love+each+other+anymore&amp;rft.date=15+October+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thesun.co.uk%2Fsol%2Fhomepage%2Fnews%2Farticle1810184.ece&amp;rft.jtitle=The+Sun+Online&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://news.bbc.co.uk/1/hi/entertainment/7784519.stm" rel="nofollow">"Madonna gives Guy £50m in divorce"</a>. BBC News. 15 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Madonna+gives+Guy+%C2%A350m+in+divorce&amp;rft.date=15+December+2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fentertainment%2F7784519.stm&amp;rft.pub=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.guardian.co.uk/music/2008/nov/22/madonna-guy-ritchie-divorce" rel="nofollow">Madonna and Guy Ritchie granted 'quickie' divorce</a></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://edition.cnn.com/2008/SHOWBIZ/11/21/madonna.ritchie.divorce/?iref=hpmostpop" rel="nofollow">"Madonna, Ritchie granted quick divorce"</a>. CNN. 15 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Madonna%2C+Ritchie+granted+quick+divorce&amp;rft.date=15+December+2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fedition.cnn.com%2F2008%2FSHOWBIZ%2F11%2F21%2Fmadonna.ritchie.divorce%2F%3Firef%3Dhpmostpop&amp;rft.pub=CNN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><span class="citation news">Joe Gracely (7 March 2011). <a class="external text" href="http://www.nydailynews.com/gossip/2011/03/07/2011-03-07_guy_ritchie_to_be_a_dad_again_director_expecting_baby_with_model_girlfriend_jacq.html" rel="nofollow">"Guy Ritchie and girlfriend Jacqui Ainsley expecting first child together"</a>. <i>NYDailyNews</i> (New York).</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Guy+Ritchie+and+girlfriend+Jacqui+Ainsley+expecting+first+child+together&amp;rft.au=Joe+Gracely&amp;rft.aulast=Joe+Gracely&amp;rft.date=7+March+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nydailynews.com%2Fgossip%2F2011%2F03%2F07%2F2011-03-07_guy_ritchie_to_be_a_dad_again_director_expecting_baby_with_model_girlfriend_jacq.html&amp;rft.jtitle=NYDailyNews&amp;rft.place=New+York&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><span class="citation news">IANS (20 July 2012). <a class="external text" href="http://timesofindia.indiatimes.com/entertainment/hollywood/news-interviews/Richie-confirms-girlfriends-pregnancy-news/articleshow/15053238.cms" rel="nofollow">"Richie confirms girlfriend's pregnancy news"</a>. <i>The Times of India</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 August</span> 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.atitle=Richie+confirms+girlfriend%27s+pregnancy+news&amp;rft.au=IANS&amp;rft.aulast=IANS&amp;rft.date=20+July+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftimesofindia.indiatimes.com%2Fentertainment%2Fhollywood%2Fnews-interviews%2FRichie-confirms-girlfriends-pregnancy-news%2Farticleshow%2F15053238.cms&amp;rft.jtitle=The+Times+of+India&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://www.hellomagazine.com/healthandbeauty/mother-and-baby/2014070818940/guy-ritchie-fiancee-jacqui-ainsley-gives-birth-to-third-child/" rel="nofollow">"Guy Ritchie and Jacqui Ainsley enjoying family life after she gives birth to third child"</a>. Hello! Magazine. 8 July 2014.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuy+Ritchie&amp;rft.btitle=Guy+Ritchie+and+Jacqui+Ainsley+enjoying+family+life+after+she+gives+birth+to+third+child&amp;rft.date=8+July+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hellomagazine.com%2Fhealthandbeauty%2Fmother-and-baby%2F2014070818940%2Fguy-ritchie-fiancee-jacqui-ainsley-gives-birth-to-third-child%2F&amp;rft.pub=Hello%21+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guy_Ritchie&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="//commons.wikimedia.org/wiki/Category:Guy_Ritchie" title="commons:Category:Guy Ritchie">Guy Ritchie</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.imdb.com/name/nm5363/" rel="nofollow">Guy Ritchie</a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Guy_Ritchie" title="Template:Guy Ritchie"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Guy_Ritchie" title="Template talk:Guy Ritchie"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Guy_Ritchie&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Films directed by <strong class="selflink">Guy Ritchie</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Hard_Case" title="The Hard Case">The Hard Case</a></i> (1995)</li>
+<li><i><a href="/wiki/Lock,_Stock_and_Two_Smoking_Barrels" title="Lock, Stock and Two Smoking Barrels">Lock, Stock and Two Smoking Barrels</a></i> (1998)</li>
+<li><i><a href="/wiki/Snatch_(film)" title="Snatch (film)">Snatch</a></i> (2000)</li>
+<li><i><a href="/wiki/Swept_Away_(2002_film)" title="Swept Away (2002 film)">Swept Away</a></i> (2002)</li>
+<li><i><a href="/wiki/Revolver_(2005_film)" title="Revolver (2005 film)">Revolver</a></i> (2005)</li>
+<li><i><a href="/wiki/RocknRolla" title="RocknRolla">RocknRolla</a></i> (2008)</li>
+<li><i><a href="/wiki/Sherlock_Holmes_(2009_film)" title="Sherlock Holmes (2009 film)">Sherlock Holmes</a></i> (2009)</li>
+<li><i><a href="/wiki/Sherlock_Holmes:_A_Game_of_Shadows" title="Sherlock Holmes: A Game of Shadows">Sherlock Holmes: A Game of Shadows</a></i> (2011)</li>
+<li><i><a href="/wiki/The_Man_from_U.N.C.L.E._(film)" title="The Man from U.N.C.L.E. (film)">The Man from U.N.C.L.E.</a></i> (2015)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:MTV_Movie_Award_for_Best_New_Filmmaker" title="Template:MTV Movie Award for Best New Filmmaker"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:MTV_Movie_Award_for_Best_New_Filmmaker" title="Template talk:MTV Movie Award for Best New Filmmaker"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MTV_Movie_Award_for_Best_New_Filmmaker&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/MTV_Movie_Award_for_Best_New_Filmmaker" title="MTV Movie Award for Best New Filmmaker">MTV Movie Award for Best New Filmmaker</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Singleton" title="John Singleton">John Singleton</a> (1992)</li>
+<li><a href="/wiki/Carl_Franklin" title="Carl Franklin">Carl Franklin</a> (1993)</li>
+<li><a href="/wiki/Steven_Zaillian" title="Steven Zaillian">Steven Zaillian</a> (1994)</li>
+<li><a href="/wiki/Steve_James_(producer)" title="Steve James (producer)">Steve James</a> (1995)</li>
+<li><a href="/wiki/Wes_Anderson" title="Wes Anderson">Wes Anderson</a> (1996)</li>
+<li><a href="/wiki/Doug_Liman" title="Doug Liman">Doug Liman</a> (1997)</li>
+<li><a href="/wiki/Peter_Cattaneo" title="Peter Cattaneo">Peter Cattaneo</a> (1998)</li>
+<li><strong class="selflink">Guy Ritchie</strong> (1999)</li>
+<li><a href="/wiki/Spike_Jonze" title="Spike Jonze">Spike Jonze</a> (2000)</li>
+<li><a href="/wiki/Sofia_Coppola" title="Sofia Coppola">Sofia Coppola</a> (2001)</li>
+<li><a href="/wiki/Christopher_Nolan" title="Christopher Nolan">Christopher Nolan</a> (2002)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style="background: #EEDD82">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Golden_Raspberry_Award_for_Worst_Director_(2001%E2%80%93present)" title="Template:Golden Raspberry Award for Worst Director (2001–present)"><span style="background: #EEDD82;;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Golden_Raspberry_Award_for_Worst_Director_(2001%E2%80%93present)" title="Template talk:Golden Raspberry Award for Worst Director (2001–present)"><span style="background: #EEDD82;;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Golden_Raspberry_Award_for_Worst_Director_(2001%E2%80%93present)&amp;action=edit"><span style="background: #EEDD82;;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Golden_Raspberry_Award_for_Worst_Director" title="Golden Raspberry Award for Worst Director">Golden Raspberry Award for Worst Director</a> (2001–present)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tom_Green" title="Tom Green">Tom Green</a> (2001)</li>
+<li><strong class="selflink">Guy Ritchie</strong> (2002)</li>
+<li><a href="/wiki/Martin_Brest" title="Martin Brest">Martin Brest</a> (2003)</li>
+<li><a href="/wiki/Pitof" title="Pitof">Pitof</a> (2004)</li>
+<li><a href="/wiki/John_Mallory_Asher" title="John Mallory Asher">John Mallory Asher</a> (2005)</li>
+<li><a href="/wiki/M._Night_Shyamalan" title="M. Night Shyamalan">M. Night Shyamalan</a> (2006)</li>
+<li><a href="/wiki/Chris_Sivertson" title="Chris Sivertson">Chris Sivertson</a> (2007)</li>
+<li><a href="/wiki/Uwe_Boll" title="Uwe Boll">Uwe Boll</a> (2008)</li>
+<li><a href="/wiki/Michael_Bay" title="Michael Bay">Michael Bay</a> (2009)</li>
+<li><a href="/wiki/M._Night_Shyamalan" title="M. Night Shyamalan">M. Night Shyamalan</a> (2010)</li>
+<li><a href="/wiki/Dennis_Dugan" title="Dennis Dugan">Dennis Dugan</a> (2011)</li>
+<li><a href="/wiki/Bill_Condon" title="Bill Condon">Bill Condon</a> (2012)</li>
+<li><a href="/wiki/Movie_43" title="Movie 43">All thirteen <i>Movie 43</i> directors</a> (2013)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEDD82">
+<div>
+<ul>
+<li><a href="/wiki/Template:Golden_Raspberry_Award_for_Worst_Director" title="Template:Golden Raspberry Award for Worst Director">Complete List</a></li>
+<li><a href="/wiki/Template:Golden_Raspberry_Award_for_Worst_Director_(1980%E2%80%932000)" title="Template:Golden Raspberry Award for Worst Director (1980–2000)">(1980–2000)</a></li>
+<li><a href="/wiki/Template:Golden_Raspberry_Award_for_Worst_Director_(2001%E2%80%93present)" title="Template:Golden Raspberry Award for Worst Director (2001–present)">(2001–present)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Authority_control" title="Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="external text" href="//www.worldcat.org/identities/lccn-nr99-021758" rel="nofollow">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a class="external text" href="https://viaf.org/viaf/33154143" rel="nofollow">33154143</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a class="external text" href="http://id.loc.gov/authorities/names/nr99021758" rel="nofollow">nr99021758</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a class="external text" href="http://isni-url.oclc.nl/isni/0000000078404102" rel="nofollow">0000 0000 7840 4102</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/132246635" rel="nofollow">132246635</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a class="external text" href="http://www.idref.fr/066756286" rel="nofollow">066756286</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb141322921" rel="nofollow">cb141322921</a> <a class="external text" href="http://data.bnf.fr/ark:/12148/cb141322921" rel="nofollow">(data)</a></span></li>
+<li><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a class="external text" href="//musicbrainz.org/artist/96b8233a-c035-4df5-98e4-faa886389783" rel="nofollow">96b8233a-c035-4df5-98e4-faa886389783</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="persondata noprint" id="persondata" style="border:1px solid #aaa; display:none; speak:none;">
+<tr>
+<th colspan="2"><a href="/wiki/Wikipedia:Persondata" title="Wikipedia:Persondata">Persondata</a></th>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Name</td>
+<td>Ritchie, Guy</td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Alternative names</td>
+<td></td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Short description</td>
+<td>British film director</td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Date of birth</td>
+<td>10 September 1968</td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Place of birth</td>
+<td><a href="/wiki/Hatfield,_Hertfordshire" title="Hatfield, Hertfordshire">Hatfield</a>, Hertfordshire, England</td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Date of death</td>
+<td></td>
+</tr>
+<tr>
+<td class="persondata-label" style="color:#aaa;">Place of death</td>
+<td></td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1191
+CPU time usage: 0.651 seconds
+Real time usage: 0.766 seconds
+Preprocessor visited node count: 3573/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 89927/2097152 bytes
+Template argument size: 3238/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Lua time usage: 0.205/10.000 seconds
+Lua memory usage: 3.71 MB/50 MB
+-->
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  601.218      1 - -total
+ 36.02%  216.535      1 - Template:Reflist
+ 20.30%  122.053      1 - Template:Infobox_person
+ 13.05%   78.433     19 - Template:Cite_web
+ 12.78%   76.838      1 - Template:Infobox
+  9.67%   58.167     18 - Template:Cite_news
+  9.14%   54.965      3 - Template:Cn
+  7.55%   45.372      3 - Template:Fix
+  6.90%   41.463      1 - Template:Authority_control
+  6.65%   40.006      6 - Template:Category_handler
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:91084-0!*!0!!en!4!* and timestamp 20150204203243 and revision id 645296526
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Guy_Ritchie&amp;oldid=645296526">http://en.wikipedia.org/w/index.php?title=Guy_Ritchie&amp;oldid=645296526</a>"					</div>
+<div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1968_births" title="Category:1968 births">1968 births</a></li><li><a href="/wiki/Category:Best_British_Director_Empire_Award_winners" title="Category:Best British Director Empire Award winners">Best British Director Empire Award winners</a></li><li><a href="/wiki/Category:British_film_directors" title="Category:British film directors">British film directors</a></li><li><a href="/wiki/Category:Edgar_Award_winners" title="Category:Edgar Award winners">Edgar Award winners</a></li><li><a href="/wiki/Category:English_businesspeople" title="Category:English businesspeople">English businesspeople</a></li><li><a href="/wiki/Category:English_film_directors" title="Category:English film directors">English film directors</a></li><li><a href="/wiki/Category:English_film_producers" title="Category:English film producers">English film producers</a></li><li><a href="/wiki/Category:English_people_of_Scottish_descent" title="Category:English people of Scottish descent">English people of Scottish descent</a></li><li><a href="/wiki/Category:English_judoka" title="Category:English judoka">English judoka</a></li><li><a href="/wiki/Category:English_karateka" title="Category:English karateka">English karateka</a></li><li><a href="/wiki/Category:British_practitioners_of_Brazilian_jiu-jitsu" title="Category:British practitioners of Brazilian jiu-jitsu">British practitioners of Brazilian jiu-jitsu</a></li><li><a href="/wiki/Category:English_screenwriters" title="Category:English screenwriters">English screenwriters</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_educated_at_Stanbridge_Earls_School" title="Category:People educated at Stanbridge Earls School">People educated at Stanbridge Earls School</a></li><li><a href="/wiki/Category:People_educated_at_Sibford_School" title="Category:People educated at Sibford School">People educated at Sibford School</a></li><li><a href="/wiki/Category:People_from_Hatfield,_Hertfordshire" title="Category:People from Hatfield, Hertfordshire">People from Hatfield, Hertfordshire</a></li><li><a href="/wiki/Category:English-language_film_directors" title="Category:English-language film directors">English-language film directors</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_British_English_from_December_2014" title="Category:Use British English from December 2014">Use British English from December 2014</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2014" title="Category:Use dmy dates from January 2014">Use dmy dates from January 2014</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2014" title="Category:Articles with unsourced statements from July 2014">Articles with unsourced statements from July 2014</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_identifiers" title="Category:Wikipedia articles with MusicBrainz identifiers">Wikipedia articles with MusicBrainz identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Guy+Ritchie&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Guy+Ritchie" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Guy_Ritchie" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Guy_Ritchie" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Guy_Ritchie">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Guy_Ritchie&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Guy_Ritchie&amp;action=history" title="Past versions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if one exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li>
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+<li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li>
+<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+<li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li>
+<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Guy_Ritchie" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li>
+<li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Guy_Ritchie" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
+<li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
+<li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=Guy_Ritchie&amp;oldid=645296526" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=Guy_Ritchie&amp;action=info" title="More information about this page">Page information</a></li>
+<li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q192990" title="Link to connected data repository item [g]">Wikidata item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Guy_Ritchie&amp;id=645296526" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Guy+Ritchie">Create a book</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Guy+Ritchie&amp;oldid=645296526&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="t-print"><a accesskey="p" href="/w/index.php?title=Guy_Ritchie&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Qay_Rit%C3%A7i" hreflang="az" lang="az" title="Qay Ritçi – Azerbaijani">Azərbaycanca</a></li>
+<li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9_%D0%A0%D1%8B%D1%87%D1%8B" hreflang="be" lang="be" title="Гай Рычы – Belarusian">Беларуская</a></li>
+<li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9_%D0%A0%D1%8B%D1%87%D1%8B" hreflang="be-x-old" lang="be-x-old" title="Гай Рычы – беларуская (тарашкевіца)‎">Беларуская (тарашкевіца)‎</a></li>
+<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9_%D0%A0%D0%B8%D1%87%D0%B8" hreflang="bg" lang="bg" title="Гай Ричи – Bulgarian">Български</a></li>
+<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Guy_Ritchie" hreflang="ca" lang="ca" title="Guy Ritchie – Catalan">Català</a></li>
+<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Guy_Ritchie" hreflang="cs" lang="cs" title="Guy Ritchie – Czech">Čeština</a></li>
+<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Guy_Ritchie" hreflang="da" lang="da" title="Guy Ritchie – Danish">Dansk</a></li>
+<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Guy_Ritchie" hreflang="de" lang="de" title="Guy Ritchie – German">Deutsch</a></li>
+<li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Guy_Ritchie" hreflang="et" lang="et" title="Guy Ritchie – Estonian">Eesti</a></li>
+<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%93%CE%BA%CE%AC%CE%B9_%CE%A1%CE%AF%CF%84%CF%83%CE%B9" hreflang="el" lang="el" title="Γκάι Ρίτσι – Greek">Ελληνικά</a></li>
+<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Guy_Ritchie" hreflang="es" lang="es" title="Guy Ritchie – Spanish">Español</a></li>
+<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Guy_Ritchie" hreflang="eo" lang="eo" title="Guy Ritchie – Esperanto">Esperanto</a></li>
+<li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Guy_Ritchie" hreflang="eu" lang="eu" title="Guy Ritchie – Basque">Euskara</a></li>
+<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%AF%D8%A7%DB%8C_%D8%B1%DB%8C%DA%86%DB%8C" hreflang="fa" lang="fa" title="گای ریچی – Persian">فارسی</a></li>
+<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Guy_Ritchie" hreflang="fr" lang="fr" title="Guy Ritchie – French">Français</a></li>
+<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B0%80%EC%9D%B4_%EB%A6%AC%EC%B9%98" hreflang="ko" lang="ko" title="가이 리치 – Korean">한국어</a></li>
+<li class="interlanguage-link interwiki-io"><a href="//io.wikipedia.org/wiki/Guy_Ritchie" hreflang="io" lang="io" title="Guy Ritchie – Ido">Ido</a></li>
+<li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Guy_Ritchie" hreflang="id" lang="id" title="Guy Ritchie – Indonesian">Bahasa Indonesia</a></li>
+<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Guy_Ritchie" hreflang="it" lang="it" title="Guy Ritchie – Italian">Italiano</a></li>
+<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%92%D7%90%D7%99_%D7%A8%D7%99%D7%A6%27%D7%99" hreflang="he" lang="he" title="גאי ריצ'י – Hebrew">עברית</a></li>
+<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%92%E1%83%90%E1%83%98_%E1%83%A0%E1%83%98%E1%83%A9%E1%83%98" hreflang="ka" lang="ka" title="გაი რიჩი – Georgian">ქართული</a></li>
+<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Guy_Ritchie" hreflang="hu" lang="hu" title="Guy Ritchie – Hungarian">Magyar</a></li>
+<li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Guy_Ritchie" hreflang="mg" lang="mg" title="Guy Ritchie – Malagasy">Malagasy</a></li>
+<li class="interlanguage-link interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9_%D0%A0%D0%B8%D1%87%D0%B8" hreflang="mn" lang="mn" title="Гай Ричи – Mongolian">Монгол</a></li>
+<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Guy_Ritchie" hreflang="nl" lang="nl" title="Guy Ritchie – Dutch">Nederlands</a></li>
+<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AC%E3%82%A4%E3%83%BB%E3%83%AA%E3%83%83%E3%83%81%E3%83%BC" hreflang="ja" lang="ja" title="ガイ・リッチー – Japanese">日本語</a></li>
+<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Guy_Ritchie" hreflang="no" lang="no" title="Guy Ritchie – Norwegian (bokmål)">Norsk bokmål</a></li>
+<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Guy_Ritchie" hreflang="pl" lang="pl" title="Guy Ritchie – Polish">Polski</a></li>
+<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Guy_Ritchie" hreflang="pt" lang="pt" title="Guy Ritchie – Portuguese">Português</a></li>
+<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Guy_Ritchie" hreflang="ro" lang="ro" title="Guy Ritchie – Romanian">Română</a></li>
+<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A0%D0%B8%D1%87%D0%B8,_%D0%93%D0%B0%D0%B9" hreflang="ru" lang="ru" title="Ричи, Гай – Russian">Русский</a></li>
+<li class="interlanguage-link interwiki-sco"><a href="//sco.wikipedia.org/wiki/Guy_Ritchie" hreflang="sco" lang="sco" title="Guy Ritchie – Scots">Scots</a></li>
+<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Guy_Ritchie" hreflang="simple" lang="simple" title="Guy Ritchie – Simple English">Simple English</a></li>
+<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%93%D0%B0%D1%98_%D0%A0%D0%B8%D1%87%D0%B8" hreflang="sr" lang="sr" title="Гај Ричи – Serbian">Српски / srpski</a></li>
+<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Guy_Ritchie" hreflang="fi" lang="fi" title="Guy Ritchie – Finnish">Suomi</a></li>
+<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Guy_Ritchie" hreflang="sv" lang="sv" title="Guy Ritchie – Swedish">Svenska</a></li>
+<li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A2_%E0%B8%A3%E0%B8%B4%E0%B8%95%E0%B8%8A%E0%B8%B5" hreflang="th" lang="th" title="กาย ริตชี – Thai">ไทย</a></li>
+<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Guy_Ritchie" hreflang="tr" lang="tr" title="Guy Ritchie – Turkish">Türkçe</a></li>
+<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9_%D0%A0%D1%96%D1%87%D1%96" hreflang="uk" lang="uk" title="Гай Річі – Ukrainian">Українська</a></li>
+<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%BD%B3%C2%B7%E7%83%88%E6%B2%BB" hreflang="zh" lang="zh" title="佳·烈治 – Chinese">中文</a></li>
+<li class="uls-p-lang-dummy"><a href="#"></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" class="wbc-editpage" href="//www.wikidata.org/wiki/Q192990#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 2 February 2015, at 12:17.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Guy_Ritchie&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
+</li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf14/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+
+</body>
+</html>

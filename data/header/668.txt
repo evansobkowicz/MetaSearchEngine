@@ -1,0 +1,21 @@
+Title: 
+Server: Apache/2.2.22 (Unix)
+X-Web-Node: www204
+P3P: CP="CAO DSP COR LAW CURa ADMa DEVa TAIa PSAa PSDa CONi OUR PUBo IND UNI COM NAV INT DEM PRE", policyref="http://www.last.fm/help/last.p3p"
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Mon, 09 Feb 2015 23:46:40 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Cookie
+Vary: X-Country-Code
+Vary: Accept-Encoding
+Expires: Mon, 09 Feb 2015 23:46:41 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 09 Feb 2015 23:46:41 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: AnonSession=f9aea3b00412f6d24278d8be84cec796-077803ea0991ed814e7d7a38ed6ccf8e593de0b0c690eae1367facf8e8844898; expires=Fri, 10-Jan-2025 11:46:40 GMT; path=/; domain=.last.fm
+Set-Cookie: AnonTrack=dcefc2919b7ed040d11c8a91385be011; expires=Thu, 04-Feb-2016 23:46:40 GMT; path=/; domain=.last.fm
+Set-Cookie: FirstVisit=1423525600; path=/; domain=.last.fm
+

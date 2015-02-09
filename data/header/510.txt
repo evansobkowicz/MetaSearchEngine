@@ -1,0 +1,20 @@
+Title: Moorish idol - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=546778; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Fri, 06 Feb 2015 02:48:03 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1466599164 1452607038, 502349304 496334020
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:43:22 GMT
+Age: 14022
+Connection: close
+X-Cache: cp1054 hit (4), cp1052 frontend hit (2)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

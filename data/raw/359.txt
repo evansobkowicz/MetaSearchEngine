@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>STAR WARS EPISODE I: THE PHANTOM MENACE: Your Focus Determines Your Reality | Atomic Anxiety</title>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<link href="http://atomicanxiety.com/xmlrpc.php" rel="pingback"/>
+<!--[if lt IE 9]>
+<script src="https://s0.wp.com/wp-content/themes/pub/expound/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+
+<link href="http://atomicanxiety.com/feed/" rel="alternate" title="Atomic Anxiety » Feed" type="application/rss+xml"/>
+<link href="http://atomicanxiety.com/comments/feed/" rel="alternate" title="Atomic Anxiety » Comments Feed" type="application/rss+xml"/>
+<link href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/feed/" rel="alternate" title="Atomic Anxiety » STAR WARS EPISODE I: THE PHANTOM MENACE: Your Focus Determines Your Reality Comments Feed" type="application/rss+xml"/>
+
+<link href="https://s1.wp.com/_static/??-eJx9Ue1uwyAMfKExK1W0jx/TnoWAS0gNRkCU9u1HyrYsSscfOFt33GHDEoRin9FncLMINBvrEyRnCW8h8oQq76tnldITPJaRvWCCCXOQ6iLu1YE+EJtNwMag5jmLMxPxAovVBpseiiOWvgsyrwyH2kokdIXWkrnw8qNa4VgCHrPtbNz6ZP0EFOK+U6UWPGdb1OkXHN7MY8mWIMwD4DXw7DWkfCNsmdcpJCg4SxOl21BLho4nW88WzSALYiWzZb8rxJmkjS1pxHV9BZr7SLayveaFo5a6OBMPkloGgVOuMSCNMq5G33f7Rx5j3cND+N9Sxv5PpE/30fWn7vT6/tZ30xfrayto" id="all-css-0" media="all" rel="stylesheet" type="text/css"/>
+
+
+<link href="https://atomicanxiety.wordpress.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://s1.wp.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="http://atomicanxiety.com/2013/12/26/star-wars-at-long-last-the-white-whale/" rel="prev" title="STAR WARS: At Long Last, the White Whale"/>
+<link href="http://atomicanxiety.com/2014/01/01/lists-are-stupid-the-top-10-movies-of-2013-that-i-havent-watched/" rel="next" title="LISTS ARE STUPID: The Top 10 Movies of 2013 That I Haven’t Watched"/>
+<meta content="WordPress.com" name="generator"/>
+<link href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/" rel="canonical"/>
+<link href="http://wp.me/pVu9l-1L4" rel="shortlink"/>
+<link href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fatomicanxiety.com%2F2013%2F12%2F27%2Fstar-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality%2F&amp;for=wpcom-auto-discovery" rel="alternate" type="application/json+oembed"/><link href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fatomicanxiety.com%2F2013%2F12%2F27%2Fstar-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality%2F&amp;for=wpcom-auto-discovery" rel="alternate" type="application/xml+oembed"/>
+<!-- Jetpack Open Graph Tags -->
+<meta content="article" property="og:type"/>
+<meta content="STAR WARS EPISODE I: THE PHANTOM MENACE: Your Focus Determines Your Reality" property="og:title"/>
+<meta content="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/" property="og:url"/>
+<meta content="Star Wars Episode 1: The Phantom Menace (1999) - Directed by George Lucas - Starring Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Ian McDiarmid, Anthony Daniels, Kenny Baker, Pernilla A..." property="og:description"/>
+<meta content="2013-12-28T04:06:17+00:00" property="article:published_time"/>
+<meta content="2013-12-28T05:17:32+00:00" property="article:modified_time"/>
+<meta content="http://atomicanxiety.com/author/atomicanxiety/" property="article:author"/>
+<meta content="Atomic Anxiety" property="og:site_name"/>
+<meta content="http://atomicanxiety.files.wordpress.com/2013/12/star-wars-episode-1-poster.jpg?w=549" property="og:image"/>
+<meta content="http://atomicanxiety.files.wordpress.com/2013/12/qui-gon-obi-wan-anakin.png" property="og:image"/>
+<meta content="http://atomicanxiety.files.wordpress.com/2013/12/queen-padme-amidala.png" property="og:image"/>
+<meta content="http://atomicanxiety.files.wordpress.com/2013/12/jar-jar-binks.jpg" property="og:image"/>
+<meta content="http://atomicanxiety.files.wordpress.com/2013/12/naboo-royal-starship.png?w=549" property="og:image"/>
+<meta content="http://atomicanxiety.files.wordpress.com/2013/12/anakin-pod-race.png?w=549" property="og:image"/>
+<meta content="http://atomicanxiety.files.wordpress.com/2013/12/et-in-star-wars.png" property="og:image"/>
+<meta content="http://atomicanxiety.files.wordpress.com/2013/12/duel-of-the-fates.png" property="og:image"/>
+<meta content="http://atomicanxiety.files.wordpress.com/2013/03/haunting-of-kraken-moor-cover.jpg" property="og:image"/>
+<meta content="@mark_bousquet" name="twitter:site"/>
+<meta content="http://atomicanxiety.files.wordpress.com/2013/12/star-wars-episode-1-poster.jpg?w=240" name="twitter:image"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@mark_bousquet" name="twitter:creator"/>
+<meta content="https://www.facebook.com/WordPresscom" property="article:publisher"/>
+<link href="http://0.gravatar.com/blavatar/0ba1ef05ae0591334526d62ff235c55a?s=16" rel="shortcut icon" sizes="16x16" type="image/x-icon"/>
+<link href="http://0.gravatar.com/blavatar/0ba1ef05ae0591334526d62ff235c55a?s=16" rel="icon" sizes="16x16" type="image/x-icon"/>
+<link href="http://0.gravatar.com/blavatar/66864265ed62f7f9241816bdc015e1f6?s=114" rel="apple-touch-icon-precomposed"/>
+<link href="http://atomicanxiety.wordpress.com/?openidserver=1" rel="openid.server"/>
+<link href="http://atomicanxiety.wordpress.com/" rel="openid.delegate"/>
+<link href="http://atomicanxiety.com/osd.xml" rel="search" title="Atomic Anxiety" type="application/opensearchdescription+xml"/>
+<link href="http://wordpress.com/opensearch.xml" rel="search" title="WordPress.com" type="application/opensearchdescription+xml"/>
+<style media="screen" type="text/css">
+			.widget_author_grid ul { overflow: hidden; }
+			.widget_author_grid ul li { background: none !important; clear: none !important; float: left !important; margin: 0 -5px -3px 0 !important; padding: 0 8px 6px 0 !important; border: none !important; list-style: none !important; }
+			.widget_author_grid ul li a { background: none !important; margin: 0 !important; padding: 0 !important; border: 0 !important; }
+			.widget_author_grid .avatar { vertical-align: middle; }
+		</style>
+<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+<style type="text/css">
+.widget_twitter li {
+	word-wrap: break-word;
+}
+</style>
+<meta content="39.529633;-119.813803" name="geo.position"/>
+<meta content="39.529633, -119.813803" name="ICBM"/>
+<meta content="Atomic Anxiety" name="application-name"/><meta content="width=device-width;height=device-height" name="msapplication-window"/><meta content="Movies, TV, Wrestling" name="msapplication-tooltip"/><meta content="name=Subscribe;action-uri=http://atomicanxiety.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0ba1ef05ae0591334526d62ff235c55a?s=16" name="msapplication-task"/><meta content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="STAR WARS EPISODE I: THE PHANTOM MENACE: Your Focus Determines Your Reality | Atomic Anxiety on WordPress.com" name="title"/>
+<meta content="Star Wars Episode 1: The Phantom Menace (1999) - Directed by George Lucas - Starring Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Ian McDiarmid, Anthony Daniels, Kenny Baker, Pernilla August, Ahmed Best, Frank Oz, Ray Park, Samuel L. Jackson, Andrew Secombe, Hugh Quarshie, Terence Stamp, Oliver Ford Davies, Brian Blessed, Dominic West, Keira Knightley,…" name="description"/>
+<style id="custom-background-css" type="text/css">
+body.custom-background { background-image: url('http://atomicanxiety.files.wordpress.com/2014/08/doctor-who-s8.jpg'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+
+
+
+
+<style id="syntaxhighlighteranchor" type="text/css"></style>
+<style id="custom-colors-css" type="text/css">
+button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .button-primary:hover, a.button-primary:hover, .wpm-button-primary:hover, a.wpm-button-primary:hover, button:focus, input[type="button"]:focus, input[type="reset"]:focus, input[type="submit"]:focus, .button-primary:focus, a.button-primary:focus, .wpm-button-primary:focus, a.wpm-button-primary:focus, button:active, input[type="button"]:active, input[type="reset"]:active, input[type="submit"]:active, .button-primary:active, a.button-primary:active, .wpm-button-primary:active, a.wpm-button-primary:active, #infinite-handle span { color: #FFFFFF;}
+button, input[type="button"], input[type="reset"], input[type="submit"], .button-primary, a.button-primary, a.button-primary:visited, .wpm-button-primary, a.wpm-button-primary { color: #FFFFFF;}
+.navigation-main a,.navigation-main a:visited { color: #FFFFFF;}
+.navigation-main li.current_page_item a, .navigation-main li.current-menu-item a,.navigation-main li.current_page_item a:visited, .navigation-main li.current-menu-item a:visited { color: #FFFFFF;}
+.navigation-main ul > .current_page_item:hover, .navigation-main ul > .current-menu-item:hover, .navigation-main ul > .current-post-ancestor:hover, .navigation-main ul > .current-menu-ancestor:hover, .navigation-main ul > .current-menu-parent:hover, .navigation-main ul > .current-post-parent:hover { color: #FFFFFF;}
+.site-footer a,.site-footer a:visited { color: #aaaaaa;}
+body { background-color: #333333;}
+.navigation-main, .main-small-navigation li, .navigation-main li { background-color: #111111;}
+.navigation-main ul > .current_page_item:hover, .navigation-main ul > .current-menu-item:hover, .navigation-main ul .current-post-ancestor:hover, .navigation-main ul > .current-menu-ancestor:hover, .navigation-main ul > .current-menu-parent:hover, .navigation-main ul > .current-post-parent:hover { background-color: #161616;}
+.navigation-main ul > .current_page_item:hover a:after, .navigation-main ul > .current-menu-item:hover a:after, .navigation-main ul > .current-post-ancestor:hover a:after, .navigation-main ul > .current-menu-ancestor:hover a:after, .navigation-main ul > .current-menu-parent:hover a:after, .navigation-main ul > .current-post-parent:hover a:after { border-top-color: #161616;}
+.navigation-main li:hover, .main-small-navigation li:hover { background-color: #161616;}
+a, a:hover, a:visited { color: #1271C3;}
+.comments-area footer .comment-meta:hover, .comments-area footer .comment-meta a:hover { color: #1271C3;}
+.navigation-paging a, .navigation-post a,.navigation-paging a:visited, .navigation-post a:visited { color: #106BBB;}
+.site-title a:hover, .entry-title a:hover, .comments-area footer .comment-author a:hover, .widget-area .widget-title a:hover, article:hover .entry-title a:hover, .featured-content-secondary .entry-title a:hover, article:hover .entry-title a, .featured-content-secondary .entry-title a:hover, .site-footer a:hover, .site-content .entry-meta a:hover { color: #1271C3;}
+.navigation-main ul > .current_page_item, .navigation-main ul > .current-menu-item, .navigation-main ul > .current-post-ancestor, .navigation-main ul > .current-menu-ancestor, .navigation-main ul > .current-menu-parent, .navigation-main ul > .current-post-parent { color: #1681DE;}
+.entry-thumbnail-category a, .entry-thumbnail-category a:hover { color: #FFFFFF;}
+.navigation-main a:hover, .main-small-navigation a:hover { color: #1681DE;}
+.navigation-main li.current_page_item a:hover, .navigation-main li.current-menu-item a:hover { color: #1681DE;}
+.navigation-main ul > .current_page_item a:after, .navigation-main ul > .current-menu-item a:after, .navigation-main ul > .current-post-ancestor a:after, .navigation-main ul > .current-menu-parent a:after, .navigation-main ul > .current-post-parent a:after { border-top-color: #1479d0;}
+.entry-thumbnail-category, .entry-thumbnail-category:hover { background-color: #1479d0;}
+.entry-thumbnail-category:before, .entry-thumbnail-category:hover:before { border-top-color: #1479d0;}
+.navigation-main ul > .current_page_item, .navigation-main ul > .current-menu-item, .navigation-main ul > .current-post-ancestor, .navigation-main ul > .current-menu-ancestor, .navigation-main ul > .current-menu-parent, .navigation-main ul > .current-post-parent, button, input[type="button"], input[type="reset"], input[type="submit"], .button-primary, a.button-primary, a.button-primary:visited, .wpm-button-primary, a.wpm-button-primary { background-color: #1479d0;}
+button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .button-primary:hover, a.button-primary:hover, .wpm-button-primary:hover, a.wpm-button-primary:hover, button:focus, input[type="button"]:focus, input[type="reset"]:focus, input[type="submit"]:focus, .button-primary:focus, a.button-primary:focus, .wpm-button-primary:focus, a.wpm-button-primary:focus, button:active, input[type="button"]:active, input[type="reset"]:active, input[type="submit"]:active, .button-primary:active, a.button-primary:active, .wpm-button-primary:active, a.wpm-button-primary:active, #infinite-handle span { background-color: #2a99ed;}
+.navigation-main ul > .current_page_item:hover, .navigation-main ul > .current-menu-item:hover, .navigation-main ul > .current-post-ancestor:hover, .navigation-main ul > .current-menu-ancestor:hover, .navigation-main ul > .current-menu-parent:hover, .navigation-main ul > .current-post-parent:hover { background-color: #2a99ed;}
+.navigation-main ul > .current_page_item:hover a:after, .navigation-main ul > .current-menu-item:hover a:after, .navigation-main ul > .current-post-ancestor:hover a:after, .navigation-main ul > .current-menu-ancestor:hover a:after, .navigation-main ul > .current-menu-parent:hover a:after, .navigation-main ul > .current-post-parent:hover a:after { border-top-color: #2a99ed;}
+</style>
+
+<style id="custom-fonts-css" type="text/css">/* Headings */ .wf-loading th { visibility: hidden; } .wf-active th { font-weight: 400; font-family: ubuntu-1,ubuntu-2,Neue,Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; } .wf-loading h1,.wf-loading h2,.wf-loading h3 { visibility: hidden; } .wf-active h1,.wf-active h2,.wf-active h3 { font-weight: 400; font-family: ubuntu-1,ubuntu-2,Georgia,"Helvetica Neue",Helvetica,Arial,sans-serif; font-style: normal; font-variant: normal; } .wf-loading h1 { visibility: hidden; } .wf-active h1 { font-size: 23px; } .wf-loading h2 { visibility: hidden; } .wf-active h2 { font-size: 19px; } .wf-loading h3 { visibility: hidden; } .wf-active h3 { font-size: 16px; } .wf-loading h4,.wf-loading h5,.wf-loading h6 { visibility: hidden; } .wf-active h4,.wf-active h5,.wf-active h6 { font-weight: 400; } .wf-loading .site-title { visibility: hidden; } .wf-active .site-title { font-size: 36px; font-family: ubuntu-1,ubuntu-2,"Helvetica Neue",Helvetica,Arial,sans-serif; font-style: normal; font-weight: 400; font-variant: normal; } .wf-loading .site-description,.wf-loading .single .site-content .related-content .entry-title { visibility: hidden; } .wf-active .site-description,.wf-active .single .site-content .related-content .entry-title { font-weight: 400; font-size: 14px; } .wf-loading .featured-content .entry-title,.wf-loading .site-content .entry-title,.wf-loading .featured-content-secondary .entry-title,.wf-loading .comments-area #reply-title,.wf-loading .comments-area .comments-title { visibility: hidden; } .wf-active .featured-content .entry-title,.wf-active .site-content .entry-title,.wf-active .featured-content-secondary .entry-title,.wf-active .comments-area #reply-title,.wf-active .comments-area .comments-title { font-size: 21px; } .wf-loading .comments-area footer .comment-author { visibility: hidden; } .wf-active .comments-area footer .comment-author { font-size: 21px; font-family: ubuntu-1,ubuntu-2,Georgia,"Times New Roman",serif; font-style: normal; font-weight: 400; font-variant: normal; } .wf-loading .single .site-content .entry-title { visibility: hidden; } .wf-active .single .site-content .entry-title { font-size: 47px; } .wf-loading .widget-area .widget-title { visibility: hidden; } .wf-active .widget-area .widget-title { font-size: 16px; } @media only screen and (max-width : 900px) { .wf-loading .main-small-navigation .menu-toggle { visibility: hidden; } .wf-active .main-small-navigation .menu-toggle { font-size: 15px; } } 
+/* Body Text */ .wf-loading body { visibility: hidden; } .wf-active body { font-size: 14px; font-family: ff-dagny-web-pro-1,ff-dagny-web-pro-2,"Helvetica Neue",helvetica,arial,sans-serif; font-variant: normal; } .wf-loading button,.wf-loading input,.wf-loading select,.wf-loading textarea { visibility: hidden; } .wf-active button,.wf-active input,.wf-active select,.wf-active textarea { font-size: 14px; font-family: ff-dagny-web-pro-1,ff-dagny-web-pro-2,Neue,helvetica,arial,sans-serif; font-variant: normal; } .wf-loading blockquote { visibility: hidden; } .wf-active blockquote { font-family: ff-dagny-web-pro-1,ff-dagny-web-pro-2,Georgia,"Bitstream Charter",serif; font-variant: normal; } .wf-loading blockquote cite { visibility: hidden; } .wf-active blockquote cite { font-size: 14px; } .wf-loading sub,.wf-loading sup { visibility: hidden; } .wf-active sub,.wf-active sup { font-size: 80%; } .wf-loading small { visibility: hidden; } .wf-active small { font-size: 80%; } .wf-loading big { visibility: hidden; } .wf-active big { font-size: 133%; } .wf-loading button,html.wf-loading input[type="button"],.wf-loading input[type="reset"],.wf-loading input[type="submit"] { visibility: hidden; } .wf-active button,html.wf-active input[type="button"],.wf-active input[type="reset"],.wf-active input[type="submit"] { font-size: 13px; } .wf-loading .gallery-caption { visibility: hidden; } .wf-active .gallery-caption { font-size: 14px; } .wf-loading #comments { visibility: hidden; } .wf-active #comments { font-size: 15px; } .wf-loading .comment-meta,.wf-loading .comment-meta a { visibility: hidden; } .wf-active .comment-meta,.wf-active .comment-meta a { font-size: 13px; } .wf-loading .comment-author { visibility: hidden; } .wf-active .comment-author { font-size: 17px; } .wf-loading .pingback > p:before { visibility: hidden; } .wf-active .pingback > p:before { font-size: 11px; } .wf-loading body { visibility: hidden; } .wf-active body { font-family: ff-dagny-web-pro-1,ff-dagny-web-pro-2,"Helvetica Neue",Helvetica,Arial,sans-serif; font-variant: normal; font-size: 16px; } .wf-loading .entry-meta,.wf-loading .entry-meta a,.wf-loading .site-content .entry-meta,.wf-loading .site-content .entry-header .entry-meta,.wf-loading .comments-area footer .comment-meta,.wf-loading .comments-area footer .comment-meta a { visibility: hidden; } .wf-active .entry-meta,.wf-active .entry-meta a,.wf-active .site-content .entry-meta,.wf-active .site-content .entry-header .entry-meta,.wf-active .comments-area footer .comment-meta,.wf-active .comments-area footer .comment-meta a { font-size: 13px; } .wf-loading .site-footer,.wf-loading .site-footer a { visibility: hidden; } .wf-active .site-footer,.wf-active .site-footer a { font-size: 14px; } 
+</style>
+<link href="https://s0.wp.com/?custom-css=1&amp;csblog=Vu9l&amp;cscache=6&amp;csrev=41" id="custom-css-css" rel="stylesheet" type="text/css"/>
+
+
+</head>
+<body class="single single-post postid-6762 single-format-standard custom-background mp6 typekit-enabled customizer-styles-applied highlander-enabled highlander-light custom-colors">
+<div class="hfeed site" id="page">
+<header class="site-header" id="masthead" role="banner">
+<div class="site-branding">
+<div class="site-title-group">
+<h1 class="site-title"><a href="http://atomicanxiety.com/" rel="home" title="Atomic Anxiety">Atomic Anxiety</a></h1>
+<h2 class="site-description">Movies, TV, Wrestling</h2>
+</div>
+</div>
+<nav class="navigation-main" id="site-navigation" role="navigation">
+<h1 class="menu-toggle">Menu</h1>
+<div class="screen-reader-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+<div class="menu"><ul><li><a href="http://atomicanxiety.com/">Home</a></li><li class="page_item page-item-7644"><a href="http://atomicanxiety.com/about/">About</a></li><li class="page_item page-item-6148"><a href="http://atomicanxiety.com/atomic-interviews/">Atomic Interviews</a></li><li class="page_item page-item-2873"><a href="http://atomicanxiety.com/doctor-who-review-index/">Doctor Who</a></li><li class="page_item page-item-3151 page_item_has_children"><a href="http://atomicanxiety.com/movie-review-index/">Movie Review Index</a><ul class="children"><li class="page_item page-item-3902"><a href="http://atomicanxiety.com/movie-review-index/anime-index/">Anime Index</a></li><li class="page_item page-item-3252"><a href="http://atomicanxiety.com/movie-review-index/holiday-review-index/">Holiday Review Index</a></li><li class="page_item page-item-3197"><a href="http://atomicanxiety.com/movie-review-index/horror-movie-index/">Horror Movie Index</a></li><li class="page_item page-item-4053"><a href="http://atomicanxiety.com/movie-review-index/james-bond-review-index/">James Bond</a></li><li class="page_item page-item-6166"><a href="http://atomicanxiety.com/movie-review-index/kaiju-movies/">Kaiju Movies</a></li><li class="page_item page-item-7971"><a href="http://atomicanxiety.com/movie-review-index/links-to-every-post-on-atomic-anxiety/">Links to Every Post on Atomic Anxiety</a></li><li class="page_item page-item-6810"><a href="http://atomicanxiety.com/movie-review-index/star-wars-index/">Star Wars Index</a></li><li class="page_item page-item-3219"><a href="http://atomicanxiety.com/movie-review-index/superhero-movie-index/">Superhero Index</a></li><li class="page_item page-item-4922"><a href="http://atomicanxiety.com/movie-review-index/walt-disney-animated-classics-pixar/">Walt Disney Animated Classics &amp; Pixar</a></li></ul></li><li class="page_item page-item-4119"><a href="http://atomicanxiety.com/original-fiction/">Original Fiction</a></li><li class="page_item page-item-6077"><a href="http://atomicanxiety.com/podcasts/">Podcasts</a></li><li class="page_item page-item-4116 page_item_has_children"><a href="http://atomicanxiety.com/tv-review-index/">TV</a><ul class="children"><li class="page_item page-item-7764"><a href="http://atomicanxiety.com/tv-review-index/scooby-doo/">Scooby-Doo</a></li><li class="page_item page-item-4128"><a href="http://atomicanxiety.com/tv-review-index/star-trek-review-index/">Star Trek Reviews</a></li><li class="page_item page-item-8349"><a href="http://atomicanxiety.com/tv-review-index/superhero-tv/">Superhero TV</a></li><li class="page_item page-item-4158"><a href="http://atomicanxiety.com/tv-review-index/torchwood/">Torchwood</a></li></ul></li><li class="page_item page-item-6936 page_item_has_children"><a href="http://atomicanxiety.com/wrestling/">Wrestling</a><ul class="children"><li class="page_item page-item-8057"><a href="http://atomicanxiety.com/wrestling/wwe-ppv-alphabetical/">WWE PPV Events</a></li></ul></li></ul></div>
+</nav><!-- #site-navigation -->
+</header><!-- #masthead -->
+<div class="site-main" id="main">
+<div class="content-area" id="primary">
+<div class="site-content" id="content" role="main">
+<article class="post-6762 post type-post status-publish format-standard hentry category-science-fiction category-star-wars tag-ahmed-best tag-anthony-daniels tag-brian-blessed tag-dominic-west tag-ewan-mcgregor tag-frank-oz tag-george-lucas tag-hugh-quarshie tag-ian-mcdiarmid tag-jake-lloyd tag-keira-knightley tag-kenny-baker tag-liam-neeson tag-natalie-portman tag-oliver-ford-davies tag-pernilla-august tag-peter-serafinowicz tag-ray-park tag-samuel-l-jackson tag-sofia-coppola tag-star-wars tag-terence-stamp tag-the-phantom-menace tag-warwick-davis" id="post-6762">
+<header class="entry-header">
+<h1 class="entry-title">STAR WARS EPISODE I: THE PHANTOM MENACE: Your Focus Determines Your Reality</h1>
+<div class="entry-meta">
+<a class="author" href="http://atomicanxiety.com/author/atomicanxiety/" rel="author">Mark Bousquet</a> / <a class="entry-date" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/">December 27, 2013</a> </div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+<div class="entry-content">
+<p><a href="http://atomicanxiety.files.wordpress.com/2013/12/star-wars-episode-1-poster.jpg"><img alt="Star Wars Episode 1 Poster" class="alignleft wp-image-6763" height="434" src="http://atomicanxiety.files.wordpress.com/2013/12/star-wars-episode-1-poster.jpg?w=307&amp;h=434" width="307"/></a><em>Star Wars Episode 1: The Phantom Menace (1999) – Directed by George Lucas – Starring Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Ian McDiarmid, Anthony Daniels, Kenny Baker, Pernilla August, Ahmed Best, Frank Oz, Ray Park, Samuel L. Jackson, Andrew Secombe, Hugh Quarshie, Terence Stamp, Oliver Ford Davies, Brian Blessed, Dominic West, Keira Knightley, Sofia Coppola, Peter Serafinowicz, and Warwick Davis.</em></p>
+<p>When I went to see STAR WARS EPISODE I: THE PHANTOM MENACE in the theater upon its release in 1999, I was as excited as I’d ever been for any movie in my life. I saw STAR WARS at the drive-in as a four-year old. I saw EMPIRE STRIKES BACK and RETURN OF THE JEDI in the movie theater. I owned the movies and watched and watched and watched the movies over and over. As a kid, my viewing life was ruled by 6 movies: the three STAR WARS films, the two <em><a href="http://atomicanxiety.wordpress.com/2010/09/29/the-cannonball-run/" title="THE CANNONBALL RUN: The Only Thing Hiding It In the Pool Did Was Make It Pretty">Cannonball Run</a></em> films, and <em><a href="http://atomicanxiety.wordpress.com/2012/10/30/clue-communism-was-just-a-red-herring/" title="CLUE: Communism Was Just a Red Herring">Clue</a></em>, so the idea that there was a new STAR WARS movie had me as geeked up as I could be over a movie.</p>
+<p>When PHANTOM MENACE was ultimately released on DVD, I bought it because …</p>
+<p>Because …</p>
+<p>Because.</p>
+<p>I hated PHANTOM MENACE when I saw it in the theater. I hated PHANTOM MENACE when I watched it on DVD.</p>
+<p>I haven’t been back since.</p>
+<p>When I decided to spend my winter break reviewing the two STAR WARS trilogies, I needed to figure out if I wanted to start with EPISODE I or EPISODE IV. I chose to start with EPISODE I because it will give me the most honest look at the film I can possibly have. If I started with EPISODE IV, all the old feelings would risk coming back and I would approach EPISODE I with the same sense of dread that’s had me avoid it all these years. With the excitement high for this new reviewing project, PHANTOM was never going to have a better chance at impressing me.</p>
+<p>Did it work?</p>
+<p>The good news is that I do not actively hate PHANTOM MENACE anymore, and it’s certainly a film I’ll watch more going forward than I have in the past (not that two is a big number to beat …), but there are some problems that saddle the film, and I’m not talking only about Jar Jar Binks. Rather, I think PHANTOM suffers from two unavoidable issues and one case of bad timing, which combine to sabotage the enjoyable parts of the movie. And there are plenty of enjoyable parts to the movie.</p>
+<p>On the whole, I’m happy to find that this is actually a very watchable movie. There are some dumb parts, to be sure, but there’s a lot of good stuff here, too. There are a few action sequences – the pod race, the Qui-Gon/Obi-Wan vs. Darth Maul lightsaber battle, the final space battle – that are spectacular. I picked that Qui-Gon quote that I used in the title of this review for a reason: “Your focus determines your reality.” That’s THE PHANTOM MENACE in a nutshell; if you want to focus on the negative, this isn’t a film that’s going to do much for you, but if you want to focus on the positive, this is a solid, if uneven, film.</p>
+<p>Before digging into what’s wrong with PHANTOM, what must be said right at the top is that George Lucas does not appear to have made this movie for me. Nor does he appear to have made it for anyone who had grown up worshipping his movies and making him a millionaire hundreds of times over. No, Lucas seems to have made this movie for one, or possibly two, people. (Though he does throw long-time fans a few bones, which I’ll cover deeper in this review.) First, he made it for himself because he not only wrote it but directed it, which is a curious decision for a guy who’d been willing to turn these duties over to others (either in whole or part) for EMPIRE and JEDI, and who hadn’t directed a movie since A NEW HOPE, 22 years earlier. Second, based on what’s on the screen, he seems to have made it for the same people he made the original STAR WARS for – kids. PHANTOM MENACE is bright and shiny and simple on the surface. It’s an easy dig to say, “He made it to sell toys,” but I don’t think selling toys is all that bad a thing. I had plenty of toys when I was a kid and you know what they did besides make George Lucas rich?</p>
+<p>They helped me build my imagination, and made me believe <a href="http://themarkbousquet.com/fiction/">I could tell stories</a>, and that’s a very good thing.</p>
+<p>But where this applies to PHANTOM is that while the rest of us who grew up with STAR WARS, you know, grew up, George Lucas was already a grown up when he made the original. Where perhaps our tastes matured, Lucas’ were already matured back in 1977, and any growing he’d done since then (and I don’t think you can look at his screenplays and see evidence of a man who’d grown interested in more complex or philosophical stories) did not equal our own.</p>
+<p>That Lucas was apparently aiming at the same age group as the original trilogy is immaterial if you don’t like PHANTOM, of course. You’re free to like or dislike the film for any reason you want, but thinking of PHANTOM as a kids’ movie does allow me to appreciate it more than I did originally. It allows me to enjoy the awesome sets and cool costumes and the sheer bright, shiny simplicity of it all.</p>
+<p>Appreciating is not loving, however.</p>
+<div class="wp-caption aligncenter" id="attachment_6795" style="width: 555px"><a href="http://atomicanxiety.files.wordpress.com/2013/12/qui-gon-obi-wan-anakin.png"><img alt="Liam Neeson as Qui-Gon Jinn, Jake Lloyd as Anakin Skywalker, and Ewan McGregor as Obi-Wan Kenobi." class="size-full wp-image-6795" src="http://atomicanxiety.files.wordpress.com/2013/12/qui-gon-obi-wan-anakin.png?w=700"/></a><p class="wp-caption-text">Liam Neeson as Qui-Gon Jinn, Jake Lloyd as Anakin Skywalker, and Ewan McGregor as Obi-Wan Kenobi.</p></div>
+<p>The two unavoidable issues I mentioned above are pacing and acting. PHANTOM is not a story nearly as much as it is a roller coaster that doesn’t take proper time to set up the drops and turns. Unlike the original films, which work for me as ADVENTURE-action films, PHANTOM is undeniably an ACTION-adventure film, and this comes down to pacing. I never felt like the original films were in a hurry to get through the story in order to reach the finish, but PHANTOM is a wonkily paced movie, a stereotypical child on a sugar rush determined to churn through scene after scene. Things happen and happen and happen and happen and happen and TAAAAAAATOOOOOOOOOIIIIIINNNNNNEEEEEEE and happen and happen and happen. The entire film depends on the events on the first set of events on Tatooine to have any actual meaning, because without them, PHANTOM is really just a bunch of whiz-bang, most of it involving lasers and lightsabers, and some of it involving politics.</p>
+<p>PHANTOM clocks in at around two hours and twenty minutes, and I feel like we’d have been much better served by a two-hour theatrical release and a three-hour Director’s Cut. The 2:20 version is the worst of both – I see lots of things happen but there’s little time to appreciate it or care about it.</p>
+<p>Issues of pacing fall squarely at Lucas’ feet. As writer, director, and overlord of this movie, it’s on him to tell a good story and if there was going to be a problem with Lucas the writer or Lucas the director, I’d have put my money on the director since he had written numerous screenplays over the years. But while there are directing issues, there are more issues with the writing.</p>
+<p>Or maybe not, which brings me to the second unavoidable problem with PHANTOM MENACE: the acting is decidedly not good. It’s easy to point the finger at Jake Lloyd because he’s the worst of the lot, but Liam Neeson, Ewan McGregor, and Natalie Portman do not do themselves proud, either. But here’s the thing – when you have three good actors turning in uneven performances, that has to be the director, right? Neeson, McGregor, and Portman are talented enough to give their directors whatever their directors want, and so it seems fair to conclude that their bad performances owe quite a bit to both Lucas the writer (for putting stupid words in their mouths) and Lucas the director (for being satisfied with these performances and not fixing Lucas the writer’s mistakes).</p>
+<p>Also, let’s get back to the idea that this is a movie for kids. While writing for kids does not mean you have to make your characters stupid, it doesn’t hurt to make things a bit simpler and a bit more repetitive. You see that all through PHANTOM, where the main characters repeat the same ideas and phrases over and over again, often in quick succession. When Qui-Gon (Neeson), Obi-Wan (McGregor), and Jar Jar (Ahmad Best) are taking a submersible ship through Naboo’s core, they get attacked by a fish, which gets eaten by a bigger fish. A minute later, another fish gets eaten by a bigger fish. Just, you know, in case you missed it.</p>
+<p>Or, at the end of the film, when Yoda tells Obi-Wan that the Jedi Council gives permission for him to train Anakin (Jake Lloyd), and then in the very next scene, Obi-Wan tells Anakin that he will train him. And in that scene, we have the most egregious bit of repetition. In talking about the death of Darth Maul, Yoda says of the Siths, “There are always two, master and apprentice,” to which Mace Windu replies, “But which is dead, the master or the apprentice?”</p>
+<p>I’m pretty sure Lucas would not have received an “A” if he’d written PHANTOM MENACE for a screenwriting class.</p>
+<p>Again, I’m not saying this means you have to like PHANTOM, because even if we take the idea that this is a movie for kids, it’s not very well written or acted, but it does help explain why the acting from the leads is more straightforward and not heavily nuanced. When Lucas attempts to do nuance in PHANTOM, he’ll have Mace Windu (Samuel L. Jackson) look to his right to share a glance with Yoda (Frank Oz), and he’ll have Jackson do this 436 times in a one-minute long sequence. Or he’ll have Palpatine (Ian McDiarmid) put on a robe and change his voice to hide his identity.</p>
+<p>Nuance is not a Lucas strong suit, so even if PHANTOM is designed for kids, it’s still a clumsily executed idea.</p>
+<p>The bad case of timing that hurts PHANTOM is that the opening acts are the worst parts of the film. The opening sequence with Qui-Gonn and Obi-Wan serving as ambassadors from the Supreme Chancellor, who are then attacked and escape to the surface of Naboo, where they meet up with Jar Jar and are quickly ferreted to the underwater city of the Gungans, is the worst part of the film. Lucas throws a lot of stuff on the screen in quick succession to get the story rolling as quickly as possible. It’s just over a twenty-minute sequence but it feels interminable. James Bond movies often start with this pre-story action sequence, but it’s usually one sequence that simply establishes James Bond as a super-cool secret agent and leads into the titles, then then story. In PHANTOM, it’s action sequence (the failed negotiations) followed by action sequence (the underwater Gungan city through big fishes) followed by action sequence (the rescue of, and escape with, the Queen and her handmaidens) and then we hit the long grind on Tatooine. It’s more clumsy execution.</p>
+<div class="wp-caption aligncenter" id="attachment_6797" style="width: 555px"><a href="http://atomicanxiety.files.wordpress.com/2013/12/queen-padme-amidala.png"><img alt="Natalie Portman as Queen Padme Amidala." class="size-full wp-image-6797" src="http://atomicanxiety.files.wordpress.com/2013/12/queen-padme-amidala.png?w=700"/></a><p class="wp-caption-text">Natalie Portman as Queen Padme Amidala.</p></div>
+<p>Stories will teach you how to experience it, and the opening of PHANTOM tells us things will come quick and fast and the goofy will mix with the serious. It teaches us the Jedi are complete dicks, that they are elitist snobs when it comes to the Federation (Qui-Gon insists the Federation are cowards and that the negotiation will be over shortly), the Gungans (Qui-Gonn wants nothing to do with Jar Jar until he realizes he can be of some use to him, and Obi-Wan scares Jar Jar into helping), and the Naboo (the Jedi order the Queen around and Qui-Gon is dismissive of Padme and barely listens to Panaka before telling him, No.”). It tells us to concentrate on the spectacle, and that there’s going to be lots of funny voices and that hurts how you experience the film, especially if you’ve come back for more epic fantasy. Especially if you thought Lucas was going to admit the Ewoks were ineffectively used and not his best idea ever.</p>
+<p>Yeah. About the voices. A lot has been made about the racialization of the Star Wars universe in PHANTOM: the Federation speak in exaggerated East Asian accents out a 1920s serial, Jar Jar Binks appears cut from Caribbean types, and Watto comes off as a broad, Jewish caricature. Lucas has denied these accusations, but that’s silly because they’re there. If you’re going to tag Lucas for using broad stereotypes, though, you also have to give him credit for creating a living, breathing, diverse universe. Yes, white people still sit at the center of this story, but everywhere you look there are non-whites filling important roles. Jar Jar is a clumsy piece of comedic relief, but the Gungans (which, apart from Jar Jar, seem to have as many African characteristics as Caribbean) prove themselves to be far more than comic relief. The Jedi Council is also stacked with all manner of races, both human and alien. I have to say, too, that the more I watch PHANTOM MENACE (I’ve watched it again since starting this review), the less the Federation, Watto, Jar Jar, and the Gungans bother me from a racial perspective because subtle complexities emerge. If you’re going to target Watto as an representation of the role of some Jews in the slave trade, you should also give the film credit for having him pay for this role as he gets wiped out financially from the pod race that Anakin wins. PHANTOM MENACE is, on the whole, a simple movie, but there are complexities in the characters if you’re open to looking for them.</p>
+<p>So far, I’ve concentrated mostly on the negative (about 2,000 words worth of negative) and it bears repeating that this review of the film is but the first look at the characters and stories contained within. I’ll delve deeper into the individual characters during the character-specific reactions that follow. (If you’re new to the Anxiety, check out the series of Reactions I wrote for <em><a href="http://atomicanxiety.wordpress.com/2012/05/05/the-avengers-i-put-a-bullet-in-my-mouth-and-the-other-guy-spit-it-out/" title="THE AVENGERS: I Put a Bullet in My Mouth and the Other Guy Spit it Out">The Avengers</a></em> to see what these will look like; the links are at the bottom of the review.) PHANTOM MENACE is more good than bad, but it’s got to get over that big hurdle of an poorly-executed opening.</p>
+<p>Let’s get to the story, which will allow me to roll in some of the film’s positive moments. The narrative underpinning of this movie is that the Trade Federation has made a move against the planet Naboo, and back at the capital on Coruscant no one can do anything about it because the system has broken down. The political portions of the film are quite entertaining, even if they are somewhat clumsily handled. Ian McDiarmid gives a fantastic performance as Senator Palpatine, overcoming some script-created deficiencies. It’s obvious (even if you do not know he’s also Darth Sidious), that Palpatine is the archetypal snake-in-the-grass, but McDiarmid plays him with such restrained relish that he becomes the most watchable character in the film for me. Near the end of the film, when he pats Anakin on the shoulder and tells him that he’ll be watching him, McDiarmid manages to make an off-hand remark come across quite chillingly.</p>
+<p>Accent aside, I like the construction of the two Neimodians that are running the Trade Federation blockade. They are unsure of themselves but desirous of increasing their money and power, and they serve as fine examples of what happens when you put the self over the community. Greed dooms them at the end, yes, but greed also allows them to be manipulated by Darth Sidious in the first place. They also serve an important narrative purpose because one of them is scared to death of the presence of the Jedi and the other is, somehow, unsure of what they’re capable of doing. For viewers who haven’t seen the original trilogy, or even those who do but only conceive of them in their rogue samurai state, the Neimodians help establish that the Jedi are bad ass.</p>
+<p>Naboo is a fascinating planet, and not just because it’s gorgeous to look at. We know this planet has a democratically-elected Queen, a Senator that it sends to Coruscant, and at least one Governor. That’s a lot of rulers jammed into small pockets in the story. Add in the underwater kingdom of the Gungans who have no more say in how the Naboo rule the surface as they let the Naboo have in the running of their government, and you’ve got a politically-complex planet. Obi-Wan makes the point to Boss Nass (voiced by Brian Blessed) that the Naboo and Gungans have a symbiotic system, where what happens to one effects the other, but both sides seem to be getting along fine without the other. It’s only when the Federation lands that the two nations need to come together.</p>
+<p>Naboo is a beautiful planet, however, and we shouldn’t lose sight of that. To the extent that PHANTOM MENACE is really a cartoon (not solely because of the story but because most of what you see was built in a computer – on one of the commentary tracks, Lucas even mentions that what people are watching is really “Roger Rabbit in Toonville” they just don’t realize it), it’s a gorgeous film to look at. It’s a weird film to appreciate as spectacle, though. Unlike a movie like <em><a href="http://atomicanxiety.wordpress.com/2012/03/16/jurassic-park-were-gonna-make-a-fortune-with-this-place/" title="JURASSIC PARK: We’re Gonna Make a Fortune with This Place">Jurassic Park</a></em>, for instance, the technology here isn’t on display as much as it is the entire program. When we watch the Tyrannosaur in Jurassic Park, we’re always aware that this is something new and wondrous. But in PHANTOM MENACE, the technology has become so advanced you can’t tell it’s technology anymore. Certainly, when you watch Jar Jar or the giant fish you can see that you’re watching a computer generated object, but most of the backgrounds are built inside a computer, too. In <em>Jurassic Park</em> or <em>Terminator 2</em> or <em>Who Framed Roger Rabbit?</em>, the fact that you are impressed with the technology adds to the experience of watching the film because the other characters in those movies are likewise impressed by the Tyrannosaur, the T1000, and Roger Rabbit, as well.</p>
+<p>Here … it’s easy enough to be impressed with giant fish but who’s going to be impressed by a wall?</p>
+<p>Qui-Gon and Obi-Wan get to the surface of Naboo by hitching rides in separate Federation shuttles, and before they can meet up, Qui-Gon saves the life of Jar Jar Binks, a Gungan outcast who was in the wrong place at the wrong time. I’ll cover Jar Jar more fully in his individual review, but while my appreciation for PHANTOM MENACE has certainly grown, I can’t say I’ve become a huge fan of how Lucas uses Jar Jar to bring comedic relief to a film that doesn’t need it. I read an article somewhere, sometime which made the point the other actors in the film thought Jar Jar was going to be a huge hit with audiences, and that they were stunned when he took the brunt of the vitriol.</p>
+<div class="wp-caption aligncenter" id="attachment_6786" style="width: 555px"><a href="http://atomicanxiety.files.wordpress.com/2013/12/jar-jar-binks.jpg"><img alt="Jar Jar Binks: Built by computers, voiced by Ahmed Best." class="size-full wp-image-6786" src="http://atomicanxiety.files.wordpress.com/2013/12/jar-jar-binks.jpg?w=700"/></a><p class="wp-caption-text">Jar Jar Binks: Built by computers, voiced by Ahmed Best.</p></div>
+<p>To be sure, I can’t imagine why anyone thought yousa gonna be funtime the Binks-man, but he’s certainly taken more than his appropriate share of fan hatred. Jar Jar became the focus, I think, because it’s the clearest symbol of the difference between what long-time fans wanted and what Lucas gave them. Lucas clearly intends for him to be the comedic relief but this isn’t a film that needs a lot of comic relief. It’s a heavy movie and could use a dry humor to offset the story’s seriousness (such as when Obi-Wan wryly sticks it to Qui-Gon about his assertion that it was going to be a “quick negotiation” with the Federation) instead of the broad, slapstick strokes of Jar Jar. There’s not much subtlety to Jar Jar; it’s like Lucas took every comedic idea he had and tossed it at a mannequin and Jar Jar is what he was left with when he had nothing left to throw: big ears, funny voice, funny speech pattern, clumsy, easily frightened, impossibly long tongue … it’s not a coincidence, I don’t think, that Lucas made the Roger Rabbit reference while commenting on a Jar Jar sequence, because Jar Jar comes off as Lucas’ nod to Carl Barks.</p>
+<p>It’s also telling that when Lucas talks about how effective Jar Jar’s initial sequence is, he’s talking solely about the technology and not the character.</p>
+<p>Once Qui-Gon realizes Jar Jar can be of help, though, he bullies the Gungan into taking him to his underwater city, and then brainwashes Boss Nass into giving them a transport ship. Qui-Gon is also willing to rid himself of Jar Jar until he realizes they could use a guide to get through the planet’s core, because presumably the Gungan ship is technologically advanced enough to travel through the planet’s core but not so advanced it has a navigation system.</p>
+<p>They make it through the underwater tunnels, and the Jedi and Jar Jar (mostly the Jedi) rescue the Queen and her entourage from the Federation’s battle droids. The design of the battle droids is really cool, but they are problematic characters, given their uselessness. (I’m pretty sure their weapons program was written by UNIT.) Whenever the Jedi attack, the battle droids are patient enough to wait for their turn to be slaughtered instead of attacking en masse. (It’s also hilarious how the Jedi will cut down a battle droid, then turn to a group of them and use the Force to knock them out of the way. Why not start with the Force?) The Jedi immediately take control of the situation and suggest the Queen move off-world. After fleeing the Federation with Queen Amidala and lots of support staff, and boarding a ship that happens to contain R2-D2 (Kenny Baker), Qui-Gon and Obi-Wan decide to land their damaged ship on Tatooine, so they can make repairs. Captain Panaka (Hugh Quarshie) strongly objects to the plan, not wanting to take the Queen to a planet run by the Hutts, but he gets overruled by Qui-Gon.</p>
+<p>That’s a recurring theme.</p>
+<p>On Tatooine is where PHANTOM finally slows down to worry about story. In the director’s commentary, Lucas talks about how scenes need to do multiple things, and I can’t help but feel much of PHANTOM suffers from Lucas wanting to stuff as many things as possible into the film. PHANTOM opens with the trademark text scroll setting up the story, which is then followed by those four action sequences that set up the story a bit more. On Tatooine, the film mostly slows down enough to allow us to concentrate on the introduction of Anakin Skywalker (Jake Lloyd) and his mother Shmi (Pernilla August). Again, from the commentary, Lucas points out that PHANTOM is the story of Anakin as seen through the eyes of the Jedi, so he clearly thinks all of that set-up was important, but it still feels rushed and cramped to me, desperate as it is to introduce all the characters that will become important to Anakin.</p>
+<div class="wp-caption aligncenter" id="attachment_6790" style="width: 710px"><a href="http://atomicanxiety.files.wordpress.com/2013/12/naboo-royal-starship.png"><img alt="The J-type 327 Nubian Royal Starship on Tatooine." class="size-large wp-image-6790" src="http://atomicanxiety.files.wordpress.com/2013/12/naboo-royal-starship.png?w=700&amp;h=297"/></a><p class="wp-caption-text">The J-type 327 Nubian Royal Starship on Tatooine.</p></div>
+<p>Tatooine works as an extended sequence, however. The introduction of Anakin has the greatest effect on Qui-Gon and Liam Neeson, who both relax a bit in Anakin’s extended presence. Parking their J-type 327 Nubian royal starship outside of the city Qui-Gon, Jar Jar, and R2-D2 are forced to take the Queen’s handmaiden, Padmė (Natalie Portman) with them. (Padmė is, of course, the actual queen in disguise, and we know this because she’s famous in 1999 and Keira Knightly isn’t.) They stop at Watto’s, where the Toydarian junk dealer tells them he has the part they need to fix their ship, but won’t accept their Republic money in exchange for it. Watto owns Anakin and Shmi, and Anakin works for him in the shop. It’s not clear what Shmi does, exactly, but Watto is more willing to let her go than he is Anakin, so she does not have Anakin’s monetary value to Watto’s operation.</p>
+<p>Anakin is a bright kid who likes to build things and is, to Qui-Gon’s eyes, completely selfless. He wants to help, even if that means putting his life at risk, and he concocts a Brady Bunch-esque scheme where he’ll enter and win a pod race (a high tech chariot race around the nearby desert) so Qui-Gon can pay for the part he needs to get the hell off of Tatooine. While Anakin is willing to help, it’s also clear he wants to race pods and the arrival of Qui-Gon and Company allows for Anakin to do something his mother is clearly uncomfortable with. He might be mostly selfless, but he’s also got a bit of a schemer in him.</p>
+<p>On Tatooine, two critical relationships are developed: Anakin and Qui-Gon and between Anakin and Padmė. For Qui-Gon, it’s Anakin’s possible status as the Chosen One and thhhhhpppttttttt fart noise wanking motion nonsense poke my eyes out Chosen One stories are so stupid. It further establishes that Qui-Gon is an elitist dick who’s only interested in things that benefit him or his mission, and that he favors people for their roles in society rather than as actual individuals, but the biggest issue with their relationship is the introduction of the midi-chlorians.</p>
+<p>Deep breath. Short version:</p>
+<p>Midi-chlorians live in everything and communicate directly with the Force. The Jedi can hear the midi-chlorians better than regular people but lest you think this is because they’re super-smart or disciplined, it’s also established that they have a higher concentration of midi-chlorians in their system which helps. I hate this reveal, as it reduces Jedi from being a rank anyone can attain so long as they have the right education, training, discipline, and commitment to something that only a select few people can achieve.</p>
+<p>Qui-Gon suspects Anakin has the makings of a Jedi, and when he has the kid’s blood tested, it turns out Anakin has the highest concentration of midi-chlorians in the history of forever and ever, which gets Qui-Gon to pop a midi-chlorian boner and decided this must be the Chosen One who has been prophesied to bring “balance to the Force.”</p>
+<p>Which … yeah.</p>
+<p>It begs the question as to why Qui-Gon (or any Jedi) wants to bring balance to the Force, since the scales are already tipped to the side of the Jedi. It’s not until Qui-Gon is ready to leave Tatooine that he is introduced to Darth Maul (body: Ray Park/voice: Peter Serafinowicz) and discovers the Siths are back in black. Maybe Qui-Gon’s interest in Anakin’s midi-chlorian count is because he’s a religious zealot or a loyal Jedi.</p>
+<p>Or maybe it’s because Qui-Gon is a Sith.</p>
+<p>I’ll explore this idea deeper in the Qui-Gon review, but throughout PHANTOM Qui-Gon is frequently an elitist, selfish asshole. (And as we find out in a later film, Qui-Gon’s mentor is Count Dooku/Darth Tyranus, who believes Qui-Gon would have eventually joined him.) The one constant exception to this is his relationship with Anakin, especially once he starts theorizing that Anakin is the Chosen One.</p>
+<p>And what about Qui-Gon’s death? Qui-Gon is a Jedi Knight and Obi-Wan is his apprentice, yet it’s Obi-Wan who manages to kill the Sith apprentice, Darth Maul. And what’s the result of Qui-Gon’s death at Maul’s hands? He makes Obi-Wan promise to train Anakin, even though the Council has already refused to train him and frustrated Qui-Gon’s desire to train him; the Council reverses course at the end of the movie when Obi-Wan tells them he’ll train Anakin anyways because he made a death-promise to Qui-Gon. It’s a clever orchestration on Qui-Gon’s part to get the outcome he wanted and the Jedi Council did not.</p>
+<p>In fact, in the context of PHANTOM-era STAR WARS, bringing “balance to the Force” really means the return and rise of the Siths, just as much as it means their defeat in Episodes IV through VI.</p>
+<p>Qui-Gon’s rebelliousness is noted by the Jedi Council (which seems completely at odds with the Qui-Gon of the first half of the film), and the decision to take Anakin off of Tatooine ultimately leads to the creation of Darth Vader. If nothing else, Qui-Gon’s insistence is that the universe will provide for you and thus it’s not a coincidence that he and Anakin meet speaks to the idea of him being a great Sith facilitator, or perhaps even sympathizer, if not outright supporter.</p>
+<p>Qui-Gon is also willing (with only a bit of hesitancy) to allow Anakin to risk his life in the pod race, and is more than eager to gamble on the young boy, going so far as to fix Watto’s dice toss to ensure that he wins Anakin’s freedom instead of Shmi’s. He also insists on multiple occasions that “I’m not here to free slaves,” as if slavery is just something one has to accept as a function of the universe. No one was asking him to play Spartacus and lead a slave rebellion, but would it have killed him to free a mother and her son? No, he just frees one slave because it suits his purposes, and that slave just happens to grow up and help slaughter nearly every other Jedi as he helped a madman bring the universe to its knees.</p>
+<p>Thanks, Qui-Gon!</p>
+<p>Tatooine is where Anakin and Amidala meet and begin their relationship. There are moments where it is a little creepy (like when Anakin asks her if she’s an angel, and when Amidala notes that Ani misses his mother and tells him things will change when they get to Coruscant but she’ll always care for him) because the script can tell us he’s 9 and she’s 14, but it comes off much more as him being younger and her being older. Portman does have a couple moments where she really shines, though, as when she challenges Qui-Gon or begins to assert her authority at dinner with Shmi, but overall this is a performance that doesn’t work for me any more than Neeson’s performance.</p>
+<p><a href="http://atomicanxiety.files.wordpress.com/2013/12/anakin-pod-race.png"><img alt="Anakin Pod Race" class="aligncenter size-large wp-image-6793" src="http://atomicanxiety.files.wordpress.com/2013/12/anakin-pod-race.png?w=700&amp;h=297"/></a></p>
+<p>The pod race is one of the big visual spectacles of PHANTOM MENACE and it delivers plenty of excitement. There are some disappointing aspects to the pod race, but they all center around the idea of PHANTOM being a kids’ movie. For starters, all of the pod racers seem designed to replicate the bounty hunter or Mos Eisley visuals of the original trilogy, in that there’s a whole bunch of different-looking aliens thrown at us in quick succession. There’s also a two-headed announcer calling the action, who drives me batty. Their inclusion is part-comic relief, part-explaining everything in simple terms so the audience gets both a visual and oral confirmation of what’s happening. Because kids.</p>
+<p>The announcers also create a similar problem that we see with Jar Jar in the fight Battle for Naboo: in the midst of people dying, why does Lucas think we need slapstick comic relief? It creates an unpleasant disconnect between watching pod racers die and hearing yuck yucks from the moronic talking heads.</p>
+<p>Luckily, the race itself is fast, bright, and exciting, and the CGI wizards who put it together did yeoman’s work. It looks fantastic and it feels like a race. Yeah, there’s a lot of those attributes of cartoonish racing where you can stall out for thirty seconds yet still catch up to the leaders in relatively little time even without them having any mechanical issues, but the constant shifting of paddles, the phenomenal humming and whirring of the pod engines, the clanking together, the banging against canyon walls … it’s good enough to make me forget Anakin’s pack of friends, who seem to be bonded together over their collective inability to act.</p>
+<p>Tatooine is problematic in one instance, however, as this is where Lucas has decided to throw long-time fans a lot of little bones. I’m sure he thought he was being awesome by showing us Anakin building C-3PO (Anthony Daniels) and by having cameos from Jabba the Hutt, Bib Fortuna, the Jawa, and the Tusken Raiders. I know I get a quick thrill when I see them, but I think their inclusion ultimately hurts PHANTOM MENACE, as they simply reinforce what we’re not getting as opposed to adding to what we are getting.</p>
+<p>Anakin wins the pod race and earns his freedom through Qui-Gon’s bet with Watto, and everyone gets in the repaired ship and heads to Coruscant. The capital of the Republic is an awful place. We’re told the entire planet is just one big city, which makes it sound like the worst hospitable planet you could hope to visit. It’s purposely awful, though, in the sense that we have just come from the open vistas of Tatooine.</p>
+<p>There’s two tracks to follow on Coruscant, the political machinations of Senator Palpatine, and bringing Anakin before the Jedi Council. I’ve touched on both of these previously, but let me reiterate a couple things: one, Ian McDiarmid is really good at giving some gravitas to such a clumsily-written character (that Amidala cannot figure out his ruse makes her character look weaker), and two, the Jedi Council wants no part of training Anakin. Ultimately, the time spent on Coruscant feels like an elongated speed bump.</p>
+<p>But hey, if nothing else, we get two sightings that are always worth seeing: Terence Stamp and E.T.</p>
+<div class="wp-caption aligncenter" id="attachment_6780" style="width: 555px"><a href="http://atomicanxiety.files.wordpress.com/2013/12/et-in-star-wars.png"><img alt="E.T.s people in the Republic Senate." class="size-full wp-image-6780" src="http://atomicanxiety.files.wordpress.com/2013/12/et-in-star-wars.png?w=700"/></a><p class="wp-caption-text">E.T.s people in the Republic Senate.</p></div>
+<p>After the disappointment of Coruscant (the Senate won’t help Naboo and the Jedi Council won’t train Anakin), it’s back to Naboo for the big finish. Boss Nass agrees to let Gungans die to save the planet and we have to watch the dreadful comedic antics of Jar Jar in the middle of massive battle where people are dying left and right. The rest of this big final sequence offers plenty of good, though, including one of the best moments in the entire STAR WARS saga. It comes when Amidala, Qui-Gon, Obi-Wan, Panaka, and the rest of Amidala’s troops are leaving the hangar. Anakin and R2-D2 have just taken refuge in a fighter, and the group is in a hurry to leave. They reach the door back into the palace …</p>
+<p>And Darth Maul is standing there, alone, waiting for them.</p>
+<p>“We’ll handle this,” Qui-Gon grumbles.</p>
+<p>“We’ll take the long way,” Amidala says and her entire group bails. I’ll say this for Darth Maul – he might look like a silly git, but dang if he didn’t just make an entire group of soldiers poop their pants.</p>
+<p>Add this to the “Qui-Gon is a Sith Sympathizer” file, though, as he claims Maul for him and Obi-Wan, thus sending away a whole mess of people with laser guns. Now, I know the Jedi can deflect laser fire with their lightsabers, but can they deflect laser fire from ten separate shooters? Why not tell everyone to shoot and then do his little hand waving bit to scatter the shots around Maul’s body?</p>
+<p>I mean, yes, Qui-Gon doesn’t do that because the story wants to have a big, final lightsaber duel, and I’m thankful for that. The Qui-Gon/Obi-Wan vs. Maul duel is fantastic: fierce, aggressive, violent. Lucas can’t help but insert a plot contrivance with the red energy doors that separate the three combatants during their fight, but at least it’s a plot contrivance that enhances the tension of the screen. There’s several great moments here: Qui-Gon turning off his saber to kneel in calm silence as Maul paces on the other side of the door, Obi-Wan trapped down at the other end and racing forward, getting to the final door only to have it close on him, forcing him to watch Maul stab Qui-Gon through the gut, and Obi-Wan calling Qui-Gon’s lightsaber to him before he cuts Maul in half. It’s a fantastic action sequence. One might wonder why Obi-Wan doesn’t do the super speed trick he pulled at the beginning of the movie when he really needs it here at the end of the movie, but John Williams’ score enthusiastically commands you, “You do not need to ask that question” so you don’t.</p>
+<p>The music for this final lightsaber duel is called “Duel of the Fates” and it’s as epic and awesome as anything else Williams created for STAR WARS. Williams music is integral to the STAR WARS experience, of course, and it still sounds as vibrant as ever.</p>
+<div class="wp-caption aligncenter" id="attachment_6802" style="width: 555px"><a href="http://atomicanxiety.files.wordpress.com/2013/12/duel-of-the-fates.png"><img alt="Duel of the Fates: Qui-Gon &amp; Obi-Wan vs. Darth Maul on Naboo." class="size-full wp-image-6802" src="http://atomicanxiety.files.wordpress.com/2013/12/duel-of-the-fates.png?w=700"/></a><p class="wp-caption-text">Duel of the Fates: Qui-Gon &amp; Obi-Wan vs. Darth Maul on Naboo.</p></div>
+<p>There’s a great space battle sequence that sees Anakin taking out the Federation’s command ship from the inside, and it produces one of the great scenes in the movie, when Anakin’s ship exists the Federation ship just as it explodes and all the Naboo pilots cheer him. It is, of course, reminiscent of the end of A NEW HOPE, but it’s a darn good sequence in its own right.</p>
+<p>The end of the film gets a bit cramped, as Lucas rushes in as much ominous foreshadowing as possible. We’ve got Obi-Wan being elevated to Jedi Knight and allowed to train the dangerous Anakin, Qui-Gon and the other deceased Naboo and Gungan fighters getting the funeral pyre off a waterfall treatment, Mace and Yoda talking about Sith masters and apprentices, Obi-Wan promising Anakin he’ll be a Jedi someday, and (harkening back to the original film) a big celebration at the end, with Boss Nass getting a big glowing bowling ball and declaring peace for Naboo.</p>
+<p>Whew.</p>
+<p>There is a lot going on in PHANTOM MENACE, and while it is everyone’s right to dismiss it as a piece of crap if they want, let’s stop with this idea that George Lucas has somehow ruined anyone’s childhood because he made a bad movie. I would not even consider PHANTOM MENACE a bad movie, at this point, though it’s not a great movie, either. I wonder if kids, watching the six films by starting with PHANTOM, won’t be disappointed with the original trilogy because it’s less shiny. Movies may be locked in place (or “locked” in place, when it comes to the eternally-tinkering Lucas) but we are not. I was 4 when STAR WARS was released and I’m 40 now. That kid and this man have different ways of looking at the world, and it’s a nice surprise when the 40-year old me appreciates a film far more than the 26-year old me did, and while PHANTOM MENACE certainly does not recapture the magic of the 4-year old me sitting in the back seat of a Granada, jamming popcorn and Coke in my face, and staring up at the magically huge screen of a drive-in, there’s a lot here to like. The film’s crimes still remain (Jar Jar’s slapstick, poor acting from the leads, bad pacing), but the disappointment I felt in 1999 is gone. Where my focus in the past was on what the film did wrong, I am content now to be won over by what it does right.</p>
+<p>———-</p>
+<p>Over the next few days, I’ll be doing individual reaction pieces for several of the characters here. I’ll do them as long as I have something interesting to say, and even after 6,000 words here, there’s plenty more to unpack. I will certainly be writing individual reactions for Jar Jar, Qui-Gon, and Anakin, and likely Amidala and Obi-Wan, too. Beyond that, I can’t say. You’ll know when I’m done when the EPISODE II review goes live.</p>
+<p>———</p>
+<p><a href="http://atomicanxiety.files.wordpress.com/2013/03/haunting-of-kraken-moor-cover.jpg"><img alt="Haunting of Kraken Moor Cover" class="aligncenter size-full wp-image-6173" src="http://atomicanxiety.files.wordpress.com/2013/03/haunting-of-kraken-moor-cover.jpg?w=700"/></a></p>
+<p><strong>When he’s not writing about movies, Mark Bousquet is doing some writing himself. He is <a href="http://atomicanxiety.wordpress.com/original-fiction/mark-bousquets-published-work/">the author of multiple novels and collections</a>, including the horror novel <a href="http://www.amazon.com/Haunting-Kraken-Moor-Mark-Bousquet/dp/1482794861"><em>The Haunting of Kraken Moor</em></a>, <em><a href="http://www.amazon.com/Gunfighter-Gothic-Volume-Blood-Universe/dp/0615650465">Gunfighter Gothic</a>, <a href="http://www.amazon.com/Stuffed-Animals-Hire-Christmas-Operation/dp/1481213865">Stuffed Animals for Hire</a>, <a href="http://www.amazon.com/Dreamers-Syndrome-Special-Edition-World/dp/1461108276">Dreamer’s Syndrome</a>, <a href="http://www.amazon.com/Harpsichord-Wormhole-Witches-Mark-Bousquet/dp/1460923111">Harpsichord and the Wormhole Witches</a></em>, and <a href="http://www.amazon.com/Adventures-Five-The-Coming-Frost/dp/1453682333"><em>Adventures of the Five</em></a>. He has also published a review collection entitled <a href="http://www.amazon.com/Atomic-Reactions-Marvel-Comics-Film/dp/1480194468"><em>Marvel Comics on Film</em></a>, which covers every cinematic and TV movie based on a superhero from the House of Ideas. A complete listing of all his work can be found <a href="http://www.amazon.com/Mark-Bousquet/e/B004WWUTNU">at his Amazon author page</a>.</strong></p>
+<div class="geo geo-post" id="geo-post-6762" style="display: none">
+<span class="latitude">39.529633</span>
+<span class="longitude">-119.813803</span>
+</div>
+<div class="wpcnt">
+<div class="wpa">
+<a class="wpa-about" href="http://wordpress.com/about-these-ads/" rel="nofollow">About these ads</a>
+
+</div>
+</div>
+
+<div class="sharedaddy sd-like-enabled sd-sharing-enabled" id="jp-post-flair"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/"></div></div></li><li class="share-facebook"><div class="like_button"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fatomicanxiety.com%2F2013%2F12%2F27%2Fstar-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality%2F&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;height=21&amp;locale=en_US&amp;width=90" style="border:none; overflow:hidden; width:96px; height:21px;"></iframe></div></li><li class="share-twitter"><div class="twitter_button"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwp.me%2FpVu9l-1L4&amp;counturl=http%3A%2F%2Fatomicanxiety.com%2F2013%2F12%2F27%2Fstar-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality%2F&amp;count=horizontal&amp;text=STAR%20WARS%20EPISODE%20I%3A%20THE%20PHANTOM%20MENACE%3A%20Your%20Focus%20Determines%20Your%20Reality%3A&amp;via=mark_bousquet&amp;related=wordpressdotcom" style="width:101px; height:20px;"></iframe></div></li><li class="share-email"><a class="share-email sd-button" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/?share=email" rel="nofollow" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-stumbleupon"><div class="stumbleupon_button"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.stumbleupon.com/badge/embed/1/?url=http%3A%2F%2Fatomicanxiety.com%2F2013%2F12%2F27%2Fstar-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality%2F&amp;title=STAR%20WARS%20EPISODE%20I%3A%20THE%20PHANTOM%20MENACE%3A%20Your%20Focus%20Determines%20Your%20Reality" style="border:none; overflow:hidden; width:74px; height: 18px;"></iframe></div></li><li class="share-tumblr"><a href="http://www.tumblr.com/share/link/?url=http%3A%2F%2Fatomicanxiety.com%2F2013%2F12%2F27%2Fstar-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality%2F&amp;name=STAR%20WARS%20EPISODE%20I%3A%20THE%20PHANTOM%20MENACE%3A%20Your%20Focus%20Determines%20Your%20Reality" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:62px; height:20px; background:url('//platform.tumblr.com/v1/share_2.png') top left no-repeat transparent;" target="" title="Share on Tumblr">Share on Tumblr</a></li><li class="share-pinterest"><div class="pinterest_button"><a data-pin-config="beside" data-pin-do="buttonBookmark" href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fatomicanxiety.com%2F2013%2F12%2F27%2Fstar-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality%2F&amp;description=STAR%20WARS%20EPISODE%20I%3A%20THE%20PHANTOM%20MENACE%3A%20Your%20Focus%20Determines%20Your%20Reality"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png"/></a></div></li><li class="share-pocket"><div class="pocket_button"><a class="pocket-btn" data-lang="en" data-pocket-count="horizontal" data-save-url="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/" href="https://getpocket.com/save">Pocket</a></div></li><li class="share-reddit"><div class="reddit_button"><iframe frameborder="0" height="22" scrolling="no" src="http://www.reddit.com/static/button/button1.html?width=120&amp;url=http%3A%2F%2Fatomicanxiety.com%2F2013%2F12%2F27%2Fstar-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality%2F&amp;title=STAR%20WARS%20EPISODE%20I%3A%20THE%20PHANTOM%20MENACE%3A%20Your%20Focus%20Determines%20Your%20Reality" width="120"></iframe></div></li><li class="share-print"><a class="share-print sd-button" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/#print" rel="nofollow" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div><div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded" data-name="like-post-frame-13700595-6762-54d9457da40f7" data-src="//widgets.wp.com/likes/#blog_id=13700595&amp;post_id=6762&amp;origin=atomicanxiety.wordpress.com&amp;obj_id=13700595-6762-54d9457da40f7" id="like-post-wrapper-13700595-6762-54d9457da40f7"><h3 class="sd-title">Like this:</h3><div class="likes-widget-placeholder post-likes-widget-placeholder" style="height:55px"><span class="button"><span>Like</span></span> <span class="loading">Loading...</span></div><span class="sd-text-color"></span><a class="sd-link-color"></a></div></div> </div><!-- .entry-content -->
+<footer class="entry-meta">
+<a class="entry-date" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/">December 27, 2013</a> in <a href="http://atomicanxiety.com/category/movies/science-fiction/" rel="category tag">Science Fiction</a>, <a href="http://atomicanxiety.com/category/movies/star-wars/" rel="category tag">Star Wars</a>. Tags: <a href="http://atomicanxiety.com/tag/ahmed-best/" rel="tag">Ahmed Best</a>, <a href="http://atomicanxiety.com/tag/anthony-daniels/" rel="tag">Anthony Daniels</a>, <a href="http://atomicanxiety.com/tag/brian-blessed/" rel="tag">Brian Blessed</a>, <a href="http://atomicanxiety.com/tag/dominic-west/" rel="tag">Dominic West</a>, <a href="http://atomicanxiety.com/tag/ewan-mcgregor/" rel="tag">Ewan McGregor</a>, <a href="http://atomicanxiety.com/tag/frank-oz/" rel="tag">Frank Oz</a>, <a href="http://atomicanxiety.com/tag/george-lucas/" rel="tag">George Lucas</a>, <a href="http://atomicanxiety.com/tag/hugh-quarshie/" rel="tag">Hugh Quarshie</a>, <a href="http://atomicanxiety.com/tag/ian-mcdiarmid/" rel="tag">Ian McDiarmid</a>, <a href="http://atomicanxiety.com/tag/jake-lloyd/" rel="tag">Jake Lloyd</a>, <a href="http://atomicanxiety.com/tag/keira-knightley/" rel="tag">Keira Knightley</a>, <a href="http://atomicanxiety.com/tag/kenny-baker/" rel="tag">Kenny Baker</a>, <a href="http://atomicanxiety.com/tag/liam-neeson/" rel="tag">Liam Neeson</a>, <a href="http://atomicanxiety.com/tag/natalie-portman/" rel="tag">Natalie Portman</a>, <a href="http://atomicanxiety.com/tag/oliver-ford-davies/" rel="tag">Oliver Ford Davies</a>, <a href="http://atomicanxiety.com/tag/pernilla-august/" rel="tag">Pernilla August</a>, <a href="http://atomicanxiety.com/tag/peter-serafinowicz/" rel="tag">Peter Serafinowicz</a>, <a href="http://atomicanxiety.com/tag/ray-park/" rel="tag">Ray Park</a>, <a href="http://atomicanxiety.com/tag/samuel-l-jackson/" rel="tag">Samuel L. Jackson</a>, <a href="http://atomicanxiety.com/tag/sofia-coppola/" rel="tag">Sofia Coppola</a>, <a href="http://atomicanxiety.com/tag/star-wars/" rel="tag">Star Wars</a>, <a href="http://atomicanxiety.com/tag/terence-stamp/" rel="tag">Terence Stamp</a>, <a href="http://atomicanxiety.com/tag/the-phantom-menace/" rel="tag">The Phantom Menace</a>, <a href="http://atomicanxiety.com/tag/warwick-davis/" rel="tag">Warwick Davis.</a>
+</footer><!-- .entry-meta -->
+</article><!-- #post-## -->
+<div class="related-content">
+<h3 class="related-content-title">Related posts</h3>
+<article class="post-8317 post type-post status-publish format-standard has-post-thumbnail hentry category-science-fiction tag-aaron-eckhart tag-bill-nighy tag-frankenstein tag-jai-courtney tag-kevin-grevioux tag-miranda-otto tag-socratis-otto tag-stuart-beattie tag-yvonne-strahovski" id="post-8317">
+<div class="entry-thumbnail">
+<a href="http://atomicanxiety.com/2014/10/14/i-frankenstein-im-a-dozen-parts-of-eight-different-corpses/"><img alt="I Frankenstein" class="attachment-expound-mini wp-post-image" height="50" src="https://atomicanxiety.files.wordpress.com/2014/09/i-frankenstein.jpg?w=50&amp;h=50&amp;crop=1" width="50"/></a>
+</div>
+<header class="entry-header">
+<h3 class="entry-title"><a href="http://atomicanxiety.com/2014/10/14/i-frankenstein-im-a-dozen-parts-of-eight-different-corpses/" rel="bookmark">I, FRANKENSTEIN: I’m A Dozen Parts of Eight Different Corpses</a></h3>
+</header><!-- .entry-header -->
+</article>
+<article class="post-7870 post type-post status-publish format-standard has-post-thumbnail hentry category-science-fiction category-superhero tag-bradley-cooper tag-chris-pratt tag-dave-bautista tag-djimon-hounsou tag-guardians-of-the-galaxy tag-karen-gillan tag-lee-pace tag-marvel tag-michael-rooker tag-vin-diesel tag-zoe-saldana" id="post-7870">
+<div class="entry-thumbnail">
+<a href="http://atomicanxiety.com/2014/08/02/guardians-of-the-galaxy-aint-no-thing-like-me-except-me/"><img alt="guardians-of-the-galaxy-wide.jpg" class="attachment-expound-mini wp-post-image" height="50" src="https://atomicanxiety.files.wordpress.com/2014/08/guardians-of-the-galaxy-wide.jpg?w=50&amp;h=50&amp;crop=1" width="50"/></a>
+</div>
+<header class="entry-header">
+<h3 class="entry-title"><a href="http://atomicanxiety.com/2014/08/02/guardians-of-the-galaxy-aint-no-thing-like-me-except-me/" rel="bookmark">GUARDIANS OF THE GALAXY: Ain’t No Thing Like Me Except Me</a></h3>
+</header><!-- .entry-header -->
+</article>
+<article class="post-7819 post type-post status-publish format-standard has-post-thumbnail hentry category-science-fiction tag-bradford-dillman tag-don-taylor tag-eric-braeden tag-john-randolph tag-kim-hunter tag-m-emmet-walsh tag-natalie-trundy tag-planet-of-the-apes tag-ricardo-montalban tag-roddy-mcdowall tag-sal-mineo" id="post-7819">
+<div class="entry-thumbnail">
+<a href="http://atomicanxiety.com/2014/07/18/escape-from-the-planet-of-the-apes-your-better-self/"><img alt="Escape from the Planet of the Apes Poster" class="attachment-expound-mini wp-post-image" height="50" src="https://atomicanxiety.files.wordpress.com/2014/07/escape-from-the-planet-of-the-apes-poster.jpg?w=50&amp;h=50&amp;crop=1" width="50"/></a>
+</div>
+<header class="entry-header">
+<h3 class="entry-title"><a href="http://atomicanxiety.com/2014/07/18/escape-from-the-planet-of-the-apes-your-better-self/" rel="bookmark">ESCAPE FROM THE PLANET OF THE APES: Your Better Self</a></h3>
+</header><!-- .entry-header -->
+</article>
+</div>
+<nav class="navigation-post" id="nav-below" role="navigation">
+<h1 class="screen-reader-text">Post navigation</h1>
+<div class="nav-previous"><a href="http://atomicanxiety.com/2013/12/26/star-wars-at-long-last-the-white-whale/" rel="prev"><span class="meta-nav">←</span> STAR WARS: At Long Last, the White Whale</a></div> <div class="nav-next"><a href="http://atomicanxiety.com/2014/01/01/lists-are-stupid-the-top-10-movies-of-2013-that-i-havent-watched/" rel="next">LISTS ARE STUPID: The Top 10 Movies of 2013 That I Haven’t Watched <span class="meta-nav">→</span></a></div>
+</nav><!-- #nav-below -->
+<div class="comments-area" id="comments">
+<h2 class="comments-title">
+			10 thoughts on “<span>STAR WARS EPISODE I: THE PHANTOM MENACE: Your Focus Determines Your Reality</span>”		</h2>
+<ol class="comment-list">
+<li class="comment byuser comment-author-percivalconstantine even thread-even depth-1 highlander-comment" id="li-comment-7325">
+<article class="comment" id="comment-7325">
+<footer>
+<div class="comment-author vcard">
+<img alt="" class="avatar avatar-40" height="40" src="http://2.gravatar.com/avatar/861cefdc51577b16dd80aade402e2fb4?s=40&amp;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=PG" width="40"/> <cite class="fn"><a class="url" href="http://percivalconstantine.wordpress.com" rel="external nofollow">Percival Constantine</a></cite> <span class="says">says:</span> </div><!-- .comment-author .vcard -->
+<div class="comment-meta commentmetadata">
+<a href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/#comment-7325"><time datetime="2013-12-27T21:46:53+00:00">
+					December 27, 2013 at 9:46 pm					</time></a>
+</div><!-- .comment-meta .commentmetadata -->
+</footer>
+<div class="comment-content"><p>I still think Phantom Menace is a terrible movie, but I agree with you about people saying that Lucas ruined anyone’s childhood (sidenote: I want the phrase “raped my childhood” to be banned from the English language). The Qui-Gon stuff you came up with is really interesting, and it would have made the movie a whole lot better if he did turn out to be a Sith sympathizer (and maybe instead of Anakin bringing balance to the Force in the way we think as good, he actually wanted the balance to shift to the Dark Side). </p>
+<p>I do feel bad for Jake Lloyd, though. This movie turned his life into a living hell and he faced endless amounts of bullying for it. But I don’t blame Lucas for that—I blame dickhead fans.</p>
+<p class="comment-likes comment-not-liked" data-liked="comment-not-liked" id="comment-like-7325"><a class="comment-like-link needs-login" data-blog="13700595" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/?like_comment=7325&amp;_wpnonce=94baba2337" rel="nofollow"><span>Like</span></a><span class="comment-like-feedback" id="comment-like-count-7325">Like</span></p>
+</div>
+<div class="reply">
+</div><!-- .reply -->
+</article><!-- #comment-## -->
+<ul class="children">
+<li class="comment byuser comment-author-atomicanxiety bypostauthor odd alt depth-2 highlander-comment" id="li-comment-7326">
+<article class="comment" id="comment-7326">
+<footer>
+<div class="comment-author vcard">
+<img alt="" class="avatar avatar-40" height="40" src="http://2.gravatar.com/avatar/853b4f7bd9297ffc5a4f0aa9be8b169d?s=40&amp;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=PG" width="40"/> <cite class="fn"><a class="url" href="http://atomicanxiety.wordpress.com" rel="external nofollow">Mark Bousquet</a></cite> <span class="says">says:</span> </div><!-- .comment-author .vcard -->
+<div class="comment-meta commentmetadata">
+<a href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/#comment-7326"><time datetime="2013-12-27T21:59:51+00:00">
+					December 27, 2013 at 9:59 pm					</time></a>
+</div><!-- .comment-meta .commentmetadata -->
+</footer>
+<div class="comment-content"><p>Yup. Jake Lloyd gave a bad performance but he’s a kid. Obviously Lucas was okay with the performance, and anyone giving Lloyd eternal crap over it needs better priorities. Too much vitriol over a movie.</p>
+<p>(And sorry that you read a rough draft – I hit Publish instead of Save on accident.)</p>
+<p class="comment-likes comment-not-liked" data-liked="comment-not-liked" id="comment-like-7326"><a class="comment-like-link needs-login" data-blog="13700595" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/?like_comment=7326&amp;_wpnonce=9c554945b8" rel="nofollow"><span>Like</span></a><span class="comment-like-feedback" id="comment-like-count-7326">Like</span></p>
+</div>
+<div class="reply">
+</div><!-- .reply -->
+</article><!-- #comment-## -->
+<ul class="children">
+<li class="comment byuser comment-author-percivalconstantine even depth-3 highlander-comment" id="li-comment-7327">
+<article class="comment" id="comment-7327">
+<footer>
+<div class="comment-author vcard">
+<img alt="" class="avatar avatar-40" height="40" src="http://2.gravatar.com/avatar/861cefdc51577b16dd80aade402e2fb4?s=40&amp;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=PG" width="40"/> <cite class="fn"><a class="url" href="http://percivalconstantine.wordpress.com" rel="external nofollow">Percival Constantine</a></cite> <span class="says">says:</span> </div><!-- .comment-author .vcard -->
+<div class="comment-meta commentmetadata">
+<a href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/#comment-7327"><time datetime="2013-12-27T22:05:05+00:00">
+					December 27, 2013 at 10:05 pm					</time></a>
+</div><!-- .comment-meta .commentmetadata -->
+</footer>
+<div class="comment-content"><p>You got me to think of some aspect of TPM in a good way. I’d say that’s a damn good job for a rough draft.</p>
+<p class="comment-likes comment-not-liked" data-liked="comment-not-liked" id="comment-like-7327"><a class="comment-like-link needs-login" data-blog="13700595" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/?like_comment=7327&amp;_wpnonce=b21a6dd3e6" rel="nofollow"><span>Like</span></a><span class="comment-like-feedback" id="comment-like-count-7327">Like</span></p>
+</div>
+<div class="reply">
+</div><!-- .reply -->
+</article><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-7329">
+<article class="comment" id="comment-7329">
+<footer>
+<div class="comment-author vcard">
+<img alt="" class="avatar avatar-40" height="40" src="http://i1.wp.com/lh3.googleusercontent.com/-yzfAZb9sR88/AAAAAAAAAAI/AAAAAAAAAFY/FR6rYDFVGpw/photo.jpg?resize=40%2C40" width="40"/> <cite class="fn"><a class="url" href="https://plus.google.com/102798305438225503453" rel="external nofollow">Brad Mengel</a></cite> <span class="says">says:</span> </div><!-- .comment-author .vcard -->
+<div class="comment-meta commentmetadata">
+<a href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/#comment-7329"><time datetime="2013-12-28T01:27:23+00:00">
+					December 28, 2013 at 1:27 am					</time></a>
+</div><!-- .comment-meta .commentmetadata -->
+</footer>
+<div class="comment-content"><p>When I went and saw this in the cinemas back in 1999 my gripe was for all the marketing which heavily featured Darth Maul – he wasn’t in this film very much.  Maul was set up as the new Darth Vader and he appears for like 9 minutes and then dies so he can’t even return for the sequels.</p>
+<p class="comment-likes comment-not-liked" data-liked="comment-not-liked" id="comment-like-7329"><a class="comment-like-link needs-login" data-blog="13700595" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/?like_comment=7329&amp;_wpnonce=0b5a031a02" rel="nofollow"><span>Like</span></a><span class="comment-like-feedback" id="comment-like-count-7329">Like</span></p>
+</div>
+<div class="reply">
+</div><!-- .reply -->
+</article><!-- #comment-## -->
+<ul class="children">
+<li class="comment byuser comment-author-atomicanxiety bypostauthor even depth-2 highlander-comment" id="li-comment-7330">
+<article class="comment" id="comment-7330">
+<footer>
+<div class="comment-author vcard">
+<img alt="" class="avatar avatar-40" height="40" src="http://2.gravatar.com/avatar/853b4f7bd9297ffc5a4f0aa9be8b169d?s=40&amp;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=PG" width="40"/> <cite class="fn"><a class="url" href="http://atomicanxiety.wordpress.com" rel="external nofollow">Mark Bousquet</a></cite> <span class="says">says:</span> </div><!-- .comment-author .vcard -->
+<div class="comment-meta commentmetadata">
+<a href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/#comment-7330"><time datetime="2013-12-28T03:25:10+00:00">
+					December 28, 2013 at 3:25 am					</time></a>
+</div><!-- .comment-meta .commentmetadata -->
+</footer>
+<div class="comment-content"><p>Very true, Brad. That’s something I want to touch on when I write the Darth Maul reaction – we were sold this guy as the new Big Bad and then he’s offed after his second fight scene. Total letdown.</p>
+<p class="comment-likes comment-not-liked" data-liked="comment-not-liked" id="comment-like-7330"><a class="comment-like-link needs-login" data-blog="13700595" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/?like_comment=7330&amp;_wpnonce=52e4d5d376" rel="nofollow"><span>Like</span></a><span class="comment-like-feedback" id="comment-like-count-7330">Like</span></p>
+</div>
+<div class="reply">
+</div><!-- .reply -->
+</article><!-- #comment-## -->
+</li><!-- #comment-## -->
+<li class="comment byuser comment-author-percivalconstantine odd alt depth-2 highlander-comment" id="li-comment-7331">
+<article class="comment" id="comment-7331">
+<footer>
+<div class="comment-author vcard">
+<img alt="" class="avatar avatar-40" height="40" src="http://2.gravatar.com/avatar/861cefdc51577b16dd80aade402e2fb4?s=40&amp;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=PG" width="40"/> <cite class="fn"><a class="url" href="http://percivalconstantine.wordpress.com" rel="external nofollow">Percival Constantine</a></cite> <span class="says">says:</span> </div><!-- .comment-author .vcard -->
+<div class="comment-meta commentmetadata">
+<a href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/#comment-7331"><time datetime="2013-12-28T05:38:45+00:00">
+					December 28, 2013 at 5:38 am					</time></a>
+</div><!-- .comment-meta .commentmetadata -->
+</footer>
+<div class="comment-content"><p>Agreed. It was such an anti-climatic let-down.</p>
+<p class="comment-likes comment-not-liked" data-liked="comment-not-liked" id="comment-like-7331"><a class="comment-like-link needs-login" data-blog="13700595" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/?like_comment=7331&amp;_wpnonce=84beb7c229" rel="nofollow"><span>Like</span></a><span class="comment-like-feedback" id="comment-like-count-7331">Like</span></p>
+</div>
+<div class="reply">
+</div><!-- .reply -->
+</article><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment byuser comment-author-hamlettethedame even thread-even depth-1 highlander-comment" id="li-comment-7334">
+<article class="comment" id="comment-7334">
+<footer>
+<div class="comment-author vcard">
+<img alt="" class="avatar avatar-40" height="40" src="http://2.gravatar.com/avatar/2b4f81175c598747cfd0992af3a38ba4?s=40&amp;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=PG" width="40"/> <cite class="fn"><a class="url" href="http://www.hamlette.blogspot.com" rel="external nofollow">hamlettethedame</a></cite> <span class="says">says:</span> </div><!-- .comment-author .vcard -->
+<div class="comment-meta commentmetadata">
+<a href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/#comment-7334"><time datetime="2013-12-28T19:33:52+00:00">
+					December 28, 2013 at 7:33 pm					</time></a>
+</div><!-- .comment-meta .commentmetadata -->
+</footer>
+<div class="comment-content"><p>I saw this 4 times in the theater.  Once with my family, once with friends, once with just my brother, and once with this guy I so badly wanted to be dating.  And I really enjoyed it all 4 times.  It’s not great… but it’s fun.  And fun is what I was seeking that summer.  I think I’ve seen it maybe once since then.  I have a bit of nostalgic affection for it, but not enough to want to own my own copy.</p>
+<p>This is another of your wonderful, balanced, thought-provoking reviews.  I thank you.</p>
+<p>(I might have to watch it again now, to see if the Qui-Gon-is-a-Sith-sympathizer thing works for me.)</p>
+<p class="comment-likes comment-not-liked" data-liked="comment-not-liked" id="comment-like-7334"><a class="comment-like-link needs-login" data-blog="13700595" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/?like_comment=7334&amp;_wpnonce=7f4730fc28" rel="nofollow"><span>Like</span></a><span class="comment-like-feedback" id="comment-like-count-7334">Like</span></p>
+</div>
+<div class="reply">
+</div><!-- .reply -->
+</article><!-- #comment-## -->
+<ul class="children">
+<li class="comment byuser comment-author-atomicanxiety bypostauthor odd alt depth-2 highlander-comment" id="li-comment-7351">
+<article class="comment" id="comment-7351">
+<footer>
+<div class="comment-author vcard">
+<img alt="" class="avatar avatar-40" height="40" src="http://2.gravatar.com/avatar/853b4f7bd9297ffc5a4f0aa9be8b169d?s=40&amp;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=PG" width="40"/> <cite class="fn"><a class="url" href="http://atomicanxiety.wordpress.com" rel="external nofollow">Mark Bousquet</a></cite> <span class="says">says:</span> </div><!-- .comment-author .vcard -->
+<div class="comment-meta commentmetadata">
+<a href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/#comment-7351"><time datetime="2014-01-01T23:11:31+00:00">
+					January 1, 2014 at 11:11 pm					</time></a>
+</div><!-- .comment-meta .commentmetadata -->
+</footer>
+<div class="comment-content"><p>Thanks, Hamlette! And you’re very welcome. Love the story on why you saw it so many times. <span class="wp-smiley wp-emoji wp-emoji-smile" title=":)">:)</span></p>
+<p>Someone on Facebook mentioned that Qui-Gon as a Sith doesn’t work for him, but Qui-Gon as a True Neutral does. That sounds more right to me, though I would argue that since the deck is stashed so heavily to the Jedi at the time of this story that anyone looking to pull the balance towards the middle is, in effect, doing the Sith’s work for them.</p>
+<p class="comment-likes comment-not-liked" data-liked="comment-not-liked" id="comment-like-7351"><a class="comment-like-link needs-login" data-blog="13700595" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/?like_comment=7351&amp;_wpnonce=fa498dc356" rel="nofollow"><span>Like</span></a><span class="comment-like-feedback" id="comment-like-count-7351">Like</span></p>
+</div>
+<div class="reply">
+</div><!-- .reply -->
+</article><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment byuser comment-author-derrickferguson even thread-odd thread-alt depth-1 highlander-comment" id="li-comment-7336">
+<article class="comment" id="comment-7336">
+<footer>
+<div class="comment-author vcard">
+<img alt="" class="avatar avatar-40" height="40" src="http://2.gravatar.com/avatar/bd8947c7d742ea23cba01a29589bcba9?s=40&amp;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=PG" width="40"/> <cite class="fn"><a class="url" href="http://derricklferguson.wordpress.com" rel="external nofollow">Derrick</a></cite> <span class="says">says:</span> </div><!-- .comment-author .vcard -->
+<div class="comment-meta commentmetadata">
+<a href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/#comment-7336"><time datetime="2013-12-29T19:40:37+00:00">
+					December 29, 2013 at 7:40 pm					</time></a>
+</div><!-- .comment-meta .commentmetadata -->
+</footer>
+<div class="comment-content"><p>Here’s the problem with THE PHANTOM MENACE (as well as the other two films int he prequel trilogy) in nutshell: George Lucas. He’s a fantastic idea man and technologist who finds exciting ways to put the images in his head onscreen. But he hates writing and directing. He’s said so himself in several interviews that the only part of moviemaking that he enjoys is being in the editing room.</p>
+<p>He’s not known in the business as being an ‘actor’s director’ which was the problem Carrie Fisher and Mark Hamill had with him. Hamill complained that during the filming of the original STAR WARS that most of his direction came through assistant directors and not Lucas. A situation that was extremely frustrating for him, being a fledgling actor at all. And Carrie Fisher has said that Lucas simply isn’t interested in working with actors.</p>
+<p>And that is why we get such blah performances out of everybody as Mark points out. Lucas simply is more interested in spectacle than honest, sincere performances and it shows. One gets the feeling he was satisfied with the first or second take from his actors and moved on.</p>
+<p>And I think his killing of Darth Maul is a blatant example of how poor George Lucas’ instincts as a writer are. Any writer worth his keyboard knows you don’t create such a cool bad guy with a visual like that and then kill him off in the first movie.</p>
+<p>As for Jar-Jar…y’know, I actually think I like him (and you have no idea how much heat I catch from other black people for that) because I think he shows that not everybody in the Star Wars Universe is a badass or cool. The other Gungans are shown to be rather heroic and brave in battle so Jar-Jar isn’t typical of his race. He’s like the Jerry Lewis or Bob Hope of the Star Wars Universe. That’s how I see him, anyway.</p>
+<p class="comment-likes comment-not-liked" data-liked="comment-not-liked" id="comment-like-7336"><a class="comment-like-link needs-login" data-blog="13700595" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/?like_comment=7336&amp;_wpnonce=7fecb14147" rel="nofollow"><span>Like</span></a><span class="comment-like-feedback" id="comment-like-count-7336">Like</span></p>
+</div>
+<div class="reply">
+</div><!-- .reply -->
+</article><!-- #comment-## -->
+<ul class="children">
+<li class="comment byuser comment-author-atomicanxiety bypostauthor odd alt depth-2 highlander-comment" id="li-comment-7350">
+<article class="comment" id="comment-7350">
+<footer>
+<div class="comment-author vcard">
+<img alt="" class="avatar avatar-40" height="40" src="http://2.gravatar.com/avatar/853b4f7bd9297ffc5a4f0aa9be8b169d?s=40&amp;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=PG" width="40"/> <cite class="fn"><a class="url" href="http://atomicanxiety.wordpress.com" rel="external nofollow">Mark Bousquet</a></cite> <span class="says">says:</span> </div><!-- .comment-author .vcard -->
+<div class="comment-meta commentmetadata">
+<a href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/#comment-7350"><time datetime="2014-01-01T23:06:18+00:00">
+					January 1, 2014 at 11:06 pm					</time></a>
+</div><!-- .comment-meta .commentmetadata -->
+</footer>
+<div class="comment-content"><p>You’re exactly right with Lucas. I watched the first 45 minutes or so of the director’s commentary and he’s far more interested with the tech than the story. </p>
+<p>And I like the idea of Jar Jar, but I’m not a huge fan of how he’s used because he takes almost all the pressure of providing levity in the movie.</p>
+<p class="comment-likes comment-not-liked" data-liked="comment-not-liked" id="comment-like-7350"><a class="comment-like-link needs-login" data-blog="13700595" href="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/?like_comment=7350&amp;_wpnonce=242bd37ba6" rel="nofollow"><span>Like</span></a><span class="comment-like-feedback" id="comment-like-count-7350">Like</span></p>
+</div>
+<div class="reply">
+</div><!-- .reply -->
+</article><!-- #comment-## -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .comment-list -->
+<p class="no-comments">Comments are closed.</p>
+</div><!-- #comments -->
+</div><!-- #content -->
+</div><!-- #primary -->
+<div class="widget-area" id="secondary" role="complementary">
+<aside class="widget widget_nav_menu" id="nav_menu-7"><h1 class="widget-title">The Collection Box: Old School Sci-Fi</h1><div class="menu-the-collection-box-old-school-sci-fi-container"><ul class="menu" id="menu-the-collection-box-old-school-sci-fi"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8102" id="menu-item-8102"><a href="http://atomicanxiety.com/2010/11/08/20000-leagues-under-the-sea/">20,000 Leagues Under the Sea</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8101" id="menu-item-8101"><a href="http://atomicanxiety.com/2010/07/30/barbarella-so-good-she-makes-the-matmos-vomit/">Barbarella</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8104" id="menu-item-8104"><a href="http://atomicanxiety.com/2010/09/13/fantastic-voyage-let-me-know-when-we-pass-the-soul/">Fantastic Voyage</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8105" id="menu-item-8105"><a href="http://atomicanxiety.com/2010/09/07/forbidden-planet-the-lord-sure-makes-some-beautiful-planets/">Forbidden Planet</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8103" id="menu-item-8103"><a href="http://atomicanxiety.com/2010/09/21/robinson-crusoe-on-mars-domesticating-mars-with-a-monkey/">Robinson Crusoe on Mars</a></li>
+</ul></div></aside><aside class="widget widget_blog_subscription" id="blog_subscription-2"><h1 class="widget-title"><label for="subscribe-field">Follow Blog via Email</label></h1>
+<form accept-charset="utf-8" action="https://subscribe.wordpress.com" id="subscribe-blog" method="post">
+<p>Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+<p><input id="subscribe-field" name="email" placeholder="Enter your email address" style="width: 95%; padding: 1px 2px" type="text" value=""/></p>
+<p>
+<input name="action" type="hidden" value="subscribe"/>
+<input name="blog_id" type="hidden" value="13700595"/>
+<input name="source" type="hidden" value="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/"/>
+<input name="sub-type" type="hidden" value="widget"/>
+<input name="redirect_fragment" type="hidden" value="blog_subscription-2"/>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="c81695a471"/> <input type="submit" value="Sign me up!"/>
+</p>
+</form>
+</aside><aside class="widget widget_follow_button_widget" id="follow_button_widget-2">
+<a class="wordpress-follow-button" data-blog="http://atomicanxiety.com" data-lang="en" href="http://atomicanxiety.com">Follow Atomic Anxiety on WordPress.com</a>
+
+</aside><aside class="widget widget_search" id="search-2"><h1 class="widget-title">Search the Anxiety</h1> <form action="http://atomicanxiety.com/" class="searchform" id="searchform" method="get" role="search">
+<label class="screen-reader-text" for="s">Search</label>
+<input class="field" id="s" name="s" placeholder="Search …" type="search" value=""/>
+<input class="submit" id="searchsubmit" type="submit" value="Search"/>
+</form>
+</aside> <aside class="widget widget_recent_entries" id="recent-posts-3"> <h1 class="widget-title">Recent Posts</h1> <ul>
+<li>
+<a href="http://atomicanxiety.com/2014/12/23/penny-dreadful-do-you-really-want-to-be-normal/">PENNY DREADFUL: Do You Really Want to Be Normal?</a>
+</li>
+<li>
+<a href="http://atomicanxiety.com/2014/11/06/coming-december-1-gunfighter-gothic-v3-black-christmas/">Coming December 1: Gunfighter Gothic v3: Black Christmas</a>
+</li>
+<li>
+<a href="http://atomicanxiety.com/2014/10/21/gotham-viper-tell-me-a-story/">GOTHAM: VIPER: Tell Me a Story</a>
+</li>
+<li>
+<a href="http://atomicanxiety.com/2014/10/19/scooby-doo-and-the-cyber-chase-you-beamed-us-into-cyberspace/">SCOOBY-DOO AND THE CYBER CHASE: You Beamed Us Into Cyberspace</a>
+</li>
+<li>
+<a href="http://atomicanxiety.com/2014/10/16/agents-of-s-h-i-e-l-d-face-my-enemy-may-hates-coffee/">AGENTS OF S.H.I.E.L.D.: FACE MY ENEMY: May Hates Coffee</a>
+</li>
+<li>
+<a href="http://atomicanxiety.com/2014/10/15/the-flash-fastest-man-alive-the-man-in-the-red-mask/">THE FLASH: FASTEST MAN ALIVE: The Man in the Red Mask</a>
+</li>
+<li>
+<a href="http://atomicanxiety.com/2014/10/14/gotham-arkham-honestly-sir-i-really-did-vote-for-you/">GOTHAM: ARKHAM: Honestly, Sir, I Really Did Vote For You</a>
+</li>
+</ul>
+</aside><aside class="widget widget_image" id="image-4"><h1 class="widget-title">GUNFIGHTER GOTHIC v1: UNDER ZEPPELIN SKIES</h1><div style="overflow:hidden;"><a href="http://www.amazon.com/Gunfighter-Gothic-Under-Zeppelin-Skies/dp/1495350843"><img class="alignnone" height="900" src="http://atomicanxiety.files.wordpress.com/2014/02/gg1-under-zeppelin-skies.jpg?w=600&amp;h=900" title="Under Zeppelin Skies" width="600"/></a></div>
+</aside><aside class="widget widget_nav_menu" id="nav_menu-6"><h1 class="widget-title">Books Available for Purchase</h1><div class="menu-the-buy-my-stuff-section-container"><ul class="menu" id="menu-the-buy-my-stuff-section"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5732" id="menu-item-5732"><a href="http://www.amazon.com/Atomic-Reactions-Marvel-Comics-Film/dp/1480194468">Marvel Comics on Film</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6969" id="menu-item-6969"><a href="http://www.amazon.com/Haunting-Kraken-Moor-Mark-Bousquet/dp/1482794861">The Haunting of Kraken Moor</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4734" id="menu-item-4734"><a href="http://www.amazon.com/Gunfighter-Gothic-Under-Zeppelin-Skies/dp/1495350843">Gunfighter Gothic: Under Zeppelin Skies</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6970" id="menu-item-6970"><a href="http://www.amazon.com/Gunfighter-Gothic-Thanksgiving-House-Absinthe-ebook/dp/B00GU38314">Gunfighter Gothic: Thanksgiving at the House of Absinthe &amp; Steam</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6971" id="menu-item-6971"><a href="http://www.amazon.com/Gunfighter-Gothic-Rubber-Monsters-Tribute-ebook/dp/B00H422LEK">Gunfighter Gothic: Rubber Suited Monsters (Tribute to Doctor Who)</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4735" id="menu-item-4735"><a href="http://www.amazon.com/Harpsichord-Wormhole-Witches-Mark-Bousquet/dp/1460923111">Harpsichord &amp; the Wormhole Witches</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4731" id="menu-item-4731"><a href="http://www.amazon.com/Adventures-Five-The-Coming-Frost/dp/1453682333">Adventures of the Five: The Coming of Frost</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6968" id="menu-item-6968"><a href="http://www.amazon.com/Adventures-Five-Christmas-Engine-Volume/dp/1494850427">Adventures of the Five: The Christmas Engine</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5731" id="menu-item-5731"><a href="http://www.amazon.com/Stuffed-Animals-Hire-Christmas-Operation/dp/1481213865">Stuffed Animals for Hire: The Christmas Operation</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4732" id="menu-item-4732"><a href="http://www.amazon.com/Dreamers-Syndrome-Special-Edition-World/dp/1461108276">Dreamer’s Syndrome: Into the New World</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4733" id="menu-item-4733"><a href="http://www.amazon.com/Rise-First-Woman-Dreamers-Anthology/dp/1463572646">Dreamer’s Syndrome: Rise of the First Woman</a></li>
+</ul></div></aside><aside class="widget widget_wpcom_instagram_widget" id="wpcom_instagram_widget-2"><div class="wpcom-instagram-images wpcom-instagram-columns-2">
+<a href="http://instagram.com/p/y444GIwmUZ/"><img alt="Snow Dog in his trench. #Darwin" height="640" src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10946374_410987149064269_131799085_n.jpg" title="Snow Dog in his trench. #Darwin" width="640"/></a>
+<a href="http://instagram.com/p/y44zTiwmUM/"><img alt="Snow Dog. #Darwin" height="640" src="http://scontent-a.cdninstagram.com/hphotos-xfa1/t51.2885-15/e15/10956815_410369652472555_296747517_n.jpg" title="Snow Dog. #Darwin" width="640"/></a>
+<a href="http://instagram.com/p/ylZGUlQmZY/"><img alt="How Darwin is celebrating a Patriots Super Bowl victory!!!" height="640" src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/1941114_1008249585859157_1702599522_n.jpg" title="How Darwin is celebrating a Patriots Super Bowl victory!!!" width="640"/></a>
+<a href="http://instagram.com/p/ykeNviwmVq/"><img alt="The dogs have staked out their couch position for the Super Bowl." height="640" src="http://scontent-b.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/10946275_1411780049120305_8476070_n.jpg" title="The dogs have staked out their couch position for the Super Bowl." width="640"/></a>
+</div>
+</aside><aside class="widget widget_twitter" id="twitter-4"><h1 class="widget-title"><a href="http://twitter.com/mark_bousquet">Mark Bousquet’s Twitter Feed</a></h1><ul class="tweets">
+<li>
+				Snow Dog. <a href="http://twitter.com/search?q=%23Darwin">#Darwin</a> <a href="http://instagram.com/p/y44zTiwmUM/"> instagram.com/p/y44zTiwmUM/</a> from 				<a class="timesince" href="http://twitter.com/mark_bousquet/statuses/564838776317673472">6 hours ago</a>
+</li>
+<li>
+				Of Miracles and Men is a brilliant sports doc. Well done, @<a href="http://twitter.com/HockFilms">HockFilms</a> and @<a href="http://twitter.com/30for30">30for30</a>. from 				<a class="timesince" href="http://twitter.com/mark_bousquet/statuses/564635610028441600">19 hours ago</a>
+</li>
+<li>
+				Godspeed, Coach Smith. from 				<a class="timesince" href="http://twitter.com/mark_bousquet/statuses/564468106933059585">1 day ago</a>
+</li>
+<li>
+				Stretch submission hold on the top of the ladder! from 				<a class="timesince" href="http://twitter.com/mark_bousquet/statuses/564161491214303232">2 days ago</a>
+</li>
+<li>
+				2001 Rumble: Y2J and Benoit deliver one of the greatest ladder matches. This is brutal, intense, inventive stuff from two of the best. <a href="http://twitter.com/search?q=%23WWE">#WWE</a> from 				<a class="timesince" href="http://twitter.com/mark_bousquet/statuses/564160656178679809">2 days ago</a>
+</li>
+</ul><a class="twitter-follow-button" data-show-count="false" href="http://twitter.com/mark_bousquet">Follow @mark_bousquet</a></aside><aside class="widget widget_nav_menu" id="nav_menu-5"><h1 class="widget-title">Top 100 All-Time Movie Posts</h1><div class="menu-top-100-all-time-movie-posts-container"><ul class="menu" id="menu-top-100-all-time-movie-posts"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4852" id="menu-item-4852"><a href="http://atomicanxiety.wordpress.com/2012/07/07/spider-man-3-where-do-all-these-guys-come-from/">1. Spider-Man 3</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5062" id="menu-item-5062"><a href="http://atomicanxiety.wordpress.com/2012/05/07/the-avengers-the-hawkeye-reaction/">2. Avengers: The Hawkeye Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5063" id="menu-item-5063"><a href="http://atomicanxiety.wordpress.com/2012/05/08/the-avengers-the-agent-coulson-reaction/">3. Avengers: The Coulson Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5067" id="menu-item-5067"><a href="http://atomicanxiety.wordpress.com/2012/05/09/the-avengers-the-black-widow-reaction/">4. Avengers: The Black Widow Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5068" id="menu-item-5068"><a href="http://atomicanxiety.wordpress.com/2012/05/18/the-avengers-the-loki-reaction/">5. Avengers: The Loki Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5064" id="menu-item-5064"><a href="http://atomicanxiety.wordpress.com/2012/05/19/the-avengers-the-iron-man-reaction/">6. Avengers: The Iron Man Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5066" id="menu-item-5066"><a href="http://atomicanxiety.wordpress.com/2012/05/11/the-avengers-the-maria-hill-reaction/">7. Avengers: The Maria Hill Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5072" id="menu-item-5072"><a href="http://atomicanxiety.wordpress.com/2012/05/09/the-avengers-the-nick-fury-reaction/">8. Avengers: The Nick Fury Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5071" id="menu-item-5071"><a href="http://atomicanxiety.wordpress.com/2012/05/12/the-avengers-the-captain-america-reaction/">9. Avengers: The Captain America Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5069" id="menu-item-5069"><a href="http://atomicanxiety.wordpress.com/2012/05/15/the-avengers-the-hulk-reaction/">10. Avengers: The Hulk Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5065" id="menu-item-5065"><a href="http://atomicanxiety.wordpress.com/2012/05/14/the-avengers-the-chitaurimystery-villain-reaction/">11. Avengers: The Chitauri/Thanos Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5070" id="menu-item-5070"><a href="http://atomicanxiety.wordpress.com/2012/05/17/the-avengers-the-thor-reaction/">12. Avengers: The Thor Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4359" id="menu-item-4359"><a href="http://atomicanxiety.wordpress.com/2012/05/05/the-avengers-i-put-a-bullet-in-my-mouth-and-the-other-guy-spit-it-out/">13. The Avengers</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4805" id="menu-item-4805"><a href="http://atomicanxiety.wordpress.com/2011/09/02/flash-gordon-quarterback-new-york-jets/">14. Flash Gordon</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5198" id="menu-item-5198"><a href="http://atomicanxiety.wordpress.com/2012/08/19/fantastic-four-2005/">15. Fantastic Four (2005)</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4898" id="menu-item-4898"><a href="http://atomicanxiety.wordpress.com/2012/07/03/spider-man-with-great-power-comes-great-responsibility/">16. Spider-Man</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3587" id="menu-item-3587"><a href="http://atomicanxiety.wordpress.com/2011/09/05/high-noon-the-most-un-american-thing-ive-ever-seen-in-my-whole-life/">17. High Noon</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4212" id="menu-item-4212"><a href="http://atomicanxiety.wordpress.com/2012/04/15/the-cabin-in-the-woods-am-i-on-speakerphone/">18. The Cabin in the Woods</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4031" id="menu-item-4031"><a href="http://atomicanxiety.wordpress.com/2012/01/06/the-troll-hunter-norway-has-trolls-thats-just-the-way-it-is/">19. The Troll Hunter</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5193" id="menu-item-5193"><a href="http://atomicanxiety.wordpress.com/2012/08/20/the-expendables-2-track-him-find-him-kill-him/">20. The Expendables 2</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3583" id="menu-item-3583"><a href="http://atomicanxiety.wordpress.com/2011/05/06/smokey-the-bandit/">21. Smokey &amp; the Bandit</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5242" id="menu-item-5242"><a href="http://atomicanxiety.wordpress.com/2012/08/12/total-recall-2012-i-give-good-wife/">22. Total Recall (2012)</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3576" id="menu-item-3576"><a href="http://atomicanxiety.wordpress.com/2011/07/08/indiana-jones-and-the-temple-of-doom-two-hours-of-kate-capshaw-shrieking-like-a-harpy/">23. Indiana Jones and the Temple of Doom</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3565" id="menu-item-3565"><a href="http://atomicanxiety.wordpress.com/2011/01/05/treasure-planet/">24. Treasure Planet</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6714" id="menu-item-6714"><a href="http://atomicanxiety.wordpress.com/2013/05/18/star-trek-into-darkness-the-bromance-of-kirk-and-spock/">25. Star Trek Into Darkness</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4875" id="menu-item-4875"><a href="http://atomicanxiety.wordpress.com/2012/07/09/the-amazing-spider-man/">26. The Amazing Spider-Man</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3582" id="menu-item-3582"><a href="http://atomicanxiety.wordpress.com/2010/07/06/jackie-brown-tarantinos-quiet-masterpiece/">27. Jackie Brown</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6716" id="menu-item-6716"><a href="http://atomicanxiety.wordpress.com/2012/10/03/titanic-a-womans-heart-is-a-deep-ocean-of-secrets/">28. Titanic</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4806" id="menu-item-4806"><a href="http://atomicanxiety.wordpress.com/2011/03/10/machete-habla-ingles-depends-on-the-question/">29. Machete</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6715" id="menu-item-6715"><a href="http://atomicanxiety.wordpress.com/2013/06/17/this-is-the-end-you-cant-have-the-milky-way/">30. This is the End</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3574" id="menu-item-3574"><a href="http://atomicanxiety.wordpress.com/2010/09/29/the-cannonball-run/">31. The Cannonball Run</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3570" id="menu-item-3570"><a href="http://atomicanxiety.wordpress.com/2010/10/03/cannonball-run-ii-its-general-patton-and-general-admission/">32. Cannonball Run II</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6909" id="menu-item-6909"><a href="http://atomicanxiety.wordpress.com/2013/08/12/r-i-p-d-its-time-to-get-your-snowman-on-get-frosty/">33. R.I.P.D.</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3586" id="menu-item-3586"><a href="http://atomicanxiety.wordpress.com/2011/09/16/wild-wild-west-never-drum-on-a-white-ladys-boobies-at-a-big-redneck-dance/">34. Wild Wild West</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3564" id="menu-item-3564"><a href="http://atomicanxiety.wordpress.com/2010/11/20/sinbad-and-the-eye-of-the-tiger-baboons-and-troglodytes-prefer-blondes/">35. Sinbad and the Eye of the Tiger</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4877" id="menu-item-4877"><a href="http://atomicanxiety.wordpress.com/2012/06/03/hercules/">36. Hercules (1983)</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5385" id="menu-item-5385"><a href="http://atomicanxiety.wordpress.com/2012/04/22/2-headed-shark-attack-they-dont-usually-grow-to-maturity/">37. 2-Headed Shark Attack</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4892" id="menu-item-4892"><a href="http://atomicanxiety.wordpress.com/2012/06/24/abraham-lincoln-vampire-hunter-history-prefers-legends-to-men/">38. Abraham Lincoln: Vampire Hunter</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4047" id="menu-item-4047"><a href="http://atomicanxiety.wordpress.com/2011/11/12/thor-it-was-asgard-and-its-warriors-that-brought-peace-to-the-universe/">39. Thor</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3563" id="menu-item-3563"><a href="http://atomicanxiety.wordpress.com/2010/12/23/atlantis-the-lost-empire/">40. Atlantis: The Lost Empire</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4808" id="menu-item-4808"><a href="http://atomicanxiety.wordpress.com/2011/09/10/city-slickers-i-like-your-ass-can-i-wear-it-as-a-hat/">41. City Slickers</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6722" id="menu-item-6722"><a href="http://atomicanxiety.wordpress.com/2013/01/14/attack-of-the-50-foot-cheerleader-i-think-my-aorta-just-crapped-its-pants/">42. Attack of the 50 Foot Cheerleader</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3566" id="menu-item-3566"><a href="http://atomicanxiety.wordpress.com/2010/09/04/star-trek-viii-first-contact/">43. Star Trek VIII: First Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4040" id="menu-item-4040"><a href="http://atomicanxiety.wordpress.com/2011/09/21/lone-wolf-mcquade-howd-you-like-to-bite-that-in-the-butt-develop-lockjaw-and-be-dragged-to-death/">44. Lone Wolf McQuade</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3567" id="menu-item-3567"><a href="http://atomicanxiety.wordpress.com/2010/08/06/alice-in-wonderland/">45. Alice in Wonderland</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4882" id="menu-item-4882"><a href="http://atomicanxiety.wordpress.com/2012/05/29/men-in-black-3-id-have-no-problem-pimp-slapping-the-shiznit-out-of-andy-warhol/">46. Men in Black 3</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4895" id="menu-item-4895"><a href="http://atomicanxiety.wordpress.com/2012/05/14/dark-shadows-youll-have-to-imagine-us-on-a-better-day/">47. Dark Shadows</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5133" id="menu-item-5133"><a href="http://atomicanxiety.wordpress.com/2012/01/12/transformers-dark-of-the-moon/">48. Transformers: Dark of the Moon</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5591" id="menu-item-5591"><a href="http://atomicanxiety.wordpress.com/2012/07/06/spider-man-2-i-believe-theres-a-hero-in-all-of-us/">49. Spider-Man 2</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3568" id="menu-item-3568"><a href="http://atomicanxiety.wordpress.com/2010/08/29/star-trek-vii-generations/">50. Star Trek VII: Generations</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3569" id="menu-item-3569"><a href="http://atomicanxiety.wordpress.com/2010/12/17/snow-white-and-the-seven-dwarfs/">51. Snow White and the Seven Dwarfs</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4853" id="menu-item-4853"><a href="http://atomicanxiety.wordpress.com/2012/05/04/the-incredible-hulk-ive-always-been-more-curious-than-cautious/">52. The Incredible Hulk</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3581" id="menu-item-3581"><a href="http://atomicanxiety.wordpress.com/2011/07/18/indiana-jones-and-the-last-crusade-you-lost-today-kid-but-that-doesnt-mean-you-have-to-like-it/">53. Indiana Jones and the Last Crusade</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4873" id="menu-item-4873"><a href="http://atomicanxiety.wordpress.com/2011/12/17/national-lampoons-christmas-vacation-were-gonna-have-the-happiest-christmas-since-bing-crosby-tap-danced-with-danny-fcking-kaye/">54. National Lampoon’s Christmas Vacation</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6720" id="menu-item-6720"><a href="http://atomicanxiety.wordpress.com/2013/07/06/the-lone-ranger-something-very-wrong-with-that-horse/">55. The Lone Ranger</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4600" id="menu-item-4600"><a href="http://atomicanxiety.wordpress.com/2012/05/03/iron-man-we-built-that-thing-to-shut-the-hippies-up/">56. Iron Man</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7626" id="menu-item-7626"><a href="http://atomicanxiety.wordpress.com/2014/04/10/captain-america-the-winter-soldier-peace-is-not-an-achievement-but-a-responsibility/">57. Captain America: The Winter Soldier</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5016" id="menu-item-5016"><a href="http://atomicanxiety.wordpress.com/2012/06/25/brave-ill-be-shooting-for-my-own-hand-and-ill-shoot-anyone-who-calls-me-a-disney-princess/">58. Brave</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029" id="menu-item-4029"><a href="http://atomicanxiety.wordpress.com/2011/06/02/goldfinger-thats-as-bad-as-listening-to-the-beatles-without-earmuffs/">59. Goldfinger</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5088" id="menu-item-5088"><a href="http://atomicanxiety.wordpress.com/2012/07/30/the-dark-knight-rises-the-rules-arent-weapons-anymore-theyre-shackles/">60. The Dark Knight Rises</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6721" id="menu-item-6721"><a href="http://atomicanxiety.wordpress.com/2013/02/20/ted-this-is-the-theme-song-from-the-movie-octopussy/">61. Ted</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3572" id="menu-item-3572"><a href="http://atomicanxiety.wordpress.com/2010/08/09/stark-trek-ii-the-wrath-of-khan/">62. Star Trek II: The Wrath of Khan</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4885" id="menu-item-4885"><a href="http://atomicanxiety.wordpress.com/2011/05/04/license-to-kill-im-james-bond-im-angry-a-shark-ate-my-friend/">63. License to Kill</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4899" id="menu-item-4899"><a href="http://atomicanxiety.wordpress.com/2011/05/18/the-world-is-not-enough/">64. The World is Not Enough</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4880" id="menu-item-4880"><a href="http://atomicanxiety.wordpress.com/2011/09/02/hannie-caulder-there-arent-any-hard-women-only-soft-men/">65. Hannie Caulder</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4893" id="menu-item-4893"><a href="http://atomicanxiety.wordpress.com/2012/01/11/smiley-face/">66. Smiley Face</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4881" id="menu-item-4881"><a href="http://atomicanxiety.wordpress.com/2012/06/18/prometheus-ridley-scotts-hobbit-there-and-forward-again/">67. Prometheus</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4904" id="menu-item-4904"><a href="http://atomicanxiety.wordpress.com/2012/07/25/batman-begins-all-creatures-feel-fear/">68. Batman Begins</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3573" id="menu-item-3573"><a href="http://atomicanxiety.wordpress.com/2010/08/23/star-trek-vi-the-undiscovered-country/">69. Star Trek VI: The Undiscovered Country</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3577" id="menu-item-3577"><a href="http://atomicanxiety.wordpress.com/2010/09/22/death-race-2000-youre-one-very-large-baked-potato/">70. Death Race 2000</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4577" id="menu-item-4577"><a href="http://atomicanxiety.wordpress.com/2012/01/07/captain-america-the-first-avenger/">71. Captain America: The First Avenger</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6910" id="menu-item-6910"><a href="http://atomicanxiety.wordpress.com/2011/10/05/gremlins-and-thats-how-i-found-out-there-was-no-santa-claus/">72. Gremlins</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5033" id="menu-item-5033"><a href="http://atomicanxiety.wordpress.com/2012/03/10/alien-resurrection-must-be-a-chick-thing/">73. Alien: Resurrection</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4887" id="menu-item-4887"><a href="http://atomicanxiety.wordpress.com/2011/08/21/drive-angry-ghost-rider-in-a-car/">74. Drive Angry</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4903" id="menu-item-4903"><a href="http://atomicanxiety.wordpress.com/2012/03/03/aliens/">75. Aliens</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6717" id="menu-item-6717"><a href="http://atomicanxiety.wordpress.com/2012/11/12/skyfall-so-much-for-my-promising-career-in-espionage/">76. Skyfall</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3571" id="menu-item-3571"><a href="http://atomicanxiety.wordpress.com/2010/08/17/star-trek-v-the-final-frontier/">77. Star Trek V: The Final Frontier</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6723" id="menu-item-6723"><a href="http://atomicanxiety.wordpress.com/2013/02/15/magnum-force-a-good-man-always-knows-his-limitations/">78. Magnum Force</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7778" id="menu-item-7778"><a href="http://atomicanxiety.com/2014/06/08/edge-of-tomorrow-full-metal-bitch/">79. Edge of Tomorrow</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6718" id="menu-item-6718"><a href="http://atomicanxiety.wordpress.com/2013/01/27/parker-take-off-your-dress/">80. Parker</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8143" id="menu-item-8143"><a href="http://atomicanxiety.com/2014/08/04/guardians-of-the-galaxy-the-yondu-reaction/">81. GotG: The Yondu Reaction</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4879" id="menu-item-4879"><a href="http://atomicanxiety.wordpress.com/2011/07/07/raiders-of-the-lost-ark-asps-very-dangerous-you-go-first/">82. Raiders of the Lost Ark</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3580" id="menu-item-3580"><a href="http://atomicanxiety.wordpress.com/2011/11/26/the-muppets-i-really-dont-want-to-go-back-to-reno/">83. The Muppets</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5593" id="menu-item-5593"><a href="http://atomicanxiety.wordpress.com/2012/04/29/supergirl-your-suffering-will-be-short-mine-forever/">84. Supergirl</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6911" id="menu-item-6911"><a href="http://atomicanxiety.wordpress.com/2011/10/15/scream-2-hello-sidney-remember-me/">85. Scream 2</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4809" id="menu-item-4809"><a href="http://atomicanxiety.wordpress.com/2011/04/13/the-man-with-the-golden-gun-james-bond/">86. The Man with the Golden Gun</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8144" id="menu-item-8144"><a href="http://atomicanxiety.com/2014/08/02/guardians-of-the-galaxy-aint-no-thing-like-me-except-me/">87. Guardians of the Galaxy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6724" id="menu-item-6724"><a href="http://atomicanxiety.wordpress.com/2012/06/10/galaxy-of-terror/">88. Galaxy of Terror</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4035" id="menu-item-4035"><a href="http://atomicanxiety.wordpress.com/2010/08/11/star-trek-iii-the-search-for-spock/">89. Star Trek III: The Search for Spock</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3578" id="menu-item-3578"><a href="http://atomicanxiety.wordpress.com/2010/09/16/star-trek-xi-and-the-big-red-superball-shall-save-us-all/">90. Star Trek (2009)</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4906" id="menu-item-4906"><a href="http://atomicanxiety.wordpress.com/2011/05/27/dr-no-thats-a-smith-wesson-and-youve-had-your-six/">91. Dr. No</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4896" id="menu-item-4896"><a href="http://atomicanxiety.wordpress.com/2012/03/31/wrath-of-the-titans-being-half-human-makes-you-stronger-than-a-god/">92. Wrath of the Titans</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6912" id="menu-item-6912"><a href="http://atomicanxiety.wordpress.com/2012/07/01/2001-a-space-odyssey-im-afraid-dave-my-mind-is-going-i-can-feel-it/">93. 2001: A Space Odyssey</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4884" id="menu-item-4884"><a href="http://atomicanxiety.wordpress.com/2010/11/23/iron-man-2/">94. Iron Man 2</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3584" id="menu-item-3584"><a href="http://atomicanxiety.wordpress.com/2011/03/07/batman-the-movie-the-drinking-water-dispenser-is-clearly-marked/">95. Batman (1966)</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7625" id="menu-item-7625"><a href="http://atomicanxiety.wordpress.com/2011/06/20/diamonds-are-forever-but-a-big-wet-turd-only-lasts-115-minutes/">96. Diamonds are Forever</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4883" id="menu-item-4883"><a href="http://atomicanxiety.wordpress.com/2010/07/30/barbarella-so-good-she-makes-the-matmos-vomit/">97. Barbarella</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7627" id="menu-item-7627"><a href="http://atomicanxiety.wordpress.com/2012/08/10/the-watch/">98. The Watch</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6719" id="menu-item-6719"><a href="http://atomicanxiety.wordpress.com/2012/10/21/argo-this-is-the-best-bad-idea-weve-got/">99. Argo</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4889" id="menu-item-4889"><a href="http://atomicanxiety.wordpress.com/2010/09/07/forbidden-planet-the-lord-sure-makes-some-beautiful-planets/">100. Forbidden Planet</a></li>
+</ul></div></aside><aside class="widget widget_categories" id="categories-3"><h1 class="widget-title">Categories</h1><select class="postform" id="cat" name="cat">
+<option value="-1">Select Category</option>
+<option class="level-0" value="586">Food  (1)</option>
+<option class="level-0" value="1832">Lists  (2)</option>
+<option class="level-0" value="190">Movies  (537)</option>
+<option class="level-1" value="1030">   Action  (53)</option>
+<option class="level-1" value="8792">   Adventure  (17)</option>
+<option class="level-1" value="19304">   Animated  (71)</option>
+<option class="level-1" value="653981">   Anime  (4)</option>
+<option class="level-1" value="577059">   Blaxploitation  (1)</option>
+<option class="level-1" value="929">   Cars  (7)</option>
+<option class="level-1" value="15607">   Christmas  (9)</option>
+<option class="level-1" value="6234">   Comedy  (52)</option>
+<option class="level-1" value="3898">   Crime  (11)</option>
+<option class="level-1" value="30748">   Disaster  (1)</option>
+<option class="level-1" value="8105">   Documentary  (3)</option>
+<option class="level-1" value="1282444">   Drama  (8)</option>
+<option class="level-1" value="88698">   Espionage  (3)</option>
+<option class="level-1" value="7224">   Fantasy  (39)</option>
+<option class="level-1" value="1252">   Horror  (45)</option>
+<option class="level-1" value="4416">   James Bond  (25)</option>
+<option class="level-1" value="384142">   Kaiju  (10)</option>
+<option class="level-1" value="15031">   Martial Arts  (2)</option>
+<option class="level-1" value="4805">   Musical  (9)</option>
+<option class="level-1" value="13078">   Mystery  (4)</option>
+<option class="level-1" value="8154">   Romance  (12)</option>
+<option class="level-1" value="10615">   Science Fiction  (142)</option>
+<option class="level-1" value="111464">   Serials  (1)</option>
+<option class="level-1" value="535007">   Sports  (1)</option>
+<option class="level-1" value="1172">   Star Wars  (1)</option>
+<option class="level-1" value="89271">   Superhero  (107)</option>
+<option class="level-1" value="33102">   Supernatural  (14)</option>
+<option class="level-1" value="11183">   Thriller  (4)</option>
+<option class="level-1" value="3153">   Trailers  (2)</option>
+<option class="level-1" value="3934">   War  (7)</option>
+<option class="level-1" value="11880">   Western  (21)</option>
+<option class="level-0" value="2060">Podcasts  (1)</option>
+<option class="level-0" value="3233">Toys  (2)</option>
+<option class="level-0" value="462">TV  (411)</option>
+<option class="level-1" value="11065479">   Action  (4)</option>
+<option class="level-1" value="8466806">   Animated  (29)</option>
+<option class="level-1" value="1122">   Anime  (5)</option>
+<option class="level-1" value="2708722">   Christmas  (22)</option>
+<option class="level-1" value="1716813">   Comedy  (8)</option>
+<option class="level-1" value="6104838">   Crime  (4)</option>
+<option class="level-1" value="15252505">   Doctor Who  (191)</option>
+<option class="level-1" value="5467">   Drama  (24)</option>
+<option class="level-1" value="1833571">   Fantasy  (4)</option>
+<option class="level-1" value="2251659">   Horror  (6)</option>
+<option class="level-1" value="7849">   Reality  (3)</option>
+<option class="level-1" value="4114273">   Science Fiction  (22)</option>
+<option class="level-1" value="205123">   Scooby-Doo  (14)</option>
+<option class="level-1" value="28444">   Star Trek  (56)</option>
+<option class="level-1" value="44945253">   Superhero  (35)</option>
+<option class="level-1" value="35666">   Torchwood  (14)</option>
+<option class="level-0" value="1">Uncategorized  (35)</option>
+<option class="level-0" value="16262">Wrestling  (23)</option>
+<option class="level-0" value="349">Writing  (103)</option>
+<option class="level-1" value="38917547">   Adventures of the Five  (8)</option>
+<option class="level-1" value="942961">   Atomic Interviews  (31)</option>
+<option class="level-1" value="43334769">   Atomic Reactions  (4)</option>
+<option class="level-1" value="1948393">   Blackthorn  (2)</option>
+<option class="level-1" value="1482633">   CBLDF  (1)</option>
+<option class="level-1" value="55362256">   Dreamer’s Syndrome  (5)</option>
+<option class="level-1" value="188178057">   Fashionable Monsters  (2)</option>
+<option class="level-1" value="96299964">   Gunfighter Gothic  (10)</option>
+<option class="level-1" value="154958097">   Haunting of Kraken Moor  (4)</option>
+<option class="level-1" value="75154740">   Jacklighters  (2)</option>
+<option class="level-1" value="30">   Random  (8)</option>
+<option class="level-1" value="309">   Reviews  (6)</option>
+<option class="level-1" value="128848299">   Stuffed Animals for Hire  (3)</option>
+<option class="level-1" value="169568045">   Superheroes are Stupid  (1)</option>
+<option class="level-1" value="220238">   The Deep  (7)</option>
+<option class="level-1" value="7327837">   The Everything  (1)</option>
+<option class="level-1" value="200">   Travel  (8)</option>
+<option class="level-1" value="10715582">   Weird West  (9)</option>
+</select>
+
+</aside><aside class="widget widget_author_grid" id="author_grid-2"><h1 class="widget-title">Your Host</h1><ul><li><a href="http://atomicanxiety.com/author/atomicanxiety/"> <img alt="" class="avatar avatar-32" height="32" src="http://2.gravatar.com/avatar/853b4f7bd9297ffc5a4f0aa9be8b169d?s=32&amp;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=PG" width="32"/></a></li></ul></aside><aside class="widget widget_meta" id="meta-3"><h1 class="widget-title">This Doesn’t Concern You</h1> <ul>
+<li><a href="https://en.wordpress.com/signup/?ref=wplogin">Register</a></li> <li><a href="https://atomicanxiety.wordpress.com/wp-login.php">Log in</a></li>
+<li><a href="http://atomicanxiety.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="http://atomicanxiety.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="http://wordpress.com/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.com</a></li> </ul>
+</aside><aside class="widget widget_links" id="linkcat-1356"><h1 class="widget-title">Blogroll</h1>
+<ul class="xoxo blogroll">
+<li><a href="http://www.bhyphen.com" target="_blank">B HYPHEN</a></li>
+<li><a href="http://www.betterinthedarksite.com/">Better in the Dark</a></li>
+<li><a href="http://joshuamreynolds.wordpress.com/">Josh Reynolds' Hunting Monsters</a></li>
+<li><a href="http://www.amazon.com/Mark-Bousquet/e/B004WWUTNU/">My Amazon Author's Page</a></li>
+<li><a href="http://derricklferguson.wordpress.com/">The Ferguson Theater</a></li>
+</ul>
+</aside>
+</div><!-- #secondary -->
+</div><!-- #main -->
+<footer class="site-footer" id="colophon" role="contentinfo">
+<div class="site-info">
+<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com</a>.
+<a href="https://wordpress.com/themes/expound/" title="Learn more about this theme">The Expound Theme</a>.		</div><!-- .site-info -->
+</footer><!-- #colophon -->
+</div><!-- #page -->
+<!-- wpcom_wp_footer -->
+
+
+
+
+<div style="display:none">
+<div class="grofile-hash-map-861cefdc51577b16dd80aade402e2fb4">
+</div>
+<div class="grofile-hash-map-853b4f7bd9297ffc5a4f0aa9be8b169d">
+</div>
+<div class="grofile-hash-map-be36fa16b74aa54da2896db957bb82b0">
+</div>
+<div class="grofile-hash-map-2b4f81175c598747cfd0992af3a38ba4">
+</div>
+<div class="grofile-hash-map-bd8947c7d742ea23cba01a29589bcba9">
+</div>
+</div>
+<div class="loggedout-follow-normal" id="bit">
+<a class="bsub" href="javascript:void(0)"><span id="bsub-text">Follow</span></a>
+<div id="bitsubscribe">
+<h3><label for="loggedout-follow-field">Follow “Atomic Anxiety”</label></h3>
+<form accept-charset="utf-8" action="https://subscribe.wordpress.com" id="loggedout-follow" method="post">
+<p>Get every new post delivered to your Inbox.</p>
+<p id="loggedout-follow-error" style="display: none;"></p>
+<p class="bit-follow-count">Join 99 other followers</p>
+<p><input id="loggedout-follow-field" name="email" onblur='this.value=(this.value=="") ? "Enter your email address" : this.value;' onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' type="email" value="Enter your email address"/></p>
+<input name="action" type="hidden" value="subscribe"/>
+<input name="blog_id" type="hidden" value="13700595"/>
+<input name="source" type="hidden" value="http://atomicanxiety.com/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/"/>
+<input name="sub-type" type="hidden" value="loggedout-follow"/>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="c81695a471"/><input name="_wp_http_referer" type="hidden" value="/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/"/>
+<p id="bsub-subscribe-button"><input type="submit" value="Sign me up"/></p>
+</form>
+<div id="bsub-credit"><a href="https://wordpress.com/?ref=lof">Build a website with WordPress.com</a></div>
+</div><!-- #bitsubscribe -->
+</div><!-- #bit -->
+
+
+
+<div id="sharing_email" style="display: none;">
+<form action="/2013/12/27/star-wars-episode-i-the-phantom-menace-your-focus-determines-your-reality/" method="post">
+<label for="target_email">Send to Email Address</label>
+<input id="target_email" name="target_email" type="email" value=""/>
+<label for="source_name">Your Name</label>
+<input id="source_name" name="source_name" type="text" value=""/>
+<label for="source_email">Your Email Address</label>
+<input id="source_email" name="source_email" type="email" value=""/>
+<div class="recaptcha" id="sharing_recaptcha"></div><input id="recaptcha_public_key" name="recaptcha_public_key" type="hidden" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo"/>
+<img alt="loading" class="loading" height="16" src="http://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610318g" style="float: right; display: none" width="16"/>
+<input class="sharing_send" type="submit" value="Send Email"/>
+<a class="sharing_cancel" href="#cancel">Cancel</a>
+<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+</form>
+</div>
+ 
+
+<iframe id="likes-master" name="likes-master" scrolling="no" src="http://widgets.wp.com/likes/master.html?ver=20141028#ver=20141028&amp;mp6=1" style="display:none;"></iframe>
+<div id="likes-other-gravatars"><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+
+
+
+
+
+
+ 
+
+
+<noscript><img alt="" src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden"/></noscript>
+
+</body>
+</html>

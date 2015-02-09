@@ -1,0 +1,12 @@
+Title: John Blake (Character) 
+Date: Mon, 09 Feb 2015 23:41:30 GMT
+Server: HTTPDaemon
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: uu=BCYgzaT9atJ6F2ZPOc7crs5HxVkl-236aBV3QV4NpZ7KyvGDHQOlHOxxfPiXR7IMujFD4HZrP-6g5ij1pyoaWrWHdXA5QS4yzNPdlSCllMejBJpJJ9u-OQ4X8_sj0y5RRo4boc6Ay49_NvIHFII8svrh_vgo_VuPWAvBjmTmX6uYoXs;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=zA3sjufI9gdktgyUVBYIZAeBbbqgkVqM8BkNuqMCbTKzwk7pg4IumZCRXRoA0U26oKcq7CeBbbqj1n7P59HN2fCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Tue, 10 Feb 2015 08:00:00 GMT;path=/;domain=.imdb.com
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

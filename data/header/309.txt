@@ -1,0 +1,13 @@
+Title: Pirates of the Caribbean: Dead Man''s Chest (2006) - IMDb
+Date: Mon, 09 Feb 2015 23:40:00 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYpY_-5U9DTFFUKvin6C44gvM1t_fcDkSguKazbSjfAYmbah3A0d11sSEePFjYZjjKpxU0dcSFt%0D%0AlEbMpQh2z8u_C3zmKBbajApJaBKTQTjdK5Fi3XiLm073CjR0kCr8t2ZGQcOfJa5BT0z5dYtZxIgP%0D%0A9GW6Hjftn202aBHsVfD3iRKrfiPCjyjTd_64u7WjvzRu_w4bRBMirRn9JLY7rUAtKZFgZgHlmFhy%0D%0Ab3-pAczXZ5a33AYKfZZisE4hvjNiy7UkaXZh5aPZnKdk0Zu-lwj62Q%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:54:07 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:54:07 GMT; Path=/
+Set-Cookie: session-id-time=1581205200; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:54:07 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

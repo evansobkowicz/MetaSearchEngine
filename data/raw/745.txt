@@ -1,0 +1,348 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html lang="en-CA" xml:lang="en-CA" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://www.celinedion.com/ca/news/day%E2%80%A6-41" rel="canonical"/>
+<meta content="anonymous" name="loginMethod"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="The Official Celine Dion Site" property="og:site_name"/>
+<meta content="On This Day…" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="http://www.celinedion.com/ca/news/day%E2%80%A6-41" property="og:url"/>
+<meta content="On this day last year, Celine and René were invested in the Order of Canada during a ceremony at the Residence of the Governor General at the Citadelle of Quebec in Quebec City. His Excellency the Right Honourable David Johnston, Governor General of Canada, presented the insignia of Companion of the Order of Canada to Céline and the insignia of Member of the Order of Canada to René. They were presented with these insignias in recognition of their strong values shared by Canadians and promoted throughout the world.
+
+" property="og:description"/>
+<meta content="http://www.celinedion.com/sites/cdion/files/imagecache/preview/gg2013-0310-001.jpg" property="og:image"/>
+<link href="/sites/cdion/themes/cdion6_2/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<meta content="Celine Dion" name="keywords"/>
+<title>On This Day… | The Official Celine Dion Site</title>
+<link href="http://www.celinedion.com/sites/cdion/files/css/css_2f09be3c93d2eb0f5cacbebfd20d6898.css" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lte IE 6]>
+  <style type="text/css" media="all">@import "/sites/celinedion.com/themes/cdion6_2/css/ie6.css";
+    #navigation-bottom-logo {
+      behavior: url(/sites/celinedion.com/themes/cdion6_2/js/iepngfix.htc);
+    }
+  </style>
+  <![endif]-->
+<!--[if IE 7]>
+  <style type="text/css" media="all">@import "/sites/celinedion.com/themes/cdion6_2/css/ie7.css";</style>
+  <![endif]-->
+<!--[if IE 8]>
+  <style type="text/css" media="all">@import "/sites/celinedion.com/themes/cdion6_2/css/ie8.css";</style>
+  <![endif]-->
+
+
+
+</head>
+<body class="not-front not-logged-in node-page ntype-news lang-en locale-en-ca page-news-day--41 section-news">
+<div id="header-wrapper">
+<div class="clear-block" id="header">
+<div class="clear-block" id="top-bar">
+<div class="block block-user" id="block-user-0">
+<div class="blockinner clear-block">
+<div class="content">
+<form accept-charset="UTF-8" action="https://www.celinedion.com/ca/news/day%25E2%2580%25A6-41?destination=node%2F225900" class="sony-connect-login-block" id="user-login-form" method="post">
+<div><div class="sign-in"><a href="/ca/user/login">Login</a></div><div class="custom-link"><a href="/ca/user/register">Join</a></div><div class="form-item odd" id="edit-name-wrapper">
+<label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-text required inline-label" id="edit-name" maxlength="60" name="name" size="15" type="text" value=""/>
+</div>
+<div class="form-item even" id="edit-pass-wrapper">
+<label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-text required inline-label" id="edit-pass" maxlength="60" name="pass" size="15" type="password"/>
+</div>
+<input class="form-submit" id="edit-submit" name="op" type="submit" value="go"/>
+<input id="form-cBiDYocslxAOHgFvi3pH7Ci9ULOaPWatyASSVlNLCws" name="form_build_id" type="hidden" value="form-cBiDYocslxAOHgFvi3pH7Ci9ULOaPWatyASSVlNLCws"/>
+<input id="edit-user-login-block" name="form_id" type="hidden" value="user_login_block"/>
+<div class="item-list"><ul><li class="first"><a class="sony-connect-twitter" href="/ca/user" rel="twitter" title="Log in using twitter"><img alt="" height="16" src="/sites/all/modules/custom/sony_connect/plugins/networks/twitter/icons/t-grey-dk-16.png" title="" width="16"/></a></li>
+<li class="last"><a class="sony-connect-facebook" href="/ca/user" rel="facebook" title="Log in using facebook"><img alt="" height="16" src="/sites/all/modules/custom/sony_connect/plugins/networks/facebook/icons/grey-dk-16.png" title="" width="16"/></a></li>
+</ul></div>
+</div></form>
+</div>
+</div>
+</div>
+<div class="block block-locale" id="block-locale-0">
+<div class="blockinner clear-block">
+<h2 class="block-title title">Languages</h2>
+<div class="content">
+<ul><li class="en-CA first active"><a class="language-link menu-item--img-src-sites-all-modules-custom-sony-global-flags-ca-png-alt-canada-english-title-canada-english-width-16-height-11-canada-english- odd active" href="/ca/news/day%E2%80%A6-41"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/>Canada (English)</a></li>
+<li class="fr-CA last"><a class="language-link menu-item--img-src-sites-all-modules-custom-sony-global-flags-ca-png-alt-canada-fran-ais-title-canada-fran-ais-width-16-height-11-canada-fran-ais- even" href="http://www.celinedion.com/ca-fr/news/en-ce-jour%E2%80%A6-45"><img alt="Canada (Français)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (Français)" width="16"/>Canada (Français)</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div id="logo-top">
+<a href="/ca/home" title="Home"><img src="/sites/celinedion.com/themes/cdion6_2/images/logo.png"/></a>
+</div>
+<div class="clear-block" id="ad-top">
+<div class="block block-block" id="block-block-21">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><!--
+<a href="/ca/return-las-vegas" ><img src="/sites/cdion/files/celine-vegas-468x60-en.jpg" alt="Return to Las Vegas" /></a>
+--> </div>
+</div>
+</div>
+</div>
+<div class="clear-block" id="top-right">
+<div class="block block-menu" id="block-menu-secondary-links">
+<div class="blockinner clear-block">
+<div class="content">
+<ul class="menu"><li class="leaf first faq"><a href="/ca/help-faq-frequently-asked-questions">FAQ</a></li><li class="leaf last privacypolicy"><a href="http://www.sonymusic.ca/privacy/en/" title="">Privacy Policy</a></li></ul> </div>
+</div>
+</div>
+<div class="block block-block" id="block-block-10">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><div class="cdion6-button-s" style=""><a href="javascript:;" onclick="javascript:window.open('/player','celinePlayer','status=yes,resizable=yes,width=486,height=540,scrollbars=no'); return false;" target="_blank">Launch Player</a></div>
+</div>
+</div>
+</div>
+</div>
+</div> <!-- /header -->
+</div> <!-- /footer-wrapper -->
+<div id="page">
+<div class="clear-block" id="container">
+<div class="menu withprimary withsecondary " id="navigation">
+<div id="navigation-lvl1">
+<div class="block block-menu_block" id="block-menu_block-1">
+<div class="blockinner clear-block">
+<div class="content">
+<div class="menu-name-primary-links parent-mlid-0 menu-level-1">
+<ul class="menu"><li class="leaf first menu-mlid-1134 has-children what039sgoin039on"><a href="/ca/local-news" title="Celine Dion News">What's Goin' On</a></li><li class="leaf menu-mlid-613 has-children tourampevents"><a href="/ca/events" title="Celine Dion Tour &amp; Events">Tour &amp; Events</a></li><li class="leaf menu-mlid-1142 has-children music"><a href="/ca/music/original-recordings" title="Celine Dion Music">Music</a></li><li class="leaf menu-mlid-1116 has-children thejourneysofar"><a href="/ca/biography" title="Celine Dion Biography and Awards">The Journey So Far</a></li><li class="leaf menu-mlid-592 photos"><a href="/ca/photos" title="Photos">Photos</a></li><li class="leaf menu-mlid-583 has-children videos"><a href="/ca/videos" title="Celine Dion Videos">Videos</a></li><li class="leaf menu-mlid-4532 forum"><a href="/ca/forum/130" title="Celine Dion Forum">Forum</a></li><li class="leaf menu-mlid-614 screengems"><a href="/ca/extras" title="Celine Dion Extras">Screen Gems</a></li><li class="leaf last menu-mlid-1040 theboutique"><a href="http://boutique.celinedion.com/en/" title="Celine Dion Store">The Boutique</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</div> <!-- /navigation -->
+<div class="content_header">
+<div class="block block-block" id="block-block-4">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><iframe frameborder="0" height="250" scrolling="no" src="http://smarturl.it/celineUSFbanneren" width="300"></iframe>
+<!--<a href="http://smarturl.it/celineUSFBoutiqueEN" target="_blank"><img src="/sites/cdion/files/live2014-bigbox-en.jpg" alt="Celine - Une Seule Fois / Live 2013" width="300" height="250" border="0" /></a>-->
+</div>
+</div>
+</div>
+</div>
+<div class="column" id="main"><div id="squeeze">
+<div id="content-body">
+<h1 class="title">On This Day…</h1>
+<div id="content-body-inner">
+<div class="node nodetype-news clearfix" id="node-225900">
+<div class="datetime day-6">
+<span class="news-date">2014/07/26</span>
+<span class="news-time">2:00AM</span>
+<span class="news-flag"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/></span>
+</div>
+<div class="rhs">
+<div class="content clear-block">
+<!--paging_filter--><p>On this day last year, Celine and René were invested in the Order of Canada during a ceremony at the Residence of the Governor General at the Citadelle of Quebec in Quebec City. His Excellency the Right Honourable David Johnston, Governor General of Canada, presented the insignia of Companion of the Order of Canada to Céline and the insignia of Member of the Order of Canada to René. They were presented with these insignias in recognition of their strong values shared by Canadians and promoted throughout the world.<br/>
+<br/><img src="/sites/cdion/files/imagecache/preview/gg2013-0310-001.jpg"/></p>
+</div>
+<div class="links clear-block">
+<ul class="links inline"><li class="login_register first"><span class=" menu-item--a-href-ca-user-login-destination-node-225900-2523nodecomment-form-login-a-or-a-href-ca-user-register-destination-node-225900-2523nodecomment-form-register-a-to-post-comments odd"><a href="/ca/user/login?destination=node/225900%2523nodecomment_form">Login</a> or <a href="/ca/user/register?destination=node/225900%2523nodecomment_form">register</a> to post comments</span></li>
+<li class="service_links_delicious"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-delicious-png-alt-delicious-delicious even" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fday%25E2%2580%25A6-41&amp;title=On+This+Day%E2%80%A6" rel="nofollow" title="Bookmark this post on del.icio.us."><img alt="Delicious" src="/sites/all/modules/contrib/service_links/images/delicious.png"/> Delicious</a></li>
+<li class="service_links_digg"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-digg-png-alt-digg-digg odd" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fday%25E2%2580%25A6-41&amp;title=On+This+Day%E2%80%A6" rel="nofollow" title="Digg this post on digg.com."><img alt="Digg" src="/sites/all/modules/contrib/service_links/images/digg.png"/> Digg</a></li>
+<li class="service_links_reddit"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-reddit-png-alt-reddit-reddit even" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fday%25E2%2580%25A6-41&amp;title=On+This+Day%E2%80%A6" rel="nofollow" title="Submit this post on reddit.com."><img alt="Reddit" src="/sites/all/modules/contrib/service_links/images/reddit.png"/> Reddit</a></li>
+<li class="service_links_magnoliacom"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-magnoliacom-png-alt-magnoliacom-magnoliacom odd" href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fday%25E2%2580%25A6-41&amp;title=On+This+Day%E2%80%A6" rel="nofollow" title="Submit this post on ma.gnolia.com."><img alt="Magnoliacom" src="/sites/all/modules/contrib/service_links/images/magnoliacom.png"/> Magnoliacom</a></li>
+<li class="service_links_newsvine"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-newsvine-png-alt-newsvine-newsvine even" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fday%25E2%2580%25A6-41&amp;h=On+This+Day%E2%80%A6" rel="nofollow" title="Submit this post on newsvine.com."><img alt="Newsvine" src="/sites/all/modules/contrib/service_links/images/newsvine.png"/> Newsvine</a></li>
+<li class="service_links_facebook"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-facebook-png-alt-facebook-facebook odd" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fday%25E2%2580%25A6-41&amp;t=On+This+Day%E2%80%A6" rel="nofollow" title="Share on Facebook."><img alt="Facebook" src="/sites/all/modules/contrib/service_links/images/facebook.png"/> Facebook</a></li>
+<li class="service_links_google"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-google-png-alt-google-google even" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fday%25E2%2580%25A6-41&amp;title=On+This+Day%E2%80%A6" rel="nofollow" title="Bookmark this post on Google."><img alt="Google" src="/sites/all/modules/contrib/service_links/images/google.png"/> Google</a></li>
+<li class="service_links_yahoo"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-png-alt-yahoo-yahoo odd" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fday%25E2%2580%25A6-41&amp;t=On+This+Day%E2%80%A6" rel="nofollow" title="Bookmark this post on Yahoo."><img alt="Yahoo" src="/sites/all/modules/contrib/service_links/images/yahoo.png"/> Yahoo</a></li>
+<li class="service_links_yahoo_buzz"><a class="yahoo-buzz yahoo-buzz-225900 menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-buzz-png-alt-yahoo-buzz-yahoo-buzz even" href="http://buzz.yahoo.com/submit" rel="nofollow" title="Bookmark this post on Yahoo! Buzz."><img alt="Yahoo! Buzz" src="/sites/all/modules/contrib/service_links/images/yahoo-buzz.png"/> Yahoo! Buzz</a></li>
+<li class="service_links_technorati last"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-technorati-png-alt-technorati-technorati odd" href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fday%25E2%2580%25A6-41" rel="nofollow" title="Search Technorati for links to this post."><img alt="Technorati" src="/sites/all/modules/contrib/service_links/images/technorati.png"/> Technorati</a></li>
+</ul> </div>
+</div>
+</div>
+<div id="comments"><h1 class="comment-headline">Comments for this News article</h1><div class="view view-nodecomments view-id-nodecomments view-display-id-nodecomment_comments_1 view-dom-id-1">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="node" id="comment-226346">
+<div class="clear-block">
+<h2 class="node-title title"><a class="active" href="/ca/news/day%E2%80%A6-41#comment-226346">Re: On This Day…</a> </h2>
+</div>
+<div class="submitted"><span class="username">Rebecca90</span> <span class="comment-date">August 3rd, 2014 - 4:35pm</span></div>
+<div class="clear-block picture-content">
+<div class="picture"><div><img alt="" height="80" src="http://www.celinedion.com/sites/cdion/files/imagecache/icon_medium-large/pictures/picture-13726.jpg" title="" width="80"/></div></div>
+<div class="content">
+<p>Congrats! I'm so proud of you <img alt="Smile" class="smiley-content" src="/sites/all/modules/contrib/smileys/packs/Roving/smile.png" title="Smile"/></p>
+</div>
+</div>
+<div class="clear-block">
+<div class="meta">
+</div>
+</div>
+</div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="node" id="comment-226040">
+<div class="clear-block">
+<h2 class="node-title title"><a class="active" href="/ca/news/day%E2%80%A6-41#comment-226040">Re: On This Day…</a> </h2>
+</div>
+<div class="submitted"><span class="username">SamSmith</span> <span class="comment-date">July 28th, 2014 - 9:06am</span></div>
+<div class="clear-block picture-content">
+<div class="picture"><div><img alt="" height="80" src="http://www.celinedion.com/sites/cdion/files/imagecache/icon_medium-large/pictures/picture-56467.jpg" title="" width="80"/></div></div>
+<div class="content">
+<p>I cannot think of two more deserving people to receive these accolations. I can't think of any other international superstar who has Celine's spirit, generosity, genuine love for others, determination and dedication in every single thing she does. Her professionalism, and as a couple is one like no other. Congratulations - 100% deserved. xx</p>
+</div>
+<div class="user-signature clear-block">
+<div class="clear"><div>—</div> <p>Samantha Smith<br/>
+Celine gives me a reason to go on. She is my inspiration for life. Lucky enough to meet her in 2003, March 26th making Vegas show 20 mins late! And also hugged in audience Jan 8th and signed program Jan 11 2014 <img alt="Laughing out loud" class="smiley-content" src="http://www.celinedion.com/sites/all/modules/contrib/smileys/packs/Roving/lol.png" title="Laughing out loud"/>. See my incredible story</p>
+</div> </div>
+</div>
+<div class="clear-block">
+<div class="meta">
+</div>
+</div>
+</div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="node" id="comment-226016">
+<div class="clear-block">
+<h2 class="node-title title"><a class="active" href="/ca/news/day%E2%80%A6-41#comment-226016">Re: On This Day…</a> </h2>
+</div>
+<div class="submitted"><span class="username">agvnkone</span> <span class="comment-date">July 27th, 2014 - 12:07pm</span></div>
+<div class="clear-block picture-content">
+<div class="picture"><div><img alt="" height="80" src="http://www.celinedion.com/sites/cdion/files/imagecache/icon_medium-large/pictures/picture-100474.jpg" title="" width="80"/></div></div>
+<div class="content">
+<p>wow ... amazing Celine Dion, <span style="font-weight:bold"><a class="bb-url" href="http://www.ajangbola.com/2014/05/berita-bola-terbaru-serta-prediksi-skor.html">Berita Bola Terbaru serta Prediksi Skor Pertandingan</a></span></p>
+<p><img alt="" class="bb-image" src="http://hotspotorlando.files.wordpress.com/2012/09/prn2-columbia-records-celine-dion-1y-2high.jpg"/></p>
+<table class="sticky-enabled" id="attachments">
+<thead><tr><th>Attachment</th><th>Size</th> </tr></thead>
+<tbody>
+<tr class="odd"><td><a href="http://www.celinedion.com/sites/cdion/files/pg-celinedion.jpg">pg-celinedion.jpg</a></td><td>57.09 KB</td> </tr>
+</tbody>
+</table>
+</div>
+<div class="user-signature clear-block">
+<div class="clear"><div>—</div> <p>Berita Bola Terkini dan Info Prediksi Skor Bola Jitu<br/>
+Berita Bola Terkini dan Info Prediksi Skor Bola Jitu, Jadwal Sepak Bola, Tips Prediksi Jitu, Live Skor, Tebak Skor,  Live Score, Jadwal Pertandingan, Liga Indonesia, Liga Eropa, Sepakbola Dunia, Klase</p>
+</div> </div>
+</div>
+<div class="clear-block">
+<div class="meta">
+</div>
+</div>
+</div> </div>
+<div class="views-row views-row-4 views-row-even">
+<div class="node" id="comment-225993">
+<div class="clear-block">
+<h2 class="node-title title"><a class="active" href="/ca/news/day%E2%80%A6-41#comment-225993">Re: On This Day…</a> </h2>
+</div>
+<div class="submitted"><span class="username">rsceline</span> <span class="comment-date">July 26th, 2014 - 9:29pm</span></div>
+<div class="clear-block picture-content">
+<div class="picture"><div><img alt="" height="80" src="http://www.celinedion.com/sites/cdion/files/imagecache/icon_medium-large/pictures/picture-11963.jpg" title="" width="80"/></div></div>
+<div class="content">
+<p>I remember hearing/reading/watching coverage about this! Well deserved for sure!  Congrats Rene &amp; Celine! Hard to believe that it's already been a year since Celine performed 'LMBTL' for the first time! You make Canada look good Rene &amp; Celine! Way to represent!</p>
+</div>
+</div>
+<div class="clear-block">
+<div class="meta">
+</div>
+</div>
+</div> </div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="node" id="comment-225991">
+<div class="clear-block">
+<h2 class="node-title title"><a class="active" href="/ca/news/day%E2%80%A6-41#comment-225991">Re: On This Day…</a> </h2>
+</div>
+<div class="submitted"><span class="username">Miville</span> <span class="comment-date">July 26th, 2014 - 8:17pm</span></div>
+<div class="clear-block picture-content">
+<div class="picture"><img alt="" height="80" src="http://www.celinedion.com/sites/cdion/files/imagecache/icon_medium-large/pictures/user-default.jpg" title="" width="80"/></div>
+<div class="content">
+<p>Bonjour and a belated Congrats from your Miville dit Des Chesnes relatives of Maine, you resemble the beautiful Catherine de Baillon much !</p>
+</div>
+</div>
+<div class="clear-block">
+<div class="meta">
+</div>
+</div>
+</div> </div>
+<div class="views-row views-row-6 views-row-even views-row-last">
+<div class="node" id="comment-225971">
+<div class="clear-block">
+<h2 class="node-title title"><a class="active" href="/ca/news/day%E2%80%A6-41#comment-225971">Re: On This Day…</a> </h2>
+</div>
+<div class="submitted"><span class="username">Leah-M_ILuvUCelineD...</span> <span class="comment-date">July 26th, 2014 - 2:25am</span></div>
+<div class="clear-block picture-content">
+<div class="picture"><div><img alt="" height="80" src="http://www.celinedion.com/sites/cdion/files/imagecache/icon_medium-large/pictures/picture-80936.jpg" title="" width="80"/></div></div>
+<div class="content">
+<p>Congratulations Celine and Rene <img alt="Laughing out loud" class="smiley-content" src="/sites/all/modules/contrib/smileys/packs/Roving/lol.png" title="Laughing out loud"/> I'm so happy for you both and I cannot believe that it will be a year ago tomorrow when Celine did her Une Seule Fois concert <img alt="Laughing out loud" class="smiley-content" src="/sites/all/modules/contrib/smileys/packs/Roving/lol.png" title="Laughing out loud"/> I really really wish I could have been there <img alt="Laughing out loud" class="smiley-content" src="/sites/all/modules/contrib/smileys/packs/Roving/lol.png" title="Laughing out loud"/><br/>
+and team Celine, you wouldn't happen to have the full video of the Press conference Celine and Rene did last year at this time would you because this is all I could find <a href="https://www.youtube.com/watch?feature=player_detailpage&amp;v=wH1HtulmzmQ" title="https://www.youtube.com/watch?feature=player_detailpage&amp;v=wH1HtulmzmQ">https://www.youtube.com/watch?feature=player_detailpage&amp;v=wH1HtulmzmQ</a><br/>
+the full video was on YouTube at one point but for some reason it was taken off and now there's only a small part of it with not the best quality <img alt="Sad" class="smiley-content" src="/sites/all/modules/contrib/smileys/packs/Roving/aw.png" title="Sad"/> and I would really love to see the whole thing again plus with great quality <img alt="Laughing out loud" class="smiley-content" src="/sites/all/modules/contrib/smileys/packs/Roving/lol.png" title="Laughing out loud"/> I really hope you would be able to repost it <img alt="Smile" class="smiley-content" src="/sites/all/modules/contrib/smileys/packs/Roving/smile.png" title="Smile"/> (By the way I love when the boat came along and Celine sang the Titanic <img alt="Wink" class="smiley-content" src="/sites/all/modules/contrib/smileys/packs/Roving/wink.png" title="Wink"/> hahaha so funny <img alt="Laughing out loud" class="smiley-content" src="/sites/all/modules/contrib/smileys/packs/Roving/lol.png" title="Laughing out loud"/> )<br/>
+I love you forever Celine <img alt="Smile" class="smiley-content" src="/sites/all/modules/contrib/smileys/packs/Roving/smile.png" title="Smile"/></p>
+</div>
+<div class="user-signature clear-block">
+<div class="clear"><div>—</div> <p><a class="bb-url" href="http://s166.photobucket.com/user/leahmilligan5/media/0cc5bdd1-9a67-433d-b431-f9d19f57038f_zps2c0ff237.jpg.html"><img alt="" class="bb-image" src="http://i166.photobucket.com/albums/u106/leahmilligan5/0cc5bdd1-9a67-433d-b431-f9d19f57038f_zps2c0ff237.jpg"/></a></p>
+</div> </div>
+</div>
+<div class="clear-block">
+<div class="meta">
+</div>
+</div>
+</div> </div>
+</div>
+</div> </div>
+<div class="clear-block" id="breadcrumb"><div class="breadcrumb"><a href="/ca">Home</a> » On This Day…</div></div>
+</div>
+</div> <!-- /content-body -->
+</div></div> <!-- /squeeze /main -->
+</div> <!-- /container -->
+</div> <!-- /page -->
+<div id="footer-wrapper">
+<div id="footer">
+<div id="logo-bottom">
+<a href="/ca/home" title="Home"><img src="/sites/celinedion.com/themes/cdion6_2/images/logo-bottom.png"/></a>
+</div>
+<div class="menu withprimary withsecondary " id="navigation-bottom">
+<div id="navigation-lvl1-bottom">
+<div class="block block-menu_block" id="block-menu_block-1">
+<div class="blockinner clear-block">
+<div class="content">
+<div class="menu-name-primary-links parent-mlid-0 menu-level-1">
+<ul class="menu"><li class="leaf first menu-mlid-1134 has-children what039sgoin039on"><a href="/ca/local-news" title="Celine Dion News">What's Goin' On</a></li><li class="leaf menu-mlid-613 has-children tourampevents"><a href="/ca/events" title="Celine Dion Tour &amp; Events">Tour &amp; Events</a></li><li class="leaf menu-mlid-1142 has-children music"><a href="/ca/music/original-recordings" title="Celine Dion Music">Music</a></li><li class="leaf menu-mlid-1116 has-children thejourneysofar"><a href="/ca/biography" title="Celine Dion Biography and Awards">The Journey So Far</a></li><li class="leaf menu-mlid-592 photos"><a href="/ca/photos" title="Photos">Photos</a></li><li class="leaf menu-mlid-583 has-children videos"><a href="/ca/videos" title="Celine Dion Videos">Videos</a></li><li class="leaf menu-mlid-4532 forum"><a href="/ca/forum/130" title="Celine Dion Forum">Forum</a></li><li class="leaf menu-mlid-614 screengems"><a href="/ca/extras" title="Celine Dion Extras">Screen Gems</a></li><li class="leaf last menu-mlid-1040 theboutique"><a href="http://boutique.celinedion.com/en/" title="Celine Dion Store">The Boutique</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</div> <!-- /navigation -->
+<p>
+      Copyright © 1996-2015 Five Star Feeling Inc. Copyright © 1996-2015 Sony Music Entertainment Canada Inc. All Rights Reserved.      </p>
+<p>
+<a href="http://www.sonymusic.ca/privacy/">Privacy Policy</a> | <a href="http://www.sonymusic.ca/terms/">Terms and Conditions</a> </p>
+</div> <!-- /footer -->
+</div> <!-- /footer-wrapper -->
+<div id="page-bottom">
+<div class="block block-block" id="block-block-16">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><!-- Google Code for Celine Dion Official Site 30 Days Conversion Page -->
+
+
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="https://www.googleadservices.com/pagead/conversion/1004966373/?value=0&amp;label=MlL6CJv1hwMQ5aOa3wM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+</div>
+</div>
+</div>
+<div class="block block-block" id="block-block-17">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><!-- Google Code for Celine Dion Official Site 365 Days Conversion Page -->
+
+
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="https://www.googleadservices.com/pagead/conversion/1004966373/?value=0&amp;label=Bmb1CJP2hwMQ5aOa3wM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+</div>
+</div>
+</div>
+</div>
+<div class="highslide-overlay closebutton" id="closebutton" onclick="return hs.close(this)" title="Close"></div>
+
+</body>
+</html>

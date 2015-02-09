@@ -1,0 +1,16 @@
+Title: Big Daddy and Hit Girl in The Dark Knight Rises - Battles - Comic Vine
+Server: nginx/1.2.0
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.17
+Set-Cookie: PHPSESSID=2mnmbmjco6fqgur5fkfb1540a5; path=/; domain=.comicvine.com
+Set-Cookie: ads_firstpg=1; expires=Tue, 10-Feb-2015 05:00:00 GMT; path=/; domain=comicvine.com
+Set-Cookie: AD_SESSION=f; path=/; domain=comicvine.com
+Cache-Control: no-cache
+Date: Mon, 09 Feb 2015 23:41:44 GMT
+Set-Cookie: sptg=%5B%5D; expires=Mon, 23-Feb-2015 23:41:44 GMT; path=/; httponly
+Set-Cookie: xcab=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: device_view=full; expires=Mon, 09-Mar-2015 07:00:00 GMT; path=/; httponly
+

@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]>     <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><![endif]-->
+<!--[if IE 7]>        <html class="no-js lt-ie9 lt-ie8" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><![endif]-->
+<!--[if IE 8]>        <html class="no-js lt-ie9" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes" name="viewport"/>
+<title>Sam Raimi talks 'Spider-Man 3', says it was "awful" - Spider-Man News</title>
+<!-- Push notifications for this website enabled by Roost. Support for Safari, Firefox, and Chrome Browser Push. (v 2.2.0) - http://goroost.com/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta content="Sam Raimi, director of the original Tobey MaGuire Spider-Man trilogy, was a guest on the Nerdist Podcast this week. Part of the conversation turned to Spid" name="description"/>
+<link href="http://spidermannews.com/2014/12/30/sam-raimi-talks-spider-man-3-says-awful/" rel="canonical"/>
+<link href="https://plus.google.com/+Spidermannews/" rel="publisher"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="Sam Raimi talks ‘Spider-Man 3’, says it was “awful”" property="og:title"/>
+<meta content="Sam Raimi, director of the original Tobey MaGuire Spider-Man trilogy, was a guest on the Nerdist Podcast this week. Part of the conversation turned to Spid" property="og:description"/>
+<meta content="http://spidermannews.com/2014/12/30/sam-raimi-talks-spider-man-3-says-awful/" property="og:url"/>
+<meta content="Spider-Man News" property="og:site_name"/>
+<meta content="https://www.facebook.com/spidermannewscom" property="article:publisher"/>
+<meta content="Sam Raimi" property="article:tag"/>
+<meta content="Culture" property="article:section"/>
+<meta content="2014-12-30T19:16:25+00:00" property="article:published_time"/>
+<meta content="45608554" property="fb:admins"/>
+<meta content="http://spidermannews.com/wp-content/uploads/2014/12/Spider-Man-3-2007.jpg" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Sam Raimi, director of the original Tobey MaGuire Spider-Man trilogy, was a guest on the Nerdist Podcast this week. Part of the conversation turned to Spid" name="twitter:description"/>
+<meta content="Sam Raimi talks 'Spider-Man 3', says it was &quot;awful&quot; - Spider-Man News" name="twitter:title"/>
+<meta content="@SpiderMan_News" name="twitter:site"/>
+<meta content="Spider-Man News" name="twitter:domain"/>
+<meta content="@SpiderMan_News" name="twitter:creator"/>
+<meta content="http://i0.wp.com/spidermannews.com/wp-content/uploads/2014/12/Spider-Man-3-2007.jpg?resize=1920%2C1080" name="twitter:image:src"/>
+<!-- / Yoast WordPress SEO plugin. -->
+<link href="http://spidermannews.com/wp-content/uploads/wp-less-cache/superhero-less.css?ver=1420941465" id="superhero-less-css" media="all" rel="stylesheet" type="text/css"/>
+<!-- This site uses the Google Analytics by Yoast plugin v5.3 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+
+<!-- / Google Analytics by Yoast -->
+
+
+
+<link href="http://spidermannews.com/?p=2821" rel="shortlink"/>
+<link href="http://spidermannews.com/wp-content/uploads/2013/03/favicon1.png" rel="shortcut icon" type="image/x-icon">
+<link href="http://spidermannews.com/wp-content/uploads/2013/03/spiderman-apple-touch1.png" rel="apple-touch-icon-precomposed">
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<link href="http://spidermannews.com/xmlrpc.php" rel="pingback">
+<!--[if lt IE 9]><script src="http://spidermannews.com/wp-content/themes/superhero/js/respond.min.js" type="text/javascript"></script><![endif]-->
+<style id="custom-background-css" type="text/css">
+body.custom-background { background-color: #000000; background-image: url('http://spidermannews.com/wp-content/uploads/2014/10/the_amazing_spiderman_bg04_mini.jpg'); background-repeat: no-repeat; background-position: top center; background-attachment: fixed; }
+</style>
+</link></link></link></link></meta></meta></head>
+<body class="single single-post postid-2821 single-format-standard custom-background has-network-bar">
+<div class="network-bar-container">
+<div class="network-bar cf">
+<div class="dropdown-list">
+<h4 class="dropdown-list__title">More Heroes</h4><ul class="dropdown-list__items" id="menu-more-heroes"><li class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-2833 menu-item-superhero-news" id="menu-item-2833"><a href="http://superheronews.com/">Superhero News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-1683 menu-item-batman" id="menu-item-1683"><a href="http://batman-news.com">Batman</a></li>
+</ul> </div>
+<div class="latest-news">
+<h4 class="latest-news__title">The Big Story:</h4>
+<a href="http://superheronews.com/">					Say hello to Superhero News!				</a> </div>
+<a class="network-bar-to-top"><img alt="Back to Top" src="http://spidermannews.com/wp-content/uploads/2014/10/logo-simple.png"/></a> </div>
+</div>
+<div class="ad-leaderboard cf">
+<style>
+.spider-man-728x90-responsive { width: 320px; height: 50px; }
+@media(min-width: 480px) { .spider-man-728x90-responsive { width: 468px; height: 60px; } }
+@media(min-width: 768px) { .spider-man-728x90-responsive { width: 728px; height: 90px; } }
+</style>
+
+<!-- Spider-Man (728x90) Responsive -->
+<ins class="adsbygoogle spider-man-728x90-responsive" data-ad-client="ca-pub-3927325030573624" data-ad-slot="2147695327" style="display:inline-block"></ins>
+</div>
+<div class="hfeed site page-fence cf" id="page">
+<header class="site-header" id="masthead" role="banner">
+<div id="branding">
+<a class="site-logo" href="http://spidermannews.com/"><img alt="Spider-Man News" src="http://spidermannews.com/wp-content/uploads/2014/10/logo2.png"/></a> <h1 class="site-title"><a href="http://spidermannews.com/">Spider-Man News</a></h1>
+<h2 class="site-description">The Premier Source For All Things Spider-Man</h2>
+</div>
+<div class="header-navigation">
+<nav class="site-navigation site-navigation--header navbar navbar--dropdown nav-toggle is-closed" id="site-navigation" role="navigation">
+<ul class="menu" id="menu-header"><li class="toggle-opposite-network-bar menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-2834 menu-item-superhero-news" id="menu-item-2834"><a href="http://superheronews.com/">Superhero News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-387 menu-item-movies" id="menu-item-387"><a href="http://spidermannews.com/category/movies/">Movies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2287 menu-item-culture" id="menu-item-2287"><a href="http://spidermannews.com/category/culture/">Culture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-499 menu-item-photos" id="menu-item-499"><a href="http://spidermannews.com/tag/photos/">Photos</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-400 menu-item-videos" id="menu-item-400"><a href="http://spidermannews.com/tag/videos/">Videos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-502 menu-item-contact" id="menu-item-502"><a href="http://spidermannews.com/contact/">Contact</a></li>
+</ul> <form action="http://spidermannews.com/" class="search-form" method="get" role="search">
+<div>
+<label class="screen-reader-text">Search for:</label>
+<input class="search-field" id="s" name="s" placeholder="Search" type="text" value="">
+<button class="search-submit" type="submit"><i class="icon-search"></i></button>
+</input></div>
+</form>
+<a class="nav-toggle__trigger icon-menu" href="#site-navigation"></a>
+</nav>
+<nav class="social-navigation social-navigation--header navbar nav-toggle is-closed">
+<ul class="menu" id="menu-social"><li class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-403 menu-item-facebook" id="menu-item-403"><a href="http://facebook.com/spidermannewscom" target="_blank">Facebook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-491 menu-item-twitter" id="menu-item-491"><a href="http://twitter.com/spiderman_news" target="_blank">Twitter</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-418 menu-item-google" id="menu-item-418"><a href="https://plus.google.com/u/0/111835810464551753540/posts" target="_blank">Google+</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-493 menu-item-youtube" id="menu-item-493"><a href="https://www.youtube.com/SpiderManNewsCom" target="_blank">YouTube</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-396 menu-item-feed" id="menu-item-396"><a href="http://spidermannews.com/feed/" target="_blank">Feed</a></li>
+</ul> <a class="nav-toggle__trigger nav-toggle__trigger--social icon-share" href="#site-navigation"></a>
+</nav>
+</div>
+</header>
+<div class="cf" id="main">
+<div class="intermission intermission--features cf" id="intermission--features">
+<div class="grid--3">
+<a class="media-object touchcarousel-item post-1" href="http://spidermannews.com/2015/01/30/j-k-simmons-might-return-amazing-spider-man-franchise-j-jonah-jameson-audio/">
+<h5 class="media-object__text">J.K. Simmons might return to ‘The Amazing Spider-Man’ franchise as J. Jonah Jameson</h5><img alt="J. Jonah Jameson" class="media-object__image wp-post-image" src="http://i2.wp.com/spidermannews.com/wp-content/uploads/2014/04/J.-Jonah-Jameson.jpg?resize=80%2C80"/> </a>
+<a class="media-object touchcarousel-item post-2" href="http://spidermannews.com/2015/01/10/say-hello-superhero-news/">
+<h5 class="media-object__text">Say hello to Superhero News!</h5><img alt="welcome-to-superhero-news" class="media-object__image wp-post-image" src="http://i0.wp.com/spidermannews.com/wp-content/uploads/2015/01/welcome-to-superhero-news.jpg?resize=80%2C80"/> </a>
+<a class="media-object touchcarousel-item post-3" href="http://spidermannews.com/2014/12/12/marvel-still-pursuing-sony-deal-wants-reboot-spider-man-without-andrew-garfield/">
+<h5 class="media-object__text">Marvel still pursuing Sony deal, wants to reboot Spider-Man without Andrew Garfield</h5><img alt="PeterSpidey" class="media-object__image wp-post-image" src="http://i2.wp.com/spidermannews.com/wp-content/uploads/2013/12/PeterSpidey.jpg?resize=80%2C80"/> </a>
+</div>
+</div>
+<article class="post-2821 post type-post status-publish format-standard has-post-thumbnail hentry category-culture tag-sam-raimi" id="post-2821" role="article">
+<div role="main">
+<header class="page-header entry-header">
+<h1 class="page-header__title entry-title">Sam Raimi talks ‘Spider-Man 3’, says it was “awful”</h1>
+<p class="entry-meta entry-meta--header">
+<span class="sep">By</span>
+<span class="author vcard"><strong class="fn"><a href="http://spidermannews.com/author/Chris/" rel="author" title="Posts by Chris Begley">Chris Begley</a></strong></span>
+<span class="sep">on</span>
+<time class="entry-date published" datetime="2014-12-31T00:16:25+00:00" pubdate="pubdate"><strong>December 30th, 2014</strong></time>
+					| <a class="url" href="http://twitter.com/SpiderMan_News" target="_blank"><i class="icon-twitter"></i> <strong>@SpiderMan_News</strong></a> <a class="comments-link" href="http://spidermannews.com/2014/12/30/sam-raimi-talks-spider-man-3-says-awful/#respond" title="Comment on Sam Raimi talks ‘Spider-Man 3’, says it was “awful”"><span class="dsq-postid" data-dsqidentifier="2821 http://spidermannews.com/?p=2821"><b class="comments-link__count"></b> <span class="comments-link__label"></span></span></a> </p>
+</header>
+<div class="primary">
+<div class="content entry-content">
+<div class="hero"><img alt="Spider-Man-3-2007" class="attachment-post-hero" src="http://i0.wp.com/spidermannews.com/wp-content/uploads/2014/12/Spider-Man-3-2007.jpg?w=800"/></div>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_counter_style" id="addthis" style="top: 50px; left: 50px">
+<a class="twitter-share-button" data-count="vertical" data-text="Sam Raimi talks ‘Spider-Man 3’, says it was “awful”" data-url="http://spidermannews.com/2014/12/30/sam-raimi-talks-spider-man-3-says-awful/" data-via="SpiderMan_News" href="https://twitter.com/share">Tweet</a>
+<div class="fb-like-single" style="margin-top:3px; margin-bottom:10px"><div class="fb-like" data-action="like" data-href="http://spidermannews.com/2014/12/30/sam-raimi-talks-spider-man-3-says-awful/" data-layout="box_count" data-share="false" data-show-faces="false"></div></div>
+<div class="g-plusone" data-size="tall"></div>
+</div>
+<!-- AddThis Button END -->
+<p>Sam Raimi, director of the original Tobey MaGuire Spider-Man trilogy, was a guest on the Nerdist Podcast this week. Part of the conversation turned to <strong>Spider-Man 3</strong>, which is regarded among fans as the weakest of Raimi’s Spider-Man movies. Turns out, he agrees! Here’s what he had to say about it:</p>
+<blockquote><p>Rami: It’s a movie that just didn’t work very well. I tried to make it work, but I didn’t really believe in all the characters, so that couldn’t be hidden from people who loved Spider-Man. If the director doesn’t love something, it’s wrong of them to make it when so many other people love it. I think [raising the stakes after Spider-Man 2] was the thinking going into it, and I think that’s what doomed us. I should’ve just stuck with the characters and the relationships and progressed them to the next step and not tried to top the bar…</p>
+<p>Rami: [But] directors don’t like to talk about their bad films.</p>
+<p>Nerdist: I don’t think that ‘bad’ is the right word.</p>
+<p>Raimi: Awful!</p></blockquote>
+<p>How did you feel about <strong>Spider-Man 3</strong>? Let me know in the comments below.</p>
+<p><strong>SOURCE:</strong> <a href="https://www.nerdist.com/pepisode/nerdist-podcast-sam-raimi/" target="_blank">Nerdist</a> (via <a href="http://www.comicbookmovie.com/fansites/nailbiter111/news/?a=112960" target="_blank">Comic Book Movie</a>)</p>
+</div>
+<aside class="primary-block-ad" data-set="primary-block-ad"></aside>
+<footer class="entry-meta entry-meta--footer">
+<div class="social-network-bar cf">
+<img src="http://spidermannews.com/wp-content/uploads/2014/10/logo21.png">
+<strong class="social-network-bar__title">Follow Spider-Man News</strong>
+<ul>
+<li>
+<div class="fb-like" data-action="like" data-href="http://facebook.com/spidermannewscom" data-layout="button_count" data-share="false" data-show-faces="false"></div>
+</li>
+<li>
+<a class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" href="https://twitter.com/Spiderman_News">Follow @Spiderman_News</a>
+</li>
+<li>
+<div class="g-follow" data-annotation="none" data-height="20" data-href="https://plus.google.com/u/0/111835810464551753540/posts" data-rel="publisher"></div>
+</li>
+</ul>
+</img></div>
+<div id="fb-root"></div>
+
+
+
+<p class="share-buttons">
+<a class="icon-twitter" href="http://twitter.com/share?url=http%3A%2F%2Fspidermannews.com%2F2014%2F12%2F30%2Fsam-raimi-talks-spider-man-3-says-awful%2F&amp;text=Sam%20Raimi%20talks%20%27Spider-Man%203%27%2C%20says%20it%20was%20%22awful%22&amp;related=SpiderMan_News&amp;via=SpiderMan_News" onclick="window.open('http://twitter.com/share?url=http%3A%2F%2Fspidermannews.com%2F2014%2F12%2F30%2Fsam-raimi-talks-spider-man-3-says-awful%2F&amp;text=Sam%20Raimi%20talks%20%27Spider-Man%203%27%2C%20says%20it%20was%20%22awful%22&amp;related=SpiderMan_News&amp;via=SpiderMan_News','tweet','width=550,height=260,directories=no,location=no,menubar=no,scrollbars=no,status=no,toolbar=no'); return false;"></a>
+<a class="icon-facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fspidermannews.com%2F2014%2F12%2F30%2Fsam-raimi-talks-spider-man-3-says-awful%2F&amp;t=Sam%20Raimi%20talks%20%27Spider-Man%203%27%2C%20says%20it%20was%20%22awful%22" onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fspidermannews.com%2F2014%2F12%2F30%2Fsam-raimi-talks-spider-man-3-says-awful%2F&amp;t=Sam%20Raimi%20talks%20%27Spider-Man%203%27%2C%20says%20it%20was%20%22awful%22','fbshare','width=640,height=320,directories=no,location=no,menubar=no,scrollbars=no,status=no,toolbar=no'); return false;"></a>
+<a class="icon-google-plus" href="http://plus.google.com/share?url=http://spidermannews.com/2014/12/30/sam-raimi-talks-spider-man-3-says-awful/" onclick="window.open('http://plus.google.com/share?url=http://spidermannews.com/2014/12/30/sam-raimi-talks-spider-man-3-says-awful/','tweet','width=600,height=600,directories=no,location=no,menubar=no,scrollbars=yes,status=no,toolbar=no'); return false;"></a>
+</p>
+<p class="term-list">
+<span class="term-list__label">Related<span class="sep">:</span></span>
+<a href="http://spidermannews.com/category/culture/" rel="category tag">Culture</a> <a href="http://spidermannews.com/tag/sam-raimi/" rel="tag">Sam Raimi</a> </p>
+<div data-str-native-key="8edfb47c" style="display: none;"></div>
+</footer>
+<section class="wp_rp_wrap cf">
+<h3 class="related_post_title superheronews-related-posts-title">
+<a href="http://superheronews.com/"><svg id="svg-logo" viewbox="0 0 352 36">
+<path d="M34.874,6.591l-0.029-0.816l-0.694-0.431c-0.291-0.181-7.234-4.434-16.229-4.434c-8.995,0-15.938,4.253-16.229,4.434
+		L0.996,5.777L0.971,6.598C0.96,6.941,0.762,15.1,5.27,22.884c4.508,7.784,11.668,11.66,11.97,11.822l0.723,0.385l0.722-0.387
+		c0.301-0.161,7.421-4.037,11.928-11.82C35.124,15.097,34.887,6.934,34.874,6.591z M17.957,31.57
+		c-1.465-0.911-4.89-3.275-7.879-7.062c2.314-0.852,5.035-1.529,7.845-1.529c0.561,0,1.117,0.028,1.668,0.077
+		c0.796-0.808,1.603-1.735,2.354-2.776c-1.295-0.231-2.644-0.369-4.022-0.369c-3.556,0-6.921,0.913-9.664,1.996
+		c-0.114-0.185-0.226-0.372-0.336-0.562C4.661,15.714,4.131,9.708,4.049,7.536c1.918-1.017,7.368-3.56,13.874-3.56
+		c6.512,0,11.965,2.548,13.878,3.562c-0.036,1.094-0.183,3.165-0.739,5.673c-3.02-1.595-7.866-3.601-13.138-3.601
+		c-2.802,0-5.486,0.567-7.839,1.337c0.17,0.908,0.407,1.928,0.734,2.997c2.145-0.725,4.59-1.268,7.106-1.268
+		c4.971,0,9.657,2.117,12.302,3.58c-0.546,1.654-1.28,3.389-2.266,5.091C24.698,26.979,19.789,30.42,17.957,31.57z" id="svg-logo-icon"></path>
+<path d="M320.532,26.071l-2.444-6.918l-1.407-4.451l-1.407,4.451l-2.444,6.918h-3.736l-6.665-16.143h3.736l2.859,6.918l1.845,4.912
+		l1.545-4.912l2.444-6.918h3.644l2.444,6.918l1.545,4.912l1.845-4.912l2.859-6.918h3.736l-6.665,16.143H320.532z M88.337,9.929
+		h3.459v9.686c0,4.774-3.229,6.803-9.686,6.803c-6.457,0-9.686-2.029-9.686-6.803V9.929h3.459v9.686
+		c0,2.998,2.652,3.575,6.226,3.575s6.226-0.577,6.226-3.575V9.929z M95.983,26.071V9.929h12.084c3.713,0,6.942,1.43,6.942,5.696
+		c0,4.266-3.229,5.719-6.942,5.719h-8.625v4.728H95.983z M99.442,13.157v4.958h8.856c1.868,0,3.182-0.623,3.182-2.491
+		c0-1.845-1.315-2.468-3.182-2.468H99.442z M118.504,26.071V9.929h17.503v3.229h-14.044v2.998h12.66v3.229h-12.66v3.459h14.505
+		v3.229H118.504z M140.195,9.929h12.799c3.459,0,6.227,1.315,6.227,5.189c0,3.805-2.79,5.074-6.18,5.074h-0.208l7.08,5.881h-5.35
+		l-6.595-5.765h-4.312v5.765h-3.459V9.929z M153.11,17.078c1.522,0,2.583-0.507,2.583-1.96s-1.061-1.96-2.583-1.96h-9.455v3.92
+		H153.11z M178.398,26.071v-6.688h-11.992v6.688h-3.459V9.929h3.459v6.227h11.992V9.929h3.459v16.143H178.398z M186.044,26.071
+		V9.929h17.503v3.229h-14.044v2.998h12.661v3.229h-12.661v3.459h14.505v3.229H186.044z M207.735,9.929h12.799
+		c3.459,0,6.227,1.315,6.227,5.189c0,3.805-2.79,5.074-6.18,5.074h-0.208l7.08,5.881h-5.35l-6.595-5.765h-4.312v5.765h-3.459V9.929z
+		 M220.65,17.078c1.522,0,2.583-0.507,2.583-1.96s-1.061-1.96-2.583-1.96h-9.455v3.92H220.65z M240.864,9.583
+		c7.126,0,10.839,3.621,10.839,8.417s-3.713,8.417-10.839,8.417c-7.126,0-10.839-3.621-10.839-8.417S233.738,9.583,240.864,9.583z
+		 M240.864,23.189c5.004,0,7.31-2.145,7.31-5.189c0-3.044-2.306-5.189-7.31-5.189c-5.004,0-7.31,2.145-7.31,5.189
+		C233.554,21.044,235.86,23.189,240.864,23.189z M277.108,9.929h3.459v16.143h-3.459l-12.407-11.784l0.069,2.56v9.225h-3.459V9.929
+		h3.459l12.407,11.807l-0.069-2.583V9.929z M284.754,26.071V9.929h13.486l1.332,3.229h-11.359v2.998h11.138l1.365,3.229h-12.503
+		v3.459h15.372l1.319,3.229H284.754z M63.853,16.343L63.853,16.343h-9.643l0,0c-0.88,0-1.593-0.713-1.593-1.593
+		c0-0.88,0.713-1.593,1.593-1.593h12.672l1.355-3.229H54.211c-2.687,0-4.864,2.178-4.864,4.864s2.178,4.864,4.864,4.864l0,0h9.643
+		l0,0c0.88,0,1.593,0.713,1.593,1.593s-0.713,1.593-1.593,1.593H51.181l-1.355,3.229h14.027c2.687,0,4.864-2.178,4.864-4.864
+		S66.54,16.343,63.853,16.343z M346.169,16.343L346.169,16.343h-8.682l0,0c-0.88,0-1.593-0.713-1.593-1.593
+		c0-0.88,0.713-1.593,1.593-1.593h11.711l1.355-3.229h-13.066c-2.687,0-4.864,2.178-4.864,4.864s2.178,4.864,4.864,4.864l0,0h8.682
+		l0,0c0.88,0,1.593,0.713,1.593,1.593s-0.713,1.593-1.593,1.593h-16.357l-1.354,3.229h17.712c2.687,0,4.864-2.178,4.864-4.864
+		S348.855,16.343,346.169,16.343z" id="svg-logo-wordmark"></path>
+</svg>
+</a>
+</h3>
+<ul class="related_post wp_rp">
+<li data-position="0">
+<a class="wp_rp_thumbnail" href="http://superheronews.com/david-ayer-says-suicide-squad-will-stay-true-comics/"><img src="http://i0.wp.com/superheronews.com/wp-content/uploads/2015/02/B9S5DsSCYAA-SvP.jpg?resize=256,256"/></a>
+<a class="wp_rp_title" href="http://superheronews.com/david-ayer-says-suicide-squad-will-stay-true-comics/" rel="bookmark">David Ayer says ‘Suicide Squad’ will stay true to the comics</a>
+</li>
+<li data-position="1">
+<a class="wp_rp_thumbnail" href="http://superheronews.com/tom-hiddleston-talks-thor-ragnarok-questions-answered/"><img src="http://i0.wp.com/superheronews.com/wp-content/uploads/2015/02/the_avengers_concept_arts_video_rodaje_film_thanos_loki_16_trailer_tierra_freak_tierrafreak-com-ar1.jpg?resize=256,256"/></a>
+<a class="wp_rp_title" href="http://superheronews.com/tom-hiddleston-talks-thor-ragnarok-questions-answered/" rel="bookmark">Tom Hiddleston talks Thor: Ragnarok: “There are some questions to be answered…”</a>
+</li>
+<li data-position="2">
+<a class="wp_rp_thumbnail" href="http://superheronews.com/deadpool-working-title-revealed/"><img src="http://i0.wp.com/superheronews.com/wp-content/uploads/2014/10/Deadpool.jpg?resize=256,256"/></a>
+<a class="wp_rp_title" href="http://superheronews.com/deadpool-working-title-revealed/" rel="bookmark">‘Deadpool’ working title revealed</a>
+</li>
+<li data-position="3">
+<a class="wp_rp_thumbnail" href="http://superheronews.com/rumor-angelina-jolie-wanted-marvel-studios-direct-captain-marvel/"><img src="http://i0.wp.com/superheronews.com/wp-content/uploads/2015/02/Angelina-Jolie-wanted04.jpg?resize=256,256"/></a>
+<a class="wp_rp_title" href="http://superheronews.com/rumor-angelina-jolie-wanted-marvel-studios-direct-captain-marvel/" rel="bookmark">Rumor: Angelina Jolie wanted by Marvel Studios to direct ‘Captain Marvel’</a>
+</li>
+</ul>
+</section>
+<div class="wp_rp_wrap">
+<h3 class="related_post_title">You May Also Like</h3><ul class="related_post wp_rp" style="visibility: visible"><li class="item-1" data-poid="in-2849" data-position="0"><a class="wp_rp_thumbnail" href="http://spidermannews.com/2015/02/01/spider-man-screenwriter-says-hed-save-amazing-spider-man-franchise/"><img alt="‘Spider-Man’ screenwriter says how he’d save ‘The Amazing Spider-Man’ franchise" class="attachment-thumbnail wp-post-image" src="http://i2.wp.com/spidermannews.com/wp-content/uploads/2015/02/spider-man-2-503bb08d5950c.jpg?resize=200%2C200" title=""/></a><a class="wp_rp_title" href="http://spidermannews.com/2015/02/01/spider-man-screenwriter-says-hed-save-amazing-spider-man-franchise/">‘Spider-Man’ screenwriter says how he’d save ‘The Amazing Spider-Man’ franchise</a></li><li class="item-2" data-poid="in-2637" data-position="1"><a class="wp_rp_thumbnail" href="http://spidermannews.com/2014/09/03/honest-trailer-amazing-spider-man-2-points-plenty-flaws/"><img alt="“Honest Trailer” for ‘The Amazing Spider-Man 2′ points out plenty of flaws" class="attachment-thumbnail wp-post-image" src="http://i0.wp.com/spidermannews.com/wp-content/uploads/2014/09/TASM2HonestTrailer.jpg?resize=200%2C200" title=""/></a><a class="wp_rp_title" href="http://spidermannews.com/2014/09/03/honest-trailer-amazing-spider-man-2-points-plenty-flaws/">“Honest Trailer” for ‘The Amazing Spider-Man 2′ points out plenty of flaws</a></li><li class="item-3" data-poid="in-2667" data-position="2"><a class="wp_rp_thumbnail" href="http://spidermannews.com/2014/09/28/stan-lee-shares-story-created-spider-man-video/"><img alt="Stan Lee shares story about how he created Spider-Man (video)" class="attachment-thumbnail wp-post-image" src="http://i2.wp.com/spidermannews.com/wp-content/uploads/2014/07/Stan-Lee.jpg?resize=200%2C200" title=""/></a><a class="wp_rp_title" href="http://spidermannews.com/2014/09/28/stan-lee-shares-story-created-spider-man-video/">Stan Lee shares story about how he created Spider-Man (video)</a></li><li class="item-4" data-poid="in-2631" data-position="3"><a class="wp_rp_thumbnail" href="http://spidermannews.com/2014/09/01/kirsten-dunst-responds-leaked-nude-photos/"><img alt="Spider-Man actress Kirsten Dunst falls victim to celebrity hacking crime, responds to leaked nude photos" class="attachment-thumbnail wp-post-image" src="http://i1.wp.com/spidermannews.com/wp-content/uploads/2014/09/kirsten-dunst.jpg?resize=200%2C200" title=""/></a><a class="wp_rp_title" href="http://spidermannews.com/2014/09/01/kirsten-dunst-responds-leaked-nude-photos/">Spider-Man actress Kirsten Dunst falls victim to celebrity hacking crime, responds to leaked nude photos</a></li></ul>
+</div>
+<div class="zn_wrap">
+<h2 class="zn_title">Around The Web</h2>
+<div id="zergnet-widget-16285" style="text-align:center;">
+<a href="http://www.zergnet.com/?w=16285" target="_blank"><b>ZergNet</b></a>
+</div>
+ </div>
+<div id="disqus_thread">
+</div>
+
+</div><!-- .primary -->
+</div>
+<aside class="secondary" role="region">
+<div class="widget widget_text widget-1" id="text-5"><div class="textwidget"><!-- Spider-Man (300x250) -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-3927325030573624" data-ad-slot="7825088522" style="display:inline-block;width:300px;height:250px"></ins>
+</div></div> <div class="widget widget_brpwp_wrapper widget-2" id="brpwp_wrapper-2"> <h4 class="widget-title">Latest News</h4> <ul class="no-bullets">
+<li class="post-2853 post type-post status-publish format-standard has-post-thumbnail hentry category-the-amazing-spider-man-3" id="brpwp_2853">
+<a class="brpwp-thumb-link" href="http://spidermannews.com/2015/02/07/sony-co-chairman-amy-pascals-exit-affect-spider-man-franchise/"><img alt="906429 - The Amazing Spider-Man 2" class="attachment-post-thumbnail wp-post-image" src="http://i1.wp.com/spidermannews.com/wp-content/uploads/2013/12/ASM2VFX_105_r.jpg?resize=80%2C80"/></a>
+<span class="brpwp-title"><a href="http://spidermannews.com/2015/02/07/sony-co-chairman-amy-pascals-exit-affect-spider-man-franchise/">Sony co-chairman Amy Pascal’s exit could affect ‘Spider-Man’ franchise</a></span>
+</li>
+<li class="post-2849 post type-post status-publish format-standard has-post-thumbnail hentry category-culture" id="brpwp_2849">
+<a class="brpwp-thumb-link" href="http://spidermannews.com/2015/02/01/spider-man-screenwriter-says-hed-save-amazing-spider-man-franchise/"><img alt="spider-man-2-503bb08d5950c" class="attachment-post-thumbnail wp-post-image" src="http://i2.wp.com/spidermannews.com/wp-content/uploads/2015/02/spider-man-2-503bb08d5950c.jpg?resize=80%2C80"/></a>
+<span class="brpwp-title"><a href="http://spidermannews.com/2015/02/01/spider-man-screenwriter-says-hed-save-amazing-spider-man-franchise/">‘Spider-Man’ screenwriter says how he’d save ‘The Amazing Spider-Man’ franchise</a></span>
+</li>
+<li class="post-2844 post type-post status-publish format-standard has-post-thumbnail hentry category-the-amazing-spider-man-3" id="brpwp_2844">
+<a class="brpwp-thumb-link" href="http://spidermannews.com/2015/01/30/j-k-simmons-might-return-amazing-spider-man-franchise-j-jonah-jameson-audio/"><img alt="J. Jonah Jameson" class="attachment-post-thumbnail wp-post-image" src="http://i2.wp.com/spidermannews.com/wp-content/uploads/2014/04/J.-Jonah-Jameson.jpg?resize=80%2C80"/></a>
+<span class="brpwp-title"><a href="http://spidermannews.com/2015/01/30/j-k-simmons-might-return-amazing-spider-man-franchise-j-jonah-jameson-audio/">J.K. Simmons might return to ‘The Amazing Spider-Man’ franchise as J. Jonah Jameson (audio)</a></span>
+</li>
+</ul>
+</div> <div class="widget widget_text widget-3" id="text-7"><div class="textwidget"><style>
+@media(min-width: 800px) { .spider-man-sidebar-responsive { width: 300px; height: 250px; } }
+</style>
+<!-- Spider-Man Sidebar Responsive -->
+<ins class="adsbygoogle spider-man-sidebar-responsive" data-ad-client="ca-pub-3927325030573624" data-ad-slot="7277082121" style="display:inline-block"></ins>
+</div></div> <div class="widget widget_brpwp_wrapper widget-4" id="brpwp_wrapper-3"> <h4 class="widget-title">Latest Media</h4> <ul class="no-bullets">
+<li class="post-2841 post type-post status-publish format-standard has-post-thumbnail hentry category-the-amazing-spider-man-2 tag-black-cat tag-felicity-jones tag-videos" id="brpwp_2841">
+<a class="brpwp-thumb-link" href="http://spidermannews.com/2015/01/17/felicity-jones-addresses-black-cat-future-amazing-spider-man-franchise-video/"><img alt="FeliciaHardy" class="attachment-post-thumbnail wp-post-image" src="http://i0.wp.com/spidermannews.com/wp-content/uploads/2014/05/FeliciaHardy.jpg?resize=80%2C80"/></a>
+<span class="brpwp-title"><a href="http://spidermannews.com/2015/01/17/felicity-jones-addresses-black-cat-future-amazing-spider-man-franchise-video/">Felicity Jones addresses her Black Cat future in ‘The Amazing Spider-Man’ franchise (video)</a></span>
+</li>
+<li class="post-2781 post type-post status-publish format-standard has-post-thumbnail hentry category-culture tag-videos" id="brpwp_2781">
+<a class="brpwp-thumb-link" href="http://spidermannews.com/2014/11/19/10-best-spider-man-costumes-video/"><img alt="10BestSpiderManCostumes" class="attachment-post-thumbnail wp-post-image" src="http://i1.wp.com/spidermannews.com/wp-content/uploads/2014/11/10BestSpiderManCostumes.jpg?resize=80%2C80"/></a>
+<span class="brpwp-title"><a href="http://spidermannews.com/2014/11/19/10-best-spider-man-costumes-video/">10 best Spider-Man costumes (video)</a></span>
+</li>
+<li class="post-2778 post type-post status-publish format-standard has-post-thumbnail hentry category-culture tag-videos" id="brpwp_2778">
+<a class="brpwp-thumb-link" href="http://spidermannews.com/2014/11/17/dad-dresses-spider-man-surprise-son-battling-cancer-video/"><img alt="TheAmazingSpiderDad" class="attachment-post-thumbnail wp-post-image" src="http://i0.wp.com/spidermannews.com/wp-content/uploads/2014/11/TheAmazingSpiderDad.jpg?resize=80%2C80"/></a>
+<span class="brpwp-title"><a href="http://spidermannews.com/2014/11/17/dad-dresses-spider-man-surprise-son-battling-cancer-video/">Dad dresses as Spider-Man to surprise son battling cancer (video)</a></span>
+</li>
+</ul>
+</div> <div class="widget widget_text widget-5 widget-last" id="text-6"><div class="textwidget"><center><iframe border="0" frameborder="0" height="600" marginwidth="0" scrolling="no" src="http://rcm-na.amazon-adsystem.com/e/cm?t=batnew00-20&amp;o=1&amp;p=14&amp;l=ur1&amp;category=musicandentertainmentrot&amp;f=ifr&amp;linkID=Y2WXFW53ECQEHYWV" style="border:none;" width="160"></iframe></center></div></div></aside>
+</article>
+</div><!--end #main-->
+<footer class="site-footer cf" id="footer">
+<div class="ad-leaderboard ad-leaderboard--footer cf">
+<div class="imagead"><iframe border="0" frameborder="0" height="90" marginwidth="0" scrolling="no" src="
+//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;Operation=GetAdHtml&amp;ID=OneJS&amp;OneJS=1&amp;banner_type=setandforget&amp;campaigns=holsetforget2&amp;placement=assoc_banner_placement_default®ion=US&amp;marketplace=amazon&amp;tracking_id=batnew00-20&amp;ad_type=banner&amp;height=90&amp;width=728&amp;linkid=6TQMYSMQN654EVHR&amp;f=ifr
+" style="border:none;" width="728"></iframe></div>
+<style>
+ .spider-man-bottom-responsive { display:inline-block; width: 320px; height: 50px; }
+@media(min-width: 320px) and (max-width: 467px) { .spider-man-bottom-responsive { width: 300px; height: 250px; } }
+@media(min-width: 468px) and (max-width: 767px) { .spider-man-bottom-responsive { width: 468px; height: 60px; } }
+@media(min-width: 768px) { .spider-man-bottom-responsive { display: none; } }
+</style>
+<!-- Spider-Man Bottom Responsive -->
+<ins class="adsbygoogle spider-man-bottom-responsive" data-ad-client="ca-pub-3927325030573624" data-ad-slot="7416682927"></ins>
+ </div>
+<nav class="site-navigation site-navigation--footer navbar cf" id="footer-navigation" role="navigation">
+<img alt="Batman News" src="http://spidermannews.com/wp-content/uploads/2014/10/logo-simple.png">
+<ul class="menu navbar" id="menu-footer"><li class="menu-item menu-item-type-taxonomy menu-item-object-category first-menu-item menu-item-395 menu-item-movies" id="menu-item-395"><a href="http://spidermannews.com/category/movies/">Movies</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2374 menu-item-culture" id="menu-item-2374"><a href="http://spidermannews.com/category/culture/">Culture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-500 menu-item-photos" id="menu-item-500"><a href="http://spidermannews.com/tag/photos/">Photos</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-404 menu-item-videos" id="menu-item-404"><a href="http://spidermannews.com/tag/videos/">Videos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page last-menu-item menu-item-501 menu-item-contact" id="menu-item-501"><a href="http://spidermannews.com/contact/">Contact</a></li>
+</ul> <a class="to-top" href="#page">Back to Top ↑</a>
+</img></nav>
+<nav class="social-navigation social-navigation--footer navbar" id="footer-social-navigation" role="navigation">
+<h4 class="navbar__label">Subscribe</h4>
+<ul class="menu" id="menu-social-1"><li class="menu-item menu-item-type-custom menu-item-object-custom first-menu-item menu-item-403 menu-item-facebook"><a href="http://facebook.com/spidermannewscom" target="_blank">Facebook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-491 menu-item-twitter"><a href="http://twitter.com/spiderman_news" target="_blank">Twitter</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-418 menu-item-google"><a href="https://plus.google.com/u/0/111835810464551753540/posts" target="_blank">Google+</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-493 menu-item-youtube"><a href="https://www.youtube.com/SpiderManNewsCom" target="_blank">YouTube</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom last-menu-item menu-item-396 menu-item-feed"><a href="http://spidermannews.com/feed/" target="_blank">Feed</a></li>
+</ul> </nav>
+<p class="birdseed">
+			© Spider-Man News 		</p>
+<p class="credit">
+<a class="credit-developer" href="http://www.blazersix.com/" target="_blank"><span>Built by</span> <strong>Blazer Six</strong><i class="credit-blazer-six"></i></a>
+</p>
+</footer>
+</div><!--end #page-->
+
+
+<!-- Quantcast Tag -->
+
+<noscript>
+<div style="display:none;">
+<img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-6boy7PaNQKg6M.gif" width="1"/>
+</div>
+</noscript>
+<!-- End Quantcast tag --> 
+
+
+
+
+
+
+
+</body>
+</html>

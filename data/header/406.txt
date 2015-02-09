@@ -1,0 +1,16 @@
+Title: Amazon.com: The Dark Knight Rises: Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway, Tom Hardy, Marion Cotillard, Joseph Gordon-Levitt, Morgan Freeman, Christopher Nolan: Movies & TV
+Date: Mon, 09 Feb 2015 23:41:39 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 0HH7R6S55D24G9DCGAVE
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: dvd_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: NUnd1DlSKmjoM7BFW1zySazo/ebG+H7rws8u+cW/Z0o7tRIAjInpSABKWmx5f1UZ
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+

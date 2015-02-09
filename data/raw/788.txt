@@ -1,0 +1,399 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<!-- Title        Bee Gees website Gibb Service International, Bee Gees News   -->
+<!-- Maintainer   marion@brothersgibb.org    -->
+<!-- Copyright Gibb Service International. All Rights Reserved.  -->
+<html>
+<head>
+<title>Bee Gees website Gibb Service International, Brothers Gibb</title>
+<meta content="all" name="robots">
+<meta content="Bee Gees, beegees, bee gees, Brothers Gibb, Gibb Service International, Maurice, Robin, Barry, Andy, brothers gibb, linda, dwina, yvonne" name="keywords">
+<meta content="Bee Gees website about The Brothers Gibb including Andy. This site brings you news, articles and lots of photos about their career, and family life." name="description">
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<meta content="text/css" http-equiv="content-style-type">
+<meta content="no" http-equiv="imagetoolbar">
+<link href="style-index.css" rel="stylesheet" type="text/css">
+
+
+<link href="lightbox/css/lightbox.css" rel="stylesheet">
+<link href="favicon.ico" rel="shortcut icon">
+<style type="text/css">				
+            #d1 {
+					position:absolute;
+					top: 4px;
+					left: 320px;
+					z-index : 2;
+				}
+
+				#d2 {
+					color : #000000;
+					font-family : "Times New Roman", Times, serif;
+					font-size : 15px;
+					font-style : italic;
+					font-weight : bold;
+					background-color : #FFCC33;
+					border-color : #C0C0C0;
+					border : double #C0C0C0;
+				}				
+</style>
+</link></link></link></meta></meta></meta></meta></meta></meta></head>
+<body alink="#21397b" link="#21397B" vlink="#21397B">
+<table border="0" cellpadding="0" cellspacing="0" width="808">
+<tr>
+<td bgcolor="#00174F" colspan="3">
+<map name="kop-index">
+<area alt="Bee Gees Newsletter" coords="300,67,410,87" href="fanpage.html" shape="rect">
+<area alt="Maurice Gibb" coords="410,67,520,87" href="mauricegibb.html" shape="rect">
+<area alt="Andy Gibb" coords="520,67,615,87" href="andygibb.html" shape="rect">
+<area alt="Home GSI" coords="615,67,725,87" href="index.html" shape="rect">
+</area></area></area></area></map>
+<img alt="" border="0" height="90" src="images/kop-index3.gif" usemap="#kop-index" width="778">
+<div id="d1"><a href="http://www.wspa-international.org/default.aspx"><img alt="" border="0" height="60" src="kop-index/wap.jpg" width="468"/></a>
+</div>
+</img></td>
+</tr>
+<tr><!-- left navigation bar -->
+<td align="right" bgcolor="#21397b" style="width: 130px;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="130">
+<tr>
+<td bgcolor="#acb3cc" style="height: 18px; text-align: right; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold;"><img alt="Bee Gees website" border="0" height="1" src="images/zwart.gif" width="130"><br>
+Index <br>
+</br></br></img></td>
+</tr>
+</table><a class="menuitem" href="whoisgsi.html" onmouseover="window.status='Who is GSI'; return true;">Who is GSI</a> <br>
+<a class="menuitem" href="history.html" onmouseover="window.status='History: biography about the Bee Gees'; return true;">History</a> <br>
+<a class="menuitem" href="familytree.html" onmouseover="window.status='Family Tree'; return true;">Family Tree</a> <br>
+<a class="menuitem" href="discography.html" onmouseover="window.status='Discography'; return true;">Discography</a> <br>
+<a class="menuitem" href="fanpage.html" onmouseover="window.status='Newsletter We Are One'; return true;">Newsletter</a> <br>
+<a class="menuitem" href="photoalbum.html" onmouseover="window.status='Photo Album'; return true;">Photo Album</a> <br>
+<a class="menuitem" href="links.html" onmouseover="window.status='Links'; return true;">Links</a> <br>
+<a class="menuitem" href="legends.html" onmouseover="window.status='Legends'; return true;">Legends</a> <br><br>
+<table border="0" cellpadding="0" cellspacing="0" width="130">
+<tr>
+<td bgcolor="#acb3cc" style="height: 18px; text-align: right; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold;"><img alt="Brothers Gibb Newsletter" border="0" height="1" src="images/zwart.gif" width="130"><br>
+Newsletter <br>
+</br></br></img></td>
+</tr>
+</table><a class="menuitem" href="fanpage.html" onmouseover="window.status='Visit the Newsletter We Are One'; return true;">Newsletter We Are One</a> <br>
+<a class="menuitem" href="generalinformation.html" onmouseover="window.status='General Information'; return true;">General Information</a> <br>
+<a class="menuitem" href="barrygibbpoems.html" onmouseover="window.status='Barry Gibb Poems'; return true;">Barry Gibb Poems</a> <br>
+<a class="menuitem" href="birthdays.html" onmouseover="window.status='Birthdays'; return true;">Birthdays</a> <br>
+<a class="menuitem" href="memories.html" onmouseover="window.status='Walking Down Memory Lane'; return true;">Memory Lane</a> <br>
+<a class="menuitem" href="adspenpals.html" onmouseover="window.status='Advertisements / Pen Pals'; return true;">Ads. / Pen Pals</a> <br>
+<a class="menuitem" href="news.html" onmouseover="window.status='News'; return true;">News</a> <br>
+<a class="menuitem" href="familynews.html" onmouseover="window.status='Familynews'; return true;">Familynews</a> <br>
+<a class="menuitem" href="reports.html" onmouseover="window.status='Reports'; return true;">Reports</a> <br>
+<a class="menuitem" href="mailbox.html" onmouseover="window.status='Mailbox'; return true;">Mailbox</a> <br>
+<a class="menuitem" href="archives.html" onmouseover="window.status='Archives'; return true;">Archives</a> <br>
+<a class="menuitem" href="covers.html" onmouseover="window.status='Covers and Rarities'; return true;">Covers</a> <br>
+<a class="menuitem" href="bob-sherman.html" onmouseover="window.status='Gibbs in the Picture by Bob Sherman'; return true;">Gibbs in the Picture</a> <br>
+<a class="menuitem" href="chart-info.html" onmouseover="window.status='Chart Info'; return true;">Chart Info</a> <br>
+<a class="menuitem" href="ibg.html" onmouseover="window.status='Ibg'; return true;">Tribute To The Legend</a> <br><br>
+<table border="0" cellpadding="0" cellspacing="0" width="130">
+<tr>
+<td bgcolor="#acb3cc" style="height: 18px; text-align: right; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold;"><img alt="Maurice Gibb" border="0" height="1" src="images/zwart.gif" width="130"><br>
+Maurice Gibb <br>
+</br></br></img></td>
+</tr>
+</table><a class="menuitem" href="mauricegibb.html" onmouseover="window.status='In Loving Memory Maurice Gibb'; return true;">In Loving Memory</a> <br>
+<a class="menuitem" href="mauricegibb-poems-stories.html" onmouseover="window.status='Poems, Stories and Comments'; return true;">Poems, Stories</a> <br>
+<a class="menuitem" href="mauricegibb-photos-sound.html" onmouseover="window.status='Photos and Sound Fragments'; return true;">Photos Sound Fragments</a> <br><br>
+<table border="0" cellpadding="0" cellspacing="0" width="130">
+<tr>
+<td bgcolor="#acb3cc" style="height: 18px; text-align: right; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold;"><img alt="Maurice Gibb" border="0" height="1" src="images/zwart.gif" width="130"><br>
+Robin Gibb <br>
+</br></br></img></td>
+</tr>
+</table><a class="menuitem" href="robingibb.html" onmouseover="window.status='In Loving Memory Robin Gibb'; return true;">In Loving Memory</a> <br>
+<a class="menuitem" href="robingibb-tribute.html" onmouseover="window.status='Tribute To A Songbird'; return true;">Tribute To A Songbird</a> <br><br>
+<table border="0" cellpadding="0" cellspacing="0" width="130">
+<tr>
+<td bgcolor="#acb3cc" style="height: 18px; text-align: right; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold;"><img alt="Andy Gibb" border="0" height="1" src="images/zwart.gif" width="130"><br>
+Andy Gibb <br>
+</br></br></img></td>
+</tr>
+</table><a class="menuitem" href="andygibb.html" onmouseover="window.status='Andy Gibb'; return true;">Andy Gibb</a> <br>
+<a class="menuitem" href="andybiography.html" onmouseover="window.status='Andy`s Story'; return true;">Andy`s Story</a> <br>
+<a class="menuitem" href="andydiscography.html" onmouseover="window.status='Discography'; return true;">Discography</a> <br>
+<a class="menuitem" href="andyfotogallery.html" onmouseover="window.status='Photo Gallery'; return true;">Photo Gallery</a> <br>
+<a class="menuitem" href="andyinmemory.html" onmouseover="window.status='In Memory'; return true;">In Memory</a> <br><br>
+<!-- Anfang -->
+
+<!-- Ende -->
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></td>
+<td bgcolor="#FFFFFF" style="width: 546px;" valign="top">
+<div align="center">
+<div style="color: #CC3300; font-style: italic; font-family: 'Times New Roman', Times, serif; font-weight: bold; margin-bottom: 10px; margin-top: 12px;">
+<h2>The International Brothers Gibb Website</h2>
+</div>
+<img alt="" border="0" height="253" src="images/index-jan2.jpg" width="450"><br><span class="s1"></span>
+<div style="font-family: 'Times New Roman' ; font-style: italic ; font-weight: bold ;">
+<h3>Welcome to GSI<br>
+			a website about The Bee Gees,<br>
+			(Barry, Robin, Maurice Gibb) and Andy Gibb.</br></br></h3>
+</div>
+</br></img></div>
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td colspan="2" valign="top" width="100%">
+<div style="font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;">
+<div align="center">
+<span style="font-weight: bold; font-size: 13px; background-color: #FFCC33;"> "GRAMMY FOR BEE GEES!!" </span>
+</div><br>
+<div style="float: left; width :105px;  padding-right:6px; padding-top:0px; padding-bottom:6px;"><img alt="" border="0" height="133" src="news/grammy2.gif" width="105"><br><span class="s5"></span></br></img></div><br><br>
+
+GSI LOVES TO CONGRATULATE  BARRY GIBB <br>
+AND THE FAMILIES OF ROBIN AND MAURICE GIBB<br> 
+THIS IS AN HONOUR SO WELL DESERVED !!<br><br>
+</br></br></br></br></br></br></br></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="100%">
+<div style="font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;">
+<div align="center">
+<span style="font-weight: bold; font-size: 13px; background-color: #FFCC33;"> "WALKWAY OF HOPE" </span>
+</div><br>
+<div style="float: left; width :150px;  padding-right:10px; padding-top:0px; padding-bottom:1px;"><img alt="" border="0" height="118" src="reports/logo-dri2.gif" width="150"><br><span class="s5"></span></br></img></div>			  				
+Story about the "Diabetes Research Institute"
+an organization Barry, Linda and their family care about a lot.
+In the following reports more about the beautiful work of this institute 
+Barry and Linda Gibb's Charity and
+What Bee Gees Fans Should Know<br><br>
+Click here to read the articles by Anne Jakowenko <br><a href="reports-walkway-of-hope-1.html"><strong>Part 1</strong></a>  <a href="reports-walkway-of-hope-2.html"><strong>Part 2</strong></a>  <a href="reports-walkway-of-hope-3.html"><strong>Part 3</strong></a><br><br>
+</br></br></br></br></br></br></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="100%">
+<div style="font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;">
+<div align="center">
+<span style="font-weight: bold; font-size: 13px; background-color: #FFCC33;"> "INFORMATION" </span>
+</div><br>
+<img alt="" border="0" height="14" src="news/bullet_pieces.gif" width="20"> <strong>Contact with Marion of GSI Facebook and Website</strong><br>
+Please only contact me through my GSI email address: <a href="mailto:marion@brothersgibb.org"><strong>marion@brothersgibb.org</strong></a>
+not through facebook messages!!! as I cannot read all facebook messages and postings 24/7 Also be patient with waiting for answers as I receive hundreds of emails from all over the world!, Thank you.<br><br>
+<img alt="" border="0" height="14" src="news/bullet_pieces.gif" width="20"> <strong>Requests for signed photos/request for sending parcells to Gibbs</strong><br>
+  Etc. as there is no fan club nor special fan mail address for Barry Gibb and family, GSI cannot help fans getting signed items or forwarding letters or parcels, sorry. 
+  Postage would make this much  too expensive.<br>Hope this will change in future again, we'll keep you posted!!
+  
+							</br></br></img></br></br></br></img></br></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="100%"><br>
+<div style="font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;">
+<div align="center">
+<span style="font-weight: bold; font-size: 13px; background-color: #FFCC33;"> "GSI, Brothers Gibb and Bee Gees info" </span>
+</div><br>
+<div style="float: right; width :50px;  padding-left:8px; padding-top:0px; padding-bottom:1px;"><a href="https://www.facebook.com/#!/groups/487431924619924/"><img alt="" border="0" height="50" src="images/facebook.gif" width="50"/></a></div>
+Click the Facebook logo to go to the GSI Face book page:<br><br>
+<div align="center"><strong>GSI, Brothers Gibb and Bee Gees info</strong>  </div><br>
+
+Here you can share posts, photos, videos etc.<br>
+To reach me and the GSI website for questions etc. you can always mail me at:
+<a href="mailto:marion@brothersgibb.org"><strong>marion@brothersgibb.org</strong></a><br>
+
+Greetings, Marion / GSI
+							</br></br></br></br></br></br></div>
+</br></td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="100%"><br>
+<div style="font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;">
+<div align="center">
+<span style="font-weight: bold; font-size: 13px; background-color: #FFCC33;"> "Italian Bee Gees: Tribute To The Legend" </span>
+</div><br>
+<div style="float: right; width :100px;  padding-left:8px; padding-top:0px; padding-bottom:1px;"><img alt="" border="0" height="100" src="images/italian-bg.gif" width="100"/></div>
+<a href="ibg.html"><strong>Click</strong></a> for info Italian Bee Gees.<br><br>
+<a href="ibg.html?tag=toprated#latest-news" onmouseover="window.status=''; return true;"><strong>Latest News</strong></a> January 12th. 2015<br><br>
+<a href="download/next-concerts.pdf"><strong>Next Concerts</strong></a> Pdf  <em>Last updated: January 03th. 2015</em><br><br>
+</br></br></br></br></br></br></br></div>
+</br></td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="2" cellspacing="5" width="100%">
+<tr>
+<td align="center" colspan="3" style="background-color: White; font-size: 15px;" width="100%"><a name="dont"></a>
+<div style="font-size: 13px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-style: italic;">
+<hr style="width: 75%; height: 3px; color: #FFCC33; background-color: #FFCC33; border: solid #FFCC33 0px;">
+<img alt="" border="0" height="35" src="images/dont.gif" width="300"><br>
+Dates you shouldn't forget concerning:<br>
+appearances, concerts, special events, releases etc.<br> 
+More details: GSI News. (all details subject to change)<br><br>
+</br></br></br></br></br></img></hr></div>
+</td>
+</tr>
+<tr>
+<td align="center" style="border: double; border-color: #FFCC33 #FFCC33 #FFFFFF #FFFFFF;" valign="top" width="33%">
+<div style="font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;">
+<span style="font-size: 12px; font-weight: bold;">
+CONCERTS<br><br> </br></br></span>
+<img alt="" border="0" height="150" src="images/in-our.jpg" width="106"><br><br>
+<hr style="width: 75%; height: 2px; color: #FFCC33; background-color: #FFCC33; border: solid #FFCC33 0px;"><br>
+</br></hr></br></br></img></div>
+</td>
+<td align="center" valign="top" width="33%">
+<div style="font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;">
+<strong>Radio / TV / Live<br>APPEARANCES</br></strong><br><br>
+<hr style="width: 75%; height: 2px; color: #FFCC33; background-color: #FFCC33; border: solid #FFCC33 0px;"><br><br>
+<strong>Grammy Awards: </strong><br>
+Saturday, February 7th. 2015<br>
+Ceremony for receivers of a Grammy Lifetime Achievement Awards,  amongst others :<br>
+The Bee Gees.<br>
+Sunday, February 8th. 2015<br>
+Annual Grammy Awards<br>
+(more details when available)<br><br>
+<img alt="" border="0" height="148" src="images/mythology2.jpg" width="125"><br><br>
+<img alt="" border="0" height="140" src="images/bg-greatest2.jpg" width="140"><br><br>
+</br></br></img></br></br></img></br></br></br></br></br></br></br></br></br></br></hr></br></br></div>
+</td>
+<td align="center" style="border: double; border-color: #FFCC33 #FFFFFF #FFFFFF #FFCC33;" valign="top" width="33%">
+<div style="font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;">
+<strong>Latest / upcoming RELEASES</strong><br><br>
+<strong>50 ST. Catherine`s<br>Drive</br></strong><br>
+Robin Gibb - solo<br><br>
+<strong>Warner Bros</strong><br><strong>Years 1987-1991</strong><br>
+(5 discs set) (2014)<br><br>
+<strong>Mythology, </strong><br>
+ re-release: Oct. 5th. 2012<br><br>
+<strong>The Titanic Requiem</strong>
+Robin Gibb and RJ Gibb<br>
+release date:<br> 
+March 26th 2012.<br><br>
+<strong>Number Ones</strong><br>
+Dec. 5th. 2011<br>
+with 'Man In The Middle', a tribute to Maurice Gibb 
+and the original demo version of  'Immortality' <br><br>
+<strong>The Story Of<br>The Bee Gees</br></strong><br>
+new DVD<br>
+October 24th. 2011 <br><br>
+<strong>I've Gotta Get A Message To You</strong><br>
+charity CD of The Soldiers with Robin Gibb<br>
+October 23rd. 2011<br><br>
+<strong>"Mythology"</strong><br>
+4 CD boxset<br>
+November 15th. 2010<br><br>
+<strong>"In Our Own Time"</strong><br>
+DVD, 2 hours biography<br>
+November 15th. 2010<br><br>
+<hr style="width: 75%; height: 2px; color: #FFCC33; background-color: #FFCC33; border: solid #FFCC33 0px;">
+</hr></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td colspan="2">
+<hr style="width: 75%; height: 2px; color: #acb3cc; background-color: #acb3cc; border: solid #acb3cc 0px;"><br>
+<div style="font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;">		
+This site is dedicated to The Bee Gees also known as the Brothers Gibb: Barry Gibb, the late  <a href="mauricegibb.html"><strong>Maurice Gibb</strong></a> (1949 - 2003) and the late <a href="robingibb.html"><strong>Robin Gibb</strong></a> (1949-2012).   
+It brings you news, articles and lots of photos about their career and family life with their children, grandchildren and wives: Linda ,Yvonne and Dwina Gibb.
+The website continues to follow the career of Barry Gibb after the passing of his brothers and we hope this way to keep the Bee Gees music alive. 
+Next to that Gibb Service International also maintains a special tribute section in dedication to youngest brother <a href="andygibb.html"><strong>Andy Gibb</strong></a> (1958 - 1988).<br><br>
+</br></br></div>
+<hr style="width: 75%; height: 2px; color: #acb3cc; background-color: #acb3cc; border: solid #acb3cc 0px;">
+<div align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #21397b;">© 1999-2015    "Gibb Service International"<br><br>
+</br></br></div>
+</hr></br></hr></td>
+</tr>
+</table>
+</td><!-- Sidebar -->
+<td bgcolor="#acb3cc" style="border-width: 0.01em; border-style: solid; border-color: #acb3cc #21397b #acb3cc #21397b;" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="130">
+<tr align="center">
+<td colspan="3">
+</td>
+</tr>
+<tr align="center">
+<td colspan="3">
+<div align="center"><a href="mailto:marion@brothersgibb.org"><img alt="My Email" border="0" height="25" src="images/my-email.gif" vspace="4" width="130"/></a><br>
+<!-- Guestbook code starts --><a href="http://users4.smartgb.com/g/g.php?a=s&amp;i=g42-04104-0f"><img alt="Guest book" border="0" height="25" src="images/guest-book.gif" width="130"/></a><br><!-- Guestbook code ends -->
+</br></br></div><br><img alt="" border="0" height="88" src="images/r-m.jpg" width="120"><br>
+<div style="font-family: 'Courier New', Courier, monospace; font-size: 12px; color: black; font-weight: bold;">
+						"In Loving Memory"<br><br>
+						Maurice Gibb:<br>1949-2003<br>
+                        Robin Gibb:<br>1949-2012<br><br>
+</br></br></br></br></br></br></br></div>
+<!-- plaats voor gif boven rechterkolom -->
+</br></img></br></td>
+</tr>
+<!-- begin venster 1 -->
+<tr align="center">
+<td colspan="3"><br><img alt="" border="0" height="26" src="images/now-available.gif" width="130"><br>
+</br></img></br></td>
+</tr>
+<tr>
+<td><img alt="" height="9" src="images/linksboven.gif" width="14"/></td>
+<td><img alt="" height="9" src="images/boven.gif" width="103"/></td>
+<td><img alt="" height="9" src="images/rechtsboven.gif" width="13"/></td>
+</tr>
+<tr>
+<!-- H links --> <td><img alt="" height="200" src="images/links.gif" width="14"/></td>
+<td align="center" bgcolor="#FFFFFF">
+<div style="font-family: 'Courier New', Courier, monospace; font-size: 13px; color: #000000;">
+<img alt="" border="0" height="91" src="images/now-availablerobin.gif" width="100"><br><br>
+Solo album Robin Gibb<br>
+<strong>50 ST. CATHERINE'S DRIVE</strong>
+<br><br>
+</br></br></br></br></br></img></div>
+</td>
+<!-- H rechts --> <td><img alt="" height="200" src="images/rechts.gif" width="13"/></td>
+</tr>
+<tr>
+<td><img alt="" height="15" src="images/linksonder.gif" width="14"/></td>
+<td><img alt="" height="15" src="images/onder.gif" width="103"/></td>
+<td><img alt="" height="15" src="images/rechtsonder.gif" width="13"/></td>
+</tr>
+<!-- einde venster 2 -->
+<tr align="center">
+<td colspan="3"><img alt="Last updates" height="26" src="images/last-updates.gif" width="130"><br>
+</br></img></td>
+</tr>
+<tr>
+<td><img alt="" height="9" src="images/linksboven.gif" width="14"/></td>
+<td><img alt="" height="9" src="images/boven.gif" width="103"/></td>
+<td><img alt="Barry  Robin  Maurice and brother Andy Gibb" height="9" src="images/rechtsboven.gif" width="13"/></td>
+</tr>
+<tr>
+<!-- H links --> <td><img alt="" height="420" src="images/links.gif" width="14"/></td>
+<td align="center" bgcolor="#FFFFFF">
+<div style="font-family: 'Courier New', Courier, monospace; font-size: 12px; color: Purple;">
+<strong>02/08/15</strong><br>
+<a class="menuitem2" href="news.html" onmouseover="window.status=''; return true;">News</a> <br><br>
+<strong>02/07/15</strong><br>
+<a class="menuitem2" href="news.html" onmouseover="window.status=''; return true;">News</a> <br><br>
+<strong>02/05/15</strong><br>
+<a class="menuitem2" href="news.html" onmouseover="window.status=''; return true;">News</a> <br><br>
+<strong>02/03/15</strong><br>
+<a class="menuitem2" href="news.html" onmouseover="window.status=''; return true;">News</a> <br><br>
+<strong>02/01/15</strong><br>
+<a class="menuitem2" href="news.html" onmouseover="window.status=''; return true;">News</a> <br><br>
+<strong>01/23/15</strong><br>
+<a class="menuitem2" href="news.html" onmouseover="window.status=''; return true;">News</a> <br>
+<a class="menuitem2" href="reports-mythology-tour10.html" onmouseover="window.status=''; return true;">Report: Mythology<br>Tour part 3</br></a> <br><br>
+<strong>01/22/15</strong><br>
+<a class="menuitem2" href="news.html" onmouseover="window.status=''; return true;">News</a> <br><br>
+<strong>01/21/15</strong><br>
+<a class="menuitem2" href="news.html" onmouseover="window.status=''; return true;">News</a> <br><br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></div>
+</td>
+<!-- H rechts --> <td><img alt="" height="420" src="images/rechts.gif" width="13"/></td>
+</tr>
+<tr>
+<td><img alt="" height="15" src="images/linksonder.gif" width="14"/></td>
+<td><img alt="" height="15" src="images/onder.gif" width="103"/></td>
+<td><img alt="" height="15" src="images/rechtsonder.gif" width="13"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#acb3cc" colspan="3" style="border-width: 0.01em; border-style: solid; border-color: #acb3cc #21397b #21397b #acb3cc;"><img alt="" border="0" height="1" src="images/transparent.gif" width="1">
+</img></td>
+</tr>
+</table>
+</body>
+</html>

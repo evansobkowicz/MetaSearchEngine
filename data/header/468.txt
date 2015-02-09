@@ -1,0 +1,19 @@
+Title: Jurassic Park Aftermath : gaming
+Date: Mon, 09 Feb 2015 23:42:45 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d9f54358b00b25e3f2dabef746edcc9011423525364; expires=Tue, 09-Feb-16 23:42:44 GMT; path=/; domain=.reddit.com; HttpOnly
+x-ua-compatible: IE=edge
+last-modified: Mon, 09 Feb 2015 23:36:33 GMT
+cache-control: private, max-age=0, must-revalidate
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+Vary: Accept-Encoding
+X-Moose: majestic
+cache-control: no-cache
+CF-Cache-Status: EXPIRED
+Server: cloudflare-nginx
+CF-RAY: 1b63ecda520906a3-EWR
+

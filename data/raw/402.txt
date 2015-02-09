@@ -1,0 +1,1029 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Batman: Knightfall - Wikipedia, the free encyclopedia</title>
+<meta content="MediaWiki 1.25wmf15" name="generator"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Batman:_Knightfall" rel="alternate"/>
+<link href="/w/index.php?title=Batman:_Knightfall&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Batman:_Knightfall&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="/wiki/Batman:_Knightfall" hreflang="x-default" rel="alternate"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="http://en.wikipedia.org/wiki/Batman:_Knightfall" rel="canonical"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+
+
+
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Batman_Knightfall skin-vector action-view vector-animateLayout">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><span dir="auto">Batman: Knightfall</span></h1>
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox" style="width:22em;width: 24em; background: #f2f9ff;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #99c2ff;">"Knightfall"</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Batman497.png"><img alt="" data-file-height="470" data-file-width="300" height="392" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c1/Batman497.png/250px-Batman497.png" srcset="//upload.wikimedia.org/wikipedia/en/c/c1/Batman497.png 1.5x, //upload.wikimedia.org/wikipedia/en/c/c1/Batman497.png 2x" width="250"/></a>
+<div><small style="font-size:85%;">Cover to <i>Batman</i> #497: The breaking of the bat. Art by <a href="/wiki/Kelley_Jones" title="Kelley Jones">Kelley Jones</a>.</small></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;"><a href="/wiki/Category:Comics_publishing_companies" title="Category:Comics publishing companies">Publisher</a></th>
+<td><a href="/wiki/DC_Comics" title="DC Comics">DC Comics</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;">Publication date</th>
+<td>April <a href="/wiki/1993_in_comics" title="1993 in comics">1993</a> – August <a href="/wiki/1994_in_comics" title="1994 in comics">1994</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;">Genre</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Superhero_comics" title="Superhero comics">Superhero</a></li>
+<li><a href="/wiki/Fictional_crossover#Comics" title="Fictional crossover">Crossover</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<td colspan="2" style="padding: 0;">
+<table cellspacing="0" class="collapsible collapsed" style="background: #eef7ff; width: 100%;">
+<tr>
+<th style="background: #eef7ff; border: 0;"><b>Title(s)</b></th>
+</tr>
+<tr>
+<td style="background: #eef7ff; border-style: solid none none;"><i><a href="/wiki/Batman_(comic_book)" title="Batman (comic book)">Batman</a></i> #492-510<br/>
+<i><a href="/wiki/Batman:_Shadow_of_the_Bat" title="Batman: Shadow of the Bat">Batman: Shadow of the Bat</a></i> #16-30<br/>
+<i><a href="/wiki/Catwoman" title="Catwoman">Catwoman</a></i> #6-7,12-13<br/>
+<i><a href="/wiki/Detective_Comics" title="Detective Comics">Detective Comics</a></i> #659-677<br/>
+<i><a href="/wiki/Justice_League_Task_Force_(comics)" title="Justice League Task Force (comics)">Justice League Task Force</a></i> #5-6<br/>
+<i><a class="mw-redirect" href="/wiki/Legends_of_the_Dark_Knight" title="Legends of the Dark Knight">Batman: Legends of the Dark Knight</a></i> #59-63<br/>
+<i><a href="/wiki/Robin_(comics)" title="Robin (comics)">Robin</a></i> #7-9<br/>
+<i><a href="/wiki/Showcase_(comics)" title="Showcase (comics)">Showcase '93</a></i> #7-8<br/>
+<i>Showcase '94</i> #10</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;">Main character(s)</th>
+<td><a href="/wiki/Batman" title="Batman">Batman</a>, <a href="/wiki/Bane_(comics)" title="Bane (comics)">Bane</a>, <a href="/wiki/Azrael_(comics)" title="Azrael (comics)">Azrael</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #99c2ff;">Creative team</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;">Writer(s)</th>
+<td><a href="/wiki/Chuck_Dixon" title="Chuck Dixon">Chuck Dixon</a>, <a href="/wiki/Jo_Duffy" title="Jo Duffy">Jo Duffy</a>, <a href="/wiki/Alan_Grant_(writer)" title="Alan Grant (writer)">Alan Grant</a>, <a href="/wiki/Dennis_O%27Neil" title="Dennis O'Neil">Dennis O'Neil</a>, <a href="/wiki/Doug_Moench" title="Doug Moench">Doug Moench</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;">Penciller(s)</th>
+<td><a href="/wiki/Jim_Aparo" title="Jim Aparo">Jim Aparo</a>, <a href="/wiki/Jim_Balent" title="Jim Balent">Jim Balent</a>, <a href="/wiki/Eduardo_Barreto" title="Eduardo Barreto">Eduardo Barreto</a>, <a href="/wiki/Bret_Blevins" title="Bret Blevins">Bret Blevins</a>, <a href="/wiki/Norm_Breyfogle" title="Norm Breyfogle">Norm Breyfogle</a>, <a href="/wiki/Vincent_Giarrano" title="Vincent Giarrano">Vincent Giarrano</a>, <a href="/wiki/Tom_Grummett" title="Tom Grummett">Tom Grummett</a>, <a href="/wiki/Klaus_Janson" title="Klaus Janson">Klaus Janson</a>, <a href="/wiki/Barry_Kitson" title="Barry Kitson">Barry Kitson</a>, <a href="/wiki/Mike_Manley_(artist)" title="Mike Manley (artist)">Mike Manley</a>, <a href="/wiki/Graham_Nolan" title="Graham Nolan">Graham Nolan</a>, <a class="new" href="/w/index.php?title=Sal_Velluto&amp;action=edit&amp;redlink=1" title="Sal Velluto (page does not exist)">Sal Velluto</a>, <a href="/wiki/Mike_Vosburg" title="Mike Vosburg">Mike Vosburg</a>, <a href="/wiki/Ron_Wagner" title="Ron Wagner">Ron Wagner</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;">Inker(s)</th>
+<td><a class="new" href="/w/index.php?title=Jeff_Albrecht&amp;action=edit&amp;redlink=1" title="Jeff Albrecht (page does not exist)">Jeff Albrecht</a>, <a href="/wiki/Jim_Aparo" title="Jim Aparo">Jim Aparo</a>, <a href="/wiki/Terry_Austin_(comics)" title="Terry Austin (comics)">Terry Austin</a>, <a href="/wiki/Eduardo_Barreto" title="Eduardo Barreto">Eduardo Barreto</a>, <a href="/wiki/John_Beatty_(illustrator)" title="John Beatty (illustrator)">John Beatty</a>, <a href="/wiki/Bret_Blevins" title="Bret Blevins">Bret Blevins</a>, <a href="/wiki/Norm_Breyfogle" title="Norm Breyfogle">Norm Breyfogle</a>, <a href="/wiki/Rick_Burchett" title="Rick Burchett">Rick Burchett</a>, <a class="new" href="/w/index.php?title=Steve_George_(artist)&amp;action=edit&amp;redlink=1" title="Steve George (artist) (page does not exist)">Steve George</a>, <a class="mw-redirect" href="/wiki/Vince_Giarrano" title="Vince Giarrano">Vince Giarrano</a>, <a href="/wiki/Dick_Giordano" title="Dick Giordano">Dick Giordano</a>, <a class="new" href="/w/index.php?title=Scott_Hanna&amp;action=edit&amp;redlink=1" title="Scott Hanna (page does not exist)">Scott Hanna</a>, <a href="/wiki/Klaus_Janson" title="Klaus Janson">Klaus Janson</a>, <a class="new" href="/w/index.php?title=Ray_Kryssing&amp;action=edit&amp;redlink=1" title="Ray Kryssing (page does not exist)">Ray Kryssing</a>, <a href="/wiki/Tom_Mandrake" title="Tom Mandrake">Tom Mandrake</a>, <a href="/wiki/Mike_Manley_(artist)" title="Mike Manley (artist)">Mike Manley</a>, <a class="new" href="/w/index.php?title=Ron_McCain&amp;action=edit&amp;redlink=1" title="Ron McCain (page does not exist)">Ron McCain</a>, <a class="mw-redirect" href="/wiki/Frank_McLaughlin_(comics)" title="Frank McLaughlin (comics)">Frank McLaughlin</a>, <a href="/wiki/Josef_Rubinstein" title="Josef Rubinstein">Josef Rubinstein</a>, <a href="/wiki/Bob_Smith_(comics)" title="Bob Smith (comics)">Bob Smith</a>, <a href="/wiki/Bob_Wiacek" title="Bob Wiacek">Bob Wiacek</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #99c2ff;"><a href="#Collected_editions">Collected editions</a></th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;"><i>Vol. 1</i></th>
+<td><a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9781401233792">ISBN 978-1401233792</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;"><i>Vol. 2: Knightquest</i></th>
+<td><a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9781401235369">ISBN 978-1401235369</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;"><i>Vol. 3: KnightsEnd</i></th>
+<td><a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9781401237219">ISBN 978-1401237219</a></td>
+</tr>
+</table>
+<p>"<b>Knightfall</b>" is the title given to a major <a href="/wiki/Batman" title="Batman">Batman</a> <a href="/wiki/Story_arc" title="Story arc">story arc</a> published by <a href="/wiki/DC_Comics" title="DC Comics">DC Comics</a> that dominated <a href="/wiki/Batman" title="Batman">Batman</a>-related serial <a href="/wiki/Comic_book" title="Comic book">comic books</a> in the spring and summer of 1993. "Knightfall" is also an umbrella title for the trilogy of storylines that ran from 1993 to 1994, consisting of "Knightfall", "<b>Knightquest</b>", and "<b>KnightsEnd</b>".<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span>[</span>note 1<span>]</span></a></sup> Collectively, they are unofficially known as the KnightSaga.</p>
+<p>The story takes place over approximately six months. Bruce Wayne (Batman) suffers burnout and is systematically assaulted and crippled by a "super <a href="/wiki/Steroid" title="Steroid">steroid</a>"-enhanced <a href="/wiki/Genius" title="Genius">genius</a> named <a href="/wiki/Bane_(comics)" title="Bane (comics)">Bane</a>. Wayne is replaced as Batman by an apprentice named <a href="/wiki/Azrael_(comics)" title="Azrael (comics)">Jean-Paul Valley</a>, who becomes increasingly violent and unstable, tarnishing Batman's reputation. Eventually, Wayne is healed through paranormal means, and reclaims his role as Batman.</p>
+<p>"Knightfall" resulted in long-term ramifications for the Batman <a class="mw-redirect" href="/wiki/Mythos" title="Mythos">mythos</a>, as Batman's trust from the police, the public, and fellow superheroes had to be rebuilt. Additionally, Wayne realizes the peril and burden of attempting to work in solitude, leading to the eventual creation of the modern incarnation of the <a href="/wiki/List_of_Batman_supporting_characters#Batman_Family" title="List of Batman supporting characters">Batman family</a>. The events of Knightfall also led to the resignation of Wayne's loyal butler, <a href="/wiki/Alfred_Pennyworth" title="Alfred Pennyworth">Alfred Pennyworth</a>.</p>
+<p>The entire "Knightfall" storyline took over a year to complete in the comic book serials, and in later years, the comics were compressed into a series of trade paperbacks, although these paperbacks do not include the "Knightquest: The Search" portion of the story.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Publication"><span class="tocnumber">1</span> <span class="toctext">Publication</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Storyline"><span class="tocnumber">2</span> <span class="toctext">Storyline</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Prelude"><span class="tocnumber">2.1</span> <span class="toctext">Prelude</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.22Knightfall.22"><span class="tocnumber">2.2</span> <span class="toctext">"Knightfall"</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.22Knightquest.22"><span class="tocnumber">2.3</span> <span class="toctext">"Knightquest"</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#.22The_Search.22"><span class="tocnumber">2.3.1</span> <span class="toctext">"The Search"</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#.22KnightsEnd.22"><span class="tocnumber">2.4</span> <span class="toctext">"KnightsEnd"</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Aftermath"><span class="tocnumber">2.5</span> <span class="toctext">Aftermath</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#.22Prodigal.22"><span class="tocnumber">2.6</span> <span class="toctext">"Prodigal"</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#.22Troika.22"><span class="tocnumber">2.7</span> <span class="toctext">"Troika"</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Nightwing:_Alfred.27s_Return"><span class="tocnumber">2.8</span> <span class="toctext"><i>Nightwing: Alfred's Return</i></span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Azrael"><span class="tocnumber">2.9</span> <span class="toctext"><i>Azrael</i></span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#.22Batman:_Legacy.22"><span class="tocnumber">2.10</span> <span class="toctext">"Batman: Legacy"</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#.22Bough_Breaks.22"><span class="tocnumber">2.11</span> <span class="toctext">"Bough Breaks"</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#.22Angel_and_the_Bane.22"><span class="tocnumber">2.12</span> <span class="toctext">"Angel and the Bane"</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Reading_order_and_release_dates"><span class="tocnumber">3</span> <span class="toctext">Reading order and release dates</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Influence_and_legacy"><span class="tocnumber">4</span> <span class="toctext">Influence and legacy</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Reception"><span class="tocnumber">5</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Continuity"><span class="tocnumber">6</span> <span class="toctext">Continuity</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Adaptations"><span class="tocnumber">7</span> <span class="toctext">Adaptations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Novels"><span class="tocnumber">7.1</span> <span class="toctext">Novels</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Animation"><span class="tocnumber">7.2</span> <span class="toctext">Animation</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Film"><span class="tocnumber">7.3</span> <span class="toctext">Film</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Video_Games"><span class="tocnumber">7.4</span> <span class="toctext">Video Games</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Radio"><span class="tocnumber">7.5</span> <span class="toctext">Radio</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Action_figures"><span class="tocnumber">7.6</span> <span class="toctext">Action figures</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#Collected_editions"><span class="tocnumber">8</span> <span class="toctext">Collected editions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#2012_new_editions"><span class="tocnumber">8.1</span> <span class="toctext">2012 new editions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Notes"><span class="tocnumber">9</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Publication">Publication</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=1" title="Edit section: Publication">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The initial idea for the character of <a href="/wiki/Azrael_(comics)" title="Azrael (comics)">Azrael</a> stemmed from a two-part story idea pitched by <i>Detective Comics</i> writer <a href="/wiki/Peter_Milligan" title="Peter Milligan">Peter Milligan</a> circa 1991, as he was leaving that position.<sup class="reference" id="cite_ref-Milligan_2-0"><a href="#cite_note-Milligan-2"><span>[</span>1<span>]</span></a></sup><sup class="reference" id="cite_ref-Knightfall_3-0"><a href="#cite_note-Knightfall-3"><span>[</span>2<span>]</span></a></sup> After line editor <a href="/wiki/Dennis_O%27Neil" title="Dennis O'Neil">Dennis O'Neil</a> decided to expand it into a larger epic, he and the Batman line writers <a href="/wiki/Chuck_Dixon" title="Chuck Dixon">Chuck Dixon</a>, <a href="/wiki/Doug_Moench" title="Doug Moench">Doug Moench</a> and <a href="/wiki/Alan_Grant_(writer)" title="Alan Grant (writer)">Alan Grant</a> convened an authors' summit over a long weekend to flesh out the details and story points. At the same time, the <a href="/wiki/Superman" title="Superman">Superman</a> team was planning for a similar character-altering storyline, and neither they nor the Batman group initially had any knowledge of each other's plans.<sup class="reference" id="cite_ref-Knightfall_3-1"><a href="#cite_note-Knightfall-3"><span>[</span>2<span>]</span></a></sup> Dennis O'Neil denies the Knightfall storyline was in any way inspired by the <a class="mw-redirect" href="/wiki/Death_of_Superman" title="Death of Superman">Death of Superman</a> and states that it was already in development by as much as three years, saying that if the Batman staff had known, the storyline would likely have been pushed down a year.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span>[</span>3<span>]</span></a></sup></p>
+<p>The serial stories of the monthly Batman comics titles began slowly building toward the "Knightfall" arc several months prior, in conjunction with the publication of the <i>Sword of Azrael</i> miniseries and <i>Vengeance of Bane</i> one-shot which also laid foundation for the larger story.</p>
+<p>"Knightfall" ran from April to October 1993, <i>Batman</i> issues 492 through 500 and <i>Detective Comics</i> issues 659 through 666, with the two titles sharing a single narrative during this time. The massive story was quickly collected into two volumes of <a href="/wiki/Trade_paperback_(comics)" title="Trade paperback (comics)">trade paperbacks</a>. Volume one was subtitled <i>Broken Bat</i> and the second <i>Who Rules the Night</i>. Knightfall was the first time that multiple Batman titles had shared a single narrative for an extended period since the <i><a href="/wiki/Crisis_on_Infinite_Earths" title="Crisis on Infinite Earths">Crisis on Infinite Earths</a></i>.</p>
+<p>"Knightfall" was immediately followed by "Knightquest" in the monthly serials. "Knightquest" is divided into two storylines, one following Bruce Wayne ("Knightquest: The Search") and the other on the new Batman ("Knightquest: The Crusade"). The stories were not treated as crossovers and the <i>Batman</i> titles continued as they had before "Knightfall" where the creative teams each pursued its own storyline. Instead of a crossover, "Knightquest" was more of an umbrella title that also encompassed some issues of <i>Shadow of the Bat</i>. (To avoid giving away their plans, the publishers treated it as though it were the new status quo, so issues were not numbered as chapters.) Additionally, <i>The Crusade</i> served as a launching point for the first ongoing monthly series featuring <a href="/wiki/Robin_(comics)" title="Robin (comics)">Robin</a> in solo adventures.</p>
+<p>Although previous parts of "KnightSaga" had taken considerable time to run their course, the entirety of "KnightsEnd" was published within two months, as the Batman books had to prepare themselves for DC's impending company-wide crossover <i><a class="mw-redirect" href="/wiki/Zero_Hour_(comics)" title="Zero Hour (comics)">Zero Hour</a></i>, which would immediately follow the "KnightSaga". Nothing was truncated as the <i>Batman</i> editorial line made use of all of the Batman-related titles at their disposal, such as <i>Catwoman</i>, <i>Robin</i> and <i>Legends of the Dark Knight</i> (normally an anthology title with stories set in the past). "KnightsEnd" was later collected in trade paperback as <i>Knightfall Volume 3</i>.</p>
+<p>The serial nature of the Batman titles continued beyond the end of KnightsEnd, with the Prodigal storyline, and into subsequent unbannered stories. This continued in later arcs such as "<a href="/wiki/Batman:_Contagion" title="Batman: Contagion">Contagion</a>", "<a href="/wiki/Batman:_Legacy" title="Batman: Legacy">Legacy</a>", "<a href="/wiki/Batman:_Cataclysm" title="Batman: Cataclysm">Cataclysm</a>", "<a class="mw-redirect" href="/wiki/Batman:_No_Man%27s_Land" title="Batman: No Man's Land">No Man's Land</a>", and "<a href="/wiki/Batman:_War_Games" title="Batman: War Games">War Games</a>", and has on occasion continued into the present.</p>
+<p>The intent of the writers was to counter the then-popular style of violent heroes in comics, and demonstrate that the traditional Batman made for a better hero.<sup class="reference" id="cite_ref-Knightfall_3-2"><a href="#cite_note-Knightfall-3"><span>[</span>2<span>]</span></a></sup> The issues featuring Jean-Paul Valley as Batman on the cover depict him with highly exaggerated musculature and legs which taper into disproportionally tiny feet, mimicking the styles of contemporary "violent hero" artists such as <a href="/wiki/Rob_Liefeld" title="Rob Liefeld">Rob Liefeld</a>.</p>
+<h2><span class="mw-headline" id="Storyline">Storyline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=2" title="Edit section: Storyline">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Prelude">Prelude</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=3" title="Edit section: Prelude">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The prelude to "Knightfall" began with the introduction of two new characters key to its storyline in issues prior to the release of "Knightfall":</p>
+<ul>
+<li><a href="/wiki/Azrael_(comics)" title="Azrael (comics)">Azrael</a>, aka Jean-Paul Valley (introduced in <i>Batman: The Sword of Azrael</i> (October 1992 to January 1993) by <a href="/wiki/Dennis_O%27Neil" title="Dennis O'Neil">Dennis O'Neil</a> and <a href="/wiki/Joe_Quesada" title="Joe Quesada">Joe Quesada</a>), a <a class="mw-redirect" href="/wiki/Graduate_student" title="Graduate student">graduate student</a> at Gotham University who discovers he has been unconsciously trained since birth as an <a href="/wiki/Assassination" title="Assassination">assassin</a> for an ancient religious order.</li>
+<li><a href="/wiki/Bane_(comics)" title="Bane (comics)">Bane</a>, introduced in <i>Batman: Vengeance of Bane</i> (January 1993) by <a href="/wiki/Chuck_Dixon" title="Chuck Dixon">Chuck Dixon</a> and <a href="/wiki/Graham_Nolan" title="Graham Nolan">Graham Nolan</a>, an orphan born and raised in a <a href="/wiki/Central_America" title="Central America">Central American</a> island prison, self-taught and ruthless, who underwent an involuntary experimental operation to become a new type of supersoldier, before breaking free and deciding to take <a href="/wiki/Gotham_City" title="Gotham City">Gotham City</a> from its "king," Batman.</li>
+</ul>
+<p>The two characters were quickly added to the cast in the monthly <i>Batman</i> titles, with Azrael being a superhero-in-training who fights alongside Batman, while Bane was introduced as a supervillain.</p>
+<p>Within the regular series, the buildup to "Knightfall" begins with a six-issue run in <i>Batman</i> #484-489 (September 1992 - February 1993), in which Batman (at the onset of a personal psychological <a class="mw-redirect" href="/wiki/Mid-life_crisis" title="Mid-life crisis">mid-life crisis</a>) is forced to deal, in rapid succession, with the returning villain <a href="/wiki/Black_Mask_(comics)" title="Black Mask (comics)">Black Mask</a> and his gang (who target Bruce Wayne and <a href="/wiki/Lucius_Fox" title="Lucius Fox">Lucius Fox</a>), a crazed killer called Metalhead, and a <a class="mw-redirect" href="/wiki/Sharpshooter" title="Sharpshooter">sharpshooter</a> assassin hired by an imprisoned mobster to murder <a href="/wiki/James_Gordon_(comics)" title="James Gordon (comics)">Commissioner Gordon</a>. Batman begins to feel he has lost his edge, especially after his failure to capture Black Mask. He finds himself unable to <a class="mw-redirect" href="/wiki/Meditate" title="Meditate">meditate</a> or even focus. As Bruce Wayne, he contacts <a class="mw-redirect" href="/wiki/Holistic" title="Holistic">holistic</a> therapist <a href="/wiki/Shondra_Kinsolving" title="Shondra Kinsolving">Shondra Kinsolving</a> for treatment. He also assigns Robin (<a href="/wiki/Tim_Drake" title="Tim Drake">Tim Drake</a>) to train Jean-Paul Valley in detective work to aid them as an ally, hoping to guide Valley's <a class="mw-redirect" href="/wiki/Brainwashing" title="Brainwashing">brainwashing</a> away from making him a villainous threat. Despite the advice of everyone in his life, including Dr. Kinsolving, Bruce refuses to rest, and continues to pursue his self-imposed duty despite his worsening condition. (Although not explicitly noted as <a href="/wiki/Trauma_trigger" title="Trauma trigger">a cause</a>, these events take place immediately after the <a class="mw-redirect" href="/wiki/Death_of_Superman" title="Death of Superman">death of Superman</a>, Batman's peer, elsewhere in the DC Universe.)</p>
+<p>The next storyline, in <i>Detective Comics</i> #654-656 (December 1992 - February 1993), involves <a href="/wiki/General_(DC_Comics)" title="General (DC Comics)">a young military student</a> usurping power in Gotham's underworld and assaulting a police station, with Bruce's fatigue continuing to worsen. At the conclusion of this story, Bane and his henchman are shown monitoring Batman's performance.</p>
+<p>Bane begins a series of encounters letting Batman know of his presence and his intentions. In the following issues, Bane interferes with encounters pitting villains <a href="/wiki/Killer_Croc" title="Killer Croc">Killer Croc</a> and <a href="/wiki/Riddler" title="Riddler">Riddler</a> against Batman, and, to test Batman's limits, goes so far as to inject Riddler with the <a class="mw-redirect" href="/wiki/Venom_(DC_Comics)" title="Venom (DC Comics)">Venom</a> drug. This escalation culminates in an assault on <a href="/wiki/Arkham_Asylum" title="Arkham Asylum">Arkham Asylum</a> in <i>Batman</i> #491 (April 1993), where Bane breaks the inmates free and supplies them with numerous weapons to escape. Meanwhile, Robin finds it difficult to work with Jean-Paul, due to the man's violent subconscious training and lack of social skills, and also finds himself being shut out from working alongside Batman.</p>
+<h3><span class="mw-headline" id=".22Knightfall.22">"Knightfall"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=4" title='Edit section: "Knightfall"'>edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The plot of "Knightfall" begins<sup class="reference" id="cite_ref-Batman491_5-0"><a href="#cite_note-Batman491-5"><span>[</span>note 2<span>]</span></a></sup> with the master criminal Bane freeing all of the maximum-security inmates of <a href="/wiki/Arkham_Asylum" title="Arkham Asylum">Arkham Asylum</a>, a notorious psychiatric facility in <a href="/wiki/Gotham_City" title="Gotham City">Gotham City</a>. Aware that he would lose in a direct assault against Batman, Bane's plan consists of weakening Batman by forcing him to deal with the deadly villains simultaneously. Among the freed inmates, there are numerous high-profile villains, such as the <a href="/wiki/Joker_(comics)" title="Joker (comics)">Joker</a> (who trapped Arkham's administrator <a href="/wiki/Jeremiah_Arkham" title="Jeremiah Arkham">Jeremiah Arkham</a>), the <a href="/wiki/Scarecrow_(DC_Comics)" title="Scarecrow (DC Comics)">Scarecrow</a>, <a class="mw-redirect" href="/wiki/The_Riddler" title="The Riddler">The Riddler</a>, and <a href="/wiki/Poison_Ivy_(comics)" title="Poison Ivy (comics)">Poison Ivy</a>, as well as many less known villains, such as the <a href="/wiki/Mad_Hatter_(comics)" title="Mad Hatter (comics)">Mad Hatter</a>, <a href="/wiki/Ventriloquist_(comics)" title="Ventriloquist (comics)">The Ventriloquist</a>, <a href="/wiki/Firefly_(DC_Comics)" title="Firefly (DC Comics)">Firefly</a>, <a href="/wiki/Cavalier_(comics)" title="Cavalier (comics)">Cavalier</a>, <a href="/wiki/Film_Freak" title="Film Freak">The Film Freak</a>, <a href="/wiki/Victor_Zsasz" title="Victor Zsasz">Mr. Zsasz</a>, <a href="/wiki/Cornelius_Stirk" title="Cornelius Stirk">Cornelius Stirk</a>, <a href="/wiki/Abattoir_(comics)" title="Abattoir (comics)">Abattoir</a>, <a href="/wiki/Amygdala_(comics)" title="Amygdala (comics)">Amygdala</a>, . The scenario creates a rift in the relationship between <a href="/wiki/Robin_(comics)" title="Robin (comics)">Robin</a> and Batman, as Batman irrationally seeks to face the outbreak alone—in later issues, Robin asks Batman if he is even needed as his sidekick anymore. A later flashback to this time period (<i>Showcase '93</i> #7-8) shows Batman pursuing <a href="/wiki/Two-Face" title="Two-Face">Two-Face</a> alone, being trapped and kidnapped to stand a <a href="/wiki/Mock_trial" title="Mock trial">mock trial</a>; he is saved only by a rescue attempt from Robin.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:177px;"><a class="image" href="/wiki/File:Bane_breaks_Batman.png"><img alt="" class="thumbimage" data-file-height="452" data-file-width="300" height="264" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/Bane_breaks_Batman.png/175px-Bane_breaks_Batman.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/Bane_breaks_Batman.png/263px-Bane_breaks_Batman.png 1.5x, //upload.wikimedia.org/wikipedia/en/8/8a/Bane_breaks_Batman.png 2x" width="175"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Bane_breaks_Batman.png" title="Enlarge"></a></div>
+Bane breaks <a href="/wiki/Batman" title="Batman">Batman</a>'s back in a <a class="mw-redirect" href="/wiki/Splash_panel" title="Splash panel">splash page</a> from <i>Batman</i> #497 (July 1993). Art by <a href="/wiki/Jim_Aparo" title="Jim Aparo">Jim Aparo</a>.</div>
+</div>
+</div>
+<p>Over the next few issues, Batman becomes weaker and weaker as each criminal is put away. The rescue of <a href="/wiki/List_of_mayors_of_Gotham_City" title="List of mayors of Gotham City">Mayor Krol</a> from the teaming of the <a href="/wiki/Joker_(comics)" title="Joker (comics)">Joker</a> and <a href="/wiki/Scarecrow_(DC_Comics)" title="Scarecrow (DC Comics)">Scarecrow</a> pushes Batman to his mental and physical limits: a dose of Scarecrow's fear gas makes him relive <a href="/wiki/Batman:_A_Death_in_the_Family" title="Batman: A Death in the Family">the murder of Jason Todd</a>, which he considers to be his greatest failure. After this encounter, Bane makes his move and attacks Batman at <a href="/wiki/Wayne_Manor" title="Wayne Manor">Wayne Manor</a>, his home as his alter-ego—by this time, Bane had deduced the secret identity of Batman. The fight between Bruce Wayne and Bane is detailed in <i>Batman</i> #497. By this time, Batman is so exhausted from the exertion of catching the escaped criminals that he cannot even defend himself; Bane beats him mercilessly before breaking Wayne's back over his knee inside the <a href="/wiki/Batcave" title="Batcave">Batcave</a> below the manor, symbolically "breaking" Batman and leaving Wayne a <a class="mw-redirect" href="/wiki/Paraplegic" title="Paraplegic">paraplegic</a>.<sup class="reference" id="cite_ref-dc-ency_6-0"><a href="#cite_note-dc-ency-6"><span>[</span>4<span>]</span></a></sup> Bane takes the grievously-wounded Wayne (still costumed in the Batman outfit) downtown to Gotham Square and throws him from a rooftop to demonstrate his superiority to the populace. Quick action by Robin and Alfred spares Batman's life, but at great cost - he is left a paraplegic. With Batman incapacitated, Bane assumes control of Gotham City's underworld and takes over several illegal operations within it.</p>
+<p>After his defeat, Bruce Wayne enlists the aid of <a href="/wiki/Shondra_Kinsolving" title="Shondra Kinsolving">Dr. Shondra Kinsolving</a> to rehabilitate him and asks <a class="mw-redirect" href="/wiki/Jean-Paul_Valley" title="Jean-Paul Valley">Jean-Paul Valley</a> to take up the mantle of Batman so that Gotham has a protector. Tim Drake argues with Bruce to allow <a href="/wiki/Dick_Grayson" title="Dick Grayson">Dick Grayson</a> (the former Robin and then-current <a href="/wiki/Nightwing" title="Nightwing">Nightwing</a>) to become Batman, as he is more experienced and mentally competent. Bruce replies that Grayson has his own responsibilities and would only take up the mantle of the Bat reluctantly. (Dick later expressed resentment at not being asked to stand in as Batman.) Bruce's rationale for this decision is revealed in later issues - secretly, he does not want Dick to have to face Bane, as he knows Dick's character will compel him to try. Indeed, Bruce gives Jean-Paul strict orders never to engage Bane in combat—and when Jean-Paul does face Bane, only his modified gloves save Jean-Paul from being thrown to his death.</p>
+<p>Soon after, Kinsolving and Tim's father <a href="/wiki/Jack_Drake" title="Jack Drake">Jack Drake</a> are kidnapped and Bruce and <a href="/wiki/Alfred_Pennyworth" title="Alfred Pennyworth">Alfred</a> leave the country to find them - their story is continued in "Knightquest: The Search", while the happenings in Gotham are recorded in "Knightquest: The Crusade". Jean-Paul is shown to be a different, but not dangerous, Batman until an encounter with the Scarecrow, which results in Jean-Paul being infected by Scarecrow's fear gas and "The System"—his programming as Azrael—taking over, in order to combat Jean-Paul's fear. Following this, Jean-Paul is unable to shake the influence of the System, giving in to it completely after his first defeat at Bane's hands, and being increasingly influenced by it during the rest of his tenure as Batman. Gradually, Jean-Paul alienates Robin with his paranoia and arrogance.</p>
+<p>In <i>Batman</i> #500, Jean-Paul, in his new mechanical <a href="/wiki/Batsuit" title="Batsuit">Batsuit</a> (which is an amalgam of the Azrael costume with the Batman's) confronts Bane in an arduous battle and prevails, although many bystanders are put at risk. Jean-Paul leaves Bane broken mentally and physically, though he struggles with the choice of whether to simply kill Bane or hand him over to the police. He decides that he will let Bane go to Blackgate Prison. Jean-Paul continues to watch over Gotham after the fight, but grows increasingly unstable.</p>
+<h3><span class="mw-headline" id=".22Knightquest.22">"Knightquest"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=5" title='Edit section: "Knightquest"'>edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the onset of "Knightquest", Jean-Paul Valley has been established as Batman, and Bruce Wayne is out of the country. Instead of a crossover with a definite ending, the publishers treated the scenario as though it were the new status quo, leaving it open-ended.</p>
+<p><br/></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Detective_Comics_667.jpg"><img alt="" class="thumbimage" data-file-height="459" data-file-width="300" height="337" src="//upload.wikimedia.org/wikipedia/en/thumb/8/81/Detective_Comics_667.jpg/220px-Detective_Comics_667.jpg" srcset="//upload.wikimedia.org/wikipedia/en/8/81/Detective_Comics_667.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/8/81/Detective_Comics_667.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Detective_Comics_667.jpg" title="Enlarge"></a></div>
+Jean-Paul as Batman. Cover to <i>Detective Comics</i> #667. Art by Kelley Jones.</div>
+</div>
+</div>
+<p><b>"Knightquest: The Crusade"</b> follows the story of Jean-Paul Valley during his tenure as Batman. He becomes increasingly violent and mentally unbalanced. During this time, he drives Robin away because he believes Gotham to be so tough that only violence could answer its criminals. In several issues Robin is left horrified as Jean-Paul ferociously attacks common criminals, often with a weapon and sometimes nearly to death. This surge of violence from Gotham's defender puts pressure on Batman's relationship with Police Commissioner Gordon, who begins to distrust and even fear the new Batman and eventually comes to realize he is not the same man he has known.</p>
+<p>All of Jean-Paul's actions are compelled by "The System"; on numerous occasions, he experiences the ghosts of his father and the patriarch Saint Dumas giving him guidance and he is driven to near insanity by the time the saga ends. He repeatedly redesigns his Batman costume, adding more <a href="/wiki/Gadget" title="Gadget">gadgets</a> and lethal weapons, including metal claws, a laser, razor-sharp <a href="/wiki/Batarang" title="Batarang">Batarangs</a> and a flame-thrower. Eventually, he also adds a Bat-symbol, matching the one used for the series' logo. Valley becomes compelled by a desire to be a better Batman than Bruce Wayne, especially when he discovers his lack of interest in detective work caused him to make false assumptions about <a href="/wiki/Catwoman" title="Catwoman">Catwoman</a> (he thought she would sell a powerful <a class="mw-redirect" href="/wiki/Nerve_gas" title="Nerve gas">nerve gas</a> to <a class="mw-redirect" href="/wiki/Terrorist" title="Terrorist">terrorists</a> when she merely wanted to dispose of it so it could not be used to hurt anyone).</p>
+<p>His questionable behavior climaxes when he encounters the <a href="/wiki/Serial_killer" title="Serial killer">serial killer</a> <a href="/wiki/Abattoir_(comics)" title="Abattoir (comics)">Abattoir</a>, who is keeping an innocent prisoner in a secret <a href="/wiki/Torture_chamber" title="Torture chamber">torture chamber</a>: Jean-Paul purposely lets Abattoir die, thereby condemning the prisoner to death as well. Other villains Jean-Paul faces include <a href="/wiki/Mr._Freeze" title="Mr. Freeze">Mr. Freeze</a>, the <a href="/wiki/Trigger_Twins" title="Trigger Twins">Trigger Twins</a>, Joker, Gunbunny &amp; Gunhawk, the <a href="/wiki/Tally_Man" title="Tally Man">Tally Man</a>, and <a href="/wiki/Clayface" title="Clayface">Clayface</a>; the most notable encounters are with Catwoman and the Joker, both of whom could tell Valley was not the original Batman.</p>
+<h4><span class="mw-headline" id=".22The_Search.22">"The Search"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=6" title='Edit section: "The Search"'>edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><b>"Knightquest: The Search"</b> follows Bruce Wayne and Alfred Pennyworth's search for <a href="/wiki/Jack_Drake" title="Jack Drake">Jack Drake</a> and <a href="/wiki/Shondra_Kinsolving" title="Shondra Kinsolving">Shondra Kinsolving</a>, the father of the current Robin and the physical therapist with whom Bruce Wayne had fallen in love during his rehabilitation sessions respectively. Their investigation leads them to the <a href="/wiki/Caribbean" title="Caribbean">Caribbean</a> and then <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>. Kinsolving's brother-by-adoption Benedict Asp kidnapped her to use her <a href="/wiki/Superpower_(ability)" title="Superpower (ability)">special powers</a> to kill people at a distance. Asp demonstrates this new form of mass murder on a small English village. When Bruce Wayne finds Kinsolving, he finds himself caught in the middle of a telekinetic tug-of-war between Asp and Kinsolving. The battle climaxes with her refocusing her energy to defeat Asp; as a side effect of the energy, Bruce's broken spine becomes healed. However, the drugs forced onto her by Asp, combined with the effects of the fight with Asp, reduce her mind to that of a child as Shondra's traumatised mind regresses to the past to escape her unhappy present, and Wayne reluctantly puts her into a <a href="/wiki/Psychiatric_hospital" title="Psychiatric hospital">mental institution</a>.</p>
+<p>Bruce eventually leaves England to return home to a civilian life in Gotham, but Alfred remains in England, not wanting to see Bruce Wayne damage his body further. He does not return to Gotham until a while later, when <a href="/wiki/Dick_Grayson" title="Dick Grayson">Dick Grayson</a> persuades him to do so in later issues.</p>
+<h3><span class="mw-headline" id=".22KnightsEnd.22">"KnightsEnd"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=7" title='Edit section: "KnightsEnd"'>edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jean-Paul Valley sees visions of his dead father, who had programmed him at birth to be a deadly weapon. These visions tell Jean-Paul to avenge his father's death, and Jean-Paul searches Gotham for his father's killer. Though the killer, Carlton LeHah, had already been encountered and defeated (in <i>Sword of Azrael</i>), Jean Paul's conditioning had warped his mind to the extent that he no longer remembered the incident. He eventually comes to believe that Penn Selkirk, a Gotham mobster turned weapons dealer who has taken over the remnants of LeHah's organization, is his father's murderer. Valley now spends his time doggedly pursuing him.</p>
+<p>Returning to Gotham, Bruce meets with Tim. Even though Jean-Paul disobeyed Bruce's order to refrain from attacking Bane, Bruce is sufficiently impressed with Jean-Paul's results. Bruce decides to retire and allow Jean-Paul to continue as Batman. But when Robin tells Bruce of the circumstances around Abattoir's death, Bruce sneaks into the <a href="/wiki/Batcave" title="Batcave">Batcave</a> and demands that Jean-Paul step down. Jean-Paul refuses and tells Bruce to leave the cave and never come back.</p>
+<p>To rehabilitate his skills due to his lost reflexes after so long out of action, Bruce asks the famed assassin <a href="/wiki/Lady_Shiva" title="Lady Shiva">Lady Shiva</a> to retrain him (Using a mask to conceal his identity and arguing that she will do it for the same reason that she does anything; it might be interesting). Instead, Shiva pits Bruce against several vengeful expert <a class="mw-redirect" href="/wiki/Martial_artist" title="Martial artist">martial artists</a>, having killed their master while wearing a distinctive <i>tengu</i> mask that she subsequently gives to Batman.<sup class="reference" id="cite_ref-dc-ency_6-1"><a href="#cite_note-dc-ency-6"><span>[</span>4<span>]</span></a></sup> Shiva's caveat is that these attacks will continue indefinitely until Bruce Wayne breaks his vow to never kill. Finally, in the midst of an attack by the final martial artist, Bruce feigns using the "<a href="/wiki/Leopard_Blow" title="Leopard Blow">Leopard Blow</a>" <a class="mw-redirect" href="/wiki/Dim_Mak" title="Dim Mak">fatal maneuver</a> Shiva had taught him, leaving his would-be assailant apparently dead. Shiva finally declares him worthy of fighting her at some point in the future, with Bruce only revealing his adversary's survival after her departure.</p>
+<p>Now back in fighting shape, Bruce returns to the Batcave and resumes his role as Batman. Along with Robin and Nightwing, he tracks Valley down to Selkirk's <a href="/wiki/Penthouse_apartment" title="Penthouse apartment">penthouse</a>. Coincidentally, <a href="/wiki/Catwoman" title="Catwoman">Catwoman</a> is chasing the same man because he owns a neural enabler which might allow her <a class="mw-redirect" href="/wiki/Paraplegic" title="Paraplegic">paraplegic</a> friend to walk again. Selkirk already wants to kill Jean-Paul for destroying a valuable weapons cache in Gotham Harbor.</p>
+<p>When they eventually all meet, mass fighting and gunfire ensue. The battle ends with Selkirk's <a href="/wiki/Helicopter" title="Helicopter">helicopter</a> crashing into the Gotham Narrows Bridge while Bruce and Jean-Paul fight on the attached Batrope; Jean-Paul falls aflame into the Gotham River. Bruce and Catwoman save Selkirk and his aides just before the helicopter explodes from the leaking fuel, his decision to protect criminals affirming to Catwoman that the true Batman has returned. When Bruce tries to find Jean-Paul using the Batmobile, it explodes due to a planted booby-trap. Nightwing fears Bruce dead and takes his vengeance out on Jean-Paul on a party boat. The police arrive in time to prevent Nightwing from committing murder, but Jean-Paul escapes. However, to his shock, Jean-Paul finds Bruce waiting at Wayne Manor; Bruce had managed to escape the Batmobile before Jean-Paul's trap destroyed it, reasoning that he would have done the same thing with a less dangerous trap.</p>
+<p>The final battle of the "Knightfall" saga takes place between Jean-Paul Valley and Bruce Wayne in the caverns surrounding the Batcave below Wayne Manor: rather than beating Jean-Paul at hand-to-hand combat, Bruce outwits him by escaping into a passage too narrow for Jean-Paul to go through in his armor, thus forcing Jean-Paul to remove most of it. Bruce then opens a hatch to the outside, which covered the very hole he fell into as a child,<sup class="reference" id="cite_ref-7"><a href="#cite_note-7"><span>[</span>5<span>]</span></a></sup> allowing sunlight to enter the night lenses in Jean-Paul's helmet. After being momentarily blinded, Jean-Paul removes his cowl, sees Bruce standing over him in the original Batman costume and concedes defeat, saying "<i>You are the Batman... You've always been the Batman... and I am nothing...</i>" Bruce comforts Jean-Paul, who leaves to wander the streets of Gotham, homeless and destitute. Bruce decides not to take Jean-Paul to the police because it was his decision to make Jean-Paul the Batman, leading to his subsequent breakdown.<sup class="reference" id="cite_ref-dc-ency_6-2"><a href="#cite_note-dc-ency-6"><span>[</span>4<span>]</span></a></sup></p>
+<p>"KnightsEnd" was collected into a trade paperback about a year later. Originally released as <i>Batman: KnightsEnd</i>, recent editions retitled it as <i>Knightfall Volume 3</i>.</p>
+<h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=8" title="Edit section: Aftermath">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id=".22Prodigal.22">"Prodigal"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=9" title='Edit section: "Prodigal"'>edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Prodigal-Dick_Grayson_as_Batman.jpg"><img alt="" class="thumbimage" data-file-height="239" data-file-width="284" height="168" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Prodigal-Dick_Grayson_as_Batman.jpg/200px-Prodigal-Dick_Grayson_as_Batman.jpg" srcset="//upload.wikimedia.org/wikipedia/en/0/06/Prodigal-Dick_Grayson_as_Batman.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/0/06/Prodigal-Dick_Grayson_as_Batman.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Prodigal-Dick_Grayson_as_Batman.jpg" title="Enlarge"></a></div>
+Dick Grayson assumes the role of Batman during "Prodigal" storyline. From <i>Batman</i> #513 (December 1994). A full panel in homage of Dick's first appearance as Robin in <i>Detective Comics</i> #38 (April 1940). Art by Mike Gustovich.</div>
+</div>
+</div>
+<p>Bruce reaffirms his partnership with Tim, resolving the tension caused by Bruce's unwillingness to accept help during the Arkham prison break. <a class="mw-redirect" href="/wiki/Fictional_history_of_Dick_Grayson#.22KnightsEnd.22_and_.22Prodigal.22" title="Fictional history of Dick Grayson">Bruce passes the mantle of Batman to Grayson</a> so he can re-evaluate what it will take to restore his aura of invincibility. This begins the <i>Prodigal</i> storyline, a reference to Dick Grayson essentially being Bruce's prodigal son; Bruce had adopted Dick after his parents were murdered.</p>
+<p>Because of the events of the entire arc, considerable time passes before <a href="/wiki/James_Gordon_(comics)" title="James Gordon (comics)">Commissioner Gordon</a> restores his trust in the idea of a Batman working for good. Gordon can tell that he is not looking at the original Batman (based on Jean-Paul's costume and Dick's height, and the fact that Jean-Paul was more than ready to kill people), and he refuses to place blind trust in a costume after spending so long learning to trust the man. "Prodigal" was utilized as a way of tying up the numerous loose ends that "Knightfall" left, with <a href="/wiki/Killer_Croc" title="Killer Croc">Killer Croc</a>, the <a href="/wiki/Ventriloquist_(comics)" title="Ventriloquist (comics)">Ventriloquist</a>, <a href="/wiki/Ratcatcher_(comics)" title="Ratcatcher (comics)">Ratcatcher</a> and <a href="/wiki/Two-Face" title="Two-Face">Two-Face</a>, along with many other, less notorious escaped inmates being returned to prison. In doing so, Dick avenges his worst mistake from his days as Robin, when a mistake in a confrontation with Two-Face caused a man to die and nearly killed Bruce. He also comes to appreciate the incredible physical and mental burden Bruce places on himself in donning the Batsuit. During the story, a firm bond arises between Dick and Tim as they share Wayne Manor together in Bruce's and Alfred's absence.</p>
+<p>It's revealed later in "No Man's Land" that Bruce also used this time to set up contingency bases throughout Gotham.</p>
+<h3><span class="mw-headline" id=".22Troika.22">"Troika"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=10" title='Edit section: "Troika"'>edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Detective_Comics_682.jpg"><img alt="" class="thumbimage" data-file-height="458" data-file-width="300" height="229" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0d/Detective_Comics_682.jpg/150px-Detective_Comics_682.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0d/Detective_Comics_682.jpg/225px-Detective_Comics_682.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/0/0d/Detective_Comics_682.jpg 2x" width="150"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Detective_Comics_682.jpg" title="Enlarge"></a></div>
+Batman's costume's debut during "Troika".</div>
+</div>
+</div>
+<p>When Bruce finally returns for good, he wears a sturdier (made of Kevlar), all-black <a href="/wiki/Batsuit" title="Batsuit">Batsuit</a> (inspired by the costume of the Tim Burton <i>Batman</i> films), and drives a new, state-of-the-art Batmobile. He fights former <a class="mw-redirect" href="/wiki/USSR" title="USSR">Soviet</a> agents Colonel Vega (who teamed with Asp in "Knightquest: The Search"), <a href="/wiki/KGBeast" title="KGBeast">KGBeast</a>, and Dark Rider, in order to foil a plot to nuke Gotham City with a device the size and shape of a <a href="/wiki/Baseball_(ball)" title="Baseball (ball)">baseball</a>. (<i>Troika</i> is the Russian word for "trio".) The saga also shows how Batman makes changes to his life as Bruce Wayne, his relationships with his "family", plans to live without Alfred, and copes with the decision of making Jean-Paul his replacement.</p>
+<h3><span class="mw-headline" id="Nightwing:_Alfred.27s_Return"><i>Nightwing: Alfred's Return</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=11" title="Edit section: Nightwing: Alfred's Return">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <a href="/wiki/One-shot_(comics)" title="One-shot (comics)">one-shot</a> that features the return of Alfred after his resignation during "KnightQuest: The Search". It has Nightwing going to England in order to track Alfred down.</p>
+<h3><span class="mw-headline" id="Azrael"><i>Azrael</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=12" title="Edit section: Azrael">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Azrael_(comic_book)" title="Azrael (comic book)">Azrael (comic book)</a></div>
+<p>A new series following Jean-Paul Valley was begun in April 1995, titled <i>Azrael</i>. In it, he is found on the street by Bruce Wayne, and given money to leave Gotham to travel the world and find his purpose as had Bruce. His journeys take him to Europe, where he uncovers conspiracies within the <a class="mw-redirect" href="/wiki/Sacred_Order_of_Saint_Dumas" title="Sacred Order of Saint Dumas">Sacred Order of Saint Dumas</a> which had brainwashed him. Later, he returns to Gotham City to aid Batman, and the series was retitled <i>Azrael: Agent of the Bat</i> at issue 47. The series ended after one hundred issues, with Valley's apparent death. Each issue was written by <a href="/wiki/Dennis_O%27Neil" title="Dennis O'Neil">Dennis O'Neil</a>. Azrael's demise occurred at the same time as the <a href="/wiki/Batman:_Hush" title="Batman: Hush">Batman: Hush</a> storyline, which focused on how Bruce Wayne as Batman interacted with his various friends, allies, loved ones, and enemies; oddly enough though, Jean-Paul Valley was neither mentioned, alluded to, or appeared during this time.</p>
+<h3><span class="mw-headline" id=".22Batman:_Legacy.22">"Batman: Legacy"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=13" title='Edit section: "Batman: Legacy"'>edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This crossover event involves a rematch between Batman and Bane, who is now allied with <a href="/wiki/Ra%27s_al_Ghul" title="Ra's al Ghul">Ra's al Ghul</a>. It is followed by the one-shot graphic novel <i>Batman: Bane</i>.</p>
+<h3><span class="mw-headline" id=".22Bough_Breaks.22">"Bough Breaks"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=14" title='Edit section: "Bough Breaks"'>edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Batman Annual</i> #22 featured the return of Arnold Etchison (Abbatoir)'s spirit, wishing to take revenge on Batman (specifically, Azrael-Batman) for his death. Now calling himself Etkar, he <a href="/wiki/Spirit_possession" title="Spirit possession">possesses</a> Azrael's former Batsuit and returns to the site of his own death, with a hostage.</p>
+<h3><span class="mw-headline" id=".22Angel_and_the_Bane.22">"Angel and the Bane"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=15" title='Edit section: "Angel and the Bane"'>edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <i>Azrael</i> issues #36-40, a final thread of the "Knightfall" plot is resolved in the four-part storyline "Angel and the Bane" and its following issue, "Hour of the Quake".</p>
+<p>After the events of <i>Batman: Bane</i>, Azrael is tasked by Batman to track down the recently resurfaced Bane. After meeting, the two men struggle, and Bane gets the upper hand with the aid of a small band of Santa Priscan soldiers and his old henchman Bird. He restrains Azrael and injects him with Venom, with the plan of using him as a super soldier to take over Santa Prisca. Azrael is able to resist addiction to the drug and eventually conquers Bane and flies him back to Gotham City. They arrive just as the <a href="/wiki/Batman:_Cataclysm" title="Batman: Cataclysm">massive earthquake</a> occurs. Bane attempts escape but is unable; as a last-ditch effort he unsuccessfully tries to convince Azrael to form a partnership. Instead, Azrael reaffirms his dedication to Bruce Wayne.</p>
+<p>The cover of issue 37 depicts Bane breaking Azrael over his knee in a recreation of the famous cover of <i>Batman</i> #497, "Knightfall" part 11.</p>
+<h2><span class="mw-headline" id="Reading_order_and_release_dates">Reading order and release dates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=16" title="Edit section: Reading order and release dates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Each story arc of the "Knightfall" saga ran across a number of Gotham City-related comics. This created a fairly complex reading order, which is summarized below.</p>
+<table class="wikitable">
+<tr>
+<th>Knightfall</th>
+<th colspan="2">Knightquest</th>
+<th>KnightsEnd</th>
+<th>Aftermath</th>
+</tr>
+<tr style="text-align:center;">
+<td><b>"Broken Bat"</b><br/>
+(Apr-Late July 1993)</td>
+<td><b>"The Crusade"</b><br/>
+(Oct 1993-June 1994)</td>
+<td><b>"The Search"</b><br/>
+(Oct 1993-June 1994)</td>
+<td>(July-Aug 1994)</td>
+<td>(Nov 1994-Feb 1995)</td>
+</tr>
+<tr>
+<td rowspan="3" style="vertical-align:top;">
+<ul>
+<li><i>Batman</i> #491<sup class="reference" id="cite_ref-Batman491_5-1"><a href="#cite_note-Batman491-5"><span>[</span>note 2<span>]</span></a></sup></li>
+<li>1: <i>Batman</i> #492</li>
+<li>2: <i>Detective Comics</i> #659</li>
+<li>3: <i>Batman</i> #493</li>
+<li>4: <i>Detective Comics</i> #660</li>
+<li>5: <i>Batman</i> #494</li>
+<li>6: <i>Detective Comics</i> #661</li>
+<li>7: <i>Batman</i> #495</li>
+<li>8: <i>Detective Comics</i> #662</li>
+<li>9: <i>Batman</i> #496</li>
+<li>10: <i>Detective Comics</i> #663</li>
+<li>11: <i>Batman</i> #497</li>
+</ul>
+</td>
+<td rowspan="5" style="vertical-align:top;">
+<ul>
+<li><i>Detective Comics</i> #667-668</li>
+<li><i>Shadow of the Bat</i> #19-20</li>
+<li><i>Batman</i> #501-502</li>
+<li><i>Detective Comics</i> #669-670<sup class="reference" id="cite_ref-Detective_670_8-0"><a href="#cite_note-Detective_670-8"><span>[</span>note 3<span>]</span></a></sup></li>
+<li><i>Catwoman</i> #6<sup class="reference" id="cite_ref-Catwoman_6_9-0"><a href="#cite_note-Catwoman_6-9"><span>[</span>note 4<span>]</span></a></sup></li>
+<li><i>Batman</i> #503-504</li>
+<li><i>Catwoman</i> #7</li>
+<li><i>Detective Comics</i> #671-673</li>
+<li><i>Shadow of the Bat</i> #24</li>
+<li><i>Batman</i> #505</li>
+<li><i>Shadow of the Bat</i> #25</li>
+<li><i>Batman</i> #506-507</li>
+<li><i>Shadow of the Bat</i> #26-27</li>
+<li><i>Detective Comics</i> #674</li>
+<li><i>Batman</i> #508</li>
+<li><i>Shadow of the Bat</i> #28</li>
+<li><i>Detective Comics</i> #675</li>
+</ul>
+</td>
+<td rowspan="5" style="vertical-align:top;">
+<ul>
+<li><i>Justice League Task Force</i> #5-6<sup class="reference" id="cite_ref-paperback_10-0"><a href="#cite_note-paperback-10"><span>[</span>note 5<span>]</span></a></sup></li>
+<li><i>Shadow of the Bat</i> #21-23<sup class="reference" id="cite_ref-paperback_10-1"><a href="#cite_note-paperback-10"><span>[</span>note 5<span>]</span></a></sup></li>
+<li><i>Legends of the Dark Knight</i> #59-61<sup class="reference" id="cite_ref-paperback_10-2"><a href="#cite_note-paperback-10"><span>[</span>note 5<span>]</span></a></sup></li>
+<li><i>Robin</i> #7</li>
+</ul>
+</td>
+<td rowspan="5" style="vertical-align:top;">
+<ul>
+<li>1: <i>Batman</i> #509</li>
+<li>2: <i>Shadow of the Bat</i> #29</li>
+<li>3: <i>Detective Comics</i> #676</li>
+<li>4: <i>Legends of the Dark Knight</i> #62</li>
+<li>5: <i>Robin</i> #8</li>
+<li>6: <i>Catwoman</i> #12</li>
+<li>7: <i>Batman</i> #510</li>
+<li>8: <i>Shadow of the Bat</i> #30</li>
+<li>9: <i>Detective Comics</i> #677</li>
+<li>10: <i>Legends of the Dark Knight</i> #63</li>
+<li>Aftermath: <i>Robin</i> #9</li>
+<li>Aftermath: <i>Catwoman</i> #13</li>
+<li><i>Showcase '94 #10</i></li>
+</ul>
+</td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td style="text-align:center;"><b>"Prodigal"</b><br/>
+(Nov 1994-Jan 1995)</td>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li>1: <i>Batman</i> #512</li>
+<li>2: <i>Shadow of the Bat</i> #32</li>
+<li>3: <i>Detective Comics</i> #679</li>
+<li>4: <i>Robin</i> #11</li>
+<li>5: <i>Batman</i> #513</li>
+<li>6: <i>Shadow of the Bat</i> #33</li>
+<li>7: <i>Detective Comics</i> #680</li>
+<li>8: <i>Robin</i> #12</li>
+<li>9: <i>Batman</i> #514</li>
+<li>10: <i>Shadow of the Bat</i> #34</li>
+<li>11: <i>Detective Comics</i> #681</li>
+<li>12: <i>Robin</i> #13</li>
+</ul>
+</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>"Who Rules the Night"</b><br/>
+(Late July-Oct 1993)</td>
+<td><b>"Troika"</b><br/>
+(Feb 1995)</td>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li>12: <i>Detective Comics</i> #664</li>
+<li>13: <i>Showcase '93</i> #7</li>
+<li>14: <i>Showcase '93</i> #8</li>
+<li>15: <i>Batman</i> #498</li>
+<li>16: <i>Detective Comics</i> #665</li>
+<li><i>Shadow of the Bat</i> #16-18</li>
+<li>17: <i>Batman</i> #499</li>
+<li>18: <i>Detective Comics</i> #666</li>
+<li>19: <i>Batman</i> #500</li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><i>Batman</i> #515</li>
+<li><i>Shadow of the Bat</i> #35</li>
+<li><i>Detective Comics</i> #682</li>
+<li><i>Robin</i> #14</li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li>The following annuals, special issues and guest appearances take place during "Knightquest" with Jean-Paul Valley as Batman, but are not vital to the plot:
+<ul>
+<li><i>Batman Annual</i> #17</li>
+<li><i>Detective Comics Annual</i> #6</li>
+<li><i>Showcase '93</i> #10</li>
+<li><i>Superman</i> vol. 2 #83</li>
+<li><i>Chain Gang War</i> #6-7, 10-12</li>
+<li><i>Legends of the Dark Knight Annual</i> #3</li>
+<li><i>Catwoman</i> #5</li>
+<li><i>Showcase '94</i> #5-7</li>
+<li><i><a href="/wiki/Robin_(comics)#Robin" title="Robin (comics)">Robin</a></i> #1</li>
+<li><i><a href="/wiki/Outsiders_(comics)#Outsiders" title="Outsiders (comics)">Outsiders</a></i> #7-9</li>
+<li><i><a href="/wiki/Bloodlines_(comics)" title="Bloodlines (comics)">Bloodlines: Bloodbath</a></i> #1-2</li>
+<li><i>Batman/<a href="/wiki/Punisher" title="Punisher">Punisher</a>: Lake of Fire</i> (This has a direct sequel, <i>Batman/Punisher: Deadly Knights</i>)</li>
+<li><i><a href="/wiki/Batman:_Turning_Points" title="Batman: Turning Points">Batman: Turning Points</a></i> #4</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>During his incapacitation, Bruce Wayne appears in:
+<ul>
+<li><i>Justice League Task Force</i> #4</li>
+<li><i>Catwoman</i> #4</li>
+<li><i>Batman</i> #506</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Bane and his henchmen appear in <i>Catwoman</i> #1-4, in the lead-up to and aftermath of his defeat by the new Batman.</li>
+</ul>
+<h2><span class="mw-headline" id="Influence_and_legacy">Influence and legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=17" title="Edit section: Influence and legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>DC Comics published "Knightfall" around the same time as the "<a href="/wiki/The_Death_of_Superman" title="The Death of Superman">The Death of Superman</a>" storyline. "Knightfall" started almost immediately after the "Funeral For a Friend" storyline in the <i>Superman</i> books. During the breakout at Arkham Asylum, Batman and Robin both wear a black arm band with the S-shield engraved on it. The two stories involved <a href="/wiki/DC_Comics" title="DC Comics">DC Comics</a>' most prominent characters. Similar stories followed for <a href="/wiki/Green_Lantern" title="Green Lantern">Green Lantern</a>, <a href="/wiki/Wonder_Woman" title="Wonder Woman">Wonder Woman</a>, <a href="/wiki/Aquaman" title="Aquaman">Aquaman</a>, and <a href="/wiki/Green_Arrow" title="Green Arrow">Green Arrow</a>, with Green Lantern <a href="/wiki/Hal_Jordan" title="Hal Jordan">Hal Jordan</a> being driven insane and replaced with <a href="/wiki/Kyle_Rayner" title="Kyle Rayner">Kyle Rayner</a>, a <a href="/wiki/Artemis_of_Bana-Mighdall" title="Artemis of Bana-Mighdall">new Wonder Woman</a> being appointed by <a href="/wiki/Hippolyta_(DC_Comics)" title="Hippolyta (DC Comics)">Hippolyta</a>, Aquaman losing his hand, and Green Arrow dying in a plane crash as his long-lost <a href="/wiki/Green_Arrow_(Connor_Hawke)" title="Green Arrow (Connor Hawke)">son</a> took over the role.</p>
+<p>In the opening of the novelisation, <i>KnightFall</i>, <a href="/wiki/Dennis_O%27Neil" title="Dennis O'Neil">Dennis O'Neil</a> stated that part of the reason "Knightfall" was written was due to the recent popularity of more "ruthless" heroes such as the <a href="/wiki/Terminator_(character)" title="Terminator (character)">Terminator</a> and <a class="mw-redirect" href="/wiki/James_Bond_(character)" title="James Bond (character)">James Bond</a> in films, as editors were starting to wonder if readers would prefer a Batman who was willing to kill his opponents.</p>
+<p>During <i><a href="/wiki/DC_vs._Marvel" title="DC vs. Marvel">DC vs. Marvel</a></i>, Bane attempts to break <a href="/wiki/Captain_America" title="Captain America">Captain America</a>'s back in a fight in a similar maneuver, but is caught off-guard when <a href="/wiki/Captain_America%27s_shield" title="Captain America's shield">Captain America's shield</a> returns to its owner to strike Bane in the back of the head and knock him out.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=18" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/IGN" title="IGN">IGN</a> Comics ranked "Batman: Knightfall, Part One: Broken Bat" #24 on a list of the 25 greatest Batman graphic novels, saying: "What makes 'Knightfall, Part One' so memorable is not the actually snapping of Batman's back. It's the quick fall into despair that proves most shocking. The ending is a foregone conclusion as Batman is worn down both physically and mentally. The Batman's spirit is broken before his vertebrae and that's a feat you'll never see accomplished anywhere else."<sup class="reference" id="cite_ref-12"><a href="#cite_note-12"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Continuity">Continuity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=19" title="Edit section: Continuity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The bulk of the events in the <i>Knightfall</i> saga are estimated to take place in the tenth or eleventh year of Batman's career by most reckonings, including official DC timelines. It begins within a few months of Tim Drake assuming the role of the third Robin. Dick Grayson's wedding to <a href="/wiki/Starfire_(comics)" title="Starfire (comics)">Starfire</a> occurs very shortly after Bruce Wayne's injury. It is an election year, and Armand Krol is campaigning for re-election as mayor both before and after the story arc.</p>
+<p>The initial scenes of the prelude <i>Sword of Azrael</i> mini-series take place during the Gotham City "Founders Day" parade.</p>
+<p>A meeting between Selina Kyle and Bruce Wayne on his airplane is explicitly described as the first <a href="/wiki/Crisis_on_Infinite_Earths" title="Crisis on Infinite Earths">Post-Crisis</a> out-of-costume interaction between the two.</p>
+<p>As the contemporary <a href="/wiki/Batmobile" title="Batmobile">Batmobile</a> was destroyed in "KnightsEnd", the original Batmobile (with the large hood ornament) was used by Batman and Robin for several issues following. "Knightquest" also introduces Batman's rocket railcar linking the Batcave to the Gotham <a href="/wiki/Rapid_transit" title="Rapid transit">subway</a> system; it was designed and completed by <a href="/wiki/Harold_Allnut" title="Harold Allnut">Harold</a> after his discovery of the cavern passages in <i>Detective Comics</i> #650 ("The Dragon").</p>
+<p>In "KnightsEnd", Jean-Paul Valley references his defeat of <a href="/wiki/Marvel_Comics" title="Marvel Comics">Marvel Comics</a>' <a href="/wiki/Jigsaw_(Marvel_Comics)" title="Jigsaw (Marvel Comics)">Jigsaw</a> during the Batman/Punisher crossover <i>Lake of Fire</i>. This is a very rare mention of a character from another company in a non-intercompany capacity, made possible by the insanity of Jean-Paul.</p>
+<h2><span class="mw-headline" id="Adaptations">Adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=20" title="Edit section: Adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Novels">Novels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=21" title="Edit section: Novels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Dennis_O%27Neil" title="Dennis O'Neil">Dennis O'Neil</a> adapted the entire storyline trilogy into a 1994 novel which was released by Warner Books in hardcover form and then in mass paperback later on (Hardcover <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0553096737">ISBN 0-553-09673-7</a>, Paperback <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0553572601">ISBN 0-553-57260-1</a>). A young adults book version was also released, this one written by <a href="/wiki/Alan_Grant_(writer)" title="Alan Grant (writer)">Alan Grant</a> and titled <i>Batman: Knightfall and Beyond</i> (<a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0553481878">ISBN 0-553-48187-8</a>).</p>
+<h3><span class="mw-headline" id="Animation">Animation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=22" title="Edit section: Animation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The character Bane was quickly added to the roster of villains in <i><a href="/wiki/Batman:_The_Animated_Series" title="Batman: The Animated Series">Batman: The Animated Series</a></i>. He appeared in the episode "Bane" as an assassin rather than the mastermind as he was in the comics. He was hired by the mobster <a href="/wiki/Rupert_Thorne" title="Rupert Thorne">Rupert Thorne</a> to eliminate Batman, and in turn by Thorne's moll to eliminate Thorne afterwards. Bane eventually fought Batman on board a boat (where Robin had been kidnapped and tied up), but before he could break his back as he did in the comics, Batman thrusts a crumpled <a href="/wiki/Batarang" title="Batarang">batarang</a> into the controls that inject Bane with Venom. This action caused a rapid and uncontrollable feed into Bane's body before Batman pulls out the tube, stopping a fatal overdose of the drug.</li>
+</ul>
+<ul>
+<li>The <i>Knightfall</i> saga was loosely adapted in <i><a href="/wiki/The_Batman_(TV_series)" title="The Batman (TV series)">The Batman</a></i> episode <i>Traction</i>. In this version, Bane lures the Batman into a trap. Batman overpowers Bane in his normal form, but when Bane unleashed his more bestial side, he severely injures Batman and breaks his back off screen. Believing him to be dead, Bane attempts to take over Gotham City. Three weeks after crippling Batman, Bane goes on a rampage through Gotham and knocks out Detective Ellen Yin. As he prepares to kill her, Batman interferes wearing a new mechanical Batsuit (similar to the one Azrael used) and battles Bane. As Bane attempts to unmask Batman and kill him, Batman uses an electrical wire and knocks out Bane with it.</li>
+</ul>
+<h3><span class="mw-headline" id="Film">Film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=23" title="Edit section: Film">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>In <i><a href="/wiki/Justice_League:_Doom" title="Justice League: Doom">Justice League: Doom</a></i>, Bane makes reference to the storyline when he confronts Bruce Wayne above his parents' empty graves, stating: "When we fought before, I broke the bat. Today... I break the man."</li>
+</ul>
+<ul>
+<li>In <i><a href="/wiki/The_Dark_Knight_Rises" title="The Dark Knight Rises">The Dark Knight Rises</a></i>, Alfred resigns as Bruce's butler, Bane releases hundreds of criminals; and when Bane and Batman first meet, Bane brutally defeats and cripples him by striking Batman's back with his knee, mirroring the events of the <i>Knightfall</i> saga.</li>
+</ul>
+<h3><span class="mw-headline" id="Video_Games">Video Games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=24" title="Edit section: Video Games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>In the video game <i><a href="/wiki/Batman:_Rise_of_Sin_Tzu" title="Batman: Rise of Sin Tzu">Batman: Rise of Sin Tzu</a></i> Bane breaks into the batcave to challenge Batman. During this fight if you are caught by Bane he executes the infamous back breaker.</li>
+<li>The famous back-breaking scene was referenced in <i><a href="/wiki/Batman:_Arkham_Asylum" title="Batman: Arkham Asylum">Batman: Arkham Asylum</a></i>, where if the player loses the fight with <a href="/wiki/Bane_(comics)" title="Bane (comics)">Bane</a>, one of the death scenes shows Bane breaking Batman over his knee. Another reference is where Batman threatens, "No, Bane. This time, I break you!" before knocking Bane down with the Batmobile.</li>
+<li>In <i><a href="/wiki/Lego_Batman:_The_Videogame" title="Lego Batman: The Videogame">Lego Batman: The Videogame</a></i> for the <a href="/wiki/Xbox_360" title="Xbox 360">Xbox 360</a>, the achievement Atomic Backbreaker is acquired by using Bane to give Batman the famous back-breaker.</li>
+<li>An alternate skin for Bane inspired by Knightfall can be unlocked in <i><a href="/wiki/Injustice:_Gods_Among_Us" title="Injustice: Gods Among Us">Injustice: Gods Among Us</a></i> by rating the mobile app version. Also Bane's super move is known as "Break the Bat", which involves striking his opponents back over his knee.</li>
+<li>In the video game, <i><a href="/wiki/Batman:_Arkham_Origins" title="Batman: Arkham Origins">Batman: Arkham Origins</a></i>, exclusive DLC for the PlayStation 3 includes a Batman skin based on the "Knightfall" storyline. It also includes a selection of challenge maps featuring characters &amp; enemies from the storyline. Bane makes reference to "breaking the bat" on a few occasions and in multiplayer, Bane can perform the backbreaker to instantly kill Batman or Robin.</li>
+</ul>
+<h3><span class="mw-headline" id="Radio">Radio</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=25" title="Edit section: Radio">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox vevent haudio" style="width:22em">
+<tr>
+<th class="summary album" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue">Batman: Knightfall</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Knightfall_BBC_Radio.PNG"><img alt="" data-file-height="300" data-file-width="300" height="220" src="//upload.wikimedia.org/wikipedia/en/thumb/7/75/Knightfall_BBC_Radio.PNG/220px-Knightfall_BBC_Radio.PNG" srcset="//upload.wikimedia.org/wikipedia/en/7/75/Knightfall_BBC_Radio.PNG 1.5x, //upload.wikimedia.org/wikipedia/en/7/75/Knightfall_BBC_Radio.PNG 2x" width="220"/></a></td>
+</tr>
+<tr>
+<th class="description" colspan="2" style="text-align:center;background-color: lightsteelblue"><a class="mw-redirect" href="/wiki/Studio_album" title="Studio album">Studio album</a> (radio broadcast)</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Released</th>
+<td class="published">March 5, 2007<span style="display:none"> (<span class="bday dtstart published updated">2007-03-05</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Length</th>
+<td>Disc 1: ~80 min<br/>
+Disc 2: ~60 min<br/>
+Disc 3: ~80 min</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/Record_label" title="Record label">Label</a></th>
+<td>BBC Audio</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th>
+<td><a href="/wiki/Dirk_Maggs" title="Dirk Maggs">Dirk Maggs</a></td>
+</tr>
+</table>
+<p>In 1994, <a href="/wiki/BBC_Radio_1" title="BBC Radio 1">BBC Radio 1</a> broadcast a radio-play adaptation, later also released on audio-tape (<a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/0563395206">ISBN 0-563-39520-6</a>) and CD by BBC Audiobooks on March 5, 2007. It was adapted, produced and directed by <a href="/wiki/Dirk_Maggs" title="Dirk Maggs">Dirk Maggs</a>, with music composed by <a href="/wiki/Mark_Russell_(composer)" title="Mark Russell (composer)">Mark Russell</a>, who had recently made <i><a href="/wiki/Superman:_Doomsday_%26_Beyond" title="Superman: Doomsday &amp; Beyond">Superman: Doomsday &amp; Beyond</a></i> on <a href="/wiki/BBC_Radio_5_(former)" title="BBC Radio 5 (former)">BBC Radio 5</a>. This show, however was not commissioned of its own, but rather to be three-minute episodes on the <a href="/wiki/Mark_Goodier" title="Mark Goodier">Mark Goodier</a> Show. This meant it was written with a sense of immediacy; having to make an instant effect and each three-minute segment contains a major plot development or sound effect stunt and end on a cliffhanger. DC acknowledged the effort in an issue <i>Shadow of The Bat</i> by having villains jump past a sign that read Dirk Maggs Radio. The radio-play itself contained similar minor allusions to Batman - the host of a TV show called <a href="/wiki/Chuck_Dixon" title="Chuck Dixon">Chuck Dixon</a> and <a href="/wiki/Dennis_O%27Neil" title="Dennis O'Neil">Dennis O'Neil</a> an author of a book.</p>
+<p>"Knightfall" was a sequel to <i><a href="/wiki/Batman:_The_Lazarus_Syndrome" title="Batman: The Lazarus Syndrome">Batman: The Lazarus Syndrome</a></i> also produced for BBC radio by <a href="/wiki/Dirk_Maggs" title="Dirk Maggs">Dirk Maggs</a>.</p>
+<p>Its performers are:</p>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Bob_Sessions" title="Bob Sessions">Bob Sessions</a> as <a href="/wiki/Batman" title="Batman">Batman</a></li>
+<li><a href="/wiki/Michael_Gough" title="Michael Gough">Michael Gough</a> as <a href="/wiki/Alfred_Pennyworth" title="Alfred Pennyworth">Alfred Pennyworth</a></li>
+<li><a class="new" href="/w/index.php?title=Daniel_Marinker&amp;action=edit&amp;redlink=1" title="Daniel Marinker (page does not exist)">Daniel Marinker</a> as <a href="/wiki/Robin_(comics)" title="Robin (comics)">Robin</a></li>
+<li><a href="/wiki/Peter_Marinker" title="Peter Marinker">Peter Marinker</a> as <a href="/wiki/Bane_(comics)" title="Bane (comics)">Bane</a>, <a href="/wiki/Jack_Drake" title="Jack Drake">Jack Drake</a></li>
+<li><a href="/wiki/Kerry_Shale" title="Kerry Shale">Kerry Shale</a> as <a class="mw-redirect" href="/wiki/Jean_Paul_Valley" title="Jean Paul Valley">Jean Paul Valley</a>, <a class="mw-redirect" href="/wiki/The_Joker" title="The Joker">The Joker</a>, <a href="/wiki/Cavalier_(comics)" title="Cavalier (comics)">The Cavalier</a>, <a href="/wiki/Thomas_Wayne" title="Thomas Wayne">Thomas Wayne</a></li>
+<li><a class="new" href="/w/index.php?title=William_Roberts_(actor)&amp;action=edit&amp;redlink=1" title="William Roberts (actor) (page does not exist)">William Roberts</a> as <a class="mw-redirect" href="/wiki/Commissioner_James_Gordon" title="Commissioner James Gordon">Commissioner James Gordon</a>, <a href="/wiki/Amygdala" title="Amygdala">Amygdala</a>, <a class="new" href="/w/index.php?title=Carlton_LeHa&amp;action=edit&amp;redlink=1" title="Carlton LeHa (page does not exist)">Carlton LeHa</a>, <a class="new" href="/w/index.php?title=Tough_Tony&amp;action=edit&amp;redlink=1" title="Tough Tony (page does not exist)">Tough Tony</a></li>
+<li><a href="/wiki/Lorelei_King" title="Lorelei King">Lorelei King</a> as <a href="/wiki/Renee_Montoya" title="Renee Montoya">Renee Montoya</a>, <a href="/wiki/Leslie_Thompkins" title="Leslie Thompkins">Leslie Thompkins</a>, <a href="/wiki/Lady_Shiva" title="Lady Shiva">Lady Shiva</a>, Young Bruce, <a href="/wiki/Martha_Wayne" title="Martha Wayne">Martha Wayne</a>, <a class="mw-redirect" href="/wiki/Sarah_Essen" title="Sarah Essen">Sarah Essen</a></li>
+<li><a class="new" href="/w/index.php?title=Eric_Meyers_(actor)&amp;action=edit&amp;redlink=1" title="Eric Meyers (actor) (page does not exist)">Eric Meyers</a> as <a href="/wiki/Harvey_Bullock_(comics)" title="Harvey Bullock (comics)">Harvey Bullock</a>, <a class="new" href="/w/index.php?title=Colonel_Vega&amp;action=edit&amp;redlink=1" title="Colonel Vega (page does not exist)">Colonel Vega</a>, Batcave Computer, <a href="/wiki/Joe_Chill" title="Joe Chill">Joe Chill</a>, Bird, <a href="/wiki/Jeremiah_Arkham" title="Jeremiah Arkham">Jeremiah Arkham</a>, Firefly, <a class="new" href="/w/index.php?title=Nomoz&amp;action=edit&amp;redlink=1" title="Nomoz (page does not exist)">Nomoz</a></li>
+<li><a class="new" href="/w/index.php?title=Michael_Roberts_(actor)&amp;action=edit&amp;redlink=1" title="Michael Roberts (actor) (page does not exist)">Michael Roberts</a> as <a href="/wiki/Ventriloquist_(comics)" title="Ventriloquist (comics)">The Ventriloquist</a>, <a href="/wiki/Film_Freak" title="Film Freak">Film Freak</a>, <a class="new" href="/w/index.php?title=Simpson_Flanders&amp;action=edit&amp;redlink=1" title="Simpson Flanders (page does not exist)">Simpson Flanders</a>, <a class="new" href="/w/index.php?title=Benedict_Asp&amp;action=edit&amp;redlink=1" title="Benedict Asp (page does not exist)">Benedict Asp</a>, Hood</li>
+<li><a href="/wiki/Alibe_Parsons" title="Alibe Parsons">Alibe Parsons</a> as <a href="/wiki/Shondra_Kinsolving" title="Shondra Kinsolving">Shondra Kinsolving</a></li>
+<li><a href="/wiki/James_Goode" title="James Goode">James Goode</a> as <a href="/wiki/Nightwing" title="Nightwing">Nightwing</a>, <a href="/wiki/Scarecrow_(DC_Comics)" title="Scarecrow (DC Comics)">The Scarecrow</a></li>
+<li><a href="/wiki/Stuart_Milligan" title="Stuart Milligan">Stuart Milligan</a> as <a href="/wiki/Riddler" title="Riddler">Riddler</a>, <a href="/wiki/Maxie_Zeus" title="Maxie Zeus">Maxie Zeus</a></li>
+<li><a href="/wiki/Chris_Emmett" title="Chris Emmett">Chris Emmett</a> as <a class="mw-redirect" href="/wiki/Mad_Hatter" title="Mad Hatter">Mad Hatter</a></li>
+<li><a href="/wiki/Vincent_Marzello" title="Vincent Marzello">Vincent Marzello</a> as <a class="new" href="/w/index.php?title=Armand_Krol&amp;action=edit&amp;redlink=1" title="Armand Krol (page does not exist)">Armand Krol</a>, <a class="mw-redirect" href="/wiki/Abattoir" title="Abattoir">Abattoir</a>, <a class="mw-redirect" href="/wiki/Mr._Zsasz" title="Mr. Zsasz">Mr. Zsasz</a></li>
+</ul>
+<h3><span class="mw-headline" id="Action_figures">Action figures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=26" title="Edit section: Action figures">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1994, <a class="mw-redirect" href="/wiki/Kenner" title="Kenner">Kenner</a> released the Legends of Batman <a href="/wiki/Action_figure" title="Action figure">action figure</a> collection. This revolved primarily around <a href="/wiki/Elseworlds" title="Elseworlds">Elseworlds</a> stories and the modern "Knightfall" era; although, it strangely did not include a Bane figure. The collection lasted two series and corresponded with the <a href="/wiki/The_Death_of_Superman#Adaptations" title="The Death of Superman">Superman: Man of Steel</a> figure line based on "<a href="/wiki/The_Death_of_Superman" title="The Death of Superman">The Death of Superman</a>".</p>
+<p>In 2006, <a href="/wiki/DC_Direct" title="DC Direct">DC Direct</a> released a series of figures specifically based on the "Knightfall" saga. This included Jean Paul Valley as Batman, Nightwing, Bane, Catwoman, and the unique "Mask of Tengu" Batman figure.</p>
+<h2><span class="mw-headline" id="Collected_editions">Collected editions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=27" title="Edit section: Collected editions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Part of the storyline has been collected into a few <a href="/wiki/Trade_paperback_(comics)" title="Trade paperback (comics)">trade paperbacks</a>. Earlier printings of the "Knightfall" books had covers by <a href="/wiki/Kelley_Jones" title="Kelley Jones">Kelley Jones</a> were under the "Knightfall" name and book three was under the "Knightsend" name (with this volume featuring a new cover by <a href="/wiki/Graham_Nolan" title="Graham Nolan">Graham Nolan</a> and <a href="/wiki/Brian_Stelfreeze" title="Brian Stelfreeze">Brian Stelfreeze</a>). These earlier editions also featured the original cover art/DC Comics monthly ads of the storyline as the chapter headings. The current printings of the three books do not have these cover/ads and solely title the three books under the "Knightfall" name with a similar cover dressing design. These new editions have covers by <a href="/wiki/Mike_Deodato" title="Mike Deodato">Mike Deodato</a>.</p>
+<ul>
+<li><i>Batman: Knightfall, Part One: Broken Bat</i> (collects <i><a href="/wiki/Batman_(comic_book)" title="Batman (comic book)">Batman</a></i> vol. 1 #491–497 and <i><a href="/wiki/Detective_Comics" title="Detective Comics">Detective Comics</a></i> vol. 1 #659–663, 272 pages, paperback, September 1993, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1563891425">ISBN 1-56389-142-5</a>)</li>
+<li><i>Batman: Knightfall, Part Two: Who Rules the Night</i> (collects <i><a href="/wiki/Batman_(comic_book)" title="Batman (comic book)">Batman</a></i> vol. 1 #498–500, <i><a href="/wiki/Detective_Comics" title="Detective Comics">Detective Comics</a></i> vol. 1 #664–666, <i><a href="/wiki/Batman:_Shadow_of_the_Bat" title="Batman: Shadow of the Bat">Batman: Shadow of the Bat</a></i> #16–18, and stories from <i>Showcase '93</i> #7–8; 288 pages, paperback 1993, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1563891484">ISBN 1-56389-148-4</a>)</li>
+<li><i>Batman: Knightfall, Part Three: KnightsEnd</i> (collects <i><a href="/wiki/Batman_(comic_book)" title="Batman (comic book)">Batman</a></i> vol. 1 #509–510, <i><a href="/wiki/Batman:_Shadow_of_the_Bat" title="Batman: Shadow of the Bat">Batman: Shadow of the Bat</a></i> #29–30, <i><a href="/wiki/Detective_Comics" title="Detective Comics">Detective Comics</a></i> vol. 1 #676–677, <i><a href="/wiki/Batman:_Legends_of_the_Dark_Knight" title="Batman: Legends of the Dark Knight">Batman: Legends of the Dark Knight</a></i> #62–63, and <i>Catwoman</i> vol. 2 #12; 304 pages, paperback, June 1995, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1563891913">ISBN 1-56389-191-3</a>)</li>
+</ul>
+<p>Parts of the Aftermath storyline had been collected in a <a href="/wiki/Trade_paperback_(comics)" title="Trade paperback (comics)">trade paperback</a>:</p>
+<ul>
+<li><i>Batman: Prodigal</i> (collects <i><a href="/wiki/Batman_(comic_book)" title="Batman (comic book)">Batman</a></i> vol. 1 #512–514, <i><a href="/wiki/Detective_Comics" title="Detective Comics">Detective Comics</a></i> vol. 1 #679–681, <i><a href="/wiki/Batman:_Shadow_of_the_Bat" title="Batman: Shadow of the Bat">Batman: Shadow of the Bat</a></i> #32–34, and <i>Robin</i> vol. 4 #11–13; 271 pages, paperback, January 1998, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/1563893347">ISBN 1-56389-334-7</a>)</li>
+</ul>
+<h3><span class="mw-headline" id="2012_new_editions">2012 new editions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=28" title="Edit section: 2012 new editions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Accompanying the release of the movie <a href="/wiki/The_Dark_Knight_Rises" title="The Dark Knight Rises">The Dark Knight Rises</a> in 2012, DC Comics released a new edition of trade paperbacks collecting the Knightfall storyline. While the 1993 editions omitted the complete Knightsquest story arc, the 2012 editions re-release the "The Crusade" part of this arc in volume 2, leaving the "The Search" part still uncollected. In addition, Bane's back story from the one-shot publication <i>Vengeance of Bane</i> is included in the first volume, providing a proper introduction of the character, and volume 3 sees the "KnightsEnd" and "Prodigal" arcs released in a single volume.</p>
+<ul>
+<li><i>Batman: Knightfall, Vol. 1</i> (includes all the material collected in 1993s <i>Batman: Knightfall, Part One: Broken Bat</i> and <i>Batman: Knightfall, Part Two: Who Rules the Night</i> with the addition of <i>Vengeance of Bane</i>, 640 pages, paperback 2012, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9781401233792">ISBN 978-1401233792</a>)</li>
+<li><i>Batman: Knightfall, Vol. 2: Knightquest</i> (includes <i><a href="/wiki/Detective_Comics" title="Detective Comics">Detective Comics</a></i> vol. 1 #667-675, <i><a href="/wiki/Batman:_Shadow_of_the_Bat" title="Batman: Shadow of the Bat">Batman: Shadow of the Bat</a></i> #19-20, 24-28, <i><a href="/wiki/Batman_(comic_book)" title="Batman (comic book)">Batman</a></i> vol. 1 #501-508, <i>Catwoman</i> vol. 2 #6-7 and <i>Robin</i> vol. 4 #7, 656 pages, paperback 2012, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9781401235369">ISBN 978-1401235369</a>)</li>
+<li><i>Batman: Knightfall, Vol. 3: KnightsEnd</i> (includes all material collected in 1993s <i>Batman: Knightfall, Part Three: KnightsEnd</i> and 1998s <i>Batman: Prodigal</i>, 652 pages, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9781401237219">ISBN 978-1401237219</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=29" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">On the comic book covers, only the third part had its title written in <a href="/wiki/CamelCase" title="CamelCase">CamelCase</a>, perhaps to keep it from being read as Knight-Send</span></li>
+<li id="cite_note-Batman491-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Batman491_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Batman491_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Although included in the trade paperback collected edition, <i>Batman</i> #491 did not carry the "Knightfall" <a href="/wiki/Trade_dress" title="Trade dress">trade dress</a>.</span></li>
+<li id="cite_note-Detective_670-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Detective_670_8-0">^</a></b></span> <span class="reference-text">Detective Comics #670 was mis-labeled on its cover as "The Search". It is in fact part of "The Crusade". This was confirmed in the letters page in Detective Comics #674. Per editor Scott Peterson, "we printed the wrong story title on the cover of DETECTIVE #670 (it said "The Search" when it should have said "The Crusade"), and are extremely embarrassed."</span></li>
+<li id="cite_note-Catwoman_6-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Catwoman_6_9-0">^</a></b></span> <span class="reference-text">Catwoman #6 was mis-labeled on its cover as "The Search". It is in fact part of "The Crusade". This was confirmed in the letters page in Catwoman #10. Per assistant editor Jordan Gorfinkel, "The banner identifying CATWOMAN #6 as "Knightquest: The Search" was our mistake. The banner should have read "Knightquest: The Crusade", as it did on the cover of CATWOMAN #7."</span></li>
+<li id="cite_note-paperback-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-paperback_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-paperback_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-paperback_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Not included in the trade paperback</span></li>
+</ol>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batman:_Knightfall&amp;action=edit&amp;section=30" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a class="image" href="/wiki/File:Alcatel_9109HA.png"><img alt="Portal icon" class="noviewer" data-file-height="480" data-file-width="213" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Alcatel_9109HA.png/12px-Alcatel_9109HA.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Alcatel_9109HA.png/18px-Alcatel_9109HA.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Alcatel_9109HA.png/25px-Alcatel_9109HA.png 2x" width="12"/></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:1990s" title="Portal:1990s">1990s portal</a></td>
+</tr>
+</table>
+</div>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Milligan-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Milligan_2-0">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.comicbookresources.com/?page=article&amp;id=27788" rel="nofollow">http://www.comicbookresources.com/?page=article&amp;id=27788</a></span></li>
+<li id="cite_note-Knightfall-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Knightfall_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Knightfall_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Knightfall_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a class="external free" href="http://knightfallsaga.angelfire.com/denny.htm" rel="nofollow">http://knightfallsaga.angelfire.com/denny.htm</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Wizard: The Guide to Comics #35 - publication date July 1994</span></li>
+<li id="cite_note-dc-ency-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-dc-ency_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dc-ency_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-dc-ency_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation" id="CITEREFBeatty2008">Beatty, Scott (2008), "Batman", in Dougall, Alastair, <i>The DC Comics Encyclopedia</i>, London: <a href="/wiki/Dorling_Kindersley" title="Dorling Kindersley">Dorling Kindersley</a>, pp. 40–44, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7566-4119-5" title="Special:BookSources/0-7566-4119-5">0-7566-4119-5</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABatman%3A+Knightfall&amp;rft.atitle=Batman&amp;rft.au=Beatty%2C+Scott&amp;rft.aufirst=Scott&amp;rft.aulast=Beatty&amp;rft.btitle=The+DC+Comics+Encyclopedia&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.isbn=0-7566-4119-5&amp;rft.pages=40-44&amp;rft.place=London&amp;rft.pub=Dorling+Kindersley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">depicted in <i><a class="mw-redirect" href="/wiki/Batman:_The_Man_Who_Falls" title="Batman: The Man Who Falls">Batman: The Man Who Falls</a></i>, et al.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="http://secretearths.blogspot.com/2006/05/dc-versus-marvel-dcmarvel-where-dc.html" rel="nofollow">Secret Wars on Infinite Earths: Marvel vs DC #2</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://comics.ign.com/articles/624/624619p1.html" rel="nofollow">The 25 Greatest Batman Graphic Novels</a>, Hilary Goldstein, IGN, June 13, 2005</span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Batman_publications" title="Template:Batman publications"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Batman_publications" title="Template talk:Batman publications"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Batman_publications&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Batman" title="Batman">Batman</a> <a href="/wiki/List_of_Batman_comics" title="List of Batman comics">publications</a> and storylines</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Current series</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Batgirl" title="Batgirl">Batgirl</a></i></li>
+<li><i><a href="/wiki/Batman_(comic_book)" title="Batman (comic book)">Batman</a></i></li>
+<li><i><a href="/wiki/Batman_and_Robin_(comic_book)" title="Batman and Robin (comic book)">Batman and Robin</a></i></li>
+<li><i><a href="/wiki/Batman_Eternal" title="Batman Eternal">Batman Eternal</a></i></li>
+<li><i><a href="/wiki/Batman:_Legends_of_the_Dark_Knight" title="Batman: Legends of the Dark Knight">Batman: Legends of the Dark Knight</a></i></li>
+<li><i><a href="/wiki/Superman/Batman#Batman.2FSuperman" title="Superman/Batman">Batman/Superman</a></i></li>
+<li><i><a href="/wiki/Batwoman" title="Batwoman">Batwoman</a></i></li>
+<li><i><a href="/wiki/Catwoman" title="Catwoman">Catwoman</a></i></li>
+<li><i><a href="/wiki/Detective_Comics" title="Detective Comics">Detective Comics</a></i></li>
+<li><i><a href="/wiki/Dick_Grayson" title="Dick Grayson">Grayson</a></i></li>
+<li><i><a href="/wiki/Harley_Quinn" title="Harley Quinn">Harley Quinn</a></i></li>
+<li><i><a href="/wiki/Red_Hood_and_the_Outlaws" title="Red Hood and the Outlaws">Red Hood and the Outlaws</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Completed ongoing<br/>
+series</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Azrael_(comic_book)" title="Azrael (comic book)">Azrael</a></i></li>
+<li><i><a href="/wiki/Batman:_Arkham_Unhinged" title="Batman: Arkham Unhinged">Batman: Arkham Unhinged</a></i></li>
+<li><i><a href="/wiki/Batman:_The_Dark_Knight" title="Batman: The Dark Knight">Batman: The Dark Knight</a></i></li>
+<li><i><a href="/wiki/Batman:_Gotham_Knights" title="Batman: Gotham Knights">Batman: Gotham Knights</a></i></li>
+<li><i><a href="/wiki/Batman:_Shadow_of_the_Bat" title="Batman: Shadow of the Bat">Batman: Shadow of the Bat</a></i></li>
+<li><i><a href="/wiki/Batman:_Streets_of_Gotham" title="Batman: Streets of Gotham">Batman: Streets of Gotham</a></i></li>
+<li><i><a href="/wiki/The_Batman_Adventures" title="The Batman Adventures">The Batman Adventures</a></i></li>
+<li><i><a href="/wiki/Outsiders_(comics)" title="Outsiders (comics)">Batman and The Outsiders</a></i></li>
+<li><i><a href="/wiki/Batman_Beyond_(comics)" title="Batman Beyond (comics)">Batman Beyond</a></i></li>
+<li><i><a href="/wiki/The_Batman_Chronicles" title="The Batman Chronicles">The Batman Chronicles</a></i></li>
+<li><i><a href="/wiki/Batman_Confidential" title="Batman Confidential">Batman Confidential</a></i></li>
+<li><i><a href="/wiki/Batman_Family" title="Batman Family">Batman Family</a></i></li>
+<li><i><a href="/wiki/Batman_Incorporated" title="Batman Incorporated">Batman Incorporated</a></i></li>
+<li><i><a href="/wiki/Batwing_(DC_Comics)" title="Batwing (DC Comics)">Batwing</a></i></li>
+<li><i><a href="/wiki/Birds_of_Prey_(comics)" title="Birds of Prey (comics)">Birds of Prey</a></i></li>
+<li><i><a href="/wiki/The_Brave_and_the_Bold" title="The Brave and the Bold">The Brave and the Bold</a></i></li>
+<li><i><a href="/wiki/Gotham_Central" title="Gotham Central">Gotham Central</a></i></li>
+<li><i><a href="/wiki/Gotham_City_Sirens" title="Gotham City Sirens">Gotham City Sirens</a></i></li>
+<li><i><a href="/wiki/Huntress_(comics)" title="Huntress (comics)">The Huntress</a></i></li>
+<li><i><a href="/wiki/Joker_(comics)" title="Joker (comics)">The Joker</a></i></li>
+<li><i><a href="/wiki/Man-Bat" title="Man-Bat">Man-Bat</a></i></li>
+<li><i><a href="/wiki/Nightwing" title="Nightwing">Nightwing</a></i></li>
+<li><i><a href="/wiki/Red_Robin_(comic_book)" title="Red Robin (comic book)">Red Robin</a></i></li>
+<li><i><a href="/wiki/Robin_(comics)" title="Robin (comics)">Robin</a></i></li>
+<li><i><a href="/wiki/Superman/Batman" title="Superman/Batman">Superman/Batman</a></i></li>
+<li><i><a href="/wiki/World%27s_Finest_Comics" title="World's Finest Comics">World's Finest Comics</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Completed<br/>
+limited series</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Anarky_(comic_book)" title="Anarky (comic book)">Anarky</a></i></li>
+<li><i><a href="/wiki/Batgirl:_Year_One" title="Batgirl: Year One">Batgirl: Year One</a></i></li>
+<li><i><a href="/wiki/Batman/Superman/Wonder_Woman:_Trinity" title="Batman/Superman/Wonder Woman: Trinity">Batman/Superman/Wonder Woman: Trinity</a></i></li>
+<li><i><a href="/wiki/Batman:_Arkham_City_(comic_book)" title="Batman: Arkham City (comic book)">Batman: Arkham City</a></i></li>
+<li><i><a href="/wiki/Batman:_Battle_for_the_Cowl" title="Batman: Battle for the Cowl">Batman: Battle for the Cowl</a></i></li>
+<li><i><a href="/wiki/Batman:_Cacophony" title="Batman: Cacophony">Batman: Cacophony</a></i></li>
+<li><i><a href="/wiki/Batman:_The_Cult" title="Batman: The Cult">Batman: The Cult</a></i></li>
+<li><i><a href="/wiki/The_Dark_Knight_Returns" title="The Dark Knight Returns">Batman: The Dark Knight Returns</a></i></li>
+<li><i><a href="/wiki/Batman:_Dark_Victory" title="Batman: Dark Victory">Batman: Dark Victory</a></i></li>
+<li><i><a href="/wiki/Batman:_Gates_of_Gotham" title="Batman: Gates of Gotham">Batman: Gates of Gotham</a></i></li>
+<li><i><a href="/wiki/Batman:_GCPD" title="Batman: GCPD">Batman: GCPD</a></i></li>
+<li><i><a href="/wiki/Batman:_Gotham_County_Line" title="Batman: Gotham County Line">Batman: Gotham County Line</a></i></li>
+<li><i><a href="/wiki/Batman:_The_Long_Halloween" title="Batman: The Long Halloween">Batman: The Long Halloween</a></i></li>
+<li><i><a href="/wiki/Batman:_Nosferatu" title="Batman: Nosferatu">Batman: Nosferatu</a></i></li>
+<li><i><a href="/wiki/Orpheus_(comics)" title="Orpheus (comics)">Batman: Orpheus Rising</a></i></li>
+<li><i><a href="/wiki/Batman:_The_Return_of_Bruce_Wayne" title="Batman: The Return of Bruce Wayne">Batman: The Return of Bruce Wayne</a></i></li>
+<li><i><a href="/wiki/Batman:_Turning_Points" title="Batman: Turning Points">Batman: Turning Points</a></i></li>
+<li><i><a href="/wiki/Batman:_The_Widening_Gyre" title="Batman: The Widening Gyre">Batman: The Widening Gyre</a></i></li>
+<li><i><a href="/wiki/Batman:_Year_100" title="Batman: Year 100">Batman: Year 100</a></i></li>
+<li><i><a href="/wiki/Batman_and_the_Mad_Monk" title="Batman and the Mad Monk">Batman and the Mad Monk</a></i></li>
+<li><i><a href="/wiki/Batman_and_the_Monster_Men" title="Batman and the Monster Men">Batman and the Monster Men</a></i></li>
+<li><i><a href="/wiki/Batman_Black_and_White" title="Batman Black and White">Batman Black and White</a></i></li>
+<li><i><a href="/wiki/The_Dark_Knight_Strikes_Again" title="The Dark Knight Strikes Again">The Dark Knight Strikes Again</a></i></li>
+<li><i><a href="/wiki/First_Wave_(comics)" title="First Wave (comics)">First Wave</a></i></li>
+<li><i><a href="/wiki/Gotham_Underground" title="Gotham Underground">Gotham Underground</a></i></li>
+<li><i><a href="/wiki/Man-Bat" title="Man-Bat">Man-Bat</a></i></li>
+<li><i><a href="/wiki/Robin:_Year_One" title="Robin: Year One">Robin: Year One</a></i></li>
+<li><i><a href="/wiki/Superman_%26_Batman:_Generations" title="Superman &amp; Batman: Generations">Superman &amp; Batman: Generations</a></i></li>
+<li><i><a href="/wiki/Trinity_(comic_book)" title="Trinity (comic book)">Trinity</a></i></li>
+<li><i><a href="/wiki/The_Untold_Legend_of_the_Batman" title="The Untold Legend of the Batman">The Untold Legend of the Batman</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">One-shots</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Arkham_Asylum:_A_Serious_House_on_Serious_Earth" title="Arkham Asylum: A Serious House on Serious Earth">Arkham Asylum: A Serious House on Serious Earth</a></i></li>
+<li><i><a href="/wiki/Batman:_The_12_Cent_Adventure" title="Batman: The 12 Cent Adventure">The 12 Cent Adventure</a></i></li>
+<li><i><a href="/wiki/Batman:_Castle_of_the_Bat" title="Batman: Castle of the Bat">Castle of the Bat</a></i></li>
+<li><i><a href="/wiki/Batman:_Dark_Knight_Dynasty" title="Batman: Dark Knight Dynasty">Dark Knight Dynasty</a></i></li>
+<li><i><a href="/wiki/Batman:_Digital_Justice" title="Batman: Digital Justice">Digital Justice</a></i></li>
+<li><i><a href="/wiki/Batman:_Earth_One" title="Batman: Earth One">Earth One</a></i></li>
+<li><i><a href="/wiki/Batman:_Holy_Terror" title="Batman: Holy Terror">Holy Terror</a></i></li>
+<li><i><a href="/wiki/Batman:_In_Darkest_Knight" title="Batman: In Darkest Knight">In Darkest Knight</a></i></li>
+<li><i><a href="/wiki/Batman:_The_Killing_Joke" title="Batman: The Killing Joke">The Killing Joke</a></i></li>
+<li><i><a href="/wiki/Batman:_Knight_Gallery" title="Batman: Knight Gallery">Knight Gallery</a></i></li>
+<li><i><a href="/wiki/Batman:_Death_of_Innocents" title="Batman: Death of Innocents">Death of Innocents</a></i></li>
+<li><i><a href="/wiki/Batman:_The_Man_Who_Laughs" title="Batman: The Man Who Laughs">The Man Who Laughs</a></i></li>
+<li><i><a href="/wiki/Batman:_Nine_Lives" title="Batman: Nine Lives">Nine Lives</a></i></li>
+<li><i><a href="/wiki/Batman:_No%C3%ABl" title="Batman: Noël">Noël</a></i></li>
+<li><i><a href="/wiki/Batman:_Son_of_the_Demon" title="Batman: Son of the Demon">Son of the Demon</a></i></li>
+<li><i><a href="/wiki/Batman:_Two_Faces" title="Batman: Two Faces">Two Faces</a></i></li>
+<li><i><a href="/wiki/Batman/Houdini:_The_Devil%27s_Workshop" title="Batman/Houdini: The Devil's Workshop">Batman/Houdini: The Devil's Workshop</a></i></li>
+<li><i><a href="/wiki/The_Batman_Adventures:_Mad_Love" title="The Batman Adventures: Mad Love">The Batman Adventures: Mad Love</a></i></li>
+<li><i><a href="/wiki/Batman_%26_Dracula:_Red_Rain" title="Batman &amp; Dracula: Red Rain">Batman &amp; Dracula: Red Rain</a></i></li>
+<li><i><a href="/wiki/Gotham_by_Gaslight" title="Gotham by Gaslight">Gotham by Gaslight</a></i></li>
+<li><i><a href="/wiki/Joker_(graphic_novel)" title="Joker (graphic novel)">Joker</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Storylines</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>"<a href="/wiki/The_Case_of_the_Chemical_Syndicate" title="The Case of the Chemical Syndicate">The Case of the Chemical Syndicate</a>"</li>
+<li>"<a href="/wiki/The_Man_Behind_the_Red_Hood!" title="The Man Behind the Red Hood!">The Man Behind the Red Hood!</a>"</li>
+<li>"<a href="/wiki/Joker%27s_Millions" title="Joker's Millions">Joker's Millions</a>"</li>
+<li>"<a href="/wiki/Batman:_Year_One" title="Batman: Year One">Year One</a>"</li>
+<li>"<a href="/wiki/Batman:_Year_Two" title="Batman: Year Two">Year Two</a>"</li>
+<li>"<a href="/wiki/Batman:_A_Death_in_the_Family" title="Batman: A Death in the Family">A Death in the Family</a>"</li>
+<li>"<a href="/wiki/Batman:_Year_Three" title="Batman: Year Three">Year Three</a>"</li>
+<li>"<a href="/wiki/The_Man_Who_Falls" title="The Man Who Falls">The Man Who Falls</a>"</li>
+<li>"<a href="/wiki/Anarky_in_Gotham_City" title="Anarky in Gotham City">Anarky in Gotham City</a>"</li>
+<li>"<a href="/wiki/Batman:_Gothic" title="Batman: Gothic">Gothic</a>"</li>
+<li>"<a href="/wiki/The_Return_of_the_Joker" title="The Return of the Joker">The Return of the Joker</a>"</li>
+<li>"<a href="/wiki/Batman:_Prey" title="Batman: Prey">Prey</a>"</li>
+<li>"<a href="/wiki/Batman:_The_Last_Arkham" title="Batman: The Last Arkham">The Last Arkham</a>"</li>
+<li>"<strong class="selflink">Knightfall</strong>"</li>
+<li>"<a href="/wiki/Batman:_Leatherwing" title="Batman: Leatherwing">Leatherwing</a>"</li>
+<li>"<a href="/wiki/Batman:_Contagion" title="Batman: Contagion">Contagion</a>"</li>
+<li>"<a href="/wiki/Batman:_Legacy" title="Batman: Legacy">Legacy</a>"</li>
+<li>"<a href="/wiki/Batman:_Cataclysm" title="Batman: Cataclysm">Cataclysm</a>"</li>
+<li>"<a href="/wiki/The_Berlin_Batman" title="The Berlin Batman">The Berlin Batman</a>"</li>
+<li>"<a href="/wiki/No_Man%27s_Land_(comics)" title="No Man's Land (comics)">No Man's Land</a>"</li>
+<li>"<a href="/wiki/Bruce_Wayne:_Fugitive" title="Bruce Wayne: Fugitive">Bruce Wayne: Fugitive</a>"</li>
+<li>"<a href="/wiki/Batman:_Hush" title="Batman: Hush">Hush</a>"</li>
+<li>"<a href="/wiki/Broken_City_(comics)" title="Broken City (comics)">Broken City</a>"</li>
+<li>"<a href="/wiki/As_the_Crow_Flies_(comics)" title="As the Crow Flies (comics)">As the Crow Flies</a>"</li>
+<li>"<a href="/wiki/Batman:_War_Games" title="Batman: War Games">War Games</a>"</li>
+<li>"<a href="/wiki/Batman:_Under_the_Hood" title="Batman: Under the Hood">Under the Hood</a>"</li>
+<li>"<a href="/wiki/War_Crimes_(comics)" title="War Crimes (comics)">War Crimes</a>"</li>
+<li>"<a href="/wiki/Batman:_Face_the_Face" title="Batman: Face the Face">Face the Face</a>"</li>
+<li>"<a href="/wiki/Batman_and_Son" title="Batman and Son">Batman and Son</a>"</li>
+<li>"<a href="/wiki/Batman:_Dark_Moon_Rising" title="Batman: Dark Moon Rising">Dark Moon Rising</a>"</li>
+<li>"<a href="/wiki/The_Resurrection_of_Ra%27s_al_Ghul" title="The Resurrection of Ra's al Ghul">The Resurrection of Ra's al Ghul</a>"</li>
+<li>"<a href="/wiki/Batman_R.I.P." title="Batman R.I.P.">Batman R.I.P.</a>"</li>
+<li>"<a href="/wiki/Batman:_Whatever_Happened_to_the_Caped_Crusader%3F" title="Batman: Whatever Happened to the Caped Crusader?">Whatever Happened to the Caped Crusader?</a>"</li>
+<li>"<a href="/wiki/Batwoman:_Elegy" title="Batwoman: Elegy">Batwoman: Elegy</a>"</li>
+<li>"<a href="/wiki/Bruce_Wayne:_The_Road_Home" title="Bruce Wayne: The Road Home">Bruce Wayne: The Road Home</a>"</li>
+<li>"<a href="/wiki/Night_of_the_Owls" title="Night of the Owls">Night of the Owls</a>"</li>
+<li>"<a href="/wiki/Death_of_the_Family" title="Death of the Family">Death of the Family</a>"</li>
+<li>"<a href="/wiki/Batman:_Zero_Year" title="Batman: Zero Year">Zero Year</a>"</li>
+<li>"<a href="/wiki/Batman:_Endgame" title="Batman: Endgame">Endgame</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Inter-company<br/>
+crossovers</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Batman/Aliens" title="Batman/Aliens">Batman/Aliens</a></i></li>
+<li><i><a href="/wiki/Batman/Hellboy/Starman" title="Batman/Hellboy/Starman">Batman/Hellboy/Starman</a></i></li>
+<li><i><a href="/wiki/Batman/Judge_Dredd:_Judgment_on_Gotham" title="Batman/Judge Dredd: Judgment on Gotham">Batman/Judge Dredd: Judgment on Gotham</a></i></li>
+<li><i><a href="/wiki/Batman/The_Spirit" title="Batman/The Spirit">Batman/The Spirit</a></i></li>
+<li><i><a href="/wiki/Batman_versus_Predator" title="Batman versus Predator">Batman versus Predator</a></i></li>
+<li><i><a href="/wiki/Spawn/Batman" title="Spawn/Batman">Spawn/Batman</a></i></li>
+<li><i><a href="/wiki/Superman_and_Batman_versus_Aliens_and_Predator" title="Superman and Batman versus Aliens and Predator">Superman and Batman versus Aliens and Predator</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Incomplete or planned</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/All_Star_Batman_%26_Robin,_the_Boy_Wonder" title="All Star Batman &amp; Robin, the Boy Wonder">All Star Batman &amp; Robin, the Boy Wonder</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Related topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Batman:_Anarky" title="Batman: Anarky">Batman: Anarky</a></i></li>
+<li><i><a href="/wiki/Batman:_Child_of_Dreams" title="Batman: Child of Dreams">Batman: Child of Dreams</a></i></li>
+<li><i><a href="/wiki/Batman:_Haunted_Knight" title="Batman: Haunted Knight">Batman: Haunted Knight</a></i></li>
+<li><i><a href="/wiki/The_Batman_Chronicles_(trade_paperback)" title="The Batman Chronicles (trade paperback)">The Batman Chronicles</a></i></li>
+<li><i><a href="/wiki/Batman_Legends" title="Batman Legends">Batman Legends</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Storylines are listed in publication order. Publications are listed alphabetically by published titles.<br/>
+Compiled without respect for canon or "current" continuity.</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1097
+CPU time usage: 0.499 seconds
+Real time usage: 0.602 seconds
+Preprocessor visited node count: 2937/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 49112/2097152 bytes
+Template argument size: 4634/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+Lua time usage: 0.087/10.000 seconds
+Lua memory usage: 1.61 MB/50 MB
+-->
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  338.717      1 - -total
+ 40.48%  137.112      2 - Template:Infobox
+ 38.18%  129.315      1 - Template:Infobox_comics_story_arc
+ 21.88%   74.095      1 - Template:Infobox_album
+ 14.16%   47.948      1 - Template:Reflist
+  9.36%   31.706      1 - Template:Citation
+  8.72%   29.534      1 - Template:Batman_publications
+  7.70%   26.092      1 - Template:Comics_infobox_sec/genre
+  7.58%   25.665      1 - Template:Category_handler
+  5.65%   19.122      1 - Template:Navbox
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1986794-0!*!0!!en!4!* and timestamp 20150208203827 and revision id 642591431
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Batman:_Knightfall&amp;oldid=642591431">http://en.wikipedia.org/w/index.php?title=Batman:_Knightfall&amp;oldid=642591431</a>"					</div>
+<div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Batman_storylines" title="Category:Batman storylines">Batman storylines</a></li><li><a href="/wiki/Category:1993_in_comics" title="Category:1993 in comics">1993 in comics</a></li><li><a href="/wiki/Category:Crossover_comics" title="Category:Crossover comics">Crossover comics</a></li><li><a href="/wiki/Category:1994_novels" title="Category:1994 novels">1994 novels</a></li><li><a href="/wiki/Category:1994_audio_plays" title="Category:1994 audio plays">1994 audio plays</a></li><li><a href="/wiki/Category:Batman_novels" title="Category:Batman novels">Batman novels</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Comics_infobox_image_less_alt_text" title="Category:Comics infobox image less alt text">Comics infobox image less alt text</a></li><li><a href="/wiki/Category:Story_arc_pop" title="Category:Story arc pop">Story arc pop</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Batman%3A+Knightfall&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Batman%3A+Knightfall" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Batman:_Knightfall" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Batman:_Knightfall" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Batman:_Knightfall">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Batman:_Knightfall&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Batman:_Knightfall&amp;action=history" title="Past versions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if one exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li>
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+<li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li>
+<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+<li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li>
+<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Batman:_Knightfall" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li>
+<li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Batman:_Knightfall" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
+<li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
+<li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=Batman:_Knightfall&amp;oldid=642591431" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=Batman:_Knightfall&amp;action=info" title="More information about this page">Page information</a></li>
+<li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q920793" title="Link to connected data repository item [g]">Wikidata item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Batman%3A_Knightfall&amp;id=642591431" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Batman%3A+Knightfall">Create a book</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Batman%3A+Knightfall&amp;oldid=642591431&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="t-print"><a accesskey="p" href="/w/index.php?title=Batman:_Knightfall&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Der_Sturz_des_Dunklen_Ritters" hreflang="de" lang="de" title="Der Sturz des Dunklen Ritters – German">Deutsch</a></li>
+<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Batman:_Knightfall" hreflang="es" lang="es" title="Batman: Knightfall – Spanish">Español</a></li>
+<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Batman:_Knightfall" hreflang="fr" lang="fr" title="Batman: Knightfall – French">Français</a></li>
+<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Batman:_Knightfall" hreflang="it" lang="it" title="Batman: Knightfall – Italian">Italiano</a></li>
+<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%91%D7%90%D7%98%D7%9E%D7%9F:_%D7%A0%D7%A4%D7%99%D7%9C%D7%AA%D7%95_%D7%A9%D7%9C_%D7%90%D7%91%D7%99%D7%A8" hreflang="he" lang="he" title="באטמן: נפילתו של אביר – Hebrew">עברית</a></li>
+<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/A_Queda_do_Morcego" hreflang="pt" lang="pt" title="A Queda do Morcego – Portuguese">Português</a></li>
+<li class="uls-p-lang-dummy"><a href="#"></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" class="wbc-editpage" href="//www.wikidata.org/wiki/Q920793#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 15 January 2015, at 11:24.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Batman:_Knightfall&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
+</li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+
+</body>
+</html>

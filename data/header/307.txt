@@ -1,0 +1,16 @@
+Title: Amazon.com: Marvel''s The Avengers (Two-Disc Blu-ray/DVD Combo in Blu-ray Packaging): Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård, Samuel L. Jackson, Joss Whedon: Movies & TV
+Date: Mon, 09 Feb 2015 23:39:55 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 01KQKMSZ2RX356Q2PY49
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: dvd_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: 5uGbmlktcjRvG1BidS7vXhk82/hZyhBy50QvmJ82jRz+DpSFamDETkb3jnHxH4HP
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+

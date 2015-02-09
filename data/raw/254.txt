@@ -1,0 +1,1974 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Amount of CGI vs. live-action in Warcraft movie “between Avatar and Planet of the Apes” | VG247</title>
+<link href="http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/feed/" rel="alternate" title="VG247 » Amount of CGI vs. live-action in Warcraft movie “between Avatar and Planet of the Apes” Comments Feed" type="application/rss+xml"/>
+<link href="http://www.vg247.com/wp-content/themes/vg247/css/bbpress.css?ver=2.5.3-5249" id="bbp-default-css" media="screen" rel="stylesheet" type="text/css"/>
+
+
+<link href="http://www.vg247.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://www.vg247.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="http://www.vg247.com/2015/02/09/super-smash-bros-3ds-is-getting-amiibo-support-tomorrow/" rel="prev" title="Super Smash Bros. 3DS is getting Amiibo support tomorrow"/>
+<link href="http://www.vg247.com/2015/02/09/surgeon-simulator-dev-worlds-adrift-trailer-shows-intriguing-beautiful-game/" rel="next" title="New trailer for Surgeon Simulator dev’s Worlds Adrift shows intriguing, beautiful game"/>
+<meta content="WordPress 3.8.1" name="generator"/>
+<link href="http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/" rel="canonical"/>
+<link href="http://www.vg247.com/?p=511931" rel="shortlink"/>
+<!-- META -->
+<meta content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" name="viewport"/>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@vg247" name="twitter:site"/>
+<meta content="Amount of CGI vs. live-action in Warcraft movie “between Avatar and Planet of the Apes”" name="twitter:title"/>
+<meta content="Warcraft movie news are very scarce, until director Duncan Jones hops on Twitter to talk to fans and tease us a bit more. Duncan Jones, director of the upcoming Warcraft movie has been answering fan questions and teasing a few details about the 2016 flick…" name="twitter:description"/>
+<meta content="http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/" name="twitter:url"/>
+<meta content="http://assets.vg247.com/current//2015/02/warcraft-movie-horde-poster.jpg" name="twitter:image:src"/>
+<meta content="vg247.com" name="twitter:domain"/>
+<meta content="VG247.com" property="og:site_name"/>
+<meta content="Amount of CGI vs. live-action in Warcraft movie “between Avatar and Planet of the Apes”" property="og:title"/>
+<meta content="http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/" property="og:url"/>
+<meta content="article" property="og:type"/>
+<meta content="http://assets.vg247.com/current//2015/02/warcraft-movie-horde-poster.jpg" property="og:image"/>
+<meta content="Warcraft movie news are very scarce, until director Duncan Jones hops on Twitter to talk to fans and tease us a bit more. Duncan Jones, director of the upcoming Warcraft movie has been answering fan questions and teasing a few details about the 2016 flick…" property="og:description"/>
+<meta content="Warcraft movie news are very scarce, until director Duncan Jones hops on Twitter to talk to fans and tease us a bit more. Duncan Jones, director of the upcoming Warcraft movie has been answering fan questions and teasing a few details about the 2016 flick…" name="description"/>
+<!-- FONTS -->
+
+
+<link href="http://www.vg247.com/xmlrpc.php" rel="pingback">
+<link href="http://www.vg247.com/wp-content/themes/vg247/css/base.css?v=1.6.22" rel="stylesheet" type="text/css"/>
+<link href="http://www.vg247.com/wp-content/themes/vg247/css/pages/article.css?v=1.6.22" rel="stylesheet" type="text/css"/>
+<!-- ICONS -->
+<link href="http://www.vg247.com/wp-content/themes/vg247/fonts/font-awesome/font-awesome.css" rel="stylesheet" type="text/css"/>
+<!-- JQUERY & PROTOTYPE -->
+
+
+
+
+<!--[if lt IE 10]>
+	<script>
+		document.createElement('article');
+		document.createElement('aside');
+		document.createElement('footer');
+		document.createElement('header');
+		document.createElement('main');
+		document.createElement('nav');
+		document.createElement('section');
+	</script>
+	<![endif]-->
+
+</link></head>
+<body>
+<header>
+<div>
+<a class="logo" href="/"><img src="http://www.vg247.com/wp-content/themes/vg247/logo.png"/></a>
+<a class="button navigation" href="#">
+<i class="icon-reorder"></i>
+<span>Sections</span>
+</a>
+<a class="button account" href="#">
+<i class="icon-user"></i>
+<span>Account</span>
+</a>
+<div class="social">
+<a class="facebook" href="http://www.facebook.com/pages/VG247com/190017407702654"><i class="icon-facebook"></i></a>
+<a class="twitter" href="http://twitter.com/vg247"><i class="icon-twitter"></i></a>
+<a class="youtube" href="http://youtube.com/MrVG247"><i class="icon-facetime-video"></i></a>
+<a class="rss" href="http://www.vg247.com/feed/"><i class="icon-rss"></i></a>
+</div>
+<div class="promos">
+<ul>
+<li>
+<h5>
+<a href="http://www.vg247.com/2015/02/02/survarium-free-premium-account-give-away/">Survarium: 50,000 FREE Premium account keys to give away</a>
+</h5>
+</li>
+<li>
+<h5>
+<a href="http://www.vg247.com/2014/12/12/gta-online-guide-missions-rp-cash/">GTA Online guide: best missions for RP and cash</a>
+</h5>
+</li>
+<li class="boombox" id="boombox">
+<div class="advert boombox" data-dfp-id="VG_BB" data-dfp-sizes="210x83" id="div-ga-VG_BB"></div>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<nav>
+<div>
+<form action="/" class="search" id="search" method="get">
+<fieldset>
+<input name="s" type="text" x-webkit-speech=""/>
+<input type="submit" value="Search"/>
+</fieldset>
+</form>
+<ul>
+<li>
+<a href="http://www.vg247.com/category/pc/">PC</a>
+</li>
+<li>
+<a href="http://www.vg247.com/tag/gta-5/">GTA 5</a>
+</li>
+<li>
+<a href="http://www.vg247.com/tag/call-of-duty/">Call of Duty</a>
+</li>
+<li>
+<a href="http://www.vg247.com/tag/destiny/">Destiny</a>
+</li>
+<li>
+<a href="http://www.vg247.com/tag/assassins-creed-unity/">Assassin's Creed</a>
+</li>
+<li>
+<a href="http://www.vg247.com/tag/fifa/">FIFA</a>
+</li>
+<li>
+<a href="http://www.vg247.com/category/guides/">Guides</a>
+</li>
+<li>
+<a href="http://www.vg247.com/ticker/">Ticker</a>
+</li>
+</ul>
+</div>
+</nav>
+<nav class="account" id="account">
+<div id="login-details">
+<form action="/wp-login.php?redirect_to=http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/" class="login" id="login" method="post">
+<fieldset>
+<label>Username</label>
+<input name="log" type="text"/>
+<label>Password</label>
+<input name="pwd" type="password"/>
+<input type="submit" value="Sign in"/>
+<input name="rememberme" type="hidden" value="forever"/>
+</fieldset>
+</form>
+<div class="buttons">
+<a class="button sign-in" data-target="login" href="/wp-login.php" id="sign-in-button"><i class="icon-user"></i> Sign in</a>
+<a class="button create-account" href="/wp-login.php?action=register"><i class="icon-plus-sign"></i> Create an account</a>
+</div>
+</div>
+</nav>
+<div id="page-wrapper">
+<div class="leaderboards">
+<div class="advert portable-leaderboard" data-dfp-id="VG_LB_1" data-dfp-sizes="728x90, 970x250" data-ghost-zone="27" id="div-ga-VG_LB_1_P"></div>
+<div class="advert wide-leaderboard" data-dfp-id="VG_LB_1" data-dfp-sizes="728x90, 970x250, 1260x110" data-ghost-zone="27" id="div-ga-VG_LB_1_HD"></div>
+</div>
+<div class="inner-wrapper">
+<div class="page">
+<div class="content">
+<div id="article">
+<article data-permalink="http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/">
+<header>
+<h1>Amount of CGI vs. live-action in Warcraft movie “between Avatar and Planet of the Apes”</h1>
+<p>
+<span class="timestamp">
+<i class="icon-time"></i>
+							Monday, 9 February 2015 20:25 GMT
+						</span>
+<span class="author">
+<i class="icon-user"></i>
+							By Sherif Saed						</span>
+</p>
+<div class="social">
+<ul>
+<li>
+<strong>Share on:</strong>
+</li>
+<li>
+<a class="facebook" href="http://www.facebook.com/sharer.php?u=http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/"><i class="icon-facebook"></i> <span>Facebook</span></a>
+</li>
+<li>
+<a class="twitter" href="http://twitter.com/intent/tweet?text=Amount of CGI vs. live-action in Warcraft movie “between Avatar and Planet of the Apes” http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/"><i class="icon-twitter"></i> <span>Twitter</span></a>
+</li>
+<li>
+<a class="reddit" href="http://www.reddit.com/submit?url=http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/"><i class="icon-gamepad"></i> <span>Reddit</span></a>
+</li>
+<li>
+<a class="google" href="https://plus.google.com/share?url=http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/"><i class="icon-google-plus-sign"></i> <span>Google+</span></a>
+</li>
+</ul>
+<a data-disqus-identifier="511931" href="#disqus">
+<i class="icon-comments"></i>
+							0							comments
+						</a>
+</div>
+</header>
+<div id="vg-lb-mob"><div class="advert mobile-leaderboard" data-dfp-id="VG_LB_MOB" data-dfp-sizes="320x50, 320x75, 320x100, 300x250" id="div-ga-VG_LB_MOB"></div></div>
+<section>
+<p>Warcraft movie news are very scarce, until director Duncan Jones hops on Twitter to talk to fans and tease us a bit more.</p>
+<p><span id="more-511931"></span><a href="http://assets.vg247.com/current//2015/02/warcraft-movie-header.jpg"><img alt="warcraft movie header" class="alignleft size-medium wp-image-511934" height="324" src="http://assets.vg247.com/current//2015/02/warcraft-movie-header-600x324.jpg" width="600"/></a></p>
+<p>Duncan Jones, director of the upcoming Warcraft movie has been answering fan questions and teasing a few details about the 2016 flick on Twitter.</p>
+<p>First, regarding the amount of CGI that will be used in the film, Jones had this to say:</p>
+<blockquote class="twitter-tweet" lang="en"><p>.<a href="https://twitter.com/tcwoolley">@tcwoolley</a> I would say that we fit somewhere between Planet of the Apes, Fellowship of the Ring and Avatar.</p>
+<p>— Duncan Jones (@ManMadeMoon) <a href="https://twitter.com/ManMadeMoon/status/563496576119631872">February 6, 2015</a></p></blockquote>
+<p></p>
+<p>He then revealed that he’s looking into the idea of two separate trailers. One for the Alliance and another for the Horde.</p>
+<blockquote class="twitter-tweet" lang="en"><p>.<a href="https://twitter.com/pabosher">@pabosher</a> I love that idea. Have pitched it myself. We'll have to see…</p>
+<p>— Duncan Jones (@ManMadeMoon) <a href="https://twitter.com/ManMadeMoon/status/563497877939290114">February 6, 2015</a></p></blockquote>
+<p></p>
+<p>Jones also talked about how the movie’s theme is coming together, and other few bits <a href="https://twitter.com/ManMadeMoon" target="_new">on his Twitter</a>.</p>
+<p>The Warcraft movie is scheduled for March 2016.</p>
+<p>Thanks, <a href="http://www.joblo.com/movie-news/duncan-jones-teases-separate-alliance-and-horde-trailers-for-warcraft-226" target="_new">JoBlo</a>.</p>
+</section>
+<footer>
+<div class="tags">
+<p>
+								Posted in:																		<a href="http://www.vg247.com/category/publishers/activision-blizzard/">Activision Blizzard</a>
+<a href="http://www.vg247.com/category/movies/">Movies</a>
+</p>
+<p>
+							Tags: <a href="http://www.vg247.com/tag/duncan-jones/" rel="tag">Duncan Jones</a> <a href="http://www.vg247.com/tag/warcraft/" rel="tag">warcraft</a> <a href="http://www.vg247.com/tag/warcraft-movie/" rel="tag">warcraft movie</a>
+</p>
+</div>
+<div class="social">
+<ul>
+<li>
+<strong>Share on:</strong>
+</li>
+<li>
+<a class="facebook" href="http://www.facebook.com/sharer.php?u=http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/"><i class="icon-facebook"></i> <span>Facebook</span></a>
+</li>
+<li>
+<a class="twitter" href="http://twitter.com/intent/tweet?text=Amount of CGI vs. live-action in Warcraft movie “between Avatar and Planet of the Apes” http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/"><i class="icon-twitter"></i> <span>Twitter</span></a>
+</li>
+<li>
+<a class="reddit" href="http://www.reddit.com/submit?url=http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/"><i class="icon-gamepad"></i> <span>Reddit</span></a>
+</li>
+<li>
+<a class="google" href="https://plus.google.com/share?url=http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/"><i class="icon-google-plus-sign"></i> <span>Google+</span></a>
+</li>
+</ul>
+<a data-disqus-identifier="511931" href="#disqus">
+<i class="icon-comments"></i>
+							0							comments
+						</a>
+</div>
+</footer>
+</article>
+<div id="headline-mpu-slot">
+<div class="advert mpu" data-dfp-id="VG_MPU_1" data-dfp-sizes="300x250" id="div-ga-VG_MPU_1"></div>
+</div>
+</div>
+<div id="news">
+<div class="news">
+<h2 class="heading">Latest</h2>
+<ul>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/fatal-frame-5-likely-to-come-west-says-itagaki/">Fatal Frame 5 likely to come west, says Itagaki</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Team Ninja founder Tomonobu Itagaki has dropped a hint that Fatal Frame 5 will be localised for the west. Fatal Frame 5: Oracle of the Sodden Raven is a Wii U exclusive which released in Japan in September last year. There’s been no word from Nintendo or Tecmo Koei on the possibility of it being […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423522631" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511964" href="http://www.vg247.com/2015/02/09/fatal-frame-5-likely-to-come-west-says-itagaki/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/fatal_frame_5_oracle_of_the_sudden_raven-156x87.jpg" href="http://www.vg247.com/2015/02/09/fatal-frame-5-likely-to-come-west-says-itagaki/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/shelter-2-release-date-pushed-back-to-march/">Shelter 2 release date pushed back to March</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Shelter 2 will put you in charge of a den of lynx cubs in just a few more weeks. Shelter 2 has been dated for March 9, on Mac and PC, having been delayed from an intended February launch. “We are currently polishing it and making sure its as good as can be. A lot […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423520235" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511961" href="http://www.vg247.com/2015/02/09/shelter-2-release-date-pushed-back-to-march/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/shelter_2-156x87.jpg" href="http://www.vg247.com/2015/02/09/shelter-2-release-date-pushed-back-to-march/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/persona-5-protagonists-first-summon-is-called-arsene/">Persona 5 protagonist’s first summon is called Arsene</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Persona 5 was partially inspired by Lupin III, so it’s fitting that the protagonist’s first summon is called Arsene. The first Persona you’ll have access to is almost certainly a nod to Arsene Lupin, the famous fictional thief on whom anime and manga character Lupin III was based. The news comes via Gematsu, drawing from […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423519634" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511956" href="http://www.vg247.com/2015/02/09/persona-5-protagonists-first-summon-is-called-arsene/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/persona_5_2-156x87.jpg" href="http://www.vg247.com/2015/02/09/persona-5-protagonists-first-summon-is-called-arsene/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/directx-12-early-tests-0-performance-increase-on-amd-gpus-0-on-nvidia/">DirectX 12 early tests: 400% performance increase on AMD GPUs, 150% on Nvidia</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>An early build of DirectX 12 has been tested and the results are extremely promising. Technology specialist site AnandTech ran some early tests on a DirectX 12 build that’s available in the latest version of Windows 10 and shown performance increases that are through the roof. Without going into a lot of technology talk, even […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423518665" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511950" href="http://www.vg247.com/2015/02/09/directx-12-early-tests-0-performance-increase-on-amd-gpus-0-on-nvidia/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/directx_12-156x87.jpg" href="http://www.vg247.com/2015/02/09/directx-12-early-tests-0-performance-increase-on-amd-gpus-0-on-nvidia/"></a>
+</li>
+<li class="ad" id="slot-1"><div id="vg-lb-mob"><div class="advert mobile-leaderboard" data-dfp-id="VG_LB_MOB" data-dfp-sizes="320x50, 320x75, 320x100, 300x250" id="div-ga-VG_LB_MOB"></div></div></li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/legend-of-grimrock-seems-a-perfect-fit-for-ipad/">Legend of Grimrock seems a perfect fit for iPad</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Indie turn-based dungeon crawler Legend of Grimrock is coming to iPad, where it suddenly occurs to us it ought to have been all along. Legend of Grimrock was very well received when it launched on Linux, Mac and PC in 2012, but now that we see it running on a tablet it seems to have […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423518166" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511953" href="http://www.vg247.com/2015/02/09/legend-of-grimrock-seems-a-perfect-fit-for-ipad/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/legend_of_grimrock-156x87.jpg" href="http://www.vg247.com/2015/02/09/legend-of-grimrock-seems-a-perfect-fit-for-ipad/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/dmc-definitive-edition-visits-vergils-bloody-palace/">DmC: Definitive Edition visits Vergil’s Bloody Palace</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>DmC: Definitive Edition introduces a feature fans have been asking for since the original launched – a Bloody Palace mode for Vergil. Vergil’s Bloody Palace is a 60-floor combat arena with three difficulty levels, progressing from Nephilim to Son of Sparda to Vergil Must Die, for 20 waves each. According to a PlayStation Blog post, […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423517638" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511948" href="http://www.vg247.com/2015/02/09/dmc-definitive-edition-visits-vergils-bloody-palace/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/dmc_definitve_edition-156x87.jpg" href="http://www.vg247.com/2015/02/09/dmc-definitive-edition-visits-vergils-bloody-palace/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/biowares-multiplayer-title-shadow-realms-cancelled/">BioWare’s MMO Shadow Realms cancelled</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>BioWare Austin has cancelled Shadow Realms, its PC MMO that was announced at gamescom last year. Shadow Realms, the multiplayer 4v1 title that was in development at BioWare Austin is no more. Jeff Hickman, general manager at the studio posted the following update. “Today I’m sharing some important news about Shadow Realms and our BioWare […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423515796" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511945" href="http://www.vg247.com/2015/02/09/biowares-multiplayer-title-shadow-realms-cancelled/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/08/shadow_realms_4-156x66.jpg" href="http://www.vg247.com/2015/02/09/biowares-multiplayer-title-shadow-realms-cancelled/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/surgeon-simulator-dev-worlds-adrift-trailer-shows-intriguing-beautiful-game/">New trailer for Surgeon Simulator dev’s Worlds Adrift shows intriguing, beautiful game</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Bossa Stuido’s next game doesn’t carry a silly premise like Surgeon Simulator or I Am Bread, but it certainly looks very interesting. Worlds Adrift is a new game in development at Surgeon Simulator and I Am Bread developer Bossa Studios. The game is very early in development, so not much has been revealed. We do […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423515217" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511938" href="http://www.vg247.com/2015/02/09/surgeon-simulator-dev-worlds-adrift-trailer-shows-intriguing-beautiful-game/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/worlds-adrift-screen-1-156x87.jpg" href="http://www.vg247.com/2015/02/09/surgeon-simulator-dev-worlds-adrift-trailer-shows-intriguing-beautiful-game/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/">Amount of CGI vs. live-action in Warcraft movie “between Avatar and Planet of the Apes”</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Warcraft movie news are very scarce, until director Duncan Jones hops on Twitter to talk to fans and tease us a bit more. Duncan Jones, director of the upcoming Warcraft movie has been answering fan questions and teasing a few details about the 2016 flick on Twitter. First, regarding the amount of CGI that will […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423513525" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511931" href="http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/warcraft-movie-horde-poster-117x156.jpg" href="http://www.vg247.com/2015/02/09/amount-of-cgi-vs-live-action-in-warcraft-movie-between-avatar-and-planet-of-the-apes/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/super-smash-bros-3ds-is-getting-amiibo-support-tomorrow/">Super Smash Bros. 3DS is getting Amiibo support tomorrow</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Just in time for the launch of the New 3DS in the west, Nintendo will be patching Amiibo support into Super Smash Bros. 3DS. According to a press release obtained by Nintendo Life, Nintendo is preparing a patch for Super Smash Bros. 3DS that’s going to add Amiibo support to the fighter. “A free update […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423512137" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511929" href="http://www.vg247.com/2015/02/09/super-smash-bros-3ds-is-getting-amiibo-support-tomorrow/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/11/amiibo-156x87.jpg" href="http://www.vg247.com/2015/02/09/super-smash-bros-3ds-is-getting-amiibo-support-tomorrow/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/battlefield-hardline-beta-patch-pc-magnum-870p-nerf/">Battlefield Hardline: beta patch nerfs 870P Magnum shotgun, lowers RO933 recoil</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Battlefield Hardline beta has received a new patch on PC, just a few hours from going offline. Hardline has received a small patch that’s aimed at balancing some of the in-game weapons and really provide a peek into what we may get in the final game. Some of these were even mentioned in Westie’s latest […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423511103" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511926" href="http://www.vg247.com/2015/02/09/battlefield-hardline-beta-patch-pc-magnum-870p-nerf/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/09/battlefield_hardline_3-156x87.jpg" href="http://www.vg247.com/2015/02/09/battlefield-hardline-beta-patch-pc-magnum-870p-nerf/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/world-of-warcrafts-latest-mini-game-is-a-take-on-mario-kart/">World of Warcraft’s latest mini-game is a take on Mario Kart</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Patch 6.1 for World of Warcraft continues to bring the silliest additions to the game. You don’t need to play World of Warcraft to know that the game’s upcoming 6.1 patch, currently only available in Public Test Realm (PTR), will be bringing a slew of unusual features to the most popular MMO. First, it was […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423509504" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511923" href="http://www.vg247.com/2015/02/09/world-of-warcrafts-latest-mini-game-is-a-take-on-mario-kart/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/12/world_of_warcraft-156x87.jpg" href="http://www.vg247.com/2015/02/09/world-of-warcrafts-latest-mini-game-is-a-take-on-mario-kart/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/call-of-duty-european-championship-finals-dated/">Call of Duty European Championship finals dated</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>The finals for Call of Duty’s European Championship have been dated, with 28 teams vying for a spot in the global finals in March. The European Call of Duty Championship finals will take place from February 28 – March 1 at the Royal Opera House in Covent Garden, London. 28 teams from the UK, France, […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423508164" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511919" href="http://www.vg247.com/2015/02/09/call-of-duty-european-championship-finals-dated/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/11/call_of_duty_advanced_warfare1-156x87.jpg" href="http://www.vg247.com/2015/02/09/call-of-duty-european-championship-finals-dated/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/gameblast15-stream-schedule-charity-help-disabled-gamers/">GameBlast15 scheduled for February 20-22, raise money to help disabled gamers</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Special Effect’s GameBlast charity event is back this February. The event aims at raising money to help develop technological solutions for gamers with physical disabilities. GamesBlast is an online event where streamers are invited to raise money over the period of three days. That money will go into the development of solutions to help disabled […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423505564" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511914" href="http://www.vg247.com/2015/02/09/gameblast15-stream-schedule-charity-help-disabled-gamers/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/gamesblast-header-1-156x82.jpg" href="http://www.vg247.com/2015/02/09/gameblast15-stream-schedule-charity-help-disabled-gamers/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/playstation-4-you-can-play-online-multiplayer-for-free-this-weekend/">PlayStation 4: you can play online multiplayer for free this weekend</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Sony is giving everyone without a PlayStation Plus subscription a chance to play games online this weekend. As you can see in the announcement video above, starting this Friday, February 13 at 6.00am GMT and through Monday, February 16 at 6.00am GMT you can play all your multiplayer games online for free, particularly helpful if […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423503247" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511912" href="http://www.vg247.com/2015/02/09/playstation-4-you-can-play-online-multiplayer-for-free-this-weekend/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/08/psn_playstation_network-156x87.jpg" href="http://www.vg247.com/2015/02/09/playstation-4-you-can-play-online-multiplayer-for-free-this-weekend/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/resident-evil-hd-remaster-fastest-selling-digital-title/">Resident Evil HD Remaster is Capcom’s fastest-selling digital title</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Resident Evil HD Remaster is Capcom’s fastest-selling digital title, less than three weeks from launch. Capcom has announced today that Resident Evil HD Remaster has become its fastest-selling digital title in history, across North America and Europe. In addition, the HD remaster broke the record for the biggest-selling day one digital title on PSN. “It’s […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423501761" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511909" href="http://www.vg247.com/2015/02/09/resident-evil-hd-remaster-fastest-selling-digital-title/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/08/resident_evil_hd_remake_6-156x87.jpg" href="http://www.vg247.com/2015/02/09/resident-evil-hd-remaster-fastest-selling-digital-title/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/evolve-unlock-times-for-all-regions-and-all-platforms/">Evolve: unlock times for all regions and all platforms</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>If you want to know what time Evolve will unlock for your region and favourite platform, you’ve come to the right place. The full list of unlock times were posted on the game’s Steam Community page, and we’ve arranged them for you below. If you’re still on the fence about Evolve, take a look at […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423500789" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511906" href="http://www.vg247.com/2015/02/09/evolve-unlock-times-for-all-regions-and-all-platforms/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/01/evolve_xbox_one-156x87.jpg" href="http://www.vg247.com/2015/02/09/evolve-unlock-times-for-all-regions-and-all-platforms/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/gun-game-call-of-duty-advanced-warfare-tease/">Call of Duty: Advanced Warfare dev teases Gun Game</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Gun Game may be on its way to Call of Duty: Advanced Warfare, if we’re interpreting this teaser correctly. Michael Condrey, studio head of developer Sledgehammer Games has taken to Twitter to tease something very close to the heart of all shooter fans; Gun Game. Slow news day. If you were at the studio you […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423499296" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511903" href="http://www.vg247.com/2015/02/09/gun-game-call-of-duty-advanced-warfare-tease/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/12/call_of_duty_advanced_warfare1-600x337-156x87.jpg" href="http://www.vg247.com/2015/02/09/gun-game-call-of-duty-advanced-warfare-tease/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/the-crew-february-patch-fix-losing-player-stats/">The Crew’s upcoming patch will finally fix lost stats bug</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>The Crew had quite the notorious bug since it launched back in December. Ubisoft has finally gotten around to fixing it in the upcoming patch. The Crew had its share of online issues on launch, but perhaps the most notable one was that servers would randomly erase player stats. Unthinkable for any racing game to […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423498102" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511896" href="http://www.vg247.com/2015/02/09/the-crew-february-patch-fix-losing-player-stats/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/10/the_crew-156x87.jpg" href="http://www.vg247.com/2015/02/09/the-crew-february-patch-fix-losing-player-stats/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/heroes-of-the-storm-guide/">Heroes of the Storm: how to brawl your way to victory</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>From soaking XP to handling BM – Rich Stanton’s advice on how to win in Blizzard’s ace new Moba. Blizzard’s Heroes of the Storm is a cracker – I’m hooked. It’s a different beast entirely to other Mobas and one of the big changes is streamlining a lot of their ‘classic’ mechanics. This means a […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423490293" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511879" href="http://www.vg247.com/2015/02/09/heroes-of-the-storm-guide/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/hots_art-156x97.jpg" href="http://www.vg247.com/2015/02/09/heroes-of-the-storm-guide/"></a>
+</li>
+<li class="ad" id="slot-2"><div class="advert mpu" data-dfp-id="VG_MPU_2" data-dfp-sizes="300x250" id="div-ga-VG_MPU_2"></div></li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/xbox-one-screenshot-capture-teased-by-microsoft-boss/">Xbox One screenshot capture teased by Microsoft boss</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Microsoft boss Phil Spencer has teased a beta image of screenshot capture on the Xbox One. The big cheese pumped the image out on Twitter over the weekend. Check it out. Nice to finally be doing this on my Xbox One dev kit. pic.twitter.com/AgDDWr3ExJ — Phil Spencer (@XboxP3) February 6, 2015 Microsoft has been working […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423479642" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511876" href="http://www.vg247.com/2015/02/09/xbox-one-screenshot-capture-teased-by-microsoft-boss/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/01/xbox_one_logo_1-156x60.jpg" href="http://www.vg247.com/2015/02/09/xbox-one-screenshot-capture-teased-by-microsoft-boss/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/destiny-the-exotic-weapons-and-armour-you-can-expect-in-house-of-wolves/">Destiny: the exotic weapons and armour you can expect in House of Wolves</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Here are all the known exotic weapons and armour you can expect to find when Destiny’s House of Wolves DLC drops before the end of June. Arekkz Gaming has trawled through all the known facts and delivers a rundown of all the gear, including The Exotac Angel Hunter helmet, Ikaheka’s Hooks gauntlets, Peregrine Greaves and […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423477979" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511874" href="http://www.vg247.com/2015/02/09/destiny-the-exotic-weapons-and-armour-you-can-expect-in-house-of-wolves/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/house-of-wolves1-156x87.jpg" href="http://www.vg247.com/2015/02/09/destiny-the-exotic-weapons-and-armour-you-can-expect-in-house-of-wolves/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/win-dying-light-on-pc/">Win Dying Light on PC!</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Our friends at IndieGala are giving away a code for Dying Light on PC, with runners up prizes on offer too. All you need do it enter your details below before the competition closes. 10 runners up will receive the Blades of Janus bundle, which features 9 games. Good luck! a Rafflecopter giveaway</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423476772" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511870" href="http://www.vg247.com/2015/02/09/win-dying-light-on-pc/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/unnamed1-156x116.jpg" href="http://www.vg247.com/2015/02/09/win-dying-light-on-pc/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/gordon-freeman-is-fat-and-bored-in-half-life-3-unannounced/">Gordon Freeman is fat and bored in Half-Life 3: Unannounced</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Bored. Overweight. Lonely. This is Gordon Freeman’s life according to short fan film Half-Life 3: Unannounced The movie was made by Fence Post Productions in New Zealand. It’s neat. At the very least it’s something to watch while we wait for an update from Valve. Any update. Anything… guys?</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423474425" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511867" href="http://www.vg247.com/2015/02/09/gordon-freeman-is-fat-and-bored-in-half-life-3-unannounced/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/unnamed-156x87.jpg" href="http://www.vg247.com/2015/02/09/gordon-freeman-is-fat-and-bored-in-half-life-3-unannounced/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/evolve-day-one-patch/">Evolve’s day one patch is 3GB, improves loading times</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Getting Evolve tomorrow? You’ll need to download a 3GB day one patch. The patch is aimed at improving the general performance of the game, as well as tweaks to the Hunters and Monsters. Here’s the full list of changes, direct from developer Turtle Rock: BALANCING TWEAKS We already noted this in an interview with Turtle […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423472318" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511862" href="http://www.vg247.com/2015/02/09/evolve-day-one-patch/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/08/evolve_gamescom-6-156x87.jpg" href="http://www.vg247.com/2015/02/09/evolve-day-one-patch/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/battlefield-hardline-beta-netcode-weapons-balance/">Battlefield Hardline beta: let’s talk netcode and weapons balance</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Now we’ve had plenty of time with the public beta, what balances and improvements can be made to Battlefield Hardline? The Battlefield Hardline beta may have come to an end, but it picked up over six million players during it’s short run. Our Battlefield expert Westie has played it extensively, and has put together this […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423471335" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511859" href="http://www.vg247.com/2015/02/09/battlefield-hardline-beta-netcode-weapons-balance/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/09/battlefield_hardline_1-156x87.jpg" href="http://www.vg247.com/2015/02/09/battlefield-hardline-beta-netcode-weapons-balance/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/twenty-games-that-are-now-20-years-old/">Twenty games that are now 20 years old</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Time’s wingéd chariot continues to do its thing. Contemplate your own mortality with this look back at 1995′s biggest releases. Now that the shine has worn off 2015 a little bit and our hangovers have cleared enough for us to unhook our liver machines, we’ve suddenly been struck by a sense of horror: it is […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423469736" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="510997" href="http://www.vg247.com/2015/02/09/twenty-games-that-are-now-20-years-old/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/star_wars_dark_forces-156x87.jpg" href="http://www.vg247.com/2015/02/09/twenty-games-that-are-now-20-years-old/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/watch-that-one-player-get-halo-5s-rarest-medal/">Watch that one player get Halo 5′s rarest medal</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>The Halo 5: Guardians multiplayer beta produced precisely one Killpocalypse medal, and now you can see how it was done. According to that Halo 5 beta infographic, eager Spartans managed to play 20 million matches and spend over 289 years playing the game. In all this time, only one player – Omnipression – managed to […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423462031" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511853" href="http://www.vg247.com/2015/02/09/watch-that-one-player-get-halo-5s-rarest-medal/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/01/H5-MP-Beta-Pegasus-Lightning-Round-Copy-156x87.jpg" href="http://www.vg247.com/2015/02/09/watch-that-one-player-get-halo-5s-rarest-medal/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/uncharted-4-graphics-really-close-to-film-says-character-artist/">Uncharted 4 graphics “really close to film”, says character artist</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Uncharted 4 lead character artist Frank Tzengi believes game models are close to the fidelity seen in movie CGI. Uncharted 4 is almost certainly going be the best-looking game Naughty Dog has ever produced, despite an incredible history. According to Tzengi, game graphics only going to get better, and right now Nathan Drake is already […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423460404" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511845" href="http://www.vg247.com/2015/02/09/uncharted-4-graphics-really-close-to-film-says-character-artist/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/uncharted_4_3-156x87.jpg" href="http://www.vg247.com/2015/02/09/uncharted-4-graphics-really-close-to-film-says-character-artist/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/evolve-reviews-show-critics-wary-of-launch-day-woes/">Evolve reviews show critics wary of launch day woes</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Evolve’s review embargo has lifted and although critics have had access to retail code ahead of launch, they’re cagey about putting a score on it. Evolve reviews so far are mostly positive but many of the big outlets have decided to withold a score, describe the coverage as something other than a review, or to […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423459280" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511840" href="http://www.vg247.com/2015/02/09/evolve-reviews-show-critics-wary-of-launch-day-woes/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/evolve-156x87.jpg" href="http://www.vg247.com/2015/02/09/evolve-reviews-show-critics-wary-of-launch-day-woes/"></a>
+</li>
+</ul>
+</div>
+</div>
+<div id="recommendations"></div>
+
+
+<div class="low-leader-container">
+<div class="advert low-leaderboard" data-dfp-id="VG_LB_2" data-dfp-sizes="728x90" id="div-ga-VG_LB_2"></div>
+</div>
+<div id="low-block">
+<div id="disqus" style="padding: 1em;">
+<div id="disqus_thread"></div>
+
+<noscript>Please enable JavaScript to view the comments.</noscript>
+</div>
+<div id="low-news">
+<div class="news">
+<ul>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/09/braid-creator-going-into-debt-to-finance-the-witness/">Braid creator going into debt to finance The Witness</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Braid creator Jonathan Blow has spent everything he earned from the indie hit and The Witness still isn’t finished. Braid earned Blow over millions of dollars, but he sank it back into The Witness, and the Myst-like puzzle adventure still needs more cash. According to an interview feature on Engadget, Blow has had to borrow […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423442631" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511809" href="http://www.vg247.com/2015/02/09/braid-creator-going-into-debt-to-finance-the-witness/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/the_witness-156x87.jpg" href="http://www.vg247.com/2015/02/09/braid-creator-going-into-debt-to-finance-the-witness/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/08/contrast-developer-teases-new-project-with-concept-art/">Contrast developer teases new project with concept art</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Contrast developer Compulsion Games has given the first few hints regarding its next project. Compulsion has been quiet since the release of Contrast in 2013, but the Canadian team hasn’t been idle. In an update on its new website, Compulsion released two pieces of concept art and confirmed that it has a new project in […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423439882" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511804" href="http://www.vg247.com/2015/02/08/contrast-developer-teases-new-project-with-concept-art/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/compulsion_games_concept_art-156x87.jpg" href="http://www.vg247.com/2015/02/08/contrast-developer-teases-new-project-with-concept-art/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/08/new-steam-feature-allows-all-games-to-support-persistent-items/">New Steam feature allows all games to support persistent items</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>All Steam developers now have the option to support tradable, persistent items – like Team Fortress 2′s hats. Valve has released a new API for Steamworks, which it’s calling The Steam Inventory Service. Currently in beta testing, the feature allows developers to enable “persistent items that have been purchased or unlocked by individual users” without […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423439170" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511801" href="http://www.vg247.com/2015/02/08/new-steam-feature-allows-all-games-to-support-persistent-items/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/06/steam-156x87.jpg" href="http://www.vg247.com/2015/02/08/new-steam-feature-allows-all-games-to-support-persistent-items/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/08/counter-strike-pros-banned-from-gambling-on-valve-sponsored-matches/">Counter-strike pros banned from gambling on Valve-sponsored matches</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Counter-strike: Global Offensive developer Valve has ruled that professional players cannot place bets on matches, even if they’re not participating. Valve-sponsored Counter-strike tournaments and events are now subject to Valve’s rules regarding gambling on matches. “Professional players, teams, and anyone involved in the production of CS:GO events, should under no circumstances gamble on CS:GO matches, […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423438384" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511797" href="http://www.vg247.com/2015/02/08/counter-strike-pros-banned-from-gambling-on-valve-sponsored-matches/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/counter-strike_global_offensive-156x87.jpg" href="http://www.vg247.com/2015/02/08/counter-strike-pros-banned-from-gambling-on-valve-sponsored-matches/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/08/gearbox-really-really-loves-homeworld/">Gearbox really, really loves Homeworld</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Homeworld Remastered Collection is clearly a passion project for Gearbox Software. In the Homeworld Remastered Collection developer diary below, Gearbox staffers discuss what they love about Relic’s classic sci-fi RTS. There are also appearances from some of the original developers who worked on the series and Homeworld Shipbreakers developer Blackbird Interactive. Check the full developer […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423437456" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511793" href="http://www.vg247.com/2015/02/08/gearbox-really-really-loves-homeworld/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/homeworld_remastered_collection-156x87.png" href="http://www.vg247.com/2015/02/08/gearbox-really-really-loves-homeworld/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/08/survarium-freeplay-mode-will-have-quests-storms-and-karma/">Survarium Freeplay mode will have quests, storms and karma</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Survarium developer Vostok Games has unveiled the upcoming Freeplay mode, which delivers a more familiar style of play to S.T.A.L.K.E.R. fans, but with several modern MMO twists. Survarium’s Freeplay mode will be where Vostok tells the games story, dividing narrative events into “seasons”. The first season will be told on a map which will be […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423436375" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511789" href="http://www.vg247.com/2015/02/08/survarium-freeplay-mode-will-have-quests-storms-and-karma/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/survarium-156x87.jpg" href="http://www.vg247.com/2015/02/08/survarium-freeplay-mode-will-have-quests-storms-and-karma/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/08/xenoblade-chronicles-3d-trailer/">Check out combat and baddies in new Xenoblade Chronicles 3D trailer</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>This Xenoblade Chronicles 3D trailer gives us a good look at the RPG’s handheld conversion. The trailer shows combat, enemies, dramatic moments and sweeping landscapes. Xenoblade Chronicles 3D is coming to New 3DS on April 10. A port of the 2010 Wii original, which took so long to make it west the Wii had all […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423434431" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511785" href="http://www.vg247.com/2015/02/08/xenoblade-chronicles-3d-trailer/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/xenoblade_chronicles-156x87.jpg" href="http://www.vg247.com/2015/02/08/xenoblade-chronicles-3d-trailer/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/08/dragon-age-inquisition-behind-the-scenes-pax-south-panel/">Go behind the scenes with Dragon Age: Inquisition PAX South panel</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Dragon Age: Inquisition developer Bioware gave a behind-the-scenes look at triple-A development at PAX South this year. The panel lasted for over an hour, but the whole thing was recorded and has now been shared through YouTube. You’ll hear from creative director Mike Laidlaw, art director Matt Goldman, lead editor Karin Weekes, cinematic designer Frank […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423433798" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511783" href="http://www.vg247.com/2015/02/08/dragon-age-inquisition-behind-the-scenes-pax-south-panel/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/11/dragon-age-inquisition-concept-art-17-156x87.jpg" href="http://www.vg247.com/2015/02/08/dragon-age-inquisition-behind-the-scenes-pax-south-panel/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/07/gta-5-video-backstreet-boys-funny/">Murderous rampage in GTA 5 justified, because Backstreet Boys</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Once upon a time, in the city of Los Santos, a fella went on a murderous rampage while listening to the Backstreet Boys. Did the music cause him to run around the city wacking people with axes, running them over, or giving them a punch or three? Who knows, really. All we know, is that […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423346571" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511771" href="http://www.vg247.com/2015/02/07/gta-5-video-backstreet-boys-funny/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/Backstreet-Boys-No-Pants-156x117.jpg" href="http://www.vg247.com/2015/02/07/gta-5-video-backstreet-boys-funny/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/07/untold-story-rpg-indie-pc/">Untold Story is an NES-style, turn-based, RPG made by a single developer</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Candlelight Studios, which is comprised of Joshua Temblett, has announced the development of Untold Story. The game is an 8-bit, turn-based RPG reminiscent of games released during the Nintendo Entertainment System era. In it, players take on the roll of the knight Adrasteia while an invasion his city occurs. “The story of Untold Story, and […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423346504" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511770" href="http://www.vg247.com/2015/02/07/untold-story-rpg-indie-pc/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/untold_story-2-156x87.png" href="http://www.vg247.com/2015/02/07/untold-story-rpg-indie-pc/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/07/mortal-kombat-x-microtransactions/">NetherRealm isn’t ready to talk Mortal Kombat X microtransactions “yet”</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Whether Mortal Kombat X will contain microtransactions or not remains to be seen, as NetherRealm Studios isn’t ready to discuss such matters at present. Speaking with IGN at a recent Mortal Kombat X event, the studio’s marketing manager Brian Goodman he had nothing to say on the possible feature. “We are not releasing any details […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423342203" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511764" href="http://www.vg247.com/2015/02/07/mortal-kombat-x-microtransactions/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/mortal_kombat_x_kitana-156x86.jpg" href="http://www.vg247.com/2015/02/07/mortal-kombat-x-microtransactions/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/07/video-games-are-hard/">“Our games are actually still too hard to learn,” says EA’s Hilleman</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Do you sometimes think games are too hard to learn? If so, you’re not alone: EA’s chief creative officer Richard Hilleman thinks so too. During a multiple developer interview on stage at D.I.C.E. 2015 this week, Hilleman said he feels modern games take the average player too long to learn what with the various controls […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423340192" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511760" href="http://www.vg247.com/2015/02/07/video-games-are-hard/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/bart_video_games-156x103.jpg" href="http://www.vg247.com/2015/02/07/video-games-are-hard/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/07/xenoblade-chronicles-x-wii-u-screenshots/">Xenoblade Chronicles X screenshots and Japanese box art released</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Some lovely screenshots and the Japanese box art for Xenoblade Chronicles X have been posted by Amazon Japan, and you can feast your eyes upon the loveliness via our gallery. The shots come to us courtesy of Gematsu, which has hi-res versions posted, so you may wish to go have a better look at the […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423338173" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511743" href="http://www.vg247.com/2015/02/07/xenoblade-chronicles-x-wii-u-screenshots/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/xenoblade_chronicles_x-10-156x87.jpg" href="http://www.vg247.com/2015/02/07/xenoblade-chronicles-x-wii-u-screenshots/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/07/the-order-1886-ps4-gameplay-video/">Here’s 11 minutes worth of The Order: 1886 footage</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Eleven minutes worth of The Order: 1886 footage has emerged, and even though we can’t understand what the player is saying – I don’t speak Italian – it’s no matter: all you need are visuals, really. It appears to be the first 11 minutes of the game, as it shows some dialogue and a tutorial, […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423335660" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511739" href="http://www.vg247.com/2015/02/07/the-order-1886-ps4-gameplay-video/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2013/10/the-order-1886-Sir-Galahad-156x44.png" href="http://www.vg247.com/2015/02/07/the-order-1886-ps4-gameplay-video/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/07/counter-strike-global-offensive-match-fixing-bans/">More bans issued by Valve, ESL over Counter-Strike: Global Offensive match-fixing</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>More bans have been issued by Valve and the ESL over match fixing in Counter-Strike: Global Offensive, with three teams scheduled to participate in the offline qualifier for ESL One Katowice 2015 disqualified. According to a statement posted on the CCS:GO thread of the ESL website, Epsilon eSports, ex-ESC Gaming and WinneR all have players […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423334544" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511732" href="http://www.vg247.com/2015/02/07/counter-strike-global-offensive-match-fixing-bans/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/counter_strike_go-156x80.jpg" href="http://www.vg247.com/2015/02/07/counter-strike-global-offensive-match-fixing-bans/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/07/rise-of-the-tomb-raider-xbox-one-xbox-360-artwork/">Rise of the Tomb Raider concept art shows snowy environments</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Rise of the Tomb Raider concept art has popped up over on Game Informer as part of it’s month long coverage of the upcoming Crystal Dynamics title. Through the link, the concept art shows the forests of Siberia, a lift attached to a decrepit building going across a snowy gorge, an interior shot, and some […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423331435" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511728" href="http://www.vg247.com/2015/02/07/rise-of-the-tomb-raider-xbox-one-xbox-360-artwork/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/12/rise_of_the_tomb_raider_new-156x58.jpg" href="http://www.vg247.com/2015/02/07/rise-of-the-tomb-raider-xbox-one-xbox-360-artwork/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/bloodborne-ps4-shields/">Bloodborne has shields, but don’t trust them with your life</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>You will be able to use shields in Bloodborne, but that doesn’t mean you can just stand around and block. You will have to incorporate your shield into your strategy for it to be effective, according to Sony Japan Studio producer Masaaki Yamagiwa. “If you’re always standing back and guarding, you’ll die very quickly,” he […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423259703" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511725" href="http://www.vg247.com/2015/02/06/bloodborne-ps4-shields/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/08/bloodborne-5-156x87.jpg" href="http://www.vg247.com/2015/02/06/bloodborne-ps4-shields/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/the-legend-of-zelda-tv-series-netflix/">Live-action Legend of Zelda series in development at Netflix – report</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>A report on the Wall Street Journal states Netflix and Nintendo are in the early stages of developing a live-action The Legend of Zelda series. This is according to a source likening it to “Game of Thrones for a family audience.” At present, it’s said the show is looking for a writer and WSJ states […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423258333" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511718" href="http://www.vg247.com/2015/02/06/the-legend-of-zelda-tv-series-netflix/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/10/link-156x87.jpg" href="http://www.vg247.com/2015/02/06/the-legend-of-zelda-tv-series-netflix/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/heroes-of-the-storm-the-lost-vikings-pc/">Blizzard’s adding Lost Vikings content to Heroes of the Storm</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Next week, Blizzard will be hosting a Twitch stream in which it will play custom Heroes of the Storm matches with community members as well as exploring new content. Over on Battle.net, Blizzard announced that its next Brawl with the Blues stream is titled “the Lost Edition”, and the header image features the hosts dressed […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423255115" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511714" href="http://www.vg247.com/2015/02/06/heroes-of-the-storm-the-lost-vikings-pc/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/lost_vikings-156x87.jpg" href="http://www.vg247.com/2015/02/06/heroes-of-the-storm-the-lost-vikings-pc/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/goetia-pc-mac-linux-indie/">Goetia is a point-and-click game where you play as a ghost, demo released</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>A demo for Goetia, the point-and-click puzzler currently on Kickstarter, has a demo available for Linux, Mac and PC. Developed by Paris-based studio Ynnis Interactive, players will possess items in order to use them, and instead of trying to find a key to unlock a door to a room, they can just go right through […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423253911" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511709" href="http://www.vg247.com/2015/02/06/goetia-pc-mac-linux-indie/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/Blackwood-Manor-1024x768-156x117.jpg" href="http://www.vg247.com/2015/02/06/goetia-pc-mac-linux-indie/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/deus-ex-machina-android-ios-pc-linux-mac/">Cult classic Deus Ex Machina lands on mobile, Steam date to be announced</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Cult 1984 Game of the Year, Deus Ex Machina, has been reprogrammed with all-new graphics and released on iOS and Android. The game was the first interactive movie and starred The Third Doctor himself, Jon Pertwee (Doctor Who) along with Ian Dury (Ian Dury and the Blockheads), and Frankie Howerd (comic genius). Released as a […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423248457" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511705" href="http://www.vg247.com/2015/02/06/deus-ex-machina-android-ios-pc-linux-mac/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/deus_ex_machina-156x156.jpg" href="http://www.vg247.com/2015/02/06/deus-ex-machina-android-ios-pc-linux-mac/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/renoir-pc-indie-puzzle-platformer/">Renoir is a story-driven puzzle-platformer in development for PC, consoles</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Soulbound Games, a Czech Republic-based independent developer, has announced development of a story-driven puzzle-platformer titled Renoir for PC and current-gen consoles. Player will take on the role of private detective James Renoir who is investigating his final case, during which he must try to “overcome his past” in a “city saturated with fear and corruption.” […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423246523" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511695" href="http://www.vg247.com/2015/02/06/renoir-pc-indie-puzzle-platformer/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/renoir_city3_concept_1080p-156x76.jpg" href="http://www.vg247.com/2015/02/06/renoir-pc-indie-puzzle-platformer/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/super-stardust-ultra-ps4-2/">PS4 owners can pick up Super Stardust Ultra next week</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Super Stardust Ultra for PS4 has a release date for both Europe and North America. The twin-stick shooter from Resogun developer Housemarque will feature nine game modes – some new, some from previous DLC releases in the series, four-player co-op and split-screen PvP. Co-op can be played in both multiplayer and competitive modes. The game supports 3D […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423245274" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511692" href="http://www.vg247.com/2015/02/06/super-stardust-ultra-ps4-2/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/Super-Stardust-Ultra-156x87.jpg" href="http://www.vg247.com/2015/02/06/super-stardust-ultra-ps4-2/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/qbert-rebooted-ps3-ps4-vita/">Q*Bert Rebooted contains original and re-imagined versions of arcade classic</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>For those who tossed many a quarter into the Q*Bert arcade game as kid or played it on ColecoVision, a rebooted version of the classic is coming to PlayStation 3, PS4 and Vita. Q*Bert Rebooted contains the original version of the arcade game and a re-imagined version courtesy of Gonzo Games, Sideline Amusements, Games Production […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423244422" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511688" href="http://www.vg247.com/2015/02/06/qbert-rebooted-ps3-ps4-vita/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/qbert_rebooted-156x89.jpg" href="http://www.vg247.com/2015/02/06/qbert-rebooted-ps3-ps4-vita/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/xbox-one-kinect-sale-us/">Take $50 off an Xbox One with Kinect in the US starting next week</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Those in the market for an Xbox One with Kinect in the US can pick the bundle up for $50 off the normal $449 retail price starting next week. From February 8-21 the discount will be applicable at Amazon, Best Buy, GameStop, Microsoft Stores, Target, Toys R Us and Walmart and other major retailers. The […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423243345" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511686" href="http://www.vg247.com/2015/02/06/xbox-one-kinect-sale-us/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/08/xbox-one-156x87.jpg" href="http://www.vg247.com/2015/02/06/xbox-one-kinect-sale-us/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/battlefield-hardline-beta-pc-ps4-xbox-one-3/">Here’s 15 improvements made to Battlefield Hardline since the last beta</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>EA and Visceral have made a list of changes made to Battlefield Hardline since the last beta occurred. Elements such as a cleaner customize screen, longer rounds, less explosions and more. Here’s the list of “all the small things” which have been tweaked: Gadget Master Class: The dev team cast a vote for the new […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423242571" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511683" href="http://www.vg247.com/2015/02/06/battlefield-hardline-beta-pc-ps4-xbox-one-3/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/08/bf-hardline-7-156x87.jpg" href="http://www.vg247.com/2015/02/06/battlefield-hardline-beta-pc-ps4-xbox-one-3/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/guild-wars-2-heart-of-thorns-egx-rezzed/">Guild Wars 2: Heart of Thorns playable at EGX Rezzed</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Guild Wars 2: Heart of Thorns will make its European debut at EGX Rezzed in March. The expansion to the MMO will be playable for the first time, and attendees stopping by the developer booth will be able to chat with the team. There will also be in-booth presentations and a developer session covering the […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423241155" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511681" href="http://www.vg247.com/2015/02/06/guild-wars-2-heart-of-thorns-egx-rezzed/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/01/guild_wars_2_heart_of_thorns-156x91.jpg" href="http://www.vg247.com/2015/02/06/guild-wars-2-heart-of-thorns-egx-rezzed/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/star-citizens-arena-commander-1-0-2-patch-is-live/">Star Citizen’s Arena Commander 1.0.2 patch is live</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Arena Commander 1.0.2 is now available for Star Citizen. The patch focuses on “bug fixes, balance updates and smaller additions to the game.” It fixes lobby kicking, missing glass in the Herald space globe’s cockpit, and the expansion of the skin system to the Aurora line. The update also “sets the stage for the shield […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423240566" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511677" href="http://www.vg247.com/2015/02/06/star-citizens-arena-commander-1-0-2-patch-is-live/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/01/star_citizen1-156x87.jpg" href="http://www.vg247.com/2015/02/06/star-citizens-arena-commander-1-0-2-patch-is-live/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/xenoblade-chronicles-3d-us-release-date/">Xenoblade Chronicles 3D releases April 10 in North America with Amiibo support</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Nintendo of America has announced Xenoblade Chronicles 3D, the handheld remake of the Wii RPG, will launch exclusively for New Nintendo 3DS XL on April 10 and reconfirmed the European release on April 2. The game will contain a StreetPass functionality which helps players earn in-game tokens to unlock music and character models. It also […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423237886" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511671" href="http://www.vg247.com/2015/02/06/xenoblade-chronicles-3d-us-release-date/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/xenoblade_chronicles_3d_new-156x87.jpg" href="http://www.vg247.com/2015/02/06/xenoblade-chronicles-3d-us-release-date/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/dying-light-modding-tools-pc/">Modding tools for Dying Light are in the works</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Techland is working free and “extensive” modding tools for Dying Light, the developer announced today. According to the developer, Dying Light and its sandbox gameplay “is a perfect material for modding,” the team is working on tools in order to give players creative freedom to creative “fresh and interesting” content. The firm is inviting players […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423236336" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511665" href="http://www.vg247.com/2015/02/06/dying-light-modding-tools-pc/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/dying_light_modding_tools-156x87.jpg" href="http://www.vg247.com/2015/02/06/dying-light-modding-tools-pc/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/battlefield-4-night-map-cte/">Infiltration of Shanghai night map lands on Battlefield 4 CTE</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>A night map prototype has landed on the Battlefield 4 Community Test Environment and its called Infiltration of Shanghai. The map will be familiar to Battlefield 4 players who mucked around in the Siege of Shanghai map. DICE LA are using the CTE program as a way to get feedback on the nighttime map. Watch […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423235437" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511661" href="http://www.vg247.com/2015/02/06/battlefield-4-night-map-cte/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/bf4_night_map-156x87.jpg" href="http://www.vg247.com/2015/02/06/battlefield-4-night-map-cte/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/xenoblade-chronicles-x-wii-u-video/">Xenoblade Chronicles X has four player co-op, 32 player online information exchange and trading</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>During a Xenoblade Chronicles X live stream this morning, quite a few details on the game were finally revealed, such as four-player co-op and the ability to exchange “strategic information or items” with up to 32 players. According to translations of the Japanese stream and documents from Cheesemeister up to 32 players can be “passively […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423234411" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511657" href="http://www.vg247.com/2015/02/06/xenoblade-chronicles-x-wii-u-video/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/xenoblade_chronicles_x-109x156.jpg" href="http://www.vg247.com/2015/02/06/xenoblade-chronicles-x-wii-u-video/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/victor-vran-is-a-diablo-like-isometric-arpg-that-lets-you-jump/">Victor Vran is a Diablo-like isometric ARPG with a jump button</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Tropico developer Haemimont Games is working on an isometric action RPG, in the vein of Diablo, called Victor Vran. Victor Vran will feature a new take on the genre, according to the developer. Most notably, the game allows your character to jump, a drastic change to any one familiar with the genre. The game supports […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423233057" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511639" href="http://www.vg247.com/2015/02/06/victor-vran-is-a-diablo-like-isometric-arpg-that-lets-you-jump/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/Victor-Vran-1-156x107.png" href="http://www.vg247.com/2015/02/06/victor-vran-is-a-diablo-like-isometric-arpg-that-lets-you-jump/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/mortal-kombat-x-trailer-introduces-faction-wars-the-return-of-dynamic-towers/">Mortal Kombat X trailer introduces Faction Wars, the return of dynamic towers</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>NetherRealm has released a new trailer for Mortal Kombat X that is chuck of full of new details. The trailer is available below and alongside the nostalgia trip, it takes a look at Faction Wars, which was revealed earlier and announces the return of the dynamic challenge towers. This seems like a great addition to […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423232706" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511650" href="http://www.vg247.com/2015/02/06/mortal-kombat-x-trailer-introduces-faction-wars-the-return-of-dynamic-towers/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/QuanChi-Copy-156x87.jpg" href="http://www.vg247.com/2015/02/06/mortal-kombat-x-trailer-introduces-faction-wars-the-return-of-dynamic-towers/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/nintendo-game-demos-classic-releases-3ds-wii-u/">Nintendo wants to release more game demos, older low-cost titles on 3DS</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Nintendo wants to release low-cost titles on 3DS and offer more demos for full-priced games on its systems. Speaking with The Nikkei, Nintendo president Satoru Iwata said such incentives will help stimulate platform sales. Iwata believes customers are more likely to purchase a major game release once they have played a demo version. As far […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423232696" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511643" href="http://www.vg247.com/2015/02/06/nintendo-game-demos-classic-releases-3ds-wii-u/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/08/new_3ds_01-156x83.jpg" href="http://www.vg247.com/2015/02/06/nintendo-game-demos-classic-releases-3ds-wii-u/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/mortal-kombat-x-preview/">Mortal Kombat X welcomes you with open arms and bloody fists</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Mortal Kombat wants everyone to sign up for a bloody brawl, not just fight fans. “Mortal Kombat has become a victim of its own sensationalism. Known to outsiders as the poster child for gratuitous violence rather than mechanically complex and rewarding fighting.” Social experiment time: select a friend, family member or casual acquaintance that has […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423231203" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511592" href="http://www.vg247.com/2015/02/06/mortal-kombat-x-preview/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/Raiden-Copy-156x87.jpg" href="http://www.vg247.com/2015/02/06/mortal-kombat-x-preview/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/game-of-thrones-episode-2-suffering-from-a-save-bug-on-xbox-one/">Game of Thrones Episode 2 suffering from a save bug on Xbox One</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Owners of Game of Thrones: Episode 2 – The Lost Lords on Xbox One are reporting a serious save loss bug. Multiple Xbox One users on Telltale’s official forums have been reporting this bug since the release of Episode 2 on the platform. A similar issue was reported by other users around the release of […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423229493" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511636" href="http://www.vg247.com/2015/02/06/game-of-thrones-episode-2-suffering-from-a-save-bug-on-xbox-one/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/01/game_of_thrones-156x96.jpg" href="http://www.vg247.com/2015/02/06/game-of-thrones-episode-2-suffering-from-a-save-bug-on-xbox-one/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/zombie-army-trilogy-is-out-march-6/">Zombie Army Trilogy is out March 6</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Rebellion has announced the release date for Zombie Army Trilogy on PC and new-gen consoles. The game will be available digitally through Steam on PC, Xbox Live, and PlayStation Network on March 6. Physical copies of the PS4 and Xbox One versions will also be available at retail. If you own any of the original […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423228075" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511625" href="http://www.vg247.com/2015/02/06/zombie-army-trilogy-is-out-march-6/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/ZAT_screenshot_01_1423136389-Copy-156x87.jpg" href="http://www.vg247.com/2015/02/06/zombie-army-trilogy-is-out-march-6/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/sonys-shuhei-yoshida-hates-annualised-franchises/">Sony’s Shuhei Yoshida hates annualised franchises</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Shuhei Yoshida president of Sony’s Worldwide Studios was in attendance at DICE Summit this week and discussed various industry topics. Shuhei Yoshida was a panel speaker at DICE Summit 2015, which took place this week. IGN, was in attendance and reported some of his quotes. According to Yoshida, sequels didn’t always have the reputation they […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423226515" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511622" href="http://www.vg247.com/2015/02/06/sonys-shuhei-yoshida-hates-annualised-franchises/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/03/shuyoshidasonyboss-156x97.jpg" href="http://www.vg247.com/2015/02/06/sonys-shuhei-yoshida-hates-annualised-franchises/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/xbox-live-spam-messages-microsoft-working-on-it/">Getting spam messages on Xbox One? Microsoft is working on it</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Have you had enough of those FIFA points spam messages yet? Over the past few weeks, the number of uses reporting receiving spam messages through Xbox Live has increased significantly. The messages are almost exclusively spamming one thing, a link to third-party FIFA Points resellers. It doesn’t matter if you play FIFA or not, chances […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423223840" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511610" href="http://www.vg247.com/2015/02/06/xbox-live-spam-messages-microsoft-working-on-it/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/10/xbox_one_logo_clean-156x92.jpg" href="http://www.vg247.com/2015/02/06/xbox-live-spam-messages-microsoft-working-on-it/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/everything-about-destinys-february-patch-in-one-video/">Everything about Destiny’s February patch in one video</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>A lot of Destiny news happened over the past 24 hours. Which is why a video recap is the best way to get caught up with everything important. Destiny Weapon nerfs and buffs, February patch, House of Wolves and more are discussed in Arekkz’ latest video. If you’re not a fan of reading, this will […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423222299" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511606" href="http://www.vg247.com/2015/02/06/everything-about-destinys-february-patch-in-one-video/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/10/destiny_31-156x87.jpg" href="http://www.vg247.com/2015/02/06/everything-about-destinys-february-patch-in-one-video/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/gabe-newell-good-guy-steam-support/">Gabe Newell gets an email from angry Steam user, sends a classy reply</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Gabe Newell responds to fan emails every once in a while. This time, it was a support ticket, and he resolved it. Reddit and Steam user that_earlyguy had lost access to his account and proceeded to send a Steam support ticket. The support team didn’t get back to him in over a week, so he […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423220403" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511595" href="http://www.vg247.com/2015/02/06/gabe-newell-good-guy-steam-support/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/03/gabe_newell-156x87.jpg" href="http://www.vg247.com/2015/02/06/gabe-newell-good-guy-steam-support/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/yesterdays-dark-souls-2-patch-added-a-new-boss-new-ending/">Yesterday’s Dark Souls 2 patch added a new boss, new ending</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Dark Souls 2 received a patch yesterday on PC, PS3 and Xbox 360. The patch added more than we were previously told. Before you go on any further, know that the ending of Dark Souls 2 along with some characters and boss encounters will be spoiled ahead, so tread carefully. The February patch to the […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423218962" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511587" href="http://www.vg247.com/2015/02/06/yesterdays-dark-souls-2-patch-added-a-new-boss-new-ending/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/10/dark_souls_2-156x87.jpg" href="http://www.vg247.com/2015/02/06/yesterdays-dark-souls-2-patch-added-a-new-boss-new-ending/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/telling-tales-game-of-thrones-vs-life-is-strange/">Telling tales: Game of Thrones vs Life is Strange</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>With Life is Strange, Dontnod has possibly out Telltale’d Telltale – but it doesn’t quite stand up to Game of Thrones. Yet. Life is Strange really does play much better than any Telltale game to date. Moving around and interacting with objects is just so much smoother and more comfortable. Yesterday I “found a few […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423216082" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511541" href="http://www.vg247.com/2015/02/06/telling-tales-game-of-thrones-vs-life-is-strange/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/life_is_strange_3-156x87.jpg" href="http://www.vg247.com/2015/02/06/telling-tales-game-of-thrones-vs-life-is-strange/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/major-destiny-content-release-fall-2015/">Activision confirms major Destiny content release this fall</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Destiny will receive a major content release in the fall of 2015. During Activision’s earnings call last night, publishing CEO Eric Hirshberg confirmed that House of Wolves will not be the only thing to come to Destiny this year. After House of Wolves is released sometime in the second quarter of 2015, another major release […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423215742" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511581" href="http://www.vg247.com/2015/02/06/major-destiny-content-release-fall-2015/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/11/destiny1-156x87.jpg" href="http://www.vg247.com/2015/02/06/major-destiny-content-release-fall-2015/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/best-destiny-videos/">Destiny videos of the week: what if Samuel L Jackson voiced Ghost?</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Destiny is full of watercooler moments and thanks to the power of new-gen consoles we don’t even have to describe them. Let show and tell – minus the tell – begin. Video of the week This week’s top video comes to us from t0nin0t, who finally made good on something that Destiny Subreddit members suggest […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423214977" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="510555" href="http://www.vg247.com/2015/02/06/best-destiny-videos/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/01/destiny_warlock_2-156x87.jpg" href="http://www.vg247.com/2015/02/06/best-destiny-videos/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/destiny-xur-location-and-inventory-for-february-6-7/">Destiny: Xur location and inventory for February 6, 7</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Xur: Agent of the Nine has arrived safely at the Tower in Destiny to surprise, or perhaps disappoint you. Xur is back again to Destiny’s Tower to facilitate trading your hard-earned Strange Coins and Motes of Light for Extoic weapons and armour. You can also exchange your old, weak Exotic armours and weapons for new, […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423214344" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511573" href="http://www.vg247.com/2015/02/06/destiny-xur-location-and-inventory-for-february-6-7/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/xur_feb_6-156x87.jpg" href="http://www.vg247.com/2015/02/06/destiny-xur-location-and-inventory-for-february-6-7/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/dragon-age-inquisition-wins-dice-game-of-the-year-award/">Dragon Age: Inquisition wins DICE Game of the Year award</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Dragon Age: Inquisition has emerged as this year’s DICE Awards game of the year. Dragon Age: Inquisition was something of a surprise winner at the end of the night, as Middle-earth: Shadow of Mordor had taken out eight awards up until that point, including oustanding achievement and innovation in game design, and adventure game of […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423201585" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511550" href="http://www.vg247.com/2015/02/06/dragon-age-inquisition-wins-dice-game-of-the-year-award/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/11/dragon_age_inquisition_vivienne_2-156x87.jpg" href="http://www.vg247.com/2015/02/06/dragon-age-inquisition-wins-dice-game-of-the-year-award/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/sid-meiers-starships-customisation/">Learn how to customise ships in Sid Meier’s Starships</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Sid Meier himself customises a vessel in this new footage for his new strategy game, Starships. The Sid Meier’s Starships footage below is commentated by Meier along with Firaxis Games’ Pete Murray. Later in the video, Meier answers questions raised by viewers of a recent Twitch stream. A turn-based 4X game, Sid Meier’s Starships is […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423190971" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511538" href="http://www.vg247.com/2015/02/06/sid-meiers-starships-customisation/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/sid_meiers_starships-156x87.jpg" href="http://www.vg247.com/2015/02/06/sid-meiers-starships-customisation/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/team-ninja-wont-make-any-more-pc-games-if-modders-are-naughty/">Team Ninja won’t make any more PC games if modders are naughty</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Dead or Alive 5 may be Team Ninja’s last PC release, if modders can’t adopt a “moral” tone in their customisation of the game. Dead or Alive 5: Last Round director Yohei Shimbori has asked players to be respectful in how they approach modding the fighter, which is Team Ninja’s first PC release*. “We have […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423190096" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511534" href="http://www.vg247.com/2015/02/06/team-ninja-wont-make-any-more-pc-games-if-modders-are-naughty/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/01/dead_or_alive_last_round_5-156x87.jpg" href="http://www.vg247.com/2015/02/06/team-ninja-wont-make-any-more-pc-games-if-modders-are-naughty/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/huge-ships-blow-each-other-up-in-ten-minutes-of-dreadnought-footage/">Huge ships blow each other up in ten minutes of Dreadnought footage</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Dreadnought is one of those games that you dream up one night in a fever and then 20 years later someone makes it real. Let’s stare at it in rapt anticipation. Dreadnought developer Yager commentates this footage of a 5v5 Team Deathmatch on the glacier map, which debuted at Pax South last week. It introduces […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423188807" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511529" href="http://www.vg247.com/2015/02/06/huge-ships-blow-each-other-up-in-ten-minutes-of-dreadnought-footage/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/dreadnought-156x87.jpg" href="http://www.vg247.com/2015/02/06/huge-ships-blow-each-other-up-in-ten-minutes-of-dreadnought-footage/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/xbox-one-february-update/">Xbox One February update detailed</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>The Xbox One February update has been detailed in full. The Xbox One hasn’t had an update since before the holidays, as Microsoft settled down to focus on providing a steady experience for new users. It looks like that will be changing soon, as Xbox Newswire listed all the details of the next update. The […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423187178" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511526" href="http://www.vg247.com/2015/02/06/xbox-one-february-update/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2014/04/xbox_one-156x87.jpg" href="http://www.vg247.com/2015/02/06/xbox-one-february-update/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/all-aboard-the-payday-2-hype-train-for-community-rewards/">All aboard the Payday 2 Hype Train for community rewards</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Choo choo, kiddies; the Payday 2 Hype Train is on the move. Payday 2 developer Overkill Software has launched a community event called the Hype Train. By buying Payday 2 or any DLC between now and March 12, including pre-orders for the Overkill and Completely Overkill packs, players earn gallons of “Hype Fuel”. Fuel is […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423185506" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511522" href="http://www.vg247.com/2015/02/06/all-aboard-the-payday-2-hype-train-for-community-rewards/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/payday_2-156x87.jpg" href="http://www.vg247.com/2015/02/06/all-aboard-the-payday-2-hype-train-for-community-rewards/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/dynasty-warriors-8-empires-seems-to-have-a-pretty-good-edit-mode/">Dynasty Warriors 8 Empires seems to have a pretty good edit mode</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Dynasty Warriors 8 Empires will once more allow players to create and customise a character to pit against ancient Chinese forces. The huge stack of Dynasty Warriors 8 Empires screens below show off the character editor, as well as various battlefields and scenarios. According to an accompanying press release, this year’s edit mode contains multiple […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423184772" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511467" href="http://www.vg247.com/2015/02/06/dynasty-warriors-8-empires-seems-to-have-a-pretty-good-edit-mode/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/dynasty_warriors_8_empires_edit_character_Battlefield3-156x87.jpg" href="http://www.vg247.com/2015/02/06/dynasty-warriors-8-empires-seems-to-have-a-pretty-good-edit-mode/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/the-mighty-quest-for-epic-loot-has-officially-launched/">The Mighty Quest for Epic Loot has officially launched</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>The Mighty Quest for Epic Loot has exited open beta. During beta, The Mighty Quest for Epic Loot gained crafting, open creation, barricades, more traps, rare creatures and clans. It’s now feature complete enough that Ubisoft has announced its official launch, adding the Infinite Pack to the free to play title to give players paid […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423183158" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511461" href="http://www.vg247.com/2015/02/06/the-mighty-quest-for-epic-loot-has-officially-launched/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/the_mighty_quest_for_epic_loot-156x87.jpg" href="http://www.vg247.com/2015/02/06/the-mighty-quest-for-epic-loot-has-officially-launched/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/06/jaunty-launch-trailer-celebrates-the-arrival-of-cities-xxl/">Jaunty launch trailer celebrates the arrival of Cities XXL</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Cities XXL looks like a remarkably cheerful little upgrade to the established simulation. An upgraded version of Cities XL, Cities XXL arrived on digital distributors today and arrives in store next week. Described as “a bigger, more complete city-builder pushing the city limits to the edge of your imagination”, it apparently has an improved game […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423181510" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511451" href="http://www.vg247.com/2015/02/06/jaunty-launch-trailer-celebrates-the-arrival-of-cities-xxl/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/cities_xxl-156x87.jpg" href="http://www.vg247.com/2015/02/06/jaunty-launch-trailer-celebrates-the-arrival-of-cities-xxl/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/05/final-fantasy-tomb-raider-and-more-discounted-in-massive-square-enix-steam-sale/">Final Fantasy, Tomb Raider and more discounted in massive Square Enix Steam sale</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Square Enix is throwing a huge Steam sale this weekend. Final Fantasy, Just Cause, Hitman, Deus Ex, Tomb Raider and more are all on sale through February 9 as part of Square Enix’s Steam publisher weekend. With discounts of up to 85% off on a huge range of titles, it’s well worth browsing. Here’s the […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423177843" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511444" href="http://www.vg247.com/2015/02/05/final-fantasy-tomb-raider-and-more-discounted-in-massive-square-enix-steam-sale/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/steam_sale_square_enix-156x87.jpg" href="http://www.vg247.com/2015/02/05/final-fantasy-tomb-raider-and-more-discounted-in-massive-square-enix-steam-sale/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/05/persona-5-stars-delinquents-was-partially-inspired-by-lupin-the-third/">Persona 5 stars delinquents, was partially inspired by Lupin The Third</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Persona 5 stars a pack of anti-heroes who may have a rather casual approach to property laws. Persona Team is finally ready to talk about its latest baby, releasing the first Persona 5 gameplay footage earlier today. Reading between the lines of information released so far, somehave speculated that the game’s protagonists are delinquents – […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423176901" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511423" href="http://www.vg247.com/2015/02/05/persona-5-stars-delinquents-was-partially-inspired-by-lupin-the-third/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/persona_5_1-156x87.jpg" href="http://www.vg247.com/2015/02/05/persona-5-stars-delinquents-was-partially-inspired-by-lupin-the-third/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/05/call-of-duty-2015-treyarch-world-at-war-2/">Call of Duty 2015 coming from Treyarch</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>The next Call of Duty game will be developed by Treyarch, Activision has confirmed. Call of Duty moved to a three studio development pattern as of Sledgehammer Games’ debut Advanced Warfare in November 2014. That leaves Treyarch and Infinity Ward to pick up the next two years, and as Infinity Ward’s last game, Ghosts, released […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423175537" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511425" href="http://www.vg247.com/2015/02/05/call-of-duty-2015-treyarch-world-at-war-2/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/02/call_of_duty_world_at_war-156x87.jpg" href="http://www.vg247.com/2015/02/05/call-of-duty-2015-treyarch-world-at-war-2/"></a>
+</li>
+<li>
+<p class="title">
+<a href="http://www.vg247.com/2015/02/05/destiny-1-1-1-patch-to-nerf-auto-rifles-fusion-rifles-and-hand-cannons/">Destiny 1.1.1 patch to nerf auto rifles, fusion rifles and hand cannons</a>
+</p>
+<div class="breaking_news_excerpt">
+<p>Destiny developer Bungie is making some big changes to weapons in this month’s 1.1.1 patch. Destiny players by and large disdain pulse rifles, preferring almost any other firearm to the burst semi-auto weapon. This, and their over-reliance on auto rifles, will be addressed in an upcoming weapons rebalancing, due in the Destiny 1.1.1 patch announced […]</p>
+</div>
+<p class="timestamp">
+<span data-timestamp="1423174039" data-timestamp-format="short"></span>
+</p>
+<div class="meta">
+<a class="comment-count" data-disqus-identifier="511411" href="http://www.vg247.com/2015/02/05/destiny-1-1-1-patch-to-nerf-auto-rifles-fusion-rifles-and-hand-cannons/#comments">
+<i class="icon-comments"></i> 0
+							</a>
+</div>
+<a class="cover" data-cover="http://assets.vg247.com/current//2015/01/destiny_hunter-156x87.jpg" href="http://www.vg247.com/2015/02/05/destiny-1-1-1-patch-to-nerf-auto-rifles-fusion-rifles-and-hand-cannons/"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+
+<!-- <script src="http://www.vg247.com/wp-content/themes/vg247/scripts/jquery.touchSwipe.min.js?v=1.6.22"></script> -->
+
+</div>
+<div id="skyscraper">
+<div class="advert skyscraper" data-dfp-id="VG_HP" data-dfp-sizes="300x600" data-ghost-zone="28" id="div-ga-VG_HP"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="a-z">
+<div>
+<ul>
+<li>
+<strong>Tags</strong>
+</li>
+<li>
+<a href="/tags/?letter=a">a</a>
+</li>
+<li>
+<a href="/tags/?letter=b">b</a>
+</li>
+<li>
+<a href="/tags/?letter=c">c</a>
+</li>
+<li>
+<a href="/tags/?letter=d">d</a>
+</li>
+<li>
+<a href="/tags/?letter=e">e</a>
+</li>
+<li>
+<a href="/tags/?letter=f">f</a>
+</li>
+<li>
+<a href="/tags/?letter=g">g</a>
+</li>
+<li>
+<a href="/tags/?letter=h">h</a>
+</li>
+<li>
+<a href="/tags/?letter=i">i</a>
+</li>
+<li>
+<a href="/tags/?letter=j">j</a>
+</li>
+<li>
+<a href="/tags/?letter=k">k</a>
+</li>
+<li>
+<a href="/tags/?letter=l">l</a>
+</li>
+<li>
+<a href="/tags/?letter=m">m</a>
+</li>
+<li>
+<a href="/tags/?letter=n">n</a>
+</li>
+<li>
+<a href="/tags/?letter=o">o</a>
+</li>
+<li>
+<a href="/tags/?letter=p">p</a>
+</li>
+<li>
+<a href="/tags/?letter=q">q</a>
+</li>
+<li>
+<a href="/tags/?letter=r">r</a>
+</li>
+<li>
+<a href="/tags/?letter=s">s</a>
+</li>
+<li>
+<a href="/tags/?letter=t">t</a>
+</li>
+<li>
+<a href="/tags/?letter=u">u</a>
+</li>
+<li>
+<a href="/tags/?letter=v">v</a>
+</li>
+<li>
+<a href="/tags/?letter=w">w</a>
+</li>
+<li>
+<a href="/tags/?letter=x">x</a>
+</li>
+<li>
+<a href="/tags/?letter=y">y</a>
+</li>
+<li>
+<a href="/tags/?letter=z">z</a>
+</li>
+<li>
+<a href="/tags/?letter=#">#</a>
+</li>
+</ul>
+</div>
+</div>
+<footer>
+<div>
+<a class="logo" href="/"><img src="http://www.vg247.com/wp-content/themes/vg247/logo.png"/></a>
+<ul class="links">
+<li>
+<a href="/privacy-policy">Privacy policy</a>
+</li>
+<li>
+<a href="/terms-and-conditions">Terms &amp; conditions</a>
+</li>
+<li>
+<a href="/staff">Staff</a>
+</li>
+<li>
+					© 2013 vg247
+				</li>
+</ul>
+<ul class="social">
+<li>
+<a class="facebook" href="http://www.facebook.com/pages/VG247com/190017407702654"><i class="icon-facebook"></i> Facebook</a>
+</li>
+<li>
+<a class="twitter" href="http://twitter.com/vg247"><i class="icon-twitter"></i> Twitter</a>
+</li>
+<li>
+<a class="youtube" href="http://youtube.com/MrVG247"><i class="icon-facetime-video"></i> YouTube</a>
+</li>
+<li>
+<a class="rss" href="http://www.vg247.com/feed/"><i class="icon-rss"></i> RSS</a>
+</li>
+</ul>
+</div>
+</footer>
+<!-- Site Libraries -->
+
+
+
+
+
+<!-- Advertising -->
+
+
+
+
+
+<!-- Begin comScore Tag -->
+
+
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=8045775&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+
+
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Database Caching using memcached
+Object Caching 7042/8773 objects using memcached
+
+ Served from: www.vg247.com @ 2015-02-09 23:33:38 by W3 Total Cache -->

@@ -1,0 +1,13 @@
+Title: Titanic (1997) - IMDb
+Date: Mon, 09 Feb 2015 23:39:24 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYg7MkuFGN16Hxo4ITjeMuiqxpu5uFHZoQg6Lx-mWV8RPfDJi3lsygThjyk4JZNpyVgQYjW_o6g%0D%0A61ZIofhN3x70Ous1OV0J2hMs01OAb-MmDD6JrIkV0ikBJ4y6CArOyJAqjDtw_K2IJGJv2gHy5Rd3%0D%0Am65fOpKWhpYo1lgV3xg2hywGeKWLTGjVDuNyCWDUg3TmPNdIeR42mulHPXl7EWIQYtWHpTqZOPWB%0D%0Ay8NvCYl36y-W3rIiXO_lDK5JRnazm6Rb_HMPqxhrNnEXs_AljKVBKg%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:53:32 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:53:32 GMT; Path=/
+Set-Cookie: session-id-time=1581205164; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:53:32 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

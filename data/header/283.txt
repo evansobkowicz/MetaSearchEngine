@@ -1,0 +1,15 @@
+Title: Paramount Pictures
+Server: Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/0.9.8zd-fips PHP/5.3.16
+Content-Length: 28021
+Content-Type: text/html; charset=utf-8
+X-Powered-By: PHP/5.3.16
+Link: </paramount-showcase>; rel="canonical",</node/10395>; rel="shortlink"
+Content-Language: en
+ETag: "1423524616-0"
+X-Drupal-Cache: HIT
+Expires: Mon, 09 Feb 2015 23:39:36 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 09 Feb 2015 23:39:36 GMT
+Connection: close
+

@@ -1,0 +1,4014 @@
+
+<!DOCTYPE html>
+
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head prefix="og: http://ogp.me/ns# flixstertomatoes: http://ogp.me/ns/apps/flixstertomatoes#">
+
+<!--[if lt IE 9]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script>
+        
+        if (typeof console === "undefined" || typeof console.log === "undefined") {
+            console={};
+            console.log = function(msg){};
+            console.error = function(msg){};
+        }
+    </script>
+    <style>
+        .fontelloIcon:before {
+            visibility: hidden;
+        }
+        p {
+            color:black;
+        }
+        div {
+            color:black;
+        }
+        .menuHeader {
+            display:inline-block;
+        }
+        .menuHeader a {
+            max-width:205px;
+        }
+        .row-sameColumnHeight {
+            margin-left:-10px;
+            margin-right:-10px;
+        }
+        .hoverBubble {
+            display: none;
+        }
+        .hoverBubble .bubbleContent {
+            display: none;
+        }
+        #movies_sidebar, #mainColumn {
+            background-color:white;
+        }
+    </style>
+    <![endif]-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<meta content="VPPXtECgUUeuATBacnqnCm4ydGO99reF-xgNklSbNbc" name="google-site-verification"/>
+<meta content="034F16304017CA7DCF45D43850915323" name="msvalidate.01"/>
+<link href="http://d3biamo577v4eu.cloudfront.net/static/images/icons/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="http://d3biamo577v4eu.cloudfront.net/static/images/icons/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+
+<noscript>
+<iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-TW7ZFZ" style="display: none; visibility: hidden" width="0"></iframe>
+</noscript>
+
+<!-- End Google Tag Manager -->
+
+
+<link href="http://content8.flixster.com/photo/98/44/95/9844958_ori.jpg" rel="image_src"/>
+<meta content="profile" property="og:type">
+<meta content="http://www.rottentomatoes.com/celebrity/elvis_presley/" property="og:url">
+<meta content="http://content8.flixster.com/photo/98/44/95/9844958_ori.jpg" property="og:image">
+<meta content="Elvis Presley" property="og:title">
+<meta content="326803741017" property="fb:app_id"/>
+
+<title>Elvis Presley - Rotten Tomatoes</title>
+<link href="http://www.rottentomatoes.com/celebrity/elvis_presley/" itemprop="url" rel="canonical"/>
+<meta content="Elvis Presley Celebrity Profile - Check out the latest Elvis Presley photo gallery, biography, pics, pictures, interviews, news, forums and blogs at Rotten Tomatoes!" name="description"/>
+<meta content="162657080" name="actorID">
+<style>
+		    #celeb_featured_trailers > li {width:50%;height:138px;float:left;text-align:center;margin-bottom:10px;}
+		    .celebPhoto {width:90px; height:90px; margin-right:-2px}
+            #highest_rated > li {width:25%;float:left;text-align:center;}
+            th > a { font-size:14px; font-weight:bold; color:#787878 }
+		</style>
+
+<link href="//d3biamo577v4eu.cloudfront.net/v/less/?f=/styles/rt_redesign.less" rel="stylesheet" type="text/css"/>
+
+</meta></meta></meta></meta></meta></meta></head>
+<body class="body " id="celebrityPage" schemaorg="http://www.schema.org/Person">
+
+<div id="emptyPlaceholder"></div>
+<div id="fb-root"></div>
+
+
+<div id="overlay" style="height:0px;"></div>
+
+<div class="body_main container">
+<div class="leaderboard_wrapper" id="top_leaderboard_wrapper">
+<div class="leaderboard_helper">
+<div id="leaderboard_top_ad">
+
+</div>
+</div>
+</div>
+<div class="head" id="head">
+<div class="modal fade" id="whatIsTomatometer">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h2 class="modal-title">What is the Tomatometer™?</h2>
+</div>
+<div class="modal-body">
+<p>
+                    The Tomatometer rating – based on the published opinions of hundreds of film and
+                    television critics – is a trusted measurement of movie and TV programming quality
+                    for millions of moviegoers. It represents the percentage of professional critic reviews
+                    that are positive for a given film or television show.
+                </p>
+<div class="row-sameColumnHeight noSpacing" style="margin:20px 0">
+<div class="col-xs-18" style="vertical-align:bottom">
+<div class="title">
+<h3>
+<span style="background-color:white">From the Critics</span>
+</h3>
+</div>
+</div>
+<div class="col-xs-6" style="vertical-align:bottom">
+<h3 class="noSpacing center">From RT Users Like You!</h3>
+</div>
+</div>
+<div class="row-sameColumnHeight noSpacing">
+<div class="col-xs-18">
+<div class="col-xs-8 center">
+<span class="icon huge fresh"></span>
+<p class="noSpacing bold">Fresh</p>
+<p>The Tomatometer is 60% or higher.</p>
+</div>
+<div class="col-xs-8 center">
+<span class="icon huge rotten"></span>
+<p class="noSpacing bold">Rotten</p>
+<p>The Tomatometer is 59% or lower.</p>
+</div>
+<div class="col-xs-8 center">
+<span class="icon huge certified"></span>
+<p class="noSpacing bold">Certified Fresh</p>
+<p>The Tomatometer is 75% or higher, with 40 reviews (movies) or 20 reviews (TV). At least 5 reviews from Top Critics.</p>
+</div>
+</div>
+<div class="col-xs-6 center">
+<span class="icon huge popcorn"></span>
+<p class="noSpacing bold">Audience Score</p>
+<p>Percentage of users who rate a movie or TV show positively.</p>
+</div>
+</div>
+<div class="clickForMore" style="margin-bottom:0">
+<a class="unstyled articleLink" href="/about/">Learn More <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="signup">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h4 class="modal-title">Sign up for Rotten Tomatoes</h4>
+</div>
+<div class="modal-body">
+<p class="text-center">
+<img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/>
+</p>
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-6 text-right">
+<i class="glyphicon glyphicon-star"></i>
+</div>
+<div class="col-sm-18">
+<p>
+<strong>Rate movies &amp; TV</strong> and see your friends' ratings
+                            </p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 text-right">
+<i class="glyphicon glyphicon-thumbs-up"></i>
+</div>
+<div class="col-sm-18">
+<p>
+<strong>Get recommendations</strong> personalized for you
+                            </p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 text-right">
+<i class="glyphicon glyphicon-comment"></i>
+</div>
+<div class="col-sm-18">
+<p>
+<strong>Join the discussion</strong> with other movie buffs
+                            </p>
+</div>
+</div>
+<br/>
+<p class="text-center">
+<small>
+                            By clicking “Sign up”, I agree to the
+                            <a href="/terms/" target="_blank">Terms of Service</a>
+                            and <a href="/privacy/">Privacy Policy</a>.
+                        </small>
+</p>
+<p class="text-center">
+<a class="btn btn-primary-fb btn-lg" href="javascript:FB.login();"> <i class="fontelloIcon icon-facebook-squared"></i> Sign up with Facebook
+                        </a><br/> <small>or <a data-dismiss="modal" data-target="#signup_email" data-toggle="modal" href="#signup_email">sign up with email</a></small>
+</p>
+<br/>
+<p class="text-center">
+<small>Already have an account? <a data-dismiss="modal" data-target="#login" data-toggle="modal" href="#login">Log in here</a></small>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="signup_email">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h4 class="modal-title">Sign up with Email</h4>
+</div>
+<div class="modal-body">
+<p class="text-center">
+<img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/>
+</p>
+<p class="text-center">
+<small>Already have an account? <a data-dismiss="modal" data-target="#login" data-toggle="modal" href="#login">Log in here</a></small>
+</p>
+
+<form action="https://www.rottentomatoes.com/user/account/action/register/" class="form-horizontal" method="POST" role="form">
+<input name="invite" type="hidden" value=""/> <input name="v" type="hidden" value=""/> <input name="login_redirect" type="hidden" value="http://www.rottentomatoes.com/celebrity/elvis_presley/"/>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_first_name">First Name</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_first_name" name="register_first_name" placeholder="first name"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_last_name">Last Name</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_last_name" name="register_last_name" placeholder="last name"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_email">Email</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_email" name="register_email" placeholder="e.g. johndoe@gmail.com" type="email" value=""/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_birthday_month">Birthday</label>
+<div class="col-sm-9">
+<select class="form-control" id="register_birthday_month" name="register_birthday_month">
+<option value="-1">Month</option>
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option>
+</select>
+</div>
+<div class="col-sm-4">
+<select class="form-control" id="register_birthday_day" name="register_birthday_day">
+<option value="0">Day</option>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+<option>11</option>
+<option>12</option>
+<option>13</option>
+<option>14</option>
+<option>15</option>
+<option>16</option>
+<option>17</option>
+<option>18</option>
+<option>19</option>
+<option>20</option>
+<option>21</option>
+<option>22</option>
+<option>23</option>
+<option>24</option>
+<option>25</option>
+<option>26</option>
+<option>27</option>
+<option>28</option>
+<option>29</option>
+<option>30</option>
+<option>31</option>
+</select>
+</div>
+<div class="col-sm-5">
+<select class="form-control" id="register_birthday_year" name="register_birthday_year">
+<option value="2015">Year</option>
+<option>2014</option>
+<option>2013</option>
+<option>2012</option>
+<option>2011</option>
+<option>2010</option>
+<option>2009</option>
+<option>2008</option>
+<option>2007</option>
+<option>2006</option>
+<option>2005</option>
+<option>2004</option>
+<option>2003</option>
+<option>2002</option>
+<option>2001</option>
+<option>2000</option>
+<option>1999</option>
+<option>1998</option>
+<option>1997</option>
+<option>1996</option>
+<option>1995</option>
+<option>1994</option>
+<option>1993</option>
+<option>1992</option>
+<option>1991</option>
+<option>1990</option>
+<option>1989</option>
+<option>1988</option>
+<option>1987</option>
+<option>1986</option>
+<option>1985</option>
+<option>1984</option>
+<option>1983</option>
+<option>1982</option>
+<option>1981</option>
+<option>1980</option>
+<option>1979</option>
+<option>1978</option>
+<option>1977</option>
+<option>1976</option>
+<option>1975</option>
+<option>1974</option>
+<option>1973</option>
+<option>1972</option>
+<option>1971</option>
+<option>1970</option>
+<option>1969</option>
+<option>1968</option>
+<option>1967</option>
+<option>1966</option>
+<option>1965</option>
+<option>1964</option>
+<option>1963</option>
+<option>1962</option>
+<option>1961</option>
+<option>1960</option>
+<option>1959</option>
+<option>1958</option>
+<option>1957</option>
+<option>1956</option>
+<option>1955</option>
+<option>1954</option>
+<option>1953</option>
+<option>1952</option>
+<option>1951</option>
+<option>1950</option>
+<option>1949</option>
+<option>1948</option>
+<option>1947</option>
+<option>1946</option>
+<option>1945</option>
+<option>1944</option>
+<option>1943</option>
+<option>1942</option>
+<option>1941</option>
+<option>1940</option>
+<option>1939</option>
+<option>1938</option>
+<option>1937</option>
+<option>1936</option>
+<option>1935</option>
+<option>1934</option>
+<option>1933</option>
+<option>1932</option>
+<option>1931</option>
+<option>1930</option>
+<option>1929</option>
+<option>1928</option>
+<option>1927</option>
+<option>1926</option>
+<option>1925</option>
+<option>1924</option>
+<option>1923</option>
+<option>1922</option>
+<option>1921</option>
+<option>1920</option>
+<option>1919</option>
+<option>1918</option>
+<option>1917</option>
+<option>1916</option>
+<option>1915</option>
+</select>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_password">Password</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_password" name="register_password" placeholder="At least 6 characters" type="password"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_password_check">Confirm Password</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_password_check" name="register_password_check" placeholder="Confirm password" type="password"/>
+</div>
+</div>
+<div id="recaptcha_widget" style="display: none">
+<div class="form-group">
+<label class="control-label col-sm-6" for="recaptcha_response_field"><span class="recaptcha_only_if_image">Type in the <br/>words <a href="javascript:Recaptcha.showhelp()"><i class="glyphicon glyphicon-question-sign"></i></a>:
+								</span></label>
+<div class="col-sm-18">
+<div id="recaptcha_image"></div>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6"><span class="recaptcha_only_if_incorrect_sol" style="color: red">Incorrect please try again</span></label>
+<div class="col-sm-18">
+<div class="input-group">
+<input class="form-control" id="recaptcha_response_field" name="recaptcha_response_field" type="text"/> <span class="input-group-btn"><a class="btn btn-default" href="javascript:Recaptcha.reload()"><i class="glyphicon glyphicon-refresh"></i></a></span>
+</div>
+</div>
+</div>
+</div>
+<div class="form-group">
+<div class="col-sm-6"> </div>
+<div class="col-sm-18">
+<small>By clicking “Sign Up”, I agree to the <a href="/terms/" target="_blank">Terms of Service</a> and <a href="/privacy/" target="_blank">Privacy Policy</a></small>
+</div>
+</div>
+<div class="form-group">
+<div class="col-sm-6"> </div>
+<div class="col-sm-18">
+<button class="btn btn-primary-rt" type="submit">Sign Up</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="login">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h4 class="modal-title">Log In to Rotten Tomatoes</h4>
+</div>
+<div class="modal-body">
+<p class="text-center"><img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/></p>
+<p>
+<a class="btn btn-primary-fb btn-lg fullWidth" href="javascript:void(0);" id="fbLoginButton"><i class="fontelloIcon icon-facebook-squared"></i> Log in with Facebook</a>
+</p>
+<p class="text-center">OR</p>
+<form action="https://www.rottentomatoes.com/user/account/login/" method="POST" role="form">
+<div class="form-group">
+<input class="form-control" name="login_username" placeholder="Username or Email" type="text">
+</input></div>
+<div class="form-group">
+<input class="form-control" name="login_password" placeholder="Password" type="password">
+</input></div>
+<div class="form-group">
+<button class="btn btn-default" type="submit">Log In</button>
+<p><small>
+<a href="/login/forgot_password/">Forgot your password?</a><br/>
+                            Don't have an account? <a data-dismiss="modal" data-target="#signup" data-toggle="modal" href="#signup">Sign up here</a>
+</small></p>
+</div>
+<input name="redirectUrl" type="hidden" value="http://www.rottentomatoes.com/celebrity/elvis_presley/"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header_main">
+<div class="navbar navbar-rt" role="navigation">
+<div class="navbar-header pull-right">
+<div class="header_links">
+<a data-target="#whatIsTomatometer" data-toggle="modal" id="header-whats-the-tomatometer">What's the Tomatometer?</a>
+<a href="/critics/" id="header-top-bar-critics">RT Critics</a>
+<a href="/newsletter/" id="header-top-bar-newsletter">Newsletter</a>
+<div id="headerUserSection" style="display: inline-block;">
+<a class="signupLink login" data-target="#signup" data-toggle="modal" href="#signup" id="header-top-bar-signup">SIGN UP</a>
+<a class="loginLink login" data-target="#login" data-toggle="modal" href="#" id="header-top-bar-login">LOG IN</a>
+<div class="userDropdown dropdown" style="display: none;">
+<a href="/user/id/"><img class="userThumb"/><span class="userName">Logged In</span> <span class="fontelloIcon icon-down-dir"></span></a>
+<ul class="dropdown-menu roundMenu">
+<li class="media userStats">
+<a class="pull-left" href="/user/id/">
+<img alt="" src="//static6.flixster.com/static/locker/images/actor.default.tmb.gif" width="40"/>
+</a>
+<div class="media-body">
+<div class="name">
+<a class="unstyled articleLink name" href="/user/id/">
+</a>
+</div>
+<div class="wts">
+<a class="unstyled articleLink stat" href="/user/id//wts">
+<span class="glyphicon glyphicon-plus" style="color:#0C89C8"></span>
+                                            0 Want To See
+                                        </a>
+</div>
+<div class="ratings">
+<a class="unstyled articleLink stat" href="/user/id//ratings">
+<span class="glyphicon glyphicon-star" style="color:#F18714"></span>
+                                            0 Ratings
+                                        </a>
+</div>
+<div class="friends">
+<a class="unstyled articleLink stat" href="user/id//friends">
+<span class="icon friends"></span>
+                                            0 friends
+                                        </a>
+</div>
+</div>
+</li>
+<li class="header-top-bar-item"><a class="articleLink" href="/user/" id="header-top-bar-profile" style="margin-bottom:-4px">Profile</a></li>
+<li class="header-top-bar-item"><a class="articleLink" href="/user/account/" id="header-top-bar-account" style="margin-bottom:-4px">Account</a></li>
+<li class="header-top-bar-item"><a class="articleLink" href="/logout/" id="header-top-bar-logout">Log Out</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-collapse row">
+<div class="col-xs-13">
+<div class="navbar-brand">
+<a href="/" id="header-rt-logo"> <img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/>
+</a>
+</div>
+<form action="/search/" method="get">
+<div class="navbar-searchbox">
+<div class="input-group" style="width: 100%">
+<input class="form-control" id="search-term" name="srch-term" placeholder="Search movies, TV, actors, more...." type="text">
+<div class="input-group-btn">
+<button class="btn btn-default searchBtn" style="height: 34px" type="submit">
+<em class="glyphicon glyphicon-search"></em>
+</button>
+</div>
+</input></div>
+</div>
+</form>
+</div>
+<div class="navbar-nav col-xs-11" id="menu">
+<ul class="list-inline">
+<li class="menuHeader center dropdown noSpacing">
+<a class="h2 white" href="/browse/" id="movieMenu" role="button">
+                            Movies<span class="fontelloIcon icon-down-dir"></span>
+</a>
+<div aria-labelledby="movieMenu" class="dropdown-menu" role="menu">
+<div class="row-sameColumnHeight">
+<div class="col-xs-5 subnav">
+<div class="innerSubnav">
+<h2 class="title">Movies in Theaters</h2>
+<ul class="list-unstyled" id="header-movies-in-theaters">
+<li>
+<a class="unstyled articleLink" href="/browse/opening/">Opening This Week</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/in-theaters/">Top Box Office</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/upcoming/">Coming Soon to Theaters</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/box-office/">Weekend Earnings</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/cf-in-theaters/">Certified Fresh Movies</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-5 subnav">
+<div class="innerSubnav">
+<a class="unstyled articleLink" href="/dvd/"><h2 class="title">On Dvd &amp; Streaming</h2></a>
+<ul class="list-unstyled" id="header-on-dvd-streaming">
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/?services=netflix_iw">Netflix Streaming</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/?services=itunes">iTunes</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/?services=amazon_prime;amazon">Amazon and Amazon Prime</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-top-rentals/">Top Rentals</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-new-releases/">New Releases</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-upcoming/">Coming Soon to DVD</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/cf-dvd-all/">Certified Fresh Movies</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/">Browse All</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-3 subnav">
+<div class="innerSubnav">
+<h2 class="title">More</h2>
+<ul class="list-unstyled" id="header-movies-more">
+<li><a class="unstyled articleLink" href="/top/">Top Movies</a></li>
+<li><a class="unstyled articleLink" href="/trailers/">Trailers</a></li>
+<li><a class="unstyled articleLink" href="/photos/">Photos</a></li>
+<li><a class="unstyled articleLink" href="http://forum.rottentomatoes.com">Forums</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-11 subnav">
+<h2 class="title">Certified Fresh Picks</h2>
+<ul class="list-inline freshPicks" id="header-certified-fresh-picks">
+<li>
+<a class="unstyled articleLink cfpLinks" href="/m/american_sniper/">
+<p class="topText bold">In Theaters</p>
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="http://content8.flixster.com/movie/11/18/08/11180834_det.jpg"/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">73%</span>
+</div>
+<p class="title noSpacing">American Sniper</p>
+</a>
+</li>
+<li>
+<a class="unstyled articleLink cfpLinks" href="/m/selma/">
+<p class="topText bold">In Theaters</p>
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="http://content7.flixster.com/movie/11/18/14/11181437_det.jpg"/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">98%</span>
+</div>
+<p class="title noSpacing">Selma</p>
+</a>
+</li>
+<li>
+<a class="unstyled articleLink cfpLinks" href="/m/john_wick/">
+<p class="topText bold">On Dvd/Streaming</p>
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="http://content8.flixster.com/movie/11/18/08/11180842_det.jpg"/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">83%</span>
+</div>
+<p class="title noSpacing">John Wick</p>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="menuHeader center dropdown noSpacing dropdown-toggle">
+<a class="h2" href="/top-tv/" id="tvMenu"> TV<span class="fontelloIcon icon-down-dir"></span></a>
+<div aria-labelledby="tvMenu" class="dropdown-menu" role="menu">
+<div class="row-sameColumnHeight">
+<div class="col-xs-7 subnav">
+<div class="innerSubnav" id="header-tv-col1">
+<h2 class="title">
+        
+            
+            
+                New Television
+            
+        
+    </h2>
+<table class="movie_list tv_list" id="tv-list-1">
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table></div></div></div></div></li></ul></div></div></div></div></div></div></body></html>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12057">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">94%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/togetherness/s01/" id="tvPosterLink">Togetherness: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12090">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/fortitude/s01/" id="tvPosterLink">Fortitude: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7718">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/fresh-off-the-boat/s01/" id="tvPosterLink">Fresh Off the Boat: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12492">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">81%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/man-seeking-woman/s01/" id="tvPosterLink">Man Seeking Woman: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12053">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/eye-candy/s01/" id="tvPosterLink">Eye Candy: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12571">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">73%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/babylon/s01/" id="tvPosterLink">Babylon: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="8076">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">57%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/12-monkeys/s01/" id="tvPosterLink">12 Monkeys: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="13271">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">58%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/sons-of-liberty/s01/" id="tvPosterLink">Sons of Liberty: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7466">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">50%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/allegiance/s01/" id="tvPosterLink">Allegiance: Season 1</a>
+</td>
+
+
+<div class="clickForMore">
+<a class="unstyled articleLink" href="/browse/tv-list-1/" id="tv-list-1-view-all">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+
+
+<div class="col-xs-7 subnav">
+<div class="innerSubnav" id="header-tv-col2">
+<h2 class="title">
+        
+            
+            
+                New TV Episodes Tonight
+            
+        
+    </h2>
+<table class="movie_list tv_list" id="tv-list-2">
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7787">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table></div></div>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/jane-the-virgin/s01/" id="tvPosterLink">Jane the Virgin: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="6913">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/gotham/s01/" id="tvPosterLink">Gotham: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="6859">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">75%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/chasing-life/s01/" id="tvPosterLink">Chasing Life: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12053">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/eye-candy/s01/" id="tvPosterLink">Eye Candy: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7034">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/sleepy-hollow/s02/" id="tvPosterLink">Sleepy Hollow: Season 2</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="6936">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">40%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/scorpion/s01/" id="tvPosterLink">Scorpion: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7458">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">26%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/state-of-affairs/s01/" id="tvPosterLink">State of Affairs: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="13311">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/the-fosters/s03/" id="tvPosterLink">The Fosters: Season 3</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="13205">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/the-originals/s03/" id="tvPosterLink">The Originals: Season 3</a>
+</td>
+
+
+<div class="clickForMore">
+<a class="unstyled articleLink" href="/browse/tv-list-2/" id="tv-list-2-view-all">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+
+
+<div class="col-xs-5 subnav">
+<div class="innerSubnav">
+<h2 class="title">More</h2>
+<ul class="list-unstyled" id="header-tv-more">
+<li><a class="unstyled articleLink" href="/tv/">Latest on TV</a></li>
+<li><a class="unstyled articleLink" href="/top-tv/">Top TV Shows</a></li>
+<li><a class="unstyled articleLink" href="/browse/tv-list-3/">Certified Fresh TV</a></li>
+</ul>
+<h2 class="title" style="margin-top: 20px">Episodic Reviews</h2>
+<ul class="list-unstyled" id="header-tv-episodic-reviews">
+<li><a href="/tv/gotham/s01/e01"> Gotham Season 1 </a></li>
+<li><a href="/tv/boardwalk-empire/s05/e01/"> Boardwalk Empire Season 5 </a></li>
+<li><a href="/tv/sons-of-anarchy/s07/e01/"> Sons of Anarchy Season 7 </a></li>
+<li><a href="/tv/game-of-thrones/s04/e01/"> Game of Thrones Season 4 </a></li>
+<li><a href="/tv/mad-men/s07/e01/"> Mad Men Season 7 </a></li>
+<li><a href="/tv/homeland/s04/e01/"> Homeland Season 4 </a></li>
+<li><a href="/tv/the-walking-dead/s05/e01/"> The Walking Dead Season 5 </a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-5 subnav freshPicks">
+<div class="innerSubnav">
+<h2 class="title">Certified Fresh Pick</h2>
+<ul class="list-unstyled" id="header-tv-certified-fresh">
+<li>
+<a class="unstyled articleLink cfpLinks" href="/tv/better-call-saul/s01/">
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="
+                                                                
+                                                                
+                                                                    http://content7.flixster.com/tv/14/35/143509_det.jpg
+                                                                
+                                                            "/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">100%</span>
+</div>
+<p class="title noSpacing">Better Call Saul: Season 1</p>
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<li class="menuHeader center dropdown noSpacing dropdown-toggle">
+<a class="h2" href="/news/" id="newsMenu">
+                            News<span class="fontelloIcon icon-down-dir"></span>
+</a>
+<div aria-labelledby="newsMenu" class="dropdown-menu" role="menu">
+<div class="row-sameColumnHeight noSpacing">
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-guides">
+<h2 class="title">Guides</h2>
+<div class="media menuHeadline">
+<div class="subnavcell pull-left">
+</div>
+<div class="media-body subnavcell">
+<h2 class="media-heading noSpacing">
+<a class="unstyled" data-pageheader="Guides" href="/hub/awards-tour-2015">Awards Tour 2015</a>
+</h2>
+</div>
+</div>
+<ul class="list-unstyled">
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/hobbit_headquarters">Hobbit Headquarters</a></li>
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/scare-central">Scare Central</a></li>
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/holiday-guide-2014">Holiday TV &amp; Movie Guide 2014</a></li>
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/summer-movie-guide-2014">Summer Movie Guide 2014</a></li>
+</ul>
+<div class="clickForMore">
+<a class="unstyled articleLink" data-pageheader="Guides - Show All" href="/guides/">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-rtnews">
+<h2 class="title">RT News</h2>
+<ul class="redDot" style="margin-left: 10px">
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/m/the_spongebob_movie_sponge_out_of_water/news/1932728/box_office_guru_wrapup_spongebob_dethrones_american_sniper_with_strong_debut/">Box Office Guru Wrapup: <em>SpongeBob</em> Dethrones <em>American Sniper</em> With Strong Debut</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/news/1932504/2015_bafta_awards_winners/">2015 BAFTA Awards Winners</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/m/1016885-public_enemy/news/1932675/watch_tcms_31_days_of_oscar/">Watch TCM's 31 Days of Oscar</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/m/citizenfour/news/1932727/winners_of_the_67th_annual_directors_guild_of_america_awards/">Winners Of The 67th Annual Directors Guild Of America Awards</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/news/1932726/2015_naacp_image_award_winners/">2015 NAACP Image Award Winners</a>
+</li>
+</ul>
+<div class="clickForMore" style="margin-bottom: 0">
+<a class="unstyled articleLink" data-pageheader="RT News - Show All" href="/news/?filter=rt">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-best-worst">
+<h2 class="title">Best and Worst</h2>
+<div class="media menuHeadline">
+<a class="pull-left" data-pageheader="Best and Worst" href="/guides/best-christmas-movies/">
+<img src="http://content7.flixster.com/site/10/25/47/10254737_ori.jpg" style="border:0px;"/>
+</a>
+<div class="media-body">
+<h2 class="media-heading">
+<a class="" data-pageheader="Best and Worst" href="/guides/best-christmas-movies/">Best Christmas Movies</a>
+</h2>
+</div>
+</div>
+<ul>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/holiday-movie-scorecard-2014/">Holiday Movie Scorecard 2014</a>
+</li>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/best-horror-movies/">Best Horror Movies</a>
+</li>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/worst_summer_movies/">Worst Summer Movies</a>
+</li>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/summer-movie-scorecard-2014/">Summer Movie Scorecard 2014</a>
+</li>
+</ul>
+<div class="clickForMore">
+<a class="unstyled articleLink" data-pageheader="Best and Worst - Show All" href="/guides/">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-columns">
+<h2 class="title">Columns</h2>
+<ul class="list-unstyled">
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="24 Frames" href="/news/columns/24_frames">24 Frames</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Box Office Guru" href="/news/columns/box_office">Box Office Guru</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Critics Consensus" href="/news/columns/critics_consensus">Critics Consensus</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Five Favorite Films" href="/news/columns/five_favorite_films">Five Favorite Films</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Now Streaming" href="/news/columns/now_streaming">Now Streaming</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Parental Guidance" href="/news/columns/parental_guidance">Parental Guidance</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Red Carpet Roundup" href="/news/columns/red_carpet_round_up">Red Carpet Roundup</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="RT on DVD" href="/news/columns/rt_on_dvd">RT on DVD</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Total Recall" href="/news/columns/total_recall">Total Recall</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="TV Talk" href="/news/columns/tv_talk">TV Talk</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Video Interviews" href="/news/columns/video_interviews">Video Interviews</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Weekly Binge" href="/news/columns/weekly_binge">Weekly Binge</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Weekly Ketchup" href="/news/columns/weekly_ketchup">Weekly Ketchup</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="h2 menuHeader center noSpacing" id="header-tickets-showtimes" style="border-radius: 5px">
+<a class="menuHeader" href="/showtimes/" id="ticketingMenu"> Tickets &amp; Showtimes </a>
+</li>
+
+
+
+
+<div class="trendingBar">
+<div class="fr">
+<ul class="list-inline social">
+<li class="header">Follow Us</li>
+<li><a class="unstyled trendingLink fontelloIcon icon-twitter white" href="http://twitter.com/rottentomatoes" id="header-twitter-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-facebook-squared white" href="http://www.facebook.com/rottentomatoes" id="header-facebook-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-gplus white" href="https://plus.google.com/+RottenTomatoes" id="header-google-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-youtube-play white" href="http://www.youtube.com/user/rottentomatoes" id="header-youtube-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-tumblr white" href="http://rottentomatoes.tumblr.com/" id="header-tumblr-social-link" target="_blank"></a></li>
+</ul>
+</div>
+<ul class="list-inline trendingEl">
+<li class="header">Trending on RT</li>
+<li>
+<a class="unstyled trendingLink" href="/tv/the-walking-dead/s05/e09/">
+                            The Walking Dead
+                        </a>
+</li>
+<li>
+<a class="unstyled trendingLink" href="/gallery/most-important-pizza-moments/">
+                            National Pizza Day
+                        </a>
+</li>
+<li>
+<a class="unstyled trendingLink" href="/m/straight_outta_compton/trailers/">
+                            Straight Outta Compton trailer
+                        </a>
+</li>
+<li>
+<a class="unstyled trendingLink" href="/tv/better-call-saul/s01/">
+                            Better Call Saul
+                        </a>
+</li>
+</ul>
+</div>
+
+
+<div class="leaderboard_wrapper" style="min-height:0; padding:0;">
+<div class="leaderboard_helper">
+<div id="below_header_ad" style="display:none; padding: 10px 0px;"></div>
+</div>
+</div>
+
+<div class="container">
+<div class="col col-left-center">
+<div class="content_box">
+<div class="media bottom_divider">
+<div class="pull-left big">
+<a class="" href="/celebrity/elvis_presley/pictures/">
+<img alt="Elvis Presley" class="" height="196" id="mainImage" itemprop="image" src="http://content9.flixster.com/rtactor/42/31/42311_pro.jpg" style="" width="220"/>
+</a>
+</div>
+<div class="media-body celeb_bio">
+<h1 class="bottom_divider" itemprop="name" style="margin-top:0">Elvis Presley</h1>
+<dl class="dl-horizontal">
+<dt class="subtle">Highest Rated:</dt>
+<dd>
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</dd></dl></div></div></div></div></div>
+                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="unstyled articleLink" data-pageheader="" href="/m/king_creole/" target="_top">King Creole (1958)</a>
+
+<dt class="subtle">Lowest Rated:</dt>
+<dd>
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">0%</span>
+</span>
+</dd>
+                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="unstyled articleLink" data-pageheader="" href="/m/gi_blues/" target="_top">G.I. Blues (1960)</a>
+
+
+<dl class="dl-horizontal">
+<dt class="subtle">Birthday:</dt>
+<dd>
+                                
+                                    
+                                    
+                                        Jan 8
+                                    
+                                    
+                                
+                            </dd>
+<dt class="subtle">Birthplace:</dt>
+<dd>
+                                Tupelo, Mississippi, USA
+                            </dd>
+<dt class="subtle">
+                                Bio:
+                            </dt>
+<dd>
+<br/><br/>One of the all-time great rock &amp; rollers and an unprecedented, phenomenal show-business success, Elvis Presley also starred in 31 consecutive big-screen hits. He was among the Top Ten box-office attractions in 1957 and from 1961-1966. When he was 13, he moved to Memphis with his family,…
+                            </dd>
+</dl>
+<div>
+<a class="a" href="/celebrity/elvis_presley/biography">Full Elvis Presley Bio</a></div>
+
+
+
+<div class="panel panel-rt panel-box celeb_pictures" id="pictures">
+<h2 class="panel-heading">
+<a class="unstyled" href="/celebrity/elvis_presley/pictures/">
+            Elvis Presley Photos
+        </a>
+</h2>
+<div class="panel-body content_body">
+<h2>Professional Photos (1)</h2>
+<ul class="list-inline">
+<li>
+<a class="" href="/celebrity/elvis_presley/pictures/professional-42311/">
+<img alt="Elvis Presley" class="pull-left celebPhoto" height="80" id="" src="http://content9.flixster.com/rtactor/42/31/42311_tmb.jpg" width="80"/>
+</a>
+</li>
+</ul>
+<h2>Community Photos (202)</h2>
+<ul class="list-inline">
+<li>
+<a class="" href="/celebrity/elvis_presley/pictures/community-14011466/">
+<!--  TODO: Remove test when ready -->
+<img alt="Elvis Presley" class="pull-left celebPhoto" height="80" src="http://content8.flixster.com/photo/14/01/14/14011466_tmb.jpg" width="80"/>
+</a>
+</li>
+<li>
+<a class="" href="/celebrity/elvis_presley/pictures/community-12136202/">
+<!--  TODO: Remove test when ready -->
+<img alt="Elvis Presley" class="pull-left celebPhoto" height="80" src="http://content8.flixster.com/photo/12/13/62/12136202_tmb.jpg" width="80"/>
+</a>
+</li>
+<li>
+<a class="" href="/celebrity/elvis_presley/pictures/community-12956550/">
+<!--  TODO: Remove test when ready -->
+<img alt="Elvis Presley" class="pull-left celebPhoto" height="80" src="http://content8.flixster.com/photo/12/95/65/12956550_tmb.jpg" width="80"/>
+</a>
+</li>
+<li>
+<a class="" href="/celebrity/elvis_presley/pictures/community-12462636/">
+<!--  TODO: Remove test when ready -->
+<img alt="Elvis Presley" class="pull-left celebPhoto" height="80" src="http://content6.flixster.com/photo/12/46/26/12462636_tmb.jpg" width="80"/>
+</a>
+</li>
+<li>
+<a class="" href="/celebrity/elvis_presley/pictures/community-9844958/">
+<!--  TODO: Remove test when ready -->
+<img alt="Roustabout" class="pull-left celebPhoto" height="80" src="http://content8.flixster.com/photo/98/44/95/9844958_tmb.jpg" width="80"/>
+</a>
+</li>
+<li>
+<a class="" href="/celebrity/elvis_presley/pictures/community-9845026/">
+<!--  TODO: Remove test when ready -->
+<img alt="Elvis Presley" class="pull-left celebPhoto" height="80" src="http://content8.flixster.com/photo/98/45/02/9845026_tmb.jpg" width="80"/>
+</a>
+</li>
+<li>
+<a class="" href="/celebrity/elvis_presley/pictures/community-12129627/">
+<!--  TODO: Remove test when ready -->
+<img alt="Elvis Presley" class="pull-left celebPhoto" height="80" src="http://content9.flixster.com/photo/12/12/96/12129627_tmb.jpg" width="80"/>
+</a>
+</li>
+</ul>
+<div class="fr">
+<a class="articleLink unstyled" href="/celebrity/elvis_presley/pictures/">
+<p>View All <span class="fontelloIcon icon-angle-right"></span></p>
+</a>
+</div>
+</div>
+</div>
+<div class="panel panel-rt panel-box celeb_top_movies" id="highest-rated-movies">
+<h2 class="panel-heading">Highest Rated Movies</h2>
+<div class="panel-body content_body">
+<ul id="highest_rated">
+<li>
+<a class="" data-pageheader="" href="/m/king_creole/" target="_top">
+<img alt="King Creole" height="196px" src="http://content6.flixster.com/movie/11/17/78/11177832_det.jpg" style="min-height:115px" title="King Creole" width="127"/>
+</a>
+<div>
+<a class="unstyled bold articleLink" data-pageheader="" href="/m/king_creole/" target="_top">King Creole</a></div>
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</li></ul></div></div>
+
+<li>
+<a class="" data-pageheader="" href="/m/flaming_star/" target="_top">
+<img alt="Flaming Star" height="196px" src="http://content8.flixster.com/movie/11/16/48/11164818_det.jpg" style="min-height:115px" title="Flaming Star" width="127"/>
+</a>
+<div>
+<a class="unstyled bold articleLink" data-pageheader="" href="/m/flaming_star/" target="_top">Flaming Star</a></div>
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">91%</span>
+</span>
+</li>
+
+<li>
+<a class="" data-pageheader="" href="/m/elvis_thats_the_way_it_is/" target="_top">
+<img alt="Elvis: That's the Way It Is" height="196px" src="http://content9.flixster.com/movie/35/68/06/3568067_det.jpg" style="min-height:115px" title="Elvis: That's the Way It Is" width="127"/>
+</a>
+<div>
+<a class="unstyled bold articleLink" data-pageheader="" href="/m/elvis_thats_the_way_it_is/" target="_top">Elvis: That's the Way It Is</a></div>
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</li>
+
+<li>
+<a class="" data-pageheader="" href="/m/viva_las_vegas/" target="_top">
+<img alt="Viva Las Vegas" height="196px" src="http://content9.flixster.com/movie/11/17/78/11177835_det.jpg" style="min-height:115px" title="Viva Las Vegas" width="127"/>
+</a>
+<div>
+<a class="unstyled bold articleLink" data-pageheader="" href="/m/viva_las_vegas/" target="_top">Viva Las Vegas</a></div>
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">85%</span>
+</span>
+</li>
+
+
+
+
+<div id="filmography">
+<div class="panel panel-rt panel-box " id="filmography_box">
+<h2 class="panel-heading">Filmography</h2>
+<div class="panel-body content_body">
+<style>
+        #filmographyTbl .glyphicon {font-size:8px;}
+        #filmographyTbl .filmographyTbl_ratingCol { width: 75px;  }
+        #filmographyTbl .filmographyTbl_yearCol { width: 60px;  }
+        #filmographyTbl .filmographyTbl_boxofficeCol { width: 75px;  }
+    </style>
+<a name="moviesFilmography"></a>
+<h2>MOVIES</h2>
+<table class="table table-striped left" id="filmographyTbl">
+<thead>
+<tr>
+<th class="filmographyTbl_ratingCol">
+<a href="?sort_column=rating#moviesFilmography">RATING</a>
+</th>
+<th>
+<a href="?sort_column=title#moviesFilmography">TITLE</a>
+</th>
+<th>
+<a href="?sort_column=credit#moviesFilmography">CREDIT</a>
+</th>
+<th class="filmographyTbl_boxofficeCol">
+<a href="?sort_column=box_office#moviesFilmography">BOX OFFICE</a>
+</th>
+<th class="filmographyTbl_yearCol">
+<a class="selected" href="?sort_column=year&amp;sort_dir=asc#moviesFilmography">YEAR</a>
+<span class="glyphicon glyphicon-chevron-down"></span>
+</th>
+</tr>
+</thead>
+<tr>
+<td>
+</td></tr></table></div></div></div>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_a_generous_heart_2014/" target="_top">Elvis, a Generous Heart</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2014</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_found_alive_2012/" target="_top">Elvis Found Alive</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2012</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_summer_of_56/" target="_top">Elvis - Summer Of '56</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2010</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_up_close_and_personal_with_sonny_west/" target="_top">Elvis: Up Close And Personal With Sonny West</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2009</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/hollywood_singing_and_dancing_a_musical_history_the_1950s_2009/" target="_top">Hollywood Singing and Dancing: A Musical History - The 1950s</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2009</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_gladiators_the_1974_elvis_karate_legacy_project/" target="_top">Elvis Presley Gladiators: The 1974 Elvis Karate Legacy Project</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2009</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_love_me_tender_the_love_songs/" target="_top">Elvis Presley - Love Me Tender: The Love Songs</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2009</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_complete_king_of_rock_n_roll_1935_1977/" target="_top">Elvis Complete: King of Rock-N-Roll 1935-1977</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2009</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/hollywood_singing_and_dancing_the_1960s/" target="_top">Hollywood Singing and Dancing: The 1960s</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2008</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_return_to_tupelo/" target="_top">Elvis: Return to Tupelo</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2008</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/the-great-crooners/" target="_top">The Great Crooners</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2008</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_at_sun_records/" target="_top">Elvis Presley - At Sun Records</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2008</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_rock_and_roll_royalty_a_documentary/" target="_top">Elvis Presley: Rock and Roll Royalty: A Documentary</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2008</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-presley-destination-vegas/" target="_top">Elvis Presley: Destination Vegas</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2007</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_destination_vegas/" target="_top">Elvis Presley - Destination Vegas</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2007</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-and-pat-boone-rockin-rivals/" target="_top">Elvis and Pat Boone: Rockin Rivals</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2007</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/beyond-elvis-memphis/" target="_top">Beyond Elvis' Memphis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2007</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_1_hit_performances/" target="_top">Elvis Presley - #1 Hit Performances</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2007</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_on_elvis/" target="_top">Elvis On Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2007</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-presley-the-early-years/" target="_top">Elvis Presley: The Early Years</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2007</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_the_early_years/" target="_top">Elvis Presley - The Early Years</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2007</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-thru-the-years/" target="_top">Elvis: Thru the Years</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2007</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_spirit_of_memphis/" target="_top">Elvis Presley - Spirit of Memphis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2006</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_a_louisiana_hayride_scrapbook/" target="_top">Elvis: A Louisiana Hayride Scrapbook</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2006</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-presley-memphis-flash/" target="_top">Elvis Presley: Memphis Flash</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2006</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-on-elvis-elvis-talks/" target="_top">Elvis on Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2006</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-up-close-and-personal/" target="_top">Elvis: Up Close and Personal</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2006</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_lives_the_25th_anniversary_concert/" target="_top">Elvis Lives: The 25th Anniversary Concert</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2006</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_up_close_and_personal/" target="_top">Elvis: Up Close and Personal</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2006</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_greatest_hits/" target="_top">Elvis Presley - Greatest Hits</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2006</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-presley-spirit-of-memphis-the-missing-years/" target="_top">Elvis Presley: Spirit of Memphis: The Missing Years</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2005</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_by_the_presleys/" target="_top">Elvis By the Presleys</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2005</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/ed_sullivans_rock_n_roll_classics/" target="_top">Ed Sullivan's Rock N' Roll Classics</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2005</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/shakespeare_was_a_big_george_jones_fan/" target="_top">Shakespeare Was a Big George Jones Fan</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2005</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_from_the_beginningto_the_end/" target="_top">Elvis Presley: From the Beginning...to the End</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2004</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_birth_of_rock_n_roll/" target="_top">Elvis - The Birth of Rock 'N' Roll</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2004</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/200-cadillacs/" target="_top">200 Cadillacs</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2004</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-presley-the-last-24-hours/" target="_top">Elvis Presley: The Last 24 Hours</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2004</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/party_tyme_karaoke_oldies_1/" target="_top">Party Tyme Karaoke - Oldies 1</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2004</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_from_the_beginning_to_the_end/" target="_top">Elvis Presley - From The Beginning... To The End</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2004</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_the_last_24_hours/" target="_top">Elvis Presley - The Last 24 Hours</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2004</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-the-birth-of-rock-n-roll/" target="_top">Elvis: The Birth of Rock N' Roll</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2004</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/casey-kasems-rock-n-roll-goldmine-elvis-the-echo-will-never-die/" target="_top">Casey Kasem's Rock N' Roll Goldmine: Elvis: The Echo Will Never Die</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2004</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_a_50th_anniversary_celebration/" target="_top">Elvis - A 50th Anniversary Celebration</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2004</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/history-of-rock-n-roll/" target="_top">History of Rock 'N' Roll</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2004</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-the-inside-story-the-man-the-music-the-legend/" target="_top">Elvis: The Inside Story: The Man, The Music, The Legend</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2003</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/sinatra_the_classic_duets/" target="_top">Sinatra: The Classic Duets</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2003</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_king_in_hollywood/" target="_top">Elvis: The King In Hollywood</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2003</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_the_journey/" target="_top">Elvis Presley - The Journey</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2003</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_missing_years_2003/" target="_top">Elvis: The Missing Years</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2003</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/celebrity_icons/" target="_top">Celebrity Icons</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2003</td>
+
+<tr class="alt_row">
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">50%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-his-best-friend-remembers2002/" target="_top">Elvis: His Best Friend Remembers</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/this-is-elvis/" target="_top">This Is Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Director</em>
+</li>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/early-elvis/" target="_top">Early Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_king_of_entertainment/" target="_top">Elvis - King of Entertainment</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/the-fabulous-50s/" target="_top">The Fabulous '50s</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-presley-the-back-story/" target="_top">Elvis Presley: The Back Story</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/ed_sullivan_rock_n_roll_classics/" target="_top">Ed Sullivan - Rock 'N' Roll Classics</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/200_cadillacs/" target="_top">200 Cadillacs</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-lives/" target="_top">Elvis Lives</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_2002/" target="_top">Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-and-june-a-love-story/" target="_top">Elvis and June: A Love Story</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-king-of-entertainment/" target="_top">Elvis: King of Entertainment</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2002</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-the-final-chapter/" target="_top">Elvis: The Final Chapter</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2001</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_the_missing_years/" target="_top">Elvis Presley - The Missing Years</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2001</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-presley-remembering-elvis-the-man-his-life-his-music/" target="_top">Elvis Presley: Remembering Elvis: The Man, His Life, His Music</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2001</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/good-rockin-tonight-the-legacy-of-sun-records2001/" target="_top">Good Rockin' Tonight: The Legacy of Sun Records</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2001</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_remembering_elvis_a_documentary/" target="_top">Elvis: Remembering Elvis - A Documentary</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2001</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_he_touched_me_the_gospel_music_of/" target="_top">Elvis Presley - He Touched Me: The Gospel Music of</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2000</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_final_chapter/" target="_top">Elvis - The Final Chapter</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2000</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/a_guitar_odyssey_wired_for_sound_2000/" target="_top">A Guitar Odyssey: Wired For Sound</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2000</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/louisiana_hayride_cradle_of_the_stars_2000/" target="_top">Louisiana Hayride: Cradle of the Stars</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2000</td>
+
+<tr>
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">57%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/fun_in_acapulco/" target="_top">Fun in Acapulco</a></td>
+<td><ul>
+<li>
+                         Mike Windgren
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>2000</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/images_century_in_review_2000/" target="_top">Images Century in Review</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>2000</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_true_story_of_elvis_presley/" target="_top">Elvis - The True Story of Elvis Presley</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1999</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/hollywood_rocks_n_rolls_in_the_50s_1998/" target="_top">Hollywood Rocks 'N' Rolls in the 50s</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1998</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_all_the_kings_men_the_secret_life_of_elvis/" target="_top">Elvis: All the King's Men - The Secret Life of Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1997</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_all_the_kings_men_rocket_ride_to_stardom/" target="_top">Elvis: All the King's Men - Rocket Ride to Stardom</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1997</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_all_the_kings_men_the_king_comes_back/" target="_top">Elvis: All the King's Men - The King Comes Back</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1997</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_lost_love/" target="_top">Elvis' Lost Love</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1997</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/day_elvis_died/" target="_top">Day Elvis Died</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1997</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_long_live_the_king/" target="_top">Elvis: Long Live the King</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1997</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-the-complete-story/" target="_top">Elvis: The Complete Story</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1996</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_complete_story/" target="_top">Elvis - The Complete Story</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1996</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/why-elvis/" target="_top">Why Elvis?</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1994</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/holiday_greetings_from_the_ed_sullivan_show/" target="_top">Holiday Greetings From the Ed Sullivan Show</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1994</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_aaron_presley_the_tribute/" target="_top">Elvis Aaron Presley: The Tribute</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1994</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_in_hollywood_1993/" target="_top">Elvis in Hollywood</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1993</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_in_hollywood/" target="_top">Elvis in Hollywood</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1993</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/masters_of_american_music_1993/" target="_top">Masters of American Music</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1993</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_his_life_and_times/" target="_top">Elvis - His Life &amp; Times</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1993</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_hollywood_years/" target="_top">Elvis - The Hollywood Years</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1993</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_lost_performances/" target="_top">Elvis - The Lost Performances</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1992</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis/" target="_top">Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1990</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/best_is_yet_to_come/" target="_top">Best Is Yet To Come</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1990</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-rare-moments-with-the-king2003/" target="_top">Elvis: Rare Moments with the King</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1990</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/the_elvis_files_1990/" target="_top">The Elvis Files</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1990</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_rare_moments_with_the_king/" target="_top">Elvis - Rare Moments With the King</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1989</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/greatest_rock_n_roll_legends_scrapbook/" target="_top">Greatest Rock N' Roll Legends Scrapbook</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1988</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_56_1987/" target="_top">Elvis '56</a></td>
+<td><ul>
+<li>
+                         Himself
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1987</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_echo_will_never_die/" target="_top">Elvis: The Echo Will Never Die</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1986</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_memories/" target="_top">Elvis - Memories</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1985</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/mondo_elvis/" target="_top">Mondo Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1984</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presleys_graceland/" target="_top">Elvis Presley's Graceland</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1984</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/cool_cats_25_years_of_rock_n_roll_style/" target="_top">Cool Cats - 25 Years Of Rock 'N' Roll Style</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1983</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/this_is_elvis/" target="_top">This Is Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1981</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_aloha_from_hawaii/" target="_top">Elvis - Aloha From Hawaii</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1973</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_alternate_aloha_concert/" target="_top">Elvis - The Alternate Aloha Concert</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1973</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis-on-tour/" target="_top">Elvis on Tour</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1972</td>
+
+<tr class="alt_row">
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_thats_the_way_it_is/" target="_top">Elvis: That's the Way It Is</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+<li>
+<em class="subtle">Director</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1970</td>
+
+<tr>
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">10%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/change_of_habit/" target="_top">Change of Habit</a></td>
+<td><ul>
+<li>
+                         Dr. John Carpenter
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1969</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/the_trouble_with_girls_1969/" target="_top">The Trouble with Girls</a></td>
+<td><ul>
+<li>
+                         Walter Hale
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1969</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/charro/" target="_top">Charro!</a></td>
+<td><ul>
+<li>
+                         Jess Wade
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1969</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_68_comeback_special/" target="_top">Elvis - '68 Comeback Special</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1968</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/9883/" target="_top">Speedway</a></td>
+<td><ul>
+<li>
+                         Steve Grayson
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1968</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/live_a_little_love_a_little/" target="_top">Live a Little, Love a Little</a></td>
+<td><ul>
+<li>
+                         Greg
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1968</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_one_night_with_you/" target="_top">Elvis - One Night With You</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1968</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/stay_away_joe/" target="_top">Stay Away, Joe</a></td>
+<td><ul>
+<li>
+                         Joe Lightcloud
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1968</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/1006176-double_trouble/" target="_top">Double Trouble</a></td>
+<td><ul>
+<li>
+                         Guy Lambert
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1967</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/clambake/" target="_top">Clambake</a></td>
+<td><ul>
+<li>
+                         Scott Hayward / 'Tom Wilson'
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1967</td>
+
+<tr>
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">43%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/easy_come_easy_go/" target="_top">Easy Come, Easy Go</a></td>
+<td><ul>
+<li>
+                         Ted Jackson
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1967</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/paradise_hawaiian_style/" target="_top">Paradise, Hawaiian Style</a></td>
+<td><ul>
+<li>
+                         Rick Richards
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1966</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/spinout/" target="_top">Spinout</a></td>
+<td><ul>
+<li>
+                         Mike McCoy
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1966</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/tickle_me/" target="_top">Tickle Me</a></td>
+<td><ul>
+<li>
+                         Lonnie Beale / Panhandle Kid
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1965</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/1007828-frankie_and_johnny/" target="_top">Frankie and Johnny</a></td>
+<td><ul>
+<li>
+                         Johnny
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1965</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/harum_scarum/" target="_top">Harum Scarum</a></td>
+<td><ul>
+<li>
+                         Johnny Tyronne
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1965</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/girl_happy/" target="_top">Girl Happy</a></td>
+<td><ul>
+<li>
+                         Rusty Wells
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1965</td>
+
+<tr class="alt_row">
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">63%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/roustabout/" target="_top">Roustabout</a></td>
+<td><ul>
+<li>
+                         Charlie Rogers
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1964</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/kissin_cousins/" target="_top">Kissin' Cousins</a></td>
+<td><ul>
+<li>
+                         Josh Morgan/Jodie Tatum
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1964</td>
+
+<tr class="alt_row">
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">85%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/viva_las_vegas/" target="_top">Viva Las Vegas</a></td>
+<td><ul>
+<li>
+                         Lucky Jackson
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1964</td>
+
+<tr>
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">17%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/it_happened_at_the_worlds_fair/" target="_top">It Happened at the World's Fair</a></td>
+<td><ul>
+<li>
+                         Mike Edwards
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1963</td>
+
+<tr class="alt_row">
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">40%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/1008358-girls_girls_girls/" target="_top">Girls! Girls! Girls!</a></td>
+<td><ul>
+<li>
+                         Ross Carpenter
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1962</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/follow_that_dream/" target="_top">Follow that Dream</a></td>
+<td><ul>
+<li>
+                         Toby Kwimper
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1962</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/1011495-kid_galahad/" target="_top">Kid Galahad</a></td>
+<td><ul>
+<li>
+                         Walter Gulick
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1962</td>
+
+<tr>
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">17%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/blue_hawaii/" target="_top">Blue Hawaii</a></td>
+<td><ul>
+<li>
+                         Chad Gates
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1961</td>
+
+<tr class="alt_row">
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">50%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/wild_in_the_country/" target="_top">Wild in the Country</a></td>
+<td><ul>
+<li>
+                         Glenn Tyler
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1961</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/frank_sinatra_the_frank_sinatra_show_welcome_home_elvis/" target="_top">Frank Sinatra - The Frank Sinatra Show: Welcome Home Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1960</td>
+
+<tr class="alt_row">
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">0%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/gi_blues/" target="_top">G.I. Blues</a></td>
+<td><ul>
+<li>
+                         Tulsa McLean
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1960</td>
+
+<tr>
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">91%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/flaming_star/" target="_top">Flaming Star</a></td>
+<td><ul>
+<li>
+                         Pacer Burton
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1960</td>
+
+<tr class="alt_row">
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/king_creole/" target="_top">King Creole</a></td>
+<td><ul>
+<li>
+                         Danny Fisher
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1958</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/1012875-loving_you/" target="_top">Loving You</a></td>
+<td><ul>
+<li>
+                         Deke Rivers
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1957</td>
+
+<tr class="alt_row">
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">79%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/jailhouse_rock/" target="_top">Jailhouse Rock</a></td>
+<td><ul>
+<li>
+                         Vince Everett
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1957</td>
+
+<tr>
+<td>
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">50%</span>
+</span>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/love_me_tender/" target="_top">Love Me Tender</a></td>
+<td><ul>
+<li>
+                         Clint Reno
+                         
+                     </li>
+</ul></td>
+<td>--</td>
+<td>1956</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/stage_show/" target="_top">Stage Show</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1956</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presley_elvis_1_hit_performances_and_more/" target="_top">Elvis Presley - Elvis #1 Hit Performances and More</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1956</td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_presleythe_ed_sullivan_shows/" target="_top">Elvis Presley: The Ed Sullivan Shows - The Performances</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td>1955</td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_sun_days_with_elvis/" target="_top">Elvis - Sun Days With Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td></td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_young_elvis/" target="_top">Elvis - Young Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td></td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/singer_presents_elvis_outtakes_from_1968_special/" target="_top">Singer Presents Elvis - Outtakes From 1968 Special</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td></td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_america/" target="_top">Elvis - America</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td></td>
+
+<tr>
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_great_performances/" target="_top">Elvis: The Great Performances</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td></td>
+
+<tr class="alt_row">
+<td>
+</td></tr>
+<td>
+<a class="unstyled articleLink" data-pageheader="" href="/m/elvis_the_story_of_elvis/" target="_top">Elvis - The Story of Elvis</a></td>
+<td><ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+</ul></td>
+<td>--</td>
+<td></td>
+
+
+<a name="tvFilmography"></a>
+<h2>TV</h2>
+<table class="table table-striped left" id="filmographyTbl">
+<thead>
+<tr>
+<th class="filmographyTbl_ratingCol">
+<a href="#tvFilmography">RATING</a>
+</th>
+<th class="filmographyTbl_ratingCol">
+<a href="#tvFilmography">TITLE</a>
+</th>
+<th class="filmographyTbl_ratingCol">
+<a href="#tvFilmography">CREDIT</a>
+</th>
+<th class="filmographyTbl_ratingCol">
+<a href="#tvFilmography">YEAR</a>
+</th>
+</tr>
+</thead>
+<tr>
+<td>
+</td></tr></table>
+<td>
+<a class="articleLink unstyled" href="/tv/american-masters/" target="_top">American Masters</a>
+<div class="subtle">
+                        
+                             2001-2015
+                            
+                            
+                        
+                        </div>
+</td>
+<td>
+<ul>
+<li>
+<em class="subtle">Actor</em>
+</li>
+<li>
+<em class="subtle">Appearing</em>
+</li>
+</ul>
+</td>
+<td>
+                        
+                            
+                                2001
+                                
+                            
+                        
+                    </td>
+
+
+
+
+
+<div class="panel panel-rt panel-box " id="">
+<h2 class="panel-heading">Elvis Presley Trivia</h2>
+<div class="panel-body content_body">
+        
+                        
+                        
+                        
+                            No trivia approved yet. Logged in RT and Facebook users can submit celebrity trivia.
+                        
+                        
+
+                        <div class="fr"><a class="unstyled articleLink" href="biography"><p>View All <span class="fontelloIcon icon-angle-right"></span></p></a></div>
+</div>
+</div>
+<div class="panel panel-rt panel-box " id="">
+<h2 class="panel-heading">Quotes from Elvis Presley's Characters</h2>
+<div class="panel-body content_body">
+<ul class="factrow">
+<li>
+<ul>
+<li>
+<dl class="dl-horizontal">
+<dt>
+                                                    Rusty Martin:
+                                                </dt>
+<dd>
+                                                    What's the gun for?
+                                                </dd>
+</dl>
+</li>
+<li>
+<dl class="dl-horizontal">
+<dt>
+                                                    Lucky Jackson:
+                                                </dt>
+<dd>
+                                                    To shoot you if you don't get out of the way!
+                                                </dd>
+</dl>
+</li>
+</ul>
+<div class="factFooter">From 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="a" data-pageheader="" href="/m/viva_las_vegas/" target="_top">Viva Las Vegas</a>. Submitted by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+
+<a class="a" href="/user/id/948773226/">Diana D</a> (22 months ago)</div>
+<hr/>
+</li>
+</ul>
+<ul class="factrow">
+<li>
+<ul>
+<li>
+<dl class="dl-horizontal">
+<dt>
+                                                    Dr. John Carpenter:
+                                                </dt>
+<dd>
+                                                    This place really slows you down, don't you think?
+                                                </dd>
+</dl>
+</li>
+</ul>
+<div class="factFooter">From 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="a" data-pageheader="" href="/m/change_of_habit/" target="_top">Change of Habit</a>. Submitted by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+
+<a class="a" href="/user/id/910762647/">koali e</a> (3 years ago)</div>
+</li>
+</ul>
+<div class="fr"><a class="unstyled articleLink" href="biography"><p>View All <span class="fontelloIcon icon-angle-right"></span></p></a></div>
+</div>
+</div>
+
+<div class="col col-right">
+<div class="medrec_ad" id="medrec_top_ad"></div>
+
+<div class="panel panel-rt panel-box clearfix" id="trailers">
+<h2 class="panel-heading">Elvis Presley Trailers</h2>
+<div class="panel-body content_body">
+<ul id="celeb_featured_trailers">
+<li>
+<a alt="Live a Little, Love a Little" class="videoLink" href="/m/live_a_little_love_a_little/trailers/10903568" id="thumbnail_trailer_link_10903568">
+<img alt="" height="80" src="http://content.internetvideoarchive.com/content/photos/061/002563_15.jpg" width="106"/>
+<span class="play_button_new" style="position:absolute;bottom:10px;right:8px;"></span>
+</a>
+<p>
+<a class="unstyled articleLink" href="/m/live_a_little_love_a_little/trailers/10903568">
+                Live A Little, Love A Little
+            </a>
+</p>
+</li>
+<li>
+<a alt="Girl Happy" class="videoLink" href="/m/girl_happy/trailers/10904730" id="thumbnail_trailer_link_10904730">
+<img alt="" height="80" src="http://content.internetvideoarchive.com/content/photos/060/000256_21.jpg" width="106"/>
+<span class="play_button_new" style="position:absolute;bottom:10px;right:8px;"></span>
+</a>
+<p>
+<a class="unstyled articleLink" href="/m/girl_happy/trailers/10904730">
+                Girl Happy
+            </a>
+</p>
+</li>
+<li>
+<a alt="Elvis Found Alive" class="videoLink" href="/m/elvis_found_alive_2012/trailers/11165767" id="thumbnail_trailer_link_11165767">
+<img alt="" height="80" src="http://content.internetvideoarchive.com/content/photos/7573/121472_022_1.jpg" width="106"/>
+<span class="play_button_new" style="position:absolute;bottom:10px;right:8px;"></span>
+</a>
+<p>
+<a class="unstyled articleLink" href="/m/elvis_found_alive_2012/trailers/11165767">
+                Elvis Found Alive
+            </a>
+</p>
+</li>
+<li>
+<a alt="Elvis Presley: The Ed Sullivan Shows - The Performances" class="videoLink" href="/m/elvis_presleythe_ed_sullivan_shows/trailers/11095316" id="thumbnail_trailer_link_11095316">
+<img alt="" height="80" src="http://content.internetvideoarchive.com/content/photos/6320/26545122_.jpg" width="106"/>
+<span class="play_button_new" style="position:absolute;bottom:10px;right:8px;"></span>
+</a>
+<p>
+<a class="unstyled articleLink" href="/m/elvis_presleythe_ed_sullivan_shows/trailers/11095316">
+                Elvis Presley: The Ed Sullivan...
+            </a>
+</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="panel panel-rt panel-box " id="">
+<h2 class="panel-heading">
+<a class="unstyled" href="/celebrity/elvis_presley/news">Related News &amp; Features</a></h2>
+<div class="panel-body content_body">
+<div class="celeb_box_content">
+<div class="pull-left">• </div>
+<a class="unstyled articleLink" data-pageheader="" href="/news/1731004/colonel_tom_parker_biopic_in_development/" rel="nofollow" target="_blank">Colonel Tom Parker Biopic in Development</a>
+<br/>
+<div class="pull-left">• </div>
+<a class="unstyled articleLink" data-pageheader="" href="/m/10008760-what_happens_in_vegas/news/1723585/top_ten_vegas_films/" rel="nofollow" target="_blank">Top Ten Vegas Films</a>
+<br/>
+<div class="pull-left">• </div>
+<a class="unstyled articleLink" data-pageheader="" href="/m/fundance_at_sundance_2007/news/1648154/sundance_quothounddogquot_is_a_dog_quotthe_ninesquot_scores_high/" rel="nofollow" target="_blank">Sundance: "Hounddog" Is A Dog; "The Nines" Scores High</a>
+<br/>
+<div class="pull-left">• </div>
+<a class="unstyled articleLink" data-pageheader="" href="/m/rocky_balboa/news/1647911/stallone_fields_questions_on_rocky_rambo_poe_and__the_incredibles/" rel="nofollow" target="_blank">Stallone Fields Questions on Rocky, Rambo, Poe and ... The Incredibles?</a>
+<br/>
+</div>
+<div class="fr">
+<a class="articleLink unstyled" href="/celebrity/elvis_presley/news"><p>View All <span class="fontelloIcon icon-angle-right"></span></p></a></div>
+</div>
+</div>
+<div class="medrec_ad" id="medrec_bottom_ad"></div>
+
+</div>
+
+
+
+<div class="sleaderboard_wrapper">
+<div id="leaderboard_bottom_ad">
+
+</div>
+</div>
+<style>#skin_ad { height:0px !important; }</style>
+<div id="skin_ad">
+
+</div>
+<div id="foot">
+<div class="row">
+<div class="col-xs-5 subnav">
+<ul class="unstyled">
+<li><a class="unstyled trendingLink" href="/help_desk/" id="footer-help">Help</a></li>
+<li><a class="unstyled trendingLink" href="/about/" id="footer-about">About Rotten Tomatoes</a></li>
+<li><a class="unstyled trendingLink" data-target="#whatIsTomatometer" data-toggle="modal" id="footer-tomatometer">What's the Tomatometer?</a></li>
+<li><a class="unstyled trendingLink" href="http://www.flixster.com/careers" id="footer-jobs">Jobs</a></li>
+</ul>
+</div>
+<div class="col-xs-4 subnav">
+<ul>
+<li><a class="unstyled trendingLink" href="/help_desk/critics/" id="footer-critics">Critic Submission</a></li>
+<li><a class="unstyled trendingLink" href="/press/" id="footer-press">Press</a></li>
+<li><a class="unstyled trendingLink" href="http://developer.rottentomatoes.com" id="footer-api">API</a></li>
+<li><a class="unstyled trendingLink" href="/help_desk/licensing/" id="footer-licensing">Licensing</a></li>
+</ul>
+</div>
+<div class="col-xs-7 subnav">
+<h2><span class="glyphicon glyphicon-envelope"></span>  JOIN THE NEWSLETTER</h2>
+<div style="margin:10px 0">
+                Get the freshest reviews, news, and more delivered right to your inbox!
+            </div>
+<form action="/promo/newsletter-signup-confirm" id="newsletterSignup" method="POST" target="_blank">
+<div class="input-group">
+<input class="form-control" name="email" placeholder="Enter your email address" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary-rt" id="footer-newsletter-join" type="button">Join</button>
+</span>
+</div>
+</form>
+</div>
+<div class="col-xs-8 subnav">
+<h2>Follow Us</h2>
+<div>
+<a class="unstyled trendingLink fontelloIcon icon-twitter footerIcon" href="http://twitter.com/rottentomatoes" id="footer-follow-us-twitter"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-facebook-squared footerIcon" href="http://www.facebook.com/rottentomatoes" id="footer-follow-us-facebook"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-gplus footerIcon" href="https://plus.google.com/+RottenTomatoes" id="footer-follow-us-google"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-youtube-play footerIcon" href="http://www.youtube.com/user/rottentomatoes" id="footer-follow-us-youtube"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-tumblr footerIcon" href="http://rottentomatoes.tumblr.com/" id="footer-follow-us-tumblr"></a>   
+            </div>
+</div>
+</div>
+<div class="subtle" style="padding:10px">
+<span class="easteregg">Copyright © Flixster, Inc. All rights reserved.</span>
+<a href="/copyright/" id="footer-copyright">Copyright Policy</a> |
+        <a href="/privacy/" id="footer-privacy">Privacy Policy</a> |
+        <a href="/terms/" id="footer-tos">Terms of Service</a> |
+        <a href="/privacy#id.6x3busrdhxyw" id="footer-ad-choices">Ad Choices</a> |        
+        <a href="/mobile/info/" id="footer-mobile">Mobile Apps</a>
+</div>
+</div>
+<div class="social-tools" id="social-tools">
+<a class="social-tools-facebook-like" href="javascript:void(0);" title="Facebook Like"></a>
+<a class="social-tools-facebook-share" href="javascript:void(0);" title="Facebook Share"></a>
+<a class="social-tools-twitter" href="javascript:void(0);" title="Twitter"></a>
+<a class="social-tools-pinterest" href="javascript:void(0);" title="Pinterest"></a>
+<a class="social-tools-googleplus" href="javascript:void(0);" title="Google+"></a>
+<a class="social-tools-stumbleupon" href="javascript:void(0);" title="StumbleUpon"></a>
+<a class="social-tools-comments" href="javascript:void(0);" title="Forums"></a>
+</div>
+
+
+
+<!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+

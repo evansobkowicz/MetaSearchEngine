@@ -1,0 +1,31 @@
+Title: Disney Presents The Lion King (Touring) Tickets | Event Dates & Schedule | Ticketmaster.com
+Server: Apache
+X-DC-Name: 1
+Expires: Thu,  1 Jan 1970 00:00:00 GMT
+P3P: policyref="/w3c/tmol/p3p.xml", CP="IDC DSP COR NID CURa ADMa DEVa PSAa OUR IND COM NAV INT"
+Content-Type: text/html; charset=utf-8
+X-Akamai-Transformed: 9 - 0 pmb=mRUM,1
+Vary: Accept-Encoding
+Date: Mon, 09 Feb 2015 23:42:15 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: SID=94nkilmacjchtdhs_evUhCshBR24Obpdtgg4DhVJ4QM9V0cjQicKIvoHttgMCR36MHXoSO9n8-yJWMxW; path=/; domain=.ticketmaster.com
+Set-Cookie: BID=ef5E6rgzJ3WNmWFpCmB7PqcyXEzRLEdrddLcnrJtQVcaRCYKPmVL4RObAHVpMSDPuZ0mWGGzM4sk8Odz8KHu; path=/; domain=.ticketmaster.com; expires=Fri, 01-Jan-2038 00:00:01 GMT
+Set-Cookie: GEORAN=1; path=/; domain=.ticketmaster.com; expires=
+Set-Cookie: NDMA=345; path=/; domain=.ticketmaster.com
+Set-Cookie: NPDMA=345; path=/; domain=.ticketmaster.com; expires=Wed, 10-Feb-2016 05:30:14 GMT
+Set-Cookie: GEO_OMN=in; path=/; domain=.ticketmaster.com
+Set-Cookie: csrf_token=3b4b3cc4ee599835afde7b68b1680190; path=/; domain=.ticketmaster.com
+Set-Cookie: NDMA=345; path=/; domain=.ticketmaster.com
+Set-Cookie: MARKET_NAME=TmV3IFlvcmsvVHJpLVN0YXRlIEFyZWE%3D; path=/; domain=.ticketmaster.com; expires=Wed, 10-Feb-2016 05:30:59 GMT
+Set-Cookie: MARKET_ID=35; path=/; domain=.ticketmaster.com; expires=Wed, 10-Feb-2016 05:30:59 GMT
+Set-Cookie: SDIS=; path=/; domain=.ticketmaster.com
+Set-Cookie: NDMA=345; path=/; domain=.ticketmaster.com
+Set-Cookie: SDIS=; path=/; domain=.ticketmaster.com
+Set-Cookie: NDMA=345; path=/; domain=.ticketmaster.com
+Set-Cookie: SDIS=; path=/; domain=.ticketmaster.com
+Set-Cookie: NDMA=345; path=/; domain=.ticketmaster.com
+Set-Cookie: SDIS=; path=/; domain=.ticketmaster.com
+Set-Cookie: CMPS=YD4t/9uTk1fMtZd1f+i40PxLH1CMsdeZAlDB+HU5cp3iidsrajlUcQw/9a1uv4sf; path=/
+

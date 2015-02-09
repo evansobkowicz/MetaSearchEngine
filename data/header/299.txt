@@ -1,0 +1,13 @@
+Title: The Avengers Age of Ultron Movie | Trailer & Official Movie Site
+Server: Apache
+P3P: CP="ALL DSP COR NID CURa TAIa OTPi OUR BUS UNI INT PRE"
+Expires: -1
+X-ServerNickName: Cap
+X-UA-Compatible: IE=Edge
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:39:49 GMT
+Age: 65706
+Connection: close
+Vary: Accept-Encoding,Cookie, User-Agent
+

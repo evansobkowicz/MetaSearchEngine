@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html lang="en-CA" xml:lang="en-CA" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://www.celinedion.com/ca/teamceline-dion" rel="canonical"/>
+<meta content="anonymous" name="loginMethod"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="The Official Celine Dion Site" property="og:site_name"/>
+<meta content="Celine Dion" property="og:title"/>
+<meta content="musician" property="og:type"/>
+<meta content="http://www.celinedion.com" property="og:url"/>
+<meta content="Check out Celine Dion at http://www.celinedion.com" property="og:description"/>
+<link href="/sites/cdion/themes/cdion6_2/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<title>TeamCeline Dion | The Official Celine Dion Site</title>
+<link href="http://www.celinedion.com/sites/cdion/files/css/css_b0f208093cb48f6a98163f1d80fca965.css" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lte IE 6]>
+  <style type="text/css" media="all">@import "/sites/celinedion.com/themes/cdion6_2/css/ie6.css";
+    #navigation-bottom-logo {
+      behavior: url(/sites/celinedion.com/themes/cdion6_2/js/iepngfix.htc);
+    }
+  </style>
+  <![endif]-->
+<!--[if IE 7]>
+  <style type="text/css" media="all">@import "/sites/celinedion.com/themes/cdion6_2/css/ie7.css";</style>
+  <![endif]-->
+<!--[if IE 8]>
+  <style type="text/css" media="all">@import "/sites/celinedion.com/themes/cdion6_2/css/ie8.css";</style>
+  <![endif]-->
+
+
+
+</head>
+<body class="not-front not-logged-in node-page ntype-page lang-en locale-en-ca page-teamceline-dion section-teamceline-dion">
+<div id="header-wrapper">
+<div class="clear-block" id="header">
+<div class="clear-block" id="top-bar">
+<div class="block block-user" id="block-user-0">
+<div class="blockinner clear-block">
+<div class="content">
+<form accept-charset="UTF-8" action="https://www.celinedion.com/ca/teamceline-dion?destination=node%2F145566" class="sony-connect-login-block" id="user-login-form" method="post">
+<div><div class="sign-in"><a href="/ca/user/login">Login</a></div><div class="custom-link"><a href="/ca/user/register">Join</a></div><div class="form-item odd" id="edit-name-wrapper">
+<label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-text required inline-label" id="edit-name" maxlength="60" name="name" size="15" type="text" value=""/>
+</div>
+<div class="form-item even" id="edit-pass-wrapper">
+<label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-text required inline-label" id="edit-pass" maxlength="60" name="pass" size="15" type="password"/>
+</div>
+<input class="form-submit" id="edit-submit" name="op" type="submit" value="go"/>
+<input id="form-vuhmi_fRaSLe7dvuREZKBqWOAZAJ-xGetkgIAwO3dQc" name="form_build_id" type="hidden" value="form-vuhmi_fRaSLe7dvuREZKBqWOAZAJ-xGetkgIAwO3dQc"/>
+<input id="edit-user-login-block" name="form_id" type="hidden" value="user_login_block"/>
+<div class="item-list"><ul><li class="first"><a class="sony-connect-twitter" href="/ca/user" rel="twitter" title="Log in using twitter"><img alt="" height="16" src="/sites/all/modules/custom/sony_connect/plugins/networks/twitter/icons/t-grey-dk-16.png" title="" width="16"/></a></li>
+<li class="last"><a class="sony-connect-facebook" href="/ca/user" rel="facebook" title="Log in using facebook"><img alt="" height="16" src="/sites/all/modules/custom/sony_connect/plugins/networks/facebook/icons/grey-dk-16.png" title="" width="16"/></a></li>
+</ul></div>
+</div></form>
+</div>
+</div>
+</div>
+<div class="block block-locale" id="block-locale-0">
+<div class="blockinner clear-block">
+<h2 class="block-title title">Languages</h2>
+<div class="content">
+<ul><li class="en-CA first active"><a class="language-link menu-item--img-src-sites-all-modules-custom-sony-global-flags-ca-png-alt-canada-english-title-canada-english-width-16-height-11-canada-english- odd active" href="/ca/teamceline-dion"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/>Canada (English)</a></li>
+<li class="fr-CA last"><a class="language-link menu-item--img-src-sites-all-modules-custom-sony-global-flags-ca-png-alt-canada-fran-ais-title-canada-fran-ais-width-16-height-11-canada-fran-ais- even" href="http://www.celinedion.com/ca-fr/%C3%A9quipec%C3%A9line-dion"><img alt="Canada (Français)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (Français)" width="16"/>Canada (Français)</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div id="logo-top">
+<a href="/ca/home" title="Home"><img src="/sites/celinedion.com/themes/cdion6_2/images/logo.png"/></a>
+</div>
+<div class="clear-block" id="ad-top">
+<div class="block block-block" id="block-block-21">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><!--
+<a href="/ca/return-las-vegas" ><img src="/sites/cdion/files/celine-vegas-468x60-en.jpg" alt="Return to Las Vegas" /></a>
+--> </div>
+</div>
+</div>
+</div>
+<div class="clear-block" id="top-right">
+<div class="block block-menu" id="block-menu-secondary-links">
+<div class="blockinner clear-block">
+<div class="content">
+<ul class="menu"><li class="leaf first faq"><a href="/ca/help-faq-frequently-asked-questions">FAQ</a></li><li class="leaf last privacypolicy"><a href="http://www.sonymusic.ca/privacy/en/" title="">Privacy Policy</a></li></ul> </div>
+</div>
+</div>
+<div class="block block-block" id="block-block-10">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><div class="cdion6-button-s" style=""><a href="javascript:;" onclick="javascript:window.open('/player','celinePlayer','status=yes,resizable=yes,width=486,height=540,scrollbars=no'); return false;" target="_blank">Launch Player</a></div>
+</div>
+</div>
+</div>
+</div>
+</div> <!-- /header -->
+</div> <!-- /footer-wrapper -->
+<div id="page">
+<div class="clear-block" id="container">
+<div class="menu withprimary withsecondary " id="navigation">
+<div id="navigation-lvl1">
+<div class="block block-menu_block" id="block-menu_block-1">
+<div class="blockinner clear-block">
+<div class="content">
+<div class="menu-name-primary-links parent-mlid-0 menu-level-1">
+<ul class="menu"><li class="leaf first menu-mlid-1134 has-children what039sgoin039on"><a href="/ca/local-news" title="Celine Dion News">What's Goin' On</a></li><li class="leaf menu-mlid-613 has-children tourampevents"><a href="/ca/events" title="Celine Dion Tour &amp; Events">Tour &amp; Events</a></li><li class="leaf menu-mlid-1142 has-children music"><a href="/ca/music/original-recordings" title="Celine Dion Music">Music</a></li><li class="leaf menu-mlid-1116 has-children thejourneysofar"><a href="/ca/biography" title="Celine Dion Biography and Awards">The Journey So Far</a></li><li class="leaf menu-mlid-592 photos"><a href="/ca/photos" title="Photos">Photos</a></li><li class="leaf menu-mlid-583 has-children videos"><a href="/ca/videos" title="Celine Dion Videos">Videos</a></li><li class="leaf menu-mlid-4532 forum"><a href="/ca/forum/130" title="Celine Dion Forum">Forum</a></li><li class="leaf menu-mlid-614 screengems"><a href="/ca/extras" title="Celine Dion Extras">Screen Gems</a></li><li class="leaf last menu-mlid-1040 theboutique"><a href="http://boutique.celinedion.com/en/" title="Celine Dion Store">The Boutique</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</div> <!-- /navigation -->
+<div class="content_header">
+<div class="block block-block" id="block-block-4">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><iframe frameborder="0" height="250" scrolling="no" src="http://smarturl.it/celineUSFbanneren" width="300"></iframe>
+<!--<a href="http://smarturl.it/celineUSFBoutiqueEN" target="_blank"><img src="/sites/cdion/files/live2014-bigbox-en.jpg" alt="Celine - Une Seule Fois / Live 2013" width="300" height="250" border="0" /></a>-->
+</div>
+</div>
+</div>
+</div>
+<div class="column" id="main"><div id="squeeze">
+<div id="content-body">
+<h1 class="title">TeamCeline Dion</h1>
+<div id="content-body-inner">
+<div class="node nodetype-page" id="node-145566">
+<div class="content clear-block">
+<p><b>Join the new TeamCeline, Celine’s official online VIP Club.</b></p>
+<p>Create a free account on celinedion.com and automatically become a member of TeamCeline, the online VIP Club for Celine fans. A membership offers you many benefits: </p>
+<ul>
+<li>Exclusive Ticket Offers</li>
+<li>Discounts on all merchandise at the online Boutique; quickly build or add to your Celine Dion collection</li>
+<li>Exclusive content and promotions available only for TeamCeline members; discover what VIP truly means</li>
+<li>A profile that you can personalize and a member blog; make TeamCeline your own</li>
+<li>The ability to comment on news, photos, videos and songs; you will see how interactive the site can be</li>
+<li>The ability to upload your own photos; leave your mark on <a href="http://www.celinedion.com" title="www.celinedion.com">www.celinedion.com</a></li>
+<li>Access to Forums, share your passion and discuss all things Celine with other community members</li>
+<li>Plus more!</li>
+</ul>
+<p>Finally, the icing on the cake, you can link your TeamCeline account with Facebook and/or Twitter and share your activities within the VIP Club with all your friends.</p>
+<p>Are You In? <a href="/user/register"> Join</a> the new TeamCeline now!</p>
+<div class="cdion6-button-s" style="padding-top:-5px"><a href="/user/register">Join Now!</a></div>
+<p><br/><br/>
+You can also join using your Twitter or Facebook account:</p></div></div></div></div></div></div></div></div></body></html>
+<p><a class="sony-connect-twitter" href="/connect/twitter/pre_authorize" rel="twitter" title="Log in using twitter"><img alt="" height="16" src="/sites/all/modules/custom/sony_connect/plugins/networks/twitter/icons/t-grey-dk-16.png" title="" width="16"/></a> <a class="sony-connect-facebook" href="/connect/facebook/pre_authorize" rel="facebook" title="Log in using facebook"><img alt="" height="16" src="/sites/all/modules/custom/sony_connect/plugins/networks/facebook/icons/grey-dk-16.png" title="" width="16"/></a></p>
+
+
+<div class="clear-block" id="breadcrumb"><div class="breadcrumb"><a href="/ca">Home</a> » TeamCeline Dion</div></div>
+
+ <!-- /content-body -->
+ <!-- /squeeze /main -->
+ <!-- /container -->
+ <!-- /page -->
+<div id="footer-wrapper">
+<div id="footer">
+<div id="logo-bottom">
+<a href="/ca/home" title="Home"><img src="/sites/celinedion.com/themes/cdion6_2/images/logo-bottom.png"/></a>
+</div>
+<div class="menu withprimary withsecondary " id="navigation-bottom">
+<div id="navigation-lvl1-bottom">
+<div class="block block-menu_block" id="block-menu_block-1">
+<div class="blockinner clear-block">
+<div class="content">
+<div class="menu-name-primary-links parent-mlid-0 menu-level-1">
+<ul class="menu"><li class="leaf first menu-mlid-1134 has-children what039sgoin039on"><a href="/ca/local-news" title="Celine Dion News">What's Goin' On</a></li><li class="leaf menu-mlid-613 has-children tourampevents"><a href="/ca/events" title="Celine Dion Tour &amp; Events">Tour &amp; Events</a></li><li class="leaf menu-mlid-1142 has-children music"><a href="/ca/music/original-recordings" title="Celine Dion Music">Music</a></li><li class="leaf menu-mlid-1116 has-children thejourneysofar"><a href="/ca/biography" title="Celine Dion Biography and Awards">The Journey So Far</a></li><li class="leaf menu-mlid-592 photos"><a href="/ca/photos" title="Photos">Photos</a></li><li class="leaf menu-mlid-583 has-children videos"><a href="/ca/videos" title="Celine Dion Videos">Videos</a></li><li class="leaf menu-mlid-4532 forum"><a href="/ca/forum/130" title="Celine Dion Forum">Forum</a></li><li class="leaf menu-mlid-614 screengems"><a href="/ca/extras" title="Celine Dion Extras">Screen Gems</a></li><li class="leaf last menu-mlid-1040 theboutique"><a href="http://boutique.celinedion.com/en/" title="Celine Dion Store">The Boutique</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</div> <!-- /navigation -->
+<p>
+      Copyright © 1996-2015 Five Star Feeling Inc. Copyright © 1996-2015 Sony Music Entertainment Canada Inc. All Rights Reserved.      </p>
+<p>
+<a href="http://www.sonymusic.ca/privacy/">Privacy Policy</a> | <a href="http://www.sonymusic.ca/terms/">Terms and Conditions</a> </p>
+</div> <!-- /footer -->
+</div> <!-- /footer-wrapper -->
+<div id="page-bottom">
+<div class="block block-block" id="block-block-16">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><!-- Google Code for Celine Dion Official Site 30 Days Conversion Page -->
+
+
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="https://www.googleadservices.com/pagead/conversion/1004966373/?value=0&amp;label=MlL6CJv1hwMQ5aOa3wM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+</div>
+</div>
+</div>
+<div class="block block-block" id="block-block-17">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><!-- Google Code for Celine Dion Official Site 365 Days Conversion Page -->
+
+
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="https://www.googleadservices.com/pagead/conversion/1004966373/?value=0&amp;label=Bmb1CJP2hwMQ5aOa3wM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+</div>
+</div>
+</div>
+</div>
+<div class="highslide-overlay closebutton" id="closebutton" onclick="return hs.close(this)" title="Close"></div>
+
+
+

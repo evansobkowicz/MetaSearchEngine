@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+<html data-cast-api-enabled="true" lang="en"><head>
+
+
+
+<link href="//s.ytimg.com/yts/cssbin/www-core-vfldMqirS.css" name="www-core" rel="stylesheet">
+<link href="//s.ytimg.com/yts/cssbin/www-pageframe-vfliaAks7.css" name="www-pageframe" rel="stylesheet">
+<title>Pirates of the Caribbean: Dead Man's Chest - YouTube</title><link href="http://www.youtube.com/opensearch?locale=en_US" rel="search" title="YouTube Video Search" type="application/opensearchdescription+xml"><link href="https://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" rel="shortcut icon" type="image/x-icon"> <link href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" rel="icon" sizes="32x32"><link href="http://www.youtube.com/watch?v=vc8gg_nrqKI" rel="canonical"><link href="http://m.youtube.com/watch?v=vc8gg_nrqKI" media="handheld" rel="alternate"><link href="http://m.youtube.com/watch?v=vc8gg_nrqKI" media="only screen and (max-width: 640px)" rel="alternate"><link href="http://youtu.be/vc8gg_nrqKI" rel="shortlink"> <meta content="Pirates of the Caribbean: Dead Man's Chest" name="title">
+<meta content="Johnny Depp, Orlando Bloom and Keira Knightley set sail for uncharted adventure in this epic swashbuckler. Captain Jack Sparrow has a blood debt to pay: He o..." name="description">
+<meta content="Johnny Depp, Orlando Bloom, Keira Knightley, Stellan Skarsgard, Bill Nighy, Jack Davenport, Kevin R. McNally, Jonathan Pryce, Gore Verbinski, Jerry Bruckheim..." name="keywords">
+<link href="android-app://http://www.youtube.com/watch?v=vc8gg_nrqKI" rel="alternate">
+<link href="http://www.youtube.com/oembed?format=json&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dvc8gg_nrqKI" rel="alternate" title="Pirates of the Caribbean: Dead Man's Chest" type="application/json+oembed">
+<link href="http://www.youtube.com/oembed?format=xml&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dvc8gg_nrqKI" rel="alternate" title="Pirates of the Caribbean: Dead Man's Chest" type="text/xml+oembed">
+<meta content="YouTube" property="og:site_name">
+<meta content="http://www.youtube.com/watch?v=vc8gg_nrqKI" property="og:url">
+<meta content="Pirates of the Caribbean: Dead Man's Chest" property="og:title">
+<meta content="https://i.ytimg.com/vi/vc8gg_nrqKI/maxresdefault.jpg" property="og:image">
+<meta content="Johnny Depp, Orlando Bloom and Keira Knightley set sail for uncharted adventure in this epic swashbuckler. Captain Jack Sparrow has a blood debt to pay: He o..." property="og:description">
+<meta content="544007664" property="al:ios:app_store_id">
+<meta content="YouTube" property="al:ios:app_name">
+<meta content="vnd.youtube://www.youtube.com/watch?v=vc8gg_nrqKI&amp;feature=applinks" property="al:ios:url">
+<meta content="http://www.youtube.com/watch?v=vc8gg_nrqKI&amp;feature=applinks" property="al:android:url">
+<meta content="YouTube" property="al:android:app_name">
+<meta content="com.google.android.youtube" property="al:android:package">
+<meta content="http://www.youtube.com/watch?v=vc8gg_nrqKI&amp;feature=applinks" property="al:web:url">
+<meta content="video" property="og:type">
+<meta content="https://www.youtube.com/embed/vc8gg_nrqKI" property="og:video:url">
+<meta content="https://www.youtube.com/embed/vc8gg_nrqKI" property="og:video:secure_url">
+<meta content="text/html" property="og:video:type">
+<meta content="1280" property="og:video:width">
+<meta content="720" property="og:video:height">
+<meta content="http://www.youtube.com/v/vc8gg_nrqKI?version=3&amp;autohide=1" property="og:video:url">
+<meta content="https://www.youtube.com/v/vc8gg_nrqKI?version=3&amp;autohide=1" property="og:video:secure_url">
+<meta content="application/x-shockwave-flash" property="og:video:type">
+<meta content="1280" property="og:video:width">
+<meta content="720" property="og:video:height">
+<meta content="Johnny Depp" property="og:video:tag">
+<meta content="Orlando Bloom" property="og:video:tag">
+<meta content="Keira Knightley" property="og:video:tag">
+<meta content="Stellan Skarsgard" property="og:video:tag">
+<meta content="Bill Nighy" property="og:video:tag">
+<meta content="Jack Davenport" property="og:video:tag">
+<meta content="Kevin R. McNally" property="og:video:tag">
+<meta content="Jonathan Pryce" property="og:video:tag">
+<meta content="Gore Verbinski" property="og:video:tag">
+<meta content="Jerry Bruckheimer" property="og:video:tag">
+<meta content="Ted Elliott" property="og:video:tag">
+<meta content="Terry Rossio" property="og:video:tag">
+<meta content="87741124305" property="fb:app_id">
+<meta content="player" name="twitter:card">
+<meta content="@youtube" name="twitter:site">
+<meta content="http://www.youtube.com/watch?v=vc8gg_nrqKI" name="twitter:url">
+<meta content="Pirates of the Caribbean: Dead Man's Chest" name="twitter:title">
+<meta content="Johnny Depp, Orlando Bloom and Keira Knightley set sail for uncharted adventure in this epic swashbuckler. Captain Jack Sparrow has a blood debt to pay: He o..." name="twitter:description">
+<meta content="https://i.ytimg.com/vi/vc8gg_nrqKI/maxresdefault.jpg" name="twitter:image">
+<meta content="YouTube" name="twitter:app:name:iphone">
+<meta content="544007664" name="twitter:app:id:iphone">
+<meta content="YouTube" name="twitter:app:name:ipad">
+<meta content="544007664" name="twitter:app:id:ipad">
+<meta content="vnd.youtube://www.youtube.com/watch?v=vc8gg_nrqKI&amp;feature=applinks" name="twitter:app:url:iphone">
+<meta content="vnd.youtube://www.youtube.com/watch?v=vc8gg_nrqKI&amp;feature=applinks" name="twitter:app:url:ipad">
+<meta content="YouTube" name="twitter:app:name:googleplay">
+<meta content="com.google.android.youtube" name="twitter:app:id:googleplay">
+<meta content="http://www.youtube.com/watch?v=vc8gg_nrqKI" name="twitter:app:url:googleplay">
+<meta content="https://www.youtube.com/embed/vc8gg_nrqKI" name="twitter:player">
+<meta content="1280" name="twitter:player:width">
+<meta content="720" name="twitter:player:height">
+<!-- Smart CSS Insertion --></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></link></link></link></meta></meta></meta></link></link></link></link></link></link></link></link></link></head> <body class=" ltr exp-innertube-history site-center-aligned site-as-giant-card appbar-hidden not-nirvana-dogfood not-yt-legacy-css flex-width-enabled flex-width-enabled-snap delayed-frame-styles-not-in " dir="ltr" id="body">
+<div id="early-body"></div><div id="body-container"><form action="/logout" method="POST" name="logoutForm"><input name="action_logout" type="hidden" value="1"/></form><div id="masthead-positioner">
+<div class="clearfix yt-base-gutter" id="yt-masthead-container"><div class="" id="yt-masthead"><div class="yt-masthead-logo-container"> <a class=" spf-link yt-uix-sessionlink" data-sessionlink="feature=yt-logo" href="/" id="logo-container" title="YouTube home"><img alt="" id="logo" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"/></a>
+<a class=" spf-link yt-uix-sessionlink" data-sessionlink="feature=yt-logo" href="/" title="YouTube home">
+<span class="mini-logo yt-sprite"></span>
+</a>
+<div id="appbar-guide-button-container">
+<button aria-controls="appbar-guide-menu" aria-label="Guide" class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" id="appbar-guide-button" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<div class="yt-valign" id="appbar-guide-button-notification-check">
+<span class="appbar-guide-notification-icon yt-valign-content yt-sprite"></span>
+</div>
+</div>
+<div id="appbar-main-guide-notification-container"></div>
+</div><div id="yt-masthead-signin"><span id="appbar-onebar-upload-group"><a class="yt-uix-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg&amp;feature=mhsb" href="//www.youtube.com/upload" id="upload-btn"><span class="yt-uix-button-content">Upload </span></a></span><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253Dvc8gg_nrqKI%26hl%3Den%26feature%3Dsign_in_button%26app%3Ddesktop&amp;hl=en&amp;passive=true" onclick=";window.location.href=this.getAttribute('href');return false;" type="button"><span class="yt-uix-button-content">Sign in </span></button></div><div id="yt-masthead-content"><form action="/results" class="search-form consolidated-form" id="masthead-search" onsubmit="if (_gel('masthead-search-term').value == '') return false;"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" dir="ltr" id="search-btn" onclick="if (_gel('masthead-search-term').value == '') return false; _gel('masthead-search').submit(); return false;;return true;" tabindex="2" type="submit"><span class="yt-uix-button-content">Search </span></button><div class="masthead-search-terms-border" dir="ltr" id="masthead-search-terms"><label><input autocomplete="off" class="search-term yt-uix-form-input-bidi" id="masthead-search-term" name="search_query" tabindex="1" title="Search" type="text" value=""/></label></div></form></div></div></div>
+<div class="clearfix" id="masthead-appbar-container"><div id="masthead-appbar"><div class="" id="appbar-content"></div></div></div>
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div class=" watch watch-non-stage-mode clearfix" id="page"><div class="yt-scrollbar" id="guide"> <div class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor" id="appbar-guide-menu">
+<div id="guide-container">
+<div class="guide-module-content guide-module-loading">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+</div>
+</div><div class="alerts-wrapper"><div class="content-alignment" id="alerts">
+<div id="editor-progress-alert-container"></div>
+<div class="yt-alert yt-alert-default yt-alert-warn hid " id="editor-progress-alert-template"> <div class="yt-alert-icon">
+<span class="icon master-sprite yt-sprite"></span>
+</div>
+<div class="yt-alert-content" role="alert"></div><div class="yt-alert-buttons"><button aria-label="Close" class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" data-close-parent-class="yt-alert" onclick=";return false;" type="button"><span class="yt-uix-button-content">Close </span></button></div></div>
+<div id="edit-confirmation-alert"></div>
+<div class="yt-alert yt-alert-actionable yt-alert-info hid " id="edit-confirmation-alert-template"> <div class="yt-alert-icon">
+<span class="icon master-sprite yt-sprite"></span>
+</div>
+<div class="yt-alert-content" role="alert"> <div class="yt-alert-message">
+</div>
+</div><div class="yt-alert-buttons"> <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-alert-info yt-uix-button-has-icon edit-confirmation-yes" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-like-invert yt-sprite"></span></span><span class="yt-uix-button-content">Yeah, keep it </span></button>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-alert-info yt-uix-button-has-icon edit-confirmation-no" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-unlike-invert yt-sprite"></span></span><span class="yt-uix-button-content">Undo </span></button>
+<button aria-label="Close" class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" data-close-parent-class="yt-alert" onclick=";return false;" type="button"><span class="yt-uix-button-content">Close </span></button></div></div>
+</div></div><div id="header"></div><div class=" content-alignment watch-small " id="player"><div class="player-height" id="theater-background"></div> <div id="player-mole-container">
+<div class=" hid player-width player-height player-unavailable watch-main-col " id="player-unavailable">
+<img alt="" class="icon meh" data-icon="//s.ytimg.com/yts/img/meh7-vflGevej7.png" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif">
+<div class="content">
+<h1 class="message" id="unavailable-message">
+            This video is unavailable.
+    </h1>
+<div class="submessage" id="unavailable-submessage">
+</div>
+</div>
+</img></div>
+<div class="player-width player-height off-screen-target player-api" id="player-api"></div>
+
+
+<div class="video-mole mole-collapsed hid" id="watch-queue-mole"><div class="watch-playlist player-height" id="watch-queue"><div class="main-content"><div class="watch-queue-header"><div class="watch-queue-info"><div class="watch-queue-info-icon"><span class="tv-queue-list-icon yt-sprite"></span></div><h3 class="watch-queue-title">Watch Queue</h3><h3 class="tv-queue-title">TV Queue</h3><span class="tv-queue-details"></span></div><div class="watch-queue-control-bar control-bar-button"><div class="watch-queue-mole-info"><div class="watch-queue-control-bar-icon"><span class="watch-queue-icon yt-sprite"></span></div><div class="watch-queue-title-container"><span class="watch-queue-count"></span><span class="watch-queue-title">Watch Queue</span><span class="tv-queue-title">TV Queue</span></div></div> <span class="dark-overflow-action-menu">
+<button aria-expanded="false" aria-haspopup="true" aria-label="Actions for the queue" class="flip control-bar-button yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul aria-haspopup="true" class="watch-queue-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" role="menu" style="display: none;"><li role="menuitem"><span class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" data-action="remove-all" onclick=";return false;">Remove all</span></li><li role="menuitem"><span class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" data-action="disconnect" onclick=";return false;">Disconnect</span></li></ul></button>
+</span>
+<div class="watch-queue-controls">
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button prev-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" onclick=";return false;" title="Previous video" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-prev yt-sprite"></span></span></button>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button play-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" onclick=";return false;" title="Play" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-play yt-sprite"></span></span></button>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button pause-watch-queue-button yt-uix-button-opacity yt-uix-tooltip hid yt-uix-tooltip" onclick=";return false;" title="Pause" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-pause yt-sprite"></span></span></button>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button next-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" onclick=";return false;" title="Next video" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-next yt-sprite"></span></span></button>
+</div>
+</div></div><div class="watch-queue-items-container yt-scrollbar-dark yt-scrollbar"><ol class="watch-queue-items-list playlist-videos-list yt-uix-scroller" data-scroll-action="yt.www.watchqueue.loadThumbnails">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</ol></div></div> <div class="hid">
+<div id="watch-queue-title-msg">
+Watch Queue
+    </div>
+<div id="tv-queue-title-msg">
+TV Queue
+    </div>
+<div id="watch-queue-count-msg">
+__count__/__total__
+    </div>
+<div id="watch-queue-loading-template">
+<!--
+          
+  <p class="yt-spinner ">
+        
+  <span title="Loading icon" class="yt-spinner-img  yt-sprite"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+      -->
+</div>
+</div>
+</div></div>
+</div>
+<div class="clear"></div>
+</div><div class=" content-alignment " id="content">
+<span id="tabindex-after-player-enter-reverse"> </span>
+<span id="tabindex-after-player-enter"> </span>
+<span id="tabindex-after-player-exit-reverse"> </span>
+<span id="tabindex-after-player-exit"> </span>
+<div class="" id="watch7-container">
+<div id="watch7-main-container">
+<div class="clearfix" id="watch7-main">
+<div class="player-width player-height hid" id="watch7-preview">
+</div>
+<div class="watch-main-col " id="watch7-content" itemid="" itemscope="" itemtype="http://schema.org/VideoObject">
+<link href="http://www.youtube.com/watch?v=vc8gg_nrqKI" itemprop="url">
+<meta content="Pirates of the Caribbean: Dead Man's Chest" itemprop="name">
+<meta content="Johnny Depp, Orlando Bloom and Keira Knightley set sail for uncharted adventure in this epic swashbuckler. Captain Jack Sparrow has a blood debt to pay: He o..." itemprop="description">
+<meta content="True" itemprop="paid">
+<meta content="UCV3uIARCxZY6lWbeVVRZsKg" itemprop="channelId">
+<meta content="vc8gg_nrqKI" itemprop="videoId">
+<meta content="PT150M37S" itemprop="duration">
+<meta content="False" itemprop="unlisted">
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<link href="http://www.youtube.com/user/DisneyMoviesOnDemand" itemprop="url">
+</link></span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<link href="https://plus.google.com/101397156367495185747" itemprop="url">
+</link></span>
+<link href="https://i.ytimg.com/vi/vc8gg_nrqKI/maxresdefault.jpg" itemprop="thumbnailUrl">
+<span itemprop="thumbnail" itemscope="" itemtype="http://schema.org/ImageObject">
+<link href="https://i.ytimg.com/vi/vc8gg_nrqKI/maxresdefault.jpg" itemprop="url">
+<meta content="1280" itemprop="width">
+<meta content="720" itemprop="height">
+</meta></meta></link></span>
+<link href="https://www.youtube.com/embed/vc8gg_nrqKI" itemprop="embedURL">
+<meta content="HTML5 Flash" itemprop="playerType">
+<meta content="1280" itemprop="width">
+<meta content="720" itemprop="height">
+<meta content="True" itemprop="isFamilyFriendly">
+<meta content="CA,US" itemprop="regionsAllowed">
+<meta content="22982" itemprop="interactionCount">
+<meta content="Dec 31, 1969" itemprop="datePublished">
+<meta content="Movies" itemprop="genre">
+<div id="watch7-speedyg-area">
+<div class="yt-alert yt-alert-actionable yt-alert-info hid " id="speedyg-template"> <div class="yt-alert-icon">
+<span class="icon master-sprite yt-sprite"></span>
+</div>
+<div class="yt-alert-content" role="alert"> <div class="yt-alert-message">
+</div>
+</div><div class="yt-alert-buttons"><a class="yt-uix-button yt-uix-sessionlink yt-uix-button-alert-info yt-uix-button-size-small" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="https://www.google.com/get/videoqualityreport/?v=vc8gg_nrqKI" id="speedyg-link" target="_blank"><span class="yt-uix-button-content">Find out why </span></a><button aria-label="Close" class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" data-close-parent-class="yt-alert" onclick=";return false;" type="button"><span class="yt-uix-button-content">Close </span></button></div></div>
+</div>
+<div class="yt-card yt-card-has-padding" id="watch-header">
+<div class="clearfix" id="watch7-headline">
+<div id="watch-headline-title">
+<h1 class="yt watch-title-container">
+<span class="watch-title " dir="ltr" id="eow-title" title="Pirates of the Caribbean: Dead Man's Chest">
+    Pirates of the Caribbean: Dead Man's Chest
+  </span>
+</h1>
+</div>
+</div>
+<div class=" spf-link " id="watch7-user-header"> <a class="yt-user-photo yt-uix-sessionlink spf-link g-hovercard" data-sessionlink="itct=" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg" href="/user/DisneyMoviesOnDemand">
+<span class="video-thumb yt-thumb yt-thumb-48 g-hovercard" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg">
+<span class="yt-thumb-square">
+<span class="yt-thumb-clip">
+<img alt="DisneyMoviesOnDemand" data-thumb="https://yt3.ggpht.com/-yBl4x-KXyG8/AAAAAAAAAAI/AAAAAAAAAAA/QDl-1oRaPtY/s88-c-k-no/photo.jpg" height="48" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="48">
+<span class="vertical-align"></span>
+</img></span>
+</span>
+</span>
+</a>
+<div class="yt-user-info">
+<a class=" yt-uix-sessionlink spf-link g-hovercard" data-name="" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg" href="/channel/UCV3uIARCxZY6lWbeVVRZsKg">DisneyMoviesOnDemand</a>
+<span aria-label="Verified" class="yt-channel-title-icon-verified yt-uix-tooltip yt-sprite" data-tooltip-text="Verified"></span>
+</div>
+<span id="watch7-subscription-container"><span class=" yt-uix-button-subscription-container"><button aria-busy="false" aria-live="polite" class="yt-uix-button yt-uix-button-size-default yt-uix-button-subscribe-branded yt-uix-button-has-icon no-icon-markup yt-can-buffer yt-uix-subscription-button" data-channel-external-id="UCV3uIARCxZY6lWbeVVRZsKg" data-href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqa0J3bmtDc0k5U2x6UTRPRjNFVWJlYkJ1d3JJZ3xBQ3Jtc0tuRXZPNGh6Zl9BdzF0bm5hOUFtbTNxN3JIU2VBRTVmVHc4dkM5aVhqdmN2Y2lKUDBVa0UzZzRDZFMyYzNRX21ET24xY3BfOHdfWjJGS21fX2VGb3EzcVJTVEpWdlJpTS0ybDVfMlU1NVlqbkZydnRBS0JkbG83cUJLWW1WaE1kd0VoOFdRQ0V1OU9HSG9YRTZ1TTFyX2NZLUN2Qkt6N0JvbThHZnhNS2tRYk1hOW1wUkw3QnRNdGpmV2hBeDJEbGxXQ1NfNV9sVDVSc1pLZ0ZqN0Jwb2NRSGM1QUJB%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26next%3D%252Fchannel%252FUCV3uIARCxZY6lWbeVVRZsKg%26feature%3Dsubscribe&amp;hl=en&amp;passive=true" data-sessionlink="itct=" data-style-type="branded" onclick=";return false;" type="button"><span class="yt-uix-button-content"><span aria-label="Subscribe" class="subscribe-label">Subscribe</span><span aria-label="Unsubscribe" class="subscribed-label">Subscribed</span><span aria-label="Unsubscribe" class="unsubscribe-label">Unsubscribe</span> </span></button><button aria-busy="false" aria-label="Subscription preferences" aria-live="polite" aria-role="button" class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon yt-uix-subscription-preferences-button" data-channel-external-id="UCV3uIARCxZY6lWbeVVRZsKg" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences yt-sprite"></span></span></button><span class="yt-subscription-button-subscriber-count-branded-horizontal" tabindex="0" title="411,780">411,780</span>
+<div class="yt-uix-overlay " data-overlay-shape="tiny" data-overlay-style="primary">
+<div class="yt-dialog hid " role="dialog">
+<div class="yt-dialog-base">
+<span class="yt-dialog-align"></span>
+<div class="yt-dialog-fg">
+<div class="yt-dialog-fg-content">
+<div class="yt-dialog-header">
+<h2 class="yt-dialog-title">
+                        Subscription preferences
+
+
+                </h2>
+</div>
+<div class="yt-dialog-loading">
+<div class="yt-dialog-waiting-content">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+<div class="yt-dialog-content">
+<div class="subscription-preferences-overlay-content-container">
+<div class="subscription-preferences-overlay-loading ">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+<div class="subscription-preferences-overlay-content">
+</div>
+</div>
+</div>
+<div class="yt-dialog-working">
+<div class="yt-dialog-working-overlay"></div>
+<div class="yt-dialog-working-bubble">
+<div class="yt-dialog-waiting-content">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+        Working...
+    </span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</span></span></div>
+<div class="watch-action-buttons clearfix" id="watch8-action-buttons"><div class="watch-secondary-actions yt-uix-button-group" data-button-toggle-group="optional" id="watch8-secondary-actions">
+<span class="yt-uix-clickcard">
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup action-panel-trigger action-panel-trigger-none-addto addto-button yt-uix-clickcard-target yt-uix-tooltip" data-button-toggle="true" data-orientation="vertical" data-position="bottomleft" data-trigger-for="action-panel-none-addto" data-upsell="playlist" onclick=";return false;" title="Add to" type="button"><span class="yt-uix-button-content">Add to </span></button>
+<div class="signin-clickcard yt-uix-clickcard-content">
+<h3 class="signin-clickcard-header">Want to watch this again later?</h3>
+<div class="signin-clickcard-message">
+      Sign in to add this video to a playlist.
+    </div>
+<a class="yt-uix-button signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253Dvc8gg_nrqKI%26hl%3Den%26feature%3D__FEATURE__%26app%3Ddesktop&amp;hl=en&amp;passive=true"><span class="yt-uix-button-content">Sign in </span></a>
+</div>
+</span>
+<span>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup action-panel-trigger action-panel-trigger-share yt-uix-tooltip" data-button-toggle="true" data-trigger-for="action-panel-share" onclick=";return false;" title="Share
+" type="button"><span class="yt-uix-button-content">Share
+ </span></button>
+</span>
+<div class="yt-uix-menu "><div class="yt-uix-menu-trigger">
+<button aria-haspopup="true" aria-pressed="false" class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-tooltip" data-button-toggle="true" id="action-panel-overflow-button" onclick=";return false;" role="button" title="More actions" type="button"><span class="yt-uix-button-content">More </span></button>
+</div><div class="yt-uix-menu-content yt-ui-menu-content yt-uix-menu-content-hidden" role="menu"><ul id="action-panel-overflow-menu"> <li>
+<span class="yt-uix-clickcard" data-card-class="report-card">
+<button class="yt-ui-menu-item has-icon action-panel-trigger action-panel-trigger-report report-button yt-uix-clickcard-target" data-orientation="horizontal" data-position="topright" type="button">
+<span class="yt-ui-menu-item-label">Report
+</span>
+</button>
+<div class="signin-clickcard yt-uix-clickcard-content">
+<h3 class="signin-clickcard-header">Need to report the video?</h3>
+<div class="signin-clickcard-message">
+      Sign in to report inappropriate content.
+    </div>
+<a class="yt-uix-button signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253Dvc8gg_nrqKI%26hl%3Den%26feature%3D__FEATURE__%26app%3Ddesktop&amp;hl=en&amp;passive=true"><span class="yt-uix-button-content">Sign in </span></a>
+</div>
+</span>
+</li>
+</ul></div></div></div><div id="watch8-sentiment-actions"><div id="watch7-views-info"></div>
+<span class="yt-uix-button-group " data-button-toggle-group="optional" data-vote-state="2" id="watch-like-dislike-buttons"><span class="yt-uix-clickcard"><button aria-label="like this video along with 0 other people" class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-empty yt-uix-button-has-icon no-icon-markup yt-uix-clickcard-target yt-uix-tooltip" data-button-toggle="true" data-force-position="true" data-like-tooltip="I like this" data-orientation="vertical" data-position="bottomright" data-unlike-tooltip="Unlike" id="watch-like" onclick=";return false;" title="I like this" type="button"></button> <div class="signin-clickcard yt-uix-clickcard-content">
+<h3 class="signin-clickcard-header">Like this video?</h3>
+<div class="signin-clickcard-message">
+      Sign in to make your opinion count.
+    </div>
+<a class="yt-uix-button signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253Dvc8gg_nrqKI%26hl%3Den%26feature%3D__FEATURE__%26app%3Ddesktop&amp;hl=en&amp;passive=true"><span class="yt-uix-button-content">Sign in </span></a>
+</div>
+</span><span class="yt-uix-clickcard"><button aria-label="dislike this video along with 0 other people" class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-empty yt-uix-button-has-icon no-icon-markup yt-uix-clickcard-target yt-uix-tooltip" data-button-toggle="true" data-force-position="true" data-orientation="vertical" data-position="bottomright" id="watch-dislike" onclick=";return false;" title="I dislike this" type="button"></button> <div class="signin-clickcard yt-uix-clickcard-content">
+<h3 class="signin-clickcard-header">Don't like this video?</h3>
+<div class="signin-clickcard-message">
+      Sign in to make your opinion count.
+    </div>
+<a class="yt-uix-button signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253Dvc8gg_nrqKI%26hl%3Den%26feature%3D__FEATURE__%26app%3Ddesktop&amp;hl=en&amp;passive=true"><span class="yt-uix-button-content">Sign in </span></a>
+</div>
+</span></span></div></div>
+</div>
+<div class="watch-action-panels yt-uix-button-panel hid yt-card yt-card-has-padding" id="watch-action-panels">
+<div class="action-panel-content hid" id="action-panel-share">
+<div id="watch-actions-share-loading">
+<div class="action-panel-loading">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+<div id="watch-actions-share-panel"></div>
+</div>
+<div class="action-panel-content hid" id="action-panel-stats">
+<div class="action-panel-loading">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+<div class="action-panel-content hid" data-auth-required="true" id="action-panel-report">
+<div class="action-panel-loading">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+<div class="action-panel-content hid" id="action-panel-rental-required">
+<div id="watch-actions-rental-required">
+<strong>Rating is available when the video has been rented.</strong>
+</div>
+</div>
+<div class="action-panel-content hid" id="action-panel-error">
+<div class="action-panel-error">
+      This feature is not available right now. Please try again later.
+    </div>
+</div>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup yt-uix-button-opacity yt-uix-close" data-close-parent-id="watch8-action-panels" id="action-panel-dismiss" onclick=";return false;" type="button"></button>
+</div>
+<div class="action-panel-content yt-card yt-card-has-padding yt-uix-expander yt-uix-expander-collapsed" id="action-panel-details"><div class="yt-uix-button-panel" id="watch-description"><div id="watch-description-content"><div id="watch-description-clip"><div id="watch-uploader-info"><strong class="watch-time-text">Uploaded on Nov 19, 2011</strong></div><div class="" id="watch-description-text"><p id="eow-description">Johnny Depp, Orlando Bloom and Keira Knightley set sail for uncharted adventure in this epic swashbuckler. Captain Jack Sparrow has a blood debt to pay: He owes his soul to ghastly Davy Jones unless he can cheat death -- and eternal damnation -- by seizing the fabled "Dead Man's Chest." Tremble in terror as the mighty "Kraken" roars from the ocean depths to split planks, crush hulls and snap bones!</p></div> <div id="watch-description-extras">
+<ul class="watch-extras-section">
+<li class="watch-meta-item ">
+<h4 class="title">
+      Partner rating
+    </h4>
+<ul class="content watch-info-tag-list">
+<li><a class=" yt-uix-sessionlink" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="http://www.google.com/support/youtube/bin/answer.py?answer=146397&amp;expand=US&amp;hl=en">PG-13</a></li>
+</ul>
+</li>
+<li class="watch-meta-item ">
+<h4 class="title">
+      Release date
+    </h4>
+<ul class="content watch-info-tag-list">
+<li>2006</li>
+</ul>
+</li>
+<li class="watch-meta-item ">
+<h4 class="title">
+      Running time
+    </h4>
+<ul class="content watch-info-tag-list">
+<li>2:30:37</li>
+</ul>
+</li>
+<li class="watch-meta-item ">
+<h4 class="title">
+      Language
+    </h4>
+<ul class="content watch-info-tag-list">
+<li>English</li>
+</ul>
+</li>
+<li class="watch-meta-item yt-uix-expander-body">
+<h4 class="title">
+      Actors
+    </h4>
+<ul class="content watch-info-tag-list">
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Johnny+Depp">Johnny Depp</a></li>
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Orlando+Bloom">Orlando Bloom</a></li>
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Keira+Knightley">Keira Knightley</a></li>
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Stellan+Skarsgard">Stellan Skarsgard</a></li>
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Bill+Nighy">Bill Nighy</a></li>
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Jack+Davenport">Jack Davenport</a></li>
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Kevin+R.+McNally">Kevin R. McNally</a></li>
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Jonathan+Pryce">Jonathan Pryce</a></li>
+</ul>
+</li>
+<li class="watch-meta-item yt-uix-expander-body">
+<h4 class="title">
+      Director
+    </h4>
+<ul class="content watch-info-tag-list">
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Gore+Verbinski">Gore Verbinski</a></li>
+</ul>
+</li>
+<li class="watch-meta-item yt-uix-expander-body">
+<h4 class="title">
+      Producer
+    </h4>
+<ul class="content watch-info-tag-list">
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Jerry+Bruckheimer">Jerry Bruckheimer</a></li>
+</ul>
+</li>
+<li class="watch-meta-item yt-uix-expander-body">
+<h4 class="title">
+      Writers
+    </h4>
+<ul class="content watch-info-tag-list">
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Ted+Elliott">Ted Elliott</a></li>
+<li><a class=" yt-uix-sessionlink spf-link " data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/results?sp=EgIQBA%253D%253D&amp;q=Terry+Rossio">Terry Rossio</a></li>
+</ul>
+</li>
+<li class="watch-meta-item yt-uix-expander-body">
+<h4 class="title">
+      Category
+    </h4>
+<ul class="content watch-info-tag-list">
+<li><a class=" yt-uix-sessionlink spf-link g-hovercard" data-name="" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" data-ytid="SBU_oYzZRlZ2E" href="/channel/SBU_oYzZRlZ2E">Action &amp; Adventure</a></li>
+<li><a class=" yt-uix-sessionlink spf-link g-hovercard" data-name="" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" data-ytid="SBoT5Kbu2MhXo" href="/channel/SBoT5Kbu2MhXo">Family</a></li>
+</ul>
+</li>
+<li class="watch-meta-item yt-uix-expander-body">
+<h4 class="title">
+      License
+    </h4>
+<ul class="content watch-info-tag-list">
+<li>Standard YouTube License</li>
+</ul>
+</li>
+<li class="watch-meta-item yt-uix-expander-body">
+<h4 class="title">
+      Purchase
+    </h4>
+<ul class="content watch-info-tag-list">
+<li>"Pirates of the Caribbean: Dead Man's Chest" (<a class=" yt-uix-sessionlink" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="https://www.youtube.com/cthru?v=vc8gg_nrqKI&amp;key=BvYI1Qvnh6HKCgWPRjVofaIJAK5xkCIUFa8GCbRt_1LdW8DyMXFkwitHnfd1oOXgGZJyO4hmMpOPb6XKV56MascUHbfmj7tfi_c0xlxRQOeVpKp7VsWwQFV1PgdaWPPx&amp;c2b=amazonmp3">Amazon.com</a>)</li>
+</ul>
+</li>
+<li class="watch-meta-item yt-uix-expander-body">
+<h4 class="title">
+      Support
+    </h4>
+<ul class="content watch-info-tag-list">
+<li><a class=" yt-uix-sessionlink" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="//support.google.com/youtube/go/commerce_help/?hl=en">YouTube Help Center</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div></div></div> <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander yt-uix-expander-head yt-uix-expander-collapsed-body yt-uix-gen204" data-gen204="feature=watch-show-more-metadata" onclick=";return false;" type="button"><span class="yt-uix-button-content">Show more </span></button>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander yt-uix-expander-head yt-uix-expander-body" onclick=";return false;" type="button"><span class="yt-uix-button-content">Show less </span></button>
+</div>
+<div class="yt-card branded-page-box" id="watch-discussion">
+<div class="comments-disabled" id="comments-view">
+<h4>
+<strong>All Comments</strong>
+</h4>
+<div class="comments-disabled-message">
+<img src="//s.ytimg.com/yts/img/icon_comments_disabled-vflxokpZC.png">
+<span>Comments are disabled for this video.</span>
+</img></div>
+</div>
+</div>
+</meta></meta></meta></meta></meta></meta></meta></meta></link></link></meta></meta></meta></meta></meta></meta></meta></link></div>
+<div class="watch-sidebar" id="watch7-sidebar">
+<div id="watch7-sidebar-playlist">
+</div>
+<div class="watch-sidebar-gutter yt-card yt-card-has-padding yt-uix-expander yt-uix-expander-collapsed" id="watch7-sidebar-contents">
+<div id="watch7-sidebar-offer">
+<div class="ypc-transact-offer ">
+<div class="ypc-offer-thumbnail">
+<span class="video-thumb yt-thumb yt-thumb-120">
+<span class="yt-thumb-poster">
+<span class="yt-thumb-clip">
+<img alt="" aria-hidden="true" src="https://i.ytimg.com/vi/vc8gg_nrqKI/movieposter.jpg?v=4ecabfab" width="120">
+<span class="vertical-align"></span>
+</img></span>
+</span>
+</span>
+</div>
+<div class="ypc-offer-title">
+      Pirates of the Caribbean: Dead Man's Chest
+  </div>
+<div class="ypc-offer-rating-scores">
+<div class="ypc-offer-rating-score">
+<span>
+<span class="ypc-offer-star-rating-bg">
+<span class="ypc-offer-star-rating-fg" style="width: 54%;"></span>
+</span>
+</span>
+<span>
+              54%
+            </span>
+          -
+            <span>
+<a class=" yt-uix-sessionlink" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="http://www.rottentomatoes.com/m/pirates_of_the_caribbean_dead_mans_chest">Rotten Tomatoes</a>
+</span>
+</div>
+</div>
+<div class="ypc-offer-badge" id="watch-checkout-offers">
+<span class="ypc-container ypc-delayedloader-target">
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-payment ypc-signin-button " data-sessionlink="ved=CAsQnCs&amp;ei=YEXZVPe7CZDmqQWi8ILwCg" data-ypc-flow-type="D" data-ypc-item-id="vc8gg_nrqKI" data-ypc-item-type="V" onclick=";return false;" type="button"><span class="yt-uix-button-content"><span class="button-label">From $2.99</span> </span></button>
+</span>
+</div>
+<p class="ypc-offer-metadata">
+<strong>Rated</strong>:
+          PG-13
+        </p>
+<p class="ypc-offer-metadata">
+<strong>Released</strong>:
+          2006
+        </p>
+<p class="ypc-offer-metadata">
+<strong>Running time</strong>:
+          2:30:37
+        </p>
+<p class="ypc-offer-metadata">
+<strong>Language</strong>:
+          English
+        </p>
+<p class="ypc-offer-metadata">
+<strong>Subtitles</strong>:
+          English
+        </p>
+<p class="ypc-offer-metadata">
+<span class="yt-badge ">CC</span>
+</p>
+<a class="yt-uix-button yt-google-help-link inq-no-click help-link yt-uix-sessionlink yt-uix-button-link yt-uix-button-size-default" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="#"><span class="yt-uix-button-content">Help
+ </span></a>
+</div>
+</div>
+<div id="watch7-sidebar-ads">
+</div>
+<div id="watch7-sidebar-modules">
+<div class="watch-sidebar-section">
+<div class="watch-sidebar-body">
+<ul class="video-list" id="watch-related">
+<li class="video-list-item related-list-item "><a class="related-movie spf-link yt-uix-sessionlink" data-sessionlink="ved=CAMQzRooAA&amp;ei=YEXZVPe7CZDmqQWi8ILwCg&amp;feature=relmfu" href="/watch?v=miuoza1nals&amp;feature=relmfu"><span class="ux-thumb-wrap contains-addto movie-poster">
+<span class="video-thumb yt-thumb yt-thumb-77">
+<span class="yt-thumb-poster">
+<span class="yt-thumb-clip">
+<img alt="" data-thumb="https://i.ytimg.com/vi/miuoza1nals/movieposter.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="77">
+<span class="vertical-align"></span>
+</img></span>
+</span>
+</span>
+<span class="video-time">2:23:07</span> <span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="miuoza1nals" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="miuoza1nals" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="miuoza1nals" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="miuoza1nals" onclick=";return false;" title="TV Queue" type="button"></button>
+</span><span class="title" dir="ltr" title="Pirates of the Caribbean: The Curse of the Black Pearl">Pirates of the Caribbean: The Curse of the Black Pearl</span><span class="stat attribution">by <span class=" g-hovercard" data-name="" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg">DisneyMoviesOnDemand</span></span><span class="stat view-count"></span></a></li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="ved=CAQQzRooAQ&amp;ei=YEXZVPe7CZDmqQWi8ILwCg&amp;feature=relmfu" href="/watch?v=tI6ugmYV6AQ" rel="spf-prefetch" title="Winnie The Pooh"> <span aria-describedby="description-id-977015" class="title" dir="ltr">
+    Winnie The Pooh
+  </span>
+<span class="accessible-description" id="description-id-977015">
+       - Duration: 1:17.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="relmfu" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg">DisneyMoviesOnDemand</span>
+</span>
+</span>
+<span class="stat view-count">96,007 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="ved=CAQQzRooAQ&amp;ei=YEXZVPe7CZDmqQWi8ILwCg&amp;feature=relmfu" href="/watch?v=tI6ugmYV6AQ" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="tI6ugmYV6AQ" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/tI6ugmYV6AQ/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:17
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="tI6ugmYV6AQ" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="tI6ugmYV6AQ" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="tI6ugmYV6AQ" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="tI6ugmYV6AQ" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "><a class="related-movie spf-link yt-uix-sessionlink" data-sessionlink="ved=CAUQzRooAg&amp;ei=YEXZVPe7CZDmqQWi8ILwCg&amp;feature=relmfu" href="/watch?v=TiUmrX7CxGA&amp;feature=relmfu"><span class="ux-thumb-wrap contains-addto movie-poster">
+<span class="video-thumb yt-thumb yt-thumb-77">
+<span class="yt-thumb-poster">
+<span class="yt-thumb-clip">
+<img alt="" data-thumb="https://i.ytimg.com/vi/TiUmrX7CxGA/movieposter.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="77">
+<span class="vertical-align"></span>
+</img></span>
+</span>
+</span>
+<span class="video-time">2:05:08</span> <span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="TiUmrX7CxGA" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="TiUmrX7CxGA" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="TiUmrX7CxGA" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="TiUmrX7CxGA" onclick=";return false;" title="TV Queue" type="button"></button>
+</span><span class="title" dir="ltr" title="Tron: Legacy">Tron: Legacy</span><span class="stat attribution">by <span class=" g-hovercard" data-name="" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg">DisneyMoviesOnDemand</span></span><span class="stat view-count"></span></a></li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="ved=CAYQzRooAw&amp;ei=YEXZVPe7CZDmqQWi8ILwCg&amp;feature=relmfu" href="/watch?v=QBTL8A1F4j4" rel="spf-prefetch" title="Pirates of the Caribbean: At World's End"> <span aria-describedby="description-id-577834" class="title" dir="ltr">
+    Pirates of the Caribbean: At World's End
+  </span>
+<span class="accessible-description" id="description-id-577834">
+       - Duration: 2:30.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="relmfu" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg">DisneyMoviesOnDemand</span>
+</span>
+</span>
+<span class="stat view-count">76,563 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="ved=CAYQzRooAw&amp;ei=YEXZVPe7CZDmqQWi8ILwCg&amp;feature=relmfu" href="/watch?v=QBTL8A1F4j4" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="QBTL8A1F4j4" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/QBTL8A1F4j4/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      2:30
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="QBTL8A1F4j4" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="QBTL8A1F4j4" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="QBTL8A1F4j4" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="QBTL8A1F4j4" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "><a class="related-movie spf-link yt-uix-sessionlink" data-sessionlink="ved=CAcQzRooBA&amp;ei=YEXZVPe7CZDmqQWi8ILwCg&amp;feature=relmfu" href="/watch?v=8-TW3en694Q&amp;feature=relmfu"><span class="ux-thumb-wrap contains-addto movie-poster">
+<span class="video-thumb yt-thumb yt-thumb-77">
+<span class="yt-thumb-poster">
+<span class="yt-thumb-clip">
+<img alt="" data-thumb="https://i.ytimg.com/vi/8-TW3en694Q/movieposter.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="77">
+<span class="vertical-align"></span>
+</img></span>
+</span>
+</span>
+<span class="video-time">1:03:03</span> <span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="8-TW3en694Q" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="8-TW3en694Q" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="8-TW3en694Q" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="8-TW3en694Q" onclick=";return false;" title="TV Queue" type="button"></button>
+</span><span class="title" dir="ltr" title="Winnie The Pooh">Winnie The Pooh</span><span class="stat attribution">by <span class=" g-hovercard" data-name="" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg">DisneyMoviesOnDemand</span></span><span class="stat view-count"></span></a></li><li class="video-list-item related-list-item "><a class="related-movie spf-link yt-uix-sessionlink" data-sessionlink="ved=CAgQzRooBQ&amp;ei=YEXZVPe7CZDmqQWi8ILwCg&amp;feature=relmfu" href="/watch?v=aBBL8axydx0&amp;feature=relmfu"><span class="ux-thumb-wrap contains-addto movie-poster">
+<span class="video-thumb yt-thumb yt-thumb-77">
+<span class="yt-thumb-poster">
+<span class="yt-thumb-clip">
+<img alt="" data-thumb="https://i.ytimg.com/vi/aBBL8axydx0/movieposter.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="77">
+<span class="vertical-align"></span>
+</img></span>
+</span>
+</span>
+<span class="video-time">1:15:11</span> <span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="aBBL8axydx0" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="aBBL8axydx0" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="aBBL8axydx0" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="aBBL8axydx0" onclick=";return false;" title="TV Queue" type="button"></button>
+</span><span class="title" dir="ltr" title="Alice in Wonderland">Alice in Wonderland</span><span class="stat attribution">by <span class=" g-hovercard" data-name="" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg">DisneyMoviesOnDemand</span></span><span class="stat view-count"></span></a></li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="ved=CAkQzRooBg&amp;ei=YEXZVPe7CZDmqQWi8ILwCg&amp;feature=relmfu" href="/watch?v=kt4oPazlNlE" rel="spf-prefetch" title="Alice in Wonderland"> <span aria-describedby="description-id-883824" class="title" dir="ltr">
+    Alice in Wonderland
+  </span>
+<span class="accessible-description" id="description-id-883824">
+       - Duration: 1:47.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="relmfu" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCV3uIARCxZY6lWbeVVRZsKg">DisneyMoviesOnDemand</span>
+</span>
+</span>
+<span class="stat view-count">324,643 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="ved=CAkQzRooBg&amp;ei=YEXZVPe7CZDmqQWi8ILwCg&amp;feature=relmfu" href="/watch?v=kt4oPazlNlE" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="kt4oPazlNlE" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/kt4oPazlNlE/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:47
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="kt4oPazlNlE" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="kt4oPazlNlE" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="kt4oPazlNlE" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="kt4oPazlNlE" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li>
+</ul>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="watch7-hidden-extras">
+<div style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;">
+</div>
+</div>
+</div>
+</div></div></div></div> <div class="yt-base-gutter" id="footer-container"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/" title="YouTube home"><span class="footer-logo-icon yt-sprite"></span></a></div> <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+<li>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-button-toggle="true" data-picker-key="language" data-picker-position="footer" id="yt-picker-language-button" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-language yt-sprite"></span></span><span class="yt-uix-button-content"> <span class="yt-picker-button-label">
+Language:
+  </span>
+  English
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+</li>
+<li>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-button-toggle="true" data-picker-key="country" data-picker-position="footer" id="yt-picker-country-button" onclick=";return false;" type="button"><span class="yt-uix-button-content"> <span class="yt-picker-button-label">
+Country:
+  </span>
+  Worldwide
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+</li>
+<li>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-button-toggle="true" data-picker-key="safetymode" data-picker-position="footer" id="yt-picker-safetymode-button" onclick=";return false;" type="button"><span class="yt-uix-button-content"> <span class="yt-picker-button-label">
+Safety:
+  </span>
+Off
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+</li>
+</ul>
+<a class="yt-uix-button footer-history yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon" data-sessionlink="ei=YEXZVPe7CZDmqQWi8ILwCg" href="/feed/history"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-history yt-sprite"></span></span><span class="yt-uix-button-content">History </span></a> <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon yt-uix-button-reverse yt-google-help-link inq-no-click " data-ghelp-anchor="google-help" data-ghelp-tracking-param="" id="google-help" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-questionmark yt-sprite"></span></span><span class="yt-uix-button-content">Help
+ </span></button>
+<div class="yt-picker" id="yt-picker-language-footer" style="display: none">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+<div class="yt-picker" id="yt-picker-country-footer" style="display: none">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+<div class="yt-picker" id="yt-picker-safetymode-footer" style="display: none">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div><div id="footer-links"><ul id="footer-links-primary"> <li><a href="//www.youtube.com/yt/about/">About</a></li>
+<li><a href="//www.youtube.com/yt/press/">Press &amp; Blogs</a></li>
+<li><a href="//www.youtube.com/yt/copyright/">Copyright</a></li>
+<li><a href="//www.youtube.com/yt/creators/">Creators &amp; Partners</a></li>
+<li><a href="//www.youtube.com/yt/advertise/">Advertising</a></li>
+<li><a href="//www.youtube.com/yt/dev/">Developers</a></li>
+<li><a dir="ltr" href="https://plus.google.com/+youtube">+YouTube</a></li>
+</ul><ul id="footer-links-secondary"> <li><a href="/t/terms">Terms</a></li>
+<li><a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a></li>
+<li><a href="//www.youtube.com/yt/policyandsafety/">
+Policy &amp; Safety
+  </a></li>
+<li><a class="reportbug" href="//support.google.com/youtube/?hl=en" onclick="return yt.www.feedback.start(59);">Send feedback</a></li>
+<li><a href="/testtube">Try something new!</a></li>
+<li></li>
+</ul></div></div></div>
+<div id="a11y-announcements"></div>
+<div class="yt-dialog hid " id="feed-privacy-lb" role="dialog">
+<div class="yt-dialog-base">
+<span class="yt-dialog-align"></span>
+<div class="yt-dialog-fg">
+<div class="yt-dialog-fg-content">
+<div class="yt-dialog-loading">
+<div class="yt-dialog-waiting-content">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+<div class="yt-dialog-content">
+<div id="feed-privacy-dialog">
+</div>
+</div>
+<div class="yt-dialog-working">
+<div class="yt-dialog-working-overlay"></div>
+<div class="yt-dialog-working-bubble">
+<div class="yt-dialog-waiting-content">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+        Working...
+    </span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hid" id="hidden-component-template-wrapper"> <div class="hid" id="shared-addto-watch-later-login">
+<a class="sign-in-link" href="https://accounts.google.com/ServiceLogin?service=youtube&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252Fwatch%253Fv%253Dvc8gg_nrqKI%26hl%3Den%26feature%3Dplaylist%26app%3Ddesktop&amp;hl=en&amp;passive=true">Sign in</a> to add this to Watch Later
+
+    </div>
+<div class="yt-ui-menu-content" id="yt-uix-videoactionmenu-menu">
+<div class="hide-on-create-pl-panel">
+<h3>
+Add to
+    </h3>
+</div>
+<div class="add-to-widget">
+</div>
+</div>
+</div> 
+
+
+ 
+
+<!-- Smart JS Insertion --></body></html>

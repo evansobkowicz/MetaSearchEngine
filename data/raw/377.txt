@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Alice (Alice's Adventures in Wonderland) - Wikipedia, the free encyclopedia</title>
+<meta content="MediaWiki 1.25wmf15" name="generator"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)" rel="alternate"/>
+<link href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)" hreflang="x-default" rel="alternate"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="http://en.wikipedia.org/wiki/Alice_(Alice's_Adventures_in_Wonderland)" rel="canonical"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+
+
+
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Alice_Alice_s_Adventures_in_Wonderland skin-vector action-view vector-animateLayout">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><span dir="auto">Alice (Alice's Adventures in Wonderland)</span></h1>
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox" style="width:22em;border-spacing: 2px 5px;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #DEDEE2; color: #000;">Alice</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Alice_par_John_Tenniel_04.png"><img alt="Alice par John Tenniel 04.png" data-file-height="696" data-file-width="489" height="285" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Alice_par_John_Tenniel_04.png/200px-Alice_par_John_Tenniel_04.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Alice_par_John_Tenniel_04.png/300px-Alice_par_John_Tenniel_04.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Alice_par_John_Tenniel_04.png/400px-Alice_par_John_Tenniel_04.png 2x" width="200"/></a>
+<div>Alice in one of <a href="/wiki/John_Tenniel" title="John Tenniel">John Tenniel</a>'s illustrations for <i>Alice's Adventures in Wonderland</i></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">First appearance</th>
+<td><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a></i> (1865)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Last appearance</th>
+<td><i><a href="/wiki/Through_the_Looking-Glass" title="Through the Looking-Glass">Through the Looking-Glass</a></i> (1871)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Created by</th>
+<td>Lewis Carroll</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #DEDEE2; color: #000;">Information</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Gender</th>
+<td>Female</td>
+</tr>
+</table>
+<p><b>Alice</b> is a <a class="mw-redirect" href="/wiki/Fictional_character" title="Fictional character">fictional character</a>, the child <a href="/wiki/Protagonist" title="Protagonist">protagonist</a> of <a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a>'s children's novel <i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a></i> (1865) and its sequel, <i><a href="/wiki/Through_the_Looking-Glass" title="Through the Looking-Glass">Through the Looking-Glass</a></i> (1871). The character has her origins in stories told by Carroll to the young Liddell sisters, Edith, <a href="/wiki/Alice_Liddell" title="Alice Liddell">Alice</a> and Lorina, while rowing on <a href="/wiki/The_Isis" title="The Isis">the Isis</a> with his friend <a href="/wiki/Robinson_Duckworth" title="Robinson Duckworth">Robinson Duckworth</a>, and on subsequent rowing trips. Carroll wrote down the stories as <i>Alice's Adventures Under Ground</i>, which were later expanded into <i>Alice's Adventures in Wonderland</i>. While Alice takes her name from Alice Liddell's <a href="/wiki/Given_name" title="Given name">given name</a>, it is controversial among scholars as to whether or not Alice can be identified as Alice Liddell. Often assumed by scholars to be seven years old in the first novel, Alice is seven and a half in the sequel. In a retrospective article, Carroll characterized her as "loving and gentle," "courteous to all," "trustful," and "wildly curious".<sup class="reference" id="cite_ref-Annotated_Alice_1-0"><a href="#cite_note-Annotated_Alice-1"><span>[</span>1<span>]</span></a></sup></p>
+<p><a class="mw-redirect" href="/wiki/Political_cartoon" title="Political cartoon">Political cartoonist</a> <a href="/wiki/John_Tenniel" title="John Tenniel">John Tenniel</a> illustrated <i>Alice's Adventures in Wonderland</i> and <i>Through the Looking-Glass</i>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Development"><span class="tocnumber">1</span> <span class="toctext">Development</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Characterization"><span class="tocnumber">1.1</span> <span class="toctext">Characterization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Other_illustrators"><span class="tocnumber">3</span> <span class="toctext">Other illustrators</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Adaptations"><span class="tocnumber">4</span> <span class="toctext">Adaptations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Stage"><span class="tocnumber">4.1</span> <span class="toctext">Stage</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Film_and_television"><span class="tocnumber">4.2</span> <span class="toctext">Film and television</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Video_games"><span class="tocnumber">4.3</span> <span class="toctext">Video games</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Other"><span class="tocnumber">4.4</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Cultural_impact"><span class="tocnumber">5</span> <span class="toctext">Cultural impact</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Parodies_and_inspired_works"><span class="tocnumber">5.1</span> <span class="toctext">Parodies and inspired works</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Citations"><span class="tocnumber">7</span> <span class="toctext">Citations</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=1" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:AAUG_p06.png"><img alt="" class="thumbimage" data-file-height="1189" data-file-width="1068" height="245" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/AAUG_p06.png/220px-AAUG_p06.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/AAUG_p06.png/330px-AAUG_p06.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/AAUG_p06.png/440px-AAUG_p06.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:AAUG_p06.png" title="Enlarge"></a></div>
+One of Carroll's drawings of Alice from <i>Alice's Adventures Under Ground</i> (1864)</div>
+</div>
+</div>
+<p>Alice debuted in <a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a>'s first draft of <i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a></i>, <i>Alice's Adventures Under Ground</i> (1864).<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone199810_2-0"><a href="#cite_note-FOOTNOTEJonesGladstone199810-2"><span>[</span>2<span>]</span></a></sup> According to Carroll, <i>Under Ground</i> originated from stories told to the Liddell sisters during an afternoon<sup class="reference" id="cite_ref-_4-0"><a href="#cite_note--4"><span>[</span>nb 1<span>]</span></a></sup> on 4 July 1862<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone199810_2-1"><a href="#cite_note-FOOTNOTEJonesGladstone199810-2"><span>[</span>2<span>]</span></a></sup> while <a href="/wiki/Rowing" title="Rowing">rowing</a> on <a href="/wiki/The_Isis" title="The Isis">the Isis</a> with his friend <a href="/wiki/Robinson_Duckworth" title="Robinson Duckworth">Robinson Duckworth</a>, and on subsequent rowing trips.<sup class="reference" id="cite_ref-AAUG_5-0"><a href="#cite_note-AAUG-5"><span>[</span>4<span>]</span></a></sup> At the request of ten-year-old <a href="/wiki/Alice_Liddell" title="Alice Liddell">Alice Liddell</a>, Carroll wrote down the stories as <i>Alice's Adventures Under Ground</i>, which he completed in February 1864.<sup class="reference" id="cite_ref-AAUG_5-1"><a href="#cite_note-AAUG-5"><span>[</span>4<span>]</span></a></sup> <i>Under Ground</i> contains thirty-seven illustrations,<sup class="reference" id="cite_ref-AAUG_5-2"><a href="#cite_note-AAUG-5"><span>[</span>4<span>]</span></a></sup> and as his drawings of Alice bears little physical resemblance to Alice Liddell, whose <a href="/wiki/Given_name" title="Given name">given name</a> she shares, biographer Anne Clark has suggested that Alice's younger sister, Edith, might have been Carroll's model.<sup class="reference" id="cite_ref-FOOTNOTEClark1979131_6-0"><a href="#cite_note-FOOTNOTEClark1979131-6"><span>[</span>5<span>]</span></a></sup> Carroll portrays his protagonist as wearing a tunic, in contrast to the "fitted children's dresses with soft trim" that the Liddell sisters might have worn.<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone199874_7-0"><a href="#cite_note-FOOTNOTEJonesGladstone199874-7"><span>[</span>6<span>]</span></a></sup> According to Jeffery Stern, Carroll's illustrations drew influence from the <a class="mw-redirect" href="/wiki/Pre-Raphaelite" title="Pre-Raphaelite">Pre-Raphaelite</a> painters <a href="/wiki/Dante_Gabriel_Rossetti" title="Dante Gabriel Rossetti">Dante Gabriel Rossetti</a> and <a href="/wiki/Arthur_Hughes_(artist)" title="Arthur Hughes (artist)">Arthur Hughes</a>, whose painting <i>Girl with the Liliacs</i> (1863) he possessed and visually alluded to in one drawing in <i>Under Ground</i>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span>[</span>7<span>]</span></a></sup> Carroll gave the hand-written <i>Alice's Adventures Under Ground</i> to Alice Liddell in November 1864.<sup class="reference" id="cite_ref-FOOTNOTEWoolf2010168_9-0"><a href="#cite_note-FOOTNOTEWoolf2010168-9"><span>[</span>8<span>]</span></a></sup></p>
+<p><a href="/wiki/John_Tenniel" title="John Tenniel">John Tenniel</a> (1820-1914) illustrated <i>Alice Adventures in Wonderland</i> (1865) for a fee of <a href="/wiki/Pound_sterling" title="Pound sterling">£</a>138, which was roughly a fourth of what Carroll earned each year and which he paid for himself.<sup class="reference" id="cite_ref-FOOTNOTEWoolf2010269_10-0"><a href="#cite_note-FOOTNOTEWoolf2010269-10"><span>[</span>9<span>]</span></a></sup> Tenniel, who was forty-four years old at the time, was an already successful, well-known lead illustrator for the satirical magazine <i><a href="/wiki/Punch_(magazine)" title="Punch (magazine)">Punch</a></i>,<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone1998251_11-0"><a href="#cite_note-FOOTNOTEJonesGladstone1998251-11"><span>[</span>10<span>]</span></a></sup> when Carroll employed him as an illustrator in April 1864.<sup class="reference" id="cite_ref-FOOTNOTEWoolf2010169_12-0"><a href="#cite_note-FOOTNOTEWoolf2010169-12"><span>[</span>11<span>]</span></a></sup> In contrast, "Carroll was a total unknown".<sup class="reference" id="cite_ref-FOOTNOTEWoolf2010169_12-1"><a href="#cite_note-FOOTNOTEWoolf2010169-12"><span>[</span>11<span>]</span></a></sup> Tenniel took a drastic departure from Carroll's original illustrations,<sup class="reference" id="cite_ref-FOOTNOTEJanesGladstone199874_13-0"><a href="#cite_note-FOOTNOTEJanesGladstone199874-13"><span>[</span>12<span>]</span></a></sup> although Carroll carefully oversaw his work.<sup class="reference" id="cite_ref-FOOTNOTEWoolf2010169-70_14-0"><a href="#cite_note-FOOTNOTEWoolf2010169-70-14"><span>[</span>13<span>]</span></a></sup> Among Carroll's suggestions was that Alice should have long, light-colored hair.<sup class="reference" id="cite_ref-FOOTNOTEWoolf2010169-70_14-1"><a href="#cite_note-FOOTNOTEWoolf2010169-70-14"><span>[</span>13<span>]</span></a></sup> Tenniel's depiction of Alice has its origins in a physically similar character which appeared in at least eight cartoons in <i>Punch</i>, during a four-year period that began in 1860.<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone199875_15-0"><a href="#cite_note-FOOTNOTEJonesGladstone199875-15"><span>[</span>14<span>]</span></a></sup> In an 1860 cartoon, this character wore "the full skirt, pale stockings, flat shoes, and a hairband over her loose hair."<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone199875_15-1"><a href="#cite_note-FOOTNOTEJonesGladstone199875-15"><span>[</span>14<span>]</span></a></sup> The character served as "one of Tenniel's prototypical representations of a nice middle-class girl," according to scholar Will Brooker.<sup class="reference" id="cite_ref-FOOTNOTEBrooker2004112_16-0"><a href="#cite_note-FOOTNOTEBrooker2004112-16"><span>[</span>15<span>]</span></a></sup> Alice's clothes are typical of what a girl belonging to <a href="/wiki/Social_structure_of_the_United_Kingdom#Middle_class" title="Social structure of the United Kingdom">the middle class</a> in the mid-Victorian era might have worn at home.<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone199875_15-2"><a href="#cite_note-FOOTNOTEJonesGladstone199875-15"><span>[</span>14<span>]</span></a></sup> In <i><a href="/wiki/The_Nursery_%22Alice%22" title='The Nursery "Alice"'>The Nursery "Alice"</a></i> (1890), (Carroll's adaptation of <i>Alice's Adventures in Wonderland</i> for very young readers) Alice is blonde and her dress is yellow, with blue stockings; <i>The Nursery "Alice"</i> marked the first time that Tenniel's illustrations had been colored.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17"><span>[</span>16<span>]</span></a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:428px;max-width:428px">
+<div style="float:left;margin:1px;width:202px;max-width:202px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Alice_and_white_queen.jpg"><img alt="" data-file-height="1384" data-file-width="1000" height="277" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Alice_and_white_queen.jpg/200px-Alice_and_white_queen.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Alice_and_white_queen.jpg/300px-Alice_and_white_queen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Alice_and_white_queen.jpg/400px-Alice_and_white_queen.jpg 2x" width="200"/></a></div>
+</div>
+<div style="float:left;margin:1px;width:222px;max-width:222px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Servant.jpg"><img alt="" data-file-height="1238" data-file-width="984" height="277" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Servant.jpg/220px-Servant.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Servant.jpg/330px-Servant.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Servant.jpg/440px-Servant.jpg 2x" width="220"/></a></div>
+</div>
+<div style="clear:left"></div>
+<div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">Tenniel's illustrations for <i>Through the Looking-Glass</i> (1871): Alice and the White Queen (left) and Queen Alice and the Frog (right)</div>
+</div>
+</div>
+<p>Tenniel's fee for illustrating the sequel <i><a href="/wiki/Through_the_Looking-Glass" title="Through the Looking-Glass">Through the Looking-Glass</a></i> (1871) rose to £290, which Carroll again paid for out of his own pocket.<sup class="reference" id="cite_ref-FOOTNOTEWoolf2010269_10-1"><a href="#cite_note-FOOTNOTEWoolf2010269-10"><span>[</span>9<span>]</span></a></sup> Tenniel changed Alice's clothing slightly in the sequel, where she wears horizontal-striped stockings instead of plain ones and has a more ornate <a href="/wiki/Pinafore" title="Pinafore">pinafore</a> with a bow.<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone199875_15-3"><a href="#cite_note-FOOTNOTEJonesGladstone199875-15"><span>[</span>14<span>]</span></a></sup> The headband that she wears in Tenniel's illustrations is called an "<a href="/wiki/Alice_band" title="Alice band">Alice band</a>", after the character.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18"><span>[</span>17<span>]</span></a></sup> Her clothing as a queen and in the railway carriage is a " 'polonaise' dress" with a <a href="/wiki/Bustle" title="Bustle">bustle</a>, which would have been fashionable at the time.<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone199875_15-4"><a href="#cite_note-FOOTNOTEJonesGladstone199875-15"><span>[</span>14<span>]</span></a></sup> The clothing worn by the characters in "My First Sermon" (1863) by pre-Raphaelite painter <a class="mw-redirect" href="/wiki/John_Millais" title="John Millais">John Millais</a> and "The Travelling Companions" (1862) by Victorian painter <a class="mw-redirect" href="/wiki/Augustus_Leopold_Egg" title="Augustus Leopold Egg">Augustus Leopold Egg</a> have some elements in common with Alice's clothing in the railway carriage.<sup class="reference" id="cite_ref-FOOTNOTEBrooker2004113_19-0"><a href="#cite_note-FOOTNOTEBrooker2004113-19"><span>[</span>18<span>]</span></a></sup> Carroll felt that some of Tenniel's illustrations of Alice lacked proper proportions, with her "head decidedly too large and feet decidedly too small", as a result of Tenniel's refusal to use a model.<sup class="reference" id="cite_ref-FOOTNOTEClark1979135_20-0"><a href="#cite_note-FOOTNOTEClark1979135-20"><span>[</span>19<span>]</span></a></sup> According to Michael Hancher, the evidence is lacking for the hypothesis that either Mary Hilton Badcock or Kate Lemon served as the visual model for Tenniel's Alice.<sup class="reference" id="cite_ref-FOOTNOTESigler2014149.E2.80.9350_21-0"><a href="#cite_note-FOOTNOTESigler2014149.E2.80.9350-21"><span>[</span>20<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Characterization">Characterization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=2" title="Edit section: Characterization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Scholars debate whether or not that the character of Alice can be identified as Alice Liddell. Some biographies, such as <a href="/wiki/Morton_N._Cohen" title="Morton N. Cohen">Morton N. Cohen</a>'s <i><a href="/wiki/Lewis_Carroll:_A_Biography" title="Lewis Carroll: A Biography">Lewis Carroll: A Biography</a></i> (1995), identify the character as Liddell, writing that Liddell was Carroll's muse whom he had unrequited love for.<sup class="reference" id="cite_ref-FOOTNOTELeach1999161-3_22-0"><a href="#cite_note-FOOTNOTELeach1999161-3-22"><span>[</span>21<span>]</span></a></sup><sup class="reference" id="cite_ref-Liddell_and_Carroll_24-0"><a href="#cite_note-Liddell_and_Carroll-24"><span>[</span>nb 2<span>]</span></a></sup> Others, such as <a href="/wiki/Karoline_Leach" title="Karoline Leach">Karoline Leach</a>'s <i><a href="/wiki/In_the_Shadow_of_the_Dreamchild" title="In the Shadow of the Dreamchild">In the Shadow of the Dreamchild</a></i> (1999), suggest that Carroll considered his protagonist and Liddell to be separate entities and that he was never in love with Liddell.<sup class="reference" id="cite_ref-FOOTNOTELeach1999163-174_25-0"><a href="#cite_note-FOOTNOTELeach1999163-174-25"><span>[</span>23<span>]</span></a></sup><sup class="reference" id="cite_ref-FOOTNOTEWoolf2010171-5_26-0"><a href="#cite_note-FOOTNOTEWoolf2010171-5-26"><span>[</span>24<span>]</span></a></sup> According to Carroll, his character was not based on any real child, but was entirely fictional.<sup class="reference" id="cite_ref-FOOTNOTEWoolf2010175_27-0"><a href="#cite_note-FOOTNOTEWoolf2010175-27"><span>[</span>25<span>]</span></a></sup></p>
+<p>In <i>Alice' Adventures in Wonderland</i>, which takes place on 4 May (the birthday of Liddell)<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone19987_28-0"><a href="#cite_note-FOOTNOTEJonesGladstone19987-28"><span>[</span>26<span>]</span></a></sup> the character has been suggested to be seven years old by several scholars,<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone19987_28-1"><a href="#cite_note-FOOTNOTEJonesGladstone19987-28"><span>[</span>26<span>]</span></a></sup><sup class="reference" id="cite_ref-FOOTNOTEClark1979118_29-0"><a href="#cite_note-FOOTNOTEClark1979118-29"><span>[</span>27<span>]</span></a></sup> although Carroll does not give the year which the story takes place;<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone19987_28-2"><a href="#cite_note-FOOTNOTEJonesGladstone19987-28"><span>[</span>26<span>]</span></a></sup> Alice gives her age as seven and a half in the sequel, which takes place on 4 November.<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone19987_28-3"><a href="#cite_note-FOOTNOTEJonesGladstone19987-28"><span>[</span>26<span>]</span></a></sup> In the text of the two <i>Alice</i> books, Carroll often did not remark on the physical appearance of his protagonist, offering only "very few details".<sup class="reference" id="cite_ref-FOOTNOTEBrooker2004106_30-0"><a href="#cite_note-FOOTNOTEBrooker2004106-30"><span>[</span>28<span>]</span></a></sup> Details of her fictional life can be discovered from the text of the <i>Alice</i> books, such as that her governess teaches her lessons starting at nine in the morning.<sup class="reference" id="cite_ref-Triple_Alice_31-0"><a href="#cite_note-Triple_Alice-31"><span>[</span>29<span>]</span></a></sup> Richard Kelly writes that Alice's "educated speech, dress, and surroundings, all testify to her upper-class character".<sup class="reference" id="cite_ref-FOOTNOTEKelly201111_32-0"><a href="#cite_note-FOOTNOTEKelly201111-32"><span>[</span>30<span>]</span></a></sup></p>
+<p>When writing on her personality in "Alice on the Stage" (April 1887), Carroll described her as "loving and gentle," "courteous to <i>all</i>," "trustful," and "wildly curious, and with the eager enjoyment of Life that comes only in the happy hours of childhood, when all is new and fair, and when Sin and Sorrow are but names — empty words signifying nothing!"<sup class="reference" id="cite_ref-Annotated_Alice_1-1"><a href="#cite_note-Annotated_Alice-1"><span>[</span>1<span>]</span></a></sup> Commentators characterize her as "innocent",<sup class="reference" id="cite_ref-English_Journal_33-0"><a href="#cite_note-English_Journal-33"><span>[</span>31<span>]</span></a></sup> "imaginative,"<sup class="reference" id="cite_ref-Triple_Alice_31-1"><a href="#cite_note-Triple_Alice-31"><span>[</span>29<span>]</span></a></sup> introspective,<sup class="reference" id="cite_ref-Triple_Alice_31-2"><a href="#cite_note-Triple_Alice-31"><span>[</span>29<span>]</span></a></sup> and "witty and intelligent".<sup class="reference" id="cite_ref-English_Journal_33-1"><a href="#cite_note-English_Journal-33"><span>[</span>31<span>]</span></a></sup> Others see less positive traits in Alice, writing that she frequently shows "casual cruelty" in her conversations with the animals in Wonderland,<sup class="reference" id="cite_ref-34"><a href="#cite_note-34"><span>[</span>32<span>]</span></a></sup> takes violent action against the character <a href="/wiki/Bill_the_Lizard" title="Bill the Lizard">Bill the Lizard</a> by kicking him into the air,<sup class="reference" id="cite_ref-FOOTNOTECohen1995137_35-0"><a href="#cite_note-FOOTNOTECohen1995137-35"><span>[</span>33<span>]</span></a></sup> and reflects her social upbringing in her lack of sensitivity and her "rude" replies.<sup class="reference" id="cite_ref-FOOTNOTECohen1995137_35-1"><a href="#cite_note-FOOTNOTECohen1995137-35"><span>[</span>33<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=3" title="Edit section: Appearances">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main articles: <a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a> and <a class="mw-redirect" href="/wiki/Through_the_Looking_Glass" title="Through the Looking Glass">Through the Looking Glass</a></div>
+<p>Set in summer, <i>Alice's Adventures in Wonderland</i> opens with Alice on the riverbank with her elder sister. She falls down a rabbit hole into Wonderland after following the <a href="/wiki/White_Rabbit" title="White Rabbit">White Rabbit</a>. Meeting many characters and changing her size several times, she eventually finds herself at the trial of the <a href="/wiki/Knave_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Knave of Hearts (Alice's Adventures in Wonderland)">Knave of Hearts</a> as a witness. Ordered to leave by the <a href="/wiki/King_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="King of Hearts (Alice's Adventures in Wonderland)">King</a> and <a href="/wiki/Queen_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Queen of Hearts (Alice's Adventures in Wonderland)">Queen of Hearts</a>, Alice argues with them, eventually claiming that they are just a pack of cards. As they swarm her, Alice awakens on the riverbank and realizes that it was just a dream.</p>
+<p>Set during autumn, <i>Through the Looking Glass</i> begins with Alice indoors as she plays with the kittens of her pet cat, Dinah. Through a mirror, she travels to Looking-Glass Land, an alternate world where chess pieces are alive. Encountering various characters, she eventually becomes a queen, and attends a party celebrating her coronation, although it quickly grows chaotic. Grabbing and shaking the <a class="mw-redirect" href="/wiki/Red_Queen_(Through_the_Looking_Glass)" title="Red Queen (Through the Looking Glass)">Red Queen</a>, Alice awakens back indoors, holding one of the kittens. The novel concludes with Alice's speculation on whether or not it was her dream or the <a class="mw-redirect" href="/wiki/Red_King_(Through_the_Looking_Glass)" title="Red King (Through the Looking Glass)">Red King</a>'s.</p>
+<h2><span class="mw-headline" id="Other_illustrators">Other illustrators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=4" title="Edit section: Other illustrators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:453px;max-width:453px">
+<div style="float:left;margin:1px;width:232px;max-width:232px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Alice_in_Wonderland_by_Arthur_Rackham_-_05_-_Advice_from_a_Caterpillar.jpg"><img alt="" data-file-height="1408" data-file-width="964" height="336" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alice_in_Wonderland_by_Arthur_Rackham_-_05_-_Advice_from_a_Caterpillar.jpg/230px-Alice_in_Wonderland_by_Arthur_Rackham_-_05_-_Advice_from_a_Caterpillar.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alice_in_Wonderland_by_Arthur_Rackham_-_05_-_Advice_from_a_Caterpillar.jpg/345px-Alice_in_Wonderland_by_Arthur_Rackham_-_05_-_Advice_from_a_Caterpillar.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alice_in_Wonderland_by_Arthur_Rackham_-_05_-_Advice_from_a_Caterpillar.jpg/460px-Alice_in_Wonderland_by_Arthur_Rackham_-_05_-_Advice_from_a_Caterpillar.jpg 2x" width="230"/></a></div>
+<div class="thumbcaption" style="clear:left">One of Rackham's art-nouveau illustrations, in which Alice encounters the Caterpillar (1907)</div>
+</div>
+<div style="float:left;margin:1px;width:217px;max-width:217px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Peter_Newell_-_Through_the_looking_glass_and_what_Alice_found_there_1902_-_page_24.png"><img alt="" data-file-height="2356" data-file-width="1505" height="337" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Peter_Newell_-_Through_the_looking_glass_and_what_Alice_found_there_1902_-_page_24.png/215px-Peter_Newell_-_Through_the_looking_glass_and_what_Alice_found_there_1902_-_page_24.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Peter_Newell_-_Through_the_looking_glass_and_what_Alice_found_there_1902_-_page_24.png/323px-Peter_Newell_-_Through_the_looking_glass_and_what_Alice_found_there_1902_-_page_24.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Peter_Newell_-_Through_the_looking_glass_and_what_Alice_found_there_1902_-_page_24.png/430px-Peter_Newell_-_Through_the_looking_glass_and_what_Alice_found_there_1902_-_page_24.png 2x" width="215"/></a></div>
+<div class="thumbcaption" style="clear:left">Newell's monochrome illustration of Alice among the Looking-Glass flowers (1901)</div>
+</div>
+<div style="clear:left"></div>
+</div>
+</div>
+<p>The expiration of the copyright of <i>Alice's Adventures in Wonderland</i> in 1907 resulted in eight new printings, among them one illustrated by <a href="/wiki/Arthur_Rackham" title="Arthur Rackham">Arthur Rackham</a> (1867-1939).<sup class="reference" id="cite_ref-Rackham_36-0"><a href="#cite_note-Rackham-36"><span>[</span>34<span>]</span></a></sup> Modelling Alice after young Doris Dormett, Rackham used an <a href="/wiki/Art_Nouveau" title="Art Nouveau">art-nouveau</a> style, which sparked controversy among reviewers as to whether they were a better or worse interpretation of Carroll's work.<sup class="reference" id="cite_ref-Rackham_36-1"><a href="#cite_note-Rackham-36"><span>[</span>34<span>]</span></a></sup> Other notable illustrators include <a href="/wiki/Peter_Newell" title="Peter Newell">Peter Newell</a> (1901), who used <a href="/wiki/Monochrome" title="Monochrome">monochrome</a>; <a class="mw-redirect" href="/wiki/Mabel_Lucie_Atwell" title="Mabel Lucie Atwell">Mabel Lucie Atwell</a> (1910); <a href="/wiki/Harry_Furniss" title="Harry Furniss">Harry Furniss</a> (1926); and <a href="/wiki/Willy_Pogany" title="Willy Pogany">Willy Pogany</a> (1929), who featured an <a class="mw-redirect" href="/wiki/Art_deco" title="Art deco">art deco</a> style.<sup class="reference" id="cite_ref-FOOTNOTEBrooker2004107_37-0"><a href="#cite_note-FOOTNOTEBrooker2004107-37"><span>[</span>35<span>]</span></a></sup></p>
+<p>Notable illustrators from the 1930s onwards include Edgar Thurstan (1931), and his visual allusions to the <a href="/wiki/Wall_Street_Crash_of_1929" title="Wall Street Crash of 1929">Wall Street Crash of 1929</a>; D.R. Sexton (1933) and J. Morton Sale (1933), both of whom featured an older Alice; <a href="/wiki/Mervyn_Peake" title="Mervyn Peake">Mervyn Peake</a>; <a href="/wiki/Ralph_Steadman" title="Ralph Steadman">Ralph Steadman</a> (1967), for which he received the Francis Williams Memorial award in 1972; <a class="mw-redirect" href="/wiki/Salvador_Dali" title="Salvador Dali">Salvador Dali</a> (1969), who used <a href="/wiki/Surrealism" title="Surrealism">surrealism</a>;<sup class="reference" id="cite_ref-FOOTNOTEBrooker200478-9_38-0"><a href="#cite_note-FOOTNOTEBrooker200478-9-38"><span>[</span>36<span>]</span></a></sup> and <a href="/wiki/Peter_Blake_(artist)" title="Peter Blake (artist)">Peter Blake</a> with his watercolors (1970).<sup class="reference" id="cite_ref-FOOTNOTEBrooker2004108-110_39-0"><a href="#cite_note-FOOTNOTEBrooker2004108-110-39"><span>[</span>37<span>]</span></a></sup> By 1972, there were ninety illustrators of <i>Alice's Adventures in Wonderland</i> and twenty-one of <i>Through the Looking-Glass</i>.<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone1998126-130_40-0"><a href="#cite_note-FOOTNOTEJonesGladstone1998126-130-40"><span>[</span>38<span>]</span></a></sup> Among the notable illustrators of Alice in the 1980s, 1990s, and early 2000s are <a href="/wiki/Barry_Moser" title="Barry Moser">Barry Moser</a> (1982); <a class="mw-redirect" href="/wiki/Greg_Hildebrandt" title="Greg Hildebrandt">Greg Hildebrandt</a> (1990); David Frankland (1996); <a href="/wiki/Lisbeth_Zwerger" title="Lisbeth Zwerger">Lisbeth Zwerger</a> (1999), who used watercolors in her adaptation; <a href="/wiki/Helen_Oxenbury" title="Helen Oxenbury">Helen Oxenbury</a> (1999), who won two awards, the <a href="/wiki/Kurt_Maschler_Award" title="Kurt Maschler Award">Kurt Maschler Award</a> in 1999 and the <a href="/wiki/Kate_Greenaway_Medal" title="Kate Greenaway Medal">Kate Greenaway Medal</a> in 2000, for her work; and DeLoss McGraw (2001), who used an "abstract style".<sup class="reference" id="cite_ref-FOOTNOTEBrooker2004111_41-0"><a href="#cite_note-FOOTNOTEBrooker2004111-41"><span>[</span>39<span>]</span></a></sup><br style="clear:both;"/></p>
+<h2><span class="mw-headline" id="Adaptations">Adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=5" title="Edit section: Adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Portrayals_of_Alice_in_Wonderland" title="Portrayals of Alice in Wonderland">Portrayals of Alice in Wonderland</a></div>
+<h3><span class="mw-headline" id="Stage">Stage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=6" title="Edit section: Stage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The first public stage adaptation of <i>Alice's Adventures in Wonderland</i>, <i>Alice in Wonderland</i>, debuted at the Royal Polytechnic Institute in London, England, on 17 April 1876, and continued until 19 August.<sup class="reference" id="cite_ref-FOOTNOTELovett1990107_42-0"><a href="#cite_note-FOOTNOTELovett1990107-42"><span>[</span>40<span>]</span></a></sup> The <a href="/wiki/Musical_theatre" title="Musical theatre">musical</a> <i><a href="/wiki/Alice_in_Wonderland_(musical)" title="Alice in Wonderland (musical)">Alice in Wonderland, a Dream Play for Children, in two acts</a></i>, an adaptation of <i>Alice's Adventures in Wonderland</i> and <i>Through the Looking Glass</i>, appeared on 23 December 1886 at the <a href="/wiki/Prince_of_Wales_Theatre" title="Prince of Wales Theatre">Prince of Wales Theatre</a> in London, and continued until 18 March 1887, to good reviews;<sup class="reference" id="cite_ref-FOOTNOTEJonesGladstone1998242-3_43-0"><a href="#cite_note-FOOTNOTEJonesGladstone1998242-3-43"><span>[</span>41<span>]</span></a></sup><sup class="reference" id="cite_ref-FOOTNOTELovett1990107_42-1"><a href="#cite_note-FOOTNOTELovett1990107-42"><span>[</span>40<span>]</span></a></sup> it starred Phoebe Carlo as Alice.<sup class="reference" id="cite_ref-FOOTNOTELovett1990107_42-2"><a href="#cite_note-FOOTNOTELovett1990107-42"><span>[</span>40<span>]</span></a></sup> The musical was later <a href="/wiki/Revival_(theatre)" title="Revival (theatre)">revived</a> and performed at the <a href="/wiki/Globe_Theatre" title="Globe Theatre">Globe Theatre</a> from 26 December 1888 to 9 February 1889, with Carroll's friend, <a href="/wiki/Isa_Bowman" title="Isa Bowman">Isa Bowman</a>, as Alice.<sup class="reference" id="cite_ref-FOOTNOTELovett199097.2C_107_44-0"><a href="#cite_note-FOOTNOTELovett199097.2C_107-44"><span>[</span>42<span>]</span></a></sup> The musical was frequently revived during the "<a href="/wiki/Christmas" title="Christmas">Christmas</a> season," being produced eighteen times from 1898 to 1930.<sup class="reference" id="cite_ref-FOOTNOTELovett199099_45-0"><a href="#cite_note-FOOTNOTELovett199099-45"><span>[</span>43<span>]</span></a></sup> <i>Alice's Adventures in Wonderland</i> has since been adaptated for various forms of the stage, including "ballets, operas, experimental theatre, Broadway musicals, puppet plays, mime acts, and rock musicals."<sup class="reference" id="cite_ref-FOOTNOTELovett1990106_46-0"><a href="#cite_note-FOOTNOTELovett1990106-46"><span>[</span>44<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Film_and_television">Film and television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=7" title="Edit section: Film and television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Alice_in_wonderland_1951.jpg"><img alt="" class="thumbimage" data-file-height="1080" data-file-width="1424" height="190" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6d/Alice_in_wonderland_1951.jpg/250px-Alice_in_wonderland_1951.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6d/Alice_in_wonderland_1951.jpg/375px-Alice_in_wonderland_1951.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6d/Alice_in_wonderland_1951.jpg/500px-Alice_in_wonderland_1951.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Alice_in_wonderland_1951.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Walt_Disney" title="Walt Disney">Walt Disney</a>'s film adaptation (1951), which drew influence from Tenniel's earlier illustrations,<sup class="reference" id="cite_ref-FOOTNOTEBrooker2004105_47-0"><a href="#cite_note-FOOTNOTEBrooker2004105-47"><span>[</span>45<span>]</span></a></sup> proved to be influential in the popular image of Alice.<sup class="reference" id="cite_ref-FOOTNOTEKelly201146_48-0"><a href="#cite_note-FOOTNOTEKelly201146-48"><span>[</span>46<span>]</span></a></sup></div>
+</div>
+</div>
+<p>Directed and produced by <a href="/wiki/Cecil_Hepworth" title="Cecil Hepworth">Cecil Hepworth</a>, the <a href="/wiki/Alice_in_Wonderland_(1903_film)" title="Alice in Wonderland (1903 film)">first film adaptation of <i>Alice's Adventures in Wonderland</i></a> debuted in Great Britain in 1903 as a <a href="/wiki/Silent_film" title="Silent film">silent film</a> and in January 1904 in the United States.<sup class="reference" id="cite_ref-1st_film_49-0"><a href="#cite_note-1st_film-49"><span>[</span>47<span>]</span></a></sup> It starred <a href="/wiki/May_Clark" title="May Clark">May Clark</a> as Alice.<sup class="reference" id="cite_ref-1st_film_49-1"><a href="#cite_note-1st_film-49"><span>[</span>47<span>]</span></a></sup> Two more silent film adaptations of <i>Alice's Adventures in Wonderland</i> were produced: <a href="/wiki/Alice%27s_Adventures_in_Wonderland_(1910_film)" title="Alice's Adventures in Wonderland (1910 film)">one in 1910</a> starring <a href="/wiki/Gladys_Hulette" title="Gladys Hulette">Gladys Hulette</a>, and <a href="/wiki/Alice_in_Wonderland_(1915_film)" title="Alice in Wonderland (1915 film)">another in 1915</a> with Viola Savory as Alice.<sup class="reference" id="cite_ref-Alice_films_50-0"><a href="#cite_note-Alice_films-50"><span>[</span>48<span>]</span></a></sup> <a href="/wiki/Ruth_Gilbert_(actress)" title="Ruth Gilbert (actress)">Ruth Gilbert</a> starred as Alice in <a href="/wiki/Alice_in_Wonderland_(1931_film)" title="Alice in Wonderland (1931 film)">the first <i>Alice</i> film with sound</a> (1931), followed by <a href="/wiki/Charlotte_Henry" title="Charlotte Henry">Charlotte Henry</a> (<a href="/wiki/Alice_in_Wonderland_(1933_film)" title="Alice in Wonderland (1933 film)">1933</a>), and <a href="/wiki/Carol_Marsh" title="Carol Marsh">Carol Marsh</a> (<a href="/wiki/Alice_in_Wonderland_(1949_film)" title="Alice in Wonderland (1949 film)">1948</a>), and <a href="/wiki/Kathryn_Beaumont" title="Kathryn Beaumont">Kathryn Beaumont</a> <a href="/wiki/Voice_acting" title="Voice acting">voiced</a> her in the <a href="/wiki/Alice_in_Wonderland_(1951_film)" title="Alice in Wonderland (1951 film)">Walt Disney's film</a> (1951).<sup class="reference" id="cite_ref-Alice_films_50-1"><a href="#cite_note-Alice_films-50"><span>[</span>48<span>]</span></a></sup> Alice has also been portrayed by <a href="/wiki/Fiona_Fullerton" title="Fiona Fullerton">Fiona Fullerton</a> (<a href="/wiki/Alice%27s_Adventures_in_Wonderland_(1972_film)" title="Alice's Adventures in Wonderland (1972 film)">1972</a>), <a href="/wiki/Amelia_Shankley" title="Amelia Shankley">Amelia Shankley</a> and <a href="/wiki/Coral_Browne" title="Coral Browne">Coral Browne</a> (<a href="/wiki/Dreamchild" title="Dreamchild">1985</a>),<sup class="reference" id="cite_ref-Alice_films_50-2"><a href="#cite_note-Alice_films-50"><span>[</span>48<span>]</span></a></sup> Kristyna Kohoutova (<a href="/wiki/Alice_(1988_film)" title="Alice (1988 film)">1988</a>),<sup class="reference" id="cite_ref-FOOTNOTEBrooker2004215_51-0"><a href="#cite_note-FOOTNOTEBrooker2004215-51"><span>[</span>49<span>]</span></a></sup> and <a href="/wiki/Mia_Wasikowska" title="Mia Wasikowska">Mia Wasikowska</a>, who notably played Alice as a teenager as opposed to a child (<a href="/wiki/Alice_in_Wonderland_(2010_film)" title="Alice in Wonderland (2010 film)">2010</a>).<sup class="reference" id="cite_ref-telegraph100215_52-0"><a href="#cite_note-telegraph100215-52"><span>[</span>50<span>]</span></a></sup> Actors who portrayed or voiced Alice in <a href="/wiki/Television_film" title="Television film">television-film</a> adaptations include <a href="/wiki/Janet_Waldo" title="Janet Waldo">Janet Waldo</a> (<a href="/wiki/The_New_Alice_in_Wonderland_(film)" title="The New Alice in Wonderland (film)">1966</a>), <a class="mw-redirect" href="/wiki/Anne-Marie_Malik" title="Anne-Marie Malik">Anne-Marie Malik</a> (<a href="/wiki/Alice_in_Wonderland_(1966_TV_play)" title="Alice in Wonderland (1966 TV play)">1966</a>), <a href="/wiki/Natalie_Gregory" title="Natalie Gregory">Natalie Gregory</a> (<a href="/wiki/Alice_in_Wonderland_(1985_film)" title="Alice in Wonderland (1985 film)">1985</a>), and <a href="/wiki/Tina_Majorino" title="Tina Majorino">Tina Majorino</a> (<a href="/wiki/Alice_in_Wonderland_(1999_film)" title="Alice in Wonderland (1999 film)">1999</a>).<sup class="reference" id="cite_ref-Alice_films_50-3"><a href="#cite_note-Alice_films-50"><span>[</span>48<span>]</span></a></sup></p>
+<p>Alice has appeared in television series, such as <i><a href="/wiki/Once_Upon_a_Time_in_Wonderland" title="Once Upon a Time in Wonderland">Once Upon a Time in Wonderland</a></i> (2013–14), as portrayed by <a href="/wiki/Sophie_Lowe" title="Sophie Lowe">Sophie Lowe</a>.<sup class="reference" id="cite_ref-53"><a href="#cite_note-53"><span>[</span>51<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Video_games">Video games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=8" title="Edit section: Video games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Alice has also appeared in video games. In <i><a href="/wiki/American_McGee%27s_Alice" title="American McGee's Alice">American McGee's Alice</a></i> (2000), Alice appears as the protagonist and <a href="/wiki/Player_character" title="Player character">player character</a>, a <a href="/wiki/Psychological_trauma" title="Psychological trauma">psychologically traumatized</a> young woman who returns to a corrupted Wonderland after being sent to an insane asylum,<sup class="reference" id="cite_ref-54"><a href="#cite_note-54"><span>[</span>52<span>]</span></a></sup> while in its sequel, <i><a href="/wiki/Alice:_Madness_Returns" title="Alice: Madness Returns">Alice: Madness Returns</a></i> (2011), Alice, still traumatized by the loss of her family, seeks the truth behind their deaths in Wonderland and London.<sup class="reference" id="cite_ref-55"><a href="#cite_note-55"><span>[</span>53<span>]</span></a></sup></p>
+<p>The Walt Disney version of Alice is present in the <a href="/wiki/Kingdom_Hearts_(video_game)" title="Kingdom Hearts (video game)">first installment</a> of the <i><a href="/wiki/Kingdom_Hearts" title="Kingdom Hearts">Kingdom Hearts</a></i> series, as a <a href="/wiki/Non-player_character" title="Non-player character">non-player character</a>.<sup class="reference" id="cite_ref-56"><a href="#cite_note-56"><span>[</span>54<span>]</span></a></sup> In the 2003 video game, she is the protagonist of <i><a href="/wiki/Alice_in_the_Country_of_Hearts" title="Alice in the Country of Hearts">Alice in the Country of Hearts</a></i>, a <a class="mw-redirect" href="/wiki/Reimagining" title="Reimagining">reimagining</a> of <i>Alice's Adventures in Wonderland</i>.<sup class="reference" id="cite_ref-57"><a href="#cite_note-57"><span>[</span>55<span>]</span></a></sup></p>
+<p>In the <i><a href="/wiki/Shin_Megami_Tensei" title="Shin Megami Tensei">Shin Megami Tensei</a></i> series of games, Alice is one of the most iconic demons.<sup class="reference" id="cite_ref-58"><a href="#cite_note-58"><span>[</span>56<span>]</span></a></sup> She appears as a young blonde girl with incredible dark magic powers, with strong allusions to the Alice in <i>Alice's Adventures in Wonderland</i>. She is most famous for the line, which is said directly to the player: "Will you die for me, please?".</p>
+<h3><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=9" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The character of Alice has appeared in other literature, besides Carroll's novels. The premise of the <a href="/wiki/Young-adult_fiction" title="Young-adult fiction">young-adult fiction</a> <i><a href="/wiki/The_Looking_Glass_Wars" title="The Looking Glass Wars">The Looking Glass Wars</a></i> series is that its warrior-princess protagonist and rightful heir to the throne of Wonderland, Alyss Heart, fled to Victorian England from Wonderland, where she met Lewis Carroll and told him her story, which he turn into a nonsensical fairy tale.<sup class="reference" id="cite_ref-59"><a href="#cite_note-59"><span>[</span>57<span>]</span></a></sup> In <a href="/wiki/Alan_Moore" title="Alan Moore">Alan Moore</a> and <a href="/wiki/Melinda_Gebbie" title="Melinda Gebbie">Melinda Gebbie</a>'s pornographic graphic novel <i><a href="/wiki/Lost_Girls" title="Lost Girls">Lost Girls</a></i> (1991), she appears as Alice Fairchild, a central character.<sup class="reference" id="cite_ref-FOOTNOTEBrooker2004156-8_60-0"><a href="#cite_note-FOOTNOTEBrooker2004156-8-60"><span>[</span>58<span>]</span></a></sup> <a href="/wiki/Manga" title="Manga">Manga</a> (Japanese comics) adaptions or reimaginings of the <i>Alice</i> books include <i><a href="/wiki/Miyuki-chan_in_Wonderland" title="Miyuki-chan in Wonderland">Miyuki-chan in Wonderland</a></i><sup class="reference" id="cite_ref-61"><a href="#cite_note-61"><span>[</span>59<span>]</span></a></sup> and <i>Key Princess Story: Eternal Alice Rondo</i>.<sup class="reference" id="cite_ref-62"><a href="#cite_note-62"><span>[</span>60<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Cultural_impact">Cultural impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=10" title="Edit section: Cultural impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quotebox" style="float: right; clear: right; margin: 0.5em 0 0.8em 1.4em; width:37%; padding: 6px; border: 1px solid #aaa; font-size: 88%; background-color: #F9F9F9;">
+<div class="" style="position: relative; text-align: left;">
+<div>
+<p>"In all her different and associated forms—underground and through the looking glass, textual and visual, drawn and photographed, as Carroll's brunette or Tenniel's blonde or Disney's prim miss, as the real Alice Liddell [...] in novel, poem, satire, play, film, cartoon, newspaper, magazine, album cover or song—Alice is the ultimate cultural icon, available for any and every form of manipulation, and as ubiquitous today as in the era of her first appearance."<sup class="reference" id="cite_ref-Men_in_Wonderland_63-0"><a href="#cite_note-Men_in_Wonderland-63"><span>[</span>61<span>]</span></a></sup></p>
+</div>
+</div>
+<div style="text-align: left;">—Catherine Robson, <i>Men in Wonderland</i></div>
+</div>
+<p>Alice has been described as a <a href="/wiki/Cultural_icon" title="Cultural icon">cultural icon</a>.<sup class="reference" id="cite_ref-FOOTNOTESigler2014xxi_64-0"><a href="#cite_note-FOOTNOTESigler2014xxi-64"><span>[</span>62<span>]</span></a></sup><sup class="reference" id="cite_ref-FOOTNOTEBrooker2004xiv_65-0"><a href="#cite_note-FOOTNOTEBrooker2004xiv-65"><span>[</span>63<span>]</span></a></sup><sup class="reference" id="cite_ref-Men_in_Wonderland_63-1"><a href="#cite_note-Men_in_Wonderland-63"><span>[</span>61<span>]</span></a></sup> <i>Alice's Adventures in Wonderland</i> and <i>Through the Looking-Glass</i> were critically and commercially successful in Carroll's lifetime;<sup class="reference" id="cite_ref-FOOTNOTECohen1995133-34_66-0"><a href="#cite_note-FOOTNOTECohen1995133-34-66"><span>[</span>64<span>]</span></a></sup> more than 150,000 copies of <i>Alice's Adventures in Wonderland</i> and 100,000 copies of <i>Through the Looking-Glass</i> had been printed by 1898.<sup class="reference" id="cite_ref-FOOTNOTECohen1995134_67-0"><a href="#cite_note-FOOTNOTECohen1995134-67"><span>[</span>65<span>]</span></a></sup> Since then, the <i>Alice</i> books have continued to remained in print and "have been translated into more than seventy languages".<sup class="reference" id="cite_ref-FOOTNOTECohen1995134-5_68-0"><a href="#cite_note-FOOTNOTECohen1995134-5-68"><span>[</span>66<span>]</span></a></sup> As Sigler writes, "Carroll's independent, unconventionally inquisitive, and often bad-tempered protagonist has become iconic, as have John Tenniel's images of her, and a vast and profitable 'Alice industry' has continued to produce countless spinoffs and sequels, comic books and manga, cartoons and animé, stage and film productions, board and video games as well as a vast array of collectibles".<sup class="reference" id="cite_ref-FOOTNOTESigler2014xxi_64-1"><a href="#cite_note-FOOTNOTESigler2014xxi-64"><span>[</span>62<span>]</span></a></sup></p>
+<p>Alice's continuing appeal has been discussed by critics. Biographer <a href="/wiki/Morton_N._Cohen" title="Morton N. Cohen">Morton N. Cohen</a> suggested that an underlying subject of the <i>Alice</i> books is maturity; he writes that children can identify with Alice, and as she becomes more self-confident through her encounters with "a hostile, unpredictable environment," she gains "advancement, recognition, [and] acceptance" and the books ultimately reassure the child that he or she can mature into an adult.<sup class="reference" id="cite_ref-FOOTNOTECohen1995135-40_69-0"><a href="#cite_note-FOOTNOTECohen1995135-40-69"><span>[</span>67<span>]</span></a></sup> According to literary critic Valerie Krips, Alice is familiar and unchanging for adult readers, as well as a reminder of the bygone Victorian era and a lost childhood, during which they discovered the <i>Alice</i> books, which their parents enjoyed.<sup class="reference" id="cite_ref-FOOTNOTEKrips20048_70-0"><a href="#cite_note-FOOTNOTEKrips20048-70"><span>[</span>68<span>]</span></a></sup></p>
+<p>Some critics have highlighted Alice's character as unusual or a departure from the typical mid-nineteenth-century child protagonists. According to Krips, "Alice is a seditious character when compared to the children who precede her in books written for children. She cries, displays temper, is forthright, finds things and people tiresome—and says so—yet she always remembers her manners and speaks tenderly of her cat, Dinah."<sup class="reference" id="cite_ref-FOOTNOTEKrips20047_71-0"><a href="#cite_note-FOOTNOTEKrips20047-71"><span>[</span>69<span>]</span></a></sup> Alison Lurie wrote that Alice, excluding her manners, defies mid-Victorian conventions of the ideal young girl: "she is not gentle, timid, and docile, but brave, active, and impatient; she is highly critical of her surroundings and the adults she meets."<sup class="reference" id="cite_ref-72"><a href="#cite_note-72"><span>[</span>70<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Parodies_and_inspired_works">Parodies and inspired works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=11" title="Edit section: Parodies and inspired works">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:212px;"><a class="image" href="/wiki/File:Clara-in-blunderland-cover-1902.png"><img alt="" class="thumbimage" data-file-height="2171" data-file-width="1479" height="308" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d5/Clara-in-blunderland-cover-1902.png/210px-Clara-in-blunderland-cover-1902.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/d5/Clara-in-blunderland-cover-1902.png/315px-Clara-in-blunderland-cover-1902.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/d5/Clara-in-blunderland-cover-1902.png/420px-Clara-in-blunderland-cover-1902.png 2x" width="210"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Clara-in-blunderland-cover-1902.png" title="Enlarge"></a></div>
+The cover of <i>Clara in Blunderland</i> (1902), a parody of <i>Alice in Wonderland</i></div>
+</div>
+</div>
+<p>During the half century after the publication of <i>Alice's Adventures in Wonderland</i>, "almost two hundred literary imitations, revisions, and parodies" appeared.<sup class="reference" id="cite_ref-FOOTNOTESigler1997xii-xxi_73-0"><a href="#cite_note-FOOTNOTESigler1997xii-xxi-73"><span>[</span>71<span>]</span></a></sup> They featured one or more protagonists with characteristics similar to Alice's ("typically polite, articulate, and assertive"),<sup class="reference" id="cite_ref-FOOTNOTESigler1997xvii_74-0"><a href="#cite_note-FOOTNOTESigler1997xvii-74"><span>[</span>72<span>]</span></a></sup> regardless of gender.<sup class="reference" id="cite_ref-FOOTNOTESigler1997xvii_74-1"><a href="#cite_note-FOOTNOTESigler1997xvii-74"><span>[</span>72<span>]</span></a></sup> Notable revisions which explore the Victorian ideas on gender and childhood and feature protagonists "who demonstrate power over their fantasy adventures" include <i>Mopsa the Fairy</i> (1869) by <a href="/wiki/Jean_Ingelow" title="Jean Ingelow">Jean Ingelow</a>, <i>Speaking Likeness</i> (1874) by <a href="/wiki/Christina_Rossetti" title="Christina Rossetti">Christina Rossetti</a>, <i>Wanted—A King; or How Merle Set the Nursery Rhymes to Right</i> (1890) by <a href="/wiki/Maggie_Brown" title="Maggie Brown">Maggie Brown</a>, and <i>A New Alice in an Old Wonderland</i> (1895) by Anna M. Richards.<sup class="reference" id="cite_ref-FOOTNOTESigler1997vii.2C_xviii-xix_75-0"><a href="#cite_note-FOOTNOTESigler1997vii.2C_xviii-xix-75"><span>[</span>73<span>]</span></a></sup> Imitations inspired by <i>Alice's Adventures in Wonderland</i> and part of Carroll's collection of books similar to his <i>Alice</i> ones include <i>From Nowhere to the North Pole</i> (1874) by <a href="/wiki/Tom_Hood" title="Tom Hood">Tom Hood</a> and <i>Mabel in Rhymeland; or, Little Mabel's Journey to Norwich, and Her Wonderful Adventures with the Man in the Moon and other Heroes and Heroines of Nursery Rhyme</i> (1885) by Edward Holland.<sup class="reference" id="cite_ref-FOOTNOTEBrooker200477_76-0"><a href="#cite_note-FOOTNOTEBrooker200477-76"><span>[</span>74<span>]</span></a></sup><sup class="reference" id="cite_ref-FOOTNOTESigler1997389_77-0"><a href="#cite_note-FOOTNOTESigler1997389-77"><span>[</span>75<span>]</span></a></sup> Among the recreations that use <a href="/wiki/Sentimentality" title="Sentimentality">sentimentality</a> are <i><a href="/wiki/Davy_and_the_Goblin" title="Davy and the Goblin">Davy and the Goblin</a></i> (1885) by <a href="/wiki/Charles_E._Carryl" title="Charles E. Carryl">Charles E. Carryl</a> and <i>New Adventures of "Alice"</i> (1917) by John Rae,<sup class="reference" id="cite_ref-FOOTNOTESigler1997vii_78-0"><a href="#cite_note-FOOTNOTESigler1997vii-78"><span>[</span>76<span>]</span></a></sup> while the parodies, which were for adult readers, include <i><a href="/wiki/The_Westminster_Alice" title="The Westminster Alice">The Westminster Alice</a></i> (1900–02) by <a href="/wiki/Saki" title="Saki">Saki</a>, <i><a href="/wiki/Clara_in_Blunderland" title="Clara in Blunderland">Clara in Blunderland</a></i> (1902) by Caroline Lewis, and <i>Alice in the Delighted States</i> (1928) by Edward Hope.<sup class="reference" id="cite_ref-FOOTNOTESigler1997vii_78-1"><a href="#cite_note-FOOTNOTESigler1997vii-78"><span>[</span>76<span>]</span></a></sup></p>
+<p>After the early 1930s, when the <i>Alice</i> books were considered to be serious, literary works for adults by <a href="/wiki/Modernism" title="Modernism">modernists</a>, fewer parodies and inspired works appeared.<sup class="reference" id="cite_ref-FOOTNOTESigler1997xiii.2C_xvi_79-0"><a href="#cite_note-FOOTNOTESigler1997xiii.2C_xvi-79"><span>[</span>77<span>]</span></a></sup> According to scholar Carolyn Sigler, subsequent works inspired by the <i>Alice</i> books tended to be for adult readers, which "refer[...] minimally or obliquely to the <i>Alice</i> books"; examples include <i>Dreamhouse</i> (1995) by Alison Habens, <i>Alice in Thunderland</i> (1993) by <a href="/wiki/Maeve_Kelly" title="Maeve Kelly">Maeve Kelly</a>, and <i>Alice in Bed</i> (1993) by <a href="/wiki/Susan_Sontag" title="Susan Sontag">Susan Sontag</a>.<sup class="reference" id="cite_ref-FOOTNOTESigler1997xvi-xvii_80-0"><a href="#cite_note-FOOTNOTESigler1997xvi-xvii-80"><span>[</span>78<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=12" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note--4"><span class="mw-cite-backlink"><b><a href="#cite_ref-_4-0">^</a></b></span> <span class="reference-text">Although Alice Liddell and Carroll both recall that the day of 4 July was hot, cloudless, and sunny, the weather report suggests that it had been cloudy with a high of 68 °F (20 °C)<sup class="reference" id="cite_ref-FOOTNOTEWoolf2010158_3-0"><a href="#cite_note-FOOTNOTEWoolf2010158-3"><span>[</span>3<span>]</span></a></sup></span></li>
+<li id="cite_note-Liddell_and_Carroll-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Liddell_and_Carroll_24-0">^</a></b></span> <span class="reference-text">The hypothesis that Carroll was in love with young Alice Liddell originated from speculation in Florence Lennon Becker's biography, <i>Victoria Through the Looking-Glass</i> (1945). It has since been repeated in subsequent biographies of Carroll, although it has been challenged as one of the "conventionalized biographical 'myths'" surrounding Carroll and Liddell.<sup class="reference" id="cite_ref-FOOTNOTESigler201414_23-0"><a href="#cite_note-FOOTNOTESigler201414-23"><span>[</span>22<span>]</span></a></sup></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=13" title="Edit section: Citations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Annotated_Alice-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Annotated_Alice_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Annotated_Alice_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Martin_Gardner" title="Martin Gardner">Gardner, Martin</a>; Lewis Carroll (1998). <i><a href="/wiki/The_Annotated_Alice" title="The Annotated Alice">The Annotated Alice</a></i>. <a href="/wiki/Random_House" title="Random House">Random House</a>. pp. 25–6. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-517-18920-7" title="Special:BookSources/978-0-517-18920-7">978-0-517-18920-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.aufirst=Martin&amp;rft.au=Gardner%2C+Martin&amp;rft.aulast=Gardner&amp;rft.au=Lewis+Carroll&amp;rft.btitle=The+Annotated+Alice&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=978-0-517-18920-7&amp;rft.pages=25-6&amp;rft.pub=Random+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEJonesGladstone199810-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEJonesGladstone199810_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJonesGladstone199810_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFJonesGladstone1998">Jones &amp; Gladstone 1998</a>, p. 10.</span></li>
+<li id="cite_note-FOOTNOTEWoolf2010158-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEWoolf2010158_3-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFWoolf2010">Woolf 2010</a>, p. 158.</span></li>
+<li id="cite_note-AAUG-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-AAUG_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AAUG_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AAUG_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Carroll, Lewis; <a href="/wiki/Martin_Gardner" title="Martin Gardner">Gardner, Martin</a>. "Introduction". <i>Alice's Adventures Under Ground</i>. New York: <a class="mw-redirect" href="/wiki/McGraw-Hill" title="McGraw-Hill">McGraw-Hill</a>. pp. v–xi.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Introduction&amp;rft.au=Carroll%2C+Lewis&amp;rft.au=Gardner%2C+Martin&amp;rft.aulast=Carroll%2C+Lewis&amp;rft.btitle=Alice%27s+Adventures+Under+Ground&amp;rft.genre=bookitem&amp;rft.pages=v-xi&amp;rft.place=New+York&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEClark1979131-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEClark1979131_6-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFClark1979">Clark 1979</a>, p. 131.</span></li>
+<li id="cite_note-FOOTNOTEJonesGladstone199874-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEJonesGladstone199874_7-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFJonesGladstone1998">Jones &amp; Gladstone 1998</a>, p. 74.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation book">Stern, Jeffery (1976). "Lewis Carroll the Pre-Raphaelite: 'Fainting in Coils<span style="padding-right:0.2em;">'</span>". In Guilano, Edward. <i>Lewis Carroll Observed</i>. New York: Clarkson N. Potter, Inc. pp. 168–175. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-517-52497-X" title="Special:BookSources/0-517-52497-X">0-517-52497-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Lewis+Carroll+the+Pre-Raphaelite%3A+%27Fainting+in+Coils%27&amp;rft.aulast=Stern%2C+Jeffery&amp;rft.au=Stern%2C+Jeffery&amp;rft.btitle=Lewis+Carroll+Observed&amp;rft.date=1976&amp;rft.genre=bookitem&amp;rft.isbn=0-517-52497-X&amp;rft.pages=168-175&amp;rft.place=New+York&amp;rft.pub=Clarkson+N.+Potter%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEWoolf2010168-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEWoolf2010168_9-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFWoolf2010">Woolf 2010</a>, p. 168.</span></li>
+<li id="cite_note-FOOTNOTEWoolf2010269-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEWoolf2010269_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWoolf2010269_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWoolf2010">Woolf 2010</a>, p. 269.</span></li>
+<li id="cite_note-FOOTNOTEJonesGladstone1998251-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEJonesGladstone1998251_11-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFJonesGladstone1998">Jones &amp; Gladstone 1998</a>, p. 251.</span></li>
+<li id="cite_note-FOOTNOTEWoolf2010169-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEWoolf2010169_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWoolf2010169_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWoolf2010">Woolf 2010</a>, p. 169.</span></li>
+<li id="cite_note-FOOTNOTEJanesGladstone199874-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEJanesGladstone199874_13-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFJanesGladstone1998">Janes &amp; Gladstone 1998</a>, p. 74.</span></li>
+<li id="cite_note-FOOTNOTEWoolf2010169-70-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEWoolf2010169-70_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWoolf2010169-70_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWoolf2010">Woolf 2010</a>, pp. 169-70.</span></li>
+<li id="cite_note-FOOTNOTEJonesGladstone199875-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEJonesGladstone199875_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJonesGladstone199875_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJonesGladstone199875_15-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJonesGladstone199875_15-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJonesGladstone199875_15-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFJonesGladstone1998">Jones &amp; Gladstone 1998</a>, p. 75.</span></li>
+<li id="cite_note-FOOTNOTEBrooker2004112-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker2004112_16-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, p. 112.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation book">Carroll, Lewis (1966). <a href="/wiki/Martin_Gardner" title="Martin Gardner">Gardner, Martin</a>, ed. <i>The Nursery 'Alice'</i>. New York: <a class="mw-redirect" href="/wiki/McGraw-Hill" title="McGraw-Hill">McGraw-Hill</a>. pp. ix–x, 4.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.au=Carroll%2C+Lewis&amp;rft.aulast=Carroll%2C+Lewis&amp;rft.btitle=The+Nursery+%27Alice%27&amp;rft.date=1966&amp;rft.genre=book&amp;rft.pages=ix-x%2C+4&amp;rft.place=New+York&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation book">Delahunty, Andrew; Sheila Dignen (2012). <i>Oxford Dictionary of Reference and Allusion</i>. Oxford, United Kingdom: <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. p. 11.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.au=Delahunty%2C+Andrew&amp;rft.aulast=Delahunty%2C+Andrew&amp;rft.au=Sheila+Dignen&amp;rft.btitle=Oxford+Dictionary+of+Reference+and+Allusion&amp;rft.date=2012&amp;rft.genre=book&amp;rft.pages=11&amp;rft.place=Oxford%2C+United+Kingdom&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEBrooker2004113-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker2004113_19-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, p. 113.</span></li>
+<li id="cite_note-FOOTNOTEClark1979135-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEClark1979135_20-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFClark1979">Clark 1979</a>, p. 135.</span></li>
+<li id="cite_note-FOOTNOTESigler2014149.E2.80.9350-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESigler2014149.E2.80.9350_21-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSigler2014">Sigler 2014</a>, pp. 149–50.</span></li>
+<li id="cite_note-FOOTNOTELeach1999161-3-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTELeach1999161-3_22-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFLeach1999">Leach 1999</a>, pp. 161-3.</span></li>
+<li id="cite_note-FOOTNOTESigler201414-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESigler201414_23-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSigler2014">Sigler 2014</a>, p. 14.</span></li>
+<li id="cite_note-FOOTNOTELeach1999163-174-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTELeach1999163-174_25-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFLeach1999">Leach 1999</a>, p. 163-174.</span></li>
+<li id="cite_note-FOOTNOTEWoolf2010171-5-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEWoolf2010171-5_26-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFWoolf2010">Woolf 2010</a>, p. 171-5.</span></li>
+<li id="cite_note-FOOTNOTEWoolf2010175-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEWoolf2010175_27-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFWoolf2010">Woolf 2010</a>, p. 175.</span></li>
+<li id="cite_note-FOOTNOTEJonesGladstone19987-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEJonesGladstone19987_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJonesGladstone19987_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJonesGladstone19987_28-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEJonesGladstone19987_28-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFJonesGladstone1998">Jones &amp; Gladstone 1998</a>, p. 7.</span></li>
+<li id="cite_note-FOOTNOTEClark1979118-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEClark1979118_29-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFClark1979">Clark 1979</a>, p. 118.</span></li>
+<li id="cite_note-FOOTNOTEBrooker2004106-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker2004106_30-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, p. 106.</span></li>
+<li id="cite_note-Triple_Alice-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-Triple_Alice_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Triple_Alice_31-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Triple_Alice_31-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Hubbell, George Shelton (April–June 1940). "Triple Alice". <i><a href="/wiki/The_Sewanee_Review" title="The Sewanee Review">The Sewanee Review</a></i> (<a href="/wiki/Johns_Hopkins_University_Press" title="Johns Hopkins University Press">Johns Hopkins University Press</a>) <b>48</b> (2): 184–5. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/27535641" rel="nofollow">27535641</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Triple+Alice&amp;rft.au=Hubbell%2C+George+Shelton&amp;rft.aulast=Hubbell%2C+George+Shelton&amp;rft.date=April-June+1940&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jstor=27535641&amp;rft.jtitle=The+Sewanee+Review&amp;rft.pages=184-5&amp;rft.pub=Johns+Hopkins+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=48"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEKelly201111-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKelly201111_32-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKelly2011">Kelly 2011</a>, p. 11.</span></li>
+<li id="cite_note-English_Journal-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-English_Journal_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-English_Journal_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">D'Ambrosio, Michael A. (November 1970). "Alice for Adolescents". <i><a class="mw-redirect" href="/wiki/The_English_Journal" title="The English Journal">The English Journal</a></i> (<a href="/wiki/National_Council_of_Teachers_of_English" title="National Council of Teachers of English">National Council of Teachers of English</a>) <b>59</b> (8): 1075. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/813515" rel="nofollow">813515</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Alice+for+Adolescents&amp;rft.au=D%27Ambrosio%2C+Michael+A.&amp;rft.aulast=D%27Ambrosio%2C+Michael+A.&amp;rft.date=November+1970&amp;rft.genre=article&amp;rft.issue=8&amp;rft.jstor=813515&amp;rft.jtitle=The+English+Journal&amp;rft.pages=1075&amp;rft.pub=National+Council+of+Teachers+of+English&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=59"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><span class="citation journal">Auerbach, Nina (September 1973). "Alice and Wonderland: A Curious Child". <i><a href="/wiki/Victorian_Studies" title="Victorian Studies">Victorian Studies</a></i> (<a href="/wiki/Indiana_University_Press" title="Indiana University Press">Indiana University Press</a>) <b>17</b> (1): 37. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/3826513" rel="nofollow">3826513</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Alice+and+Wonderland%3A+A+Curious+Child&amp;rft.au=Auerbach%2C+Nina&amp;rft.aulast=Auerbach%2C+Nina&amp;rft.date=September+1973&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jstor=3826513&amp;rft.jtitle=Victorian+Studies&amp;rft.pages=37&amp;rft.pub=Indiana+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=17"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTECohen1995137-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTECohen1995137_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTECohen1995137_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFCohen1995">Cohen 1995</a>, p. 137.</span></li>
+<li id="cite_note-Rackham-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rackham_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rackham_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Guilano, Edward, ed. (1976). "Arthur Rackham's Wonderland". <i>Lewis Carroll Observed</i>. New York: Clarkson N. Potter, Inc. pp. 31–36. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-517-52497-X" title="Special:BookSources/0-517-52497-X">0-517-52497-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Arthur+Rackham%27s+Wonderland&amp;rft.btitle=Lewis+Carroll+Observed&amp;rft.date=1976&amp;rft.genre=bookitem&amp;rft.isbn=0-517-52497-X&amp;rft.pages=31-36&amp;rft.place=New+York&amp;rft.pub=Clarkson+N.+Potter%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEBrooker2004107-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker2004107_37-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, p. 107.</span></li>
+<li id="cite_note-FOOTNOTEBrooker200478-9-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker200478-9_38-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, pp. 78-9.</span></li>
+<li id="cite_note-FOOTNOTEBrooker2004108-110-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker2004108-110_39-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, p. 108-110.</span></li>
+<li id="cite_note-FOOTNOTEJonesGladstone1998126-130-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEJonesGladstone1998126-130_40-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFJonesGladstone1998">Jones &amp; Gladstone 1998</a>, p. 126-130.</span></li>
+<li id="cite_note-FOOTNOTEBrooker2004111-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker2004111_41-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, p. 111.</span></li>
+<li id="cite_note-FOOTNOTELovett1990107-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTELovett1990107_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTELovett1990107_42-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTELovett1990107_42-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFLovett1990">Lovett 1990</a>, p. 107.</span></li>
+<li id="cite_note-FOOTNOTEJonesGladstone1998242-3-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEJonesGladstone1998242-3_43-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFJonesGladstone1998">Jones &amp; Gladstone 1998</a>, pp. 242-3.</span></li>
+<li id="cite_note-FOOTNOTELovett199097.2C_107-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTELovett199097.2C_107_44-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFLovett1990">Lovett 1990</a>, p. 97, 107.</span></li>
+<li id="cite_note-FOOTNOTELovett199099-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTELovett199099_45-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFLovett1990">Lovett 1990</a>, p. 99.</span></li>
+<li id="cite_note-FOOTNOTELovett1990106-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTELovett1990106_46-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFLovett1990">Lovett 1990</a>, p. 106.</span></li>
+<li id="cite_note-FOOTNOTEBrooker2004105-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker2004105_47-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, p. 105.</span></li>
+<li id="cite_note-FOOTNOTEKelly201146-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKelly201146_48-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKelly2011">Kelly 2011</a>, p. 46.</span></li>
+<li id="cite_note-1st_film-49"><span class="mw-cite-backlink">^ <a href="#cite_ref-1st_film_49-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-1st_film_49-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Schaefer, David H. (1976). "The Film Collecter's Alice: An Essay and Checklist". In Guilano, Edward. <i>Lewis Carroll Observed</i>. New York: Clarkson N. Potter, Inc. pp. 197–204. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-517-52497-X" title="Special:BookSources/0-517-52497-X">0-517-52497-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=The+Film+Collecter%27s+Alice%3A+An+Essay+and+Checklist&amp;rft.aulast=Schaefer%2C+David+H.&amp;rft.au=Schaefer%2C+David+H.&amp;rft.btitle=Lewis+Carroll+Observed&amp;rft.date=1976&amp;rft.genre=bookitem&amp;rft.isbn=0-517-52497-X&amp;rft.pages=197-204&amp;rft.place=New+York&amp;rft.pub=Clarkson+N.+Potter%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Alice_films-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-Alice_films_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Alice_films_50-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Alice_films_50-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Alice_films_50-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Gardner, Martin, ed. (2006). "Alice on the Screen". <i><a href="/wiki/The_Annotated_Alice" title="The Annotated Alice">The Annotated Alice</a></i>. pp. 309–11.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Alice+on+the+Screen&amp;rft.btitle=The+Annotated+Alice&amp;rft.date=2006&amp;rft.genre=bookitem&amp;rft.pages=309-11&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEBrooker2004215-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker2004215_51-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, p. 215.</span></li>
+<li id="cite_note-telegraph100215-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-telegraph100215_52-0">^</a></b></span> <span class="reference-text"><span class="citation news">Salisbury, Mark (15 February 2010). <a class="external text" href="http://www.telegraph.co.uk/culture/film/starsandstories/7205720/Tim-Burton-and-Johnny-Depp-interview-for-Alice-In-Wonderland.html" rel="nofollow">"Tim Burton and Johnny Depp interview for Alice In Wonderland"</a>. <i><a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Daily Telegraph</a></i> (Telegraph Media Group)<span class="reference-accessdate">. Retrieved <span class="nowrap">15 February</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Tim+Burton+and+Johnny+Depp+interview+for+Alice+In+Wonderland&amp;rft.aufirst=Mark&amp;rft.aulast=Salisbury&amp;rft.au=Salisbury%2C+Mark&amp;rft.date=15+February+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fculture%2Ffilm%2Fstarsandstories%2F7205720%2FTim-Burton-and-Johnny-Depp-interview-for-Alice-In-Wonderland.html&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.pub=Telegraph+Media+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://abc.go.com/shows/once-upon-a-time-in-wonderland" rel="nofollow">"Once Upon a Time in Wonderland"</a>. <i>abc.go.com</i>. ABC Television Network<span class="reference-accessdate">. Retrieved <span class="nowrap">22 January</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Once+Upon+a+Time+in+Wonderland&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fabc.go.com%2Fshows%2Fonce-upon-a-time-in-wonderland&amp;rft.jtitle=abc.go.com&amp;rft.pub=ABC+Television+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><span class="citation web">Lopez, Vincent (15 December 2000). <a class="external text" href="http://www.ign.com/articles/2000/12/06/american-mcgees-alice" rel="nofollow">"American McGee's Alice"</a>. <a href="/wiki/IGN" title="IGN">IGN</a>. <a class="external text" href="https://web.archive.org/web/20140506212723/http://www.ign.com/articles/2000/12/06/american-mcgees-alice" rel="nofollow">Archived</a> from the original on 6 May 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">3 June</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.aufirst=Vincent&amp;rft.aulast=Lopez&amp;rft.au=Lopez%2C+Vincent&amp;rft.btitle=American+McGee%27s+Alice&amp;rft.date=15+December+2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ign.com%2Farticles%2F2000%2F12%2F06%2Famerican-mcgees-alice&amp;rft.pub=IGN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><span class="citation web">Eykemans, Peter (14 June 2011). <a class="external text" href="http://www.ign.com/articles/2011/06/16/alice-madness-returns-review" rel="nofollow">"Alice: Madness Returns Review"</a>. <i>ign.com</i>. IGN Entertainment<span class="reference-accessdate">. Retrieved <span class="nowrap">3 June</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Alice%3A+Madness+Returns+Review&amp;rft.au=Eykemans%2C+Peter&amp;rft.aulast=Eykemans%2C+Peter&amp;rft.date=14+June+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ign.com%2Farticles%2F2011%2F06%2F16%2Falice-madness-returns-review&amp;rft.jtitle=ign.com&amp;rft.pub=IGN+Entertainment&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://web.archive.org/web/20101223085015/http://guides.ign.com/guides/16467/page_6.html" rel="nofollow">"Kingdom Hearts Guide/Walkthrough"</a>. <i><a class="mw-redirect" href="/wiki/Ign.com" title="Ign.com">ign.com</a></i>. <a class="mw-redirect" href="/wiki/IGN_Entertainment" title="IGN Entertainment">IGN Entertainment</a>. Archived from <a class="external text" href="http://guides.ign.com/guides/16467/page_6.html" rel="nofollow">the original</a> on 23 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">3 June</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Kingdom+Hearts+Guide%2FWalkthrough&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fguides.ign.com%2Fguides%2F16467%2Fpage_6.html&amp;rft.jtitle=ign.com&amp;rft.pub=IGN+Entertainment&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.animenewsnetwork.com/news/2008-06-10/heart-no-kuni-no-alice-game-gets-anime-video-project" rel="nofollow">"Heart no Kuni no Alice Game Gets Anime Video Project"</a>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>. 10 June 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">9 June</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.btitle=Heart+no+Kuni+no+Alice+Game+Gets+Anime+Video+Project&amp;rft.date=10+June+2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2008-06-10%2Fheart-no-kuni-no-alice-game-gets-anime-video-project&amp;rft.pub=Anime+News+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://megamitensei.wikia.com/wiki/Alice" rel="nofollow">"Alice - Megami Tensei Wiki"</a>. <a href="/wiki/Wikia" title="Wikia">Wikia</a>. 02 February 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">02 February</span> 2015</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.btitle=Alice+-+Megami+Tensei+Wiki&amp;rft.date=02+February+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmegamitensei.wikia.com%2Fwiki%2FAlice&amp;rft.pub=Wikia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|date=, |accessdate=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><span class="citation journal">Wong, Jessica (May 2007). "The Looking Glass Wars". <i><a href="/wiki/Journal_of_Adolescent_%26_Adult_Literacy" title="Journal of Adolescent &amp; Adult Literacy">Journal of Adolescent &amp; Adult Literacy</a></i> <b>50</b> (8): 692. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1081-3004" rel="nofollow">1081-3004</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=The+Looking+Glass+Wars&amp;rft.aulast=Wong%2C+Jessica&amp;rft.au=Wong%2C+Jessica&amp;rft.date=May+2007&amp;rft.genre=article&amp;rft.issn=1081-3004&amp;rft.issue=8&amp;rft.jtitle=Journal+of+Adolescent+%26+Adult+Literacy&amp;rft.pages=692&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEBrooker2004156-8-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker2004156-8_60-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, p. 156-8.</span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><span class="citation web">MacDonald, Christopher (9 April 2002). <a class="external text" href="http://www.animenewsnetwork.com/review/miyuki-chan-in-wonderland/dvd" rel="nofollow">"Miyuki-chan In Wonderland DVD"</a>. <i>Anime News Network</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 October</span> 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Miyuki-chan+In+Wonderland+DVD&amp;rft.aufirst=Christopher&amp;rft.aulast=MacDonald&amp;rft.au=MacDonald%2C+Christopher&amp;rft.date=9+April+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.animenewsnetwork.com%2Freview%2Fmiyuki-chan-in-wonderland%2Fdvd&amp;rft.jtitle=Anime+News+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="qweryarchive noprint">Query <span class="archive"><a class="external text" href="//web.archive.org/web/*/http://www.animenewsnetwork.com/review/miyuki-chan-in-wonderland/dvd" rel="nofollow">Wayback</a></span> <span class="waybackmachine"><a class="external text" href="http://web.archive.bibalex.org/web/*/http://www.animenewsnetwork.com/review/miyuki-chan-in-wonderland/dvd" rel="nofollow">Bibalex Wayback</a></span> <span class="webcitation"><a class="external text" href="http://www.webcitation.org/query.php?url=http%3A%2F%2Fwww.animenewsnetwork.com%2Freview%2Fmiyuki-chan-in-wonderland%2Fdvd" rel="nofollow">WebCite</a></span> <span class="wikiwix"><a class="external text" href="http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.animenewsnetwork.com%2Freview%2Fmiyuki-chan-in-wonderland%2Fdvd" rel="nofollow">Wikiwix</a></span></span></span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><span class="citation web">Alexander, Matthew (11 May 2007). <a class="external text" href="http://www.mania.com/key-princess-story-eternal-alice-rondo-vol-01_article_83008.html" rel="nofollow">"Key Princess Story: Eternal Alice Rondo Vol. #01"</a>. <i>Mania</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 October</span> 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Key+Princess+Story%3A+Eternal+Alice+Rondo+Vol.+%2301&amp;rft.au=Alexander%2C+Matthew&amp;rft.aufirst=Matthew&amp;rft.aulast=Alexander&amp;rft.date=11+May+2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.mania.com%2Fkey-princess-story-eternal-alice-rondo-vol-01_article_83008.html&amp;rft.jtitle=Mania&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="qweryarchive noprint">Query <span class="archive"><a class="external text" href="//web.archive.org/web/*/http://www.mania.com/key-princess-story-eternal-alice-rondo-vol-01_article_83008.html" rel="nofollow">Wayback</a></span> <span class="waybackmachine"><a class="external text" href="http://web.archive.bibalex.org/web/*/http://www.mania.com/key-princess-story-eternal-alice-rondo-vol-01_article_83008.html" rel="nofollow">Bibalex Wayback</a></span> <span class="webcitation"><a class="external text" href="http://www.webcitation.org/query.php?url=http%3A%2F%2Fwww.mania.com%2Fkey-princess-story-eternal-alice-rondo-vol-01_article_83008.html" rel="nofollow">WebCite</a></span> <span class="wikiwix"><a class="external text" href="http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.mania.com%2Fkey-princess-story-eternal-alice-rondo-vol-01_article_83008.html" rel="nofollow">Wikiwix</a></span></span></span></li>
+<li id="cite_note-Men_in_Wonderland-63"><span class="mw-cite-backlink">^ <a href="#cite_ref-Men_in_Wonderland_63-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Men_in_Wonderland_63-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Robson, Catherine (2001). <i>Men in Wonderland: The Lost Girlhood of the Victorian Gentlemen</i>. <a href="/wiki/Princeton_University_Press" title="Princeton University Press">Princeton University Press</a>. p. 137.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.aulast=Robson%2C+Catherine&amp;rft.au=Robson%2C+Catherine&amp;rft.btitle=Men+in+Wonderland%3A+The+Lost+Girlhood+of+the+Victorian+Gentlemen&amp;rft.date=2001&amp;rft.genre=book&amp;rft.pages=137&amp;rft.pub=Princeton+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTESigler2014xxi-64"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTESigler2014xxi_64-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTESigler2014xxi_64-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFSigler2014">Sigler 2014</a>, p. xxi.</span></li>
+<li id="cite_note-FOOTNOTEBrooker2004xiv-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker2004xiv_65-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, p. xiv.</span></li>
+<li id="cite_note-FOOTNOTECohen1995133-34-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTECohen1995133-34_66-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFCohen1995">Cohen 1995</a>, pp. 133-34.</span></li>
+<li id="cite_note-FOOTNOTECohen1995134-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTECohen1995134_67-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFCohen1995">Cohen 1995</a>, p. 134.</span></li>
+<li id="cite_note-FOOTNOTECohen1995134-5-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTECohen1995134-5_68-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFCohen1995">Cohen 1995</a>, pp. 134-5.</span></li>
+<li id="cite_note-FOOTNOTECohen1995135-40-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTECohen1995135-40_69-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFCohen1995">Cohen 1995</a>, pp. 135-40.</span></li>
+<li id="cite_note-FOOTNOTEKrips20048-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKrips20048_70-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKrips2004">Krips 2004</a>, p. 8.</span></li>
+<li id="cite_note-FOOTNOTEKrips20047-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKrips20047_71-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKrips2004">Krips 2004</a>, p. 7.</span></li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text"><span class="citation book">Lurie, Alison (1990). <i>Don't Tell the Grownups: Subversive Children's Literature</i>. Boston: Little, Brown. p. 7.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.aulast=Lurie%2C+Alison&amp;rft.au=Lurie%2C+Alison&amp;rft.btitle=Don%27t+Tell+the+Grownups%3A+Subversive+Children%27s+Literature&amp;rft.date=1990&amp;rft.genre=book&amp;rft.pages=7&amp;rft.place=Boston&amp;rft.pub=Little%2C+Brown&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTESigler1997xii-xxi-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESigler1997xii-xxi_73-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSigler1997">Sigler 1997</a>, pp. xii-xxi.</span></li>
+<li id="cite_note-FOOTNOTESigler1997xvii-74"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTESigler1997xvii_74-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTESigler1997xvii_74-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFSigler1997">Sigler 1997</a>, p. xvii.</span></li>
+<li id="cite_note-FOOTNOTESigler1997vii.2C_xviii-xix-75"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESigler1997vii.2C_xviii-xix_75-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSigler1997">Sigler 1997</a>, pp. vii, xviii-xix.</span></li>
+<li id="cite_note-FOOTNOTEBrooker200477-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrooker200477_76-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrooker2004">Brooker 2004</a>, p. 77.</span></li>
+<li id="cite_note-FOOTNOTESigler1997389-77"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESigler1997389_77-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSigler1997">Sigler 1997</a>, p. 389.</span></li>
+<li id="cite_note-FOOTNOTESigler1997vii-78"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTESigler1997vii_78-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTESigler1997vii_78-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFSigler1997">Sigler 1997</a>, p. vii.</span></li>
+<li id="cite_note-FOOTNOTESigler1997xiii.2C_xvi-79"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESigler1997xiii.2C_xvi_79-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSigler1997">Sigler 1997</a>, pp. xiii, xvi.</span></li>
+<li id="cite_note-FOOTNOTESigler1997xvi-xvii-80"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESigler1997xvi-xvii_80-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSigler1997">Sigler 1997</a>, pp. xvi-xvii.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation book" id="CITEREFBrooker2004"><a href="/wiki/Will_Brooker" title="Will Brooker">Brooker, Will</a> (2004). <i>Alice's Adventures: Lewis Carroll in Popular Culture</i>. New York: Continuum. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8264-1433-8" title="Special:BookSources/0-8264-1433-8">0-8264-1433-8</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.au=Brooker%2C+Will&amp;rft.aufirst=Will&amp;rft.aulast=Brooker&amp;rft.btitle=Alice%27s+Adventures%3A+Lewis+Carroll+in+Popular+Culture&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-8264-1433-8&amp;rft.place=New+York&amp;rft.pub=Continuum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><span class="citation book" id="CITEREFClark.2C_Anne1979">Clark, Anne (1979). <i>Lewis Carroll: A Life</i>. New York: Schocken Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-8052-3722-1" title="Special:BookSources/978-0-8052-3722-1">978-0-8052-3722-1</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/4907762" rel="nofollow">4907762</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.au=Clark%2C+Anne&amp;rft.aulast=Clark%2C+Anne&amp;rft.btitle=Lewis+Carroll%3A+A+Life&amp;rft.date=1979&amp;rft.genre=book&amp;rft_id=info%3Aoclcnum%2F4907762&amp;rft.isbn=978-0-8052-3722-1&amp;rft.place=New+York&amp;rft.pub=Schocken+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><span class="citation book" id="CITEREFCohen1995"><a href="/wiki/Morton_N._Cohen" title="Morton N. Cohen">Cohen, Morton N.</a> (1995). <i><a href="/wiki/Lewis_Carroll:_A_Biography" title="Lewis Carroll: A Biography">Lewis Carroll: A Biography</a></i>. New York: Knopf. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-679-42298-6" title="Special:BookSources/0-679-42298-6">0-679-42298-6</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.au=Cohen%2C+Morton+N.&amp;rft.aufirst=Morton+N.&amp;rft.aulast=Cohen&amp;rft.btitle=Lewis+Carroll%3A+A+Biography&amp;rft.date=1995&amp;rft.genre=book&amp;rft.isbn=0-679-42298-6&amp;rft.place=New+York&amp;rft.pub=Knopf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><span class="citation book" id="CITEREFJonesGladstone1998">Jones, Jo Elwyn; Gladstone, J. Francis (1998). <i>The Alice Companion: A Guide to Lewis Carroll's Alice Books</i>. Washington Square, New York: <a href="/wiki/New_York_University_Press" title="New York University Press">New York University Press</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.aufirst=Jo+Elwyn&amp;rft.au=Gladstone%2C+J.+Francis&amp;rft.au=Jones%2C+Jo+Elwyn&amp;rft.aulast=Jones&amp;rft.btitle=The+Alice+Companion%3A+A+Guide+to+Lewis+Carroll%27s+Alice+Books&amp;rft.date=1998&amp;rft.genre=book&amp;rft.place=Washington+Square%2C+New+York&amp;rft.pub=New+York+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><span class="citation book">Kelly, Richard; Carroll, Lewis (2011). "Introduction". <i>Alice's Adventures in Wonderland</i> (ebook). <a href="/wiki/Broadview_Press" title="Broadview Press">Broadview Press</a>. p. 46.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.atitle=Introduction&amp;rft.au=Carroll%2C+Lewis&amp;rft.au=Kelly%2C+Richard&amp;rft.aulast=Kelly%2C+Richard&amp;rft.btitle=Alice%27s+Adventures+in+Wonderland&amp;rft.date=2011&amp;rft.genre=bookitem&amp;rft.pages=46&amp;rft.pub=Broadview+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><span class="citation book" id="CITEREFKrips.2C_Valerie2004">Krips, Valerie (2004). <i>The Presence of the Past: Memory, Heritage and Childhood in Post-War Britain</i>. London: <a href="/wiki/Routledge" title="Routledge">Routledge</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.au=Krips%2C+Valerie&amp;rft.aulast=Krips%2C+Valerie&amp;rft.btitle=The+Presence+of+the+Past%3A+Memory%2C+Heritage+and+Childhood+in+Post-War+Britain&amp;rft.date=2004&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><span class="citation book" id="CITEREFLeach.2C_Karoline1999"><a href="/wiki/Karoline_Leach" title="Karoline Leach">Leach, Karoline</a> (1999). <i><a href="/wiki/In_the_Shadow_of_the_Dreamchild" title="In the Shadow of the Dreamchild">In the Shadow of the Dreamchild: A New Understanding of Lewis Carroll</a></i>. London, United Kingdom: <a href="/wiki/Peter_Owen_Publishers" title="Peter Owen Publishers">Peter Owen Publishers</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7206-1044-4" title="Special:BookSources/978-0-7206-1044-4">978-0-7206-1044-4</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.aulast=Leach%2C+Karoline&amp;rft.au=Leach%2C+Karoline&amp;rft.btitle=In+the+Shadow+of+the+Dreamchild%3A+A+New+Understanding+of+Lewis+Carroll&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=978-0-7206-1044-4&amp;rft.place=London%2C+United+Kingdom&amp;rft.pub=Peter+Owen+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><span class="citation book" id="CITEREFLovett.2C_Charles_C.1990">Lovett, Charles C. (1990). <i>Alice on Stage: A History of the Early Theatrical Productions of Alice in Wonderland</i>. London, England: <a href="/wiki/Meckler" title="Meckler">Meckler</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-88736-390-3" title="Special:BookSources/0-88736-390-3">0-88736-390-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.aulast=Lovett%2C+Charles+C.&amp;rft.au=Lovett%2C+Charles+C.&amp;rft.btitle=Alice+on+Stage%3A+A+History+of+the+Early+Theatrical+Productions+of+Alice+in+Wonderland&amp;rft.date=1990&amp;rft.genre=book&amp;rft.isbn=0-88736-390-3&amp;rft.place=London%2C+England&amp;rft.pub=Meckler&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><span class="citation book" id="CITEREFSigler.2C_Carolyn1997">Sigler, Carolyn, ed. (1997). <i>Alternative Alices: Visions and Revisions of Lewis Carroll's Alice Books</i>. <a href="/wiki/University_of_Kentucky" title="University of Kentucky">University of Kentucky</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8131-0932-9" title="Special:BookSources/0-8131-0932-9">0-8131-0932-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.btitle=Alternative+Alices%3A+Visions+and+Revisions+of+Lewis+Carroll%27s+Alice+Books&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0-8131-0932-9&amp;rft.pub=University+of+Kentucky&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><span class="citation book">Sigler, Carolyn, ed. (2014). <i>Lewis Carroll's Alice's Adventures in Wonderland: A Documentary Volume</i> <b>375</b>. Detroit, Michgan: <a href="/wiki/Gale_(publisher)" title="Gale (publisher)">Gale</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.btitle=Lewis+Carroll%27s+Alice%27s+Adventures+in+Wonderland%3A+A+Documentary+Volume&amp;rft.date=2014&amp;rft.genre=book&amp;rft.place=Detroit%2C+Michgan&amp;rft.pub=Gale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=375"><span style="display:none;"> </span></span></li>
+<li><span class="citation book" id="CITEREFWoolf.2C_Jenny2010">Woolf, Jenny (2010). <i>The Mystery of Lewis Carroll</i>. New York: <a href="/wiki/St._Martin%27s_Press" title="St. Martin's Press">St. Martin's Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-312-61298-6" title="Special:BookSources/978-0-312-61298-6">978-0-312-61298-6</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlice+%28Alice%27s+Adventures+in+Wonderland%29&amp;rft.aulast=Woolf%2C+Jenny&amp;rft.au=Woolf%2C+Jenny&amp;rft.btitle=The+Mystery+of+Lewis+Carroll&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=978-0-312-61298-6&amp;rft.place=New+York&amp;rft.pub=St.+Martin%27s+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.imdb.com/character/ch0012242/" rel="nofollow">Alice</a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+<li><a class="external text" href="http://www.alice-in-wonderland.net/school/alice.html" rel="nofollow">Character description of Alice</a></li>
+<li><span class="citation gutenberg"><i><a class="extiw" href="http://www.gutenberg.org/etext/11" title="gutenberg:11">Alice's Adventures in Wonderland</a></i> at <a href="/wiki/Project_Gutenberg" title="Project Gutenberg">Project Gutenberg</a></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Alice" title="Template:Alice"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Alice" title="Template talk:Alice"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Alice&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a>'s <i><strong class="selflink">Alice</strong></i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a></i></li>
+<li><i><a href="/wiki/Through_the_Looking-Glass" title="Through the Looking-Glass">Through the Looking-Glass</a></i></li>
+<li><i><a href="/wiki/The_Nursery_%22Alice%22" title='The Nursery "Alice"'>The Nursery "Alice"</a></i></li>
+<li>"<a href="/wiki/The_Hunting_of_the_Snark" title="The Hunting of the Snark">The Hunting of the Snark</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Creators</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row">Authors</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a></li>
+<li><a href="/wiki/A_New_Alice_in_the_Old_Wonderland" title="A New Alice in the Old Wonderland">Anna Matlack Richards</a></li>
+<li><a href="/wiki/Saki" title="Saki">Saki</a></li>
+<li><a href="/wiki/Gilbert_Adair" title="Gilbert Adair">Gilbert Adair</a></li>
+<li><a href="/wiki/Frank_Beddor" title="Frank Beddor">Frank Beddor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Illustrators</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Tenniel" title="John Tenniel">John Tenniel</a></li>
+<li><a href="/wiki/Arthur_Rackham" title="Arthur Rackham">Arthur Rackham</a></li>
+<li><a href="/wiki/Blanche_McManus" title="Blanche McManus">Blanche McManus</a></li>
+<li><a href="/wiki/Peter_Newell" title="Peter Newell">Peter Newell</a></li>
+<li><a href="/wiki/Fanny_Cory" title="Fanny Cory">Fanny Cory</a></li>
+<li><a href="/wiki/Bessie_Pease_Gutmann" title="Bessie Pease Gutmann">Bessie Pease Gutmann</a></li>
+<li><a href="/wiki/Charles_Robinson_(illustrator)" title="Charles Robinson (illustrator)">Charles Robinson</a></li>
+<li><a href="/wiki/Harry_Rountree" title="Harry Rountree">Harry Rountree</a></li>
+<li><a href="/wiki/Harry_Furniss" title="Harry Furniss">Harry Furniss</a></li>
+<li><a href="/wiki/Mabel_Lucie_Attwell" title="Mabel Lucie Attwell">Mabel Lucie Attwell</a></li>
+<li><a href="/wiki/Milo_Winter" title="Milo Winter">Milo Winter</a></li>
+<li><a href="/wiki/Oliver_Herford" title="Oliver Herford">Oliver Herford</a></li>
+<li><a href="/wiki/Uriel_Birnbaum" title="Uriel Birnbaum">Uriel Birnbaum</a></li>
+<li><a href="/wiki/Jessie_Willcox_Smith" title="Jessie Willcox Smith">Jessie Willcox Smith</a></li>
+<li><a href="/wiki/Charles_Folkard" title="Charles Folkard">Charles Folkard</a></li>
+<li><a href="/wiki/Mervyn_Peake" title="Mervyn Peake">Mervyn Peake</a></li>
+<li><a href="/wiki/Alex_Blum" title="Alex Blum">Alex Blum</a></li>
+<li><a href="/wiki/Leonard_Weisgard" title="Leonard Weisgard">Leonard Weisgard</a></li>
+<li><a href="/wiki/Walt_Disney" title="Walt Disney">Walt Disney</a></li>
+<li><a href="/wiki/Marjorie_Torrey" title="Marjorie Torrey">Marjorie Torrey</a></li>
+<li><a href="/wiki/Tove_Jansson" title="Tove Jansson">Tove Jansson</a></li>
+<li><a href="/wiki/Ralph_Steadman" title="Ralph Steadman">Ralph Steadman</a></li>
+<li><a href="/wiki/Frank_Bolle" title="Frank Bolle">Frank Bolle</a></li>
+<li><a href="/wiki/Charles_Blackman" title="Charles Blackman">Charles Blackman</a></li>
+<li><a href="/wiki/Barry_Moser" title="Barry Moser">Barry Moser</a></li>
+<li><a href="/wiki/Michael_Hague" title="Michael Hague">Michael Hague</a></li>
+<li><a href="/wiki/Anthony_Browne_(author)" title="Anthony Browne (author)">Anthony Browne</a></li>
+<li><a href="/wiki/Willy_Pogany" title="Willy Pogany">Willy Pogany</a></li>
+<li><a href="/wiki/Marie_Laurencin" title="Marie Laurencin">Marie Laurencin</a></li>
+<li><a href="/wiki/Salvador_Dal%C3%AD" title="Salvador Dalí">Salvador Dalí</a></li>
+<li><a class="mw-redirect" href="/wiki/Greg_Hildebrandt" title="Greg Hildebrandt">Greg Hildebrandt</a></li>
+<li><a href="/wiki/Gavin_O%27Keefe" title="Gavin O'Keefe">Gavin O'Keefe</a></li>
+<li><a href="/wiki/Tony_Ross" title="Tony Ross">Tony Ross</a></li>
+<li><a href="/wiki/Helen_Oxenbury" title="Helen Oxenbury">Helen Oxenbury</a></li>
+<li><a href="/wiki/Lisbeth_Zwerger" title="Lisbeth Zwerger">Lisbeth Zwerger</a></li>
+<li><a href="/wiki/Oleg_Lipchenko" title="Oleg Lipchenko">Oleg Lipchenko</a></li>
+<li><a href="/wiki/Franciszka_Themerson" title="Franciszka Themerson">Franciszka Themerson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Characters</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row"><i><a href="/wiki/List_of_minor_characters_in_the_Alice_series" title="List of minor characters in the Alice series">Alice's Adventures<br/>
+in Wonderland</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Alice</strong></li>
+<li><a href="/wiki/White_Rabbit" title="White Rabbit">The White Rabbit</a></li>
+<li><a href="/wiki/Mouse_(Alice%27s_Adventures_in_Wonderland)" title="Mouse (Alice's Adventures in Wonderland)">The Mouse</a></li>
+<li><a href="/wiki/Dodo_(Alice%27s_Adventures_in_Wonderland)" title="Dodo (Alice's Adventures in Wonderland)">The Dodo</a></li>
+<li><a class="mw-redirect" href="/wiki/Duck_(Alice%27s_Adventures_in_Wonderland)" title="Duck (Alice's Adventures in Wonderland)">The Duck</a></li>
+<li><a class="mw-redirect" href="/wiki/Lory_(Alice%27s_Adventures_in_Wonderland)" title="Lory (Alice's Adventures in Wonderland)">The Lory</a></li>
+<li><a class="mw-redirect" href="/wiki/Eaglet_(Alice%27s_Adventures_in_Wonderland)" title="Eaglet (Alice's Adventures in Wonderland)">Eaglet</a></li>
+<li><a href="/wiki/Pat_(Alice%27s_Adventures_in_Wonderland)" title="Pat (Alice's Adventures in Wonderland)">Pat</a></li>
+<li><a href="/wiki/Bill_the_Lizard" title="Bill the Lizard">Bill the Lizard</a></li>
+<li><a href="/wiki/Puppy_(Alice%27s_Adventures_in_Wonderland)" title="Puppy (Alice's Adventures in Wonderland)">Puppy</a></li>
+<li><a href="/wiki/Caterpillar_(Alice%27s_Adventures_in_Wonderland)" title="Caterpillar (Alice's Adventures in Wonderland)">The Caterpillar</a></li>
+<li><a href="/wiki/Duchess_(Alice%27s_Adventures_in_Wonderland)" title="Duchess (Alice's Adventures in Wonderland)">The Duchess</a></li>
+<li><a href="/wiki/Cheshire_Cat" title="Cheshire Cat">The Cheshire Cat</a></li>
+<li><a href="/wiki/March_Hare" title="March Hare">The March Hare</a></li>
+<li><a href="/wiki/The_Hatter" title="The Hatter">The Hatter</a></li>
+<li><a href="/wiki/The_Dormouse" title="The Dormouse">The Dormouse</a></li>
+<li><a href="/wiki/Queen_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Queen of Hearts (Alice's Adventures in Wonderland)">The Queen of Hearts</a></li>
+<li><a href="/wiki/King_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="King of Hearts (Alice's Adventures in Wonderland)">The King of Hearts</a></li>
+<li><a href="/wiki/Knave_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Knave of Hearts (Alice's Adventures in Wonderland)">The Knave of Hearts</a></li>
+<li><a href="/wiki/Gryphon_(Alice%27s_Adventures_in_Wonderland)" title="Gryphon (Alice's Adventures in Wonderland)">The Gryphon</a></li>
+<li><a href="/wiki/Mock_Turtle" title="Mock Turtle">The Mock Turtle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><i><a href="/wiki/List_of_minor_characters_in_the_Alice_series" title="List of minor characters in the Alice series">Through the<br/>
+Looking-Glass</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Alice</strong></li>
+<li><a href="/wiki/Red_Queen_(Through_the_Looking-Glass)" title="Red Queen (Through the Looking-Glass)">The Red Queen</a></li>
+<li><a href="/wiki/White_Queen_(Through_the_Looking-Glass)" title="White Queen (Through the Looking-Glass)">The White Queen</a></li>
+<li><a href="/wiki/Red_King_(Through_the_Looking-Glass)" title="Red King (Through the Looking-Glass)">The Red King</a></li>
+<li><a href="/wiki/White_King_(Through_the_Looking-Glass)" title="White King (Through the Looking-Glass)">The White King</a></li>
+<li><a href="/wiki/White_Knight_(Through_the_Looking-Glass)" title="White Knight (Through the Looking-Glass)">The White Knight</a></li>
+<li><a href="/wiki/Tweedledum_and_Tweedledee" title="Tweedledum and Tweedledee">Tweedledum and Tweedledee</a></li>
+<li><a href="/wiki/The_Sheep" title="The Sheep">The Sheep</a></li>
+<li><a href="/wiki/Humpty_Dumpty" title="Humpty Dumpty">Humpty Dumpty</a></li>
+<li><a href="/wiki/March_Hare" title="March Hare">Haigha</a></li>
+<li><a href="/wiki/The_Hatter" title="The Hatter">Hatta</a></li>
+<li><a href="/wiki/The_Lion_and_the_Unicorn" title="The Lion and the Unicorn">The Lion and the Unicorn</a></li>
+<li><a href="/wiki/Bandersnatch" title="Bandersnatch">Bandersnatch</a></li>
+<li><a href="/wiki/Jubjub_bird" title="Jubjub bird">Jubjub Bird</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Related topics</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alice_Liddell" title="Alice Liddell">Alice Liddell</a></li>
+<li><a href="/wiki/Alice%27s_Shop" title="Alice's Shop">Alice's Shop</a></li>
+<li><i><a href="/wiki/The_Annotated_Alice" title="The Annotated Alice">The Annotated Alice</a></i></li>
+<li><a href="/wiki/Wonderland_(fictional_country)" title="Wonderland (fictional country)">Wonderland</a></li>
+<li><a href="/wiki/Looking-Glass_Land" title="Looking-Glass Land">Looking-Glass Land</a></li>
+<li><a href="/wiki/Works_based_on_Alice_in_Wonderland" title="Works based on Alice in Wonderland">Works based on <i>Alice in Wonderland</i></a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Alice_in_Wonderland_(franchise)" title="Alice in Wonderland (franchise)">Disney franchise</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Translations_of_Alice%27s_Adventures_in_Wonderland" title="Translations of Alice's Adventures in Wonderland">Translations of <i>Alice's Adventures in Wonderland</i></a></li>
+<li><a href="/wiki/Translations_of_Through_the_Looking-Glass" title="Translations of Through the Looking-Glass">Translations of <i>Through the Looking-Glass</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Works_based_on_Alice_in_Wonderland" title="Works based on Alice in Wonderland">Adaptations</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row">Poems</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>"<a href="/wiki/All_in_the_golden_afternoon..." title="All in the golden afternoon...">All in the golden afternoon...</a>"</li>
+<li>"<a href="/wiki/How_Doth_the_Little_Crocodile" title="How Doth the Little Crocodile">How Doth the Little Crocodile</a>"</li>
+<li>"<a href="/wiki/The_Mouse%27s_Tale" title="The Mouse's Tale">The Mouse's Tale</a>"</li>
+<li>"<a href="/wiki/Twinkle,_Twinkle,_Little_Bat" title="Twinkle, Twinkle, Little Bat">Twinkle, Twinkle, Little Bat</a>"</li>
+<li>"<a href="/wiki/You_Are_Old,_Father_William" title="You Are Old, Father William">You Are Old, Father William</a>"</li>
+<li>"<a href="/wiki/%27Tis_the_Voice_of_the_Lobster" title="'Tis the Voice of the Lobster">'Tis the Voice of the Lobster</a>"</li>
+<li>"<a href="/wiki/Jabberwocky" title="Jabberwocky">Jabberwocky</a>"</li>
+<li>"<a href="/wiki/The_Walrus_and_the_Carpenter" title="The Walrus and the Carpenter">The Walrus and the Carpenter</a>"</li>
+<li>"<a href="/wiki/Haddocks%27_Eyes" title="Haddocks' Eyes">Haddocks' Eyes</a>"</li>
+<li>"<a class="mw-redirect" href="/wiki/They_told_me_you_had_been_to_her..." title="They told me you had been to her...">They told me you had been to her...</a>"</li>
+<li>"<a href="/wiki/The_Mock_Turtle%27s_Song" title="The Mock Turtle's Song">The Mock Turtle's Song</a>"</li>
+<li>"<a href="/wiki/The_Hunting_of_the_Snark" title="The Hunting of the Snark">The Hunting of the Snark</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Sequels</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/A_New_Alice_in_the_Old_Wonderland" title="A New Alice in the Old Wonderland">A New Alice in the Old Wonderland</a></i> (1895)</li>
+<li><i><a href="/wiki/New_Adventures_of_Alice" title="New Adventures of Alice">New Adventures of Alice</a></i> (1917)</li>
+<li><i><a href="/wiki/Alice_Through_the_Needle%27s_Eye" title="Alice Through the Needle's Eye">Alice Through the Needle's Eye</a></i> (1984)</li>
+<li><i><a href="/wiki/Automated_Alice" title="Automated Alice">Automated Alice</a></i> (1996)</li>
+<li><i><a href="/wiki/Wonderland_Revisited_and_the_Games_Alice_Played_There" title="Wonderland Revisited and the Games Alice Played There">Wonderland Revisited and the Games Alice Played There</a></i> (2009)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Retellings</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland_retold_in_words_of_one_syllable" title="Alice's Adventures in Wonderland retold in words of one syllable">Alice's Adventures in Wonderland retold in words of one syllable</a></i> (1905)</li>
+<li><i><a href="/wiki/Alice_in_Verse:_The_Lost_Rhymes_of_Wonderland" title="Alice in Verse: The Lost Rhymes of Wonderland">Alice in Verse: The Lost Rhymes of Wonderland</a></i> (2010)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Parodies</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Westminster_Alice" title="The Westminster Alice">The Westminster Alice</a></i> (1902)</li>
+<li><i><a href="/wiki/Clara_in_Blunderland" title="Clara in Blunderland">Clara in Blunderland</a></i> (1902)</li>
+<li><i><a href="/wiki/Lost_in_Blunderland" title="Lost in Blunderland">Lost in Blunderland</a></i> (1903)</li>
+<li><i><a href="/wiki/John_Bull%27s_Adventures_in_the_Fiscal_Wonderland" title="John Bull's Adventures in the Fiscal Wonderland">John Bull's Adventures in the Fiscal Wonderland</a></i> (1904)</li>
+<li><i><a href="/wiki/Alice_in_Blunderland:_An_Iridescent_Dream" title="Alice in Blunderland: An Iridescent Dream">Alice in Blunderland: An Iridescent Dream</a></i> (1904)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Imitations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Jean_Ingelow" title="Jean Ingelow">Mopsa the Fairy</a></i> (1869)</li>
+<li><i><a href="/wiki/Davy_and_the_Goblin" title="Davy and the Goblin">Davy and the Goblin</a></i> (1884)</li>
+<li><i><a href="/wiki/The_Admiral%27s_Caravan" title="The Admiral's Caravan">The Admiral's Caravan</a></i> (1891)</li>
+<li><i><a href="/wiki/Gladys_in_Grammarland" title="Gladys in Grammarland">Gladys in Grammarland</a></i> (1896)</li>
+<li><i><a href="/wiki/The_Magical_Monarch_of_Mo" title="The Magical Monarch of Mo">A New Wonderland</a></i> (1898)</li>
+<li><i><a href="/wiki/Rollo_in_Emblemland" title="Rollo in Emblemland">Rollo in Emblemland</a></i> (1902)</li>
+<li><i><a href="/wiki/The_Magic_World" title="The Magic World">Justnowland</a></i> (1912)</li>
+<li><i><a href="/wiki/Alice_in_Orchestralia" title="Alice in Orchestralia">Alice in Orchestralia</a></i> (1925)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Reimagining</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice_or_the_Last_Escapade" title="Alice or the Last Escapade">Alice or the Last Escapade</a></i> (1977)</li>
+<li><i><a href="/wiki/Adventures_in_Wonderland" title="Adventures in Wonderland">Adventures in Wonderland</a></i> (1991)</li>
+<li><i><a href="/wiki/The_Looking_Glass_Wars" title="The Looking Glass Wars">The Looking Glass Wars</a></i> (2006)</li>
+<li><i><a href="/wiki/Alice_(miniseries)" title="Alice (miniseries)">Alice</a></i> (2009)</li>
+<li><i><a href="/wiki/Malice_in_Wonderland_(2009_film)" title="Malice in Wonderland (2009 film)">Malice in Wonderland</a></i> (2009)</li>
+<li><a href="/wiki/Alice_in_Wonderland_(2010_film)" title="Alice in Wonderland (2010 film)"><i>Alice in Wonderland</i></a> (2010)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland:_Through_the_Looking_Glass" title="Alice in Wonderland: Through the Looking Glass">Alice in Wonderland: Through the Looking Glass</a></i> (2016)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Film</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alice_in_Wonderland_(1903_film)" title="Alice in Wonderland (1903 film)">1903</a></li>
+<li><a href="/wiki/Alice%27s_Adventures_in_Wonderland_(1910_film)" title="Alice's Adventures in Wonderland (1910 film)">1910</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1915_film)" title="Alice in Wonderland (1915 film)">1915</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1931_film)" title="Alice in Wonderland (1931 film)">1931</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1933_film)" title="Alice in Wonderland (1933 film)">1933</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1949_film)" title="Alice in Wonderland (1949 film)">1949</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1951_film)" title="Alice in Wonderland (1951 film)">1951</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1966_TV_play)" title="Alice in Wonderland (1966 TV play)">1966</a></li>
+<li><a href="/wiki/Alice%27s_Adventures_in_Wonderland_(1972_film)" title="Alice's Adventures in Wonderland (1972 film)">1972</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1976_film)" title="Alice in Wonderland (1976 film)">1976</a></li>
+<li><a href="/wiki/Alice_(1982_film)" title="Alice (1982 film)">1982</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1985_film)" title="Alice in Wonderland (1985 film)">1985</a></li>
+<li><a href="/wiki/Alice_Through_the_Looking_Glass_(1987_film)" title="Alice Through the Looking Glass (1987 film)">1987</a></li>
+<li><a href="/wiki/Alice_(1988_film)" title="Alice (1988 film)">1988 (Czech)</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1988_film)" title="Alice in Wonderland (1988 film)">1988 (Australian)</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1995_film)" title="Alice in Wonderland (1995 film)">1995</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1999_film)" title="Alice in Wonderland (1999 film)">1999</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Stage</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland_(ballet)" title="Alice's Adventures in Wonderland (ballet)">Alice's Adventures in Wonderland</a></i> (ballet)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(musical)" title="Alice in Wonderland (musical)">Alice in Wonderland</a></i> (musical)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(opera)" title="Alice in Wonderland (opera)">Alice in Wonderland</a></i> (opera)</li>
+<li><i><a href="/wiki/Peter_and_Alice" title="Peter and Alice">Peter and Alice</a></i> (2013 play)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Television</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Fushigi_no_Kuni_no_Alice" title="Fushigi no Kuni no Alice">Fushigi no Kuni no Alice</a></i></li>
+<li><i><a href="/wiki/Once_Upon_a_Time_(TV_series)" title="Once Upon a Time (TV series)">Once Upon a Time</a></i></li>
+<li><i><a href="/wiki/Once_Upon_a_Time_in_Wonderland" title="Once Upon a Time in Wonderland">Once Upon a Time in Wonderland</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Literary</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice_in_the_Country_of_Hearts" title="Alice in the Country of Hearts">Alice in the Country of Hearts</a></i>
+<ul>
+<li><a href="/wiki/List_of_Alice_in_the_Country_of_Hearts_characters" title="List of Alice in the Country of Hearts characters">characters</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Miyuki-chan_in_Wonderland" title="Miyuki-chan in Wonderland">Miyuki-chan in Wonderland</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Video games</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice_no_Paint_Adventure" title="Alice no Paint Adventure">Alice no Paint Adventure</a></i> (1995)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(2000_video_game)" title="Alice in Wonderland (2000 video game)">Alice in Wonderland</a></i> (2000)</li>
+<li><i><a href="/wiki/American_McGee%27s_Alice" title="American McGee's Alice">American McGee's Alice</a></i> (2000)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(2010_video_game)" title="Alice in Wonderland (2010 video game)">Alice in Wonderland</a></i> (2010)</li>
+<li><i><a href="/wiki/Alice:_Madness_Returns" title="Alice: Madness Returns">Alice: Madness Returns</a></i> (2011)</li>
+<li><i><a href="/wiki/Kingdom_Hearts" title="Kingdom Hearts">Kingdom Hearts</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Audio dramas</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Legend_of_the_Cybermen" title="Legend of the Cybermen">Legend of the Cybermen</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight: bold;">
+<div>
+<ul>
+<li><img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:Alice_in_Wonderland" title="Book:Alice in Wonderland">Book:Alice in Wonderland</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Alice_in_Wonderland" title="Category:Alice in Wonderland">Category:Alice in Wonderland</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Children%27s_literature" title="Portal:Children's literature">Portal:Children's literature</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1036
+CPU time usage: 1.047 seconds
+Real time usage: 1.144 seconds
+Preprocessor visited node count: 4586/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 133042/2097152 bytes
+Template argument size: 1789/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.463/10.000 seconds
+Lua memory usage: 7.02 MB/50 MB
+-->
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  854.548      1 - -total
+ 30.52%  260.802      2 - Template:Reflist
+ 26.61%  227.391     72 - Template:Sfn
+ 13.13%  112.205     21 - Template:Cite_book
+  9.40%   80.355      4 - Template:Navbox
+  7.52%   64.254      1 - Template:Infobox_character
+  7.10%   60.678      1 - Template:Alice
+  6.11%   52.222      1 - Template:Convert
+  6.05%   51.696      1 - Template:Infobox
+  5.37%   45.859      8 - Template:Cite_web
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:62446-0!*!0!!en!4!* and timestamp 20150207225404 and revision id 646102221
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;oldid=646102221">http://en.wikipedia.org/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;oldid=646102221</a>"					</div>
+<div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Child_characters_in_anime_and_manga" title="Category:Child characters in anime and manga">Child characters in anime and manga</a></li><li><a href="/wiki/Category:Child_characters_in_comics" title="Category:Child characters in comics">Child characters in comics</a></li><li><a href="/wiki/Category:Child_characters_in_film" title="Category:Child characters in film">Child characters in film</a></li><li><a href="/wiki/Category:Child_characters_in_animated_films" title="Category:Child characters in animated films">Child characters in animated films</a></li><li><a href="/wiki/Category:Child_characters_in_literature" title="Category:Child characters in literature">Child characters in literature</a></li><li><a href="/wiki/Category:Child_characters_in_musical_theatre" title="Category:Child characters in musical theatre">Child characters in musical theatre</a></li><li><a href="/wiki/Category:Child_characters_in_television" title="Category:Child characters in television">Child characters in television</a></li><li><a href="/wiki/Category:Child_characters_in_video_games" title="Category:Child characters in video games">Child characters in video games</a></li><li><a href="/wiki/Category:Disney%27s_Alice_in_Wonderland_characters" title="Category:Disney's Alice in Wonderland characters">Disney's Alice in Wonderland characters</a></li><li><a href="/wiki/Category:Female_characters_in_anime_and_manga" title="Category:Female characters in anime and manga">Female characters in anime and manga</a></li><li><a href="/wiki/Category:Fictional_characters_introduced_in_1865" title="Category:Fictional characters introduced in 1865">Fictional characters introduced in 1865</a></li><li><a href="/wiki/Category:Fictional_English_people" title="Category:Fictional English people">Fictional English people</a></li><li><a href="/wiki/Category:Fictional_queens" title="Category:Fictional queens">Fictional queens</a></li><li><a href="/wiki/Category:Kingdom_Hearts_characters" title="Category:Kingdom Hearts characters">Kingdom Hearts characters</a></li><li><a href="/wiki/Category:Lewis_Carroll_characters" title="Category:Lewis Carroll characters">Lewis Carroll characters</a></li><li><a href="/wiki/Category:Once_Upon_a_Time_(TV_series)_characters" title="Category:Once Upon a Time (TV series) characters">Once Upon a Time (TV series) characters</a></li><li><a href="/wiki/Category:Teenage_characters_in_film" title="Category:Teenage characters in film">Teenage characters in film</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2013" title="Category:Use dmy dates from June 2013">Use dmy dates from June 2013</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alice+%28Alice%27s+Adventures+in+Wonderland%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Alice+%28Alice%27s+Adventures+in+Wonderland%29" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Alice_(Alice%27s_Adventures_in_Wonderland)" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=history" title="Past versions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if one exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li>
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+<li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li>
+<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+<li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li>
+<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Alice_(Alice%27s_Adventures_in_Wonderland)" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li>
+<li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Alice_(Alice%27s_Adventures_in_Wonderland)" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
+<li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
+<li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;oldid=646102221" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;action=info" title="More information about this page">Page information</a></li>
+<li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q1269082" title="Link to connected data repository item [g]">Wikidata item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alice_%28Alice%27s_Adventures_in_Wonderland%29&amp;id=646102221" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Alice+%28Alice%27s+Adventures+in+Wonderland%29">Create a book</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Alice+%28Alice%27s+Adventures+in+Wonderland%29&amp;oldid=646102221&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="t-print"><a accesskey="p" href="/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Alisa_(Kerrolun_personaj%C4%B1)" hreflang="az" lang="az" title="Alisa (Kerrolun personajı) – Azerbaijani">Azərbaycanca</a></li>
+<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_(%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6)" hreflang="bg" lang="bg" title="Алиса (персонаж) – Bulgarian">Български</a></li>
+<li class="interlanguage-link interwiki-cy"><a href="//cy.wikipedia.org/wiki/Alys_(Anturiaethau_Alys_yng_Ngwlad_Hud)" hreflang="cy" lang="cy" title="Alys (Anturiaethau Alys yng Ngwlad Hud) – Welsh">Cymraeg</a></li>
+<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Alicia_(Alicia_en_el_Pa%C3%ADs_de_las_Maravillas)" hreflang="es" lang="es" title="Alicia (Alicia en el País de las Maravillas) – Spanish">Español</a></li>
+<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%95%A8%EB%A6%AC%EC%8A%A4_(%EC%9D%B4%EC%83%81%ED%95%9C_%EB%82%98%EB%9D%BC%EC%9D%98_%EC%95%A8%EB%A6%AC%EC%8A%A4)" hreflang="ko" lang="ko" title="앨리스 (이상한 나라의 앨리스) – Korean">한국어</a></li>
+<li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Alice_(Disney)" hreflang="id" lang="id" title="Alice (Disney) – Indonesian">Bahasa Indonesia</a></li>
+<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Alice_(Alice_nel_Paese_delle_Meraviglie)" hreflang="it" lang="it" title="Alice (Alice nel Paese delle Meraviglie) – Italian">Italiano</a></li>
+<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%B9_(%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E5%9B%BD%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9)" hreflang="ja" lang="ja" title="アリス (不思議の国のアリス) – Japanese">日本語</a></li>
+<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Alicja_(Alicja_w_Krainie_Czar%C3%B3w)" hreflang="pl" lang="pl" title="Alicja (Alicja w Krainie Czarów) – Polish">Polski</a></li>
+<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Alice_(personagem_da_Disney)" hreflang="pt" lang="pt" title="Alice (personagem da Disney) – Portuguese">Português</a></li>
+<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_(%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6_%D0%9A%D1%8D%D1%80%D1%80%D0%BE%D0%BB%D0%BB%D0%B0)" hreflang="ru" lang="ru" title="Алиса (персонаж Кэрролла) – Russian">Русский</a></li>
+<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_(%D1%98%D1%83%D0%BD%D0%B0%D0%BA%D0%B8%D1%9A%D0%B0_%D0%9A%D0%B5%D1%80%D0%BE%D0%BB%D0%B0)" hreflang="sr" lang="sr" title="Алиса (јунакиња Керола) – Serbian">Српски / srpski</a></li>
+<li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)" hreflang="sh" lang="sh" title="Alice (Alice's Adventures in Wonderland) – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li>
+<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%90%D0%BB%D1%96%D1%81%D0%B0_(%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6_%D0%9B%D1%8C%D1%8E%D1%97%D1%81%D0%B0_%D0%9A%D0%B5%D1%80%D1%80%D0%BE%D0%BB%D0%B0)" hreflang="uk" lang="uk" title="Аліса (персонаж Льюїса Керрола) – Ukrainian">Українська</a></li>
+<li class="uls-p-lang-dummy"><a href="#"></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" class="wbc-editpage" href="//www.wikidata.org/wiki/Q1269082#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 7 February 2015, at 22:54.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Alice_(Alice%27s_Adventures_in_Wonderland)&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
+</li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,2881 @@
+
+<!DOCTYPE html>
+
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+
+
+
+
+<title>The Avengers (2012) - IMDb</title>
+
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://www.imdb.com/title/tt0848228/" rel="canonical"/>
+<meta content="http://www.imdb.com/title/tt0848228/" property="og:url"/>
+
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._CB379387995_.ico" rel="icon" type="image/ico"/>
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB379390718_.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-4151659188._CB361295786_.png" rel="apple-touch-icon">
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-76x76-53536248._CB361295462_.png" rel="apple-touch-icon" sizes="76x76">
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-120x120-2442878471._CB361295428_.png" rel="apple-touch-icon" sizes="120x120">
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-152x152-1475823641._CB361295368_.png" rel="apple-touch-icon" sizes="152x152">
+<link href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._CB379388505_.xml" rel="search" title="IMDb" type="application/opensearchdescription+xml"/>
+
+<link href="http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SY1024_CR31,0,630,1024_AL_.jpg" rel="image_src">
+<meta content="http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SY1024_CR31,0,630,1024_AL_.jpg" property="og:image"/>
+<meta content="video.movie" property="og:type"/>
+<meta content="115109575169727" property="fb:app_id"/>
+<meta content="The Avengers (2012)" property="og:title"/>
+<meta content="IMDb" property="og:site_name"/>
+<meta content="The Avengers (2012) - IMDb" name="title"/>
+<meta content="Directed by Joss Whedon.  With Robert Downey Jr., Chris Evans, Scarlett Johansson, Jeremy Renner. Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity." name="description"/>
+<meta content="Directed by Joss Whedon.  With Robert Downey Jr., Chris Evans, Scarlett Johansson, Jeremy Renner. Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity." property="og:description"/>
+<meta content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" name="keywords"/>
+<meta content="1NMDJCG00D3G6SS64M37" name="request_id"/>
+
+<!-- h=ics-http-1d-c1xl-i-a09e3b4b.us-east-1 -->
+<link href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-flat-1727500637._CB329456392_.css" rel="stylesheet" type="text/css"/>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/ie-1918465287._CB354866480_.css" /><![endif]-->
+<link href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-1801187020._CB325753108_.css" rel="stylesheet" type="text/css"/>
+<noscript>
+<link href="http://ia.media-imdb.com/images/G/01/imdb/css/wheel/nojs-2627072490._CB343672767_.css" rel="stylesheet" type="text/css">
+</link></noscript>
+
+
+
+
+</link></link></link></link></link></head>
+<body class="fixed" id="styleguide-v2">
+
+
+<div id="wrapper">
+<div class="redesign" id="root">
+
+<div class="navbarSprite" id="nb20">
+<div id="supertab">
+<!-- no content received for slot: top_ad -->
+</div>
+<div class="navbarSprite" id="navbar">
+<noscript>
+<link href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-no-js-4175877511._CB379390803_.css" rel="stylesheet" type="text/css"/>
+</noscript>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-ie-470687728._CB379390980_.css"><![endif]-->
+<span id="home_img_holder">
+<a class="navbarSprite" href="/?ref_=nv_home" id="home_img" title="Home"></a> <span class="alt_logo">
+<a href="/?ref_=nv_home" title="Home">IMDb</a>
+</span>
+</span>
+<form action="/find" class="nav-searchbar-inner" id="navbar-form" method="get" onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';">
+<div id="nb_search">
+<noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+<button class="primary btn" id="navbar-submit-button" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+<input name="ref_" type="hidden" value="nv_sr_fn"/>
+<input autocomplete="off" id="navbar-query" name="q" placeholder="Find Movies, TV shows, Celebrities and more..." type="text" value="">
+<div class="quicksearch_dropdown_wrapper">
+<select class="quicksearch_dropdown navbarSprite" id="quicksearch" name="s" onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+<option value="all">All</option>
+<option value="tt">Titles</option>
+<option value="ep">TV Episodes</option>
+<option value="nm">Names</option>
+<option value="co">Companies</option>
+<option value="kw">Keywords</option>
+<option value="ch">Characters</option>
+<option value="qu">Quotes</option>
+<option value="bi">Bios</option>
+<option value="pl">Plots</option>
+</select>
+</div>
+<div id="navbar-suggestionsearch"></div>
+</input></div>
+</form>
+<div id="megaMenu">
+<ul class="main_nav" id="consumer_main_nav">
+<li class="spacer"></li>
+<li class="css_nav_item" id="navTitleMenu">
+<p class="navCategory">
+<a href="/movies-in-theaters/?ref_=nv_tp_inth_1">Movies</a>,
+                <a href="/tv/?ref_=nv_tp_tvhm_2">TV</a><br/>
+                &amp; <a href="/showtimes/?ref_=nv_tp_sh_3">Showtimes</a></p>
+<span class="downArrow"></span>
+<div class="sub_nav" id="navMenu1">
+<div id="titleAd"></div>
+<div class="subNavListContainer">
+<h5>MOVIES</h5>
+<ul>
+<li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1">In Theaters</a></li>
+<li><a href="/showtimes/?ref_=nv_mv_sh_2">Showtimes &amp; Tickets</a></li>
+<li><a href="/trailers/?ref_=nv_mv_tr_3">Latest Trailers</a></li>
+<li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4">Coming Soon</a></li>
+<li><a href="/calendar/?ref_=nv_mv_cal_5">Release Calendar</a></li>
+</ul>
+<h5>CHARTS &amp; TRENDS</h5>
+<ul>
+<li><a href="/search/title?count=100&amp;title_type=feature%2Ctv_series%2Ctv_movie&amp;ref_=nv_ch_mm_1">Popular Movies &amp; TV</a></li>
+<li><a href="/chart/?ref_=nv_ch_cht_2">Box Office</a></li>
+<li><a href="/search/title?count=100&amp;groups=oscar_best_picture_winners&amp;sort=year%2Cdesc&amp;ref_=nv_ch_osc_3">Oscar Winners</a></li>
+<li><a href="/chart/top?ref_=nv_ch_250_4">Top 250</a></li>
+<li><a href="/genre/?ref_=nv_ch_gr_5">Most Popular by Genre</a></li>
+</ul>
+</div>
+<div class="subNavListContainer">
+<h5>TV &amp; VIDEO</h5>
+<ul>
+<li><a href="/tv/?ref_=nv_tvv_hm_1">TV Home</a></li>
+<li><a href="/tvgrid/?ref_=nv_tvv_ls_2">On Tonight</a></li>
+<li><a href="/watchnow/?ref_=nv_tvv_wn_3">Watch Now on Amazon</a></li>
+<li><a href="/sections/dvd/?ref_=nv_tvv_dvd_4">DVD &amp; Blu-Ray</a></li>
+<li><a href="/tv/blog?ref_=nv_tvv_blog_5">TV Blog</a></li>
+</ul>
+<h5>SPECIAL FEATURES</h5>
+<ul>
+<li><a href="/academymuseum/?ref_=nv_sf_am_1">Academy Museum</a></li>
+<li><a href="/imdbpicks/?ref_=nv_sf_pks_2">IMDb Picks</a></li>
+<li><a href="/best-of/?ref_=nv_sf_bo_3">Best of 2014</a></li>
+<li><a href="/x-ray/?ref_=nv_sf_xray_4">X-Ray for Movies &amp; TV</a></li>
+<li><a href="/whattowatch/?ref_=nv_sf_wtw_5">What to Watch</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="spacer"></li>
+<li class="css_nav_item" id="navNameMenu">
+<p class="navCategory">
+<a href="/search/name?gender=male%2Cfemale&amp;ref_=nv_tp_cel_1">Celebs</a>,
+                <a href="/awards-central/?ref_=nv_tp_awrd_2">Events</a><br/>
+                &amp; <a href="/media/index/rg1176148480?ref_=nv_tp_ph_3">Photos</a></p>
+<span class="downArrow"></span>
+<div class="sub_nav" id="navMenu2">
+<div id="nameAd"></div>
+<div class="subNavListContainer">
+<h5>CELEBS</h5>
+<ul>
+<li><a href="/search/name?birth_monthday=02-09&amp;refine=birth_monthday&amp;ref_=nv_cel_brn_1">Born Today</a></li>
+<li><a href="/news/celebrity?ref_=nv_cel_nw_2">Celebrity News</a></li>
+<li><a href="/search/name?gender=male%2Cfemale&amp;ref_=nv_cel_m_3">Most Popular Celebs</a></li>
+</ul>
+<h5>PHOTOS</h5>
+<ul>
+<li><a href="/media/index/rg1176148480?ref_=nv_ph_ls_1">Latest Stills</a></li>
+<li><a href="/media/index/rg1528338944?ref_=nv_ph_lp_2">Latest Posters</a></li>
+<li><a href="/media/index/rg2465176320?ref_=nv_ph_lv_3">Photos We Love</a></li>
+</ul>
+</div>
+<div class="subNavListContainer">
+<h5>EVENTS</h5>
+<ul>
+<li><a href="/awards-central/?ref_=nv_ev_awrd_1">Awards Central</a></li>
+<li><a href="/sundance/?ref_=nv_ev_sun_2">Sundance</a></li>
+<li><a href="/sxsw/?ref_=nv_ev_sxsw_3">SXSW Film Festival</a></li>
+<li><a href="/tribeca/?ref_=nv_ev_tri_4">Tribeca</a></li>
+<li><a href="/cannes/?ref_=nv_ev_can_5">Cannes</a></li>
+<li><a href="/comic-con/?ref_=nv_ev_comic_6">Comic-Con</a></li>
+<li><a href="/emmys/?ref_=nv_ev_rte_7">Road to the Emmys</a></li>
+<li><a href="/venice/?ref_=nv_ev_venice_8">Venice Film Festival</a></li>
+<li><a href="/toronto/?ref_=nv_ev_tff_9">Toronto Film Festival</a></li>
+<li><a href="/awards-central/?ref_=nv_ev_all_10">More Popular Events</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="spacer"></li>
+<li class="css_nav_item" id="navNewsMenu">
+<p class="navCategory">
+<a href="/news/top?ref_=nv_tp_nw_1">News</a> &amp;<br/>
+<a href="/boards/?ref_=nv_tp_bd_2">Community</a></p>
+<span class="downArrow"></span>
+<div class="sub_nav" id="navMenu3">
+<div id="latestHeadlines">
+<div class="subNavListContainer">
+<h5>LATEST HEADLINES</h5>
+<ul>
+<li itemprop="headline">
+<a href="/news/ni58272316/?ref_=nv_nw_tn_1"> Kevin Hart Hosting Justin Bieber’s Comedy Central Roast
+</a><br/>
+<span class="time">7 hours ago</span>
+</li>
+<li itemprop="headline">
+<a href="/news/ni58272444/?ref_=nv_nw_tn_2"> Grammys 2015: All the Performances, Ranked From Worst to Best (Video)
+</a><br/>
+<span class="time">8 hours ago</span>
+</li>
+<li itemprop="headline">
+<a href="/news/ni58272206/?ref_=nv_nw_tn_3"> It Seems The Walking Dead's Emily Kinney Has Joined The Flash As The 'Bug-Eyed Bandit'
+</a><br/>
+<span class="time">9 hours ago</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="subNavListContainer">
+<h5>NEWS</h5>
+<ul>
+<li><a href="/news/top?ref_=nv_nw_tp_1">Top News</a></li>
+<li><a href="/news/movie?ref_=nv_nw_mv_2">Movie News</a></li>
+<li><a href="/news/tv?ref_=nv_nw_tv_3">TV News</a></li>
+<li><a href="/news/celebrity?ref_=nv_nw_cel_4">Celebrity News</a></li>
+<li><a href="/news/indie?ref_=nv_nw_ind_5">Indie News</a></li>
+</ul>
+<h5>COMMUNITY</h5>
+<ul>
+<li><a href="/boards/?ref_=nv_cm_bd_1">Message Boards</a></li>
+<li><a href="/czone/?ref_=nv_cm_cz_2">Contributor Zone</a></li>
+<li><a href="/games/guess?ref_=nv_cm_qz_3">Quiz Game</a></li>
+<li><a href="/poll/?ref_=nv_cm_pl_4">Polls</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="spacer"></li>
+<li class="css_nav_item" id="navWatchlistMenu">
+<p class="navCategory singleLine watchlist">
+<a href="/list/watchlist?ref_=nv_wl_all_0">Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div class="sub_nav" id="navMenu4">
+<h5>
+            YOUR WATCHLIST
+    </h5>
+<ul id="navWatchlist">
+</ul>
+
+</div>
+</li>
+<li class="spacer"></li>
+</ul>
+
+</div>
+<div id="nb_extra">
+<ul class="main_nav" id="nb_extra_nav">
+<li class="css_nav_item" id="navProMenu">
+<p class="navCategory">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&amp;ref_=cons_nb_hm"> <img alt="IMDbPro Menu" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_nb-720143162._CB377744227_.png"/>
+</a> </p>
+<span class="downArrow"></span>
+<div class="sub_nav" id="navMenuPro">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&amp;ref_=cons_nb_hm" id="proLink"> <div id="proAd">
+
+</div>
+<div class="subNavListContainer">
+<img alt="Go to IMDbPro" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_menu-2185879182._CB377744253_.png" title="Go to IMDbPro"/>
+<h5>GET INFORMED</h5>
+<p>Industry information at your fingertips</p>
+<h5>GET CONNECTED</h5>
+<p>Over 200,000 Hollywood insiders</p>
+<h5>GET DISCOVERED</h5>
+<p>Enhance your IMDb Page</p>
+<p><strong>Go to IMDbPro »</strong></p>
+</div>
+</a> </div>
+</li>
+<li class="spacer"><span class="ghost">|</span></li>
+<li>
+<a href="/apps/?ref_=nb_app">IMDb Apps</a>
+</li>
+<li class="spacer"><span class="ghost">|</span></li>
+<li>
+<a href="/help/?ref_=nb_hlp">Help</a>
+</li>
+</ul>
+</div>
+<div id="nb_personal">
+<ul class="main_nav" id="consumer_user_nav">
+<li class="css_nav_menu" id="navUserMenu">
+<p class="navCategory singleLine">
+<a href="/register/login?ref_=nv_usr_lgin_1" id="nblogin" rel="login">Login</a>
+</p>
+<span class="downArrow"></span>
+<div class="sub_nav">
+<div class="subNavListContainer">
+<br/>
+<ul>
+<li>
+<a href="https://secure.imdb.com/register-imdb/form-v2?ref_=nv_usr_reg_2">Register</a>
+</li>
+<li>
+<a href="/register/login?ref_=nv_usr_lgin_3" id="nblogin" rel="login">Login</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- no content received for slot: navstrip -->
+<!-- no content received for slot: injected_navstrip -->
+
+<div id="pagecontent" itemscope="" itemtype="http://schema.org/Movie">
+<!-- no content received for slot: injected_billboard -->
+<!-- no content received for slot: navboard -->
+<div class="redesign" id="content-2-wide">
+<div class="maindetails_center" id="maindetails_center_top">
+<div class="article title-overview">
+
+<div id="title-overview-widget">
+<table border="0" cellpadding="0" cellspacing="0" id="title-overview-widget-layout">
+<tbody>
+<tr>
+<td id="img_primary" rowspan="2">
+<div class="image">
+<a href="/media/rm127383040/tt0848228?ref_=tt_ov_i"> <img alt="The Avengers (2012) Poster" height="317" itemprop="image" src="http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SY317_CR0,0,214,317_AL_.jpg" title="The Avengers (2012) Poster" width="214"/>
+</a> </div>
+<div class="pro-title-link text-center">
+<a href="http://pro.imdb.com/title/tt0848228?rf=cons_tt_contact&amp;ref_=cons_tt_contact">Contact the Filmmakers on IMDbPro »</a>
+</div>
+</td>
+<td id="overview-top">
+<div id="prometer_container">
+<div class="meter-collapsed down" id="prometer">
+<div id="meterHeaderBox">
+<div class="meterToggleOnHover" id="meterTitle">MOVIEmeter</div>
+<a href="http://pro.imdb.com/title/tt0848228?rf=cons_tt_meter&amp;ref_=cons_tt_meter" id="meterRank">Top 500
+</a> </div>
+<div class="meterToggleOnHover" id="meterChangeRow">
+<span>Down</span>
+<span id="meterChange">52</span>
+<span>this week</span>
+</div>
+<div class="meterToggleOnHover" id="meterSeeMoreRow">
+<a href="http://pro.imdb.com/title/tt0848228?rf=cons_tt_meter&amp;ref_=cons_tt_meter">View rank on IMDbPro</a>
+<span>»</span>
+</div>
+</div>
+</div>
+<h1 class="header"> <span class="itemprop" itemprop="name">The Avengers</span>
+<span class="nobr">(<a href="/year/2012/?ref_=tt_ov_inf">2012</a>)</span>
+</h1>
+<div class="infobar">
+<span class="us_pg_13 titlePageSprite absmiddle" content="PG-13" itemprop="contentRating" title="PG-13"></span>
+<time datetime="PT143M" itemprop="duration">
+                143 min
+</time>
+                 - 
+<a href="/genre/Action?ref_=tt_ov_inf"><span class="itemprop" itemprop="genre">Action</span></a>
+<span class="ghost">|</span>
+<a href="/genre/Adventure?ref_=tt_ov_inf"><span class="itemprop" itemprop="genre">Adventure</span></a>
+<span class="ghost">|</span>
+<a href="/genre/Sci-Fi?ref_=tt_ov_inf"><span class="itemprop" itemprop="genre">Sci-Fi</span></a>
+                 - 
+            <span class="nobr">
+<a href="/title/tt0848228/releaseinfo?ref_=tt_ov_inf+" title="See all release dates"> 4 May 2012<meta content="2012-05-04" itemprop="datePublished"/>
+(USA)
+</a> </span>
+</div>
+<div class="star-box giga-star">
+<div class="titlePageSprite star-box-giga-star"> 8.2 </div>
+<div class="star-box-rating-widget">
+<span class="star-box-rating-label">Your rating:</span>
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt0848228|imdb|0|0|title-maindetails|tt0848228|title|main" title="Users rated this 8.2/10 (773,507 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 0px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">-</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0848228/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+</div>
+<div class="star-box-details" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+            Ratings:
+<strong><span itemprop="ratingValue">8.2</span></strong><span class="mellow">/<span itemprop="bestRating">10</span></span>            from <a href="ratings?ref_=tt_ov_rt" title="773,507 IMDb users have given a weighted average vote of 8.2/10"> <span itemprop="ratingCount">773,507</span> users
+</a> 
+            Metascore: <a href="criticreviews?ref_=tt_ov_rt" title="69 review excerpts provided by Metacritic.com"> 69/100
+</a> <br/>
+            Reviews:
+<a href="reviews?ref_=tt_ov_rt" title="1,629 IMDb user reviews"> <span itemprop="reviewCount">1,629 user</span>
+</a>
+<span class="ghost">|</span>
+<a href="externalreviews?ref_=tt_ov_rt" title="672 IMDb critic reviews"> <span itemprop="reviewCount">672 critic</span>
+</a>
+<span class="ghost">|</span>
+<a href="criticreviews?ref_=tt_ov_rt" title="43 review excerpts provided by Metacritic.com"> 43
+</a>                from
+<a href="http://www.metacritic.com" target="_blank"> Metacritic.com
+</a>
+</div>
+<div class="clear"></div>
+</div>
+<p></p>
+<p itemprop="description">
+Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.</p>
+<p></p>
+<div class="txt-block" itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<h4 class="inline">Director:</h4>
+<a href="/name/nm0923736/?ref_=tt_ov_dr" itemprop="url"><span class="itemprop" itemprop="name">Joss Whedon</span></a>
+</div>
+<div class="txt-block" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
+<h4 class="inline">Writers:</h4>
+<a href="/name/nm0923736/?ref_=tt_ov_wr" itemprop="url"><span class="itemprop" itemprop="name">Joss Whedon</span></a>               (screenplay), 
+<a href="/name/nm0672015/?ref_=tt_ov_wr" itemprop="url"><span class="itemprop" itemprop="name">Zak Penn</span></a>               (story), <a href="fullcredits?ref_=tt_ov_wr#writers">1 more credit</a> »
+    </div>
+<div class="txt-block" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<h4 class="inline">Stars:</h4>
+<a href="/name/nm0000375/?ref_=tt_ov_st" itemprop="url"><span class="itemprop" itemprop="name">Robert Downey Jr.</span></a>, 
+<a href="/name/nm0262635/?ref_=tt_ov_st" itemprop="url"><span class="itemprop" itemprop="name">Chris Evans</span></a>, 
+<a href="/name/nm0424060/?ref_=tt_ov_st" itemprop="url"><span class="itemprop" itemprop="name">Scarlett Johansson</span></a> <span class="ghost">|</span>
+<span class="see-more inline nobr">
+<a href="fullcredits?ref_=tt_ov_st_sm" itemprop="url"> See full cast and crew</a> »
+                          </span>
+</div>
+</td>
+</tr>
+<tr>
+<td id="overview-bottom">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="wlb_watchlist_btn" data-caller-name="title" data-show-message="1" data-size="large" data-tconst="tt0848228" data-type="primary">
+</a>
+<a class="wlb_dropdown_btn" data-caller-name="title" data-size="large" data-tconst="tt0848228" data-type="primary">
+</a>
+</span>
+<div class="wlb_dropdown_list" style="display:none;">
+</div>
+<div class="wlb_alert" style="display:none">
+</div>
+</div>
+<a class="btn2 btn2_text_on large title-trailer video-colorbox" data-context="imdb" data-tconst="tt0848228" data-type="recommends" data-video="vi1891149081" href="/video/imdb/vi1891149081/?ref_=tt_ov_vi" itemprop="trailer"> <span class="btn2_text">Watch Trailer</span>
+</a>
+<div id="share-checkin">
+<div class="add_to_checkins" data-const="tt0848228" data-lcn="title-maindetails">
+<span class="btn2_wrapper"><a class="btn2 large btn2_text_on disabled checkins_action_btn" onclick=""><span class="btn2_glyph">0</span><span class="btn2_text">Check in</span></a></span> <div class="popup checkin-dialog">
+<a class="small disabled close btn">X</a>
+<span class="beta">Beta</span>
+<span class="title">I'm Watching This!</span>
+<div class="body">
+<div class="info">Keep track of everything you watch; tell your friends.
+            </div>
+<div class="small message_box">
+<div class="hidden error"><h2>Error</h2> Please try again!</div>
+<div class="hidden success"><h2>Added to Your Check-Ins.</h2> <a href="/list/checkins">View</a></div>
+</div>
+<textarea data-msg="Enter a comment..."></textarea>
+<div class="share">
+<button class="large primary btn"><span>Check in</span></button>
+<!--
+                    Check-ins are more fun when<br>
+                    you <a href="/register/sharing">enable Facebook sharing</a>!
+-->
+</div>
+</div>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+</div>
+<span class="btn2_wrapper"><a class="btn2 large btn2_text_on launch-share-popover" onclick=""><span class="btn2_glyph">0</span><span class="btn2_text">Share...</span></a></span><div id="share-popover">
+<a class="close-popover" href="#">X</a>
+<h4>Share</h4>
+<a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0848228%2F%3Fref_%3Dext_shr_fb_tt" onclick="window.open(&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0848228%2F%3Fref_%3Dext_shr_fb_tt&quot;, 'newWindow', 'width=626,height=436'); return false;" target="_blank" title="Share on Facebook"><div class="option facebook">
+<span class="titlePageSprite share_facebook"></span>
+<div>Facebook</div>
+</div></a>
+<a class="twitter" href="http://twitter.com/intent/tweet?text=The%20Avengers%20(2012)%20-%20imdb.com%2Ftitle%2Ftt0848228%2F%3Fref_%3Dext_shr_tw_tt" onclick="window.open(&quot;http://twitter.com/intent/tweet?text=The%20Avengers%20(2012)%20-%20imdb.com%2Ftitle%2Ftt0848228%2F%3Fref_%3Dext_shr_tw_tt&quot;, 'newWindow', 'width=815,height=436'); return false;" target="_blank" title="Share on Twitter"><div class="option twitter">
+<span class="titlePageSprite share_twitter"></span>
+<div>Twitter</div>
+</div></a>
+<a class="" href="mailto:?subject=IMDb%3A%20The%20Avengers%20(2012)&amp;body=IMDb%3A%20The%20Avengers%20(2012)%0AEarth's%20mightiest%20heroes%20must%20come%20together%20and%20learn%20to%20fight%20as%20a%20team%20if%20they%20are%20to%20stop%20the%20mischievous%20Loki%20and%20his%20alien%20army%20from%20enslaving%20humanity.%0Ahttp%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0848228%2F%3Fref_%3Dext_shr_eml_tt" title="Share by e-mail"><div class="option email">
+<span class="titlePageSprite share_email"></span>
+<div>E-mail</div>
+</div></a>
+<a class="open-checkin-popover" href="#">
+<div class="option checkin">
+<span class="titlePageSprite share_checkin"></span>
+<div>Check in</div>
+</div>
+</a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+</div>
+
+<div class="watchbar2">
+<div class="showtime full-table">
+<div class="winner-option watch-option " data-href="/offsite/?page-action=watch-aiv&amp;token=BCYt3OsIc6QEYUrCCCVuwyfBgEoc3ZxoblonqokUq_jMLdmsG0z52ghCievVLanyqVbVxM44TuiW%0D%0Acw8k0p-hV7nCWuwHIjRCoFbki23jF40FUoTnWQE1nP6PoiMyI_zuukT4sVj15vWNlOX7OTfrIpAO%0D%0AutD3IoGbBOqLQqS_citiBO64PRUgNjvTdPvqivI4O3Ajpf9WDQafjFnq1UTP4tGC3fLx9v9ki_Ve%0D%0AjpYTVKummZcdpUI2K8fLLcI_ukv4GRn7zDTkTgvPrvrePgH6dz4emw%0D%0A&amp;ref_=tt_wbr_aiv" data-offsite="1" title="Watch Now">
+<div class="watch-icon winner provider amazon-instant-video" id="watchbar2">
+</div>
+<div class="info table-cell">
+<h2>
+<a class="segment-link " href="/offsite/?page-action=watch-aiv&amp;token=BCYt3OsIc6QEYUrCCCVuwyfBgEoc3ZxoblonqokUq_jMLdmsG0z52ghCievVLanyqVbVxM44TuiW%0D%0Acw8k0p-hV7nCWuwHIjRCoFbki23jF40FUoTnWQE1nP6PoiMyI_zuukT4sVj15vWNlOX7OTfrIpAO%0D%0AutD3IoGbBOqLQqS_citiBO64PRUgNjvTdPvqivI4O3Ajpf9WDQafjFnq1UTP4tGC3fLx9v9ki_Ve%0D%0AjpYTVKummZcdpUI2K8fLLcI_ukv4GRn7zDTkTgvPrvrePgH6dz4emw%0D%0A&amp;ref_=tt_wbr_aiv" target="_blank"> Watch Now
+</a> 
+</h2>
+<p>
+
+
+                        From $2.99 on
+Amazon Instant Video                </p>
+</div>
+</div>
+<div class="watch-option secondary-watch-option " data-href="/title/tt0848228/tvschedule?ref_=tt_wbr_tv" data-optiontype="tv" title="On TV">
+<div class="watch-icon tv"></div>
+<div class="secondary-info">ON TV</div>
+</div>
+<div class="watch-option secondary-watch-option " data-href="/offsite/?page-action=watch-amazon&amp;token=BCYpK5AahRm5I4qxprCuJpfyUWZuknf6pKgGnutwIjugyffN9mKDZtNmeMTPbDXDx8nk0yOBsbbG%0D%0AM0p8Hl_7WPb7PDwjC4n2LN13-JNuefq8QWubNYSROZnGurl6ES0wmpk8rLt5URo-c7lE3rXoT-uW%0D%0AGDU89qHES4IaMCeGQEyNv_fi0KzbaT_X5sP9Nig7KX6B2-0G5pCXmhqXR_1HsF_TXXSavQKlR1ti%0D%0AunctPQZfEdGhdELaNkz-v-g5irGaqSQBEqeRfRTgjz2-S757MIa-Ag%0D%0A&amp;ref_=tt_wbr_amazon_t1" data-optiontype="physical" title="On Disc">
+<div class="watch-icon physical"></div>
+<div class="secondary-info">ON DISC</div>
+</div>
+<div class="watch-option secondary-watch-option has-watchoptions" data-href="/watch/_ajax/box/tt0848228?ref_=tt_wbr_sm#watchoptions" title="All Watch Options">
+<div class="watch-icon all"></div>
+<div class="secondary-info">ALL</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="maindetails_sidebar" id="maindetails_sidebar_bottom">
+<!-- no content received for slot: top_rhs -->
+
+<div class="aux-content-widget-3 links subnav" div="quicklinks">
+<h3>Quick Links</h3>
+<div id="maindetails_quicklinks">
+<div class="split_0"> <ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/fullcredits?ref_=tt_ql_1">Full Cast and Crew</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/trivia?ref_=tt_ql_2">Trivia</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/quotes?ref_=tt_ql_3">Quotes</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/awards?ref_=tt_ql_4">Awards</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/board/?ref_=tt_ql_5">Message Board</a>
+</li>
+</ul>
+</div>
+<div class="split_1"> <ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/plotsummary?ref_=tt_ql_6">Plot Summary</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/parentalguide?ref_=tt_ql_7">Parents Guide</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/reviews?ref_=tt_ql_8">User Reviews</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/releaseinfo?ref_=tt_ql_9">Release Dates</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/companycredits?ref_=tt_ql_10">Company Credits</a>
+</li>
+</ul>
+</div>
+</div>
+<hr/>
+<div id="full_subnav">
+<h4>Details</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/fullcredits?ref_=tt_ql_dt_1">Full Cast and Crew</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/releaseinfo?ref_=tt_ql_dt_2">Release Dates</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/officialsites?ref_=tt_ql_dt_3">Official Sites</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/business?ref_=tt_ql_dt_4">Box Office/Business</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/companycredits?ref_=tt_ql_dt_5">Company Credits</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/locations?ref_=tt_ql_dt_6">Filming Locations</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/technical?ref_=tt_ql_dt_7">Technical Specs</a>
+</li>
+<li class="subnav_item_main">
+<a class="link ghost" href="/title/tt0848228/literature?ref_=tt_ql_dt_8">Literature</a>
+</li>
+</ul>
+<h4>Storyline</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link ghost" href="/title/tt0848228/taglines?ref_=tt_ql_stry_1">Taglines</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/plotsummary?ref_=tt_ql_stry_2">Plot Summary</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/synopsis?ref_=tt_ql_stry_3">Synopsis</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/keywords?ref_=tt_ql_stry_4">Plot Keywords</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/parentalguide?ref_=tt_ql_stry_5">Parents Guide</a>
+</li>
+</ul>
+<h4>Did You Know?</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/trivia?ref_=tt_ql_trv_1">Trivia</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/goofs?ref_=tt_ql_trv_2">Goofs</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/crazycredits?ref_=tt_ql_trv_3">Crazy Credits</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/quotes?ref_=tt_ql_trv_4">Quotes</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/alternateversions?ref_=tt_ql_trv_5">Alternate Versions</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/movieconnections?ref_=tt_ql_trv_6">Connections</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/soundtrack?ref_=tt_ql_trv_7">Soundtracks</a>
+</li>
+</ul>
+<h4>Photo &amp; Video</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/mediaindex?ref_=tt_ql_pv_1">Photo Gallery</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/videogallery?ref_=tt_ql_pv_2">Trailers and Videos</a>
+</li>
+</ul>
+<h4>Opinion</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/awards?ref_=tt_ql_op_1">Awards</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/faq?ref_=tt_ql_op_2">FAQ</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/reviews?ref_=tt_ql_op_3">User Reviews</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/ratings?ref_=tt_ql_op_4">User Ratings</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/externalreviews?ref_=tt_ql_op_5">External Reviews</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/criticreviews?ref_=tt_ql_op_6">Metacritic Reviews</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/board/?ref_=tt_ql_op_7">Message Board</a>
+</li>
+</ul>
+<h4>TV</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/tvschedule?ref_=tt_ql_tv_1">TV Schedule</a>
+</li>
+</ul>
+<h4>Related Items</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/news?ref_=tt_ql_rel_1">NewsDesk</a>
+</li>
+<li class="subnav_item_main">
+<a class="link ghost" href="/showtimes/title/tt0848228?ref_=tt_ql_rel_2">Showtimes</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="/title/tt0848228/externalsites?ref_=tt_ql_rel_3">External Sites</a>
+</li>
+</ul>
+<h4>Professional Services</h4>
+<ul class="quicklinks">
+<li class="subnav_item_main">
+<a class="link" href="http://pro.imdb.com/title/tt0848228?ref_=tt_ql_pro_1">Get more at IMDbPro</a>
+</li>
+<li class="subnav_item_main">
+<a class="link" href="https://secure.imdb.com/store/photos/?ref_=tt_ql_pro_2">Add posters &amp; stills to this title</a>
+</li>
+</ul>
+<hr/>
+</div>
+<div class="show_more"><span class="titlePageSprite arrows show"></span>Explore More</div>
+<div class="show_less"><span class="titlePageSprite arrows hide"></span>Show Less</div>
+</div>
+<div class="aux-content-widget-2">
+<span class="ab_widget">
+<div class="ab_editorial">
+<span class="ninja_header"> <a href="http://www.imdb.com/awards-central/baftas?ref_=tt_tt_ac_baf__hd"> <h3>BAFTA Awards</h3> </a> <h4>Winners and Photos</h4> </span> <p class="blurb">See winners and photos from the 2015 BAFTA Awards.</p> <div class="ninja_image_pack"> <div class="ninja_left"> <div class="ninja_image first_image" style="width:86px;height:auto;"> <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/galleries/2015-baftas-redcarpet-photos-rm856292608?ref_=tt_tt_ac_baf__i_1"> <img alt="Felicity Jones" class="pri_image" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMTk1MTQwNDc2MV5BMl5BanBnXkFtZTgwNjQ0NzgzNDE@._V1_SX86_CR0,0,86,86_AL_.jpg" itemprop="image" src="http://ia.media-imdb.com/images/M/MV5BMTk1MTQwNDc2MV5BMl5BanBnXkFtZTgwNjQ0NzgzNDE@._V1_SX86_CR0,0,86,86_AL_.jpg" title="Felicity Jones"/> </a> </div> </div> </div><div class="ninja_image ninja_image_fixed_padding"></div><div class="ninja_image" style="width:86px;height:auto;"> <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/galleries/2015-baftas-redcarpet-photos-rm3691576576?ref_=tt_tt_ac_baf__i_2"> <img alt="Reese Witherspoon" class="pri_image" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMTcxNTYxNjQ5OV5BMl5BanBnXkFtZTgwNDE0NzgzNDE@._V1_SX86_CR0,0,86,86_AL_.jpg" itemprop="image" src="http://ia.media-imdb.com/images/M/MV5BMTcxNTYxNjQ5OV5BMl5BanBnXkFtZTgwNDE0NzgzNDE@._V1_SX86_CR0,0,86,86_AL_.jpg" title="Reese Witherspoon"/> </a> </div> </div> </div><div class="ninja_image ninja_image_fixed_padding"></div><div class="ninja_image last_image" style="width:86px;height:auto;"> <div class="widget_image"> <div class="image"> <a href="http://www.imdb.com/awards-central/galleries/2015-baftas-pressroom-photos-rm4127849728?ref_=tt_tt_ac_baf__i_3"> <img alt="Henry Cavill and Chris Evans" class="pri_image" data-src-x2="http://ia.media-imdb.com/images/M/MV5BMjA3ODg2MTg4NF5BMl5BanBnXkFtZTgwNzAwODgzNDE@._V1_SX86_CR0,0,86,86_AL_.jpg" itemprop="image" src="http://ia.media-imdb.com/images/M/MV5BMjA3ODg2MTg4NF5BMl5BanBnXkFtZTgwNzAwODgzNDE@._V1_SX86_CR0,0,86,86_AL_.jpg" title="Henry Cavill and Chris Evans"/> </a> </div> </div> </div> </div> </div> <div><a href="http://www.imdb.com/awards-central/baftas?ref_=tt_tt_ac_baf__sm"><p class="seemore position_bottom">Se the full list of winners</p></a></div> </div>
+</span>
+</div>
+<div class="aux-content-widget-2">
+<div class="social">
+
+<div class="social_networking_like">
+<iframe allowtransparency="allowTransparency" class="social-iframe" frameborder="0" height="65" id="iframe_like" name="fbLikeIFrame_0" ref="http://www.imdb.com/title/tt0848228/" scrolling="no" width="280"></iframe>
+</div>
+</div>
+</div>
+<!-- no content received for slot: rhs_cornerstone -->
+<div class="aux-content-widget-2">
+<h3>Related News</h3>
+<div class="news_item odd">
+<span itemprop="headline">
+<a href="/title/tt0848228/news?ref_=tt_nwr_1#ni58273797">"Avengers: Age Of Ultron" - New Images</a>
+</span>
+<br/><small>
+<span itemprop="datePublished">
+                                  50 minutes ago
+                                </span>
+<span class="ghost">|</span><span itemprop="provider">
+<a href="/news/ns0000729?ref_=tt_nwr_1">SneakPeek</a>
+</span>
+</small>
+</div>
+<div class="news_item even">
+<span itemprop="headline">
+<a href="/title/tt0848228/news?ref_=tt_nwr_2#ni58273114">Stars Line Up to Meet Stephen Hawking at the BAFTAs</a>
+</span>
+<br/><small>
+<span itemprop="datePublished">
+                                  4 hours ago
+                                </span>
+<span class="ghost">|</span><span itemprop="provider">
+<a href="/news/ns0000018?ref_=tt_nwr_2">PEOPLE.com</a>
+</span>
+</small>
+</div>
+<div class="news_item odd">
+<span itemprop="headline">
+<a href="/title/tt0848228/news?ref_=tt_nwr_3#ni58273101">Stars Line Up to Meet Stephen Hawking at the BAFTAs</a>
+</span>
+<br/><small>
+<span itemprop="datePublished">
+                                  4 hours ago
+                                </span>
+<span class="ghost">|</span><span itemprop="provider">
+<a href="/news/ns0000018?ref_=tt_nwr_3">PEOPLE.com</a>
+</span>
+</small>
+</div>
+<div class="see-more">
+<a href="/title/tt0848228/news?ref_=tt_nwr_sm">See all 23630 related articles</a> »
+            </div>
+</div>
+<!-- no content received for slot: middle_rhs -->
+<div class="aux-content-widget-2">
+<div id="relatedListsWidget">
+<div class="rightcornerlink">
+<a href="/list/create?ref_=tt_rls">Create a list</a> »
+                </div>
+<h3>User Lists</h3>
+<p>Related lists from IMDb users</p>
+<div class="list-preview even">
+<div class="list-preview-item-narrow">
+<a href="/list/ls004820786?ref_=tt_rls_1"><img alt="list image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX86_CR0,0,86,86_AL_.jpg" src="/images/nopicture/medium/film.png" title="list image" width="86"/></a> </div>
+<div class="list_name">
+<strong><a href="/list/ls004820786?ref_=tt_rls_1">My Favorite Movies</a></strong>
+</div>
+<div class="list_meta">
+            a list of 25 titles
+            <br/>created 27 May 2012
+        </div>
+<div class="clear"> </div>
+</div>
+<div class="list-preview odd">
+<div class="list-preview-item-narrow">
+<a href="/list/ls008420701?ref_=tt_rls_2"><img alt="list image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX86_CR0,0,86,86_AL_.jpg" src="/images/nopicture/medium/film.png" title="list image" width="86"/></a> </div>
+<div class="list_name">
+<strong><a href="/list/ls008420701?ref_=tt_rls_2">Big films of 2012</a></strong>
+</div>
+<div class="list_meta">
+            a list of 38 titles
+            <br/>created 19 Sep 2012
+        </div>
+<div class="clear"> </div>
+</div>
+<div class="list-preview even">
+<div class="list-preview-item-narrow">
+<a href="/list/ls050552032?ref_=tt_rls_3"><img alt="list image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMjE0NjA5OTA4N15BMl5BanBnXkFtZTcwODA3MTA3Mw@@._V1_SX86_CR0,0,86,86_AL_.jpg" src="/images/nopicture/medium/film.png" title="list image" width="86"/></a> </div>
+<div class="list_name">
+<strong><a href="/list/ls050552032?ref_=tt_rls_3">graboid movies</a></strong>
+</div>
+<div class="list_meta">
+            a list of 43 titles
+            <br/>created 13 Oct 2012
+        </div>
+<div class="clear"> </div>
+</div>
+<div class="list-preview odd">
+<div class="list-preview-item-narrow">
+<a href="/list/ls055432468?ref_=tt_rls_4"><img alt="list image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4._V1_SX86_CR0,0,86,86_AL_.jpg" src="/images/nopicture/medium/film.png" title="list image" width="86"/></a> </div>
+<div class="list_name">
+<strong><a href="/list/ls055432468?ref_=tt_rls_4">2013</a></strong>
+</div>
+<div class="list_meta">
+            a list of 21 titles
+            <br/>created 13 Jan 2013
+        </div>
+<div class="clear"> </div>
+</div>
+<div class="list-preview even">
+<div class="list-preview-item-narrow">
+<a href="/list/ls053980811?ref_=tt_rls_5"><img alt="list image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMTU4NzMyNDk1OV5BMl5BanBnXkFtZTcwOTEwMzU1MQ@@._V1_SX86_CR0,0,86,86_AL_.jpg" src="/images/nopicture/medium/film.png" title="list image" width="86"/></a> </div>
+<div class="list_name">
+<strong><a href="/list/ls053980811?ref_=tt_rls_5">Watched List</a></strong>
+</div>
+<div class="list_meta">
+            a list of 39 titles
+            <br/>created 12 Jul 2013
+        </div>
+<div class="clear"> </div>
+</div>
+<div class="see-more">
+<a href="/lists/tt0848228?ref_=tt_rls_sm">See all related lists</a> »
+                </div>
+</div>
+</div>
+<div class="aux-content-widget-2">
+<span class="ab_widget">
+<div class="ab_message">
+<span class="ninja_header"> <h3>Related Items</h3> </span> <div class="ninja_image_pack"> <div class="ninja_left"> <div class="ninja_image first_image last_image" style="width:38px;height:auto;"> <div class="widget_image"> <div class="image"> <a href="/offsite/?page-action=offsite-amazon&amp;token=BCYjMq1LqnNp92xaSdEG0JvjUQDaacl_z_YKJ2Iv_oDNQJqKDPjeyqK530Ecl04YuUM-1Ysqnxkt%0D%0AQecJ1OeORG-0E_g4cjpS8tnWqMrBsagAS-s-F1qYZhu-vgugPzdjlbX5IRyDZqCi6BvOqg-io3BH%0D%0Actm6dmrq3lxHmLeHXtka_VVCnh4RyxbGCUl44F4K4vZyBLiWDJmrWDx44Ku9IhMqiaaefTDYTQJo%0D%0AnbCebgMEPB5bQj4s0vRA3Hoy8y_sJEy3xuF7huhv5ihws-fVFrQXvbUOt2Rx3zZF4JG-w6H_GbmN%0D%0A0yORMpAFSE_Q2DPyUacG%0D%0A&amp;ref_=tt_msg_i_1"> <img alt='Search for "" on Amazon.com' class="pri_image" data-src-x2="http://ia.media-imdb.com/images/G/01/imdb/images/widget/amazon._CB339202444_.png" itemprop="image" src="http://ia.media-imdb.com/images/G/01/imdb/images/widget/amazon._CB339202444_.png" title='Search for "" on Amazon.com'/> </a> </div> </div> </div><div class="ninja_image ninja_image_fixed_padding"></div><div class="ninja_image"> <p class="blurb">Search for "<a href="/offsite/?page-action=offsite-amazon&amp;token=BCYtx3RUSAD2Ko4yajJJ0TLR9SaT07b8ZBfOdduNf5AhoCJf32PRhpu7DJ9-I6HgP37OScigz9tk%0D%0As6wiGXzacPUfjPTOEtPK9BghmXqj7meZywJzlE3sHXYsYdC9TxDvb7tKjS_u7v0Rj4sR-hVuv2fj%0D%0AfRkAAclNAWG-M8LD7FsV0vR3lF5eETBNcSwl-h-K_GPgiJ2lIZlkMcgnVyKhyS4pfIlRq-BHumxE%0D%0AgYg0pM3ZK81nAQYq80wq2Gf04farlf_-01dLQc9B_kvUSGLi4cYKYwPjLmGMot5B_yUGmvMQM0s%0D%0A&amp;ref_=tt_msg_ov">The Avengers</a>" on <a href="/offsite/?page-action=offsite-amazon&amp;token=BCYvvREc61AI_s5d3s4I21hDkdE5vjurJ2OSFoSGnL16tm16J4OAG_3vnvJWc4jck7zPGC-UTTnB%0D%0ANMk6QvpozojkX4APD3dtKZ_QgXLNcUZKY-SsAZO5J8rF44_fWtrNwjQjFzqct9ZGF90jUV7ucYGA%0D%0ADemLhMAi6f0s8aXJs5iFp2XSrA9AaqnQnXd-Qhj1TEt7iMTxs4u9l73rThG-IFD1-a2RllKEBLqN%0D%0ADTaUmMgBxcMz4PggswEM0CNYDdM_BLQDKLp98i6yc3pSyJBk8cbAkKhx3HaCqFIY4JpIKT3lQds%0D%0A&amp;ref_=tt_msg_ov">Amazon.com</a></p></div> </div> </div> </div>
+</span>
+</div>
+<!-- no content received for slot: btf_rhs1 -->
+<div class="aux-content-widget-2">
+<h3>Connect with IMDb</h3>
+<div id="facebookWrapper">
+<iframe allowtransparency="true" frameborder="0" id="facebookIframe" scrolling="no"></iframe>
+</div>
+<hr>
+<iframe allowtransparency="true" frameborder="0" id="twitterIframe" role="presentation" scrolling="no"></iframe>
+</hr></div>
+<div class="aux-content-widget-2">
+<div id="ratingWidget">
+<h3>Share this Rating</h3>
+<p>
+                Title:
+                <strong>The Avengers</strong>
+                (2012)
+            </p>
+<span class="imdbRatingPlugin imdbRatingStyle1" data-style="t1" data-title="tt0848228" data-user="">
+<a href="/title/tt0848228/?ref_=tt_plg_rt"> <img alt="The Avengers (2012) on IMDb" src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_46x22-2264473254._CB379390954_.png">
+</img></a> <span class="rating">8.2<span class="ofTen">/10</span></span>
+<img class="star" src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_star_22x21-2889147855._CB379391454_.png">
+</img></span>
+<p>Want to share IMDb's rating on your own site? Use the HTML below.</p>
+<div class="hidden" id="ratingPluginHTML">
+<div class="message_box small">
+<div class="error">
+<p>
+                        You must be a registered user to use the IMDb rating plugin.
+                        </p>
+<a class="cboxElement" href="/register/login?ref_=tt_plg_rt" rel="login">Login</a>
+</div>
+</div>
+</div>
+<div id="ratingWidgetLinks">
+<span class="titlePageSprite arrows show"></span>
+<a href="/plugins?titleId=tt0848228&amp;ref_=tt_plg_rt" id="toggleRatingPluginHTML" itemprop="url">Show HTML</a>
+<a href="/plugins?titleId=tt0848228&amp;ref_=tt_plg_rt" itemprop="url">View more styles</a>
+</div>
+</div>
+</div>
+
+<div class="aux-content-widget-2 play_quiz_widget">
+<h3>Take The Quiz!</h3>
+<a class="icon" href="/games/guess/tt0848228?ref_=tt_qz"></a><span>Test your knowledge of <a href="/games/guess/tt0848228?ref_=tt_qz">The Avengers</a>.</span>
+</div>
+
+<div class="aux-content-widget-2 poll-widget-rhs ">
+<style>
+        .aux-content-widget-2.poll-widget-rhs ul li { margin-bottom: 0.5em; clear: left; font-weight: bold;}
+        .aux-content-widget-2.poll-widget-rhs span { margin-bottom: 0.5em; clear: left;}
+        .aux-content-widget-2.poll-widget-rhs img { float: left; padding: 0 5px 5px 0; height: 86px; width: 86px;}
+    </style>
+<h3>User Polls</h3>
+<ul>
+<li>
+<a href="/poll/OHDndyMAHnQ/?ref_=tt_po_i1"><img alt="poll image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQyODI2MDczOF5BMl5BanBnXkFtZTcwNDczMTk2Mw@@._V1_SX86_CR0,0,86,86_.jpg" src="http://i.imdb.com/images/nopicture/140x209/unknown.png" title="poll image" width="86"/></a> <a href="/poll/OHDndyMAHnQ/?ref_=tt_po_q1">Coolest looking (post 2000) 'super' hero!</a>
+<li>
+<a href="/poll/YYdbrF8Tg1M/?ref_=tt_po_i2"><img alt="poll image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_SX86_CR0,0,86,86_.jpg" src="http://i.imdb.com/images/nopicture/140x209/unknown.png" title="poll image" width="86"/></a> <a href="/poll/YYdbrF8Tg1M/?ref_=tt_po_q2">Big, Big Spender</a>
+<li>
+<a href="/poll/gB1NCwDf0EI/?ref_=tt_po_i3"><img alt="poll image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMjEyNzI1ODA0MF5BMl5BanBnXkFtZTYwODIxODY3._V1_SX86_CR0,0,86,86_.jpg" src="http://i.imdb.com/images/nopicture/140x209/unknown.png" title="poll image" width="86"/></a> <a href="/poll/gB1NCwDf0EI/?ref_=tt_po_q3">What age would you like to live in?</a>
+<li>
+<a href="/poll/mD6fdIByYYs/?ref_=tt_po_i4"><img alt="poll image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMTIxMDEzODg4Nl5BMl5BanBnXkFtZTYwMDA0NzY3._V1_SX86_CR0,0,86,86_.jpg" src="http://i.imdb.com/images/nopicture/140x209/unknown.png" title="poll image" width="86"/></a> <a href="/poll/mD6fdIByYYs/?ref_=tt_po_q4">Worst Partner for an Egg Toss</a>
+<li>
+<a href="/poll/OX1iaj_x-q4/?ref_=tt_po_i5"><img alt="poll image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_SX86_CR0,0,86,86_.jpg" src="http://i.imdb.com/images/nopicture/140x209/unknown.png" title="poll image" width="86"/></a> <a href="/poll/OX1iaj_x-q4/?ref_=tt_po_q5">20 Most Expensive Movies Ever Made</a>
+<li>
+<a href="/poll/jtlC4JdSAW4/?ref_=tt_po_i6"><img alt="poll image" class="loadlate hidden " height="86" loadlate="http://ia.media-imdb.com/images/M/MV5BMTYxMTEzNTgzM15BMl5BanBnXkFtZTcwMjg1MzAwMQ@@._V1_SX86_CR0,0,86,86_.jpg" src="http://i.imdb.com/images/nopicture/140x209/unknown.png" title="poll image" width="86"/></a> <a href="/poll/jtlC4JdSAW4/?ref_=tt_po_q6">Stan Lee Cameos</a>
+</li></li></li></li></li></li></ul>
+<div class="see-more"><a href="/poll/?ref_=tt_po_sm">See more polls »</a></div>
+</div>
+<!-- no content received for slot: bottom_rhs -->
+<!-- no content received for slot: btf_rhs2 -->
+</div>
+<div class="maindetails_center" id="maindetails_center_bottom">
+
+
+<div class="article highlighted" id="titleAwardsRanks">
+<a href="/chart/top?tt0848228&amp;ref_=tt_awd"><strong>Top 250 #201</strong></a> 
+            
+                    |
+             
+            
+        <span itemprop="awards"><b>Nominated for 1 Oscar.</b></span>
+<span itemprop="awards">Another 31 wins &amp; 65 nominations.</span>
+<span class="see-more inline">
+<a href="/title/tt0848228/awards?ref_=tt_awd">See more awards</a> »    </span>
+</div>
+
+
+<div class="article" id="titleMediaStrip">
+<div class="mediastrip_container combined">
+<div id="combined-videos">
+<h2>Videos</h2>
+<div class="mediastrip_big">
+<span class="video_slate" itemscope="" itemtype="http://schema.org/videoObject">
+<meta content="T143M0S" itemprop="duration"/>
+<a alt="The Avengers -- Marvel makes cinematic history as it unites the super hero team of a lifetime." class=" " data-context="amazon" data-rid="1NMDJCG00D3G6SS64M37" data-video="vi1938269465" href="/offsite/?page-action=watch-aiv&amp;token=BCYjMPHSvjLiFfw5iPdaIaB3rShru55_9jJTfvQbo9VKGEJKS8Z28YIWwDOky2buVDK3WJARP3jP%0D%0AlTBhRV9ARP9Yak8Degl2zUPW8u9c95wOz0ympODeO2QpN7u6-RIrNJlWN_Xx_N8YT4yCCvgyDur8%0D%0AAVz_9ZmGnMscgVlhr6r1-UrU34BW5SQLU-u9mUT39L8asCb-osR9FtREwWaRsQ7kAFhoBPuo2AOg%0D%0AXv8odMNGziMqdA4hqFBLa6pgx5TEwSsLcnXfo61nqUux1u0dQLMRnIcoHTLCZH2xrwyR7qytqDg%0D%0A&amp;ref_=tt_pv_vi_aiv_1" itemprop="url" onclick="window.open(this.href+'','_blank');return false;" title="The Avengers -- Marvel makes cinematic history as it unites the super hero team of a lifetime." widget-context="titleMaindetails"><img alt="The Avengers -- Marvel makes cinematic history as it unites the super hero team of a lifetime." class="loadlate hidden video" height="105" itemprop="image" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_BR-65_CT-15_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-goldbutton-big,BottomRight,-1,-1_ZAFull%2520Movie,2,76,16,137,verdenab,8,255,255,255,1_ZAat%2520Amazon%2520%25BB,2,1,14,137,verdenab,7,255,255,255,1_ZA143:00,103,1,14,36,verdenab,7,255,255,255,1_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png" title="The Avengers -- Marvel makes cinematic history as it unites the super hero team of a lifetime." viconst="vi1938269465" width="139"/></a> </span>
+<span class="video_slate_last" itemscope="" itemtype="http://schema.org/videoObject">
+<meta content="T1M48S" itemprop="duration"/>
+<a alt="The Avengers -- Watch the alternative opening scene from The Avengers." class="video-colorbox" data-context="imdb" data-rid="1NMDJCG00D3G6SS64M37" data-video="vi1697424665" href="/video/imdb/vi1697424665?ref_=tt_pv_vi_aiv_2" itemprop="url" title="The Avengers -- Watch the alternative opening scene from The Avengers." widget-context="titleMaindetails"><img alt="The Avengers -- Watch the alternative opening scene from The Avengers." class="loadlate hidden video" height="105" itemprop="image" loadlate="http://ia.media-imdb.com/images/M/MV5BMTUzNjM0OTc2OV5BMl5BanBnXkFtZTgwMzMxMTYyMzE@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,2,76,16,137,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,137,verdenab,7,255,255,255,1_ZA01:48,103,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB379390253_.png" title="The Avengers -- Watch the alternative opening scene from The Avengers." viconst="vi1697424665" width="139"/></a> </span>
+</div>
+</div>
+<div id="combined-photos">
+<h2>Photos</h2>
+<div class="mediastrip">
+<a href="/media/rm1687729920/tt0848228?ref_=tt_pv_md_1" itemprop="thumbnailUrl"><img alt="The Avengers (2012)" class="loadlate hidden " height="105" itemprop="image" loadlate="http://ia.media-imdb.com/images/M/MV5BMTM5NTAzMDcyM15BMl5BanBnXkFtZTcwMzU1MTA2Nw@@._V1_SY105_CR26,0,105,105_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png" title="The Avengers (2012)" width="105"/></a>
+<a href="/media/rm1416868864/tt0848228?ref_=tt_pv_md_2" itemprop="thumbnailUrl"><img alt="Clark Gregg and Tom Hiddleston at event of The Avengers (2012)" class="loadlate hidden " height="105" itemprop="image" loadlate="http://ia.media-imdb.com/images/M/MV5BMjE1NTYyNDA2N15BMl5BanBnXkFtZTcwMjg3NjQ3Nw@@._V1_SX105_CR0,0,105,105_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png" title="Clark Gregg and Tom Hiddleston at event of The Avengers (2012)" width="105"/></a>
+<a href="/media/rm1738061568/tt0848228?ref_=tt_pv_md_3" itemprop="thumbnailUrl"><img alt="Joss Whedon in The Avengers (2012)" class="loadlate hidden " height="105" itemprop="image" loadlate="http://ia.media-imdb.com/images/M/MV5BMjEyNDYxNjU1Nl5BMl5BanBnXkFtZTcwOTQ1MTA2Nw@@._V1_SY105_CR26,0,105,105_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB379391227_.png" title="Joss Whedon in The Avengers (2012)" width="105"/></a> </div>
+</div>
+<div class="combined-see-more see-more">
+<a href="/title/tt0848228/mediaindex?ref_=tt_pv_mi_sm"><span class="titlePageSprite showAllVidsAndPics"></span></a>
+<a href="/title/tt0848228/mediaindex?ref_=tt_pv_mi_sm">324 photos</a>
+<span class="ghost">|</span>
+<a href="/title/tt0848228/videogallery?ref_=tt_pv_vi_sm">34 videos</a>
+<span class="ghost">|</span>
+<a href="/title/tt0848228/news?ref_=tt_pv_nw_sm">23630 news articles</a> »            </div>
+</div>
+</div>
+
+
+
+<div class="article" id="titleRecs">
+<span class="rightcornerlink">
+<a href="/help/show_leaf?personalrecommendations&amp;ref_=tt_rec_lm">Learn more</a>
+</span>
+<h2 class="rec_heading_wrapper">
+<span class="rec_heading" data-spec="p13nsims:tt0848228">People who liked this also liked... </span>
+</h2>
+<div class="rec_wrapper" data-caller-name="p13nsims-title" data-items-per-page="6" data-items-per-request="24" data-specs="p13nsims:tt0848228" id="title_recs">
+<div class="rec_const_picker">
+<div class="rec_view">
+<div class="rec_grave" style="display:none"></div>
+<div class="rec_slide">
+<div class="rec_page">
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt0371746">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0371746/?ref_=tt_rec_tti"><img alt="Iron Man" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Iron Man" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1300854">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1300854/?ref_=tt_rec_tti"><img alt="Iron Man 3" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1._SY317_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Iron Man 3" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt0458339">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0458339/?ref_=tt_rec_tti"><img alt="Captain America: The First Avenger" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SX76_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Captain America: The First Avenger" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1843866">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1843866/?ref_=tt_rec_tti"><img alt="Captain America: The Winter Soldier" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Captain America: The Winter Soldier" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1228705">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1228705/?ref_=tt_rec_tti"><img alt="Iron Man 2" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Iron Man 2" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt0800369">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0800369/?ref_=tt_rec_tti"><img alt="Thor" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTYxMjA5NDMzNV5BMl5BanBnXkFtZTcwOTk2Mjk3NA@@._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Thor" width="76"/> <br/>
+</a> </div>
+</div>
+<div class="rec_page">
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1345836">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1345836/?ref_=tt_rec_tti"><img alt="The Dark Knight Rises" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="The Dark Knight Rises" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1981115">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1981115/?ref_=tt_rec_tti"><img alt="Thor: The Dark World" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SY113_CR1,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Thor: The Dark World" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt0372784">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0372784/?ref_=tt_rec_tti"><img alt="Batman Begins" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="Batman Begins" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1270798">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1270798/?ref_=tt_rec_tti"><img alt="X-Men: First Class" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="X-Men: First Class" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt0468569">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0468569/?ref_=tt_rec_tti"><img alt="The Dark Knight" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="The Dark Knight" width="76"/> <br/>
+</a> </div>
+<div class="rec_item" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1877832">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1877832/?ref_=tt_rec_tti"><img alt="X-Men: Days of Future Past" class="loadlate hidden rec_poster_img" height="113" loadlate="http://ia.media-imdb.com/images/M/MV5BMjEwMDk2NzY4MF5BMl5BanBnXkFtZTgwNTY2OTcwMDE@._V1_SY113_CR0,0,76,113_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB379390468_.png" title="X-Men: Days of Future Past" width="76"/> <br/>
+</a> </div>
+</div>
+</div>
+<div class="rec_nav">
+<div class="rec_nav_page_num"></div>
+<a class="rec_nav_left">◄ Prev 6</a>
+<a class="rec_nav_right">Next 6 ►</a>
+</div>
+</div>
+</div>
+<div class="rec_overviews">
+<div class="rec_overview" data-tconst="tt0371746">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt0371746">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0371746/?ref_=tt_rec_tti"><img alt="Iron Man" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SY190_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Iron Man" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt0371746" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt0371746/?ref_=tt_rec_tt"><b>Iron Man</b></a>
+<span class="nobr">(2008)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for Iron Man (2008)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Adventure          
+ <span class="ghost">|</span> 
+                     Sci-Fi          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt0371746|imdb|7.9|7.9|p13nsims-title|tt0848228|title|main" title="Users rated this 7.9/10 (554,662 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 110.6px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.9</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0371746/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+After being held captive in an Afghan cave, an industrialist creates a unique weaponized suit of armor to fight against evil. This leads him to conflict within his own company.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Jon Favreau  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Robert Downey Jr., 
+Gwyneth Paltrow, 
+Terrence Howard</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt1300854">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1300854">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1300854/?ref_=tt_rec_tti"><img alt="Iron Man 3" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1._SY317_SY190_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Iron Man 3" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt1300854" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt1300854/?ref_=tt_rec_tt"><b>Iron Man 3</b></a>
+<span class="nobr">(2013)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for Iron Man 3 (2013)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Adventure          
+ <span class="ghost">|</span> 
+                     Sci-Fi          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt1300854|imdb|7.3|7.3|p13nsims-title|tt0848228|title|main" title="Users rated this 7.3/10 (439,000 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 102.2px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.3</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt1300854/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Shane Black  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Robert Downey Jr., 
+Guy Pearce, 
+Gwyneth Paltrow</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt0458339">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt0458339">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0458339/?ref_=tt_rec_tti"><img alt="Captain America: The First Avenger" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SX128_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Captain America: The First Avenger" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt0458339" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt0458339/?ref_=tt_rec_tt"><b>Captain America: The First Avenger</b></a>
+<span class="nobr">(2011)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for Captain America: The First Avenger (2011)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Adventure          
+ <span class="ghost">|</span> 
+                     Sci-Fi          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt0458339|imdb|6.8|6.8|p13nsims-title|tt0848228|title|main" title="Users rated this 6.8/10 (370,538 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 95.2px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">6.8</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0458339/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a "Super-Soldier serum". But being Captain America comes at a price if he attempts to take down a war monger and a terrorist organization.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Joe Johnston  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Chris Evans, 
+Hugo Weaving, 
+Samuel L. Jackson</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt1843866">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1843866">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1843866/?ref_=tt_rec_tti"><img alt="Captain America: The Winter Soldier" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SY190_CR1,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Captain America: The Winter Soldier" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt1843866" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt1843866/?ref_=tt_rec_tt"><b>Captain America: The Winter Soldier</b></a>
+<span class="nobr">(2014)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for Captain America: The Winter Soldier (2014)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Adventure          
+ <span class="ghost">|</span> 
+                     Sci-Fi          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt1843866|imdb|7.8|7.8|p13nsims-title|tt0848228|title|main" title="Users rated this 7.8/10 (323,163 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 109.2px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.8</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt1843866/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+As Steve Rogers struggles to embrace his role in the modern world, he teams up with another super soldier, the black widow, to battle a new threat from old history: an assassin known as the Winter Soldier.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Directors:</b>
+Anthony Russo,
+Joe Russo  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Chris Evans, 
+Samuel L. Jackson, 
+Scarlett Johansson</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt1228705">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1228705">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1228705/?ref_=tt_rec_tti"><img alt="Iron Man 2" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_SY190_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Iron Man 2" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt1228705" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt1228705/?ref_=tt_rec_tt"><b>Iron Man 2</b></a>
+<span class="nobr">(2010)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for Iron Man 2 (2010)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Adventure          
+ <span class="ghost">|</span> 
+                     Sci-Fi          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt1228705|imdb|7.1|7.1|p13nsims-title|tt0848228|title|main" title="Users rated this 7.1/10 (408,242 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 99.4px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.1</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt1228705/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Jon Favreau  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Robert Downey Jr., 
+Mickey Rourke, 
+Gwyneth Paltrow</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt0800369">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt0800369">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0800369/?ref_=tt_rec_tti"><img alt="Thor" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTYxMjA5NDMzNV5BMl5BanBnXkFtZTcwOTk2Mjk3NA@@._V1_SY190_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Thor" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt0800369" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt0800369/?ref_=tt_rec_tt"><b>Thor</b></a>
+<span class="nobr">(2011)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for Thor (2011)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Adventure          
+ <span class="ghost">|</span> 
+                     Fantasy          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt0800369|imdb|7|7|p13nsims-title|tt0848228|title|main" title="Users rated this 7/10 (416,605 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 98px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0800369/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Kenneth Branagh  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Chris Hemsworth, 
+Anthony Hopkins, 
+Natalie Portman</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt1345836">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1345836">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1345836/?ref_=tt_rec_tti"><img alt="The Dark Knight Rises" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SY190_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="The Dark Knight Rises" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt1345836" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt1345836/?ref_=tt_rec_tt"><b>The Dark Knight Rises</b></a>
+<span class="nobr">(2012)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for The Dark Knight Rises (2012)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt1345836|imdb|8.5|8.5|p13nsims-title|tt0848228|title|main" title="Users rated this 8.5/10 (912,655 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 119px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">8.5</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt1345836/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+When Bane, a former member of the League of Shadows, plans to continue the work of Ra's al Ghul, the Dark Knight is forced to return after an eight year absence to stop him.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Christopher Nolan  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Christian Bale, 
+Tom Hardy, 
+Anne Hathaway</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt1981115">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1981115">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1981115/?ref_=tt_rec_tti"><img alt="Thor: The Dark World" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SY190_CR2,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Thor: The Dark World" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt1981115" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt1981115/?ref_=tt_rec_tt"><b>Thor: The Dark World</b></a>
+<span class="nobr">(2013)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for Thor: The Dark World (2013)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Adventure          
+ <span class="ghost">|</span> 
+                     Fantasy          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt1981115|imdb|7.2|7.2|p13nsims-title|tt0848228|title|main" title="Users rated this 7.2/10 (303,826 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 100.8px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.2</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt1981115/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+When Dr Jane Foster gets cursed with a powerful object, Thor must protect it before an army and its ruthless leader try to get their hands on it to take over the remains of Earth.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Alan Taylor  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Chris Hemsworth, 
+Natalie Portman, 
+Tom Hiddleston</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt0372784">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt0372784">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0372784/?ref_=tt_rec_tti"><img alt="Batman Begins" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_SX128_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="Batman Begins" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt0372784" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt0372784/?ref_=tt_rec_tt"><b>Batman Begins</b></a>
+<span class="nobr">(2005)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for Batman Begins (2005)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Adventure          
+
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt0372784|imdb|8.3|8.3|p13nsims-title|tt0848228|title|main" title="Users rated this 8.3/10 (777,267 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 116.2px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">8.3</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0372784/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+After training with his mentor, Batman begins his war on crime to free the crime-ridden Gotham City from corruption that the Scarecrow and the League of Shadows have cast upon it.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Christopher Nolan  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Christian Bale, 
+Michael Caine, 
+Ken Watanabe</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt1270798">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1270798">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1270798/?ref_=tt_rec_tti"><img alt="X-Men: First Class" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_SY190_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="X-Men: First Class" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt1270798" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt1270798/?ref_=tt_rec_tt"><b>X-Men: First Class</b></a>
+<span class="nobr">(2011)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for X-Men: First Class (2011)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Adventure          
+ <span class="ghost">|</span> 
+                     Sci-Fi          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt1270798|imdb|7.8|7.8|p13nsims-title|tt0848228|title|main" title="Users rated this 7.8/10 (417,021 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 109.2px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.8</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt1270798/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+In 1962, the United States government enlists the help of Mutants with superhuman abilities to stop a malicious dictator who is determined to start world war III.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Matthew Vaughn  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+James McAvoy, 
+Michael Fassbender, 
+Jennifer Lawrence</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt0468569">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt0468569">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt0468569/?ref_=tt_rec_tti"><img alt="The Dark Knight" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY190_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="The Dark Knight" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt0468569" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt0468569/?ref_=tt_rec_tt"><b>The Dark Knight</b></a>
+<span class="nobr">(2008)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for The Dark Knight (2008)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt0468569|imdb|9|9|p13nsims-title|tt0848228|title|main" title="Users rated this 9/10 (1,358,224 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 126px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">9</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0468569/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Christopher Nolan  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Christian Bale, 
+Heath Ledger, 
+Aaron Eckhart</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="rec_overview" data-tconst="tt1877832">
+<div class="rec_poster" data-info="" data-spec="p13nsims:tt0848228" data-tconst="tt1877832">
+<div class="rec_overlay">
+<div class="rec_filter"></div>
+<div class="glyph rec_watchlist_glyph"></div>
+<div class="glyph rec_blocked_glyph"></div>
+<div class="glyph rec_rating_glyph"></div>
+<div class="glyph rec_pending_glyph"></div>
+</div>
+<a href="/title/tt1877832/?ref_=tt_rec_tti"><img alt="X-Men: Days of Future Past" class="loadlate hidden rec_poster_img" height="190" loadlate="http://ia.media-imdb.com/images/M/MV5BMjEwMDk2NzY4MF5BMl5BanBnXkFtZTgwNTY2OTcwMDE@._V1_SY190_CR0,0,128,190_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB379391879_.png" title="X-Men: Days of Future Past" width="128"/> <br/>
+</a> </div>
+<div class="rec_actions">
+<div class="rec_action_divider">
+<div class="wlb_classic_wrapper">
+<span class="wlb_wrapper">
+<a class="rec_wlb_watchlist_btn" data-caller-name="p13nsims-title" data-size="medium" data-tconst="tt1877832" data-type="primary"></a>
+</span>
+</div>
+</div>
+<div class="rec_action_divider">
+<span class="btn2_wrapper">
+<a class="rec_next rec_half_button btn2 medium btn2_text_on" onclick="" title="Show me the next title">
+<span class="btn2_glyph">0</span>
+<span class="btn2_text">Next »</span>
+</a>
+</span>
+</div>
+<input name="49e6c" type="hidden" value="da29">
+</input></div>
+<div class="rec_details">
+<div class="rec-info">
+<div class="rec-jaw-upper">
+<div class="rec-title">
+<a href="/title/tt1877832/?ref_=tt_rec_tt"><b>X-Men: Days of Future Past</b></a>
+<span class="nobr">(2014)</span>
+</div>
+<div class="rec-cert-genre rec-elipsis">
+<span class="us_pg_13 titlePageSprite absmiddle" title="Ratings certificate for X-Men: Days of Future Past (2014)"></span>
+
+                     Action          
+ <span class="ghost">|</span> 
+                     Adventure          
+ <span class="ghost">|</span> 
+                     Sci-Fi          
+
+        
+    </div>
+<div class="rec-rating">
+<div class="rating rating-list" data-auth="" data-ga-identifier="" data-starbar-class="rating-list" data-user="" id="tt1877832|imdb|8.1|8.1|p13nsims-title|tt0848228|title|main" title="Users rated this 8.1/10 (353,715 votes) - click stars to rate">
+<span class="rating-bg"> </span>
+<span class="rating-imdb " style="width: 113.4px"> </span>
+<span class="rating-stars">
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>1</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>2</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>3</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>4</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>5</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>6</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>7</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>8</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>9</span></a>
+<a href="/register/login?why=vote&amp;ref_=tt_ov_rt" rel="nofollow" title="Register or login to rate this title"><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">8.1</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt1877832/vote?v=X;k=" rel="nofollow" title="Delete"><span>X</span></a></span>
+ </div>
+<div class="rec-outline">
+<p>
+The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.    </p>
+</div>
+</div>
+</div>
+<div class="rec-jaw-lower">
+<div class="rec-jaw-teeth"></div>
+<div class="rec-director rec-ellipsis">
+<b>Director:</b>
+Bryan Singer  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+<b>Stars:</b> 
+Patrick Stewart, 
+Ian McKellen, 
+Hugh Jackman</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="article" id="titleCast">
+<span class="rightcornerlink">
+<a href="/register/login?why=edit&amp;ref_=tt_cl" rel="login">Edit</a>
+</span>
+<h2>Cast</h2>
+<table class="cast_list">
+<tr><td class="castlist_label" colspan="4">Cast overview, first billed only:</td></tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm0000375/?ref_=tt_cl_i1"><img alt="Robert Downey Jr." class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTAwNjk2NTUyMzleQTJeQWpwZ15BbWU3MDQ2NzQzMTc@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Robert Downey Jr." width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0000375/?ref_=tt_cl_t1" itemprop="url"> <span class="itemprop" itemprop="name">Robert Downey Jr.</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0188712/?ref_=tt_cl_t1">Tony Stark</a> /  
+            <a href="/character/ch0020749/?ref_=tt_cl_t1">Iron Man</a>
+</div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm0262635/?ref_=tt_cl_i2"><img alt="Chris Evans" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Chris Evans" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0262635/?ref_=tt_cl_t2" itemprop="url"> <span class="itemprop" itemprop="name">Chris Evans</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0183538/?ref_=tt_cl_t2">Steve Rogers</a> /  
+            <a href="/character/ch0001375/?ref_=tt_cl_t2">Captain America</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm0749263/?ref_=tt_cl_i3"><img alt="Mark Ruffalo" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTI5MjMwNjAzNF5BMl5BanBnXkFtZTcwMzkyNDg1Mw@@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Mark Ruffalo" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0749263/?ref_=tt_cl_t3" itemprop="url"> <span class="itemprop" itemprop="name">Mark Ruffalo</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0188716/?ref_=tt_cl_t3">Bruce Banner</a> /  
+            <a href="/character/ch0007099/?ref_=tt_cl_t3">The Hulk</a>
+</div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm1165110/?ref_=tt_cl_i4"><img alt="Chris Hemsworth" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Chris Hemsworth" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm1165110/?ref_=tt_cl_t4" itemprop="url"> <span class="itemprop" itemprop="name">Chris Hemsworth</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0001152/?ref_=tt_cl_t4">Thor</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm0424060/?ref_=tt_cl_i5"><img alt="Scarlett Johansson" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_SY44_CR2,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Scarlett Johansson" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0424060/?ref_=tt_cl_t5" itemprop="url"> <span class="itemprop" itemprop="name">Scarlett Johansson</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0020745/?ref_=tt_cl_t5">Natasha Romanoff</a> /  
+            <a href="/character/ch0020745/?ref_=tt_cl_t5">Black Widow</a>
+</div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm0719637/?ref_=tt_cl_i6"><img alt="Jeremy Renner" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BOTk2NDc2ODgzMF5BMl5BanBnXkFtZTcwMTMzOTQ4Nw@@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Jeremy Renner" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0719637/?ref_=tt_cl_t6" itemprop="url"> <span class="itemprop" itemprop="name">Jeremy Renner</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0245422/?ref_=tt_cl_t6">Clint Barton</a> /  
+            <a href="/character/ch0036535/?ref_=tt_cl_t6">Hawkeye</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm1089991/?ref_=tt_cl_i7"><img alt="Tom Hiddleston" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTEwNjE0Njg2MTReQTJeQWpwZ15BbWU3MDEyODM1ODc@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Tom Hiddleston" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm1089991/?ref_=tt_cl_t7" itemprop="url"> <span class="itemprop" itemprop="name">Tom Hiddleston</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0039559/?ref_=tt_cl_t7">Loki</a>
+</div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm0163988/?ref_=tt_cl_i8"><img alt="Clark Gregg" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BOTQzMzMyOTY2MF5BMl5BanBnXkFtZTcwMzU3MjEzMQ@@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Clark Gregg" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0163988/?ref_=tt_cl_t8" itemprop="url"> <span class="itemprop" itemprop="name">Clark Gregg</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0037737/?ref_=tt_cl_t8">Agent Phil Coulson</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm1130627/?ref_=tt_cl_i9"><img alt="Cobie Smulders" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTkzNTUyMTczM15BMl5BanBnXkFtZTcwMjMxNTM4Nw@@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Cobie Smulders" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm1130627/?ref_=tt_cl_t9" itemprop="url"> <span class="itemprop" itemprop="name">Cobie Smulders</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0165041/?ref_=tt_cl_t9">Agent Maria Hill</a>
+</div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm0001745/?ref_=tt_cl_i10"><img alt="Stellan Skarsgård" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTg4NDUzOTY0N15BMl5BanBnXkFtZTYwNjYxODE0._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Stellan Skarsgård" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0001745/?ref_=tt_cl_t10" itemprop="url"> <span class="itemprop" itemprop="name">Stellan Skarsgård</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0188124/?ref_=tt_cl_t10">Selvig</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm0000168/?ref_=tt_cl_i11"><img alt="Samuel L. Jackson" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Samuel L. Jackson" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0000168/?ref_=tt_cl_t11" itemprop="url"> <span class="itemprop" itemprop="name">Samuel L. Jackson</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0020752/?ref_=tt_cl_t11">Nick Fury</a>
+</div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm0000569/?ref_=tt_cl_i12"><img alt="Gwyneth Paltrow" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BNzIxOTQ1NTU1OV5BMl5BanBnXkFtZTcwMTQ4MDY0Nw@@._V1_SX32_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Gwyneth Paltrow" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0000569/?ref_=tt_cl_t12" itemprop="url"> <span class="itemprop" itemprop="name">Gwyneth Paltrow</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0033333/?ref_=tt_cl_t12">Pepper Potts</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm0079273/?ref_=tt_cl_i13"><img alt="Paul Bettany" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMjEwODg1MTA5Ml5BMl5BanBnXkFtZTcwNDQwMTQxMw@@._V1_SY44_CR0,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Paul Bettany" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0079273/?ref_=tt_cl_t13" itemprop="url"> <span class="itemprop" itemprop="name">Paul Bettany</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0498784/?ref_=tt_cl_t13">Jarvis</a> 
+  
+  
+  (voice)
+  
+                  
+              </div>
+</td>
+</tr>
+<tr class="even">
+<td class="primary_photo">
+<a href="/name/nm0219206/?ref_=tt_cl_i14"><img alt="Alexis Denisof" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTcyMTg3MDU2NV5BMl5BanBnXkFtZTcwNjk0NTM2OQ@@._V1_SY44_CR14,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Alexis Denisof" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0219206/?ref_=tt_cl_t14" itemprop="url"> <span class="itemprop" itemprop="name">Alexis Denisof</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+<a href="/character/ch0304306/?ref_=tt_cl_t14">The Other</a>
+</div>
+</td>
+</tr>
+<tr class="odd">
+<td class="primary_photo">
+<a href="/name/nm0071416/?ref_=tt_cl_i15"><img alt="Tina Benko" class="loadlate hidden " height="44" loadlate="http://ia.media-imdb.com/images/M/MV5BMTY0NzAxMTYyNl5BMl5BanBnXkFtZTcwODg2OTMyMw@@._V1_SY44_CR13,0,32,44_AL_.jpg" src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB379389446_.png" title="Tina Benko" width="32"/></a> </td>
+<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+<a href="/name/nm0071416/?ref_=tt_cl_t15" itemprop="url"> <span class="itemprop" itemprop="name">Tina Benko</span>
+</a> </td>
+<td class="ellipsis">
+              ...
+          </td>
+<td class="character">
+<div>
+            NASA Scientist 
+                  
+              </div>
+</td>
+</tr>
+</table>
+<div class="see-more">
+<a href="fullcredits?ref_=tt_cl_sm#cast">See full cast</a> »
+        </div>
+</div>
+
+<!-- no content received for slot: maindetails_center_ad -->
+
+<div class="article" id="titleStoryLine">
+<span class="rightcornerlink">
+<a href="/register/login?why=edit&amp;ref_=tt_stry" rel="login">Edit</a>
+</span>
+<h2>Storyline</h2>
+<div class="inline canwrap" itemprop="description">
+<p>
+Nick Fury is director of S.H.I.E.L.D, an international peace keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster.                <em class="nobr">Written by
+<a href="/search/title?plot_author=WellardRockard&amp;view=simple&amp;sort=alpha&amp;ref_=tt_stry_pl">WellardRockard</a></em> </p>
+</div>
+<span class="see-more inline">
+<a href="/title/tt0848228/plotsummary?ref_=tt_stry_pl">Plot Summary</a>
+<span>|</span>
+<a href="/title/tt0848228/synopsis?ref_=tt_stry_pl">Plot Synopsis</a>
+</span>
+<hr/>
+<div class="see-more inline canwrap" itemprop="keywords">
+<h4 class="inline">Plot Keywords:</h4>
+<a href="/keyword/tesseract?ref_=tt_stry_kw"> <span class="itemprop" itemprop="keywords">tesseract</span></a>
+<span>|</span>
+<a href="/keyword/shield?ref_=tt_stry_kw"> <span class="itemprop" itemprop="keywords">shield</span></a>
+<span>|</span>
+<a href="/keyword/captain?ref_=tt_stry_kw"> <span class="itemprop" itemprop="keywords">captain</span></a>
+<span>|</span>
+<a href="/keyword/iron-man?ref_=tt_stry_kw"> <span class="itemprop" itemprop="keywords">iron man</span></a>
+<span>|</span>
+<a href="/keyword/army?ref_=tt_stry_kw"> <span class="itemprop" itemprop="keywords">army</span></a>
+<span>|</span> <nobr><a href="/title/tt0848228/keywords?ref_=tt_stry_kw">See All (281)</a> »</nobr>
+</div>
+<hr/>
+<div class="see-more inline canwrap" itemprop="genre">
+<h4 class="inline">Genres:</h4>
+<a href="/genre/Action?ref_=tt_stry_gnr"> Action</a> <span>|</span>
+<a href="/genre/Adventure?ref_=tt_stry_gnr"> Adventure</a> <span>|</span>
+<a href="/genre/Sci-Fi?ref_=tt_stry_gnr"> Sci-Fi</a>
+</div>
+<hr/>
+<div class="txt-block">
+<h4>Motion Picture Rating
+                    (<a href="/mpaa?ref_=tt_stry_pg">MPAA</a>)
+                </h4>
+<span itemprop="contentRating">Rated PG-13 for intense sequences of sci-fi violence and action throughout, and a mild drug reference</span>
+<span class="ghost">|</span> <span class="see-more inline">
+<a href="/title/tt0848228/parentalguide?ref_=tt_stry_pg#certification"> See all certifications</a> »
+            </span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Parents Guide:</h4>
+<span class="see-more inline" itemprop="audience" itemscope="" itemtype="http://schema.org/Audience">
+<a href="/title/tt0848228/parentalguide?ref_=tt_stry_pg" itemprop="url"> View content advisory</a> »
+        </span>
+</div>
+</div>
+
+
+<div class="article" id="titleDetails">
+<span class="rightcornerlink">
+<a href="/register/login?why=edit&amp;ref_=tt_dt_dt" rel="login">Edit</a>
+</span>
+<h2>Details</h2>
+<div class="txt-block">
+<h4 class="inline">Official Sites:</h4>
+<a href="/offsite/?page-action=offsite-facebook&amp;token=BCYuPgtH5YwnszCGKendJY04Q_OFC9FcaSU0rxaJW0nXa_3xLu0_6CMSja6Cxpv13k-deVNv_beV%0D%0AeeHVlEY3X0JApnrq6DWzocp4BbyEZo1P-We2HygekslxY8i_whFsDpp8tzfWtnMkSj6URS_eZXRu%0D%0AwM-YxISW2pOjYakm-3cdms0vMJbETcSFnASp4D11OPGtwey6T7G5h3Ul4FY0uOUfwbRcNfLXGhos%0D%0AhNPv_Z2nYKc%0D%0A&amp;ref_=tt_pdt_ofs_offsite_0" itemprop="url" rel="nofollow">Official Facebook</a>
+<span class="ghost">|</span>
+<a href="/offsite/?page-action=offsite-facebook&amp;token=BCYkx9IwkMoc3DNO-hFGz89xJ8mdq-BX6fW0gpfuKTeWu7oYevIwk4_KbMWjEIJl_XuJPZc4cGBd%0D%0Anc7Tsm3T9LrW2NqYoVpr7HP1ZWzTU1mo16Me7d7huvdky3n3AxW8OS5m5JmKAoe7S7DNy2pD5Ssi%0D%0A0M7jO5KJ-G8qhQFGBHFUKOyEXaX_OjSDCMqjL85tLpmxlNoYyeIBfcZAEtcAzq-_kbtiAMGhMCGh%0D%0AxKsNhUIMpPM%0D%0A&amp;ref_=tt_pdt_ofs_offsite_1" itemprop="url" rel="nofollow">Official Facebook [United Kingdom]</a>
+<span class="ghost">|</span>
+<span class="see-more inline">
+<a href="externalsites?ref_=tt_dt_dt#official" itemprop="url">See more</a> »
+      </span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Country:</h4>
+<a href="/country/us?ref_=tt_dt_dt" itemprop="url">USA</a>
+</div>
+<div class="txt-block">
+<h4 class="inline">Language:</h4>
+<a href="/language/en?ref_=tt_dt_dt" itemprop="url">English</a>
+<span class="ghost">|</span>
+<a href="/language/ru?ref_=tt_dt_dt" itemprop="url">Russian</a>
+</div>
+<div class="txt-block">
+<h4 class="inline">Release Date:</h4> 4 May 2012 (USA)
+    <span class="see-more inline">
+<a href="releaseinfo?ref_=tt_dt_dt" itemprop="url">See more</a> »
+    </span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Also Known As:</h4> Group Hug
+      <span class="see-more inline">
+<a href="releaseinfo?ref_=tt_dt_dt#akas" itemprop="url">See more</a> »
+      </span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Filming Locations:</h4>
+<a href="/search/title?locations=Pittsburgh%2C+Pennsylvania%2C+USA&amp;ref_=tt_dt_dt" itemprop="url">Pittsburgh, Pennsylvania, USA</a>
+<span class="see-more inline">
+<a href="locations?ref_=tt_dt_dt" itemprop="url">See more</a> »
+      </span>
+</div>
+<hr/>
+<h3>Box Office</h3>
+<div class="txt-block">
+<h4 class="inline">Budget:</h4>        $220,000,000        
+
+      <span class="attribute">(estimated)</span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Opening Weekend:</h4>         $207,438,708        
+
+      (USA)
+      <span class="attribute">(4 May 2012)</span>
+</div>
+<div class="txt-block">
+<h4 class="inline">Gross:</h4>        $623,279,547        
+
+      <span class="attribute">(USA)</span>
+<span class="attribute">(28 September 2012)</span>
+</div>
+<span class="see-more inline">
+<a href="business?ref_=tt_dt_bus" itemprop="url">See more</a> »
+  </span>
+<hr/>
+<h3>Company Credits</h3>
+<div class="txt-block">
+<h4 class="inline">Production Co:</h4>
+<span itemprop="creator" itemscope="" itemtype="http://schema.org/Organization">
+<a href="/company/co0051941?ref_=tt_dt_co" itemprop="url"><span class="itemprop" itemprop="name">Marvel Studios</span></a></span>,        <span itemprop="creator" itemscope="" itemtype="http://schema.org/Organization">
+<a href="/company/co0023400?ref_=tt_dt_co" itemprop="url"><span class="itemprop" itemprop="name">Paramount Pictures</span></a></span> <span class="see-more inline">
+<a href="companycredits?ref_=tt_dt_co" itemprop="url">See more</a> »
+      </span>
+</div>
+<div class="txt-block"> 
+  Show detailed
+<a href="http://pro.imdb.com/title/tt0848228/companycredits?rf=cons_tt_cocred_tt&amp;ref_=cons_tt_cocred_tt" itemprop="url">company contact information</a>
+  on 
+  <a href="http://pro.imdb.com/signup/index.html?rf=cons_tt_cocred_spl&amp;ref_=cons_tt_cocred_spl" itemprop="url">IMDbPro</a> »
+  </div>
+<hr/>
+<h3>Technical Specs</h3>
+<div class="txt-block">
+<h4 class="inline">Runtime:</h4>
+<time datetime="PT143M" itemprop="duration">143 min</time>
+</div>
+<div class="txt-block">
+<h4 class="inline">Sound Mix:</h4>
+<a href="/search/title?sound_mixes=datasat&amp;ref_=tt_dt_spec" itemprop="url">Datasat</a>
+<span class="ghost">|</span> <a href="/search/title?sound_mixes=dolby_digital&amp;ref_=tt_dt_spec" itemprop="url">Dolby Digital</a>
+<span class="ghost">|</span> <a href="/search/title?sound_mixes=dolby_surround_7.1&amp;ref_=tt_dt_spec" itemprop="url">Dolby Surround 7.1</a>
+</div>
+<div class="txt-block">
+<h4 class="inline">Color:</h4>
+<a href="/search/title?colors=color&amp;ref_=tt_dt_spec" itemprop="url">Color</a>
+</div>
+<div class="txt-block">
+<h4 class="inline">Aspect Ratio:</h4> 1.85 : 1
+    </div>
+  
+  See <a href="technical?ref_=tt_dt_spec" itemprop="url">full technical specs</a> »
+    </div>
+
+
+<div class="article" id="titleDidYouKnow">
+<span class="rightcornerlink">
+<a href="/register/login?why=edit&amp;ref_=tt_trv_trv" rel="login">Edit</a>
+</span>
+<h2>Did You Know?</h2>
+<div class="txt-block" id="trivia">
+<h4>Trivia</h4>
+
+
+The first film to gross $200 million in its first three days in the USA.        <a class="nobr" href="trivia?ref_=tt_trv_trv">See more</a>  »
+    </div>
+<hr/>
+<div class="txt-block" id="goofs">
+<h4>Goofs</h4>
+Agent Phil comes to the Stark Tower to meet Tony. Pepper hands him her glass of champagne. During Pepper's conversation with Agent Phil, he holds the glass by the bowl, but in one shot he is holding it by the stem.        <a class="nobr" href="trivia?tab=gf&amp;ref_=tt_trv_gf">See more</a>  »
+    </div>
+<hr/>
+<div class="text-block" id="quotes">
+<h4>Quotes</h4>
+[<span class="fine">first lines</span>]
+<br/><a href="/name/nm0219206/?ref_=tt_trv_qu"><span class="character">The Other</span></a>:
+The Tesseract has awakened. It is on a little world. A human world. They would wield its power, but our ally knows its workings as they never will. He is ready to lead. And our force, our Chitauri, will follow. The world will be his. The universe yours. And the humans, what can they do but burn?
+<br/> <a class="nobr" href="trivia?tab=qt&amp;ref_=tt_trv_qu">See more</a> »
+    </div>
+<hr/>
+<div class="txt-block" id="crazyCredits">
+<h4>Crazy Credits</h4>
+Part of the closing credits are seen amongst the equipment used by the main cast: Iron Man's armor, Captain America's shield, Thor's armour, Hawkeye's quiver, Black Widow's stingers, Dr Banner's glasses and Fury's gun.        <a class="nobr" href="trivia?tab=cz&amp;ref_=tt_trv_cc">See more</a>  »
+    </div>
+<hr/>
+<div class="text-block" id="connections">
+<h4>Connections</h4>
+        Referenced in <a href="/title/tt3258010?ref_=tt_trv_cnn">Double Rainboom</a> (2013)
+
+
+        <a class="nobr" href="trivia?tab=mc&amp;ref_=tt_trv_cnn">See more</a> »
+    </div>
+<hr/>
+<div class="text-block" id="soundtracks">
+<h4>Soundtracks</h4>
+String Quartet No. 13 in a Minor 'Rosamunde' D804<br/>
+Written by <a href="/name/nm0006280?ref_=tt_trv_snd">Franz Schubert</a><br/>
+Performed by <a href="/name/nm3048780?ref_=tt_trv_snd">The Takács Quartet</a><br/>
+Courtesy of Hyperion Records Ltd.<br/> <a class="nobr" href="soundtrack?ref_=tt_trv_snd">See more</a> »
+    </div>
+</div>
+
+</div>
+</div>
+<div class="redesign clear" id="content-1">
+
+<div class="article" id="titleFAQ">
+<h2>Frequently Asked Questions</h2>
+<div class="faq">
+<div class="odd">
+<b>Q:</b>
+<a href="/title/tt0848228/faq?ref_=tt_faq_1#.2.1.56"> How did S.H.I.E.L.D. get the heroes' footage (which consists of scenes from the other Marvel movies)?</a>
+</div>
+<div class="even">
+<b>Q:</b>
+<a href="/title/tt0848228/faq?ref_=tt_faq_2#.2.1.54"> What is Tony Stark talking about when he references a shawarma place toward the end of the movie?</a>
+</div>
+<div class="odd">
+<b>Q:</b>
+<a href="/title/tt0848228/faq?ref_=tt_faq_3#.2.1.4"> Who are the villains?</a>
+</div>
+</div>
+<span class="see-more inline">
+<a class="nobr" href="/title/tt0848228/faq?ref_=tt_faq_sm">See more</a>
+<span class="spoilers">(Spoiler Alert!)</span></span> »
+    </div>
+
+
+<div class="article" id="titleUserReviewsTeaser">
+<h2>User Reviews</h2>
+<div class="user-comments">
+<div class="tinystarbar" title="10/10">
+<div style="width: 100px;"> </div>
+</div>
+<span itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<strong itemprop="name">A Comic Book Triumph!</strong>
+<span itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<meta content="1" itemprop="worstRating"/>
+<meta content="10" itemprop="ratingValue"/>
+<meta content="10" itemprop="bestRating"/>
+</span>
+<div class="comment-meta">
+                        15 April 2012 | by <a href="/user/ur27750781/?ref_=tt_urv"><span itemprop="author">emily-k-mccole</span></a>
+<meta content="2012-04-15" itemprop="datePublished"/>
+                              (Melbourne, Australia)
+                        – <a href="/user/ur27750781/comments?ref_=tt_urv">See all my reviews</a>
+</div>
+<div>
+<p itemprop="reviewBody">I was lucky enough to be included in the group to see the advanced screening in Melbourne on the 15th of April, 2012. And, firstly, I need to say a big thank-you to Disney and Marvel Studios.<br/><br/>Now, the film... how can I even begin to explain how I feel about this film? It is, as the title of this review says a 'comic book triumph'. I went into the film with very, very high expectations and I was not disappointed.<br/><br/>Seeing Joss Whedon's direction and envisioning of the film come to life on the big screen is perfect. The script is amazingly detailed and laced with sharp wit a humor. The special effects are literally mind-blowing and the action scenes are both hard-hitting and beautifully choreographed.<br/><br/>While all of these things (script, action, special effects and so on and so forth) are important... it's no good having them spot on if you don't have a cast that just isn't right. But fortunately, for fans and for the actors involved, Whedon's cast not only work brilliantly together but are perfectly comfortable wailing on each other and threatening each other all day and night.<br/><br/>The actors' performances in "Marvel's The Avengers" are simply captivating and there are many instances where we get a glimpse further into their characters pasts and innermost feelings. Robert Downey Jr. will have you in stitches. Scarlett Johansson will have you staring in disbelief as she winds her way through sticky situations. And Tom Hiddleston will have you simply shaking in your seat with fear.<br/><br/>All in all, Marvel's The Avengers is a visual delight and I cannot wait to see it again, and again, and again. Marvel fans will not be disappointed, and something tells me that most of you will agree with me wholeheartedly.<br/><br/>The Avengers, assembled and awe-inspiring. Ten out of ten.</p>
+</div>
+</span>
+<hr/>
+<div class="yn" id="ynd_2597511">
+                    536 of 917 people found this review helpful. 
+                    Was this review helpful to you?
+                    <button class="btn small" name="ynb_2597511_yes" onclick="CS.TMD.user_review_vote(2597511, 'tt0848228', 'yes');" value="Yes">Yes</button>
+<button class="btn small" name="ynb_2597511_no" onclick="CS.TMD.user_review_vote(2597511, 'tt0848228', 'no');" value="No">No</button>
+</div>
+<div class="see-more">
+<a href="/title/tt0848228/reviews-enter?ref_=tt_urv" rel="login">Review this title</a>
+<span>|</span>
+<a href="/title/tt0848228/reviews?ref_=tt_urv">See all 1,629 user reviews</a> »
+            </div>
+</div>
+</div>
+
+
+<div class="article" id="boardsTeaser">
+<h2>Message Boards</h2>
+            Recent Posts
+            <table class="boards">
+<tr class="odd">
+<td>
+<a href="/title/tt0848228/board/nest/239903562?ref_=tt_bd_1">Why???</a>
+</td>
+<td>
+<a href="/user/ur40106784/?ref_=tt_bd_1">cc_simpson</a>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="/title/tt0848228/board/nest/238927259?ref_=tt_bd_2">Cheese fest</a>
+</td>
+<td>
+<a href="/user/ur22619772/?ref_=tt_bd_2">NedNoodles</a>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="/title/tt0848228/board/nest/237000619?ref_=tt_bd_3">Better than Xmen days of future past ?.</a>
+</td>
+<td>
+<a href="/user/ur29228401/?ref_=tt_bd_3">leonwatson79</a>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="/title/tt0848228/board/nest/231751412?ref_=tt_bd_4">Not a good movie.</a>
+</td>
+<td>
+<a href="/user/ur4366484/?ref_=tt_bd_4">bpollen</a>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="/title/tt0848228/board/nest/230423122?ref_=tt_bd_5">Avengers being in the IMDB top 250 is destroying the list's credibility.</a>
+</td>
+<td>
+<a href="/user/ur51585906/?ref_=tt_bd_5">Soft_Weeping</a>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="/title/tt0848228/board/nest/234942735?ref_=tt_bd_6"># 5 On My Top Ten List...</a>
+</td>
+<td>
+<a href="/user/ur54026233/?ref_=tt_bd_6">jlrucilez</a>
+</td>
+</tr>
+</table>
+<div class="see-more">
+<a href="/title/tt0848228/board/?ref_=tt_bd_sm">Discuss The Avengers (2012)</a> on the IMDb message boards »
+        </div>
+</div>
+
+<div class="article contribute">
+<div class="rightcornerlink">
+<a href="/help/?adding/&amp;ref_=tt_cn_hlp">Getting Started</a>
+<span>|</span>
+<a href="/czone/?ref_=tt_cn_cz">Contributor Zone</a> »</div>
+<h2>Contribute to This Page</h2>
+<div class="button-box">
+<form action="/updates?ref_=tt_cn_edt" method="post">
+<input name="auto" type="hidden" value="legacy/title/tt0848228/">
+<button class="btn primary large" rel="login" type="submit">Edit page</button>
+</input></form>
+</div>
+<div class="button-box">
+<a class="btn large" href="/title/tt0848228/reviews-enter?ref_=tt_cn_urv" rel="login">Write review</a>
+</div>
+<div class="form-box">
+<form action="/character/create?ref_=tt_cn_ch" method="post">
+<input name="title" type="hidden" value="tt0848228">
+<div class="form-txt">Create a character page for:</div>
+<select data-tconst="tt0848228" id="character_select" name="name">
+<option value="NASA Scientist">NASA Scientist</option>
+<option disabled="disabled">-----------</option>
+<option value="...">more...</option>
+</select>
+<button class="btn small">Create »</button>
+<a class="btn small" href="/help/show_leaf?createchar&amp;ref_=tt_cn_chhlp">?</a>
+</input></form>
+</div>
+</div>
+
+</div>
+<br class="clear"/>
+</div>
+<div class="ft" id="footer">
+<hr size="1" width="100%">
+<div id="rvi-div">
+<div class="recently-viewed"> </div>
+<br class="clear">
+<hr size="1" width="100%">
+</hr></br></div>
+<!-- no content received for slot: bottom_ad -->
+<p align="center" class="footer">
+<a href="/?ref_=ft_hm">Home</a>
+        | <a href="/search?ref_=ft_sr">Search</a>
+        | <a href="/a2z?ref_=ft_si">Site Index</a>
+        | <a href="/movies-in-theaters/?ref_=ft_inth">In Theaters</a>
+        | <a href="/movies-coming-soon/?ref_=ft_cs">Coming Soon</a>
+        | <a href="/chart/?ref_=ft_cht">Top Movies</a>
+        | <a href="/chart/top?ref_=ft_250">Top 250</a>
+        | <a href="/sections/tv/?ref_=ft_tv">TV</a>
+        | <a href="/news/?ref_=ft_nw">News</a>
+        | <a href="/boards/?ref_=ft_mb">Message Boards</a>
+        | <a href="/pressroom/?ref_=ft_pr">Press Room</a>
+<br>
+<a href="https://secure.imdb.com/register-imdb/form-v2?ref_=ft_reg">Register</a>
+        | <a href="/advertising/?ref_=ft_ad">Advertising</a>
+        | <a href="/helpdesk/contact?ref_=ft_con">Contact Us</a>
+        | <a href="/jobs?ref_=ft_jb">Jobs</a>
+        | <a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&amp;ref_=cons_ft_hm">IMDbPro</a>
+        |     <a href="/offsite/?page-action=ft-mojo&amp;token=BCYkmtpxABlKwPus9aE61ejYpG9tfViX0WcjHvyo9N7s17K02trcrw6VRsmyAyQGJI8EPPwaMNIb%0D%0AvCxvcqDgI-AiXHtAMFYdcYWcemCUxQlKnfMVHwNE-uR7WCA_4kvS8t94lxxnPqMxN6hhZnSPwYj5%0D%0AzD0uB6p08PbvXj18rykHopM5SZ5v-JPANlsqXcYRZcyW%0D%0A">Box Office Mojo</a>
+
+        |     <a href="/offsite/?page-action=ft-wab&amp;token=BCYnuwAxQZ14v7gPX1bY174gU6WezpCfnDa4ynWg7s_z0YvqZwe-s5DmPoHprLrypAJ8gZA7_sBN%0D%0AIIlUK-oV-Vcd0Zz-r9NrqiMjOOSAlXmjy4jxfLRfhXhwM8xmthUyOQjUUX11S2SeSuL-_JiqnZmA%0D%0AAjpVc0ubVRtMNz5vZD4D9x_uCRoS2MioosYcy8nYgohP%0D%0A">Withoutabox</a>
+<br/><br/>
+        IMDb Mobile:
+          <a href="/apps/ios/?ref_=ft_ios">iPhone/iPad</a>
+        | <a href="/android?ref_=ft_and">Android</a>
+        | <a href="http://m.imdb.com?ref_=ft_mdot">Mobile site</a>
+        | <a href="/windowsphone?ref_=ft_win">Windows Phone 7</a>
+        | IMDb Social:
+              <a href="/offsite/?page-action=ft-fb&amp;token=BCYsc2wF5k4aONeqalPAyXGvG0XExse79vOJsl8z6knzwo8T0cc6xeORct6uwbs-vVq4bz91vpl_%0D%0ACv4s9xS_an1OzuEpN5RxwVfcxxKgj8-HTLRY52dgklawbGEwPA4yvpSuOcMgCzMIWlxzyRzWPTGv%0D%0AtmG-jLYgEoEA9hWh2YNpEI3EdbYu8r9xX0Co8ZvYS9d5%0D%0A">Facebook</a>
+
+        |     <a href="/offsite/?page-action=ft-twt&amp;token=BCYuHPIDHjXJMX_2FHw5VVvUB_1ty0f5XDMMfhuVuX5q03R4YyqQWX6ejKZWTuCsTe62XIzteQqm%0D%0Ag6s7hzp1qrbS3wNrwSbYw1trB9mt35OHi1gMTqKnGUKqQ1kDdkABD-6RLbSI_uS1LmuGV_PmLpoA%0D%0Auz0svV14iGIacoIrNX_Lkcw%0D%0A">Twitter</a>
+<br/><br/>
+</br></p>
+<p align="center" class="footer">
+<a href="/help/show_article?conditions" onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';">Copyright ©</a> 1990-2015 
+        <a href="/help/" onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';">IMDb.com, Inc.</a>
+<br>
+<a href="/help/show_article?conditions&amp;ref_=ft_cou">Conditions of Use</a>
+        | <a href="/privacy?ref_=ft_pvc">Privacy Policy</a>
+        |     <a href="/offsite/?page-action=ft-iba&amp;token=BCYt9oRTi1_gFRgf3RhK9spuvl6KqtifP3Zd4XFXtWsv8A_yu1HtigGu5n7qZpBEyOWGhMT9v2Mc%0D%0A9Omre4Lw43-UgoOKCUltJJRmAGAp3gllKqmdnGwgSBafuQqAJ4RGELWwy8b0j2VwWV2hzcZaxrgQ%0D%0AIQDUCPTNqSAsepWAJcSyoALzkAte8hFavWJS9_N_2r8o%0D%0A">Interest-Based Ads</a>
+<br>
+        An <span align="middle" class="footer_logo" id="amazon_logo"></span> company.
+    </br></br></p>
+<table class="footer" id="amazon-affiliates">
+<tr>
+<td colspan="8">
+        Amazon Affiliates
+      </td>
+</tr>
+<tr>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-aiv&amp;token=BCYkVzRC1ZWucwKeouB9p_4TYBTnhf8e5li-CmV1wX7kLR1avgrfqOwn1gsJIc5pUKX4Kmw5y13h%0D%0AZW8jFFteGsOaPLJE_Xdt5HcCsNecxyWOLA1mMWN7H5GH46-eSH0qQQkZt0EsdmxsfZmxiKcEzX3L%0D%0A0mj6BDtCduqRGgdSxuHRW5sD6mBqaPw-PRMMJwvjWb7c9djERZdhDO8nQk7jhz-FVWCVV2_frH2F%0D%0A-ieAb_Vg1hc%0D%0A"> <span class="amazon-affiliate-site-name">Amazon Instant Video</span><br>
+<span class="amazon-affiliate-site-desc">Watch Movies &amp;<br>TV Online</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-piv&amp;token=BCYpMRJabofJKi3dzH88zWlTwePIrKtEPiEj9F2lDtEOmf6x6IeAUaPhETqfOrKnsWvK0jeIZoKg%0D%0AcJ8rUeA7NXc1J0_ev_kR7INTrHFX7yO7Sk9HrVtX5OoG9__-_15r9LfscSrH1M8RRpz7z5lB7AzI%0D%0AT1f3nXjCjtCIuMxySLSU7UJGwU4vTaeORajHQdoSCY4zcdnpvl-G9D4U2qK6IVgby1JMM0JTJt_S%0D%0AuEnU3HoxvMM%0D%0A"> <span class="amazon-affiliate-site-name">Prime Instant Video</span><br>
+<span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies &amp; TV</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-de&amp;token=BCYqrHscbrRmv7kHaFL-N_xc11QBIX1LX_GYt4Y1Bl7h1CgeHAjJguLrb_SPpjxhFXlvjaXta-km%0D%0AXb4eIel0b-oIPUhnhJQAn6HSOQ1GYIPcfIrpq-e0H2T17SodvDVgrc5MyEhFOCIGXnUDWbZH8Aeb%0D%0ABo1RqUysvOyZOB6qf8riwvpW90zaNf4K2InJyhGbn1jd4_R21SNNGSd1DRhJZ_zXC7KIaS6TmVRs%0D%0AwQ4_w5eYe3I%0D%0A"> <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+<span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD &amp; Blu-ray</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-it&amp;token=BCYibBNn_ugiiytxD-_anBoTlOc7cBZYGnYM7aQJPpoCX2L52MciyQbagaDQRYAI3yC26pCJHRXb%0D%0AfudY79twqIOGMduTLpXk7K_4hEthEtYZvyA-c_38cy_bbIn--zHgsruFzEET5r9AgpcBGwrtxtZ0%0D%0A3o2mF3hS1X6zca3cvsuErIvErC4YFVNSUjbiAv8e-82LUBrWIi5pQDMmmmiDWz96KLaNlpKX33Ru%0D%0AzEvfALjmFkw%0D%0A"> <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+<span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD &amp; Blu-ray</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-fr&amp;token=BCYjv0QmmBJFcDgCM8NZrGTFrWKHvgK8T32-C517dNzbkSr2YaSar4vNxZQ8m5Pr3t5YEnRZh6qT%0D%0AoOc46vZR1AuT54ITQ1DUS8TozzJ_0G04KO0wE4cog5ig3_kRymosItuGGpMwZhJ841-yjANHPVx7%0D%0Ag_dV4NLsCAzJg0dSY4neJESFPKYASWxbMKdzyPA8Dn-EtmwegEl3SAUhBszM-k66xyBs9hRkP_Xz%0D%0AqivNlx5dleI%0D%0A"> <span class="amazon-affiliate-site-name">Amazon France</span><br>
+<span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD &amp; Blu-ray</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-in&amp;token=BCYhEe7OXNqm8EQmv3_sZhHbZL6oJ1CaH5-tL-ASN_UMcb-LlXpHbNHcJVt4oSebV5IGN1pVbnYn%0D%0A-45UHrZmeFFyaO_UTvjbZetdRjj_dMfOXWPVle5DqxIubhaBEeYykWrrHUDmXkkZVJU9fCF8ORBm%0D%0AqF6q0_k4gjysVlsjtLDmk-PrQZCyzjAGqx7jYfz3iI3-uG-ONBuSmrfTDPRoa4snmDjuWf_utqET%0D%0AHqtBzoOx0-60zOPM0ZHXuaDi1cmFeRAh%0D%0A"> <span class="amazon-affiliate-site-name">Amazon India</span><br>
+<span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-dpr&amp;token=BCYitCBOcWZZc2GL2H5A7W73MgoRGogWCZOWim3hajPAAoNpH8NSwr5YRbSQ07kyfrMWbmcRPhi9%0D%0AI3tBs_sdg8fbq3w3e_rYdf37j4Fr48ZRMDB_tX6lw2B0vysbX98yWifgNpvtTKAor0KUPHj47YOl%0D%0AIamVJWEuVQrkM2sdBuF04GNTQodYQdhnoCKAll-zX00l%0D%0A"> <span class="amazon-affiliate-site-name">DPReview</span><br>
+<span class="amazon-affiliate-site-desc">Digital<br>Photography</br></span>
+</br></a>
+</td>
+<td class="amazon-affiliate-site-item-nth">
+<a class="amazon-affiliate-site-link" href="/offsite/?page-action=ft-amzn-aud&amp;token=BCYs6SN-NrGFj_PoOb3rFs8XI7tt0eFf43AvOpfCDlR6Uj-aWQ0zM5zdL8RyWlG2ZlzAwhMLlhPc%0D%0ArcZwiniU_i40Ywpm0TeKuuQ-ajDMwY3VpMh-Z5QEaWRpX_0gijWQ_EFofMsN-0FCalABJ3A1oZzZ%0D%0AKzMzU1G6F8cIq-9PqVBSpOaPe3igUmQynagY5xTCZs2P%0D%0A"> <span class="amazon-affiliate-site-name">Audible</span><br>
+<span class="amazon-affiliate-site-desc">Download<br>Audio Books</br></span>
+</br></a>
+</td>
+</tr>
+</table>
+</hr></div>
+</div>
+</div>
+
+
+
+<div id="servertime" time="266"></div>
+
+</body>
+</html>

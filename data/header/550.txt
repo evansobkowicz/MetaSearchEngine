@@ -1,0 +1,20 @@
+Title: Paul McCartney - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=13736167; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sun, 08 Feb 2015 18:59:04 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1664656992 1664401107, 2265881509 2132167985
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:44:06 GMT
+Age: 103496
+Connection: close
+X-Cache: cp1068 hit (5), cp1053 frontend hit (1726)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

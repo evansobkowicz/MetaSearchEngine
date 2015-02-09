@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<title>Home - Elvis Presley Official Web Site</title>
+<meta content="Jeremy Cargilo - http://401consulting.com" name="DC.creator">
+<meta content="index, follow" name="robots">
+<meta content="elvis,presley,official,website,elvis presley,graceland,king,the king,rock and roll,mississippi,tupelo,elvis aaron presley,elvis.com" name="keywords">
+<meta content="Elvis.com is the Official Website of Elvis Presley, the King of Rock and Roll" name="description">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<link href="http://www.elvis.com/assets/css/normalize.css" rel="stylesheet">
+<link href="http://www.elvis.com/assets/css/base.css?v1.01" rel="stylesheet">
+<link href="http://www.elvis.com/assets/css/main.css?v1.03" rel="stylesheet">
+<link href="http://www.elvis.com/assets/js/vendor/jquery-ui/themes/flick/jquery-ui.css" rel="stylesheet">
+<link href="http://www.elvis.com/assets/js/vendor/jquery.mmenu/css/jquery.mmenu.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.elvis.com/assets/js/vendor/fancybox/source/jquery.fancybox.css" media="screen" rel="stylesheet" type="text/css"/>
+
+
+</link></link></link></link></meta></meta></meta></meta></meta></meta></head>
+<body>
+<header id="header">
+<div class="mobile">
+<a class="menu-trigger navicon" href="#menu"><span>Menu</span></a>
+<div class="logo">
+<a href="/"><img alt="Elvis Presley Official Web Site" src="http://www.elvis.com/assets/images/logo_white.png"/></a>
+</div>
+</div>
+<nav class="fixed" id="nav">
+<div class="page">
+<div class="navbar-inner clearfix">
+<div class="logo">
+<a href="/"><img alt="Elvis Presley Official Web Site" src="http://www.elvis.com/assets/images/logo.png"/></a>
+</div>
+<ul class="nav-primary">
+<li class="selected" id="home">
+<a href="http://www.elvis.com/home">Home</a>
+</li>
+<li id="about">
+<a href="http://www.elvis.com/about/bio">About</a>
+<ul>
+<li>
+<a href="http://www.elvis.com/about/bio">Bio</a>
+</li>
+<li>
+<a href="http://www.elvis.com/about/timeline">Timeline</a>
+</li>
+<li>
+<a href="http://www.elvis.com/about/photos">Photos</a>
+</li>
+</ul>
+</li>
+<li id="music">
+<a href="http://www.elvis.com/music/singles">Music</a>
+<ul>
+<li>
+<a href="http://www.elvis.com/music/singles">Singles</a>
+</li>
+<li>
+<a href="http://www.elvis.com/music/studio-albums">Studio Albums</a>
+</li>
+<li>
+<a href="http://www.elvis.com/music/live-albums">Live Albums</a>
+</li>
+<li>
+<a href="http://www.siriusxm.com/elvisradio" target="_blank">Sirius XM</a>
+</li>
+</ul>
+</li>
+<li id="shop">
+<a href="http://shopelvis.com" target="_blank">Shop</a>
+</li>
+<li id="fans">
+<a href="http://www.elvis.com/fans">Fans</a>
+</li>
+<li id="news">
+<a href="http://www.elvis.com/news">News</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<nav id="menu">
+<ul>
+<li>
+<a href="http://www.elvis.com/home">Home</a>
+</li>
+<li>
+<a href="http://www.elvis.com/about/about">About</a>
+<ul>
+<li><a href="http://www.elvis.com/about/bio">Bio</a>
+</li>
+<li><a href="http://www.elvis.com/about/timeline">Timeline</a>
+</li>
+<li><a href="http://www.elvis.com/about/photos">Photos</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.elvis.com/music/music">Music</a>
+<ul>
+<li><a href="http://www.elvis.com/music/singles">Singles</a>
+</li>
+<li><a href="http://www.elvis.com/music/studio-albums">Studio Albums</a>
+</li>
+<li><a href="http://www.elvis.com/music/live-albums">Live Albums</a>
+</li>
+<li><a href="http://www.elvis.com/music/sirius-xm">Sirius XM</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.elvis.com/shop">Shop</a>
+</li>
+<li>
+<a href="http://www.elvis.com/fans">Fans</a>
+</li>
+<li>
+<a href="http://www.elvis.com/news">News</a>
+</li>
+</ul>
+</nav> </header>
+<section class="content-block first bg-fixed" id="row-0" style="background-image: url(/assets/images/ep_bday_website[1].jpg);background-repeat: no-repeat;height: 0;padding: 0;background-size: 100%;padding-bottom: 50.605882352941%;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=/assets/images/ep_bday_website[1].jpg,sizingMethod='scale';)-ms-filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=/assets/images/ep_bday_website[1].jpg,sizingMethod='scale');background-position: 70% 0%;min-height: 250px;">
+<div class="page">
+<div class="section group">
+<div class="col span_1_of_1 top">
+</div>
+</div>
+</div>
+<a class="arrow"></a>
+</section>
+<section class="content-block" id="row-1" style="">
+<div class="section group overlay splash" style="bottom: 57px">
+<div class="col span_1_of_3 top">
+<div class="wrap">
+<p><a href="http://www.shopelvis.com" target="_blank">PRE-ORDER THE LATEST FOLLOW THAT DREAM CDS</a></p>
+</div>
+</div>
+<div class="col span_1_of_3 top">
+<div class="wrap">
+<p><a href="../../../fans">CHECK OUT PHOTOS FROM ELVIS WEEK 2014</a></p>
+</div>
+</div>
+<div class="col span_1_of_3 top">
+<div class="wrap">
+<p><a href="../../../about/timeline">EXPLORE ELVIS' LIFE IN THE NEW TIMELINE</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="content-block pad-top-large pad-bot-large" id="row-2" style="">
+<div class="page">
+<div class="section group">
+<div class="col span_1_of_1 top">
+<div class="group center quotes">
+<div class="quote" data-tweet-url="https://twitter.com/share?text=Ambition+is+a+Dream+with+a+V8+Engine">
+<p>Ambition is a Dream with a V8 Engine</p>
+</div>
+<div class="quote" data-tweet-url="https://twitter.com/share?text=When+things+go+wrong%2C+don%E2%80%99t+go+with+them" style="display: none;">
+<p>When things go wrong, don’t go with them</p>
+</div>
+<div class="quote" data-tweet-url="https://twitter.com/share?text=Taking+care+of+business" style="display: none;">
+<p>Taking care of business</p>
+</div>
+<a id="tweet" target="_blank">
+<img alt="" src="/assets/images/icons/tweet.png"/>
+		Tweet This
+	</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="content-block parallax bg-fixed" id="row-3" style="background-image: url(/assets/images/Elvis_Couch_1900x900.jpg);height: 300px;background-position: 100% 70%;min-height: 300px;">
+<div class="section group">
+<div class="col span_1_of_1 top">
+</div>
+</div>
+</section>
+<section class="content-block" id="row-4" style="">
+<div class="section group overlay shop-elvis" style="bottom: 50px">
+<div class="col span_1_of_1 top">
+<div class="wrap">
+<a href="http://www.shopelvis.com" target="_blank">SHOP ELVIS</a>
+</div>
+</div>
+</div>
+</section>
+<section class="content-block pad-top-medium pad-bot-large" id="row-5" style="">
+<div class="page">
+<div class="section group">
+<div class="col span_1_of_1 top">
+<div class="social">
+<ul>
+<li class="tw"><a href="http://twitter.com/ElvisPresley" target="blank"><span>Share on Twitter</span></a></li>
+<li class="fb"><a href="http://www.facebook.com/elvis" target="blank"><span>Follow us on Facebook</span></a></li>
+<li class="inst"><a href="http://www.instagram.com/elvis" target="blank"><span>Share with Instagram</span></a></li>
+<li class="pnt"><a href="http://www.pinterest.com/elvis_presley" target="blank"><span>Pin it! on Pinterest</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="content-block" id="row-6" style="">
+<div class="section group">
+<div class="col span_1_of_1 top">
+<div class="photos">
+<div class="jcarousel">
+<ul>
+<li>
+<a href="http://www.elvis.com/fans">
+<div class="fans_overlay"><img alt="" src="http://www.elvis.com/assets/images/layout/fans_overlay.png"/></div>
+<img alt="" src="http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/s306x306/e15/10691698_553787261415778_813896210_n.jpg">
+</img></a>
+</li>
+<li>
+<a href="http://www.elvis.com/fans">
+<div class="fans_overlay"><img alt="" src="http://www.elvis.com/assets/images/layout/fans_overlay.png"/></div>
+<img alt="" src="http://scontent-b.cdninstagram.com/hphotos-xfp1/t51.2885-15/s306x306/e15/1389833_1497148393868418_1790392526_n.jpg">
+</img></a>
+</li>
+<li>
+<a href="http://www.elvis.com/fans">
+<div class="fans_overlay"><img alt="" src="http://www.elvis.com/assets/images/layout/fans_overlay.png"/></div>
+<img alt="" src="http://scontent-a.cdninstagram.com/hphotos-xpf1/t51.2885-15/s306x306/e15/10693559_951582291538459_445602535_n.jpg">
+</img></a>
+</li>
+<li>
+<a href="http://www.elvis.com/fans">
+<div class="fans_overlay"><img alt="" src="http://www.elvis.com/assets/images/layout/fans_overlay.png"/></div>
+<img alt="" src="http://scontent-a.cdninstagram.com/hphotos-xfa1/t51.2885-15/s306x306/e15/1889362_712186302200319_920180457_n.jpg">
+</img></a>
+</li>
+<li>
+<a href="http://www.elvis.com/fans">
+<div class="fans_overlay"><img alt="" src="http://www.elvis.com/assets/images/layout/fans_overlay.png"/></div>
+<img alt="" src="http://scontent-a.cdninstagram.com/hphotos-xap1/t51.2885-15/s306x306/e15/925539_1550711605162678_17787964_n.jpg">
+</img></a>
+</li>
+<li>
+<a href="http://www.elvis.com/fans">
+<div class="fans_overlay"><img alt="" src="http://www.elvis.com/assets/images/layout/fans_overlay.png"/></div>
+<img alt="" src="http://scontent-a.cdninstagram.com/hphotos-xaf1/t51.2885-15/s306x306/e15/10684338_872116209468039_650961424_n.jpg">
+</img></a>
+</li>
+<li>
+<a href="http://www.elvis.com/fans">
+<div class="fans_overlay"><img alt="" src="http://www.elvis.com/assets/images/layout/fans_overlay.png"/></div>
+<img alt="" src="http://scontent-b.cdninstagram.com/hphotos-xfp1/t51.2885-15/s306x306/e15/10707109_271935609671520_51210972_n.jpg">
+</img></a>
+</li>
+<li>
+<a href="http://www.elvis.com/fans">
+<div class="fans_overlay"><img alt="" src="http://www.elvis.com/assets/images/layout/fans_overlay.png"/></div>
+<img alt="" src="http://scontent-b.cdninstagram.com/hphotos-xaf1/t51.2885-15/s306x306/e15/917163_756087687785296_1168773932_n.jpg">
+</img></a>
+</li>
+</ul>
+<nav>
+<a class="prev" href="#" title="Prev">Prev</a>
+<a class="next" href="#" title="Next">Next</a>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="content-block pad-top-large pad-bot-large" id="row-7" style="">
+<div class="page">
+<div class="section group">
+<div class="col span_1_of_1 top">
+<h2 style="text-align: center;">How can we help you?</h2>
+<p style="text-align: center;"><a href="../../../contact-us">Contact us</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="content-block pad-top-medium pad-bot-medium" id="row-8" style="background-color: #413c3b;">
+<div class="page">
+<div class="section group">
+<div class="col span_1_of_1 top">
+<div style="text-align: center;"><a href="http://www.graceland.com/" target="_blank"><img alt="" src="../../../assets/images/visit_graceland.png"/></a></div>
+</div>
+</div>
+</div>
+</section>
+<footer class="content-block pad-bot-large" id="footer">
+<div class="page">
+<div class="section">
+                Elvis Presley™ is a trademark of The Estate of Elvis Presley, LLC
+                <div class="credits">
+<a class="credits" href="http://401consulting.com" target="_blank">Site by 401 Consulting</a>
+</div>
+</div>
+</div>
+</footer>
+
+
+
+
+
+
+
+<div class="messages" id="messages" style="display: none"></div>
+</body>
+</html>

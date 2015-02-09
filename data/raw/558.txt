@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<title>The Beatles’ Top 11 Tips to Reinventing Yourself</title>
+<link href="http://www.thechangeblog.com/xmlrpc.php" rel="pingback"/>
+<!--[if lt IE 9]>
+	<script src="http://www.thechangeblog.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta content="A wise songwriter once told me: everything you need you will find in the Beatles. So if you’re thinking of reinventing yourself, here’s a How To Guide, brought to you with a little help from my friends, The Fab Four." name="description"/>
+<link href="http://www.thechangeblog.com/reinventing-yourself/" rel="canonical"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="A wise songwriter once told me: everything you need you will find in the Beatles. So if you’re thinking of reinventing yourself, here’s a How To Guide, brought to you with a little help from my friends, The Fab Four." name="twitter:description"/>
+<meta content="The Beatles’ Top 11 Tips to Reinventing Yourself" name="twitter:title"/>
+<meta content="@_TheChangeBlog" name="twitter:site"/>
+<meta content="Change Your Life | The Change Blog" name="twitter:domain"/>
+<meta content="@_TheChangeBlog" name="twitter:creator"/>
+<meta content="http://i1.wp.com/www.thechangeblog.com/wp-content/uploads/2014/07/reinventing-yourself.jpg?resize=900%2C704" name="twitter:image:src"/>
+<meta content="http://www.thechangeblog.com/reinventing-yourself/" name="twitter:url"/>
+<!-- / Yoast WordPress SEO plugin. -->
+<link href="http://www.thechangeblog.com/feed/" rel="alternate" title="Change Your Life | The Change Blog » Feed" type="application/rss+xml"/>
+<link href="http://www.thechangeblog.com/comments/feed/" rel="alternate" title="Change Your Life | The Change Blog » Comments Feed" type="application/rss+xml"/>
+<link href="http://www.thechangeblog.com/reinventing-yourself/feed/" rel="alternate" title="Change Your Life | The Change Blog » The Beatles’ Top 11 Tips to Reinventing Yourself Comments Feed" type="application/rss+xml"/>
+<meta content="Divi Child Theme v.2.1.4" name="generator"/><link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" id="et_monarch-open-sans-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.thechangeblog.com/wp-content/plugins/monarch/css/style.css?ver=1.2" id="et_monarch-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.thechangeblog.com/wp-content/plugins/social-media-widget/social_widget.css?ver=4.1" id="social-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800&amp;subset=latin,latin-ext" id="divi-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&amp;subset=latin" id="et-gf-pt-serif-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&amp;subset=latin,latin-ext" id="et-gf-pt-sans-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.thechangeblog.com/wp-content/themes/Divi-Child/style.css?ver=2.2" id="divi-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.thechangeblog.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0" id="et-shortcodes-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.thechangeblog.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0" id="et-shortcodes-responsive-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.thechangeblog.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+<link href="http://www.thechangeblog.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://www.thechangeblog.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="http://www.thechangeblog.com/?p=14622" rel="shortlink"/>
+
+
+<style id="et-social-custom-css" type="text/css">
+</style>
+<!-- StarBox - the Author Box for Humans 3.0.2, visit: http://wordpress.org/plugins/starbox/ -->
+<meta content="https://www.facebook.com/skcattaneo" property="article:author"/>
+<!-- /StarBox - the Author Box for Humans -->
+<link href="http://www.thechangeblog.com/wp-content/plugins/starbox//themes/business/css/frontend.css?ver=3.0.2" id="frontend.css-css" media="all" rel="stylesheet" type="text/css"/>
+
+<link href="http://www.thechangeblog.com/wp-content/plugins/starbox//themes/admin/css/hidedefault.css?ver=3.0.2" id="hidedefault.css-css" media="all" rel="stylesheet" type="text/css"/>
+<!-- Facebook Like Thumbnail (v0.4) -->
+<meta content="http://www.thechangeblog.com/wp-content/uploads/2014/07/reinventing-yourself.jpg" property="og:image"/>
+<!-- using featured thumbnail -->
+<!-- Facebook Like Thumbnail (By Ashfame - https://github.com/ashfame/facebook-like-thumbnail) -->
+<style type="text/css">img#wpstats{display:none}</style><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/> <style>
+		a { color: #7EBEC5; }
+
+		body { color: #555555; }
+
+		.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content { background-color: #7EBEC5; }
+
+		#main-header, #main-header .nav li ul, .et-search-form, #main-header .et_mobile_menu { background-color: #ffffff; }
+
+		#top-header, #et-secondary-nav li ul { background-color: #7EBEC5; }
+
+		.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #7EBEC5 !important; }
+
+		#et_search_icon:hover, .mobile_menu_bar:before, .footer-widget h4, .et-social-icon a:hover, .comment-reply-link, .form-submit input, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover { color: #7EBEC5 !important; }
+
+		.woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .et_pb_contact_submit, .et_pb_bg_layout_light .et_pb_newsletter_button, .nav-single a, .posted_in a { color: #7EBEC5 !important; }
+
+		.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #7EBEC5; }
+
+		#main-footer { background-color: #2e2e2e; }
+
+		#top-menu a { color: #666666; }
+
+		#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a, .bottom-nav li.current-menu-item > a { color: #7CBEC6; }
+
+	h1, h2, h3, h4, h5, h6 { font-family: 'PT Serif', Georgia, "Times New Roman", serif; }body, input, textarea, select { font-family: 'PT Sans', Helvetica, Arial, Lucida, sans-serif; }	</style>
+<link href="http://www.thechangeblog.com/wp-content/uploads/2014/03/tcb_icon.png" rel="shortcut icon"/><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><meta content="TeR-3QtscomIGNvlxCzhn0Wnj0d7CWkWdi3u78-DomY" name="google-site-verification"/></head>
+<body class="single single-post postid-14622 single-format-standard et_monarch et_fixed_nav et_cover_background et_right_sidebar unknown">
+<div id="page-container">
+<header class="et_nav_text_color_dark" id="main-header">
+<div class="container clearfix">
+<a href="http://www.thechangeblog.com/">
+<img alt="Change Your Life | The Change Blog" id="logo" src="http://www.thechangeblog.com/wp-content/uploads/2014/03/thechangeblog-logo-158x43.png"/>
+</a>
+<div id="et-top-navigation">
+<nav id="top-menu-nav">
+<ul class="nav" id="top-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10858" id="menu-item-10858"><a href="http://www.thechangeblog.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10859" id="menu-item-10859"><a href="http://www.thechangeblog.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12747" id="menu-item-12747"><a href="http://www.thechangeblog.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13339" id="menu-item-13339"><a href="http://www.thechangeblog.com/contribute/">Contribute</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13400" id="menu-item-13400"><a href="http://www.thechangeblog.com/resources/">Resources</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14755" id="menu-item-14755"><a href="http://www.thechangeblog.com/subscribe/" title="Subscribe">Subscribe</a></li>
+</ul> </nav>
+<div id="et_top_search">
+<span id="et_search_icon"></span>
+<form action="http://www.thechangeblog.com/" class="et-search-form et-hidden" method="get" role="search">
+<input class="et-search-field" name="s" placeholder="Search …" title="Search for:" type="search" value=""/> </form>
+</div>
+<div id="et_mobile_nav_menu">
+<a class="mobile_nav closed" href="#">
+<span class="select_page">Select Page</span>
+<span class="mobile_menu_bar"></span>
+</a>
+</div> </div> <!-- #et-top-navigation -->
+</div> <!-- .container -->
+</header> <!-- #main-header -->
+<div id="et-main-area">
+<div id="main-content">
+<div class="container">
+<div class="clearfix" id="content-area">
+<div id="left-area">
+<article class="post-14622 post type-post status-publish format-standard has-post-thumbnail hentry category-change et_pb_post" id="post-14622">
+<h1>The Beatles’ Top 11 Tips to Reinventing Yourself</h1>
+<p class="post-meta"> by <a href="http://www.thechangeblog.com/author/susan-cattaneo/" rel="author" title="Posts by Susan Cattaneo">Susan Cattaneo</a> | <span class="comments-number"><a href="http://www.thechangeblog.com/reinventing-yourself/#respond">15 comments</a></span></p><img alt="The Beatles’ Top 11 Tips to Reinventing Yourself" height="675" src="http://i1.wp.com/www.thechangeblog.com/wp-content/uploads/2014/07/reinventing-yourself.jpg?resize=900%2C675" width="1080"/>
+<div class="entry-content">
+<!--Ad Injection mfunc mode ad include code--><!--mfunc include_once('/nfs/c03/h06/mnt/47701/domains/thechangeblog.com/html/wp-content/plugins/ad-injection/adshow.php') --><!--/mfunc-->
+<p>What advice would you give your 12 year-old self if you could go back in time?  I know I’d warn little Susan not to drink peppermint schnapps at 3AM at that Halloween party in college. I’d also tell her to start learning Italian, since she’d need that language to speak to her future husband. And I’d most definitely tell her to start playing the guitar, that it would come in handy when she reinvented herself as a performing singer/songwriter.</p>
+<p>“Huh?” She’d say.  “When I’m a what?“</p>
+<p>We’re taught to do what we love, and once we find that “thing”, that’s pretty much all we do for the rest of our lives.</p>
+<!--Ad Injection mfunc mode ad code--><!--mfunc adshow_display_ad_file_v2(array('ad_random_2.txt'), array(100), array('align' => 'center', 'clear' => '', 'margin_top' => '', 'margin_bottom' => '', 'padding_top' => '', 'padding_bottom' => ''), array(), array()) -->
+<div style=""><center>
+<!-- TCB - 336 x 280 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-3387790557719532" data-ad-slot="8677874188" style="display:inline-block;width:336px;height:280px"></ins>
+</center></div><!--/mfunc-->
+<p>But I’ve found that’s just not true.</p>
+<p>I am the Mother of Reinvention…in that I’m a mother and I’ve reinvented myself many times over the years.</p>
+<p>From college grad to TV writer/producer to graduate (again!) to Mom to Nashville songwriter to songwriting teacher and performing artist, I’ve worn many hats over the years.  Transformation has been key to my happiness.</p>
+<p>A wise songwriter once told me: everything you need you will find in the Beatles. So if you’re thinking of reinventing yourself, here’s a How To Guide, brought to you with a little help from my friends, The Fab Four:</p>
+<h3><strong>1. Help!</strong></h3>
+<p>Okay, so you hate what you’re doing for a living.  The first and hardest choice you need to make is whether you want to change your situation or not.  We spend a lot of time yearning for something different, but not actually doing anything about it. If you want to change your career, start doing the homework and laying the groundwork to make it possible.</p>
+<h3><strong>2. Can’t Buy Me Love</strong></h3>
+<p>What is success?  Everyone tells us it’s making the big bucks.  But if you don’t like your life, it doesn’t matter if you’re rolling in the dough. When changing careers, everyone tells you to save up some money so you can launch yourself into this new world.  That’s important, but even more important is rethinking what success means to you.  When you consider a radical shift in your career, most of the time that choice is driven by the search for something that is more meaningful or emotionally rewarding. Set yourself up for actual success by measuring success on something more than just financial rewards.</p>
+<h3><strong>3. When I’m Sixty-Four</strong></h3>
+<p>You’re never too old to start something new.  Never.  Trying new things is what keeps things interesting.  Yes, I do wish sometimes that I’d started my performing career in my 20’s.  And sure, I’m sometimes jealous of young musicians who can tour 200 days out of the year. Call me a late bloomer.  Or actually a perpetual bloomer. Don’t live with regrets. But you don’t want to look back on your life as something you could have lived. <em>Carpe Diem. You only live once. Be all that you can be</em>. Ahh, so many cliché phrases, and guess what? All of them are true.</p>
+<h3><strong>4. Within You Without You</strong></h3>
+<p>I was lucky. I knew what I wanted to do. But sometimes all you know is that you want and need a change. Where do you start? Start with yourself.  First of all, what do you enjoy doing? What skills do you have that relate to that?  What are you good at? Make a list of what you love, what you’re good at, and make a list of jobs that require this skill. Think outside of the box and be creative!  Writing has been the consistent skill that I’ve been able to apply to whatever discipline I’ve worked in.</p>
+<h3><strong>5. You Can’t Do That</strong></h3>
+<p>Yet…but it’s never too late to try! Maybe going back to school is the right way to go to help you learn a new skill.  Education is sometimes just the thing to get you started on your new career path.  Switching from TV promotion to music was daunting for me, because I was a singer with no formal music training.  I realized that if I wanted to do this as a career, I had to go back to school to learn the language.  So I quit my job to go back to school and study music at Berklee.</p>
+<h3><strong>6. Glass Onion</strong></h3>
+<p>What type of environment do you want to work in?  Do you prefer to be in a career that requires you to be social or would you prefer to work alone?  One of the things I love most about being a singer/songwriter is this balance between the group and the individual.  When you co-write a song, you need to share ideas and collaborate.  When you write alone, it’s just you and the guitar (or piano), and it’s a very personal solitary creative process.  I enjoy the fact that I can have both.</p>
+<h3><strong>7. All You Need is Love</strong></h3>
+<p>Having a strong support system in place is key to making a successful career change.  Find two or three people you can count on who will help you support your dream no matter what. When I made the decision to go back to school, it helped a lot that I had the support of my husband and family.</p>
+<h3><strong>8. Eight Days A Week</strong></h3>
+<p>You have to be willing to put in the time for the new career to take hold. Ever heard the theory that it takes 10,000 hours to master something? Give yourself the patience to develop and envelope your new role.  As a performing artist, I realized early on that if I was able to accompany myself on guitar, I was a whole lot more marketable (and portable) as a musician.  So, after only using the guitar as a writing tool, I’ve recently started playing the guitar at shows. Only 95,500 more hours to go….</p>
+<h3><strong>9. The Long and Winding Road</strong></h3>
+<p>Sometimes one opportunity leads to a different outcome than you expected.  You’ve got to be open to new directions that come your way.  I went to Berklee as a vocal major, so that I could learn music theory etc.  I never imagined that I would discover songwriting and that it would lead to a career in songwriting and my teaching there for the past 15 years. Sometimes the path you’re on leads you to different path, and this new road is the one you’re actually supposed to take.</p>
+<h3><strong>10. Here, There and Everywhere</strong></h3>
+<p>The key to finding success in any industry is the community of people who are in that industry.  I hate to call it “schmoozing or networking”.  That implies insincerity on your part.  It’s really making new friends and staying connected to the people who are part of the world you want to join. Make contacts and become part of your new community. Think about what you can do for them, not what they can do for you. As someone coming from a different world, you can probably provide a new perspective, and help them as much as they can help you.</p>
+<h3><strong>11. I’ll Follow The Sun</strong></h3>
+<p>When I look back on the twists and turns of my crazy career path, one thing is consistent. I followed my heart.  People change their lives for many different reasons.  In my life, the changes that I made were always because I was chasing what makes me happy. You’ll make mistakes, and it will be hard sometimes.  But go to what makes you happy.  Because, tomorrow may rain, so follow the sun.</p>
+<p><span style="font-size: xx-small;">Bio photo by <a href="http://jyotisackettphotography.weebly.com/">Jyoti Sackett</a></span></p>
+<div class="et_social_inline et_social_mobile_on et_social_inline_bottom">
+<div class="et_social_networks et_social_4col et_social_flip et_social_rounded et_social_left et_social_no_animation et_social_withcounts et_social_withnetworknames et_social_outer_dark">
+<ul class="et_social_icons_container"><li class="et_social_facebook"><a class="et_social_share et_social_display_count" data-min_count="0" data-post_id="14622" data-social_name="facebook" data-social_type="share" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.thechangeblog.com%2Freinventing-yourself%2F&amp;t=The%20Beatles%E2%80%99%20Top%2011%20Tips%20to%20Reinventing%20Yourself" rel="nofollow"><i class="et_social_icon et_social_icon_facebook"></i><div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_twitter"><a class="et_social_share et_social_display_count" data-min_count="0" data-post_id="14622" data-social_name="twitter" data-social_type="share" href="http://twitter.com/share?text=The%20Beatles%E2%80%99%20Top%2011%20Tips%20to%20Reinventing%20Yourself&amp;url=http%3A%2F%2Fwww.thechangeblog.com%2Freinventing-yourself%2F&amp;via=_TheChangeBlog" rel="nofollow"><i class="et_social_icon et_social_icon_twitter"></i><div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div><span class="et_social_overlay"></span></a></li><li class="et_social_googleplus"><a class="et_social_share et_social_display_count" data-min_count="0" data-post_id="14622" data-social_name="googleplus" data-social_type="share" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.thechangeblog.com%2Freinventing-yourself%2F&amp;t=The%20Beatles%E2%80%99%20Top%2011%20Tips%20to%20Reinventing%20Yourself" rel="nofollow"><i class="et_social_icon et_social_icon_googleplus"></i><div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div><span class="et_social_overlay"></span></a></li></ul>
+</div>
+</div>
+<div class="abh_box abh_box_down abh_box_business"><ul class="abh_tabs"> <li class="abh_about abh_active"><a href="#abh_about">About</a></li> <li class="abh_posts"><a href="#abh_posts">Latest Posts</a></li></ul><div class="abh_tab_content"><section class="vcard abh_about_tab abh_tab" style="display:block"><div class="abh_image"><a class="url" href="http://susancattaneo.com/" target="_blank" title="Susan Cattaneo"><img class="photo" data-recalc-dims="1" src="http://i2.wp.com/www.thechangeblog.com/wp-content/uploads/gravatar/susan-cattaneo-press-1-low-res.jpg?w=80"/></a></div><div class="abh_social"> <a class="abh_facebook" href="https://www.facebook.com/skcattaneo" rel="nofollow" target="_blank" title="Facebook"></a><a class="abh_twitter" href="https://twitter.com/susancattaneo" rel="nofollow" target="_blank" title="Twitter"></a></div><div class="abh_text"><h3 class="fn name" style="font-size:20px !important;"><a class="url" href="http://susancattaneo.com/" target="_blank">Susan Cattaneo</a></h3><div class="abh_job" style="font-size:16px !important;"></div><div class="description note abh_description" style="font-size:16px !important;">Susan Cattaneo is a mom, songwriting teacher at the Berklee College of Music, and a touring Americana singer/songwriter.  She’s also an Emmy-nominated TV writer/producer.  And she plays guitar enthusiastically and makes a mean pasta bolognese.  Visit her at: <a href="http://susancattaneo.com/" title="Susan Cattaneo">http://susancattaneo.com</a>.</div></div> </section><section class="abh_posts_tab abh_tab"><div class="abh_image"><a class="url" href="http://susancattaneo.com/" target="_blank" title="Susan Cattaneo"><img class="photo" data-recalc-dims="1" src="http://i2.wp.com/www.thechangeblog.com/wp-content/uploads/gravatar/susan-cattaneo-press-1-low-res.jpg?w=80"/></a></div><div class="abh_social"> <a class="abh_facebook" href="https://www.facebook.com/skcattaneo" rel="nofollow" target="_blank" title="Facebook"></a><a class="abh_twitter" href="https://twitter.com/susancattaneo" rel="nofollow" target="_blank" title="Twitter"></a></div><div class="abh_text"><h4 style="font-size:20px !important;">Latest posts by Susan Cattaneo <span class="abh_allposts">(<a href="http://www.thechangeblog.com/author/susan-cattaneo/">see all</a>)</span></h4><div class="abh_description note"><ul> <li style="font-size:16px !important;"> <a href="http://www.thechangeblog.com/reinventing-yourself/">The Beatles’ Top 11 Tips to Reinventing Yourself</a><span> - July 30, 2014</span> </li></ul></div></div> </section></div> </div>
+<div class="jp-relatedposts" id="jp-relatedposts">
+</div><span class="et_social_bottom_trigger"></span> </div> <!-- .entry-content -->
+<!-- You can start editing here. -->
+<section id="comment-wrap">
+<h1 class="page_title" id="comments">15 Comments</h1>
+<ol class="commentlist clearfix">
+<li class="comment even thread-even depth-1" id="li-comment-137300">
+<article class="comment-body clearfix" id="comment-137300">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/6bf0e307b82e2b0c835a0ac281187610?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn">Lisa</span> <span class="comment_date">
+				on July 30, 2014 at 7:43 am				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>Great post! As a Beatles fan, I especially appreciate your tips! I need to remember to keep in mind number 1 in particular.</p>
+<span class="reply-container"><a aria-label="Reply to Lisa" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137300#respond" onclick='return addComment.moveForm( "comment-137300", "137300", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-137539">
+<article class="comment-body clearfix" id="comment-137539">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/214e7baa5c8f0a74bc537cad6178520a?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.susancattaneo.com" rel="external nofollow">Susan Cattaneo</a></span> <span class="comment_date">
+				on July 31, 2014 at 5:38 am				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>Thanks, Lisa!  Glad you liked it – #1 is a tricky one.  I also have trouble with #8, but I’m heading off to practice right now…only 95,499 hours to go!</p>
+<span class="reply-container"><a aria-label="Reply to Susan Cattaneo" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137539#respond" onclick='return addComment.moveForm( "comment-137539", "137539", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-137306">
+<article class="comment-body clearfix" id="comment-137306">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://1.gravatar.com/avatar/5b608b2323fd1294edcbcb6f3671677c?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.ApptimizeGroup.com" rel="external nofollow">John Gurnick</a></span> <span class="comment_date">
+				on July 30, 2014 at 7:56 am				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>Susan:<br/>
+I really enjoyed this article. So much of it resonates as I look back on where I am and how I got here.  As a huge music fan as well this made me think of what is the soundtrack of your life.  I also posted at Linked In as well to keep the conversation going.</p>
+<p>Thanks for sharing, John</p>
+<span class="reply-container"><a aria-label="Reply to John Gurnick" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137306#respond" onclick='return addComment.moveForm( "comment-137306", "137306", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-137541">
+<article class="comment-body clearfix" id="comment-137541">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/214e7baa5c8f0a74bc537cad6178520a?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.susancattaneo.com" rel="external nofollow">Susan Cattaneo</a></span> <span class="comment_date">
+				on July 31, 2014 at 5:40 am				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>Glad you liked it, John!  Hmm, what is the soundtrack of my life?  I’ve got to think about that – Looking forward to connecting on Linked In!</p>
+<span class="reply-container"><a aria-label="Reply to Susan Cattaneo" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137541#respond" onclick='return addComment.moveForm( "comment-137541", "137541", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-137324">
+<article class="comment-body clearfix" id="comment-137324">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/e19e13541aaaa1e74fd65a82b0bf986a?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://Www.hollylynntaylor.com" rel="external nofollow">Holly</a></span> <span class="comment_date">
+				on July 30, 2014 at 9:34 am				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>I LOVE this post…as a budding singer/songwriter who moved to Nashville last year, I definitely have to thwart my internal critic who says a traditional career is “success”, or that I missed the boat in my younger years, and should focus on my concrete opportunities instead of the “pipe dream” of being a songwriter.  Your story gives me hope, and reminds me that im the only person i need to impress anyway. I’m also thankful that I love music too much to ever quit, even if I’m not a “success” by anyone’s standards but my own. Thank you for sharing your wisdom!</p>
+<span class="reply-container"><a aria-label="Reply to Holly" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137324#respond" onclick='return addComment.moveForm( "comment-137324", "137324", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-137543">
+<article class="comment-body clearfix" id="comment-137543">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/214e7baa5c8f0a74bc537cad6178520a?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.susancattaneo.com" rel="external nofollow">Susan Cattaneo</a></span> <span class="comment_date">
+				on July 31, 2014 at 5:42 am				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>Hi Holly!  I hear ya!  Hope Nashville is treating you kindly.  What I always find so interesting is that I “chased” what was on the radio for so long and had only lukewarm success.  When I got fed up and just started writing what I cared about, that’s when things started happening for me.  So, don’t give up and keep on writing!</p>
+<span class="reply-container"><a aria-label="Reply to Susan Cattaneo" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137543#respond" onclick='return addComment.moveForm( "comment-137543", "137543", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-137503">
+<article class="comment-body clearfix" id="comment-137503">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://1.gravatar.com/avatar/b66f5c08c17f57d4dd182c64565dc254?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.thankyoubro.com" rel="external nofollow">Chad Haynes</a></span> <span class="comment_date">
+				on July 31, 2014 at 2:37 am				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>I really liked this! A lot of these personal development tips can become stale but you’ve bypassed that completely by relating them to Beatles song titles. Brilliantly done. Love the opening question too. Impressed!</p>
+<span class="reply-container"><a aria-label="Reply to Chad Haynes" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137503#respond" onclick='return addComment.moveForm( "comment-137503", "137503", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-137570">
+<article class="comment-body clearfix" id="comment-137570">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/214e7baa5c8f0a74bc537cad6178520a?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.susancattaneo.com" rel="external nofollow">Susan Cattaneo</a></span> <span class="comment_date">
+				on July 31, 2014 at 8:45 am				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>Thanks, Chad!  Yeah, those Liverpool lads are a big inspiration of mine both musically and lyrically…though I guess they’re not such good role models on the “personal” front – they didn’t get along too well at the end, did they?</p>
+<span class="reply-container"><a aria-label="Reply to Susan Cattaneo" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137570#respond" onclick='return addComment.moveForm( "comment-137570", "137570", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-137743">
+<article class="comment-body clearfix" id="comment-137743">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://1.gravatar.com/avatar/b66f5c08c17f57d4dd182c64565dc254?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.thankyoubro.com" rel="external nofollow">Chad Haynes</a></span> <span class="comment_date">
+				on July 31, 2014 at 11:48 pm				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>They certainly didn’t, but art ain’t always pretty :)<br/>
+Thanks for the reply Susan! See you around.</p>
+<span class="reply-container"><a aria-label="Reply to Chad Haynes" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137743#respond" onclick='return addComment.moveForm( "comment-137743", "137743", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-137607">
+<article class="comment-body clearfix" id="comment-137607">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/eeb330d9146e8ad8211e31defccade73?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.themindofsteel.com/" rel="external nofollow">Phil Janecic</a></span> <span class="comment_date">
+				on July 31, 2014 at 12:04 pm				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>I love these types of posts – take something everybody comes in contact with and analyze it from a different perspective. Use something “normal” as a power tool towards personal improvement and development. It’s the main idea behind my writing and I love reading similar content.</p>
+<p>Now if you’ll excuse me, it’s time to re-listen some songs with a different attitude.</p>
+<span class="reply-container"><a aria-label="Reply to Phil Janecic" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137607#respond" onclick='return addComment.moveForm( "comment-137607", "137607", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-137621">
+<article class="comment-body clearfix" id="comment-137621">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/214e7baa5c8f0a74bc537cad6178520a?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.susancattaneo.com" rel="external nofollow">Susan Cattaneo</a></span> <span class="comment_date">
+				on July 31, 2014 at 1:00 pm				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>Hi Phil!<br/>
+Thanks for liking my post!  Hope your listening goes well and nice to meet a fellow writer -Springsteen, U2 and of course, the Beatles are my “go to” bands for inspiration…oh, and Bonnie Raitt, Loretta Lynn and even Green Day!</p>
+<span class="reply-container"><a aria-label="Reply to Susan Cattaneo" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137621#respond" onclick='return addComment.moveForm( "comment-137621", "137621", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-137609">
+<article class="comment-body clearfix" id="comment-137609">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/c4d7d6b8a0f7684c816197cf69268bd4?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.halinagoldstein.com/blog" rel="external nofollow">Halina Goldstein</a></span> <span class="comment_date">
+				on July 31, 2014 at 12:08 pm				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>Hi,</p>
+<p>Ah, the human life. We have no idea where we’re going (it’s a long and winding road…. :-)). …No idea how much we’re going to find that we didn’t even dream of. And how much we’re going to lose. And how life will help us find ourselves along the way.</p>
+<p>Thank you for your inspiring spirit!</p>
+<p>Warmly,<br/>
+Halina</p>
+<span class="reply-container"><a aria-label="Reply to Halina Goldstein" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137609#respond" onclick='return addComment.moveForm( "comment-137609", "137609", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-138561">
+<article class="comment-body clearfix" id="comment-138561">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/214e7baa5c8f0a74bc537cad6178520a?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.susancattaneo.com" rel="external nofollow">Susan Cattaneo</a></span> <span class="comment_date">
+				on August 3, 2014 at 3:43 pm				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>Hi Halina,<br/>
+You are sooo right. Thanks so much for liking the post!  x Susan</p>
+<span class="reply-container"><a aria-label="Reply to Susan Cattaneo" class="comment-reply-link" href="/reinventing-yourself/?replytocom=138561#respond" onclick='return addComment.moveForm( "comment-138561", "138561", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-137919">
+<article class="comment-body clearfix" id="comment-137919">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://1.gravatar.com/avatar/9737874a1b27b21a3e20c6adaf47ec73?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://yakkityyaktalkingback.com" rel="external nofollow">holly</a></span> <span class="comment_date">
+				on August 1, 2014 at 11:57 am				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>I love this. I’ve had a long and good run at what I’ve been doing but I’m now ready to write, which is something I’ve wanted to do but have been to afraid to try. I’ve started with a blog and am amazed at how scary it is. <a href="http://yakkityyaktalkingback.com" rel="nofollow">http://yakkityyaktalkingback.com</a></p>
+<span class="reply-container"><a aria-label="Reply to holly" class="comment-reply-link" href="/reinventing-yourself/?replytocom=137919#respond" onclick='return addComment.moveForm( "comment-137919", "137919", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-138568">
+<article class="comment-body clearfix" id="comment-138568">
+<div class="comment_avatar">
+<img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/214e7baa5c8f0a74bc537cad6178520a?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/> </div>
+<div class="comment_postinfo">
+<span class="fn"><a class="url" href="http://www.susancattaneo.com" rel="external nofollow">Susan Cattaneo</a></span> <span class="comment_date">
+				on August 3, 2014 at 3:53 pm				</span>
+</div> <!-- .comment_postinfo -->
+<div class="comment_area">
+<div class="comment-content clearfix">
+<p>Hi there Holly! I checked out your site – good for you for starting it and for doing something that scares you!!!  And thank you for liking the post!</p>
+<span class="reply-container"><a aria-label="Reply to Susan Cattaneo" class="comment-reply-link" href="/reinventing-yourself/?replytocom=138568#respond" onclick='return addComment.moveForm( "comment-138568", "138568", "respond", "14622" )'>Reply</a></span> </div> <!-- end comment-content-->
+</div> <!-- end comment_area-->
+</article> <!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol>
+<div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title"><span>Submit a Comment</span> <small><a href="/reinventing-yourself/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small></h3>
+<form action="http://www.thechangeblog.com/wp-comments-post.php" class="comment-form" id="commentform" method="post">
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p> <p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input aria-required="true" id="author" name="author" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" aria-required="true" id="email" name="email" size="30" type="text" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" size="30" type="text" value=""/></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-describedby="form-allowed-tags" aria-required="true" cols="45" id="comment" name="comment" rows="8"></textarea></p> <p class="form-allowed-tags" id="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></p> <p class="form-submit">
+<input class="submit" id="submit" name="submit" type="submit" value="Submit Comment"/>
+<input id="comment_post_ID" name="comment_post_ID" type="hidden" value="14622"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="2bfdb192f1"/></p> <p>
+<input id="aweber_checkbox" name="aweber_signup_checkbox" style="width:inherit;" type="checkbox" value="1"/>
+<label for="aweber_checkbox">
+            Sign up for email updates            </label>
+</p>
+</form></div></section></article></div></div></div></div></div></div></body></html>
+<p class="subscribe-to-comments" style="clear: both;">
+<input id="subscribe" name="subscribe" style="width: auto;" type="checkbox" value="subscribe"/>
+<label for="subscribe">Notify me of followup comments via e-mail</label>
+</p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="209"/></p> 
+<!-- #respond -->
+  <!-- .et_pb_post -->
+ <!-- #left-area -->
+<div id="sidebar">
+<div class="et_pb_widget widget_text" id="text-41"> <div class="textwidget"><div class="fb-like-box" data-colorscheme="light" data-header="false" data-href="https://www.facebook.com/thechangeblog" data-show-border="false" data-show-faces="false" data-stream="false" data-width="300"></div></div>
+</div> <!-- end .et_pb_widget --><div class="et_pb_widget adinjwidget" id="adinj-2">
+<!--Ad Injection mfunc mode ad include code--><!--mfunc include_once('/nfs/c03/h06/mnt/47701/domains/thechangeblog.com/html/wp-content/plugins/ad-injection/adshow.php') --><!--/mfunc-->
+<!--Ad Injection mfunc mode ad code--><!--mfunc adshow_display_ad_file_v2(array('ad_widget_2_1.txt'), array(100), array('align' => '', 'clear' => '', 'margin_top' => '', 'margin_bottom' => '', 'padding_top' => '', 'padding_bottom' => ''), array(), array()) -->
+
+<!-- TCB - 300 x 600 Large Skyscraper -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-3387790557719532" data-ad-slot="8985803785" style="display:inline-block;width:300px;height:600px"></ins>
+<!--/mfunc-->
+</div> <!-- end .et_pb_widget --><div class="et_pb_widget widget_links" id="linkcat-2184"><h4 class="widgettitle">Our Books</h4>
+<ul class="xoxo blogroll">
+<li><a href="http://www.thechangeblog.com/beating-depression" title="10 True Stories of Beating Depression">Beating Depression</a></li>
+<li><a href="http://www.thechangeblog.com/10-transformation-stories" title="10 True Stories of Personal Transformation ">Personal Transformation</a></li>
+<li><a href="http://www.thechangeblog.com/10-travel-stories" title="10 True Stories of Travel &amp; Adventure ">Travel &amp; Adventure</a></li>
+</ul>
+</div> <!-- end .et_pb_widget -->
+<div class="et_pb_widget widget_categories" id="categories-3"><h4 class="widgettitle">Categories</h4> <ul>
+<li class="cat-item cat-item-2194"><a href="http://www.thechangeblog.com/category/addiction/">Addiction</a>
+</li>
+<li class="cat-item cat-item-2192"><a href="http://www.thechangeblog.com/category/anxiety-2/">Anxiety</a>
+</li>
+<li class="cat-item cat-item-2147"><a href="http://www.thechangeblog.com/category/facing-challenges/">Challenges</a>
+</li>
+<li class="cat-item cat-item-549"><a href="http://www.thechangeblog.com/category/change/">Change</a>
+</li>
+<li class="cat-item cat-item-1995"><a href="http://www.thechangeblog.com/category/clarity-2/">Clarity</a>
+</li>
+<li class="cat-item cat-item-1211"><a href="http://www.thechangeblog.com/category/confidence/">Confidence</a>
+</li>
+<li class="cat-item cat-item-1732"><a href="http://www.thechangeblog.com/category/creativity-2/">Creativity</a>
+</li>
+<li class="cat-item cat-item-1780"><a href="http://www.thechangeblog.com/category/depression/">Depression</a>
+</li>
+<li class="cat-item cat-item-2175"><a href="http://www.thechangeblog.com/category/fear-2/">Fear</a>
+</li>
+<li class="cat-item cat-item-747"><a href="http://www.thechangeblog.com/category/goals/">Goals</a>
+</li>
+<li class="cat-item cat-item-756"><a href="http://www.thechangeblog.com/category/gratitude/">Gratitude</a>
+</li>
+<li class="cat-item cat-item-761"><a href="http://www.thechangeblog.com/category/habits/">Habits</a>
+</li>
+<li class="cat-item cat-item-552"><a href="http://www.thechangeblog.com/category/happiness/">Happiness</a>
+</li>
+<li class="cat-item cat-item-2193"><a href="http://www.thechangeblog.com/category/heal/">Heal</a>
+</li>
+<li class="cat-item cat-item-2030"><a href="http://www.thechangeblog.com/category/health-2/">Health</a>
+</li>
+<li class="cat-item cat-item-554"><a href="http://www.thechangeblog.com/category/life-oh-life/">Life Lessons</a>
+</li>
+<li class="cat-item cat-item-557"><a href="http://www.thechangeblog.com/category/meaning-purpose/">Meaning &amp; Purpose</a>
+</li>
+<li class="cat-item cat-item-1982"><a href="http://www.thechangeblog.com/category/mindset/">Mindset</a>
+</li>
+<li class="cat-item cat-item-862"><a href="http://www.thechangeblog.com/category/motivation/">Motivation</a>
+</li>
+<li class="cat-item cat-item-559"><a href="http://www.thechangeblog.com/category/money/">Personal Finances</a>
+</li>
+<li class="cat-item cat-item-562"><a href="http://www.thechangeblog.com/category/personal-growth/">Personal Growth</a>
+</li>
+<li class="cat-item cat-item-1758"><a href="http://www.thechangeblog.com/category/positivity/">Positivity</a>
+</li>
+<li class="cat-item cat-item-563"><a href="http://www.thechangeblog.com/category/productivity/">Productivity</a>
+</li>
+<li class="cat-item cat-item-565"><a href="http://www.thechangeblog.com/category/relationships/">Relationships</a>
+</li>
+<li class="cat-item cat-item-1128"><a href="http://www.thechangeblog.com/category/self-awareness/">Self Awareness</a>
+</li>
+<li class="cat-item cat-item-1825"><a href="http://www.thechangeblog.com/category/self-discovery/">Self Discovery</a>
+</li>
+<li class="cat-item cat-item-567"><a href="http://www.thechangeblog.com/category/success-habits/">Success</a>
+</li>
+<li class="cat-item cat-item-1662"><a href="http://www.thechangeblog.com/category/travel/">Travel</a>
+</li>
+<li class="cat-item cat-item-2007"><a href="http://www.thechangeblog.com/category/wisdom-2/">Wisdom</a>
+</li>
+<li class="cat-item cat-item-1993"><a href="http://www.thechangeblog.com/category/meaningful-work/">Work</a>
+</li>
+</ul>
+</div> <!-- end .et_pb_widget --><div class="et_pb_widget widget_text" id="text-42"> <div class="textwidget"><div class="fb-like-box" data-colorscheme="light" data-header="false" data-href="https://www.facebook.com/thechangeblog" data-show-border="true" data-show-faces="true" data-stream="false"></div></div>
+</div> <!-- end .et_pb_widget --><div class="et_pb_widget adinjwidget" id="adinj-3">
+<!--Ad Injection mfunc mode ad include code--><!--mfunc include_once('/nfs/c03/h06/mnt/47701/domains/thechangeblog.com/html/wp-content/plugins/ad-injection/adshow.php') --><!--/mfunc-->
+<!--Ad Injection mfunc mode ad code--><!--mfunc adshow_display_ad_file_v2(array('ad_widget_3_3.txt'), array(100), array('align' => '', 'clear' => '', 'margin_top' => '', 'margin_bottom' => '', 'padding_top' => '', 'padding_bottom' => ''), array(), array()) -->
+
+<!-- TCB - 300 x 600 (2) -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-3387790557719532" data-ad-slot="3830134587" style="display:inline-block;width:300px;height:600px"></ins>
+<!--/mfunc-->
+</div> <!-- end .et_pb_widget --><div class="et_pb_widget adinjwidget" id="adinj-4"></div> <!-- end .et_pb_widget --><div class="et_pb_widget widget_text" id="text-43"> <div class="textwidget"><a href="http://www.thechangeblog.com/free-audiobook-audible-trial"><img alt="Audible free trial" class="alignnone size-full wp-image-14730" height="600" src="http://www.thechangeblog.com/wp-content/uploads/2014/08/audible-banner-large.jpg" width="300"/></a></div>
+</div> <!-- end .et_pb_widget --> </div> <!-- end #sidebar -->
+ <!-- #content-area -->
+ <!-- .container -->
+ <!-- #main-content -->
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+<ul class="et-social-icons">
+<li class="et-social-icon et-social-facebook">
+<a class="icon" href="https://www.facebook.com/TheChangeBlog">
+<span>Facebook</span>
+</a>
+</li>
+<li class="et-social-icon et-social-twitter">
+<a class="icon" href="https://twitter.com/_thechangeblog">
+<span>Twitter</span>
+</a>
+</li>
+<li class="et-social-icon et-social-google-plus">
+<a class="icon" href="https://www.google.com/+Thechangeblog">
+<span>Google</span>
+</a>
+</li>
+<li class="et-social-icon et-social-rss">
+<a class="icon" href="http://www.thechangeblog.com/comments/feed/">
+<span>RSS</span>
+</a>
+</li>
+</ul>
+<p id="footer-info">Designed by <a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a> | Powered by <a href="http://www.wordpress.org">WordPress</a></p>
+</div> <!-- .container -->
+</div>
+</footer> <!-- #main-footer -->
+ <!-- #et-main-area -->
+ <!-- #page-container -->
+<div class="et_social_sidebar_networks et_social_visible_sidebar et_social_slideright et_social_animated et_social_rectangle et_social_sidebar_flip et_social_sidebar_withcounts et_social_mobile_off">
+<ul class="et_social_icons_container"><li class="et_social_facebook">
+<a class="et_social_share et_social_display_count" data-min_count="0" data-post_id="14622" data-social_name="facebook" data-social_type="share" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.thechangeblog.com%2Freinventing-yourself%2F&amp;t=The%20Beatles%E2%80%99%20Top%2011%20Tips%20to%20Reinventing%20Yourself" rel="nofollow">
+<i class="et_social_icon et_social_icon_facebook"></i>
+<span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_twitter">
+<a class="et_social_share et_social_display_count" data-min_count="0" data-post_id="14622" data-social_name="twitter" data-social_type="share" href="http://twitter.com/share?text=The%20Beatles%E2%80%99%20Top%2011%20Tips%20to%20Reinventing%20Yourself&amp;url=http%3A%2F%2Fwww.thechangeblog.com%2Freinventing-yourself%2F&amp;via=_TheChangeBlog" rel="nofollow">
+<i class="et_social_icon et_social_icon_twitter"></i>
+<span class="et_social_overlay"></span>
+</a>
+</li><li class="et_social_googleplus">
+<a class="et_social_share et_social_display_count" data-min_count="0" data-post_id="14622" data-social_name="googleplus" data-social_type="share" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.thechangeblog.com%2Freinventing-yourself%2F&amp;t=The%20Beatles%E2%80%99%20Top%2011%20Tips%20to%20Reinventing%20Yourself" rel="nofollow">
+<i class="et_social_icon et_social_icon_googleplus"></i>
+<span class="et_social_overlay"></span>
+</a>
+</li></ul>
+<span class="et_social_hide_sidebar et_social_icon"></span>
+</div>
+<div id="fb-root"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Dynamic page generated in 2.786 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-02-09 16:44:21 -->
+<!-- super cache -->

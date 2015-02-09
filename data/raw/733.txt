@@ -1,0 +1,589 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html lang="en-CA" xml:lang="en-CA" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://www.celinedion.com/ca/local-news" rel="canonical"/>
+<meta content="anonymous" name="loginMethod"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="The Official Celine Dion Site" property="og:site_name"/>
+<meta content="Celine News" property="og:title"/>
+<meta content="musician" property="og:type"/>
+<meta content="http://www.celinedion.com" property="og:url"/>
+<meta content="Get the latest Celine News." property="og:description"/>
+<meta content="http://www.celinedion.com/sites/cdion/files/og-logo-a-180.jpg" property="og:image"/>
+<link href="/ca/feeds/local-news" rel="alternate" title="News" type="application/rss+xml"/>
+<link href="/sites/cdion/themes/cdion6_2/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<meta content="Local News - Official Celine Dion website featuring Celine Dion news, music, videos, album info, and more." name="description"/>
+<meta content="Celine Dion, music, musique, songs, video, photos, site official, official site, TeamCeline Dion, EquipeCeline Dion" name="keywords"/>
+<title>Local News | The Official Celine Dion Site</title>
+<link href="http://www.celinedion.com/sites/cdion/files/css/css_2f09be3c93d2eb0f5cacbebfd20d6898.css" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lte IE 6]>
+  <style type="text/css" media="all">@import "/sites/celinedion.com/themes/cdion6_2/css/ie6.css";
+    #navigation-bottom-logo {
+      behavior: url(/sites/celinedion.com/themes/cdion6_2/js/iepngfix.htc);
+    }
+  </style>
+  <![endif]-->
+<!--[if IE 7]>
+  <style type="text/css" media="all">@import "/sites/celinedion.com/themes/cdion6_2/css/ie7.css";</style>
+  <![endif]-->
+<!--[if IE 8]>
+  <style type="text/css" media="all">@import "/sites/celinedion.com/themes/cdion6_2/css/ie8.css";</style>
+  <![endif]-->
+
+
+
+</head>
+<body class="not-front not-logged-in lang-en locale-en-ca page-local-news section-local-news">
+<div id="header-wrapper">
+<div class="clear-block" id="header">
+<div class="clear-block" id="top-bar">
+<div class="block block-user" id="block-user-0">
+<div class="blockinner clear-block">
+<div class="content">
+<form accept-charset="UTF-8" action="https://www.celinedion.com/ca/local-news?destination=local-news" class="sony-connect-login-block" id="user-login-form" method="post">
+<div><div class="sign-in"><a href="/ca/user/login">Login</a></div><div class="custom-link"><a href="/ca/user/register">Join</a></div><div class="form-item odd" id="edit-name-wrapper">
+<label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-text required inline-label" id="edit-name" maxlength="60" name="name" size="15" type="text" value=""/>
+</div>
+<div class="form-item even" id="edit-pass-wrapper">
+<label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-text required inline-label" id="edit-pass" maxlength="60" name="pass" size="15" type="password"/>
+</div>
+<input class="form-submit" id="edit-submit" name="op" type="submit" value="go"/>
+<input id="form-Ejw58rCgBDkN5PjQTo2pBUfiehrxxd6Aowv56j7aTcM" name="form_build_id" type="hidden" value="form-Ejw58rCgBDkN5PjQTo2pBUfiehrxxd6Aowv56j7aTcM"/>
+<input id="edit-user-login-block" name="form_id" type="hidden" value="user_login_block"/>
+<div class="item-list"><ul><li class="first"><a class="sony-connect-twitter" href="/ca/user" rel="twitter" title="Log in using twitter"><img alt="" height="16" src="/sites/all/modules/custom/sony_connect/plugins/networks/twitter/icons/t-grey-dk-16.png" title="" width="16"/></a></li>
+<li class="last"><a class="sony-connect-facebook" href="/ca/user" rel="facebook" title="Log in using facebook"><img alt="" height="16" src="/sites/all/modules/custom/sony_connect/plugins/networks/facebook/icons/grey-dk-16.png" title="" width="16"/></a></li>
+</ul></div>
+</div></form>
+</div>
+</div>
+</div>
+<div class="block block-locale" id="block-locale-0">
+<div class="blockinner clear-block">
+<h2 class="block-title title">Languages</h2>
+<div class="content">
+<ul><li class="en-CA first active"><a class="language-link menu-item--img-src-sites-all-modules-custom-sony-global-flags-ca-png-alt-canada-english-title-canada-english-width-16-height-11-canada-english- odd active" href="/ca/local-news"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/>Canada (English)</a></li>
+<li class="fr-CA"><a class="language-link menu-item--img-src-sites-all-modules-custom-sony-global-flags-ca-png-alt-canada-fran-ais-title-canada-fran-ais-width-16-height-11-canada-fran-ais- even" href="http://www.celinedion.com/ca-fr/local-news"><img alt="Canada (Français)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (Français)" width="16"/>Canada (Français)</a></li>
+<li class="de-DE last"><a class="language-link menu-item--img-src-sites-all-modules-custom-sony-global-flags-de-png-alt-deutschland-title-deutschland-width-16-height-11-deutschland odd" href="http://www.celinedion.com/de/local-news"><img alt="Deutschland" height="11" src="/sites/all/modules/custom/sony_global/flags/de.png" title="Deutschland" width="16"/>Deutschland</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div id="logo-top">
+<a href="/ca/home" title="Home"><img src="/sites/celinedion.com/themes/cdion6_2/images/logo.png"/></a>
+</div>
+<div class="clear-block" id="ad-top">
+<div class="block block-block" id="block-block-21">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><!--
+<a href="/ca/return-las-vegas" ><img src="/sites/cdion/files/celine-vegas-468x60-en.jpg" alt="Return to Las Vegas" /></a>
+--> </div>
+</div>
+</div>
+</div>
+<div class="clear-block" id="top-right">
+<div class="block block-menu" id="block-menu-secondary-links">
+<div class="blockinner clear-block">
+<div class="content">
+<ul class="menu"><li class="leaf first faq"><a href="/ca/help-faq-frequently-asked-questions">FAQ</a></li><li class="leaf last privacypolicy"><a href="http://www.sonymusic.ca/privacy/en/" title="">Privacy Policy</a></li></ul> </div>
+</div>
+</div>
+<div class="block block-block" id="block-block-10">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><div class="cdion6-button-s" style=""><a href="javascript:;" onclick="javascript:window.open('/player','celinePlayer','status=yes,resizable=yes,width=486,height=540,scrollbars=no'); return false;" target="_blank">Launch Player</a></div>
+</div>
+</div>
+</div>
+</div>
+</div> <!-- /header -->
+</div> <!-- /footer-wrapper -->
+<div id="page">
+<div class="clear-block" id="container">
+<div class="menu withprimary withsecondary " id="navigation">
+<div id="navigation-lvl1">
+<div class="block block-menu_block" id="block-menu_block-1">
+<div class="blockinner clear-block">
+<div class="content">
+<div class="menu-name-primary-links parent-mlid-0 menu-level-1">
+<ul class="menu"><li class="leaf first menu-mlid-1134 has-children active active-trail what039sgoin039on"><a class="active" href="/ca/local-news" title="Celine Dion News">What's Goin' On</a></li><li class="leaf menu-mlid-613 has-children tourampevents"><a href="/ca/events" title="Celine Dion Tour &amp; Events">Tour &amp; Events</a></li><li class="leaf menu-mlid-1142 has-children music"><a href="/ca/music/original-recordings" title="Celine Dion Music">Music</a></li><li class="leaf menu-mlid-1116 has-children thejourneysofar"><a href="/ca/biography" title="Celine Dion Biography and Awards">The Journey So Far</a></li><li class="leaf menu-mlid-592 photos"><a href="/ca/photos" title="Photos">Photos</a></li><li class="leaf menu-mlid-583 has-children videos"><a href="/ca/videos" title="Celine Dion Videos">Videos</a></li><li class="leaf menu-mlid-4532 forum"><a href="/ca/forum/130" title="Celine Dion Forum">Forum</a></li><li class="leaf menu-mlid-614 screengems"><a href="/ca/extras" title="Celine Dion Extras">Screen Gems</a></li><li class="leaf last menu-mlid-1040 theboutique"><a href="http://boutique.celinedion.com/en/" title="Celine Dion Store">The Boutique</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</div> <!-- /navigation -->
+<div class="content_header">
+<div class="block block-block" id="block-block-4">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><iframe frameborder="0" height="250" scrolling="no" src="http://smarturl.it/celineUSFbanneren" width="300"></iframe>
+<!--<a href="http://smarturl.it/celineUSFBoutiqueEN" target="_blank"><img src="/sites/cdion/files/live2014-bigbox-en.jpg" alt="Celine - Une Seule Fois / Live 2013" width="300" height="250" border="0" /></a>-->
+</div>
+</div>
+</div>
+</div>
+<div class="column" id="main"><div id="squeeze">
+<div id="content-body">
+<div id="navigation-lvl2">
+<div class="block block-menu_block" id="block-menu_block-2">
+<div class="blockinner clear-block">
+<h2 class="block-title title">What's Goin' On</h2>
+<div class="content">
+<div class="menu-name-primary-links parent-mlid-0 menu-level-2">
+<ul class="menu"><li class="leaf first menu-mlid-1135 active localnews"><a class="active" href="/ca/local-news" title="Local News">Local News</a></li><li class="leaf menu-mlid-1024 globalnews"><a href="/ca/global-news" title="Global News">Global News</a></li><li class="leaf last menu-mlid-1121 pressreleases"><a href="/ca/press-releases" title="Press Releases">Press Releases</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+<div id="content-body-inner">
+<div class="feed-icon"><a href="/ca/feeds/local-news">Subscribe</a> <a class="feed-icon" href="/ca/feeds/local-news"><img alt="Syndicate content" height="16" src="/misc/feed.png" title="News" width="16"/></a></div> <div class="view view-news-blog view-id-news_blog view-display-id-page_1 view-dom-id-1">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="node nodetype-news clearfix" id="node-237396">
+<div class="datetime day-2">
+<span class="news-date">2015/02/03</span>
+<span class="news-time">3:00AM</span>
+<span class="news-flag"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/></span>
+</div>
+<div class="rhs">
+<h2 class="node-title">
+<a href="/ca/news/ken-ehrlich-long-time-collaborator">Ken Ehrlich: a long-time collaborator</a>
+</h2>
+<div class="content clear-block">
+<!--paging_filter--><p>Director Ken Ehrlich, producer of the Grammys for over 30 years as well as countless television music specials, was honoured this past Wednesday with a star on the Hollywood Walk of Fame. Having been an important collaborator over the years, Ken Ehrlich most recently directed Celine's latest show in Las Vegas. </p>
+<p>Their first collaboration dates back to February 1993, when Celine sang "Beauty and the Beast" as a duet with Peabo Bryson at the Grammy Awards. Over the years, Ken produced every CBS special starring Celine (<i>These are Special Times </i>in 1998, <i>All the Way....A Decade of Songs</i> in 1999, <i>A New Day Has Come</i> in 2002, <i>Celine in Las Vegas...Opening Night Live</i> in 2003, and <i>That's Just the Woman in Me</i> in 2008). Their collaboration continued when Celine was the first to accept his invitation to take part in the first <i>VH1 Divas</i> concert in 1998. </p>
+<p>In an interview in 2003, Ken recalled that the Michael Jackson Tribute at the 2010 Grammys probably would not have happened without Celine's participation and that she brought him close to tears when she sang ''Dance With My Father'' the year her father passed away.<br/><br/>
+<center><img src="https://www.celinedion.com/sites/cdion/files/20110224_cdmt_0934r.jpg"/></center><br/>
+ (photo: Denise Truscello)</p>
+</div>
+<div class="links clear-block">
+<ul class="links inline"><li class="comment_comments first"><a class=" menu-item-n9-comments odd" href="/ca/news/ken-ehrlich-long-time-collaborator#comments" title="Jump to the first comment of this posting.">9 comments</a></li>
+<li class="login_register"><span class=" menu-item--a-href-ca-user-login-destination-node-237396-2523nodecomment-form-login-a-or-a-href-ca-user-register-destination-node-237396-2523nodecomment-form-register-a-to-post-comments even"><a href="/ca/user/login?destination=node/237396%2523nodecomment_form">Login</a> or <a href="/ca/user/register?destination=node/237396%2523nodecomment_form">register</a> to post comments</span></li>
+<li class="service_links_delicious"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-delicious-png-alt-delicious-delicious odd" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fken-ehrlich-long-time-collaborator&amp;title=Ken+Ehrlich%3A+a+long-time+collaborator" rel="nofollow" title="Bookmark this post on del.icio.us."><img alt="Delicious" src="/sites/all/modules/contrib/service_links/images/delicious.png"/> Delicious</a></li>
+<li class="service_links_digg"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-digg-png-alt-digg-digg even" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fken-ehrlich-long-time-collaborator&amp;title=Ken+Ehrlich%3A+a+long-time+collaborator" rel="nofollow" title="Digg this post on digg.com."><img alt="Digg" src="/sites/all/modules/contrib/service_links/images/digg.png"/> Digg</a></li>
+<li class="service_links_reddit"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-reddit-png-alt-reddit-reddit odd" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fken-ehrlich-long-time-collaborator&amp;title=Ken+Ehrlich%3A+a+long-time+collaborator" rel="nofollow" title="Submit this post on reddit.com."><img alt="Reddit" src="/sites/all/modules/contrib/service_links/images/reddit.png"/> Reddit</a></li>
+<li class="service_links_magnoliacom"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-magnoliacom-png-alt-magnoliacom-magnoliacom even" href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fken-ehrlich-long-time-collaborator&amp;title=Ken+Ehrlich%3A+a+long-time+collaborator" rel="nofollow" title="Submit this post on ma.gnolia.com."><img alt="Magnoliacom" src="/sites/all/modules/contrib/service_links/images/magnoliacom.png"/> Magnoliacom</a></li>
+<li class="service_links_newsvine"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-newsvine-png-alt-newsvine-newsvine odd" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fken-ehrlich-long-time-collaborator&amp;h=Ken+Ehrlich%3A+a+long-time+collaborator" rel="nofollow" title="Submit this post on newsvine.com."><img alt="Newsvine" src="/sites/all/modules/contrib/service_links/images/newsvine.png"/> Newsvine</a></li>
+<li class="service_links_facebook"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-facebook-png-alt-facebook-facebook even" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fken-ehrlich-long-time-collaborator&amp;t=Ken+Ehrlich%3A+a+long-time+collaborator" rel="nofollow" title="Share on Facebook."><img alt="Facebook" src="/sites/all/modules/contrib/service_links/images/facebook.png"/> Facebook</a></li>
+<li class="service_links_google"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-google-png-alt-google-google odd" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fken-ehrlich-long-time-collaborator&amp;title=Ken+Ehrlich%3A+a+long-time+collaborator" rel="nofollow" title="Bookmark this post on Google."><img alt="Google" src="/sites/all/modules/contrib/service_links/images/google.png"/> Google</a></li>
+<li class="service_links_yahoo"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-png-alt-yahoo-yahoo even" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fken-ehrlich-long-time-collaborator&amp;t=Ken+Ehrlich%3A+a+long-time+collaborator" rel="nofollow" title="Bookmark this post on Yahoo."><img alt="Yahoo" src="/sites/all/modules/contrib/service_links/images/yahoo.png"/> Yahoo</a></li>
+<li class="service_links_yahoo_buzz"><a class="yahoo-buzz yahoo-buzz-237396 menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-buzz-png-alt-yahoo-buzz-yahoo-buzz odd" href="http://buzz.yahoo.com/submit" rel="nofollow" title="Bookmark this post on Yahoo! Buzz."><img alt="Yahoo! Buzz" src="/sites/all/modules/contrib/service_links/images/yahoo-buzz.png"/> Yahoo! Buzz</a></li>
+<li class="service_links_technorati"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-technorati-png-alt-technorati-technorati even" href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fken-ehrlich-long-time-collaborator" rel="nofollow" title="Search Technorati for links to this post."><img alt="Technorati" src="/sites/all/modules/contrib/service_links/images/technorati.png"/> Technorati</a></li>
+<li class="sonybmg_permalink last"><a class=" menu-item-permalink odd" href="/ca/news/ken-ehrlich-long-time-collaborator">Permalink</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="node nodetype-news clearfix" id="node-237070">
+<div class="datetime day-4">
+<span class="news-date">2015/01/29</span>
+<span class="news-time">3:00AM</span>
+<span class="news-flag"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/></span>
+</div>
+<div class="rhs">
+<h2 class="node-title">
+<a href="/ca/news/celine-tonight-show-1991">Celine on The Tonight Show, 1991</a>
+</h2>
+<div class="content clear-block">
+<!--paging_filter--><p>On January 29, 1991, Céline made her 3rd appearance in 4 months on The Tonight Show, which helped propel her song  "Where Does my Heart Beat Now” to #4 on the Billboard Hot 100 list. In 2009, René said, "Since the beginning, we have had a special friendship with Debbie Vickers, who eventually became producer and director of The Tonight Show.  Jay Leno was the first to believe in Céline.  We owe much to them for their support.”<br/><br/>
+<center><img src="/sites/cdion/files/celine294.jpg"/></center><br/><br/>
+<center><img src="/sites/cdion/files/celine292.jpg"/></center><br/><br/>
+(photo: Alan Silfen)</p>
+</div>
+<div class="links clear-block">
+<ul class="links inline"><li class="comment_comments first"><a class=" menu-item-n4-comments odd" href="/ca/news/celine-tonight-show-1991#comments" title="Jump to the first comment of this posting.">4 comments</a></li>
+<li class="login_register"><span class=" menu-item--a-href-ca-user-login-destination-node-237070-2523nodecomment-form-login-a-or-a-href-ca-user-register-destination-node-237070-2523nodecomment-form-register-a-to-post-comments even"><a href="/ca/user/login?destination=node/237070%2523nodecomment_form">Login</a> or <a href="/ca/user/register?destination=node/237070%2523nodecomment_form">register</a> to post comments</span></li>
+<li class="service_links_delicious"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-delicious-png-alt-delicious-delicious odd" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-tonight-show-1991&amp;title=Celine+on+The+Tonight+Show%2C+1991" rel="nofollow" title="Bookmark this post on del.icio.us."><img alt="Delicious" src="/sites/all/modules/contrib/service_links/images/delicious.png"/> Delicious</a></li>
+<li class="service_links_digg"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-digg-png-alt-digg-digg even" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-tonight-show-1991&amp;title=Celine+on+The+Tonight+Show%2C+1991" rel="nofollow" title="Digg this post on digg.com."><img alt="Digg" src="/sites/all/modules/contrib/service_links/images/digg.png"/> Digg</a></li>
+<li class="service_links_reddit"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-reddit-png-alt-reddit-reddit odd" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-tonight-show-1991&amp;title=Celine+on+The+Tonight+Show%2C+1991" rel="nofollow" title="Submit this post on reddit.com."><img alt="Reddit" src="/sites/all/modules/contrib/service_links/images/reddit.png"/> Reddit</a></li>
+<li class="service_links_magnoliacom"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-magnoliacom-png-alt-magnoliacom-magnoliacom even" href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-tonight-show-1991&amp;title=Celine+on+The+Tonight+Show%2C+1991" rel="nofollow" title="Submit this post on ma.gnolia.com."><img alt="Magnoliacom" src="/sites/all/modules/contrib/service_links/images/magnoliacom.png"/> Magnoliacom</a></li>
+<li class="service_links_newsvine"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-newsvine-png-alt-newsvine-newsvine odd" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-tonight-show-1991&amp;h=Celine+on+The+Tonight+Show%2C+1991" rel="nofollow" title="Submit this post on newsvine.com."><img alt="Newsvine" src="/sites/all/modules/contrib/service_links/images/newsvine.png"/> Newsvine</a></li>
+<li class="service_links_facebook"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-facebook-png-alt-facebook-facebook even" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-tonight-show-1991&amp;t=Celine+on+The+Tonight+Show%2C+1991" rel="nofollow" title="Share on Facebook."><img alt="Facebook" src="/sites/all/modules/contrib/service_links/images/facebook.png"/> Facebook</a></li>
+<li class="service_links_google"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-google-png-alt-google-google odd" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-tonight-show-1991&amp;title=Celine+on+The+Tonight+Show%2C+1991" rel="nofollow" title="Bookmark this post on Google."><img alt="Google" src="/sites/all/modules/contrib/service_links/images/google.png"/> Google</a></li>
+<li class="service_links_yahoo"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-png-alt-yahoo-yahoo even" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-tonight-show-1991&amp;t=Celine+on+The+Tonight+Show%2C+1991" rel="nofollow" title="Bookmark this post on Yahoo."><img alt="Yahoo" src="/sites/all/modules/contrib/service_links/images/yahoo.png"/> Yahoo</a></li>
+<li class="service_links_yahoo_buzz"><a class="yahoo-buzz yahoo-buzz-237070 menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-buzz-png-alt-yahoo-buzz-yahoo-buzz odd" href="http://buzz.yahoo.com/submit" rel="nofollow" title="Bookmark this post on Yahoo! Buzz."><img alt="Yahoo! Buzz" src="/sites/all/modules/contrib/service_links/images/yahoo-buzz.png"/> Yahoo! Buzz</a></li>
+<li class="service_links_technorati"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-technorati-png-alt-technorati-technorati even" href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-tonight-show-1991" rel="nofollow" title="Search Technorati for links to this post."><img alt="Technorati" src="/sites/all/modules/contrib/service_links/images/technorati.png"/> Technorati</a></li>
+<li class="sonybmg_permalink last"><a class=" menu-item-permalink odd" href="/ca/news/celine-tonight-show-1991">Permalink</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="node nodetype-news clearfix" id="node-236123">
+<div class="datetime day-0">
+<span class="news-date">2015/01/25</span>
+<span class="news-time">3:00AM</span>
+<span class="news-flag"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/></span>
+</div>
+<div class="rhs">
+<h2 class="node-title">
+<a href="/ca/news/happy-birthday-ren%C3%A9-charles-3">Happy Birthday René-Charles!</a>
+</h2>
+<div class="content clear-block">
+<!--paging_filter--><p>Celine and René’s eldest son and big brother to Nelson and Eddy, René-Charles turns fourteen years old today!  TeamCeline members don’t forget to send your birthday wishes or share your special creations on the <a href="http://www.celinedion.com/ca/forum/154">TeamCeline Forum</a>!  <br/><br/>
+<center><img src="https://www.celinedion.com/sites/cdion/files/0r4a5945_crop_resize.jpg"/></center><br/>
+(photo: OSA Images)</p>
+</div>
+<div class="links clear-block">
+<ul class="links inline"><li class="comment_comments first"><a class=" menu-item-n24-comments odd" href="/ca/news/happy-birthday-ren%C3%A9-charles-3#comments" title="Jump to the first comment of this posting.">24 comments</a></li>
+<li class="login_register"><span class=" menu-item--a-href-ca-user-login-destination-node-236123-2523nodecomment-form-login-a-or-a-href-ca-user-register-destination-node-236123-2523nodecomment-form-register-a-to-post-comments even"><a href="/ca/user/login?destination=node/236123%2523nodecomment_form">Login</a> or <a href="/ca/user/register?destination=node/236123%2523nodecomment_form">register</a> to post comments</span></li>
+<li class="service_links_delicious"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-delicious-png-alt-delicious-delicious odd" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhappy-birthday-ren%25C3%25A9-charles-3&amp;title=Happy+Birthday+Ren%C3%A9-Charles%21" rel="nofollow" title="Bookmark this post on del.icio.us."><img alt="Delicious" src="/sites/all/modules/contrib/service_links/images/delicious.png"/> Delicious</a></li>
+<li class="service_links_digg"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-digg-png-alt-digg-digg even" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhappy-birthday-ren%25C3%25A9-charles-3&amp;title=Happy+Birthday+Ren%C3%A9-Charles%21" rel="nofollow" title="Digg this post on digg.com."><img alt="Digg" src="/sites/all/modules/contrib/service_links/images/digg.png"/> Digg</a></li>
+<li class="service_links_reddit"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-reddit-png-alt-reddit-reddit odd" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhappy-birthday-ren%25C3%25A9-charles-3&amp;title=Happy+Birthday+Ren%C3%A9-Charles%21" rel="nofollow" title="Submit this post on reddit.com."><img alt="Reddit" src="/sites/all/modules/contrib/service_links/images/reddit.png"/> Reddit</a></li>
+<li class="service_links_magnoliacom"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-magnoliacom-png-alt-magnoliacom-magnoliacom even" href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhappy-birthday-ren%25C3%25A9-charles-3&amp;title=Happy+Birthday+Ren%C3%A9-Charles%21" rel="nofollow" title="Submit this post on ma.gnolia.com."><img alt="Magnoliacom" src="/sites/all/modules/contrib/service_links/images/magnoliacom.png"/> Magnoliacom</a></li>
+<li class="service_links_newsvine"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-newsvine-png-alt-newsvine-newsvine odd" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhappy-birthday-ren%25C3%25A9-charles-3&amp;h=Happy+Birthday+Ren%C3%A9-Charles%21" rel="nofollow" title="Submit this post on newsvine.com."><img alt="Newsvine" src="/sites/all/modules/contrib/service_links/images/newsvine.png"/> Newsvine</a></li>
+<li class="service_links_facebook"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-facebook-png-alt-facebook-facebook even" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhappy-birthday-ren%25C3%25A9-charles-3&amp;t=Happy+Birthday+Ren%C3%A9-Charles%21" rel="nofollow" title="Share on Facebook."><img alt="Facebook" src="/sites/all/modules/contrib/service_links/images/facebook.png"/> Facebook</a></li>
+<li class="service_links_google"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-google-png-alt-google-google odd" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhappy-birthday-ren%25C3%25A9-charles-3&amp;title=Happy+Birthday+Ren%C3%A9-Charles%21" rel="nofollow" title="Bookmark this post on Google."><img alt="Google" src="/sites/all/modules/contrib/service_links/images/google.png"/> Google</a></li>
+<li class="service_links_yahoo"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-png-alt-yahoo-yahoo even" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhappy-birthday-ren%25C3%25A9-charles-3&amp;t=Happy+Birthday+Ren%C3%A9-Charles%21" rel="nofollow" title="Bookmark this post on Yahoo."><img alt="Yahoo" src="/sites/all/modules/contrib/service_links/images/yahoo.png"/> Yahoo</a></li>
+<li class="service_links_yahoo_buzz"><a class="yahoo-buzz yahoo-buzz-236123 menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-buzz-png-alt-yahoo-buzz-yahoo-buzz odd" href="http://buzz.yahoo.com/submit" rel="nofollow" title="Bookmark this post on Yahoo! Buzz."><img alt="Yahoo! Buzz" src="/sites/all/modules/contrib/service_links/images/yahoo-buzz.png"/> Yahoo! Buzz</a></li>
+<li class="service_links_technorati"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-technorati-png-alt-technorati-technorati even" href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhappy-birthday-ren%25C3%25A9-charles-3" rel="nofollow" title="Search Technorati for links to this post."><img alt="Technorati" src="/sites/all/modules/contrib/service_links/images/technorati.png"/> Technorati</a></li>
+<li class="sonybmg_permalink last"><a class=" menu-item-permalink odd" href="/ca/news/happy-birthday-ren%C3%A9-charles-3">Permalink</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div class="node nodetype-news clearfix" id="node-236121">
+<div class="datetime day-4">
+<span class="news-date">2015/01/22</span>
+<span class="news-time">3:00AM</span>
+<span class="news-flag"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/></span>
+</div>
+<div class="rhs">
+<h2 class="node-title">
+<a href="/ca/news/watch-celine-answering-fan-questions">Watch Celine Answering Fan Questions</a>
+</h2>
+<div class="content clear-block">
+<!--paging_filter--><p>During a 2013 interview with Larry King, Celine answered fan questions sent by Twitter. Would she collaborate with Adele, Christina Aguilera or Rihanna? What would she do if she lost her voice one day? Watch the clip to find out what Celine said!<br/><br/>
+<center><iframe allowfullscreen="" frameborder="0" height="250" src="//www.youtube.com/embed/V7Lr_CozW1Q?rel=0" width="450"></iframe></center></p>
+</div>
+<div class="links clear-block">
+<ul class="links inline"><li class="comment_comments first"><a class=" menu-item-n7-comments odd" href="/ca/news/watch-celine-answering-fan-questions#comments" title="Jump to the first comment of this posting.">7 comments</a></li>
+<li class="login_register"><span class=" menu-item--a-href-ca-user-login-destination-node-236121-2523nodecomment-form-login-a-or-a-href-ca-user-register-destination-node-236121-2523nodecomment-form-register-a-to-post-comments even"><a href="/ca/user/login?destination=node/236121%2523nodecomment_form">Login</a> or <a href="/ca/user/register?destination=node/236121%2523nodecomment_form">register</a> to post comments</span></li>
+<li class="service_links_delicious"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-delicious-png-alt-delicious-delicious odd" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fwatch-celine-answering-fan-questions&amp;title=Watch+Celine+Answering+Fan+Questions" rel="nofollow" title="Bookmark this post on del.icio.us."><img alt="Delicious" src="/sites/all/modules/contrib/service_links/images/delicious.png"/> Delicious</a></li>
+<li class="service_links_digg"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-digg-png-alt-digg-digg even" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fwatch-celine-answering-fan-questions&amp;title=Watch+Celine+Answering+Fan+Questions" rel="nofollow" title="Digg this post on digg.com."><img alt="Digg" src="/sites/all/modules/contrib/service_links/images/digg.png"/> Digg</a></li>
+<li class="service_links_reddit"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-reddit-png-alt-reddit-reddit odd" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fwatch-celine-answering-fan-questions&amp;title=Watch+Celine+Answering+Fan+Questions" rel="nofollow" title="Submit this post on reddit.com."><img alt="Reddit" src="/sites/all/modules/contrib/service_links/images/reddit.png"/> Reddit</a></li>
+<li class="service_links_magnoliacom"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-magnoliacom-png-alt-magnoliacom-magnoliacom even" href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fwatch-celine-answering-fan-questions&amp;title=Watch+Celine+Answering+Fan+Questions" rel="nofollow" title="Submit this post on ma.gnolia.com."><img alt="Magnoliacom" src="/sites/all/modules/contrib/service_links/images/magnoliacom.png"/> Magnoliacom</a></li>
+<li class="service_links_newsvine"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-newsvine-png-alt-newsvine-newsvine odd" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fwatch-celine-answering-fan-questions&amp;h=Watch+Celine+Answering+Fan+Questions" rel="nofollow" title="Submit this post on newsvine.com."><img alt="Newsvine" src="/sites/all/modules/contrib/service_links/images/newsvine.png"/> Newsvine</a></li>
+<li class="service_links_facebook"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-facebook-png-alt-facebook-facebook even" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fwatch-celine-answering-fan-questions&amp;t=Watch+Celine+Answering+Fan+Questions" rel="nofollow" title="Share on Facebook."><img alt="Facebook" src="/sites/all/modules/contrib/service_links/images/facebook.png"/> Facebook</a></li>
+<li class="service_links_google"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-google-png-alt-google-google odd" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fwatch-celine-answering-fan-questions&amp;title=Watch+Celine+Answering+Fan+Questions" rel="nofollow" title="Bookmark this post on Google."><img alt="Google" src="/sites/all/modules/contrib/service_links/images/google.png"/> Google</a></li>
+<li class="service_links_yahoo"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-png-alt-yahoo-yahoo even" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fwatch-celine-answering-fan-questions&amp;t=Watch+Celine+Answering+Fan+Questions" rel="nofollow" title="Bookmark this post on Yahoo."><img alt="Yahoo" src="/sites/all/modules/contrib/service_links/images/yahoo.png"/> Yahoo</a></li>
+<li class="service_links_yahoo_buzz"><a class="yahoo-buzz yahoo-buzz-236121 menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-buzz-png-alt-yahoo-buzz-yahoo-buzz odd" href="http://buzz.yahoo.com/submit" rel="nofollow" title="Bookmark this post on Yahoo! Buzz."><img alt="Yahoo! Buzz" src="/sites/all/modules/contrib/service_links/images/yahoo-buzz.png"/> Yahoo! Buzz</a></li>
+<li class="service_links_technorati"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-technorati-png-alt-technorati-technorati even" href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fwatch-celine-answering-fan-questions" rel="nofollow" title="Search Technorati for links to this post."><img alt="Technorati" src="/sites/all/modules/contrib/service_links/images/technorati.png"/> Technorati</a></li>
+<li class="sonybmg_permalink last"><a class=" menu-item-permalink odd" href="/ca/news/watch-celine-answering-fan-questions">Permalink</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="node nodetype-news clearfix" id="node-236599">
+<div class="datetime day-4">
+<span class="news-date">2015/01/22</span>
+<span class="news-time">2:00AM</span>
+<span class="news-flag"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/></span>
+</div>
+<div class="rhs">
+<h2 class="node-title">
+<a href="/ca/news/c%C3%A9line-and-stevie-wonder">Céline and Stevie Wonder</a>
+</h2>
+<div class="content clear-block">
+<!--paging_filter--><p>On January 22, 1977, the legendary Stevie Wonder reached #1 on the Billboard chart with his song "I Wish," the first single released from his multi-platinum album “Songs in the Key of Life." In 2003 Céline performed "I Wish” in her show "A New Day". Her interpretation is included on the album <a href="http://www.celinedion.com/ca/music/new-day-live-las-vegas">'A New Day...Live in Las Vegas.'</a> </p>
+<p>With her new show in Las Vegas in 2011, Céline sang the song “Overjoyed” as a duet with a virtual Stevie Wonder seated at the piano. They later recorded this previously unreleased song for her 2013 album <a href="http://www.celinedion.com/ca/music/loved-me-back-life">'Loved Me Back to Life'</a>. Céline has always admired Stevie Wonder, so it was with great honor that she recorded one of his songs.</p>
+<p>Céline had the great privilege of meeting this celebrated musician at various award ceremonies  and benefit concerts, such as "Pavarotti and Friends" in June 1998 or the "America: A Tribute to Heroes" telethon in September 2001.<br/><br/>
+<center></center><img src="https://www.celinedion.com/sites/cdion/files/1995-05-03_wma_resize-small_web.jpg"/><br/>
+(photo: personal collection - May 3, 1995 - World Music Awards, Monaco)</p>
+</div>
+<div class="links clear-block">
+<ul class="links inline"><li class="comment_comments first"><a class=" menu-item-n6-comments odd" href="/ca/news/c%C3%A9line-and-stevie-wonder#comments" title="Jump to the first comment of this posting.">6 comments</a></li>
+<li class="login_register"><span class=" menu-item--a-href-ca-user-login-destination-node-236599-2523nodecomment-form-login-a-or-a-href-ca-user-register-destination-node-236599-2523nodecomment-form-register-a-to-post-comments even"><a href="/ca/user/login?destination=node/236599%2523nodecomment_form">Login</a> or <a href="/ca/user/register?destination=node/236599%2523nodecomment_form">register</a> to post comments</span></li>
+<li class="service_links_delicious"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-delicious-png-alt-delicious-delicious odd" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fc%25C3%25A9line-and-stevie-wonder&amp;title=C%C3%A9line+and+Stevie+Wonder" rel="nofollow" title="Bookmark this post on del.icio.us."><img alt="Delicious" src="/sites/all/modules/contrib/service_links/images/delicious.png"/> Delicious</a></li>
+<li class="service_links_digg"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-digg-png-alt-digg-digg even" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fc%25C3%25A9line-and-stevie-wonder&amp;title=C%C3%A9line+and+Stevie+Wonder" rel="nofollow" title="Digg this post on digg.com."><img alt="Digg" src="/sites/all/modules/contrib/service_links/images/digg.png"/> Digg</a></li>
+<li class="service_links_reddit"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-reddit-png-alt-reddit-reddit odd" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fc%25C3%25A9line-and-stevie-wonder&amp;title=C%C3%A9line+and+Stevie+Wonder" rel="nofollow" title="Submit this post on reddit.com."><img alt="Reddit" src="/sites/all/modules/contrib/service_links/images/reddit.png"/> Reddit</a></li>
+<li class="service_links_magnoliacom"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-magnoliacom-png-alt-magnoliacom-magnoliacom even" href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fc%25C3%25A9line-and-stevie-wonder&amp;title=C%C3%A9line+and+Stevie+Wonder" rel="nofollow" title="Submit this post on ma.gnolia.com."><img alt="Magnoliacom" src="/sites/all/modules/contrib/service_links/images/magnoliacom.png"/> Magnoliacom</a></li>
+<li class="service_links_newsvine"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-newsvine-png-alt-newsvine-newsvine odd" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fc%25C3%25A9line-and-stevie-wonder&amp;h=C%C3%A9line+and+Stevie+Wonder" rel="nofollow" title="Submit this post on newsvine.com."><img alt="Newsvine" src="/sites/all/modules/contrib/service_links/images/newsvine.png"/> Newsvine</a></li>
+<li class="service_links_facebook"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-facebook-png-alt-facebook-facebook even" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fc%25C3%25A9line-and-stevie-wonder&amp;t=C%C3%A9line+and+Stevie+Wonder" rel="nofollow" title="Share on Facebook."><img alt="Facebook" src="/sites/all/modules/contrib/service_links/images/facebook.png"/> Facebook</a></li>
+<li class="service_links_google"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-google-png-alt-google-google odd" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fc%25C3%25A9line-and-stevie-wonder&amp;title=C%C3%A9line+and+Stevie+Wonder" rel="nofollow" title="Bookmark this post on Google."><img alt="Google" src="/sites/all/modules/contrib/service_links/images/google.png"/> Google</a></li>
+<li class="service_links_yahoo"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-png-alt-yahoo-yahoo even" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fc%25C3%25A9line-and-stevie-wonder&amp;t=C%C3%A9line+and+Stevie+Wonder" rel="nofollow" title="Bookmark this post on Yahoo."><img alt="Yahoo" src="/sites/all/modules/contrib/service_links/images/yahoo.png"/> Yahoo</a></li>
+<li class="service_links_yahoo_buzz"><a class="yahoo-buzz yahoo-buzz-236599 menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-buzz-png-alt-yahoo-buzz-yahoo-buzz odd" href="http://buzz.yahoo.com/submit" rel="nofollow" title="Bookmark this post on Yahoo! Buzz."><img alt="Yahoo! Buzz" src="/sites/all/modules/contrib/service_links/images/yahoo-buzz.png"/> Yahoo! Buzz</a></li>
+<li class="service_links_technorati"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-technorati-png-alt-technorati-technorati even" href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fc%25C3%25A9line-and-stevie-wonder" rel="nofollow" title="Search Technorati for links to this post."><img alt="Technorati" src="/sites/all/modules/contrib/service_links/images/technorati.png"/> Technorati</a></li>
+<li class="sonybmg_permalink"><a class=" menu-item-permalink odd" href="/ca/news/c%C3%A9line-and-stevie-wonder">Permalink</a></li>
+<li class="node_read_more last"><a class=" menu-item-read-more even" href="/ca/news/c%C3%A9line-and-stevie-wonder" title="Read the rest of Céline and Stevie Wonder.">Read more</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-6 views-row-even">
+<div class="node nodetype-news clearfix" id="node-236119">
+<div class="datetime day-3">
+<span class="news-date">2015/01/21</span>
+<span class="news-time">3:00AM</span>
+<span class="news-flag"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/></span>
+</div>
+<div class="rhs">
+<h2 class="node-title">
+<a href="/ca/news/code-3-cure">Code 3 For A Cure</a>
+</h2>
+<div class="content clear-block">
+<!--paging_filter--><p><a href="https://www.code3foracure.org/annual.html">Code 3 For A Cure</a> will be conducting this year’s Mission of Honor and Hope on May 23. During the mission, a team of firefighter cancer survivors, both active and retired, drive a fire engine truck across America to share their personal cancer stories with other firefighters in order to encourage early cancer screenings. The foundation’s main purpose is to provide financial assistance to firefighters who are battling cancer and facing financial hardship.<br/>
+<center><iframe allowfullscreen="" frameborder="0" height="250" src="//www.youtube.com/embed/0rBnBbhSlo0?rel=0" width="450"></iframe></center></p>
+</div>
+<div class="links clear-block">
+<ul class="links inline"><li class="comment_comments first"><a class=" menu-item-n3-comments odd" href="/ca/news/code-3-cure#comments" title="Jump to the first comment of this posting.">3 comments</a></li>
+<li class="login_register"><span class=" menu-item--a-href-ca-user-login-destination-node-236119-2523nodecomment-form-login-a-or-a-href-ca-user-register-destination-node-236119-2523nodecomment-form-register-a-to-post-comments even"><a href="/ca/user/login?destination=node/236119%2523nodecomment_form">Login</a> or <a href="/ca/user/register?destination=node/236119%2523nodecomment_form">register</a> to post comments</span></li>
+<li class="service_links_delicious"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-delicious-png-alt-delicious-delicious odd" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fcode-3-cure&amp;title=Code+3+For+A+Cure" rel="nofollow" title="Bookmark this post on del.icio.us."><img alt="Delicious" src="/sites/all/modules/contrib/service_links/images/delicious.png"/> Delicious</a></li>
+<li class="service_links_digg"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-digg-png-alt-digg-digg even" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fcode-3-cure&amp;title=Code+3+For+A+Cure" rel="nofollow" title="Digg this post on digg.com."><img alt="Digg" src="/sites/all/modules/contrib/service_links/images/digg.png"/> Digg</a></li>
+<li class="service_links_reddit"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-reddit-png-alt-reddit-reddit odd" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fcode-3-cure&amp;title=Code+3+For+A+Cure" rel="nofollow" title="Submit this post on reddit.com."><img alt="Reddit" src="/sites/all/modules/contrib/service_links/images/reddit.png"/> Reddit</a></li>
+<li class="service_links_magnoliacom"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-magnoliacom-png-alt-magnoliacom-magnoliacom even" href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fcode-3-cure&amp;title=Code+3+For+A+Cure" rel="nofollow" title="Submit this post on ma.gnolia.com."><img alt="Magnoliacom" src="/sites/all/modules/contrib/service_links/images/magnoliacom.png"/> Magnoliacom</a></li>
+<li class="service_links_newsvine"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-newsvine-png-alt-newsvine-newsvine odd" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fcode-3-cure&amp;h=Code+3+For+A+Cure" rel="nofollow" title="Submit this post on newsvine.com."><img alt="Newsvine" src="/sites/all/modules/contrib/service_links/images/newsvine.png"/> Newsvine</a></li>
+<li class="service_links_facebook"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-facebook-png-alt-facebook-facebook even" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fcode-3-cure&amp;t=Code+3+For+A+Cure" rel="nofollow" title="Share on Facebook."><img alt="Facebook" src="/sites/all/modules/contrib/service_links/images/facebook.png"/> Facebook</a></li>
+<li class="service_links_google"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-google-png-alt-google-google odd" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fcode-3-cure&amp;title=Code+3+For+A+Cure" rel="nofollow" title="Bookmark this post on Google."><img alt="Google" src="/sites/all/modules/contrib/service_links/images/google.png"/> Google</a></li>
+<li class="service_links_yahoo"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-png-alt-yahoo-yahoo even" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fcode-3-cure&amp;t=Code+3+For+A+Cure" rel="nofollow" title="Bookmark this post on Yahoo."><img alt="Yahoo" src="/sites/all/modules/contrib/service_links/images/yahoo.png"/> Yahoo</a></li>
+<li class="service_links_yahoo_buzz"><a class="yahoo-buzz yahoo-buzz-236119 menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-buzz-png-alt-yahoo-buzz-yahoo-buzz odd" href="http://buzz.yahoo.com/submit" rel="nofollow" title="Bookmark this post on Yahoo! Buzz."><img alt="Yahoo! Buzz" src="/sites/all/modules/contrib/service_links/images/yahoo-buzz.png"/> Yahoo! Buzz</a></li>
+<li class="service_links_technorati"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-technorati-png-alt-technorati-technorati even" href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fcode-3-cure" rel="nofollow" title="Search Technorati for links to this post."><img alt="Technorati" src="/sites/all/modules/contrib/service_links/images/technorati.png"/> Technorati</a></li>
+<li class="sonybmg_permalink"><a class=" menu-item-permalink odd" href="/ca/news/code-3-cure">Permalink</a></li>
+<li class="node_read_more last"><a class=" menu-item-read-more even" href="/ca/news/code-3-cure" title="Read the rest of Code 3 For A Cure.">Read more</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="node nodetype-news clearfix" id="node-236117">
+<div class="datetime day-2">
+<span class="news-date">2015/01/20</span>
+<span class="news-time">3:00AM</span>
+<span class="news-flag"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/></span>
+</div>
+<div class="rhs">
+<h2 class="node-title">
+<a href="/ca/news/celine-friends">Celine on Friends </a>
+</h2>
+<div class="content clear-block">
+<!--paging_filter--><p>"Make sure you choose good friends and that those friends tell you the truth. It's very easy to say to people, 'You're beautiful and you're making the right choices,' but it's very important to choose good people to tell you the truth." - Celine Dion, Excerpt from the book "Exactly As I Am" by Shaun Robinson.  We all know how important friends are.  Tell us about your friends and how they help you?</p>
+</div>
+<div class="links clear-block">
+<ul class="links inline"><li class="comment_comments first"><a class=" menu-item-n5-comments odd" href="/ca/news/celine-friends#comments" title="Jump to the first comment of this posting.">5 comments</a></li>
+<li class="login_register"><span class=" menu-item--a-href-ca-user-login-destination-node-236117-2523nodecomment-form-login-a-or-a-href-ca-user-register-destination-node-236117-2523nodecomment-form-register-a-to-post-comments even"><a href="/ca/user/login?destination=node/236117%2523nodecomment_form">Login</a> or <a href="/ca/user/register?destination=node/236117%2523nodecomment_form">register</a> to post comments</span></li>
+<li class="service_links_delicious"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-delicious-png-alt-delicious-delicious odd" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-friends&amp;title=Celine+on+Friends+" rel="nofollow" title="Bookmark this post on del.icio.us."><img alt="Delicious" src="/sites/all/modules/contrib/service_links/images/delicious.png"/> Delicious</a></li>
+<li class="service_links_digg"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-digg-png-alt-digg-digg even" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-friends&amp;title=Celine+on+Friends+" rel="nofollow" title="Digg this post on digg.com."><img alt="Digg" src="/sites/all/modules/contrib/service_links/images/digg.png"/> Digg</a></li>
+<li class="service_links_reddit"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-reddit-png-alt-reddit-reddit odd" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-friends&amp;title=Celine+on+Friends+" rel="nofollow" title="Submit this post on reddit.com."><img alt="Reddit" src="/sites/all/modules/contrib/service_links/images/reddit.png"/> Reddit</a></li>
+<li class="service_links_magnoliacom"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-magnoliacom-png-alt-magnoliacom-magnoliacom even" href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-friends&amp;title=Celine+on+Friends+" rel="nofollow" title="Submit this post on ma.gnolia.com."><img alt="Magnoliacom" src="/sites/all/modules/contrib/service_links/images/magnoliacom.png"/> Magnoliacom</a></li>
+<li class="service_links_newsvine"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-newsvine-png-alt-newsvine-newsvine odd" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-friends&amp;h=Celine+on+Friends+" rel="nofollow" title="Submit this post on newsvine.com."><img alt="Newsvine" src="/sites/all/modules/contrib/service_links/images/newsvine.png"/> Newsvine</a></li>
+<li class="service_links_facebook"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-facebook-png-alt-facebook-facebook even" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-friends&amp;t=Celine+on+Friends+" rel="nofollow" title="Share on Facebook."><img alt="Facebook" src="/sites/all/modules/contrib/service_links/images/facebook.png"/> Facebook</a></li>
+<li class="service_links_google"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-google-png-alt-google-google odd" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-friends&amp;title=Celine+on+Friends+" rel="nofollow" title="Bookmark this post on Google."><img alt="Google" src="/sites/all/modules/contrib/service_links/images/google.png"/> Google</a></li>
+<li class="service_links_yahoo"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-png-alt-yahoo-yahoo even" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-friends&amp;t=Celine+on+Friends+" rel="nofollow" title="Bookmark this post on Yahoo."><img alt="Yahoo" src="/sites/all/modules/contrib/service_links/images/yahoo.png"/> Yahoo</a></li>
+<li class="service_links_yahoo_buzz"><a class="yahoo-buzz yahoo-buzz-236117 menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-buzz-png-alt-yahoo-buzz-yahoo-buzz odd" href="http://buzz.yahoo.com/submit" rel="nofollow" title="Bookmark this post on Yahoo! Buzz."><img alt="Yahoo! Buzz" src="/sites/all/modules/contrib/service_links/images/yahoo-buzz.png"/> Yahoo! Buzz</a></li>
+<li class="service_links_technorati"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-technorati-png-alt-technorati-technorati even" href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-friends" rel="nofollow" title="Search Technorati for links to this post."><img alt="Technorati" src="/sites/all/modules/contrib/service_links/images/technorati.png"/> Technorati</a></li>
+<li class="sonybmg_permalink"><a class=" menu-item-permalink odd" href="/ca/news/celine-friends">Permalink</a></li>
+<li class="node_read_more last"><a class=" menu-item-read-more even" href="/ca/news/celine-friends" title="Read the rest of Celine on Friends .">Read more</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-8 views-row-even">
+<div class="node nodetype-news clearfix" id="node-236115">
+<div class="datetime day-1">
+<span class="news-date">2015/01/19</span>
+<span class="news-time">3:00AM</span>
+<span class="news-flag"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/></span>
+</div>
+<div class="rhs">
+<h2 class="node-title">
+<a href="/ca/news/celine-and-late-michael-jackson">Celine and the late Michael Jackson</a>
+</h2>
+<div class="content clear-block">
+<!--paging_filter--><p>After Michael Jackson’s passing, Celine performed his favorite song, “Smile” by Charlie Chaplin, in a special tribute during the 2011 Oscars. When asked why it was important to her to honour Michael, she said: "He changed my life. I saw him on TV and I wanted to sing in English because he was, so and I went to learn English and met with him and I (sang) with him and he came to see the show and he had a big impact on my life." </p>
+</div>
+<div class="links clear-block">
+<ul class="links inline"><li class="comment_comments first"><a class=" menu-item-n4-comments odd" href="/ca/news/celine-and-late-michael-jackson#comments" title="Jump to the first comment of this posting.">4 comments</a></li>
+<li class="login_register"><span class=" menu-item--a-href-ca-user-login-destination-node-236115-2523nodecomment-form-login-a-or-a-href-ca-user-register-destination-node-236115-2523nodecomment-form-register-a-to-post-comments even"><a href="/ca/user/login?destination=node/236115%2523nodecomment_form">Login</a> or <a href="/ca/user/register?destination=node/236115%2523nodecomment_form">register</a> to post comments</span></li>
+<li class="service_links_delicious"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-delicious-png-alt-delicious-delicious odd" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-and-late-michael-jackson&amp;title=Celine+and+the+late+Michael+Jackson" rel="nofollow" title="Bookmark this post on del.icio.us."><img alt="Delicious" src="/sites/all/modules/contrib/service_links/images/delicious.png"/> Delicious</a></li>
+<li class="service_links_digg"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-digg-png-alt-digg-digg even" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-and-late-michael-jackson&amp;title=Celine+and+the+late+Michael+Jackson" rel="nofollow" title="Digg this post on digg.com."><img alt="Digg" src="/sites/all/modules/contrib/service_links/images/digg.png"/> Digg</a></li>
+<li class="service_links_reddit"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-reddit-png-alt-reddit-reddit odd" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-and-late-michael-jackson&amp;title=Celine+and+the+late+Michael+Jackson" rel="nofollow" title="Submit this post on reddit.com."><img alt="Reddit" src="/sites/all/modules/contrib/service_links/images/reddit.png"/> Reddit</a></li>
+<li class="service_links_magnoliacom"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-magnoliacom-png-alt-magnoliacom-magnoliacom even" href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-and-late-michael-jackson&amp;title=Celine+and+the+late+Michael+Jackson" rel="nofollow" title="Submit this post on ma.gnolia.com."><img alt="Magnoliacom" src="/sites/all/modules/contrib/service_links/images/magnoliacom.png"/> Magnoliacom</a></li>
+<li class="service_links_newsvine"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-newsvine-png-alt-newsvine-newsvine odd" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-and-late-michael-jackson&amp;h=Celine+and+the+late+Michael+Jackson" rel="nofollow" title="Submit this post on newsvine.com."><img alt="Newsvine" src="/sites/all/modules/contrib/service_links/images/newsvine.png"/> Newsvine</a></li>
+<li class="service_links_facebook"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-facebook-png-alt-facebook-facebook even" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-and-late-michael-jackson&amp;t=Celine+and+the+late+Michael+Jackson" rel="nofollow" title="Share on Facebook."><img alt="Facebook" src="/sites/all/modules/contrib/service_links/images/facebook.png"/> Facebook</a></li>
+<li class="service_links_google"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-google-png-alt-google-google odd" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-and-late-michael-jackson&amp;title=Celine+and+the+late+Michael+Jackson" rel="nofollow" title="Bookmark this post on Google."><img alt="Google" src="/sites/all/modules/contrib/service_links/images/google.png"/> Google</a></li>
+<li class="service_links_yahoo"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-png-alt-yahoo-yahoo even" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-and-late-michael-jackson&amp;t=Celine+and+the+late+Michael+Jackson" rel="nofollow" title="Bookmark this post on Yahoo."><img alt="Yahoo" src="/sites/all/modules/contrib/service_links/images/yahoo.png"/> Yahoo</a></li>
+<li class="service_links_yahoo_buzz"><a class="yahoo-buzz yahoo-buzz-236115 menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-buzz-png-alt-yahoo-buzz-yahoo-buzz odd" href="http://buzz.yahoo.com/submit" rel="nofollow" title="Bookmark this post on Yahoo! Buzz."><img alt="Yahoo! Buzz" src="/sites/all/modules/contrib/service_links/images/yahoo-buzz.png"/> Yahoo! Buzz</a></li>
+<li class="service_links_technorati"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-technorati-png-alt-technorati-technorati even" href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-and-late-michael-jackson" rel="nofollow" title="Search Technorati for links to this post."><img alt="Technorati" src="/sites/all/modules/contrib/service_links/images/technorati.png"/> Technorati</a></li>
+<li class="sonybmg_permalink last"><a class=" menu-item-permalink odd" href="/ca/news/celine-and-late-michael-jackson">Permalink</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-9 views-row-odd">
+<div class="node nodetype-news clearfix" id="node-236113">
+<div class="datetime day-0">
+<span class="news-date">2015/01/18</span>
+<span class="news-time">3:00AM</span>
+<span class="news-flag"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/></span>
+</div>
+<div class="rhs">
+<h2 class="node-title">
+<a href="/ca/news/celine-challenges-growing">Celine on the Challenges of Growing Up</a>
+</h2>
+<div class="content clear-block">
+<!--paging_filter--><p>Celine has openly talked about the difficulties she faced growing up. By her own account, she wasn’t part of the popular crowd in school. She overcame the challenges she faced by focusing on her passion: singing. Celine once said, what “is great about maturity and growing older is that you understand the values of life and how it’s important to feel emotionally balanced, but it’s not given to you necessarily when you’re 15 and 17 years old (..)”. Celine also reflects on her teenage years with the song <a href="http://www.celinedion.com/ca/music/loved-me-back-life/seventeen">“At Seventeen”</a>, a beautiful melody written and first recorded by Janis Ian. Tell us what this song means to you.</p>
+<!-- Start of Brightcove Player --><!-- Start of Brightcove Player --><div style="display:none">
+</div>
+<!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C 
+found at <a href="https://accounts.brightcove.com/en/terms-and-conditions/" title="https://accounts.brightcove.com/en/terms-and-conditions/">https://accounts.brightcove.com/en/terms-and-conditions/</a>. 
+--><!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C 
+found at <a href="https://accounts.brightcove.com/en/terms-and-conditions/" title="https://accounts.brightcove.com/en/terms-and-conditions/">https://accounts.brightcove.com/en/terms-and-conditions/</a>. 
+--><object class="BrightcoveExperience" id="myExperience2322556414001">
+<param name="bgcolor" value="#FFFFFF"></param>
+<param name="width" value="480"></param>
+<param name="height" value="270"></param>
+<param name="playerID" value="2327383173001"></param>
+<param name="playerKey" value="AQ~~,AAAAAEPkfOI~,uexO4NBYzwryNVPSz1p8MB5EPSw3sv8O"></param>
+<param name="isVid" value="true"></param>
+<param name="isUI" value="true"></param>
+<param name="dynamicStreaming" value="true"></param>
+<param name="@videoPlayer" value="2322556414001"></param>
+</object><!-- 
+This script tag will cause the Brightcove Players defined above it to be created as soon
+as the line is read by the browser. If you wish to have the player instantiated only after
+the rest of the HTML is processed and the page load is complete, remove the line.
+--><!-- 
+This script tag will cause the Brightcove Players defined above it to be created as soon
+as the line is read by the browser. If you wish to have the player instantiated only after
+the rest of the HTML is processed and the page load is complete, remove the line.
+--><!-- End of Brightcove Player --><!-- End of Brightcove Player --> </div>
+<div class="links clear-block">
+<ul class="links inline"><li class="comment_comments first"><a class=" menu-item-n4-comments odd" href="/ca/news/celine-challenges-growing#comments" title="Jump to the first comment of this posting.">4 comments</a></li>
+<li class="login_register"><span class=" menu-item--a-href-ca-user-login-destination-node-236113-2523nodecomment-form-login-a-or-a-href-ca-user-register-destination-node-236113-2523nodecomment-form-register-a-to-post-comments even"><a href="/ca/user/login?destination=node/236113%2523nodecomment_form">Login</a> or <a href="/ca/user/register?destination=node/236113%2523nodecomment_form">register</a> to post comments</span></li>
+<li class="service_links_delicious"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-delicious-png-alt-delicious-delicious odd" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-challenges-growing&amp;title=Celine+on+the+Challenges+of+Growing+Up" rel="nofollow" title="Bookmark this post on del.icio.us."><img alt="Delicious" src="/sites/all/modules/contrib/service_links/images/delicious.png"/> Delicious</a></li>
+<li class="service_links_digg"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-digg-png-alt-digg-digg even" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-challenges-growing&amp;title=Celine+on+the+Challenges+of+Growing+Up" rel="nofollow" title="Digg this post on digg.com."><img alt="Digg" src="/sites/all/modules/contrib/service_links/images/digg.png"/> Digg</a></li>
+<li class="service_links_reddit"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-reddit-png-alt-reddit-reddit odd" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-challenges-growing&amp;title=Celine+on+the+Challenges+of+Growing+Up" rel="nofollow" title="Submit this post on reddit.com."><img alt="Reddit" src="/sites/all/modules/contrib/service_links/images/reddit.png"/> Reddit</a></li>
+<li class="service_links_magnoliacom"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-magnoliacom-png-alt-magnoliacom-magnoliacom even" href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-challenges-growing&amp;title=Celine+on+the+Challenges+of+Growing+Up" rel="nofollow" title="Submit this post on ma.gnolia.com."><img alt="Magnoliacom" src="/sites/all/modules/contrib/service_links/images/magnoliacom.png"/> Magnoliacom</a></li>
+<li class="service_links_newsvine"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-newsvine-png-alt-newsvine-newsvine odd" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-challenges-growing&amp;h=Celine+on+the+Challenges+of+Growing+Up" rel="nofollow" title="Submit this post on newsvine.com."><img alt="Newsvine" src="/sites/all/modules/contrib/service_links/images/newsvine.png"/> Newsvine</a></li>
+<li class="service_links_facebook"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-facebook-png-alt-facebook-facebook even" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-challenges-growing&amp;t=Celine+on+the+Challenges+of+Growing+Up" rel="nofollow" title="Share on Facebook."><img alt="Facebook" src="/sites/all/modules/contrib/service_links/images/facebook.png"/> Facebook</a></li>
+<li class="service_links_google"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-google-png-alt-google-google odd" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-challenges-growing&amp;title=Celine+on+the+Challenges+of+Growing+Up" rel="nofollow" title="Bookmark this post on Google."><img alt="Google" src="/sites/all/modules/contrib/service_links/images/google.png"/> Google</a></li>
+<li class="service_links_yahoo"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-png-alt-yahoo-yahoo even" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-challenges-growing&amp;t=Celine+on+the+Challenges+of+Growing+Up" rel="nofollow" title="Bookmark this post on Yahoo."><img alt="Yahoo" src="/sites/all/modules/contrib/service_links/images/yahoo.png"/> Yahoo</a></li>
+<li class="service_links_yahoo_buzz"><a class="yahoo-buzz yahoo-buzz-236113 menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-buzz-png-alt-yahoo-buzz-yahoo-buzz odd" href="http://buzz.yahoo.com/submit" rel="nofollow" title="Bookmark this post on Yahoo! Buzz."><img alt="Yahoo! Buzz" src="/sites/all/modules/contrib/service_links/images/yahoo-buzz.png"/> Yahoo! Buzz</a></li>
+<li class="service_links_technorati"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-technorati-png-alt-technorati-technorati even" href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fceline-challenges-growing" rel="nofollow" title="Search Technorati for links to this post."><img alt="Technorati" src="/sites/all/modules/contrib/service_links/images/technorati.png"/> Technorati</a></li>
+<li class="sonybmg_permalink"><a class=" menu-item-permalink odd" href="/ca/news/celine-challenges-growing">Permalink</a></li>
+<li class="node_read_more last"><a class=" menu-item-read-more even" href="/ca/news/celine-challenges-growing" title="Read the rest of Celine on the Challenges of Growing Up.">Read more</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-10 views-row-even views-row-last">
+<div class="node nodetype-news clearfix" id="node-236082">
+<div class="datetime day-6">
+<span class="news-date">2015/01/17</span>
+<span class="news-time">3:00AM</span>
+<span class="news-flag"><img alt="Canada (English)" height="11" src="/sites/all/modules/custom/sony_global/flags/ca.png" title="Canada (English)" width="16"/></span>
+</div>
+<div class="rhs">
+<h2 class="node-title">
+<a href="/ca/news/helping-those-less-fortunate">Helping Those Less Fortunate</a>
+</h2>
+<div class="content clear-block">
+<!--paging_filter--><p>As we look forward to a great year ahead let’s not forget the less fortunate who need a gift of support all year long. You can help in many different ways: donate to your favorite charity or volunteer your time to help those in need.  The Celine Dion Foundation is a non-profit organization that supports various charities and medical foundations. For more information on Celine’s charitable work or to contribute to the foundation, click <a href="http://www.celinedion.com/ca/celine-supports">here</a>. </p>
+</div>
+<div class="links clear-block">
+<ul class="links inline"><li class="comment_comments first"><a class=" menu-item-n7-comments odd" href="/ca/news/helping-those-less-fortunate#comments" title="Jump to the first comment of this posting.">7 comments</a></li>
+<li class="login_register"><span class=" menu-item--a-href-ca-user-login-destination-node-236082-2523nodecomment-form-login-a-or-a-href-ca-user-register-destination-node-236082-2523nodecomment-form-register-a-to-post-comments even"><a href="/ca/user/login?destination=node/236082%2523nodecomment_form">Login</a> or <a href="/ca/user/register?destination=node/236082%2523nodecomment_form">register</a> to post comments</span></li>
+<li class="service_links_delicious"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-delicious-png-alt-delicious-delicious odd" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhelping-those-less-fortunate&amp;title=Helping+Those+Less+Fortunate" rel="nofollow" title="Bookmark this post on del.icio.us."><img alt="Delicious" src="/sites/all/modules/contrib/service_links/images/delicious.png"/> Delicious</a></li>
+<li class="service_links_digg"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-digg-png-alt-digg-digg even" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhelping-those-less-fortunate&amp;title=Helping+Those+Less+Fortunate" rel="nofollow" title="Digg this post on digg.com."><img alt="Digg" src="/sites/all/modules/contrib/service_links/images/digg.png"/> Digg</a></li>
+<li class="service_links_reddit"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-reddit-png-alt-reddit-reddit odd" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhelping-those-less-fortunate&amp;title=Helping+Those+Less+Fortunate" rel="nofollow" title="Submit this post on reddit.com."><img alt="Reddit" src="/sites/all/modules/contrib/service_links/images/reddit.png"/> Reddit</a></li>
+<li class="service_links_magnoliacom"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-magnoliacom-png-alt-magnoliacom-magnoliacom even" href="http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhelping-those-less-fortunate&amp;title=Helping+Those+Less+Fortunate" rel="nofollow" title="Submit this post on ma.gnolia.com."><img alt="Magnoliacom" src="/sites/all/modules/contrib/service_links/images/magnoliacom.png"/> Magnoliacom</a></li>
+<li class="service_links_newsvine"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-newsvine-png-alt-newsvine-newsvine odd" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhelping-those-less-fortunate&amp;h=Helping+Those+Less+Fortunate" rel="nofollow" title="Submit this post on newsvine.com."><img alt="Newsvine" src="/sites/all/modules/contrib/service_links/images/newsvine.png"/> Newsvine</a></li>
+<li class="service_links_facebook"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-facebook-png-alt-facebook-facebook even" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhelping-those-less-fortunate&amp;t=Helping+Those+Less+Fortunate" rel="nofollow" title="Share on Facebook."><img alt="Facebook" src="/sites/all/modules/contrib/service_links/images/facebook.png"/> Facebook</a></li>
+<li class="service_links_google"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-google-png-alt-google-google odd" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhelping-those-less-fortunate&amp;title=Helping+Those+Less+Fortunate" rel="nofollow" title="Bookmark this post on Google."><img alt="Google" src="/sites/all/modules/contrib/service_links/images/google.png"/> Google</a></li>
+<li class="service_links_yahoo"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-png-alt-yahoo-yahoo even" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhelping-those-less-fortunate&amp;t=Helping+Those+Less+Fortunate" rel="nofollow" title="Bookmark this post on Yahoo."><img alt="Yahoo" src="/sites/all/modules/contrib/service_links/images/yahoo.png"/> Yahoo</a></li>
+<li class="service_links_yahoo_buzz"><a class="yahoo-buzz yahoo-buzz-236082 menu-item--img-src-sites-all-modules-contrib-service-links-images-yahoo-buzz-png-alt-yahoo-buzz-yahoo-buzz odd" href="http://buzz.yahoo.com/submit" rel="nofollow" title="Bookmark this post on Yahoo! Buzz."><img alt="Yahoo! Buzz" src="/sites/all/modules/contrib/service_links/images/yahoo-buzz.png"/> Yahoo! Buzz</a></li>
+<li class="service_links_technorati"><a class=" menu-item--img-src-sites-all-modules-contrib-service-links-images-technorati-png-alt-technorati-technorati even" href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwww.celinedion.com%2Fca%2Fnews%2Fhelping-those-less-fortunate" rel="nofollow" title="Search Technorati for links to this post."><img alt="Technorati" src="/sites/all/modules/contrib/service_links/images/technorati.png"/> Technorati</a></li>
+<li class="sonybmg_permalink"><a class=" menu-item-permalink odd" href="/ca/news/helping-those-less-fortunate">Permalink</a></li>
+<li class="node_read_more last"><a class=" menu-item-read-more even" href="/ca/news/helping-those-less-fortunate" title="Read the rest of Helping Those Less Fortunate.">Read more</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="pager"><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a class="active" href="/ca/local-news?page=1" title="Go to page 2">2</a></li>
+<li class="pager-item"><a class="active" href="/ca/local-news?page=2" title="Go to page 3">3</a></li>
+<li class="pager-item"><a class="active" href="/ca/local-news?page=3" title="Go to page 4">4</a></li>
+<li class="pager-item"><a class="active" href="/ca/local-news?page=4" title="Go to page 5">5</a></li>
+<li class="pager-item"><a class="active" href="/ca/local-news?page=5" title="Go to page 6">6</a></li>
+<li class="pager-item"><a class="active" href="/ca/local-news?page=6" title="Go to page 7">7</a></li>
+<li class="pager-item"><a class="active" href="/ca/local-news?page=7" title="Go to page 8">8</a></li>
+<li class="pager-item"><a class="active" href="/ca/local-news?page=8" title="Go to page 9">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a class="active" href="/ca/local-news?page=1">Next ›</a></li>
+<li class="pager-last last"><a class="active" href="/ca/local-news?page=546">Last »</a></li>
+</ul></div></div>
+</div>
+<div class="clear-block" id="breadcrumb"><div class="breadcrumb"><a href="/ca">Home</a> » Local News</div></div>
+</div>
+</div> <!-- /content-body -->
+</div></div> <!-- /squeeze /main -->
+</div> <!-- /container -->
+</div> <!-- /page -->
+<div id="footer-wrapper">
+<div id="footer">
+<div id="logo-bottom">
+<a href="/ca/home" title="Home"><img src="/sites/celinedion.com/themes/cdion6_2/images/logo-bottom.png"/></a>
+</div>
+<div class="menu withprimary withsecondary " id="navigation-bottom">
+<div id="navigation-lvl1-bottom">
+<div class="block block-menu_block" id="block-menu_block-1">
+<div class="blockinner clear-block">
+<div class="content">
+<div class="menu-name-primary-links parent-mlid-0 menu-level-1">
+<ul class="menu"><li class="leaf first menu-mlid-1134 has-children active active-trail what039sgoin039on"><a class="active" href="/ca/local-news" title="Celine Dion News">What's Goin' On</a></li><li class="leaf menu-mlid-613 has-children tourampevents"><a href="/ca/events" title="Celine Dion Tour &amp; Events">Tour &amp; Events</a></li><li class="leaf menu-mlid-1142 has-children music"><a href="/ca/music/original-recordings" title="Celine Dion Music">Music</a></li><li class="leaf menu-mlid-1116 has-children thejourneysofar"><a href="/ca/biography" title="Celine Dion Biography and Awards">The Journey So Far</a></li><li class="leaf menu-mlid-592 photos"><a href="/ca/photos" title="Photos">Photos</a></li><li class="leaf menu-mlid-583 has-children videos"><a href="/ca/videos" title="Celine Dion Videos">Videos</a></li><li class="leaf menu-mlid-4532 forum"><a href="/ca/forum/130" title="Celine Dion Forum">Forum</a></li><li class="leaf menu-mlid-614 screengems"><a href="/ca/extras" title="Celine Dion Extras">Screen Gems</a></li><li class="leaf last menu-mlid-1040 theboutique"><a href="http://boutique.celinedion.com/en/" title="Celine Dion Store">The Boutique</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</div> <!-- /navigation -->
+<p>
+      Copyright © 1996-2015 Five Star Feeling Inc. Copyright © 1996-2015 Sony Music Entertainment Canada Inc. All Rights Reserved.      </p>
+<p>
+<a href="http://www.sonymusic.ca/privacy/">Privacy Policy</a> | <a href="http://www.sonymusic.ca/terms/">Terms and Conditions</a> </p>
+</div> <!-- /footer -->
+</div> <!-- /footer-wrapper -->
+<div id="page-bottom">
+<div class="block block-block" id="block-block-16">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><!-- Google Code for Celine Dion Official Site 30 Days Conversion Page -->
+
+
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="https://www.googleadservices.com/pagead/conversion/1004966373/?value=0&amp;label=MlL6CJv1hwMQ5aOa3wM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+</div>
+</div>
+</div>
+<div class="block block-block" id="block-block-17">
+<div class="blockinner clear-block">
+<div class="content">
+<!--paging_filter--><!-- Google Code for Celine Dion Official Site 365 Days Conversion Page -->
+
+
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="https://www.googleadservices.com/pagead/conversion/1004966373/?value=0&amp;label=Bmb1CJP2hwMQ5aOa3wM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+</div>
+</div>
+</div>
+</div>
+<div class="highslide-overlay closebutton" id="closebutton" onclick="return hs.close(this)" title="Close"></div>
+
+</body>
+</html>

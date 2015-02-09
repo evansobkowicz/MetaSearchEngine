@@ -1,0 +1,13 @@
+Title: The Dark Knight Rises (2012) - IMDb
+Date: Mon, 09 Feb 2015 23:41:25 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYqnwvjT5eF7HyR9YU7q62Op_B2FAROtF_jrWCKJwZ0qzyavjxbOOgrMeKpK_v309PoxQNVsVbY%0D%0AqN5CidQGADAhJnG10kam0SRDRrX7w-C3ETVs4d90JeUvGym_WlPcVeCPfqRw7IRe2jWHSIPWCI1m%0D%0AzgYp1OPTQGKs8BOECtaAX6r0XotXt7uN8-wzU48UsSUKZ6IZhjkrreNMzZntEGdmcskvcZY48rGk%0D%0AOMsmsXuGcOEAx-UD9EUHxr4z9Wnx7k6I1m2mzWhQwMdm0eTS7WW0jg%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:32 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:32 GMT; Path=/
+Set-Cookie: session-id-time=1581205285; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:32 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

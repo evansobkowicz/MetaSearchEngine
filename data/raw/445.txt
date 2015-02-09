@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible">
+<!-- iOS metadata -->
+<meta content="no" name="apple-mobile-web-app-capable">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<link href="http://assets.allmusic.com/images/ios/apple-touch-icon-57x57.png" rel="apple-touch-icon-precomposed">
+<link href="http://assets.allmusic.com/images/ios/apple-touch-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+<link href="http://assets.allmusic.com/images/ios/apple-touch-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+<link href="http://assets.allmusic.com/images/ios/apple-touch-icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+<link href="http://assets.allmusic.com/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="/rss" rel="alternate" title="RSS" type="application/rss+xml"/>
+<meta content="Shrek 2 - Original Soundtrack | Songs, Reviews, Credits, Awards | AllMusic" name="title">
+<meta content="Stage &amp; Screen,Pop/Rock,R&amp;B,Alternative Pop/Rock,Alternative/Indie Rock,Soundtracks,Teen Pop,Funk,Accidentally in Love,Holding Out for a Hero,Changes,As Lovers Go,Funkytown" name="keywords">
+<meta content="Find album reviews, stream songs, credits and award information for Shrek 2 - Original Soundtrack on AllMusic - 2004 - Following in the footsteps of the original Shrek&amp;hellip;" name="description">
+<meta content="http://cps-static.rovicorp.com/3/JPG_250/MI0001/993/MI0001993795.jpg?partner=allrovi.com" name="image">
+<meta content="AllMusic" property="og:site_name">
+<meta content="Shrek 2 - Original Soundtrack | Songs, Reviews, Credits, Awards | AllMusic" property="og:title">
+<meta content="Shrek 2 - Original Soundtrack | Songs, Reviews, Credits, Awards | AllMusic" itemprop="name">
+<meta content="Shrek 2 - Original Soundtrack | Songs, Reviews, Credits, Awards | AllMusic" name="twitter:title">
+<meta content="Find album reviews, stream songs, credits and award information for Shrek 2 - Original Soundtrack on AllMusic - 2004 - Following in the footsteps of the original Shrek&amp;hellip;" property="og:description">
+<meta content="Find album reviews, stream songs, credits and award information for Shrek 2 - Original Soundtrack on AllMusic - 2004 - Following in the footsteps of the original Shrek&amp;hellip;" itemprop="description">
+<meta content="Find album reviews, stream songs, credits and award information for Shrek 2 - Original Soundtrack on AllMusic - 2004 - Following in the footsteps of the original Shrek&amp;hellip;" name="twitter:description">
+<meta content="http://cps-static.rovicorp.com/3/JPG_250/MI0001/993/MI0001993795.jpg?partner=allrovi.com" property="og:image">
+<meta content="http://cps-static.rovicorp.com/3/JPG_250/MI0001/993/MI0001993795.jpg?partner=allrovi.com" itemprop="image">
+<meta content="summary" name="twitter:card">
+<meta content="http://cps-static.rovicorp.com/3/JPG_250/MI0001/993/MI0001993795.jpg?partner=allrovi.com" name="twitter:image">
+<meta content="http://assets.allmusic.com/images/allmusic_facebook_share.png" property="og:image">
+<meta content="http://www.allmusic.com/album/shrek-2-mw0000333159" property="og:url">
+<link href="http://www.allmusic.com/album/shrek-2-mw0000333159" rel="canonical">
+<title>Shrek 2 - Original Soundtrack | Songs, Reviews, Credits, Awards | AllMusic</title>
+<link href="http://assets.allmusic.com/css/global/global.css" rel="stylesheet" type="text/css">
+<link href="http://assets.allmusic.com/css/pages/album/album.css" rel="stylesheet" type="text/css">
+<!-- Alexa tag -->
+<meta content="SfgYrX5roRNK_iy-Mr_tFkRlY7M" name="alexaVerifyID"/>
+
+<!-- Media query polyfill ( Always require because loading via dynamic ajax injection is too slow [the enquire.js will fire before the ajax completes] ) -->
+
+
+
+
+</link></link></link></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></link></link></link></link></meta></meta></meta></meta></head>
+<body>
+<noscript>
+<div class="javascript-disabled" id="no-js">
+                AllMusic relies heavily on JavaScript.<br>
+                Please enable JavaScript in your browser to use the site fully.
+            </br></div>
+</noscript>
+<div class="stripe-container header-leaderboard">
+<div class="advertising leaderboard">
+<div class="fw_allmusic" id="cmn_ad_tag_head"> <!-- 3x3 Ad Tag --> </div> </div>
+</div>
+<div class="overflow-container album">
+<div class="stripe-container header-main-nav clearfix">
+<div class="max-header">
+<div class="main-nav">
+<div class="logo-container">
+<a class="logo no-snap" href="/">
+<h1>AllMusic</h1>
+</a>
+</div>
+<nav class="mobile-menu"></nav>
+<div class="search-container">
+<form action="/search" class="site-search" method="post" name="site-search">
+<input class="site-search-button" name="submit" type="submit">
+<input class="site-search-input" name="term" placeholder="Search" tabindex="1" type="search">
+</input></input></form>
+</div>
+<nav class="site-nav">
+<ul>
+<li class="new-releases">
+<a href="/newreleases">New Releases</a>
+<ul class="new-releases-nav">
+<div class="sub-nav-container">
+<div class="sub-nav-columns">
+<div class="new-releases-subnav left">
+<li class="nr-featured">
+<a href="/newreleases">Featured New Releases</a>
+</li>
+<li class="nr-editorschoice">
+<a href="/newreleases/editorschoice">Editors' Choice</a>
+</li>
+<li class="nr-all">
+<a href="/newreleases/all">All New Releases</a>
+</li>
+</div>
+<div class="new-releases-subnav right">
+<div class="sub-nav-content">
+</div>
+</div>
+</div>
+</div>
+</ul> </li>
+<li class="discover">
+<a href="/discover">Discover</a>
+<ul class="discover-nav">
+<div class="sub-nav-container">
+<div class="sub-nav-columns left">
+<li class="discover-genres active">
+<a href="/genres">Genres<span class="genres-arrow" style="display:none">  ›</span></a>
+</li>
+<li class="discover-moods">
+<a href="/moods">Moods<span class="moods-arrow" style="display:none">  ›</span></a>
+</li>
+<li class="discover-themes">
+<a href="/themes">Themes<span class="themes-arrow" style="display:none">  ›</span></a>
+</li>
+</div>
+<div class="sub-nav-columns right">
+<ul class="discover-genre-secondary">
+<div class="genre-column">
+<!-- spacer to prevent hover weirdness -->
+</div>
+<div class="genre-column">
+<li class="individual">
+<a href="/genre/blues-ma0000002467">Blues</a>
+</li>
+<li class="individual">
+<a href="/genre/classical-ma0000002521">Classical</a>
+</li>
+<li class="individual">
+<a href="/genre/country-ma0000002532">Country</a>
+</li>
+</div>
+<div class="genre-column">
+<li class="individual">
+<a href="/genre/electronic-ma0000002572">Electronic</a>
+</li>
+<li class="individual">
+<a href="/genre/folk-ma0000002592">Folk</a>
+</li>
+<li class="individual">
+<a href="/genre/international-ma0000002660">International</a>
+</li>
+</div>
+<div class="genre-column">
+<li class="individual">
+<a href="/genre/jazz-ma0000002674">Jazz</a>
+</li>
+<li class="individual">
+<a href="/genre/latin-ma0000002692">Latin</a>
+</li>
+<li class="individual">
+<a href="/genre/new-age-ma0000002745">New Age</a>
+</li>
+</div>
+<div class="genre-column">
+<li class="individual">
+<a href="/genre/pop-rock-ma0000002613">Pop/Rock</a>
+</li>
+<li class="individual">
+<a href="/genre/rap-ma0000002816">Rap</a>
+</li>
+<li class="individual">
+<a href="/genre/r-b-ma0000002809">R&amp;B</a>
+</li>
+</div>
+<div class="genre-column">
+<li class="individual">
+<a href="/genre/reggae-ma0000002820">Reggae</a>
+</li>
+<li class="individual">
+<a href="/genre/stage-screen-ma0000004432">Stage &amp; Screen</a>
+</li>
+<li class="last">
+<a href="/genres">All Genres</a>
+</li>
+</div>
+</ul> <ul class="discover-mood-secondary" style="display:none;">
+<div class="mood-column">
+<!-- spacer to prevent hover weirdness -->
+</div>
+<div class="mood-column">
+<li class="individual">
+<a href="/mood/aggressive-xa0000000694">Aggressive</a>
+</li>
+<li class="individual">
+<a href="/mood/bittersweet-xa0000000946">Bittersweet</a>
+</li>
+<li class="individual">
+<a href="/mood/druggy-xa0000000979">Druggy</a>
+</li>
+</div>
+<div class="mood-column">
+<li class="individual">
+<a href="/mood/energetic-xa0000000990">Energetic</a>
+</li>
+<li class="individual">
+<a href="/mood/happy-xa0000001016">Happy</a>
+</li>
+<li class="individual">
+<a href="/mood/hypnotic-xa0000000719">Hypnotic</a>
+</li>
+</div>
+<div class="mood-column">
+<li class="individual">
+<a href="/mood/laid-back-mellow-xa0000001032">Laid Back/Mellow</a>
+</li>
+<li class="individual">
+<a href="/mood/melancholy-xa0000000734">Melancholy</a>
+</li>
+<li>
+<a href="/mood/passionate-xa0000001062">Passionate</a>
+</li>
+</div>
+<div class="mood-column">
+<li class="individual">
+<a href="/mood/romantic-xa0000000758">Romantic</a>
+</li>
+<li class="individual">
+<a href="/mood/sad-xa0000000761">Sad</a>
+</li>
+<li>
+<a href="/mood/sentimental-xa0000000765">Sentimental</a>
+</li>
+</div>
+<div class="mood-column">
+<li>
+<a href="/mood/sexy-xa0000000770">Sexy</a>
+</li>
+<li class="individual">
+<a href="/mood/trippy-xa0000000749">Trippy</a>
+</li>
+<li class="last">
+<a href="/moods">All Moods</a>
+</li>
+</div>
+</ul> <ul class="discover-theme-secondary" style="display:none;">
+<div class="theme-column">
+<!-- spacer to prevent hover weirdness -->
+</div>
+<div class="theme-column">
+<li class="individual">
+<a href="/theme/background-music-ma0000006329">Background Music</a>
+</li>
+<li class="individual">
+<a href="/theme/celebration-ma0000005042">Celebration</a>
+</li>
+<li class="individual">
+<a href="/theme/cool-cocky-ma0000006328">Cool &amp; Cocky</a>
+</li>
+</div>
+<div class="theme-column">
+<li class="individual">
+<a href="/theme/drinking-ma0000004252">Drinking</a>
+</li>
+<li class="individual">
+<a href="/theme/hanging-out-ma0000006297">Hanging Out</a>
+</li>
+<li class="individual">
+<a href="/theme/in-love-ma0000005076">In Love</a>
+</li>
+</div>
+<div class="theme-column">
+<li class="individual">
+<a href="/theme/introspection-ma0000006318">Introspection</a>
+</li>
+<li class="individual">
+<a href="/theme/late-night-ma0000006321">Late Night</a>
+</li>
+<li class="individual">
+<a href="/theme/partying-ma0000004272">Partying</a>
+</li>
+</div>
+<div class="theme-column">
+<li class="individual">
+<a href="/theme/rainy-day-ma0000005096">Rainy Day</a>
+</li>
+<li class="individual">
+<a href="/theme/relaxation-ma0000006314">Relaxation</a>
+</li>
+<li class="individual">
+<a href="/theme/road-trip-ma0000006287">Road Trip</a>
+</li>
+</div>
+<div class="theme-column">
+<li class="individual">
+<a href="/theme/romantic-evening-ma0000006312">Romantic Evening</a>
+</li>
+<li class="individual">
+<a href="/theme/sex-ma0000005107">Sex</a>
+</li>
+<li class="last">
+<a href="/themes">All Themes</a>
+</li>
+</div>
+</ul> </div>
+</div>
+</ul> </li>
+<li class="blog">
+<a href="/blog">Articles</a>
+<ul>
+<div class="sub-nav-container clearfix">
+<div class="sub-nav-columns">
+<div class="blog-list">
+<li class="blog-features">
+<a href="/blog/features">Features</a>
+</li>
+<li class="blog-interviews">
+<a href="/blog/interviews-14">Interviews</a>
+</li>
+<li class="blog-lists">
+<a href="/blog/lists">Lists</a>
+</li>
+</div>
+<div class="blog-list">
+<li class="blog-stream">
+<a href="/blog/stream-and-download">Streams</a>
+</li>
+<li class="blog-promotions">
+<a href="/videos">Videos</a>
+</li>
+<li class="blog-all">
+<a href="/blog">All Posts</a>
+</li>
+</div>
+<div class="blog-subnav right">
+<div class="sub-nav-blog-content"></div>
+</div>
+</div>
+</div>
+</ul>
+</li>
+<li class="recommendations">
+<a href="/recommendations">Recommendations</a>
+</li>
+<li class="my-profile">
+<a class="my-profile-link" href="javascript:void(0)">My Profile</a>
+</li>
+<li class="advanced-search">
+<a class="advanced-search-link" href="/advanced-search">Advanced Search</a>
+</li>
+</ul>
+</nav>
+<div class="user-social-nav">
+<nav class="social-nav">
+<ul>
+<li class="facebook">
+<a alt="Like us on Facebook" href="http://www.facebook.com/AllMusicDotCom" title="Like us on Facebook">Facebook</a>
+</li>
+<li class="twitter">
+<a alt="Follow us on Twitter" href="https://twitter.com/#!/Allmusic" title="Follow us on Twitter">Twitter</a>
+</li>
+<li class="google-plus">
+<a alt="Follow us on Google+" href="https://plus.google.com/101788172919569561373/posts" title="Follow us on Google+">Google</a>
+</li>
+<li class="rss">
+<a alt="Subscribe to our RSS feed" href="/rss" target="_blank" title="Subscribe to our RSS feed">RSS</a>
+</li>
+</ul>
+</nav>
+<nav class="user-notifications">
+<ul>
+<li class="user-notification-icon">
+</li>
+</ul>
+</nav>
+<nav class="user-nav"></nav>
+</div>
+</div> </div>
+</div>
+<div id="cmn_wrap">
+<div class="content-container" itemscope="" itemtype="http://schema.org/MusicAlbum">
+<meta content="http://www.allmusic.com/album/shrek-2-mw0000333159" itemprop="url">
+<div class="sidebar">
+<div class="album-cover">
+<div class="album-contain">
+<img alt="Shrek 2" data-lightbox='{"image":{"height":489,"width":500,"formatid":16,"author":"","copyrightOwner":"","imageTypeId":0,"zoomLevel":null,"url":"http:\/\/cps-static.rovicorp.com\/3\/JPG_500\/MI0001\/993\/MI0001993795.jpg?partner=allrovi.com"}}' itemprop="image" src="http://cps-static.rovicorp.com/3/JPG_400/MI0001/993/MI0001993795.jpg?partner=allrovi.com" title="click to embiggen" width="303">
+</img></div>
+</div>
+<section class="discography-browser">
+</section>
+<div class="advertising medium-rectangle">
+<!-- 300x250 Ad Tag --> </div>
+<section class="basic-info">
+<div class="affiliates num-3">
+<h4>Stream or buy on:</h4>
+<ul class="partner-buttons">
+<li>
+<a class="amazon" data-target="amazon" href='http://www.amazon.com/s/?field-keywords=music: "Shrek%202" by "Original%20Soundtrack"&amp;tag=allmusicdotcom-20' title="Search on Amazon">
+                            Amazon
+                        </a>
+</li>
+<li>
+<a class="spotify" data-target="spotify" href="http://open.spotify.com/album/33uUYGGvdWXvBkQMQq9d9N" title="Stream from Spotify">
+                            Spotify
+                        </a>
+</li>
+<li>
+<a class="rdio" data-target="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Fwww.rdio.com%2Fartist%2FVarious_Artists%2Falbum%2FShrek_2%2F" title="Stream from Rdio">
+                            Rdio
+                        </a>
+</li>
+</ul>
+</div>
+<div class="release-date">
+<h4>Release Date</h4>
+<span>May 11, 2004</span>
+</div>
+<div class="duration">
+<h4>Duration</h4>
+<span>50:15</span>
+</div>
+<div class="genre">
+<h4>Genre</h4>
+<div>
+<a href="http://www.allmusic.com/genre/stage-screen-ma0000004432">Stage &amp; Screen</a> <a href="http://www.allmusic.com/genre/pop-rock-ma0000002613">Pop/Rock</a> <a href="http://www.allmusic.com/genre/r-b-ma0000002809">R&amp;B;</a> </div>
+</div>
+<div class="styles">
+<h4>Styles</h4>
+<div>
+<a href="http://www.allmusic.com/style/alternative-pop-rock-ma0000002422">Alternative Pop/Rock</a> <a href="http://www.allmusic.com/style/alternative-indie-rock-ma0000012230">Alternative/Indie Rock</a> <a href="http://www.allmusic.com/style/soundtracks-ma0000002867">Soundtracks</a> <a href="http://www.allmusic.com/style/teen-pop-ma0000002895">Teen Pop</a> <a href="http://www.allmusic.com/style/funk-ma0000002606">Funk</a> </div>
+</div>
+<a class="submit-corrections" href="http://www.allmusic.com/album/shrek-2-mw0000333159/corrections">Submit Corrections</a>
+</section>
+<section class="moods">
+<h4>Album Moods</h4>
+<div>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/bright-xa0000000952">Bright</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/energetic-xa0000000990">Energetic</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/fun-xa0000001006">Fun</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/amiable-good-natured-xa0000000934">Amiable/Good-Natured</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/playful-xa0000001067">Playful</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/dramatic-xa0000000708">Dramatic</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/exuberant-xa0000000997">Exuberant</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/lively-xa0000000726">Lively</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/passionate-xa0000001062">Passionate</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/rousing-xa0000000759">Rousing</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/summery-xa0000001116">Summery</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/warm-xa0000001138">Warm</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/boisterous-xa0000000699">Boisterous</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/humorous-xa0000000717">Humorous</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/campy-xa0000000955">Campy</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/ironic-xa0000000723">Ironic</a> </span>
+<span class="mood">
+<a href="http://www.allmusic.com/mood/stylish-xa0000001113">Stylish</a> </span>
+</div>
+</section>
+<section class="themes">
+<h4>Themes</h4>
+<div>
+<span class="theme">
+<a href="http://www.allmusic.com/theme/mischievous-ma0000006322">Mischievous</a> </span>
+<span class="theme">
+<a href="http://www.allmusic.com/theme/playful-ma0000006315">Playful</a> </span>
+<span class="theme">
+<a href="http://www.allmusic.com/theme/partying-ma0000004272">Partying</a> </span>
+</div>
+</section>
+<div class="advertising medium-rectangle-btf">
+ </div>
+</div>
+<div class="content">
+<header>
+<a class="audio-player large" data-sample-url="/album/MW0000333159/samples.json" href="#no-js">
+<canvas height="55" width="55"></canvas>
+</a>
+<hgroup>
+<h3 class="album-artist" id="album-artist-link" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+                Original Soundtrack            </span>
+</h3>
+<h2 class="album-title" itemprop="name">
+            Shrek 2        </h2>
+<a class="add-to-list-link" data-addtolist="addtolist" data-id="MW0000333159" href="javascript:void(0)"></a>
+<a class="add-to-collection-link" data-album="Shrek 2" data-artist="Original Soundtrack" data-id="MW0000333159" data-release-date="2004-05-11" href="javascript:void(0)"></a>
+<div class="tabletdummy"></div>
+</hgroup>
+<ul class="ratings" itemscope="" itemtype="http://schema.org/Rating">
+<li id="microdata-rating">
+<span>AllMusic Rating</span>
+<div class="allmusic-rating rating-allmusic-5" itemprop="ratingValue">
+                                    6                             </div>
+<meta content="AllMusic Rating" itemprop="name">
+<meta content="10" itemprop="bestRating">
+<meta content="1" itemprop="worstRating">
+</meta></meta></meta></li>
+<li class="average">
+<span>
+                User Ratings (<span class="average-user-rating-count" data-id="MW0000333159">0</span>)
+            </span>
+<div class="average-user-rating" data-id="MW0000333159"></div>
+</li>
+<li>
+<span>Your Rating</span>
+<div class="album-page-user-rating user-rating" data-artist="Original Soundtrack" data-id="MW0000333159" data-title="Shrek 2">
+</div>
+</li>
+</ul>
+</header>
+<ul class="tabs overview">
+<li class="tab overview" data-sections="review,tracks">
+<a href="/album/shrek-2-mw0000333159">
+                Overview
+                <span class="arrow">↓</span>
+</a>
+</li>
+<li class="tab credits">
+<a href="/album/shrek-2-mw0000333159/credits">
+                Credits
+                <span class="arrow">↓</span>
+</a>
+</li>
+<li class="tab awards">
+<a href="/album/shrek-2-mw0000333159/awards">
+                Awards
+                <span class="arrow">↓</span>
+</a>
+</li>
+<li class="tab releases">
+<a href="/album/shrek-2-mw0000333159/releases">
+                Releases
+                <span class="arrow">↓</span>
+</a>
+</li>
+<li class="tab similar">
+<a href="/album/shrek-2-mw0000333159/similar">
+                Similar Albums
+                <span class="arrow">↓</span>
+</a>
+</li>
+</ul>
+<div class="allmusic-share" data-sharemessage="Listen to Shrek 2 by Original Soundtrack - Album Reviews, Credits, and Awards - AllMusic - ">
+<p>
+        Share this page
+    </p>
+<ul class="share-menu">
+<li>
+<a class="share-button facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fshrek-2-mw0000333159" title="Share on Facebook">facebook</a>
+</li>
+<li>
+<a class="share-button twitter" href="http://twitter.com/share?url=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fshrek-2-mw0000333159&amp;text=Listen+to+Shrek+2+by+Original+Soundtrack+-+Album+Reviews%2C+Credits%2C+and+Awards+-+AllMusic+-+&amp;counturl=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fshrek-2-mw0000333159" title="Share on Twitter">twitter</a>
+</li>
+<li>
+<a class="share-button google-plus" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.allmusic.com%2Falbum%2Fshrek-2-mw0000333159" title="Share on Google+">google+</a>
+</li>
+<li>
+<a class="share-button email" href="#" title="Share via e-mail">email</a>
+</li>
+</ul>
+<div class="share-modal">
+<a class="close-button" title="close button"></a>
+<div class="share-frame"></div>
+</div>
+</div>
+<section class="review read-more" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<meta content="" itemprop="reviewRating" itemref="microdata-rating" itemscope="" itemtype="http://schema.org/Rating">
+<h4 class="review-author headline">
+            Review
+                            by <span itemprop="author">Heather Phares</span>
+</h4>
+<div class="text" itemprop="reviewBody">
+<p>
+                    Following in the footsteps of the original <a class="album-link" href="http://www.allmusic.com/album/shrek-mw0000004137">Shrek</a> soundtrack, <a class="album-link" href="http://www.allmusic.com/album/shrek-2-mw0000333159">Shrek 2</a> emphasizes the crossover potential of the movie and its music. Unfortunately, though, the album doesn't have as many surprises as its predecessor; none of the songs here have the same left-field feel as <a class="name-link" href="http://www.allmusic.com/artist/rufus-wainwright-mn0000854854">Rufus Wainwright</a>'s version of "Hallelujah" (or the <a class="name-link" href="http://www.allmusic.com/artist/john-cale-mn0000224638">John Cale</a> version that actually appeared in the film), although <a class="name-link" href="http://www.allmusic.com/artist/tom-waits-mn0000615119">Tom Waits</a>' mischievous, middle-of-the-night "Little Drop of Poison" and <a class="name-link" href="http://www.allmusic.com/artist/nick-cave-mn0000397880">Nick Cave</a>'s dignified ballad "People Ain't No Good" come close. On the other hand, <a class="album-link" href="http://www.allmusic.com/album/shrek-2-mw0000333159">Shrek 2</a> doesn't include anything as obnoxious or omnipresent as <a class="name-link" href="http://www.allmusic.com/artist/smash-mouth-mn0000029600">Smash Mouth</a>'s "All Star" or "I'm a Believer," although it does feature of plenty of covers, including <a class="name-link" href="http://www.allmusic.com/artist/frou-frou-mn0000988448">Frou Frou</a>'s odd techo-pop revision of <a class="name-link" href="http://www.allmusic.com/artist/bonnie-tyler-mn0000097173">Bonnie Tyler</a>'s "Holding Out for a Hero," which turns the song from a fun if overblown AOR anthem into a chilly yet slick lament. <a class="name-link" href="http://www.allmusic.com/artist/butterfly-boucher-mn0000629243">Butterfly Boucher</a>'s "Changes" and <a class="name-link" href="http://www.allmusic.com/artist/pete-yorn-mn0000844043">Pete Yorn</a>'s "Ever Fallen in Love," meanwhile, have the dubious distinction of being average renditions of great songs; not even <a class="name-link" href="http://www.allmusic.com/artist/david-bowie-mn0000531986">David Bowie</a>'s cameo on "Changes" can elevate it (although his duet with <a class="name-link" href="http://www.allmusic.com/artist/mick-jagger-mn0000892823">Mick Jagger</a> on "Dancin' in the Streets" remains his worst collaboration). And while <a class="name-link" href="http://www.allmusic.com/artist/eddie-murphy-mn0000142208">Eddie Murphy</a> and <a class="name-link" href="http://www.allmusic.com/artist/antonio-banderas-mn0000587204">Antonio Banderas</a>' version of "Livin' la Vida Loca" isn't as thorough a deconstruction of a <a class="name-link" href="http://www.allmusic.com/artist/ricky-martin-mn0000359026">Ricky Martin</a> song as <a class="name-link" href="http://www.allmusic.com/artist/william-hung-mn0000680119">William Hung</a>'s infamous "She Bangs" (or as funny -- albeit unintentionally so -- as his own single "Party All the Time"), it is a dose of silly fun on a soundtrack that is sorely lacking that quality. <a class="name-link" href="http://www.allmusic.com/artist/jennifer-saunders-mn0000265382">Jennifer Saunders</a>' "Fairy Godmother Song" -- which sounds like her Absolutely Fabulous character making up words to the Cinderella classic "Bibbidi Bobbidi Boo" -- and "Believe"-esque version of "Holding Out for a Hero" also liven up the soundtrack a bit. However, most of <a class="album-link" href="http://www.allmusic.com/album/shrek-2-mw0000333159">Shrek 2</a> features mopey love songs like <a class="name-link" href="http://www.allmusic.com/artist/dashboard-confessional-mn0000574102">Dashboard Confessional</a>'s "As Lovers Go [Ron Fair Remix]," <a class="name-link" href="http://www.allmusic.com/artist/the-eels-mn0000174752">the Eels</a>' "I Need Some Sleep," and <a class="name-link" href="http://www.allmusic.com/artist/rich-price-mn0000849357">Rich Price</a>'s "I'm on My Way"; they reflect the film's romantic misadventures between Shrek and Princess Fiona, but these songs don't make the soundtrack an especially fun listen, particularly considering that the movie is, ostensibly, first and foremost aimed at kids. But <a class="name-link" href="http://www.allmusic.com/artist/counting-crows-mn0000128495">Counting Crows</a>' "Accidentally in Love" -- which sounds like a cross between one of their old hits and <a class="name-link" href="http://www.allmusic.com/artist/the-bodeans-mn0000047789">the BoDeans</a>' "Closer to Free" -- and <a class="name-link" href="http://www.allmusic.com/artist/joseph-arthur-mn0000224925">Joseph Arthur</a>'s "You're So True" are aimed at those kids' older siblings and parents, making <a class="album-link" href="http://www.allmusic.com/album/shrek-2-mw0000333159">Shrek 2</a> a lukewarm compromise that isn't likely to satisfy either audience.                 </p>
+</div>
+</meta></section>
+<section class="track-listing">
+<div class="disc">
+<div class="headline">
+<h3>
+                        Track Listing
+                                            </h3>
+</div>
+<table>
+<thead>
+<tr>
+<th class="pick-prefix"></th>
+<th class="sample">Sample</th>
+<th class="tracknum"><!-- Track #--></th>
+<th class="title-composer">Title/Composer</th>
+<th class="performer">Performer</th>
+<th class="time">Time</th>
+<th class="stream">Stream</th>
+<th class="pick-suffix"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="track pick" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=NApw-F75mJAfjbB0parxGoapJnH0KBK7tayJ1L1z1aM=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    1                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/accidentally-in-love-mt0013767765" itemprop="url">Accidentally in Love</a>
+<a href="/song/accidentally-in-love-mt0013767765" title="Accidentally in Love">
+<img alt="song review" src="http://assets.allmusic.com/images/review_icon.png" title="song review">
+</img></a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/adam-duritz-mn0000594637">Adam Duritz</a> / <a href="http://www.allmusic.com/artist/david-immergl%C3%BCck-mn0000218568">David Immerglück</a> / <a href="http://www.allmusic.com/artist/matthew-malley-mn0001486946">Matthew Malley</a> / <a href="http://www.allmusic.com/artist/dan-vickrey-mn0000737634">Dan Vickrey</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/counting-crows-mn0000128495">Counting Crows</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            3:08                                        <meta content="PT3M8S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a alt="Stream from Spotify" class="spotify" href="http://open.spotify.com/track/1hy6Dic0L5SU1XqjhYY1TR" title="Stream from Spotify">Spotify</a><a class="empty rdio" href="javascript:void(0)"></a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=NApw-F75mJAfjbB0parxGqwfpsQHuOlGC4-o-yXc8Os=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    2                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/holding-out-for-a-hero-mt0033909940" itemprop="url">Holding Out for a Hero</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/dean-pitchford-mn0000230965">Dean Pitchford</a> / <a href="http://www.allmusic.com/artist/jim-steinman-mn0000852399">Jim Steinman</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/frou-frou-mn0000988448">Frou Frou</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            3:22                                        <meta content="PT3M22S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a alt="Stream from Spotify" class="spotify" href="http://open.spotify.com/track/6Ow43CAv1LeAg8ouEvB8pb" title="Stream from Spotify">Spotify</a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQito45U%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=NApw-F75mJAfjbB0parxGvKUU23ZQzDPVjJ3ONioHGo=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    3                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/changes-mt0034558056" itemprop="url">Changes</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/david-bowie-mn0000531986">David Bowie</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/butterfly-boucher-mn0000629243">Butterfly Boucher</a> / <a href="http://www.allmusic.com/artist/david-bowie-mn0000531986">David Bowie</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            3:22                                        <meta content="PT3M22S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a alt="Stream from Spotify" class="spotify" href="http://open.spotify.com/track/29eyZx4eRXMaZc4y95g0Oq" title="Stream from Spotify">Spotify</a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQito470%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=NApw-F75mJAfjbB0parxGvh0BJxFGWncDvRkmPV4knk=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    4                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/as-lovers-go-mt0013760826" itemprop="url">As Lovers Go</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/chris-carrabba-mn0000719043">Chris Carrabba</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/dashboard-confessional-mn0000574102">Dashboard Confessional</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            3:29                                        <meta content="PT3M29S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a class="empty spotify" href="javascript:void(0)"></a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQito4mc%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=NApw-F75mJAfjbB0parxGjqpU4hxl5saPDaNIVORh-E=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    5                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/funkytown-mt0034834623" itemprop="url">Funkytown</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/steven-greenberg-mn0000050197">Steven Greenberg</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/lipps-inc-mn0000243932">Lipps, Inc.</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            3:59                                        <meta content="PT3M59S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a class="empty spotify" href="javascript:void(0)"></a><a class="empty rdio" href="javascript:void(0)"></a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=NApw-F75mJAfjbB0parxGs2KXJKuJLE7UG4BJXcyKZ4=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    6                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/im-on-my-way-mt0013766993" itemprop="url">I'm on My Way</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/rich-price-mn0000849357">Rich Price</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/rich-price-mn0000849357">Rich Price</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            3:21                                        <meta content="PT3M21S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a alt="Stream from Spotify" class="spotify" href="http://open.spotify.com/track/4dASEwLjpzQHpSmV1dsunZ" title="Stream from Spotify">Spotify</a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQito4j8%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=NApw-F75mJAfjbB0parxGmjIb8Tr8vVfGLIuM5x_WSg=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    7                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/i-need-some-sleep-mt0013768135" itemprop="url">I Need Some Sleep</a>
+</div>
+<div class="composer">
+</div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/eels-mn0000174752">Eels</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            2:28                                        <meta content="PT2M28S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a class="empty spotify" href="javascript:void(0)"></a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQito4uU%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=NApw-F75mJAfjbB0parxGvQIxMnXLaW9NvEpt_rvU6E=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    8                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/ever-fallen-in-love-mt0031702109" itemprop="url">Ever Fallen in Love</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/pete-shelley-mn0000267571">Pete Shelley</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/pete-yorn-mn0000844043">Pete Yorn</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            2:32                                        <meta content="PT2M32S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a alt="Stream from Spotify" class="spotify" href="http://open.spotify.com/track/4bWaxaO0FV62KWIPVjyBBs" title="Stream from Spotify">Spotify</a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQivQnSs%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track pick" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=NApw-F75mJAfjbB0parxGv3pqi0RS20pHqZddGAWQOA=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    9                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/little-drop-of-poison-mt0013763635" itemprop="url">Little Drop of Poison</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/kathleen-brennan-mn0000306103">Kathleen Brennan</a> / <a href="http://www.allmusic.com/artist/tom-waits-mn0000615119">Tom Waits</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/tom-waits-mn0000615119">Tom Waits</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            3:11                                        <meta content="PT3M11S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a alt="Stream from Spotify" class="spotify" href="http://open.spotify.com/track/29vOjd27neRDp4UCglkvLa" title="Stream from Spotify">Spotify</a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQivQnTI%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=1k71FqjHv5F1qvINXcgUt5jWf7KriH64XH0cLbjLrOY=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    10                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/youre-so-true-mt0028424898" itemprop="url">You're So True</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/joseph-arthur-mn0000224925">Joseph Arthur</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/joseph-arthur-mn0000224925">Joseph Arthur</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            3:55                                        <meta content="PT3M55S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a alt="Stream from Spotify" class="spotify" href="http://open.spotify.com/track/561hEBqGR0vZpKTR2nNSog" title="Stream from Spotify">Spotify</a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQito4oI%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=1k71FqjHv5F1qvINXcgUt4apJnH0KBK7tayJ1L1z1aM=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    11                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/people-aint-no-good-mt0013768123" itemprop="url">People Ain't No Good</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/nick-cave-mn0000397880">Nick Cave</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/nick-cave-the-bad-seeds-mn0000866271">Nick Cave &amp; the Bad Seeds</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            5:39                                        <meta content="PT5M39S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a alt="Stream from Spotify" class="spotify" href="http://open.spotify.com/track/6K4nUcYGGovTL44WPaQXe4" title="Stream from Spotify">Spotify</a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQivQnTU%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=1k71FqjHv5F1qvINXcgUt6wfpsQHuOlGC4-o-yXc8Os=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    12                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/fairy-godmother-song-mt0013760337" itemprop="url">Fairy Godmother Song</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/andrew-adamson-mn0001457049">Andrew Adamson</a> / <a href="http://www.allmusic.com/artist/stephen-barton-mn0001450454">Stephen Barton</a> / <a href="http://www.allmusic.com/artist/harry-gregson-williams-mn0000664429">Harry Gregson-Williams</a> / <a href="http://www.allmusic.com/artist/dave-smith-mn0000958561">Dave Smith</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/jennifer-saunders-mn0000265382">Jennifer Saunders</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            1:52                                        <meta content="PT1M52S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a alt="Stream from Spotify" class="spotify" href="http://open.spotify.com/track/4I3vLHBUK6ph0Q1H2JOON6" title="Stream from Spotify">Spotify</a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQivQnTg%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track pick" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=1k71FqjHv5F1qvINXcgUt_KUU23ZQzDPVjJ3ONioHGo=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    13                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/livin-la-vida-loca-mt0013766373" itemprop="url">Livin' la Vida Loca</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/desmond-child-mn0000253048">Desmond Child</a> / <a href="http://www.allmusic.com/artist/robi-rosa-mn0000295970">Robi Rosa</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/antonio-banderas-mn0000587204">Antonio Banderas</a> / <a href="http://www.allmusic.com/artist/eddie-murphy-mn0000142208">Eddie Murphy</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            3:29                                        <meta content="PT3M29S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a alt="Stream from Spotify" class="spotify" href="http://open.spotify.com/track/7EU5JRNujZK6FttnNvRKHx" title="Stream from Spotify">Spotify</a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQito4qo%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+<tr class="track" itemprop="track" itemscope="" itemtype="http://schema.org/MusicRecording">
+<td class="pick-prefix"></td>
+<td class="sample">
+<a class="audio-player" data-sample-url="http://rovimusic.rovicorp.com/playback.mp3?c=1k71FqjHv5F1qvINXcgUt_h0BJxFGWncDvRkmPV4knk=&amp;f=J" href="#no-js">
+<canvas height="30" width="30"></canvas>
+</a>
+</td>
+<td class="tracknum">
+                                    14                                </td>
+<td class="title-composer">
+<div class="title" itemprop="name">
+<a href="http://www.allmusic.com/song/holding-out-for-a-hero-mt0013775521" itemprop="url">Holding Out for a Hero</a>
+</div>
+<div class="composer">
+<a href="http://www.allmusic.com/artist/dean-pitchford-mn0000230965">Dean Pitchford</a> / <a href="http://www.allmusic.com/artist/jim-steinman-mn0000852399">Jim Steinman</a> </div>
+</td>
+<td class="performer" itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+<span itemprop="name">
+<div class="primary">
+<a href="http://www.allmusic.com/artist/jennifer-saunders-mn0000265382">Jennifer Saunders</a> </div>
+</span>
+</td>
+<td class="time">
+                                                                            6:28                                        <meta content="PT6M28S" itemprop="duration">
+</meta></td>
+<td class="stream">
+<a alt="Stream from Spotify" class="spotify" href="http://open.spotify.com/track/6Ow43CAv1LeAg8ouEvB8pb" title="Stream from Spotify">Spotify</a><a alt="Stream from Rdio" class="rdio" href="http://click.linksynergy.com/fs-bin/click?id=KteTUsO0Zkw&amp;subid=&amp;offerid=221756.1&amp;type=10&amp;tmpid=7950&amp;RD_PARM1=http%3A%2F%2Frd.io%2Fx%2FQivQnT0%2F" title="Stream from Rdio">Rdio</a><a class="empty mog" href="javascript:void(0)"></a> </td>
+<td class="pick-suffix"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<span class="note">blue highlight denotes track pick</span>
+</section>
+</div>
+</meta></div>
+<div class="stripe-container footer-leaderboard">
+<div class="advertising leaderboard">
+ </div>
+</div>
+<div class="stripe-container footer-container">
+<footer>
+<div class="other-sites">
+<a href="http://www.allmusic.com/" title="AllMusic - Albums and Artist Database - Music Search, Guide, Recommendations, Videos and Reviews">AllMusic</a>  | 
+                <a href="http://www.allmovie.com/" title="AllMovie - Movies and Films Database - Movie Search, Guide, Recommendations, and Reviews">AllMovie</a>  | 
+                <a href="http://www.sidereel.com/" title="SideReel - Watch TV &amp; Movies Online | Episodes, Seasons, Series | SideReel">SideReel</a>  | 
+                <a href="http://www.celebified.com/" title="Celebified - Celebrity news, watch videos, get tv info">Celebified</a>
+</div>
+<div class="corporate-links">
+<a href="/copyright-policy" title="AllMusic - Copyright Policy &amp; Intellectual Property Rights">Copyright Policy</a>  | 
+                <a href="/about" title="AllMusic About">About</a>  | 
+                <a href="/faq" title="AllMusic FAQ">FAQ</a>  | 
+                <a class="getSatisfactionLink" href="https://getsatisfaction.com/allmedianetwork/categories/allmedianetwork_allmusic" title="AllMusic Customer Community">Feedback</a><span class="line-one">  | </span>
+<a href="/advertise" title="AllMusic Advertising Network"><br class="mobile-break">Advertise</br></a>  | 
+                <a href="/privacy-policy" title="AllMusic Privacy Policy">Privacy Policy</a>  | 
+                <a href="/terms-of-service" title="AllMusic Terms of Service">Terms of Service</a>
+</div>
+<div class="copyright">
+                ©2015 AllMusic, a division of All Media Network, LLC.<span class="line-two">  |  </span><br class="mobile-break">All Rights Reserved
+        </br></div>
+</footer>
+</div> 
+
+
+
+
+
+
+<!-- BEGIN GetSat -->
+
+
+<!-- END GetSat -->
+<!-- Begin comScore Tag -->
+
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=17343944&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+</div>
+</div>
+<!-- Footer Ad Tag -->
+ </body>
+</html>

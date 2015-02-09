@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title data-bind="text:pageTitle">Australian Bee Gees show comes to Cleveland's PlayhouseSquare - News Leader | Nordonia Hills, Summit County, OH</title>
+<meta content="authenticity_token" name="csrf-param"/>
+<meta content="3zopz3E42t2hLufgpLiW2Pno4O5TLmNaoJA10h30H0A=" name="csrf-token"/>
+<meta content="/entertainment/2015/02/07/australian-bee-gees-show-comes-to-cleveland-s-playhousesquare" name="description">
+<meta content="News Leader" property="og:site_name">
+<meta content="Australian Bee Gees show comes to Cleveland's PlayhouseSquare" property="og:title">
+<meta content="http://www.the-news-leader.com/entertainment/2015/02/07/australian-bee-gees-show-comes-to-cleveland-s-playhousesquare" property="og:url">
+<meta content="http://s3.amazonaws.com/newscloud-production/the-news-leader/2015/02/54d545622d61283d16007c62/photos/ken9629886/gallery.jpg?1423263083" property="og:image">
+<meta content="authenticity_token" name="csrf-param"/>
+<link data-bind="attr: { href: canonicalUrl }" href="http://www.the-news-leader.com/entertainment/2015/02/07/australian-bee-gees-show-comes-to-cleveland-s-playhousesquare" id="canonical" rel="canonical"/>
+<link href="/assets/application-07bdd0e876dc94cccf55ea7263ea36b1.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Patua+One" media="screen" rel="stylesheet" type="text/css"/>
+
+
+<!--[if lt IE 9]>
+      <script src='https://html5shiv.googlecode.com/svn/trunk/html5.js'></script>
+      <link href="/assets/ie8-59a0bfdc1c3d99577ca8b766b00beb92.css" media="screen" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+
+
+<link href="/feed" rel="alternate" title="ATOM" type="application/atom+xml"/>
+<link href="/feed.rss" rel="alternate" title="RSS" type="application/rss+xml"/>
+</meta></meta></meta></meta></meta></head>
+<body style="background-image: url('http://s3.amazonaws.com/newscloud-production/the-news-leader/backgrounds/50b7b1e4760d5422e3000279/NLWallpaper/original.jpeg?1354215907');">
+<div id="wrapper">
+<header>
+<div class="has-border" id="nc-header-ads">
+<div class="leaderboard"><div class="centered-ad" id="clouds_50b2e05b7fd0dc5bec00022b">
+
+</div></div>
+<div class="button"><div class="centered-ad" id="clouds_50b2e05b7fd0dc5bec00022a">
+
+</div></div>
+<div class="buttom last"><div class="centered-ad" id="clouds_50b2e05b7fd0dc5bec000229">
+
+</div></div>
+</div>
+<section class="has-border" id="header">
+<div id="header-holder">
+<div id="logo">
+<a href="http://www.the-news-leader.com/"><img alt="News Leader" src="/assets/logos/the-news-leader-6dc43af0096a0f0c8dd6ee0c3250157b.png"/></a>
+</div>
+<div id="search-and-date">
+<img height="1" src="http://i.simpli.fi/dpx?cid=15019&amp;action=100&amp;segment=thenewsleader&amp;sifi_tuid=1540" width="1">
+<time datetime="2015-02-09T18:49:04-05:00">Monday, February 09 2015 06:49 PM</time>
+<form accept-charset="UTF-8" action="http://www.the-news-leader.com/search" class="search" id="site-search-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="3zopz3E42t2hLufgpLiW2Pno4O5TLmNaoJA10h30H0A="/></div>
+<p>
+<input class="search-box" id="term" name="term" type="text"/>
+<input class="search-submit" name="commit" type="submit" value="Search Articles"/>
+</p>
+</form> </img></div>
+<div id="social-media">
+<div id="welcome">
+<div id="authentication">
+<a data-bind="attr: { href: 'http://www.the-news-leader.com/users/sign_in' }, visible: window.authenticationView.currentReader().loggedOut()" href="http://www.the-news-leader.com/users/sign_in" id="sign-in">sign in</a>
+<p data-bind="visible: window.authenticationView.currentReader().loggedIn()">
+<a data-bind="click:logout" href="http://www.the-news-leader.com/users/sign_out" id="sign-out">sign out</a>
+    Welcome,<br><strong data-bind="text:window.authenticationView.currentReader().fullName"></strong>
+<em style="text-transform: lowercase;"><a href="http://www.the-news-leader.com/users/edit" id="edit-registration" style="text-decoration: none;">(edit)</a></em>
+</br></p>
+</div>
+
+</div>
+<ul>
+<li><label>Connect with us</label></li>
+<li class="facebook-icon">
+<a href="http://www.facebook.com/RPCNewsLeader" target="_blank">facebook</a>
+</li>
+<li class="twitter-icon">
+<a href="http://www.twitter.com/thenewsleader" target="_blank">twitter</a>
+</li>
+<li class="youtube-icon">
+<a href="http://www.youtube.com/northfieldnewsleader" target="_blank">youtube</a>
+</li>
+<li class="rss-icon">
+<a href="/feed.rss" target="_blank">rss</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+
+<nav id="navigation">
+<ul class="nav-menu">
+<li class="non-mega">
+<a href="/" target="_parent">Home</a>
+</li>
+<li class="mega">
+<a href="#" target="_parent">News</a>
+</li>
+<li class="mega">
+<a href="#" target="_parent">Events</a>
+</li>
+<li class="non-mega">
+<a href="/e-edition" target="_parent">E-Edition</a>
+</li>
+<li class="non-mega">
+<a href="http://realestate.the-news-leader.com/" target="_blank">Real Estate</a>
+</li>
+<li class="non-mega">
+<a href="http://recordpub.ohiojobsfinder.com/" target="_blank">Jobs</a>
+</li>
+<li class="non-mega">
+<a href="http://www.ohioautofinder.com/" target="_blank">Autos</a>
+</li>
+<li class="non-mega">
+<a href="/classifieds" target="_parent">Classifieds</a>
+</li>
+<li class="mega">
+<a href="#" target="_parent">Links</a>
+</li>
+<li class="mega">
+<a href="#" target="_parent">Services</a>
+</li>
+<li class="non-mega">
+<a href="/subscriptions/new" target="_parent">Subscribe</a>
+</li>
+</ul>
+<div class="megamenu">
+</div>
+<div class="megamenu">
+<nav class="col">
+<ul id="50b2e05a7fd0dc5bec00021a">
+<li id="links_50b8caed760d545f670001ee">
+<a href="/news%20local" target="_parent">Local News</a>
+</li> <li id="links_50b8cafe760d545f670001f0">
+<a href="/opinion" target="_parent">Opinion</a>
+</li> <li id="links_50b8cb19760d5455980000c6">
+<a href="/entertainment" target="_parent">Local Entertainment</a>
+</li> <li id="links_50b8cb24760d545f670001f6">
+<a href="/obituaries" target="_parent">Obituaries</a>
+</li> <li id="links_50b8cb31760d5455910001c2">
+<a href="/blotter" target="_parent">Police News</a>
+</li> <li id="links_50be008ed456532a39000136">
+<a href="/community" target="_parent">Community</a>
+</li> <li id="links_511a60d9760d547739000101">
+<a href="/regional" target="_parent">Region and State</a>
+</li></ul>
+</nav>
+<nav class="col">
+<ul id="50b2e05a7fd0dc5bec00021b">
+<li id="links_50b8cb47760d545f670001fe">
+<a href="/church" target="_parent">Local Worship</a>
+</li> <li id="links_50b8cb53760d5455980000ca">
+<a href="/business" target="_parent">Local Business</a>
+</li> <li id="links_50b8cb5e760d5455980000cb">
+<a href="/education" target="_parent">Local Education</a>
+</li> <li id="links_50be00acd456532a39000140">
+<a href="/society" target="_parent">Life and Times</a>
+</li> <li id="links_50c09b85d456535e6a000013">
+<a href="/sports" target="_parent">Local Sports</a>
+</li> <li id="links_53c41c802b2290158c00001a">
+<a href="http://hosted2.ap.org/OHRAV/NorthfieldAPState" target="_blank">Ohio News</a>
+</li> <li id="links_53c41c8b2b2290158c00001b">
+<a href="http://hosted2.ap.org/OHRAV/NorthfieldAPGeneralNews" target="_blank">National News</a>
+</li> <li id="links_53c41c962b2290158c00001c">
+<a href="http://hosted2.ap.org/OHRAV/NorthfieldAPSports" target="_blank">National Sports</a>
+</li> <li id="links_53c41ca72b2290158c00001d">
+<a href="http://publicnoticesohio.com/" target="_blank">Ohio Public Notices</a>
+</li></ul>
+</nav>
+<nav class="col">
+<ul id="50b2e05a7fd0dc5bec00021d">
+<li id="links_50b8cb83760d545f67000208">
+<a href="http://recordpub.qrsite.com/esection.php?sect=88&amp;164" target="_blank">All About Weddings</a>
+</li> <li id="links_50b8cb8f760d545f6700020e">
+<a href="http://recordpub.qrsite.com/esection.php?sect=78" target="_blank">All About Lawn &amp; Garden</a>
+</li> <li id="links_50b8cb9d760d5455980000cd">
+<a href="http://recordpub.qrsite.com/esection.php?sect=90&amp;164" target="_blank">All About Dining, Entertaining and Celebrations</a>
+</li> <li id="links_53c42a132b2290158c000033">
+<a href="http://recordpub.qrsite.com/esection.php?sect=84" target="_blank">All About Health &amp; Wellness</a>
+</li> <li id="links_53c4294c3ffa22d2a0000092">
+<a href="http://recordpub.qrsite.com/esection.php?sect=77" target="_blank">All About Pets</a>
+</li> <li id="links_53c42a222b2290c4a6000066">
+<a href="http://recordpub.qrsite.com/esection.php?sect=74" target="_blank">All About Living 50 Plus</a>
+</li></ul>
+</nav>
+</div>
+<div class="megamenu">
+<nav class="col">
+<ul id="50b2e05a7fd0dc5bec00021c">
+<li id="links_50b8cbbb760d545f6700021b">
+<a href="/events" target="_parent">Events Calendar</a>
+</li> <li id="links_50b8cbc4760d545f6700021d">
+<a href="https://www.spingo.com/submit?AffiliateID=448" target="_blank">Submit Event</a>
+</li></ul>
+</nav>
+<nav class="col">
+<ul id="51e6c87a789986828d000061">
+<li id="links_51e6c8907899864e0f00001b">
+<a href="http://www.clevelandart.org/" target="_blank">Cleveland Museum of Art</a>
+</li> <li id="links_51e6c89c7899864e0f00001d">
+<a href="http://www.kent.edu/blossom/index.cfm" target="_blank">Kent/Blossom Music Festival</a>
+</li> <li id="links_51e6c8a97899864e0f000020">
+<a href="http://www.kent.edu/museum/index.cfm" target="_blank">Kent State University Museum</a>
+</li> <li id="links_51e6c8b8789986d1d400002c">
+<a href="http://akronartmuseum.org/" target="_blank">Akron Art Museum</a>
+</li></ul>
+</nav>
+</div>
+<div class="megamenu">
+</div>
+<div class="megamenu">
+</div>
+<div class="megamenu">
+</div>
+<div class="megamenu">
+</div>
+<div class="megamenu">
+</div>
+<div class="megamenu">
+<nav class="col">
+<ul id="50b2e05a7fd0dc5bec000222">
+<li id="links_50b8d3c7d4565333a40001bc">
+<a href="http://www.recordpub.com" target="_parent">Record-Courier</a>
+</li> <li id="links_50b8d3d1d4565333a40001be">
+<a href="http://www.stowsentry.com" target="_parent">Stow Sentry</a>
+</li> <li id="links_50b8d3dad4565333a40001c2">
+<a href="http://www.tallmadgeexpress.com" target="_parent">Tallmadge Express</a>
+</li> <li id="links_50b8d3e0d4565333a40001c4">
+<a href="http://www.twinsburgbulletin.com" target="_parent">Twinsburg Bulletin</a>
+</li> <li id="links_50b8d3ead4565333a40001c6">
+<a href="http://www.fallsnewspress.com" target="_parent">Cuyahoga Falls News-Press</a>
+</li> <li id="links_50b8d3f1d4565333a40001c8">
+<a href="http://www.hudsonhubtimes.com" target="_parent">Hudson Hub-Times</a>
+</li> <li id="links_50b8d3f9d4565333a40001cb">
+<a href="http://www.thegatewaynews.com" target="_parent">Streetsboro Gateway News</a>
+</li> <li id="links_50b8d3ffd4565333a40001cd">
+<a href="http://www.auroraadvocate.com" target="_parent">Aurora Advocate</a>
+</li> <li id="links_5138a90cd456536fc800001b">
+<a href="http://www.dixcom.com/" target="_parent">Dix Communications</a>
+</li> <li id="links_5138a914d45653633e0000f0">
+<a href="http://www.gasandoilmag.com/" target="_blank">Gas &amp; Oil Magazine</a>
+</li> <li id="links_515c1d381cee60fe88000005">
+<a href="http://www.goodtimesohio.com" target="_parent">Good Times in Ohio</a>
+</li> <li id="links_5373aec23ffa2268ba000019">
+<a href="http://www.fullspectrummarketing.com/" target="_blank">Full Spectrum Marketing</a>
+</li> <li id="links_53c41d2f2b2290158c00001e">
+<a href="http://publicnoticesohio.com/" target="_blank">Ohio Public Notices</a>
+</li></ul>
+</nav>
+<nav class="col">
+<ul id="50b2e05a7fd0dc5bec000220">
+<li id="links_50b8d418d4565333a40001d0">
+<a href="http://recordpub.qrsite.com/esection.php?sect=88&amp;164" target="_blank">All About Weddings</a>
+</li> <li id="links_50b8d42ed4565333a40001d4">
+<a href="http://recordpub.qrsite.com/esection.php?sect=78" target="_blank">All About Lawn &amp; Garden</a>
+</li> <li id="links_50b8d43ed4565333a40001d8">
+<a href="http://recordpub.qrsite.com/esection.php?sect=90&amp;164" target="_blank">All About Dining, Entertaining and Celebrations</a>
+</li> <li id="links_53c4291c3ffa22d2a0000090">
+<a href="http://recordpub.qrsite.com/esection.php?sect=84" target="_blank">All About Health &amp; Wellness</a>
+</li> <li id="links_53c429f12b2290c4a6000065">
+<a href="http://recordpub.qrsite.com/esection.php?sect=77" target="_blank">All About Pets</a>
+</li> <li id="links_53c4292b3ffa22d2a0000091">
+<a href="http://recordpub.qrsite.com/esection.php?sect=74" target="_blank">All About Living 50 Plus</a>
+</li></ul>
+</nav>
+</div>
+<div class="megamenu">
+<nav class="col">
+<ul id="50b2e05a7fd0dc5bec00021e">
+<li id="links_50b8ccb8760d545f67000236">
+<a href="https://ravenna.onlineads.advpubtech.com/placead" target="_parent">Place a Classified Ad</a>
+</li> <li id="links_50b8ccc4760d545f67000239">
+<a href="/static/advertise" target="_parent">Advertise</a>
+</li> <li id="links_50b8ccce760d545f6700023b">
+<a href="https://www.spingo.com/submit?AffiliateID=448" target="_blank">Submit Event</a>
+</li> <li id="links_50b8ccd5760d545f6700023d">
+<a href="/terms_of_service" target="_parent">Terms of Service</a>
+</li> <li id="links_50b8cce0760d545f6700023f">
+<a href="http://www.dixcom.com/" target="_parent">Dix Communications</a>
+</li> <li id="links_50bcaf43760d540991000141">
+<a href="/subscriptions/new" target="_parent">Subscribe</a>
+</li> <li id="links_5373aed63ffa229146000037">
+<a href="http://www.fullspectrummarketing.com/" target="_blank">Full Spectrum Marketing</a>
+</li></ul>
+</nav>
+<nav class="col">
+<ul id="50b2e05a7fd0dc5bec000223">
+<li id="links_50b8ceecd4565333ea0000e2">
+<a href="/forms/50b2de777fd0dc5bec000038" target="_parent">Anniversary Announcement</a>
+</li> <li id="links_50b8cf01d4565333ea0000e4">
+<a href="/forms/50b2de777fd0dc5bec000039" target="_parent">Birth Announcement</a>
+</li> <li id="links_50b8cf12d4565333ea0000e6">
+<a href="/forms/50b2de777fd0dc5bec00003a" target="_parent">Birthday Announcement</a>
+</li> <li id="links_50b8cf24760d545f6700026f">
+<a href="/forms/50b2de777fd0dc5bec00003d" target="_parent">Engagement Announcement</a>
+</li> <li id="links_50b8cf35d4565333ea0000e8">
+<a href="/forms/50b2de777fd0dc5bec00003e" target="_parent">Letter to the Editor</a>
+</li> <li id="links_50b8cf86760d545598000106">
+<a href="/forms/50b2de777fd0dc5bec00003c" target="_parent">Reunion Announcement</a>
+</li> <li id="links_50b8cf9ad4565333ea0000f5">
+<a href="/forms/50b2de777fd0dc5bec000040" target="_parent">Website Feedback</a>
+</li> <li id="links_50b8cfa7760d54559800010a">
+<a href="/forms/50b2de777fd0dc5bec00003b" target="_parent">Wedding Announcement</a>
+</li> <li id="links_511530f1760d546ee2000159">
+<a href="/forms/5115303e760d5475d1000188" target="_parent">New Business</a>
+</li></ul>
+</nav>
+<nav class="col">
+<ul id="50b2e05a7fd0dc5bec00021f">
+<li id="links_50b8cfbbd4565333ab0002e0">
+<a href="/articles/new" target="_parent">Submit Citizen News</a>
+</li> <li id="links_50b8d396d4565333a40001b2">
+<a href="/citizen%20news" target="_parent">Citizen News</a>
+</li> <li id="links_50b8d3a3d4565333a40001b4">
+<a href="/citizen%20opinion" target="_parent">Citizen Opinion</a>
+</li> <li id="links_50b8d3abd4565333a40001b6">
+<a href="http://www.marketplaceohio.com" target="_parent">MarketPlace Ohio</a>
+</li> <li id="links_50b8d3b3d4565333a40001b8">
+<a href="http://www.discountguru.com" target="_parent">Discount Guru</a>
+</li></ul>
+</nav>
+</div>
+<div class="megamenu">
+</div>
+</nav>
+</header>
+<link href="/assets/print/print_non_modal_article-515b8924da96c9a555e52cf31eb15ae3.css" media="print" rel="stylesheet" type="text/css"/>
+<div class="has-border">
+<div class="article-non-modal holder" id="54d545622d61283d16007c62">
+<div class="flash-messages">
+</div>
+<div id="content-header">
+<div id="addthis">
+<div addthis:url="http://www.the-news-leader.com/entertainment/2015/02/07/australian-bee-gees-show-comes-to-cleveland-s-playhousesquare" class="addthis_toolbox"></div>
+</div>
+
+</div>
+<div id="sidebar">
+<div class="gallery">
+<div class="main-image">
+<a class="highslide" href="http://s3.amazonaws.com/newscloud-production/the-news-leader/2015/02/54d545622d61283d16007c62/photos/ken9629886/original.jpg?1423263083" onclick="return hs.expand(this)"><img alt="Australian Bee Gees" border="0" src="http://s3.amazonaws.com/newscloud-production/the-news-leader/2015/02/54d545622d61283d16007c62/photos/ken9629886/gallery.jpg?1423263083"/></a>
+</div>
+<a class="image" data-original-image="http://s3.amazonaws.com/newscloud-production/the-news-leader/2015/02/54d545622d61283d16007c62/photos/ken9629886/original.jpg?1423263083" href="http://s3.amazonaws.com/newscloud-production/the-news-leader/2015/02/54d545622d61283d16007c62/photos/ken9629886/gallery.jpg?1423263083"><img alt="Australian Bee Gees" class="thumb" src="http://s3.amazonaws.com/newscloud-production/the-news-leader/2015/02/54d545622d61283d16007c62/photos/ken9629886/gallery_thumb.jpg?1423263083"/></a>
+</div>
+<div class="youtube"></div>
+<br>
+<div class="ad">
+<div class="centered-ad" id="clouds_50b2e05b7fd0dc5bec000225">
+
+</div>
+<div class="centered-ad" id="clouds_50b2e05b7fd0dc5bec000228">
+
+</div>
+<div class="centered-ad" id="clouds_50c89e63d4565323910000c9">
+
+</div>
+</div>
+</br></div>
+<div id="text">
+<h1>Australian Bee Gees show comes to Cleveland's PlayhouseSquare</h1>
+<p class="article-time">
+<span></span>
+<span>Published: </span><time datetime="2015-02-09T00:00:00-05:00">February 9, 2015 12:00AM</time>
+</p>
+<div class="content"><p>The Australian Bee Gees Show, a celebration and multi-media theatrical interpretation of one of the most influential and famous musical groups of all time makes its debut appearance in Cleveland Feb.18 at Playhouse Square's State Theatre.</p>
+<p>Having performed in more than 40 countries, the show was courted by Las Vegas where it premiered in February 2011 as a resident show to the tune of a multi-year contract.</p>
+<p>The Bee Gees record-breaking music is captured on stage with mesmerizing accuracy in sound and mannerisms as it travels on a nostalgic trip through the legacy of the Bee Gees while celebrating more than four decades of the infectious music written by the Gibb Brothers.</p>
+</div>
+<div id="commenting">
+<h3>Want to leave your comments?</h3>
+<p>
+<a data-bind="attr: { href: 'http://www.the-news-leader.com/users/sign_in' }" href="http://www.the-news-leader.com/users/sign_in" id="sign-in-to-comment">Sign in</a> or
+      <a data-bind="attr: { href: 'http://www.the-news-leader.com/users/sign_up' }" href="http://www.the-news-leader.com/users/sign_up" id="register-to-comment">Register</a>
+      to comment.
+    </p>
+</div>
+</div>
+</div></div>
+<footer class="has-border clearfix">
+<div class="holder">
+<form accept-charset="UTF-8" action="/search" class="search" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="3zopz3E42t2hLufgpLiW2Pno4O5TLmNaoJA10h30H0A="/></div>
+<p>
+<input class="search-box" id="query" name="query" type="text" value=""/>
+<input class="search-submit" name="commit" type="submit" value="Search Articles"/>
+</p>
+</form> <ul id="secodary-nav-menu">
+<li><a class="" href="/static/terms_of_service.modal">Terms of Service</a></li>
+<li><a class="" href="/contact_us">Contact Us</a></li>
+<li><a class="" href="/static/advertise">Advertise</a></li>
+<li><a class="highlight" href="/subscriptions/new">Subscribe</a></li>
+</ul>
+<ul class="nav-menu">
+<li><a class="" href="/news local">News</a></li>
+<li><a class="" href="/sports">Sports</a></li>
+<li><a class="" href="/e-edition">E-Edition</a></li>
+<li><a class="" href="/events">Events</a></li>
+<li><a class="" href="/citizen news">Citizen News</a></li>
+<li><a class="" href="http://realestate.the-news-leader.com/" target="_blank">Real Estate</a></li>
+<li><a class="" href="http://recordpub.ohiojobsfinder.com/" target="_blank">Jobs</a></li>
+<li><a class="" href="http://www.ohioautofinder.com/" target="_blank">Autos</a></li>
+<li><a class="" href="http://www.marketplaceohio.com/" target="_blank">MarketPlace</a></li>
+<li><a class="" href="/classifieds">Classifieds</a></li>
+</ul>
+</div>
+</footer>
+</div>
+</body>
+</html>

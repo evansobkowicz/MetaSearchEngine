@@ -1,0 +1,13 @@
+Title: Shrek 2 (2004) - IMDb
+Date: Mon, 09 Feb 2015 23:42:19 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYsleH3GmK5PlJk3M5qZybv3ZnibusicL0oIEuaqurPZWFp4vf2kDy1iWmm6t0llvtgNKTC0Hc8%0D%0A37bXeMDz5rTlw8iUMxclx_Zu-LnhPZliczaMr6YoGEjUpWcd_OXbgY3sgFfBkUUTPQ6DRIntQM-f%0D%0Aax_5MwzSiUFYnpy8h4fSQzomvM4YjrGtGHzSVzmuHkjHP68zOFBr0WBXUVOND1-RbjL3o8dJLHAa%0D%0AEzmpdtsTmmp2Qhb2RnN28OgIYMDzHhIGeRzVDX4JEfwmWMtu5_Gryg%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:26 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:26 GMT; Path=/
+Set-Cookie: session-id-time=1581205339; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:26 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

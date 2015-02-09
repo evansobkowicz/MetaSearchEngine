@@ -1,0 +1,2947 @@
+<!DOCTYPE html >
+
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@Independent" name="twitter:site"/>
+<meta content="13312631635" property="article:publisher"/>
+
+<link href="/independent.co.uk/assets/css/overwrite_redesign.css" rel="stylesheet" type="text/css"/>
+<link href="/independent.co.uk/editorial/commercial/newsletter/ebooks/css/ebooks_mods.css?ver=1a" rel="stylesheet" type="text/css"/>
+<link href="/independent.co.uk/assets/css/gallery.css" rel="stylesheet" type="text/css"/>
+<!--Last update/pull on 19/03/2014-->
+<link href="/independent.co.uk/assets/css/config.css" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,300" rel="stylesheet" type="text/css">
+<style type="text/css">
+/* temp change for removal of google ads */
+.widget.storyContent.article.articleContent {
+margin-top: -3px!important;
+}
+/* most most most tabbing group padding/margin reduction for OB */
+.tabbingGroup {
+margin-bottom: 5px!important;
+padding-bottom: 1px!important;
+}
+/******* voices new platform fix ********/
+.voices .tagLabel {
+left:256px !important;
+}
+.voices .tagNames {
+left:323px !important;
+}
+/* PLEASE ADD YOUR INLINE STYLES HERE ELSE ... */
+/* search box changes for i100 feed placement*/
+#side .superSearchBox {margin: 0!important;}
+.searchLinks {margin-bottom: 10px!important;}
+/*******new competition platform********/
+#competitionForm .competitionSuccess { background-color: #DFF2BF;border: 1px solid #C6D9A6;padding: 10px 20px;text-align: center;display:none; }
+#competitionForm .errorMsg { color: #D8000C; background-color: #FFBABA; padding: 10px; margin: 10px 0; display: block; text-align: center; }
+#competitionForm { display: none;font-size:13px;border:1px solid #eee;padding:10px;margin:10px 0;text-align:left; }
+#competitionForm .title,
+#competitionForm .introduction { display: block; margin-bottom: 5px;}
+#competitionForm .introduction { font-weight:bold;font-size:14px;border-bottom:1px solid #eee;padding:5px;color:#fff;background:#714a8d;display:block;}
+#competitionForm .question, #competitionForm .title {font-weight:bold;}
+#competitionForm .form-row { padding: 3px 0; vertical-align: top; }
+#competitionForm .form-row textarea {display:block;margin-top:9px;font-family: arial, sans-serif;min-width: 240px;min-height: 50px;max-width:98%}
+#competitionForm input[type=submit] {background:#714a8d;color:#fff;border:1px solid #A5A5A5;outline:1px solid #714a8d;padding:3px 10px;margin-top:20px;}
+div.body a.competition_btn {
+background: #005689;
+padding: 6px;
+color: #fff!important;
+font-size: 14px;
+text-decoration: none!important;
+}
+.replyFormClone textarea {
+display: block;
+width: 100%;
+padding: 0;
+overflow: auto;
+word-wrap: break-word;
+height: 78px;
+resize: none;
+text-align: left;
+margin-bottom: 10px;
+}
+.replyFormClone {
+text-align: right;
+padding: 10px 0;
+border-top: 1px solid #ccc;
+border-bottom: 1px solid #ccc;
+margin: 10px 0 0;
+clear: both;
+}
+.successMsg {
+background: #e9ffd9;
+border: 1px solid #a6ca8a;
+padding: 10px;
+text-align: left;
+}
+#gigyaLoginBar ul li { float: left; cursor: pointer; }
+.hide-comment-buttons #singleCommentHeader .formContainer > img, .hide-comment-buttons #singleCommentHeader .formContainer > .title, .hide-comment-buttons #loginButtonContainer {
+display: none;
+}
+/* Expandable MPU fix */
+#side .x300 {
+overflow: visible!important;
+}
+/* Collapsing Skyscraper fix */
+.ad div.skyscraper {height:auto!important;padding:0px!important;}
+.ad div#mpu.skyscraper {height:600px!important;}
+</style>
+<!-- Disable debug option for Galleria so that no errors or warnings are thrown on frontend -->
+
+<!-- Require JS for JavaScript file and module loader -->
+
+<style>
+#commentsDiv {
+margin-top: 80px;
+width: 100% !important;
+}
+.gig-comments-linksContainer .gig-comment-replyLink, .gig-comments-linksContainer .gig-comment-deleteLink, .gig-comments-linksContainer .gig-comment-shareLink {
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #b80000!important;
+color: white!important;
+padding: 4px 34px 3px 10px;
+font-size: 14px;
+text-transform: uppercase;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+letter-spacing: 1px;
+}
+.gig-comments-linksContainer .gig-comment-repliesArrow {
+display: none;
+}
+.gig-comment-data .gig-comment-footer {
+border-top: 1px solid #CCC;
+margin-top: 7px !important;
+padding-top: 15px !important;
+border-bottom: 5px solid #cccccc;
+padding-bottom: 15px;
+margin-bottom: 15px;
+}
+*.gig-comments-linksContainer li:after {
+display: none !important;
+}
+.gig-comment-data .gig-comment-header {
+font-family: Georgia, 'Times New Roman', serif;
+font-size: 13px;
+font-weight: bold;
+height: 16px;
+border-bottom: 1px solid #CCC;
+}
+.gig-comment-header .gig-comment-header-right {
+float: none;
+}
+.gig-comment-header .gig-comment-header-right .gig-comment-time {
+color: #000;
+font-size: 10px;
+}
+div.gigya-screen-dialog-content,
+div.gigya-screen-dialog-content .gigya-screen {
+width: 700px !important;
+max-width: 700px !important;
+min-height: 0 !important;
+}
+.debate-half-second {
+width: 453px !important;
+padding: 0 0 40px 15px;
+float: left;
+padding-top: 30px;
+position: relative;
+}
+.debate-half-first {
+width: 453px !important;
+padding: 0 15px 40px 0;
+border-right: 3px solid red;
+float: left;
+padding-top: 30px;
+}
+.gig-composebox-post, .gig-composebox-post:hover {
+background: url("/skins/ind/voices/gfx/debate-comment2-bg.png") no-repeat scroll 60px bottom black;
+height: 22px;
+padding: 2px 48px 2px 10px;
+width: auto;
+text-transform: uppercase;
+color: white;
+float: left;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+font-size: 20px;
+line-height: 22px;
+border: 0;
+border-radius: 0;
+}
+#ForDebateCommentStreamDiv,
+#AgainstDebateDiv {
+width: auto !important;
+}
+#AgainstDebateDiv {
+margin-top: 38px;
+}
+.gig-or-icon {
+position: absolute;
+top: 128px;
+left: -24px;
+z-index: 99999;
+}
+.inpage-widget-8928966 {
+position: relative;
+}
+.gig-comments-count {
+font-weight: normal;
+background: url("/skins/ind/voices/gfx/debate-heading-bg.png") no-repeat scroll right 0 black;
+color: white;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+font-size: 20px;
+float: left;
+padding: 0 70px 0 10px;
+height: 30px;
+letter-spacing: 1px;
+text-transform: uppercase;
+margin: 0;
+line-height: 30px;
+}
+.gig-comments-header {
+padding: 0;
+border-bottom: 1px solid red;
+}
+.gig-comment-flag {
+visibility: visible;
+position: absolute;
+top: 0px;
+right: 0px;
+margin: 0;
+}
+.gig-comment {
+position: relative;
+}
+.gig-comment-vote-posneg {
+margin-top: 3px;
+}
+.gig-composebox-data {
+padding-left: 0;
+}
+.gig-composebox-data .gig-composebox-footer {
+margin: 0;
+}
+.gig-composebox-data .gig-composebox-footer .gig-composebox-footer-right {
+padding: 0;
+}
+.gig-comments-sort, .gig-comments-subscribe, .gig-comments-rss {
+background: url("/skins/ind/voices/gfx/debate-comment-bg.png") no-repeat scroll -15px top black;
+color: white!important;
+padding: 4px 6px 3px 30px !important;
+font-size: 14px;
+text-transform: uppercase;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+letter-spacing: 1px;
+}
+.gig-comments-rss a {
+color: white!important;
+font-size: 14px;
+text-transform: uppercase;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+letter-spacing: 1px;
+}
+.gig-comments-header-right li {
+margin-top: 6px;
+}
+.gig-composebox-photo {
+display: none;
+}
+.gig-composebox-textarea {
+min-height: 69px;
+}
+.gig-composebox-footer {
+display: block;
+}
+.gig-title {
+background: url("/skins/ind/voices/gfx/debate-comment-bg.png") no-repeat scroll left top black;
+color: white!important;
+padding: 0 6px 0 60px !important;
+font-size: 26px;
+text-transform: uppercase;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+letter-spacing: 1px;
+height: 38px;
+line-height: 38px;
+width: 140px;
+}
+.debate-half-first .gig-composebox-editor,
+.debate-half-second .gig-composebox-editor {
+background: url(http://www.independent.co.uk/skins/ind/voices/gfx/for-bg.jpg) no-repeat center center transparent;
+width: 370px;
+height: 115px;
+padding: 15px;
+border: 15px solid #f5f5f5;
+border-left: 30px solid #f5f5f5;
+border-right: 38px solid #f5f5f5;
+}
+.debate-half-second .gig-composebox-editor {
+background: url(http://www.independent.co.uk/skins/ind/voices/gfx/against-bg.jpg) no-repeat center center transparent;
+border-right: 30px solid #f5f5f5;
+border-left: 38px solid #f5f5f5;
+position: relative;
+left: -15px;
+}
+.debate-half-first .gig-composebox-editor .gig-composebox-textarea,
+.debate-half-second .gig-composebox-editor .gig-composebox-textarea {
+height: 115px;
+padding-top: 0;
+text-indent: -9999px;
+margin: 0;
+}
+.debate-half-first .gig-composebox-open .gig-composebox-editor .gig-composebox-textarea,
+.debate-half-second .gig-composebox-open .gig-composebox-editor .gig-composebox-textarea {
+text-indent: 0px;
+}
+.debate-half-first .gig-composebox-open .gig-composebox-editor,
+.debate-half-second .gig-composebox-open .gig-composebox-editor {
+background: none;
+}
+.gig-composebox-header {
+margin-bottom: 0 !important;
+}
+div.gigya-screen-dialog-top {
+background: url(http://www.independent.co.uk/independent.co.uk/assets/images/redesign/masthead/indy-masthead-small.png) 16px 14px no-repeat #fff !important;
+border: 0px none;
+height: 104px;
+width: 610px;
+}
+div.gigya-screen-dialog-caption {
+display:none;
+}
+div.gigya-screen-dialog-close {
+position: absolute;
+top: 6px;
+right: 10px;
+}
+div.gigya-screen-dialog-content {
+padding: 5px !important;
+}
+.gigya-composite-control.gigya-spacer {
+height: 2px !important;
+}
+input.gigya-input-text, input.gigya-input-password {
+height: 22px;
+line-height: normal;
+}
+.gigya-input-submit, .gigya-input-submit:hover {
+background: url(http://www.standard.co.uk/images/popup_button.png) repeat-x #f58020 !important;
+border-radius: 8px !important;
+border: none !important;
+color: #ffffff !important;
+height: auto !important;
+line-height: normal !important;
+padding: 5px 7px !important;
+width: auto !important;
+cursor: pointer !important;
+}
+.gigya-screen .gigya-composite-control-submit {
+text-align: left !important;
+}
+#gigya-login-screen .gigya-composite-control-social-login, #gigya-register-screen .gigya-composite-control-social-login {
+height: 98px !important;
+border: 0 !important;
+padding: 0 0 10px !important;
+}
+#gigya-login-screen a.forgotPassword, #gigya-login-screen a.forgotPassword:link {
+float: right;
+font-weight: normal;
+text-decoration: none;
+}
+div.gigya-screen-dialog-content {
+min-height: auto !important;
+}
+.gigya-composite-control.gigya-composite-control-header {
+border-top: 1px solid #f1f1f1;
+border-bottom: 1px solid #f1f1f1;
+}
+.gigya-login-form > .gigya-layout-row:nth-child(5) {
+border-top: 1px solid #f1f1f1;
+}
+.gigya-screen .gigya-composite-control-label span.lock {
+width: 280px;
+display: block;
+padding-left: 28px;
+background: url(http://www.standard.co.uk/images/popup_lock.png) no-repeat left 4px;
+}
+.gigya-screen .gigya-composite-control-label span.time {
+width: 280px;
+display: block;
+padding-left: 28px;
+background: url(http://www.standard.co.uk/images/popup_time.png) no-repeat left 4px;
+}
+.gigya-profile-form .gigya-layout-cell, .gigya-register-form .gigya-layout-cell {
+float: left;
+width: 50%;
+margin-top: 1px;
+}
+/****** travel ********/
+.gig-travel .gig-comments-linksContainer .gig-comment-replyLink, .gig-travel .gig-comments-linksContainer .gig-comment-deleteLink, .gig-travel .gig-comments-linksContainer .gig-comment-shareLink, .gig-travel .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #e56314!important;
+}
+.gig-travel .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-travel.gif") no-repeat scroll right 0 black;
+}
+.gig-travel .gig-comments-sort, .gig-travel .gig-comments-subscribe, .gig-travel .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-travel.gif") no-repeat scroll -15px top black;
+}
+.gig-travel .gig-composebox-post, .gig-travel .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-travel.gif") no-repeat scroll right bottom black;
+}
+.gig-travel .gig-comments-header {
+border-bottom: 1px solid #e56314;
+}
+/****** sport ********/
+.gig-sport .gig-comments-linksContainer .gig-comment-replyLink, .gig-sport .gig-comments-linksContainer .gig-comment-deleteLink, .gig-sport .gig-comments-linksContainer .gig-comment-shareLink, .gig-sport .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #1d5609!important;
+}
+.gig-sport .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-sport.gif") no-repeat scroll right 0 black;
+}
+.gig-sport .gig-comments-sort, .gig-sport .gig-comments-subscribe, .gig-sport .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-sport.gif") no-repeat scroll -15px top black;
+}
+.gig-sport .gig-composebox-post, .gig-sport .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-sport.gif") no-repeat scroll right bottom black;
+}
+.gig-sport .gig-comments-header {
+border-bottom: 1px solid #1d5609;
+}
+/****** lifestyle ********/
+.gig-lifestyle .gig-comments-linksContainer .gig-comment-replyLink, .gig-lifestyle .gig-comments-linksContainer .gig-comment-deleteLink, .gig-lifestyle .gig-comments-linksContainer .gig-comment-shareLink, .gig-lifestyle .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #4d0637!important;
+}
+.gig-lifestyle .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-lifestyle.gif") no-repeat scroll right 0 black;
+}
+.gig-lifestyle .gig-comments-sort, .gig-lifestyle .gig-comments-subscribe, .gig-lifestyle .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-lifestyle.gif") no-repeat scroll -15px top black;
+}
+.gig-lifestyle .gig-composebox-post, .gig-lifestyle .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-lifestyle.gif") no-repeat scroll right bottom black;
+}
+.gig-lifestyle .gig-comments-header {
+border-bottom: 1px solid #4d0637;
+}
+/****** arts ********/
+.gig-arts .gig-comments-linksContainer .gig-comment-replyLink, .gig-arts .gig-comments-linksContainer .gig-comment-deleteLink, .gig-arts .gig-comments-linksContainer .gig-comment-shareLink, .gig-arts .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #4a4646!important;
+}
+.gig-arts .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-arts.gif") no-repeat scroll right 0 black;
+}
+.gig-arts .gig-comments-sort, .gig-arts .gig-comments-subscribe, .gig-arts .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-arts.gif") no-repeat scroll -15px top black;
+}
+.gig-arts .gig-composebox-post, .gig-arts .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-arts.gif") no-repeat scroll right bottom black;
+}
+.gig-arts .gig-comments-header {
+border-bottom: 1px solid #4a4646;
+}
+/****** money ********/
+.gig-money .gig-comments-linksContainer .gig-comment-replyLink, .gig-money .gig-comments-linksContainer .gig-comment-deleteLink, .gig-money .gig-comments-linksContainer .gig-comment-shareLink, .gig-money .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #223d77!important;
+}
+.gig-money .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-money.gif") no-repeat scroll right 0 black;
+}
+.gig-money .gig-comments-sort, .gig-money .gig-comments-subscribe, .gig-money .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-money.gif") no-repeat scroll -15px top black;
+}
+.gig-money .gig-composebox-post, .gig-money .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-money.gif") no-repeat scroll right bottom black;
+}
+.gig-money .gig-comments-header {
+border-bottom: 1px solid #223d77;
+}
+/****** extra ********/
+.gig-extra .gig-comments-linksContainer .gig-comment-replyLink, .gig-extra .gig-comments-linksContainer .gig-comment-deleteLink, .gig-extra .gig-comments-linksContainer .gig-comment-shareLink, .gig-extra .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #035b7b!important;
+}
+.gig-extra .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-extra.gif") no-repeat scroll right 0 black;
+}
+.gig-extra .gig-comments-sort, .gig-extra .gig-comments-subscribe, .gig-extra .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-extra.gif") no-repeat scroll -15px top black;
+}
+.gig-extra .gig-composebox-post, .gig-extra .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-extra.gif") no-repeat scroll right bottom black;
+}
+.gig-extra .gig-comments-header {
+border-bottom: 1px solid #035b7b;
+}
+/****** student ********/
+.gig-student .gig-comments-linksContainer .gig-comment-replyLink, .gig-student .gig-comments-linksContainer .gig-comment-deleteLink, .gig-student .gig-comments-linksContainer .gig-comment-shareLink, .gig-student .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #780d46!important;
+}
+.gig-student .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-student.gif") no-repeat scroll right 0 black;
+}
+.gig-student .gig-comments-sort, .gig-student .gig-comments-subscribe, .gig-student .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-student.gif") no-repeat scroll -15px top black;
+}
+.gig-student .gig-composebox-post, .gig-student .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-student.gif") no-repeat scroll right bottom black;
+}
+.gig-student .gig-comments-header {
+border-bottom: 1px solid #780d46;
+}
+/* Weird News list article styling */
+.weirdList {font-size:18px!important;font-weight:bold!important; font-family: 'Open Sans',sans-serif !important; color:#636363 !important;}
+span.weirdNumber {font-size:18px!important; font-weight:bold!important;font-family: 'Open Sans',sans-serif !important;color:#B80000 !important;}
+/* Temp strapLine hide */
+div#main div.strapLine {display:none;}
+/* Removal of border on article above moved brightcove player on HomePage */
+.inpage-widget-8552103 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above moved brightcove player on TV */
+.inpage-widget-9753568 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above brightcove player on World Cup Index*/
+.inpage-widget-8947657 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above moved brightcove player on Arts-Ents */
+.inpage-widget-8904130 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above moved brightcove player on Travel */
+.inpage-widget-8340677 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above Inline gallery on Arts-Ents */
+.inpage-widget-8540613 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above Inline gallery on People */
+.inpage-widget-9187003 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above moved brightcove player on People */
+.inpage-widget-9189030 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above moved brightcove player on Gaming */
+.inpage-widget-8471529 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above Righster video on Football */
+.inpage-widget-8553118 .article:last-child {
+border-bottom: 0px!important;
+}
+/*hide top border cw games list */
+.inpage-widget-9620391 {border-top:none!important;}
+/* World cup Latest News 380 banner */
+.inpage-widget-9532447 {height:42px !important;}
+/* Bellyband/Leaderboard 970 creative fix */
+.bellyBand {
+width: 970px !important;
+overflow: hidden;
+margin: 0px auto 0 -15px;
+line-height: 0;
+clear: both;
+}
+#newsletterLogoWidget {border-top:none !important;}
+#navigation .submenu .Scottish {display:none;}
+#navigation .submenu .NHS {display:none!important;}
+/* handle lower case i for i100 mid col redirect articles */
+.intro .clhdi100Red {
+position: absolute;top:0px;left: 0;padding: 3px 10px;margin-left: 0;color: #fff;font-weight: 800;z-index: 999;text-transform:normal;background: #b80000;}
+.intro .clhdi100DarkGrey {
+position: absolute;top:0px;left: 0;padding: 3px 10px;margin-left: 0;color: #fff;font-weight: 800;z-index: 999;text-transform:normal;background: #636363;}
+.intro .clhdi100Green {
+position: absolute;top:0px;left: 0;padding: 3px 10px;margin-left: 0;color: #fff;font-weight: 800;z-index: 999;text-transform:normal;background: #1d7000;}
+.third-level-wrapper ul.column2 li.Save.the.Tiger {display:none!important;}
+#navigation .submenu .Save.the.Tiger {display:none!important;}
+.third-level-wrapper .Partners {display:none !important;} .third-level-wrapper .Malala {display:none !important;} .third-level-wrapper .Diagnosis {display:none !important;}
+.third-level-wrapper .Suffragettes {display:none !important;}
+/*EPL topics */
+.epl-topic-twitter-middle, .epl-topic-opta-middle {width:210px; padding-left:10px;}
+#fancy-list-epl-topic-220 {
+display:block; width:210px;
+padding-left:10px;
+padding-bottom: 5px;
+padding-top:10px;
+}
+#fancy-list-epl-topic-220 ul li {
+list-style: none;
+padding:0; margin:0;
+}
+#fancy-list-epl-topic-220 ul {
+padding:0; margin:0;
+}
+#fancy-list-epl-topic-220 ul li a {
+display:block; background-color: #85be55;
+-webkit-transition: all 0.2s linear; padding: 2px 5px 5px 5px; font-family: 'Open Sans', serif; font-weight:bold; ic
+color:white; border-bottom: 1px solid white;
+font-size:12px;
+text-decoration: none;
+color:#fff;
+}
+#fancy-list-epl-topic-220 ul li a:hover {
+background-color: #1d7000;
+color:white !important; }
+#fancy-list-epl-topic-220 li.header { display:block; background-color: #1d7000;
+text-transform: uppercase;
+padding: 4px 5px 5px 5px; font-family: 'Open Sans', serif; font-weight:bold; text-decoration: none; color:white; border-bottom: 1px solid white;
+font-size:12px;}
+/*more football blocks */
+#fancy-list-more-football-220 {
+display:block; width:210px;
+padding-left:10px;
+padding-bottom: 5px;
+}
+#fancy-list-more-football-220 ul li, #fancy-list-more-football-140 ul li {
+list-style: none;
+padding:0; margin:0;
+}
+#fancy-list-more-football-220 ul, #fancy-list-more-football-140 ul {
+padding:0; margin:0;
+}
+#fancy-list-more-football-220 ul li a, #fancy-list-more-football-140 ul li a {
+display:block; background-color: #85be55;
+-webkit-transition: all 0.2s linear; padding: 2px 5px 5px 5px; font-family: 'Open Sans', serif; font-weight:bold; text-decoration: none; color:white; border-bottom: 1px solid white;
+font-size:12px;}
+#fancy-list-more-football-220 ul li a:hover, #fancy-list-more-football-140 ul li a:hover {
+background-color: #1d7000;
+color:white !important; }
+#fancy-list-more-football-140 {
+display:block; width:140px;
+padding-bottom: 5px;
+}
+/* Temp for Scot live blog */
+.inpage-widget-9735651 h5 {
+font-family: 'Open Sans' sans-serif;
+font-size: 12px !important;
+line-height: normal !important;
+text-transform: uppercase;
+color: #333333 !important;
+font-weight: bold !important;
+border-bottom: 0px !important;
+text-decoration: none !important;
+margin: 0 0 12px 0;
+}
+#content .inpage-widget-9735651 h5 a {
+text-decoration: underline !important;
+color: #0065BD;
+}
+/*reduce size of topic title headlines */
+.TopicStories .topStoryContainer .text-top h1 {font-size:26px;}
+/*increase article body text size */
+.article #main .storyContent .body p, .article #main .storyContent .storyTop p {
+font-size: 16px !important;line-height: 23px !important;}
+/*fix for us sport and child section breadcrumb padding*/
+.inpage-widget-9669721 {padding-top:10px!important;}
+/* Below article sponsored puffs */
+.sponPuff {width:95%;background:#efefef;clear:both;position:relative;padding:10px;margin:20px auto 10px auto;border: 1px solid #ddd;}
+.sponPuffTi {position: absolute;top: -10px;left: 0;padding: 3px 10px;margin-left: 0;color: #fff;font-weight: 800;z-index: 999;text-transform: uppercase;background:#b80000;font-family: 'Open Sans', sans serif;font-size: 12px;}
+.sponPuffTxt {color:#000;font:14px 'Open Sans';margin-top:10px;}
+.sponPuffTxt a {color:#000;text-decoration:none;}
+.sponPuffTxt a:hover {color:#b80000;}
+</style>
+<!--<script type="text/javascript" src="http://s.ppjol.net/pp.js">{
+'zone':"8rCVcqssYH8Dl2nF5Xl5uU",
+'mode':"meter",
+'debug':0
+}</script>-->
+
+
+<!-- twitter -->
+<meta content="16973333" property="twitter:account_id"/>
+
+<!-- Criterio -->
+
+<!-- Sub2 -->
+
+<!-- Amazon Publisher Tags -->
+<!-- Start of Amazon Publisher Studio Loader -->  <!-- Do not modify the following code ! -->  <!-- End of Amazon Publisher Studio Loader --> <!-- KRUX -->
+<!-- BEGIN Krux Control Tag for "Independent" -->
+<!-- Source: /snippet/controltag?confid=I8gY_o93&site=Independent&edit=1 -->
+
+<!-- END Krux Controltag -->
+
+<!--- Rubicon -->
+
+<!-- Sailthru Horizon -->
+
+<!-- Taboola Newsroom -->
+
+<!-- begin ad tag (tile=1) -->
+
+<meta charset="utf-8"/>
+<link href="http://www.independent.co.uk/skins/ind/css/jquery-ui-1.8.6.custom.css" rel="stylesheet" type="text/css">
+<link href="http://www.independent.co.uk/skins/ind/css/escenic-widgets.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.independent.co.uk/skins/ind/css/defaults.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.independent.co.uk/skins/ind/css/layout.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.independent.co.uk/skins/ind/css/main.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.independent.co.uk/skins/ind/css/colors.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.independent.co.uk/skins/ind/css/print.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.independent.co.uk/skins/ind/css/ind-gigya.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.independent.co.uk/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="http://www.independent.co.uk/news/people/the-mafia-planned-to-murder-michael-jackson-goodfellas-star-frank-dileo-reportedly-claimed-10034203.html" rel="canonical"/>
+
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie.css"/><script type="text/javascript">var ieVersion = "true";</script><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie8.css"/><script type="text/javascript">var ieVersion = "8";</script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie7.css"/><script type="text/javascript">var ieVersion = "7";</script><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie6.css"/><script type="text/javascript">var ieVersion = "6";</script><![endif]-->
+<link href="http://www.independent.co.uk/xmlrpc" rel="pingback"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+<!-- AUDIENCESCIENCE AD TAG CODE -->  <!-- END AUDIENCESCIENCE AD TAG CODE -->
+
+
+
+
+<!--[if IE]><script type="text/javascript" src="http://www.independent.co.uk/skins/ind/js/excanvas.js"></script><![endif]-->
+
+<!-- Indy : intialisation call, to be placed only once on the page, before the first ad tag -->
+
+<!-- close Initialisation -->
+<meta content="The most outrageous claim about Michael Jackson you have ever read" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="http://www.independent.co.uk/incoming/article10034244.ece/binary/original/DiLeo-Jackson-Getty.jpg" property="og:image"/>
+<meta content="The controversies surrounding Michael Jackson’s life following his sudden death in 2009 have been rich and various." property="og:description"/>
+<meta content="The controversies surrounding Michael Jackson’s life following his sudden death in 2009 have been rich and various." name="description"/>
+<meta content="http://www.independent.co.uk/biography/jenn-selby" property="article:author"/>
+<meta content="2015-02-09" property="article:published_time"/>
+<meta content="People" property="article:section"/>
+<meta content="http://www.independent.co.uk/news/people/the-mafia-planned-to-murder-michael-jackson-goodfellas-star-frank-dileo-reportedly-claimed-10034203.html" property="og:url"/>
+<meta content="235586169789578" property="fb:app_id"/>
+<meta content="36903991,100001802971061,500243253" property="fb:admins"/>
+<meta content="The Independent" property="og:site_name"/>
+<meta content="en_GB" property="og:locale"/>
+<title>
+Mafia planned to murder Michael Jackson, Goodfellas star Frank DiLeo reportedly claimed - People - News - The Independent
+</title>
+<!-- Release 1.0.71 -->
+</link></link></head>
+<body>
+
+<!-- Start Omniture Tracking Code -->
+
+
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img alt="" border="0" height="1" src="http://indepdev.122.2O7.net/b/ss/indepdev/1/H.19.3--NS/0?[AQB]&amp;cdp=3&amp;[AQE]&amp;pageName=http://www.independent.co.uk/news/people/Mafia planned to murder Michael Jackson, Goodfellas star Frank DiLeo reportedly claimed" width="1"/></a></noscript>
+<!-- End Omniture Tracking Code -->
+<div id="viewport">
+<div class="article " id="page">
+<div id="header">
+
+<div class="widget ad partner widget-editable viziwyg-section-507 inpage-widget-8453904">
+</div>
+
+<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-8453901">
+
+</div>
+<!--Google Analytics -->
+
+<!--Visual Revenue Reader Response Tracking Script (v142) -->
+
+<!-- End of VR RR Tracking Script - All rights reserved -->
+<!-- GeoRiot code -->
+
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453966">
+<div id="outOfPageSlot">
+
+</div>
+</div>
+<div class="x940 bellyBand">
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453970">
+<div id="bellyband">
+
+</div>
+</div>
+</div>
+</div>
+<div class="x940 linksDateWeather">
+<div class="column-1">
+<div class="widget dateline default widget-editable viziwyg-section-1023 inpage-widget-5054699 topDateTime">
+<ul>
+<li class="current first">
+Monday 09 February 2015
+</li>
+</ul>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8117921 topExternalLinks">
+<div id="gigyaLoginBar"><ul></ul></div>
+
+<!-- gigya includes start -->
+<link href="http://www.independent.co.uk/independent.co.uk/assets/gigya/styles.css" rel="stylesheet" type="text/css"/>
+
+<!-- gigya includes end -->
+</div>
+<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054700 topExternalLinks">
+<ul>
+<li>
+<a href="http://www.independent.co.uk/marketing/apps/">
+<span>Apps </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/ebooks/">
+<span>eBooks </span>
+</a>
+</li>
+<li>
+<a href="http://ijobs.independent.co.uk/">
+<span>i Jobs </span>
+</a>
+</li>
+<li>
+<a href="http://dating.independent.co.uk/">
+<span>Dating </span>
+</a>
+</li>
+<li>
+<a href="http://www.independentoffers.co.uk/">
+<span>Shop </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="x940 promoAndLeaderboard" id="stacked">
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8927185">
+<div id="mini-masthead-lboard"><a href="http://www.independent.co.uk">
+<img alt="The Independent" height="90" id="independent-mini-logo" src="/independent.co.uk/assets/images/redesign/masthead/indy-masthead-small.png" title="The Independent" width="90"/>
+</a>
+</div>
+<style type="text/css">
+<!--
+/* bolds indy title on dateline */
+.topDateTime ul li:before {font-weight:bold;}
+-->
+</style>
+<div style="position: absolute;top: -7px;right: 0px;border-left: 1px solid #d2d3d5;border-right: 1px solid #d2d3d5;padding-top: 28px;">
+<a href="http://i100.independent.co.uk/?utm_source=indy&amp;utm_medium=rad&amp;utm_campaign=i100" style="display: block;padding: 0px 10px 0;" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/i100-radx2.jpg" style="margin-top: -10px;padding-bottom: 9px;" width="70px"/></a>
+</div>
+<!--<div style="position: absolute;top: -7px;right: 0px;border-left: 1px solid #d2d3d5;border-right: 1px solid #d2d3d5;padding-top: 34px;"><a href="http://www.independent.co.uk/i/" target="_blank" style="display: block;padding: 0px 35px 0; margin-top: -15px;"><img src="http://www.independent.co.uk/independent.co.uk/assets/images/redesign/masthead/ipaper_lrg_masthead.png" height="56px" style="
+margin-top: -10px;
+padding-bottom: 15px;
+"></a></div>-->
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453964 ad">
+<div id="leaderboard" style="width: 728px; height: 90px">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="navigation">
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054718 navPrimary newNav">
+<ul class="main-level">
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="black-nav active">
+<a class="" href="http://www.independent.co.uk/news/">
+News </a>
+<ul class="submenu">
+<li class="UK parent">
+<a class="active " href="http://www.independent.co.uk/news/uk/">
+<span>UK </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="Home News">
+<a class="active " href="http://www.independent.co.uk/news/uk/home-news/">
+<span>Home News </span>
+</a>
+</li>
+<li class="UK Politics">
+<a class="active " href="http://www.independent.co.uk/news/uk/politics/">
+<span>UK Politics </span>
+</a>
+</li>
+<li class="Scottish independence">
+<a class="active " href="http://www.independent.co.uk/news/uk/scottish-independence/">
+<span>Scottish independence </span>
+</a>
+</li>
+<li class="Crime">
+<a class="active " href="http://www.independent.co.uk/news/uk/crime/">
+<span>Crime </span>
+</a>
+</li>
+<li class="Weird News">
+<a class="active " href="http://www.independent.co.uk/news/weird-news/">
+<span>Weird News </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="World parent">
+<a class="active " href="http://www.independent.co.uk/news/world/">
+<span>World </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1">
+<li class="Europe">
+<a class="active " href="http://www.independent.co.uk/news/world/europe/">
+<span>Europe </span>
+</a>
+</li>
+<li class="Americas">
+<a class="active " href="http://www.independent.co.uk/news/world/americas/">
+<span>Americas </span>
+</a>
+</li>
+<li class="Middle East">
+<a class="active " href="http://www.independent.co.uk/news/world/middle-east/">
+<span>Middle East </span>
+</a>
+</li>
+<li class="Asia">
+<a class="active " href="http://www.independent.co.uk/news/world/asia/">
+<span>Asia </span>
+</a>
+</li>
+<li class="Africa">
+<a class="active " href="http://www.independent.co.uk/news/world/africa/">
+<span>Africa </span>
+</a>
+</li>
+<li class="Australasia">
+<a class="active " href="http://www.independent.co.uk/news/world/australasia/">
+<span>Australasia </span>
+</a>
+</li>
+<li class="World Politics">
+<a class="active " href="http://www.independent.co.uk/news/world/politics/">
+<span>World Politics </span>
+</a>
+</li>
+<li class="World History">
+<a class="active " href="http://www.independent.co.uk/news/world/world-history/">
+<span>World History </span>
+</a>
+</li>
+<li class="Novaya Gazeta (English)">
+<a class="active " href="http://en.novayagazeta.ru/">
+<span>Novaya Gazeta (English) </span>
+</a>
+</li>
+</ul>
+<ul class="column2 last">
+<li class="WW1 Moments">
+<a class="active " href="http://www.independent.co.uk/news/world/world-history/history-of-the-first-world-war-in-100-moments/">
+<span>WW1 Moments </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Business parent">
+<a class="active " href="http://www.independent.co.uk/news/business/">
+<span>Business </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1">
+<li class="Business News">
+<a class="active " href="http://www.independent.co.uk/news/business/news/">
+<span>Business News </span>
+</a>
+</li>
+<li class="Business Comment">
+<a class="active " href="http://www.independent.co.uk/news/business/comment/">
+<span>Business Comment </span>
+</a>
+</li>
+<li class="Business Analysis &amp; Features">
+<a class="active " href="http://www.independent.co.uk/news/business/analysis-and-features/">
+<span>Business Analysis &amp; Features </span>
+</a>
+</li>
+<li class="Sharewatch">
+<a class="active " href="http://www.independent.co.uk/news/business/sharewatch/">
+<span>Sharewatch </span>
+</a>
+</li>
+<li class="SME">
+<a class="active " href="http://www.independent.co.uk/news/business/sme/">
+<span>SME </span>
+</a>
+</li>
+<li class="Market News">
+<a class="active " href="http://independent.moneyam.com/news/" target="_blank">
+<span>Market News </span>
+</a>
+</li>
+<li class="Market Epic">
+<a class="active " href="http://independent.moneyam.com/quote/?epic=vod" target="_blank">
+<span>Market Epic </span>
+</a>
+</li>
+<li class="Market Heatmaps">
+<a class="active " href="http://independent.moneyam.com/heatmaps/" target="_blank">
+<span>Market Heatmaps </span>
+</a>
+</li>
+<li class="Market Screener">
+<a class="active " href="http://independent.moneyam.com/stockscreener/" target="_blank">
+<span>Market Screener </span>
+</a>
+</li>
+</ul>
+<ul class="column2 last">
+<li class="Business Directory">
+<a class="active " href="http://directory.independent.co.uk/" target="_blank">
+<span>Business Directory </span>
+</a>
+</li>
+<li class="ES Business Connections">
+<a class="active " href="http://www.standard.co.uk/businessconnections" target="_blank">
+<span>ES Business Connections </span>
+</a>
+</li>
+<li class="Create a business profile">
+<a class="active " href="http://www.independent.co.uk/news/business/the-independent-gives-businesses-a-free-online-profile-9769612.html" target="_blank">
+<span>Create a business profile </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="People">
+<a class="active current" href="http://www.independent.co.uk/news/people/">
+<span>People </span>
+</a>
+</li>
+<li class="Science">
+<a class="active " href="http://www.independent.co.uk/news/science/">
+<span>Science </span>
+</a>
+</li>
+<li class="Environment parent">
+<a class="active " href="http://www.independent.co.uk/environment/">
+<span>Environment </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="Climate Change">
+<a class="active " href="http://www.independent.co.uk/environment/climate-change/">
+<span>Climate Change </span>
+</a>
+</li>
+<li class="Green Living">
+<a class="active " href="http://www.independent.co.uk/environment/green-living/">
+<span>Green Living </span>
+</a>
+</li>
+<li class="Nature">
+<a class="active " href="http://www.independent.co.uk/environment/nature/">
+<span>Nature </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Media parent">
+<a class="active " href="http://www.independent.co.uk/news/media/">
+<span>Media </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="Opinion">
+<a class="active " href="http://www.independent.co.uk/news/media/opinion/">
+<span>Opinion </span>
+</a>
+</li>
+<li class="TV &amp; Radio">
+<a class="active " href="http://www.independent.co.uk/news/media/tv-radio/">
+<span>TV &amp; Radio </span>
+</a>
+</li>
+<li class="Press">
+<a class="active " href="http://www.independent.co.uk/news/media/press/">
+<span>Press </span>
+</a>
+</li>
+<li class="Online">
+<a class="active " href="http://www.independent.co.uk/news/media/online/">
+<span>Online </span>
+</a>
+</li>
+<li class="Advertising">
+<a class="active " href="http://www.independent.co.uk/news/media/advertising/">
+<span>Advertising </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Technology">
+<a class="active " href="http://www.independent.co.uk/life-style/gadgets-and-tech/">
+<span>Technology </span>
+</a>
+</li>
+<li class="Education parent">
+<a class="active " href="http://www.independent.co.uk/news/education/">
+<span>Education </span>
+</a>
+<div class="third-level-wrapper">
+<ul class="column1 last">
+<li class="News">
+<a class="active " href="http://www.independent.co.uk/news/education/education-news/">
+<span>News </span>
+</a>
+</li>
+<li class="Schools">
+<a class="active " href="http://www.independent.co.uk/news/education/schools/">
+<span>Schools </span>
+</a>
+</li>
+<li class="Further">
+<a class="active " href="http://www.independent.co.uk/news/education/further/">
+<span>Further </span>
+</a>
+</li>
+<li class="Higher">
+<a class="active " href="http://www.independent.co.uk/news/education/higher/">
+<span>Higher </span>
+</a>
+</li>
+<li class="Primary Tables 2011">
+<a class="active " href="http://www.independent.co.uk/news/education/primary-schools-tables-2011/">
+<span>Primary Tables 2011 </span>
+</a>
+</li>
+<li class="Secondary Tables 2012">
+<a class="active " href="http://www.independent.co.uk/news/education/secondary-tables-2012/">
+<span>Secondary Tables 2012 </span>
+</a>
+</li>
+<li class="Training &amp; Courses">
+<a class="active " href="http://courses.independent.co.uk/" target="_blank">
+<span>Training &amp; Courses </span>
+</a>
+</li>
+<li class="MBA &amp; Executive">
+<a class="active " href="http://mba.independent.co.uk/" target="_blank">
+<span>MBA &amp; Executive </span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="Images">
+<a class="active " href="http://www.independent.co.uk/news/pictures/">
+<span>Images </span>
+</a>
+</li>
+<li class="Obituaries">
+<a class="active " href="http://www.independent.co.uk/news/obituaries/">
+<span>Obituaries </span>
+</a>
+</li>
+<li class="Diary">
+<a class="active " href="http://www.independent.co.uk/news/people/diary/">
+<span>Diary </span>
+</a>
+</li>
+<li class="Corrections">
+<a class="active " href="http://www.independent.co.uk/news/corrections/">
+<span>Corrections </span>
+</a>
+</li>
+<li class="Newsletter">
+<a class="active " href="http://www.independent.co.uk/register/?news">
+<span>Newsletter </span>
+</a>
+</li>
+<li class="Appeals">
+<a class="active " href="http://www.independent.co.uk/voices/campaigns/homeless-veterans/">
+<span>Appeals </span>
+</a>
+</li>
+</ul>
+</li>
+<li class="black-nav ">
+<a href="http://www.independent.co.uk/video/">
+Video </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="black-nav ">
+<a href="http://www.independent.co.uk/news/people/">
+People </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="orange-voices-nav ">
+<a href="http://www.independent.co.uk/voices/">
+Voices </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="green-nav ">
+<a href="http://www.independent.co.uk/sport/">
+Sport </a>
+</li>
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/">
+Tech </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/life-style/">
+Life </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/property/">
+Property </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="dark-grey-nav ">
+<a href="http://www.independent.co.uk/arts-entertainment/">
+<span class="ArtsText">Arts</span> <span class="+Text">+</span> <span class="EntsText">Ents</span> </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="orange-nav ">
+<a href="http://www.independent.co.uk/travel/">
+Travel </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="turqoise-nav ">
+<a href="http://www.independent.co.uk/money/">
+Money </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="dark-blue-nav ">
+<a href="http://www.independent.co.uk/extras/indybest/">
+IndyBest </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="eggplant-nav ">
+<a href="http://www.independent.co.uk/student/">
+Student </a>
+</li>
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/competitions" target="_blank">
+Offers </a>
+</li>
+</ul>
+</div>
+<div class="x940 hotTopics">
+<div class="column-1">
+<div class="tagLabel color"></div>
+<div class="tagNames">
+<a href="http://www.independent.co.uk/voices/isis-in-iraq-britain-has-no-plan-for-tackling-the-militants-and-no-idea-whos-in-charge-10031274.html" target="_self">Isis in Iraq</a>
+<a href="http://www.independent.co.uk/voices/comment/fifty-shades-of-grey-this-enters-a-new-terrain-of-toxicity--and-no-feminist-can-think-otherwise-10029971.html" target="_self">Fifty Shades of Grey</a>
+<a href="http://www.homelessveterans.co.uk/" target="_self">Homeless Veterans Campaign</a>
+<a href="http://www.independent.co.uk/topic/GeorgeOsborne">George Osborne</a>
+<a href="http://www.independent.co.uk/topic/Greece">Greece</a>
+<a href="http://www.independent.co.uk/topic/MichaelGove">Michael Gove</a>
+</div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="areas">
+<div id="main-container">
+<div id="top">
+<div class="widget navigation breadcrumb widget-editable viziwyg-section-1023 inpage-widget-5054703">
+<a href="http://www.independent.co.uk/news/">News </a>
+&gt;
+<a href="http://www.independent.co.uk/news/people/">People </a>
+</div>
+</div>
+<div id="main">
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138722 strapLine">
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138696 title">
+<h1 class="title">
+Mafia planned to murder Michael Jackson, Goodfellas star Frank DiLeo reportedly claimed
+</h1>
+</div>
+
+<style>
+div.slideshow img {
+display: none;
+}
+</style>
+<div class="widget slideshow default widget-editable viziwyg-section-1024 inpage-widget-7804719">
+<div class="indLoading" id="galleriaLoadId-7804719">
+<img class="FirstImage" height="465" src="http://www.independent.co.uk/incoming/article10034244.ece/alternates/w620/DiLeo-Jackson-Getty.jpg" style="display:block; margin: 10px 0 100px 0;">
+<div id="slideshow-7804719">
+<a href="http://www.independent.co.uk/incoming/article10034244.ece/alternates/w620/DiLeo-Jackson-Getty.jpg">
+<img data-big="http://www.independent.co.uk/incoming/article10034244.ece/binary/original/DiLeo-Jackson-Getty.jpg" data-description="" data-title="DiLeo and Jackson on the set of “Bad” in 1987" src="http://www.independent.co.uk/incoming/article10034244.ece/alternates/w80/DiLeo-Jackson-Getty.jpg">
+</img></a>
+</div> </img></div>
+</div>
+
+<style type="text/css">
+.galleria-image-nav {
+display: none;
+}
+div.slideshow .galleria-stage {
+top: 0px;
+}
+div.slideshow .galleria-info {
+top: 10px;
+}
+div.slideshow .galleria-counter {
+display: none !important;
+}
+div#galleriaLoadId-7804719 {
+height:465px !important;
+background-color:#fff;
+}
+.FirstImage{margin-top:0 !important;}
+</style>
+<style type="text/css">
+div.slideshow #slideshow-7804719 .galleria-thumbnails-container {
+height: 10px;
+bottom: 0;
+position: absolute;
+left: 10px;
+right: 10px;
+z-index: 2;
+}
+div.slideshow #slideshow-7804719 .galleria-container .galleria-stage {
+height: 505px;
+}
+div.slideshow #slideshow-7804719 .galleria-thumbnails .galleria-image {
+height: 0px;
+width: 0px;
+background: #000;
+margin: 0 5px 0 0;
+border: 1px solid #000;;
+float: left;
+cursor: pointer;
+}
+div.slideshow #slideshow-7804719 .galleria-counter {
+bottom: 23px !important;
+}
+.galleria-lightbox-image img { border-width:0; }
+div#galleriaLoadId-7804719 {
+display: block; height:505px;width:620px; background-color: #DDDDDD;
+z-index: 10000; overflow: hidden;
+position: relative; top: 0px; left: 0px;
+}
+</style>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138721">
+<div class="starRating"></div>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138720">
+<h3 class="subtitle">
+<p>DiLeo played the cigar-chugging Tuddy Cicero in Scorsese’s mob movie</p>
+</h3>
+</div>
+<div class="x620 articleByTimeLocation">
+<div class="column-1">
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138719">
+<div class="byline">
+<a href="http://www.independent.co.uk/biography/jenn-selby"> <span class="authorName">
+Jenn Selby
+</span>
+</a>
+<img alt="Author Biography" class="openBiogPopup" src="http://www.independent.co.uk/skins/ind/images/plus.png"/>
+<div id="renderBiography">
+<div class="close"> </div>
+<a href="http://www.independent.co.uk/biography/jenn-selby">
+<img src="http://www.independent.co.uk/incoming/article9081346.ece/alternates/w300/jenn.jpg"/>
+</a>
+<div class="text">
+<h2>
+Jenn Selby
+</h2>
+<p>
+Jenn Selby is People Editor for the Independent website
+</p>
+</div>
+<div class="buttons">
+<div class="more">
+<a href="http://www.independent.co.uk/biography/jenn-selby">
+More articles from this journalist
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138718">
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138717">
+<p class="dateline">
+Monday 09 February 2015
+</p>
+</div>
+</div>
+</div>
+<div class="x620 clear share-tools-ctr">
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8674163">
+<div class="gigya-share-btns" id="componentDiv"></div>
+
+</div>
+<div class="widget pageTools custom widget-editable viziwyg-section-1024 inpage-widget-6138653 article-links">
+<div class="article-links">
+
+<div class="print-link">
+<a href="#" id="showPrintPage" onclick="printArticle('http://www.independent.co.uk/news/people/the-mafia-planned-to-murder-michael-jackson-goodfellas-star-frank-dileo-reportedly-claimed-10034203.html?printService=print')">
+Print
+</a>
+</div> 
+<div id="emailFormPageTools" style="display:block;display:none" title="Email This Article ">
+<form action="/pageTools/sendMail.do" id="mailForm" method="post" styleid="mailForm">
+<input id="method" name="method" type="hidden" value="sendSimpleMail">
+<input id="mailType" name="mailType" type="hidden" value="text_html">
+<input id="id" name="id" type="hidden" value="10034203">
+<input id="linkType" name="linkType" type="hidden" value="art">
+<div style="clear:none;padding: 0px;margin:0px;">
+<fieldset>
+<div>
+<span>Your friend's email address </span>
+</div>
+<input id="mailto" name="mailto" title="Specify a valid email address e.g. someone@somewhere.com" type="text" value="">
+</input></fieldset>
+<fieldset>
+<div>
+<span>Your email address </span>
+</div>
+<input id="surname" name="surname" type="text" value="">
+</input></fieldset>
+<div class="inputrow">
+<input id="emailArticleSend" name="emailArticleSend" style="width:auto;font:bold 10px Arial;text-transform:uppercase;color:#000000;float:right;margin-right: 10px" title="Press this button to send the email" type="submit" value="Send"/>
+<input id="emailArticleReset" style="width:auto;font:bold 10px Arial;text-transform:uppercase;color:#000000;float:right;margin-right: 10px" title="Press this button to reset all fields" type="reset" value="Reset"/>
+</div>
+</div>
+</input></input></input></input></form>
+<div>
+<span>
+Note: We do not store your email address(es) but your IP address will be logged to prevent abuse of this feature. Please read our <a href="http://www.independent.co.uk/service/legal-terms-amp-policies-759573.html">Legal Terms &amp; Policies</a>
+</span>
+</div>
+</div>
+<div class="enlarge-font">
+<a class="small-font" href="#" id="pageToolsSmallFont">A</a>
+<a class="medium-font" href="#" id="pagetToolsMediumFont">A</a>
+<a class="large-font" href="#" id="pageToolsLargeFont">A</a>
+</div>
+<div class="email-link">
+<a href="#" id="openEmailBox">Email</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="x460x140 floatingColumns">
+<div class="column-1">
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-8939454 articleContent">
+<span class="storyTop ">
+<p>The controversies surrounding <a href="http://www.independent.co.uk/news/people/michael-jackson-hit-with-new-sex-abuse-claims-five-years-after-his-death-9650832.html">Michael Jackson</a>’s life following his sudden death in 2009 have been rich and various.</p>
+</span>
+</div>
+<div class="widget storyContent article widget-editable viziwyg-section-1024 inpage-widget-6138699 articleContent">
+<div class="body ">
+<p>But few are as outrageous as the claims currently being made in a book based on the journals and private videos of the King of Pop’s ex-manager, Frank DiLeo.</p>
+<p>
+<span class="inline-image w460 leftAligned">
+<img alt="DiLeo at the premiere of This Is It in 2009" height="628" src="http://www.independent.co.uk/incoming/article10034245.ece/alternates/w460/DiLeo-ThisIsIt-Getty.jpg" title="DiLeo at the premiere of This Is It in 2009" width="460"/>
+<span class="inLineImageCaption">DiLeo at the premiere of This Is It in 2009</span>
+</span>
+DiLeo, who effortlessly took on the role of Tuddy Cicero in <a href="http://www.independent.co.uk/arts-entertainment/films/news/martin-scorsese-in-shock-and-sorrow-after-death-on-set-of-new-film-silence-10011131.html">Martin Scorsese</a>’s classic mob movie <em>Goodfellas</em>, was in charge of Jackson's career at the height of his fame in the Eighties.</p>
+<p>He died in 2011 at 63 following the complications of heart surgery. 
+<object class="BrightcoveExperience" id="myExperience 3898971147001">
+<param name="bgcolor" value="#FFFFFF">
+<param name="width" value="460">
+<param name="height" value="301">
+<param name="playerID" value="753144093001">
+<param name="playerKey" value="AQ~~,AAAAkVf4sTE~,ZHihQoc0Mak3KW61gTbGinrWzI69us3-">
+<param name="isVid" value="true">
+<param name="isUI" value="true">
+<param name="dynamicStreaming" value="true">
+<param name="@videoPlayer" value="3898971147001">
+</param></param></param></param></param></param></param></param></param></object>
+According to the <em><a href="http://pagesix.com/2015/02/07/jacko-underwent-plastic-surgery-to-not-look-like-abusive-dad/" target="_blank">New York Post</a></em>, DiLeo behind a number of personal accounts and footage, during which he talked about Jackson. The documents have since been compiled into the post-humus biography<em> DiLeo: I Am Going To Set The Record Straight </em>by his former business partner Mark Lamica.</p>
+<p><iframe frameborder="0" height="350" src="https://www.youtube.com/embed/qo5jJpHtI1Y" width="460"></iframe> </p>
+<p>In it, Lamica writes that DiLeo shared his knowledge of a planned Mafia contract to kill Michael Jackson – and how he managed to stop it from happening.</p>
+<p>DiLeo also spoke extensively about Jackson’s changing appearance.</p>
+<p>Lamica said: “Michael told Frank in a phone call that he couldn't bear to see his father’s [Joseph Jackson] face when he looked in the mirror.</p>
+<p>
+<div class="esi-gallery" data-galleryid="9233133" id="gallery-9233133"><a href="http://www.independent.co.uk/arts-entertainment/music/features/michael-jackson-from-child-star-to-king-of-pop-9233133.html">Michael Jackson: From child star to king of pop</a></div>
+ </p>
+<p>“Frank had told him he needed to stop changing his face, because he was becoming unrecognisable to his fans.”</p>
+<p>
+<span class="inline-image w460 leftAligned">
+<img alt="" height="345" src="http://www.independent.co.uk/incoming/article9661549.ece/alternates/w460/Michael-Jackson-8.jpg" title="Jackson at a press conference in Paris in 1996" width="460"/>
+<span class="inLineImageCaption">Jackson at a press conference in Paris in 1996</span>
+</span>
+Lamica also claims the book will include details about his Neverland Ranch deal with Colony Capital and his record label, as well as “naming and shaming” those in the industry DiLeo felt had exploited him.</p>
+<p>The release date for the book is yet to be confirmed.</p>
+<p>A spokesperson for Michael Jackson’s estate is yet to comment on the claims.</p>
+<h5>Read More: <a href="http://www.independent.co.uk/news/people/michael-jackson-hit-with-new-sex-abuse-claims-five-years-after-his-death-9650832.html">Jackson Hit With Post-Humus Child Sex Claims</a></h5>
+</div>
+<div class="clear"></div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8674164 clear">
+<div class="gigya-share-btns article-end" id="componentDiv2"></div>
+
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8829316" id="outbrain-below-article">
+<div class="OUTBRAIN" data-ob-template="TheIndependent" data-src="" data-widget-id="AR_4"></div>
+
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8570080 OutbrainBorder">
+<div class="OBR" data-ob-template="TheIndependent" id="ob_theIndependent1"></div>
+<div class="OBR" data-ob-template="TheIndependent" id="ob_theIndependent2"></div>
+<div class="OBR" data-ob-template="TheIndependent" id="ob_theIndependent3"></div>
+
+</div>
+
+<div class="widget ad google widget-editable viziwyg-section-1024 inpage-widget-6278027 googlead" id="fullwidth">
+
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-9126412">
+<div class="second-gallery" data-galleryid="8999813" id="second-gallery-8999813" style="position:relative;top:10px">
+<a class=" escenic-gallery" href="http://www.independent.co.uk/news/world-news-in-pictures-8999813.html" id="_bb3b6c6b-2acc-4a4f-b508-504dc7350148">World News in Pictures</a></div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-9912867">
+<a href="http://www.independent.co.uk/register/?news" style="display: block;padding-top: 25px;" title="Start your day with The Independent, sign up for daily news emails"><img alt="Start your day with The Independent, sign up for daily news emails" src="http://www.independent.co.uk/independent.co.uk/assets/images/startyourday-b.jpg?ver=2" width="100%"/></a>
+</div>
+
+<div class="comment-formatting-btn-link" id="anchor-href-comment">
+<label for="anchor-href">Enter URL:</label>
+<input name="anchor-href" placeholder="Enter URL:" type="text" value="http://"/>
+</div>
+<div class="comment-formatting-btn-link" id="anchor-href-reply">
+<label for="anchor-href">Enter URL:</label>
+<input name="anchor-href" placeholder="Enter URL:" type="text" value="http://"/>
+</div>
+
+
+
+
+<div class="widget customGigya comments widget-editable viziwyg-section-507 inpage-widget-8977459 voicesSingleComment news" id="commentReference">
+
+<div id="singleCommentHeader"></div>
+</div>
+</div>
+<div class="column-2">
+<div class="widget stories custom widget-editable viziwyg-section-537 inpage-widget-9189186 hpStories default">
+<!-- Changing ImagePosition from top -->
+<!-- Changed ImagePosition to -->
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w140 -->
+<div class="article news News-home first default ">
+<span class="puff-header">News</span>
+<!-- Custom : Using ArticleLayout : true, ImageLayout: landscape, Image Position : , Title Layout : bottom -->
+<div class="stories-picture landscape image-">
+<img alt="BILL NIGHY, AGE: 58, LIKES: cueing up the Stones on his iPod; wearing Ray-Bans" class=" ip-ic ip-i-5086213-ALTERNATES-w140 ip-id-140-92 ip-s-525 " height="92" onclick="location.href='http://www.independent.co.uk/news/people/bill-nighy-thinks-about-death-12-times-a-day-10033429.html';" src="http://www.independent.co.uk/migration_catalog/article5086213.ece/alternates/w140/nighy_ap.jpeg" title="" width="140"/>
+</div>
+<div class="text text-bottom ">
+<h3>
+<a class=" title" href="http://www.independent.co.uk/news/people/bill-nighy-thinks-about-death-12-times-a-day-10033429.html">
+The actor reveals his obsessive fascination with his own death
+</a>
+</h3>
+</div>
+<div class="intro">
+<span class=" ">
+<span class="clhdRed">Bill Nighy</span>
+</span>
+</div>
+</div>
+<!-- Changing ImagePosition from top -->
+<!-- Changed ImagePosition to -->
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w140 -->
+<div class="article news News-home default ">
+<span class="puff-header">News</span>
+<!-- Custom : Using ArticleLayout : true, ImageLayout: landscape, Image Position : , Title Layout : bottom -->
+<div class="stories-picture landscape image-">
+<img alt="" class=" ip-ic ip-i-10033774-ALTERNATES-w140 ip-id-140-105 ip-s-507 " height="105" onclick="location.href='http://www.independent.co.uk/news/people/iggy-azalea-threatens-papa-johns-with-legal-action-after-pizza-delivery-company-gives-out-her-mobile-number-at-the-grammys-2015-10033729.html';" src="http://www.independent.co.uk/incoming/article10033774.ece/alternates/w140/Iggy-Azalea-Getty.jpg" title="" width="140"/>
+</div>
+<div class="text text-bottom ">
+<h3>
+<a class=" title" href="http://www.independent.co.uk/news/people/iggy-azalea-threatens-papa-johns-with-legal-action-after-pizza-delivery-company-gives-out-her-mobile-number-at-the-grammys-2015-10033729.html">
+Who knew this would end up being the biggest feud of the Grammys?
+</a>
+</h3>
+</div>
+<div class="intro">
+<span class=" ">
+<span class="clhdRed">Iggy Azalea</span>
+</span>
+</div>
+</div>
+<!-- Changing ImagePosition from top -->
+<!-- Changed ImagePosition to -->
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w140 -->
+<div class="article news News-home default ">
+<span class="puff-header">News</span>
+<!-- Custom : Using ArticleLayout : true, ImageLayout: landscape, Image Position : , Title Layout : bottom -->
+<div class="stories-picture landscape image-">
+<img alt="" class=" ip-ic ip-i-9271119-ALTERNATES-w140 ip-id-140-105 ip-s-507 " height="105" onclick="location.href='http://www.independent.co.uk/news/people/jack-white-redfaced-after-oklahoma-students-publish-diva-rider-that-stipulates-particular-guacamole-recipe-and-bans-bananas-10031600.html';" src="http://www.independent.co.uk/incoming/article9271119.ece/alternates/w140/Jack-White-GETTY.jpg" title="" width="140"/>
+</div>
+<div class="text text-bottom ">
+<h3>
+<a class=" title" href="http://www.independent.co.uk/news/people/jack-white-redfaced-after-oklahoma-students-publish-diva-rider-that-stipulates-particular-guacamole-recipe-and-bans-bananas-10031600.html">
+Musician red-faced after students publish this outrageous rider
+</a>
+</h3>
+</div>
+<div class="intro">
+<span class=" ">
+<span class="clhdRed">Jack White</span>
+</span>
+</div>
+</div>
+<!-- Changing ImagePosition from top -->
+<!-- Changed ImagePosition to -->
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w140 -->
+<div class="article news News-home default ">
+<span class="puff-header">News</span>
+<!-- Custom : Using ArticleLayout : true, ImageLayout: landscape, Image Position : , Title Layout : bottom -->
+<div class="stories-picture landscape image-">
+<img alt="DiLeo and Jackson on the set of “Bad” in 1987" class=" ip-ic ip-i-10034244-ALTERNATES-w140 ip-id-140-105 ip-s-507 " height="105" onclick="location.href='http://www.independent.co.uk/news/people/the-mafia-planned-to-murder-michael-jackson-goodfellas-star-frank-dileo-reportedly-claimed-10034203.html';" src="http://www.independent.co.uk/incoming/article10034244.ece/alternates/w140/DiLeo-Jackson-Getty.jpg" title="DiLeo and Jackson on the set of “Bad” in 1987" width="140"/>
+</div>
+<div class="text text-bottom ">
+<h3>
+<a class=" title" href="http://www.independent.co.uk/news/people/the-mafia-planned-to-murder-michael-jackson-goodfellas-star-frank-dileo-reportedly-claimed-10034203.html">
+Mafia planned to murder Michael Jackson, Goodfellas star claims
+</a>
+</h3>
+</div>
+<div class="intro">
+<span class=" ">
+<span class="clhdRed">Frank DiLeo</span>
+</span>
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8829914 relativeWidget obVideo">
+<style type="text/css">
+<!--
+.ob_org_header {display:none!important;}
+.relativeWidget {position:relative;}
+.obVideo {margin-top:11px;}
+-->
+</style>
+<span style="background: #000;font-family: 'Open Sans', sans serif;position: absolute;top: -10px;left: 0;padding: 3px 10px;margin-left: 0;color: #fff;font-weight: 800;z-index: 999;text-transform: uppercase;">PROMOTED VIDEO</span>
+<div class="OUTBRAIN" data-ob-template="TheIndependent" data-widget-id="VR_1"></div>
+
+
+</div>
+<div class="widget stories custom widget-editable viziwyg-section-537 inpage-widget-9592541 hpStories default">
+<!-- Changing ImagePosition from top -->
+<!-- Changed ImagePosition to -->
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w140 -->
+<div class="article news ebooks-home first default ">
+<span class="puff-header">ebooks</span>
+<!-- Custom : Using ArticleLayout : true, ImageLayout: landscape, Image Position : , Title Layout : bottom -->
+<div class="stories-picture landscape image-">
+<img alt="" class=" ip-ic ip-i-10011277-ALTERNATES-w140 ip-id-140-171 ip-s-507 " height="171" onclick="location.href='http://www.independent.co.uk/ebooks/the-iraq-report-10000303.html';" src="http://www.independent.co.uk/incoming/article10011277.ece/alternates/w140/Iraq%20report%20website.jpg" title="" width="140"/>
+</div>
+<div class="text text-bottom ">
+<h3>
+<a class=" title" href="http://www.independent.co.uk/ebooks/the-iraq-report-10000303.html">
+The Iraq Report
+</a>
+</h3>
+</div>
+<div class="intro">
+<span class=" ">
+<span class="clhdRed">ebooks</span>A special investigation by Andy McSmith
+</span>
+</div>
+</div>
+</div>
+<div class="widget stories custom widget-editable viziwyg-section-537 inpage-widget-9189206 hpStories default">
+<!-- Changing ImagePosition from top -->
+<!-- Changed ImagePosition to -->
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w140 -->
+<div class="article news News-home first default ">
+<span class="puff-header">News</span>
+<!-- Custom : Using ArticleLayout : true, ImageLayout: landscape, Image Position : , Title Layout : bottom -->
+<div class="stories-picture landscape image-">
+<img alt="" class=" ip-ic ip-i-10031808-ALTERNATES-w140 ip-id-140-105 ip-s-507 " height="105" onclick="location.href='http://www.independent.co.uk/news/people/adult-film-stars-allie-haze-james-deen-and-more-offer-romantic-relationship-advice-10031807.html';" src="http://www.independent.co.uk/incoming/article10031808.ece/alternates/w140/Allie-Haze-Buzzfeed.jpg" title="" width="140"/>
+</div>
+<div class="text text-bottom ">
+<h3>
+<a class=" title" href="http://www.independent.co.uk/news/people/adult-film-stars-allie-haze-james-deen-and-more-offer-romantic-relationship-advice-10031807.html">
+Adult film stars offer surprisingly romantic relationship advice
+</a>
+</h3>
+</div>
+<div class="intro">
+<span class=" ">
+<span class="clhdRed">Allie Haze</span>
+</span>
+</div>
+</div>
+<!-- Changing ImagePosition from top -->
+<!-- Changed ImagePosition to -->
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w140 -->
+<div class="article news News-home default ">
+<span class="puff-header">News</span>
+<!-- Custom : Using ArticleLayout : true, ImageLayout: landscape, Image Position : , Title Layout : bottom -->
+<div class="stories-picture landscape image-">
+<img alt="" class=" ip-ic ip-i-10034337-ALTERNATES-w140 ip-id-140-105 ip-s-507 " height="105" onclick="location.href='http://www.independent.co.uk/news/people/bruce-jenner-accident-former-olympian-releases-statement-following-his-involvement-in-devastating-car-crash-10034320.html';" src="http://www.independent.co.uk/incoming/article10034337.ece/alternates/w140/Bruce-Jenner-Rex1.jpg" title="" width="140"/>
+</div>
+<div class="text text-bottom ">
+<h3>
+<a class=" title" href="http://www.independent.co.uk/news/people/bruce-jenner-accident-former-olympian-releases-statement-following-his-involvement-in-devastating-car-crash-10034320.html">
+Olympian releases statement following 'devastating' car crash
+</a>
+</h3>
+</div>
+<div class="intro">
+<span class=" ">
+<span class="clhdRed">Bruce Jenner</span>
+</span>
+</div>
+</div>
+<!-- Changing ImagePosition from top -->
+<!-- Changed ImagePosition to -->
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w140 -->
+<div class="article news News-home default ">
+<span class="puff-header">News</span>
+<!-- Custom : Using ArticleLayout : true, ImageLayout: landscape, Image Position : , Title Layout : bottom -->
+<div class="stories-picture landscape image-">
+<img alt="'Left Shark' was described as being 'drunk' and having 'no idea what he was doing'" class=" ip-ic ip-i-10017557-ALTERNATES-w140 ip-id-140-105 ip-s-507 " height="105" onclick="location.href='http://www.independent.co.uk/news/people/katy-perry-lawyers-demand-left-shark-3d-costume-be-removed-from-website-10030674.html';" src="http://www.independent.co.uk/incoming/article10017557.ece/alternates/w140/v2-Katy-Perry.jpg" title="'Left Shark' was described as being 'drunk' and having 'no idea what he was doing'" width="140"/>
+</div>
+<div class="text text-bottom ">
+<h3>
+<a class=" title" href="http://www.independent.co.uk/news/people/katy-perry-lawyers-demand-left-shark-3d-costume-be-removed-from-website-10030674.html">
+Lawyers demand Left Shark costume be removed from website
+</a>
+</h3>
+</div>
+<div class="intro">
+<span class=" ">
+<span class="clhdRed">Katy Perry</span>
+</span>
+</div>
+</div>
+<!-- Changing ImagePosition from top -->
+<!-- Changed ImagePosition to -->
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w140 -->
+<div class="article news News-home default ">
+<span class="puff-header">News</span>
+<!-- Custom : Using ArticleLayout : true, ImageLayout: landscape, Image Position : , Title Layout : bottom -->
+<div class="stories-picture landscape image-">
+<img alt="" class=" ip-ic ip-i-10031623-ALTERNATES-w140 ip-id-140-105 ip-s-507 " height="105" onclick="location.href='http://www.independent.co.uk/news/people/stephen-fry-admits-he-deliberately-planted-a-fake-wedding-date-to-throw-the-press-off-10031618.html';" src="http://www.independent.co.uk/incoming/article10031623.ece/alternates/w140/Fry-Ross-Rex.jpg" title="" width="140"/>
+</div>
+<div class="text text-bottom ">
+<h3>
+<a class=" title" href="http://www.independent.co.uk/news/people/stephen-fry-admits-he-deliberately-planted-a-fake-wedding-date-to-throw-the-press-off-10031618.html">
+Actor deliberately planted these false details to throw the press off
+</a>
+</h3>
+</div>
+<div class="intro">
+<span class=" ">
+<span class="clhdRed">Stephen Fry</span>
+</span>
+</div>
+</div>
+<!-- Changing ImagePosition from top -->
+<!-- Changed ImagePosition to -->
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w140 -->
+<div class="article news News-home default ">
+<span class="puff-header">News</span>
+<!-- Custom : Using ArticleLayout : true, ImageLayout: landscape, Image Position : , Title Layout : bottom -->
+<div class="stories-picture landscape image-">
+<img alt="" class=" ip-ic ip-i-10031749-ALTERNATES-w140 ip-id-140-105 ip-s-507 " height="105" onclick="location.href='http://www.independent.co.uk/news/people/davina-mccall-confesses-she-still-attends-narcotics-anonymous-meetings-after-suffering-from-heroin-addiction-10031739.html';" src="http://www.independent.co.uk/incoming/article10031749.ece/alternates/w140/Davina-McCall.jpg" title="" width="140"/>
+</div>
+<div class="text text-bottom ">
+<h3>
+<a class=" title" href="http://www.independent.co.uk/news/people/davina-mccall-confesses-she-still-attends-narcotics-anonymous-meetings-after-suffering-from-heroin-addiction-10031739.html">
+Presenter admits she still attends Narcotics Anonymous meetings
+</a>
+</h3>
+</div>
+<div class="intro">
+<span class=" ">
+<span class="clhdRed">Davina McCall</span>
+</span>
+</div>
+</div>
+<!-- Changing ImagePosition from top -->
+<!-- Changed ImagePosition to -->
+<!-- Image Version is w140, fullWidthFixedHeight is w220h100, half is w140, Thum is w80 -->
+<!-- Image Version is w140 -->
+<div class="article news News-home default ">
+<span class="puff-header">News</span>
+<!-- Custom : Using ArticleLayout : true, ImageLayout: landscape, Image Position : , Title Layout : bottom -->
+<div class="stories-picture landscape image-">
+<img alt="Sir David Attenborough" class=" ip-ic ip-i-10007865-ALTERNATES-w140 ip-id-140-103 ip-s-507 " height="103" onclick="location.href='http://www.independent.co.uk/news/people/sir-david-attenborough-finally-has-a-living-species-named-after-him-in-the-uk-10028691.html';" src="http://www.independent.co.uk/incoming/article10007865.ece/alternates/w140/David-Attenboroughrexfeatures_4272120b.jpg" title="Sir David Attenborough" width="140"/>
+</div>
+<div class="text text-bottom ">
+<h3>
+<a class=" title" href="http://www.independent.co.uk/news/people/sir-david-attenborough-finally-has-a-living-species-named-after-him-in-the-uk-10028691.html">
+Naturalist finally has a living species named after him in the UK
+</a>
+</h3>
+</div>
+<div class="intro">
+<span class=" ">
+<span class="clhdRed">David Attenborough</span>
+</span>
+</div>
+</div>
+</div>
+<a href="http://www.independent.co.uk/register/?news" style="width: 140px; display: block; border: 0 none;"><img alt="" src="http://www.independent.co.uk/independent.co.uk/assets/images/startTheDay-140x220-final.jpg" style=" border: 0 none; width: 140px; max-width: 100%;"/></a>
+</div>
+</div>
+</div>
+</div>
+<div id="side">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-9881509">
+<style>
+#veterans {width:300px;margin:0;padding:0;height:86px;overflow:hidden;}
+#veteranLogo {float:left;background-color: #000;height:86px;overflow:hidden;}
+#veteranDonate {float:right;width:100px;background:#ec1b2e;height:86px;}
+#veteranDonate ul {
+padding:0px;
+margin: 0px;
+font-size: 14px;
+line-height: 15px;
+font-weight: bold;
+font-family: 'Open Sans', sans-serif;
+text-transform: uppercase;
+text-align:center;
+}
+#veteranDonate ul li {}
+#veteranDonate ul li a {display:block;text-decoration: none;color:#fff;padding:6px 0;}
+#veteranDonate ul li a:hover {color:#ccc;}
+</style>
+<div id="veterans">
+<div id="veteranLogo"><img src="http://www.independent.co.uk/incoming/article9881517.ece/alternates/w620/veteranLogo.jpg" width="200px"/>
+<div id="veteranDonate">
+<ul>
+<li><a href="https://donate.homelessveterans.co.uk/" target="_blank">donate<br>now</br></a></li>
+<li><a href="http://www.homelessveterans.co.uk/" target="_blank">read about<br>our appeal</br></a></li>
+<ul>
+</ul></ul></div>
+</div>
+</div>
+</div>
+<div class="x300 searchRow">
+<div class="column-1">
+<div class="widget search simpleForm widget-editable viziwyg-section-1023 inpage-widget-5054704 superSearchBox">
+
+<div class="simpleSearch" id="simpleSearch-5054704">
+<form action="http://www.independent.co.uk/search/simple.do" method="get" onsubmit="return validateSimpleSearchForm(this, 'emptySearchExpressionError-5054704');">
+<fieldset>
+<input name="destinationSectionUniqueName" type="hidden" value="search"/>
+<input name="publicationName" type="hidden" value="ind"/>
+<input name="sortString" type="hidden" value="publishdate"/>
+<input name="sortOrder" type="hidden" value="desc"/>
+<input name="sectionId" type="hidden" value="506"/>
+<input name="articleTypes" type="hidden" value="news"/>
+<input name="pageNumber" type="hidden" value="1"/>
+<input name="pageLength" type="hidden" value="10"/>
+<input name="startDay" type="hidden" value="1"/>
+<input name="startMonth" type="hidden" value="1"/>
+<input name="startYear" type="hidden" value="2010"/>
+<input name="useSectionFilter" type="hidden" value="true"/>
+<input name="useHideArticle" type="hidden" value="true"/>
+<p class="error" id="emptySearchExpressionError-5054704" style="display:none;">
+Please provide search keyword(s)
+</p>
+<input class="field" name="searchString" type="text" value=""/>
+<input class="button" title="Click here to search" type="submit" value="Go"/>
+</fieldset>
+</form>
+</div>
+
+</div>
+<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054702 searchLinks">
+<ul>
+<li>
+<a href="http://www.independent.co.uk/advancedsearch/">
+<span>Advanced search </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/article-archive/">
+<span>Article archive </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/topics/">
+<span>Topics </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-9585175">
+
+<style>
+/*@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);*/
+.i100-img {
+position: relative;
+float: left;
+width: 70px;
+padding: 5px;
+margin-bottom: 4px;
+max-height: 60px;
+overflow: hidden;
+}
+#i100-wrap {position:relative;width:299px;border:1px solid #ccc;background:#d0d2d5;}
+#i100-list {position:relative;width:300px;margin-top:4px;padding-bottom:4px;}
+.i100-item {position:relative;width:270px;border:1px solid #ccc;margin:0 auto 5px;padding:4px;border-left:3px solid #b80000;-webkit-box-shadow: 0 2px 3px 0 #aaa;
+box-shadow: 0 2px 3px 0 #aaa;background:#fff;}
+.i100-item:hover {background:#e9e9e9;}
+.i100-item:after {visibility: hidden;display: block;font-size: 0;content: " ";clear: both;height: 0;}
+.i100-item.card-discover {border-left:3px solid #ed1b2f;}
+.i100-item.card-news {border-left:3px solid #e67e22;}
+.i100-item.card-people {border-left:3px solid #f1c40f;}
+.i100-item.card-videos {border-left:3px solid #57d68d;}
+.i100-item.card-sport {border-left:3px solid #40a9ef;}
+.i100-item.card-tech {border-left:3px solid #3f57ec;}
+.i100-item.card-offbeat {border-left:3px solid #9b2fc7;}
+.i100-item.card-ents {border-left:3px solid #d43998;}
+.i100-img {position:relative;float:left;width:60px;padding:5px;}
+.i100-txt {position:relative;float:right;width:180px;padding:0 3px 5px 7px;font-family:Georgia,"Times New Roman",Serif;text-align:left;}
+.i100-txt a {color:#000;text-decoration:none;}
+.i100-count {color:#ec1b2e;font-size:19px;padding-right:4px;line-height: 27px;font-family: 'Roboto Slab', serif;}
+.i100-headline {font-family: 'Roboto Slab', serif; font-size:12px;}
+</style>
+<div id="i100-wrap">
+<a href="http://i100.independent.co.uk/?utm_source=indy&amp;utm_medium=top5logo&amp;utm_campaign=i100" target="_blank"><img alt="Latest stories from i100" src="http://www.independent.co.uk/independent.co.uk/editorial/images/i100-header2.png"/></a>
+<div id="i100-list"></div>
+</div>
+</div>
+<div class="x300 ">
+<div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643779">
+<div id="mpu">
+
+</div>
+</div>
+</div>
+</div>
+<div class="tabbingGroup ">
+<div class="defaultTab" id="tabs-1">
+<ul class="tabs">
+<li id="tabs-1-1">
+<a class="tabMenuItem" href="#tabs-1-1">
+<span>Most Shared</span></a>
+</li>
+<li id="tabs-1-2">
+<a class="tabMenuItem" href="#tabs-1-2">
+<span>Most Viewed</span></a>
+</li>
+<li id="tabs-1-3">
+<a class="tabMenuItem" href="#tabs-1-3">
+<span>Most Commented</span></a>
+</li>
+</ul>
+<div class="tabPanes">
+<div class="tabPane">
+<div class="mostShared widget ">
+<ul>
+<li class="mmm">
+<span>1</span>
+<div class="leftImage">
+<a href="http://www.independent.co.uk/voices/comment/i-am-not-a-scientist-but-i-am-a-mother--i-know-why-my-son-has-autism-10029318.html">
+<img alt="" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article10029317.ece/alternates/w88h52/babyjackcarielloautism.JPG" title="Carrie Cariello's son Jack" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/voices/comment/i-am-not-a-scientist-but-i-am-a-mother--i-know-why-my-son-has-autism-10029318.html">I am not a scientist, but I am a mother — I know why my son has autism</a>
+</li>
+<!-- 1 - 1 - 10029318 - http://www.independent.co.uk/voices/comment/i-know-why-my-son-has-autism-and-it-has-nothing-to-do-with-a-vaccine-10029318.html -->
+<li class="mmm">
+<span>2</span>
+<div class="leftImage">
+<a href="http://www.independent.co.uk/sport/football/news-and-comment/manchester-united-players-made-sex-tape-in-club-toilets-and-passed-video-between-teammates-10031777.html">
+<img alt="A view outside Old Trafford" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article8583262.ece/alternates/w88h52/old-trafford-v2.jpg" title="A view outside Old Trafford" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/sport/football/news-and-comment/manchester-united-players-made-sex-tape-in-club-toilets-and-passed-video-between-teammates-10031777.html">Manchester United players 'made sex tape in club toilets and passed video between team-mates'</a>
+</li>
+<!-- 2 - 2 - 10031777 - http://cms-ind.prod.indes.firstclarity.com/sport/football/news-and-comment/manchester-united-players-made-sex-tape-in-club-toilets-and-passed-video-between-teammates-10031777.html -->
+<li class="mmm">
+<span>3</span>
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/people/beck-responds-to-kanye-wests-stage-invasion-at-the-grammys-2015-in-the-most-unexpected-way-10033833.html">
+<img alt="Album of the Year winner Beck jests with Kanye West after the rapper poked fun at the previous controversy over his Taylor Swift interjection by jumping up during Beck's speech" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article10032819.ece/alternates/w88h52/v2-beck.jpg" title="Album of the Year winner Beck jests with Kanye West after the rapper poked fun at the previous controversy over his Taylor Swift interjection by jumping up during Beck's speech" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/people/beck-responds-to-kanye-wests-stage-invasion-at-the-grammys-2015-in-the-most-unexpected-way-10033833.html">Beck responds to Kanye West's Grammys 2015 stage invasion in the most unexpected way</a>
+</li>
+<!-- 3 - 3 - 10033833 - http://cms-ind.prod.indes.firstclarity.com/news/people/beck-responds-to-kanye-wests-stage-invasion-at-the-grammys-2015-in-the-most-unexpected-way-10033833.html -->
+<li class="mmm">
+<span>4</span>
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/people/myleene-klass-receives-stronglyworded-newsletter-from-school-headteacher-if-you-cant-tweet-anything-nice-10033249.html">
+<img alt="Myleene Klass" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article9873371.ece/alternates/w88h52/Myleene-Klass.jpg" title="Myleene Klass" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/people/myleene-klass-receives-stronglyworded-newsletter-from-school-headteacher-if-you-cant-tweet-anything-nice-10033249.html">Myleene Klass receives strongly-worded newsletter from daughter's school headteacher: 'If you can't tweet anything nice...'</a>
+</li>
+<!-- 4 - 4 - 10033249 - http://cms-ind.prod.indes.firstclarity.com/news/people/myleene-klass-receives-stronglyworded-newsletter-from-school-headteacher-if-you-cant-tweet-anything-nice-10033249.html -->
+<li class="mmm">
+<span>5</span>
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/world/asia/north-korea-its-not-a-problem-that-country-goes-dark-at-night-10033200.html">
+<img alt="North Korea appears as a black expanse of sea between neighbouring China (left) and South Korea (right)" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article9151123.ece/alternates/w88h52/v4-North-Korea-at-night.jpg" title="North Korea appears as a black expanse of sea between neighbouring China (left) and South Korea (right)" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/world/asia/north-korea-its-not-a-problem-that-country-goes-dark-at-night-10033200.html">North Korea: it's not a problem that our country goes dark at night</a>
+</li>
+<!-- 5 - 5 - 10033200 - http://www.independent.co.uk/news/world/asia/north-korea-its-not-a-problem-that-country-goes-dark-at-night-10033200.html -->
+<!-- 6 - 6 - 10032912 - http://www.independent.co.uk/news/uk/home-news/british-muslims-protest-against-cartoons-of-prophet-in-face-of-britain-first-counterdemo-10032912.html -->
+<!-- 7 - 7 - 10032619 - http://www.independent.co.uk/news/science/archaeology/news/could-crossrail-have-uncovered-the-last-resting-place-of-britains-leftwing-martyr-in-bedlam-burial-ground-under-liverpool-street-station-10032619.html -->
+<!-- 8 - 8 - 10034203 - http://cms-ind.prod.indes.firstclarity.com/news/people/the-mafia-planned-to-murder-michael-jackson-goodfellas-star-frank-dileo-reportedly-claimed-10034203.html -->
+<!-- 9 - 9 - 10032794 - http://cms-ind.prod.indes.firstclarity.com/arts-entertainment/music/news/grammys-2015-pharrell-williams-channels-bell-boy-mickey-mouse-in-insane-happy-performance-10032794.html -->
+<!-- 10 - 10 - 10032596 - http://www.independent.co.uk/news/uk/home-news/the-british-accent-is-the-worlds-most-attractive-according-to-poll-10032596.html -->
+</ul> </div> </div>
+<div class="tabPane">
+<div class="mostViewed widget ">
+<ul>
+<li class="mmm">
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/people/beck-responds-to-kanye-wests-stage-invasion-at-the-grammys-2015-in-the-most-unexpected-way-10033833.html"> <img alt="Album of the Year winner Beck jests with Kanye West after the rapper poked fun at the previous controversy over his Taylor Swift interjection by jumping up during Beck's speech" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article10032819.ece/alternates/w88h52/v2-beck.jpg" title="Album of the Year winner Beck jests with Kanye West after the rapper poked fun at the previous controversy over his Taylor Swift interjection by jumping up during Beck's speech" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/people/beck-responds-to-kanye-wests-stage-invasion-at-the-grammys-2015-in-the-most-unexpected-way-10033833.html">Beck responds to Kanye West's Grammys 2015 stage invasion in the most unexpected way</a>
+<br/>
+</li>
+<!-- 1 - 1 - 10033833 - http://cms-ind.prod.indes.firstclarity.com/news/people/beck-responds-to-kanye-wests-stage-invasion-at-the-grammys-2015-in-the-most-unexpected-way-10033833.html -->
+<li class="mmm">
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/people/myleene-klass-receives-stronglyworded-newsletter-from-school-headteacher-if-you-cant-tweet-anything-nice-10033249.html"> <img alt="Myleene Klass" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article9873371.ece/alternates/w88h52/Myleene-Klass.jpg" title="Myleene Klass" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/people/myleene-klass-receives-stronglyworded-newsletter-from-school-headteacher-if-you-cant-tweet-anything-nice-10033249.html">Myleene Klass receives strongly-worded newsletter from daughter's school headteacher: 'If you can't tweet anything nice...'</a>
+<br/>
+</li>
+<!-- 2 - 2 - 10033249 - http://cms-ind.prod.indes.firstclarity.com/news/people/myleene-klass-receives-stronglyworded-newsletter-from-school-headteacher-if-you-cant-tweet-anything-nice-10033249.html -->
+<li class="mmm">
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/world/asia/north-korea-its-not-a-problem-that-country-goes-dark-at-night-10033200.html"> <img alt="North Korea appears as a black expanse of sea between neighbouring China (left) and South Korea (right)" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article9151123.ece/alternates/w88h52/v4-North-Korea-at-night.jpg" title="North Korea appears as a black expanse of sea between neighbouring China (left) and South Korea (right)" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/world/asia/north-korea-its-not-a-problem-that-country-goes-dark-at-night-10033200.html">North Korea: it's not a problem that our country goes dark at night</a>
+<br/>
+</li>
+<!-- 3 - 3 - 10033200 - http://www.independent.co.uk/news/world/asia/north-korea-its-not-a-problem-that-country-goes-dark-at-night-10033200.html -->
+<li class="mmm">
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/uk/home-news/muslims-protest-against-cartoons-of-prophet-mohamed-in-face-of-britain-first-counterdemo-10032912.html"> <img alt="" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article10032928.ece/alternates/w88h52/britain-first-muslims-protest-london.jpg" title="A member of Britain First talking with a Muslim protester on Whitehall" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/uk/home-news/muslims-protest-against-cartoons-of-prophet-mohamed-in-face-of-britain-first-counterdemo-10032912.html">Muslims protest on Whitehall against Charlie Hebdo cartoons of Prophet Mohamed</a>
+<br/>
+</li>
+<!-- 4 - 4 - 10032912 - http://www.independent.co.uk/news/uk/home-news/british-muslims-protest-against-cartoons-of-prophet-in-face-of-britain-first-counterdemo-10032912.html -->
+<li class="mmm">
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/science/archaeology/news/could-crossrail-have-uncovered-the-last-resting-place-of-britains-leftwing-martyr-in-bedlam-burial-ground-under-liverpool-street-station-10032619.html"> <img alt="Archaeologists at the Bedlam burial site in Liverpool Street, central London, part of excavations for the Crossrail project" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article10032683.ece/alternates/w88h52/Crossrail-PA-v3.jpg" title="Archaeologists at the Bedlam burial site in Liverpool Street, central London, part of excavations for the Crossrail project" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/science/archaeology/news/could-crossrail-have-uncovered-the-last-resting-place-of-britains-leftwing-martyr-in-bedlam-burial-ground-under-liverpool-street-station-10032619.html">Could Crossrail have uncovered the last resting place of Britain's left-wing martyr in Bedlam burial ground under Liverpool Street station?</a>
+<br/>
+</li>
+<!-- 5 - 5 - 10032619 - http://www.independent.co.uk/news/science/archaeology/news/could-crossrail-have-uncovered-the-last-resting-place-of-britains-leftwing-martyr-in-bedlam-burial-ground-under-liverpool-street-station-10032619.html -->
+<!-- 6 - 6 - 10033729 - http://cms-ind.prod.indes.firstclarity.com/news/people/iggy-azalea-threatens-papa-johns-with-legal-action-after-pizza-delivery-company-gives-out-her-mobile-number-10033729.html -->
+<!-- 7 - 7 - 10031611 - http://www.independent.co.uk/news/world/asia/american-sisters-deported-after-taking-nude-photos-at-cambodias-angkor-wat-temple-10031611.html -->
+<!-- 8 - 8 - 10032596 - http://www.independent.co.uk/news/uk/home-news/the-british-accent-is-the-worlds-most-attractive-according-to-poll-10032596.html -->
+<!-- 9 - 9 - 10033463 - http://www.independent.co.uk/news/world/europe/ukraine-crisis-vladimir-putin-warns-of-a-big-catastrophe-as-kiev-disrupts-prorussia-rebels-10033463.html -->
+<!-- 10 - 10 - 10032378 - http://www.independent.co.uk/news/world/europe/russias-growing-threat-after-ukraine-fears-grow-that-baltic-states-could-be-vladimir-putins-next-targets-10032378.html -->
+</ul> </div>
+</div>
+<div class="tabPane">
+<div class="widget webAnalytics gigya widget-editable viziwyg-section-507 inpage-widget-9009777 mostShared">
+<ul id="mostCommentedListId">
+<li class="mmm">
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/uk/home-news/outcry-after-undercover-film-exposes-brutality-of-halal-industry-10019467.html">
+<img alt="Footage showed workers hacking at animals’ throats and kicking them in the face (Animal Aid/PA Wire)" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article10019391.ece/alternates/w88h52/v2-4-Halal1v2.jpg" title="Footage showed workers hacking at animals’ throats and kicking them in the face (Animal Aid/PA Wire)" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/uk/home-news/outcry-after-undercover-film-exposes-brutality-of-halal-industry-10019467.html">
+Halal slaughter: Outcry after undercover film exposes brutality of industry	</a>
+<br/>
+<div class="bylineTextWithCommentCount">
+<a class="author" href="http://www.independent.co.uk/biography/nigel-morris">Nigel Morris</a>
+</div>
+</li>
+<li class="mmm">
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/world/europe/russias-growing-threat-after-ukraine-fears-grow-that-baltic-states-could-be-vladimir-putins-next-targets-10032378.html">
+<img alt="Ukrainian military defend the government-held town of Debaltseve from Russian-armed rebels" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article10032403.ece/alternates/w88h52/7-Ukrainian-military-AP.jpg" title="Ukrainian military defend the government-held town of Debaltseve from Russian-armed rebels" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/world/europe/russias-growing-threat-after-ukraine-fears-grow-that-baltic-states-could-be-vladimir-putins-next-targets-10032378.html">
+'Russia's growing threat': After Ukraine, fears grow that Baltic states could be Vladimir Putin's next targets	</a>
+<br/>
+<div class="bylineTextWithCommentCount">
+<a class="author">Ian Johnston</a>
+</div>
+</li>
+<li class="mmm">
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/world/europe/vladimir-putin-is-acting-like-a-mid20th-century-tyrant-who-will-pay-the-price-over-ukraine-says-britains-philip-hammond-10031644.html">
+<img alt="" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article10019458.ece/alternates/w88h52/5-Putin-Get.jpg" title="" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/world/europe/vladimir-putin-is-acting-like-a-mid20th-century-tyrant-who-will-pay-the-price-over-ukraine-says-britains-philip-hammond-10031644.html">
+Vladimir Putin is acting like 'a mid-20th century tyrant' who will 'pay the price' over Ukraine, says Britain's Philip Hammond	</a>
+<br/>
+<div class="bylineTextWithCommentCount">
+<a class="author" href="http://www.independent.co.uk/biography/adam-withnall">Adam Withnall</a>
+</div>
+</li>
+<li class="mmm">
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/uk/home-news/the-tragic-tale-of-the-pensioner-who-killed-himself-after-begging-for-help-over-benefit-cuts-10029754.html">
+<img alt="Malcolm Burge’s picture in his Order of Service" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article10029916.ece/alternates/w88h52/AN62253211Malcolm-Burge.jpg" title="Malcolm Burge’s picture in his Order of Service" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/uk/home-news/the-tragic-tale-of-the-pensioner-who-killed-himself-after-begging-for-help-over-benefit-cuts-10029754.html">
+The appalling death of a man caught up in benefits nightmare	</a>
+<br/>
+<div class="bylineTextWithCommentCount">
+<a class="author" href="http://www.independent.co.uk/biography/cahal-milmo">Cahal Milmo</a>
+</div>
+</li>
+<li class="mmm">
+<div class="leftImage">
+<a href="http://www.independent.co.uk/voices/comment/rotherhams-doctrine-of-multiculturalism-was-fundamentally-flawed--its-time-for-interculturalism-10027850.html">
+<img alt="The report said that Rotherham Council was in denial about the extent of child sexual exploitation in the town (PA)" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article10024496.ece/alternates/w88h52/16-Rotherham1-PA.jpg" title="The report said that Rotherham Council was in denial about the extent of child sexual exploitation in the town (PA)" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/voices/comment/rotherhams-doctrine-of-multiculturalism-was-fundamentally-flawed--its-time-for-interculturalism-10027850.html">
+Rotherham's doctrine of multiculturalism was fundamentally flawed — it’s time for ‘inter-culturalism’	</a>
+<br/>
+<div class="bylineTextWithCommentCount">
+<a class="author" href="http://www.independent.co.uk/biography/nigel-farage-8931418.html">Nigel Farage</a>
+</div>
+</li>
+<li class="mmm">
+<div class="leftImage">
+<a href="http://www.independent.co.uk/news/people/stephen-fry-responds-to-christian-backlash-after-confronting-god-with-bone-cancer-in-children-whats-that-about-10027984.html">
+<img alt="" class="mmmImg" height="52" src="http://www.independent.co.uk/incoming/article9965461.ece/alternates/w88h52/Stephen-Fry-Rex.jpg" title="" width="88"/>
+</a>
+</div>
+<a class="title" href="http://www.independent.co.uk/news/people/stephen-fry-responds-to-christian-backlash-after-confronting-god-with-bone-cancer-in-children-whats-that-about-10027984.html">
+Stephen Fry responds to Christian backlash after confronting God with 'Bone cancer in children? What's that about?'	</a>
+<br/>
+<div class="bylineTextWithCommentCount">
+<a class="author" href="http://www.independent.co.uk/biography/jenn-selby">Jenn Selby</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="x300 ">
+<div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643724">
+<div id="partnersmall">
+
+</div>
+</div>
+</div>
+</div>
+<div class="x300 ">
+<div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643780">
+<div id="skyscrapper">
+
+</div>
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8653288 border-bottom">
+<div class="OBR" data-ob-template="TheIndependent" id="ob_theIndependent4"></div>
+</div>
+<div class="widget promo default widget-editable viziwyg-section-507 inpage-widget-8938796 ivPromo w380" id="picGal">
+<div class="ivPromo-title">
+<a href="http://www.independent.co.uk/voices/">
+<span class="ivPromo-title-logo"></span>
+</a>
+<div class="ivPromo-title-text"><p><a href="http://www.independent.co.uk/news/pictures/">independent images</a></p></div>
+</div>
+<div class="ivPromo-container">
+<div class="ivPromo-miniCarousel">
+<div class="mini-carouselConrtainer" id="mini-carouselConrtainer8938796">
+<div class="carousel1 fullWidth voicescarousel">
+<a href="http://www.independent.co.uk/arts-entertainment/music/news/the-grammys-2015-was-manic-and-laced-with-politics-10032824.html"><img alt="Album of the Year winner Beck jests with Kanye West after the rapper poked fun at the previous controversy over his Taylor Swift interjection by jumping up during Beck's speech" height="211" src="http://www.independent.co.uk/incoming/article10032819.ece/alternates/w300/v2-beck.jpg" title="Album of the Year winner Beck jests with Kanye West after the rapper poked fun at the previous controversy over his Taylor Swift interjection by jumping up during Beck's speech" width="300"/></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/arts-entertainment/music/news/the-grammys-2015-was-manic-and-laced-with-politics-10032824.html">Grammys 2015 winners</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel2 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/arts-entertainment/films/news/baftas-2015-winners-list-in-full-as-the-grand-budapest-hotel-claims-the-most-awards-10032449.html"><img alt="Winners pose on the stage during the Baftas" height="225" src="http://www.independent.co.uk/incoming/article10032536.ece/alternates/w300/winners.jpg" title="Winners pose on the stage during the Baftas" width="300"/></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/arts-entertainment/films/news/baftas-2015-winners-list-in-full-as-the-grand-budapest-hotel-claims-the-most-awards-10032449.html">Baftas Winners 2015</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel3 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/arts-entertainment/music/news/grammys-2015-your-morning-briefing-on-what-went-down-10032804.html"><img alt="" height="220" src="http://www.independent.co.uk/incoming/article10032807.ece/alternates/w300/sia.jpg" title="Kristen Wiig and Maddie Ziegler dance during Sia's 'Chandelier' performance" width="300"/></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/arts-entertainment/music/news/grammys-2015-your-morning-briefing-on-what-went-down-10032804.html">Grammys 2015 red carpet</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel4 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/life-style/fashion/news/baftas-2015-dresses-the-red-carpet-roundup-10032204.html"><img alt="" height="225" src="http://www.independent.co.uk/incoming/article10032437.ece/alternates/w300/Untitled-1.jpg" title="Baftas 2015 dresses" width="300"/></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/life-style/fashion/news/baftas-2015-dresses-the-red-carpet-roundup-10032204.html">Baftas 2015 red carpet</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel5 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/news/people/jordanian-pilot-muath-alkasaesbehs-griefstricken-wife-on-the-horror-of-finding-that-isis-had-immolated-her-husband-10027330.html"><img alt="Jordan's Queen Rania offers her condolences to the family of Jordanian pilot Muath al-Kasaesbeh, at their family home of Muath in the city of Karak" height="225" src="http://www.independent.co.uk/incoming/article10027674.ece/alternates/w300/jordan-queen-v3.jpg" title="Jordan's Queen Rania offers her condolences to the family of Jordanian pilot Muath al-Kasaesbeh, at their family home of Muath in the city of Karak" width="300"/></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/news/people/jordanian-pilot-muath-alkasaesbehs-griefstricken-wife-on-the-horror-of-finding-that-isis-had-immolated-her-husband-10027330.html">Anti-Isis protest in Jordan</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel6 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/life-style/health-and-families/health-news/most-unusual-xrays-radiopaedia-cases-show-deodorant-cans-coffee-jars-and-other-foreign-objects-stuck-inside-patients-10028618.html"><img alt="Case courtesy of Dr Frank Gaillard, Radiopaedia.org" height="400" src="http://www.independent.co.uk/incoming/article10028295.ece/alternates/w300/spraycan.jpg" title="Most unusual X-rays" width="300"/></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/life-style/health-and-families/health-news/most-unusual-xrays-radiopaedia-cases-show-deodorant-cans-coffee-jars-and-other-foreign-objects-stuck-inside-patients-10028618.html">Most unusual X-rays</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel7 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/news/pictures/news-in-pictures-8926832.html"><img alt="9 February 2015: Ukrainian protesters burn tires outside the city council building as they protest against raising the public transport rates in Kiev" height="225" src="http://www.independent.co.uk/incoming/article10033834.ece/alternates/w300/world%20in%20pic-1.jpg" title="9 February 2015: Ukrainian protesters burn tires outside the city council building as they protest against raising the public transport rates in Kiev" width="300"/></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/news/pictures/news-in-pictures-8926832.html">World news in pictures</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel8 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/news/pictures/uk-news-in-pictures-8926843.html"><img alt="9 February 2015: Fans of the television series Game of Thrones take pictures at the opening of the Game of Thrones exhibition at the O2 arena in London" height="225" src="http://www.independent.co.uk/incoming/article10034404.ece/alternates/w300/britain-in-pic-2.jpg" title="9 February 2015: Fans of the television series Game of Thrones take pictures at the opening of the Game of Thrones exhibition at the O2 arena in London" width="300"/></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/news/pictures/uk-news-in-pictures-8926843.html">UK news in pictures</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel9 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/news/pictures/arts--ents-news-in-pictures-9106970.html"><img alt="9 February 2015: A gold-plated 'Zodiac Heads' by Chinese artist Ai WeiWei, valued at GBP 2m-3m (2,691,400 to 4,037,100 euros), will be auctioned in London on 12 February 2015" height="225" src="http://www.independent.co.uk/incoming/article10034410.ece/alternates/w300/art.jpg" title="9 February 2015: A gold-plated 'Zodiac Heads' by Chinese artist Ai WeiWei, valued at GBP 2m-3m (2,691,400 to 4,037,100 euros), will be auctioned in London on 12 February 2015" width="300"/></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/news/pictures/arts--ents-news-in-pictures-9106970.html">Arts + Ents news in pictures </a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carousel10 fullWidth voicescarousel" style="display:none">
+<a href="http://www.independent.co.uk/sport/sport-in-pictures-8940102.html"><img alt="9 February 2015: Pakistan batsman Sohaib Maqsood (R) plays a shot as Bangladesh wicketkeeper Mushfiqur Rahim looks on during a one-day international warm-up cricket match between Pakistan and Bangladesh at Blacktown Sports Park in Sydney, ahead of the forthcoming Cricket World Cup 2015 which will be played in Australia and New Zealand starting 14 February" height="225" src="http://www.independent.co.uk/incoming/article10034438.ece/alternates/w300/sport.jpg" title="9 February 2015: Pakistan batsman Sohaib Maqsood (R) plays a shot as Bangladesh wicketkeeper Mushfiqur Rahim looks on during a one-day international warm-up cricket match between Pakistan and Bangladesh at Blacktown Sports Park in Sydney, ahead of the forthcoming Cricket World Cup 2015 which will be played in Australia and New Zealand starting 14 February" width="300"/></a>
+<div class="textArea">
+<div class="heading"><a href="http://www.independent.co.uk/sport/sport-in-pictures-8940102.html">Sport news in pictures</a></div>
+<div class="textAreaBg"></div>
+</div>
+</div>
+<div class="carouselNav">
+<ul>
+<li class="prev pointer carouselHidden">&lt; Previous</li>
+<li class="disable carouselNavList_1">1</li>
+<li class="disable carouselNavList_2">2</li>
+<li class="disable carouselNavList_3">3</li>
+<li class="disable carouselNavList_4">4</li>
+<li class="disable carouselNavList_5">5</li>
+<li class="disable carouselNavList_6">6</li>
+<li class="disable carouselNavList_7">7</li>
+<li class="disable carouselNavList_8">8</li>
+<li class="disable carouselNavList_9">9</li>
+<li class="disable carouselNavList_10">10</li>
+<li class="next pointer">Next &gt;</li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<a href="http://www.independent.co.uk/marketing/apps/?icn=ipad-top-side"><img alt="Have you tried new the Independent Digital Edition apps?" border="0" src="http://www.independent.co.uk/independent.co.uk/assets/images/Independent_apps_puff600x220.gif?v4" style="padding-bottom:10px!important;" title="The Independent Digital Edition apps" width="300"/></a>
+<div class="x300 ">
+<div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643730 partnerAd, border-bottom">
+<div id="partner300x250_2">
+
+</div>
+</div>
+</div>
+</div>
+<div class="x300 ">
+<div class="column-1">
+<div class="widget carousel commercial widget-editable viziwyg-section-507 inpage-widget-6279238 border-bottom">
+<div id="commercial-header">
+<h6 class="commercial-title">SPONSORED FEATURES</h6>
+<a class="next browse right"></a>
+<a class="prev browse left"></a>
+</div>
+<div class="scrollable-6279238 commercial-scrollable">
+<div class="items">
+<div class="item">
+<a class="main-img" href="http://www.independent.co.uk/competitions/win-six-nations-rugby-tickets-and-meet-international-legends-10023786.html"><img src="http://www.independent.co.uk/incoming/article10028286.ece/ALTERNATES/w300/howick sponsorfeatures.jpg" width="278"/></a>
+<div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/competitions/win-six-nations-rugby-tickets-and-meet-international-legends-10023786.html">Win Six Nations tickets</a>
+</h2>
+<p>We've teamed up with Howick's 99 Rugby Club to offer rugby-mad readers the chance to win a host of prizes.</p>
+</div>
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/competitions/">
+Prizes &amp; offers
+</a>
+<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
+Business videos
+</a>
+</div>
+</div>
+<div class="item">
+<a class="main-img" href="http://www.independent.co.uk/competitions/"><img src="http://www.independent.co.uk/incoming/article6279337.ece/ALTERNATES/w300/comps.jpg" width="278"/></a>
+<div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/competitions/">Enter the latest Independent competitions </a>
+</h2>
+<p>Win anything from gadgets to five-star holidays on our competitions and offers page.</p>
+</div>
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/competitions/win-six-nations-rugby-tickets-and-meet-international-legends-10023786.html">
+Six Nations
+</a>
+<a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">
+Business videos
+</a>
+</div>
+</div>
+<div class="item">
+<a class="main-img" href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html"><img src="http://www.independent.co.uk/incoming/article8199962.ece/ALTERNATES/w300/IBM.jpg" width="278"/></a>
+<div class="item-content">
+<h2 class="item-title"><a href="http://www.independent.co.uk/news/business/analysis-and-features/commercial-thought-leaders-2368410.html">Business videos from commercial thought leaders</a>
+</h2>
+<p>Watch the best in the business world give their insights into the world of business.</p>
+</div>
+<div class="item-list first-list"> <a href="http://www.independent.co.uk/competitions/win-six-nations-rugby-tickets-and-meet-international-legends-10023786.html">
+Six Nations
+</a>
+<a href="http://www.independent.co.uk/competitions/">
+Prizes &amp; offers
+</a>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8657875 border-bottom">
+<style>/*This will add border bottoms on widgets that is difficult to apply the css */</style>
+</div>
+</div>
+</div>
+<div class="x300 ">
+<div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-7643727">
+<div id="partner300x250_1">
+
+</div>
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8909247">
+<iframe frameborder="0" height="250" hspace="0" marginheight="0" marginwidth="0" scrolling="NO" src="http://www.smartlinks.dianomi.com/smartads.epl?id=1676" valign="middle" vspace="0" width="300"></iframe>
+</div>
+<div class="x300 ">
+<div class="column-1">
+<div class="widget ad script widget-editable viziwyg-section-1024 inpage-widget-6278029 googlead" id="fullwidth">
+
+
+
+</div>
+</div>
+</div>
+<div class="x300 ">
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8213043 border-bottom">
+<link href="/independent.co.uk/editorial/commercial/dating/widget/indy-dating-live.css?v=7" rel="stylesheet" type="text/css"/>
+<div id="indyDating" style="margin-top: 20px;">
+<h5>Independent Dating</h5>
+<form action="http://date.independent.co.uk/search.cfm?icn=indy_indydating_mpu" class="formlayout" id="lbform" method="post">
+<input name="type" type="hidden" value="home"/> <fieldset>
+<div class="row cf">
+<label id="show">Show Me</label>
+<select class="gender" name="gender">
+<option value="1">Women</option>
+<option value="2">Men</option>
+</select>
+</div> <div class="row cf">
+<label id="between">Between:</label>
+<select name="minage"> <option selected="selected">18</option> <option>19</option> <option>20</option> <option>21</option> <option>22</option> <option>23</option> <option>24</option> <option>25</option> <option>26</option> <option>27</option> <option>28</option> <option>29</option> <option>30</option> <option>31</option> <option>32</option> <option>33</option> <option>34</option> <option>35</option> <option>36</option> <option>37</option> <option>38</option> <option>39</option> <option>40</option> <option>41</option> <option>42</option> <option>43</option> <option>44</option> <option>45</option> <option>46</option> <option>47</option> <option>48</option> <option>49</option> <option>50</option> <option>51</option> <option>52</option> <option>53</option> <option>54</option> <option>55</option> <option>56</option> <option>57</option> <option>58</option> <option>59</option> <option value="61">60+</option> </select> and   <select id="maxage" name="maxage">
+<option>18</option> <option>19</option> <option>20</option> <option>21</option> <option>22</option> <option>23</option> <option>24</option> <option>25</option> <option>26</option> <option>27</option> <option>28</option> <option>29</option> <option selected="selected">30</option> <option>31</option> <option>32</option> <option>33</option> <option>34</option> <option>35</option> <option>36</option> <option>37</option> <option>38</option> <option>39</option> <option>40</option> <option>41</option> <option>42</option> <option>43</option> <option>44</option> <option>45</option> <option>46</option> <option>47</option> <option>48</option> <option>49</option> <option>50</option> <option>51</option> <option>52</option> <option>53</option> <option>54</option> <option>55</option> <option>56</option> <option>57</option> <option>58</option> <option>59</option> <option value="61">60+</option> </select> </div>
+<div class="row cf">
+<label id="location">Location:</label> <select class="dropdown" name="region"> <option value="0">-- Select --</option> <option value="3">Avon</option> <option value="4">Bedfordshire</option> <option value="5">Berkshire</option> <option value="6">Borders</option> <option value="7">Buckinghamshire</option> <option value="8">Cambridgeshire</option> <option value="9">Central</option> <option value="10">Cheshire</option> <option value="11">Cleveland</option> <option value="12">Clwyd</option> <option value="13">Cornwall</option> <option value="1">County Antrim</option> <option value="2">County Armagh</option> <option value="18">County Down</option> <option value="20">County Durham</option> <option value="23">County Fermanagh</option> <option value="46">County Londonderry</option> <option value="69">County Tyrone</option> <option value="14">Cumbria</option> <option value="15">Derbyshire</option> <option value="16">Devon</option> <option value="17">Dorset</option> <option value="19">Dumfries and Galloway</option> <option value="21">Dyfed</option> <option value="65">East Sussex</option> <option value="22">Essex</option> <option value="24">Fife</option> <option value="28">Gloucester</option> <option value="29">Grampian</option> <option value="48">Greater Manchester</option> <option value="30">Guernsey</option> <option value="31">Gwent</option> <option value="32">Gwynedd</option> <option value="33">Hampshire</option> <option value="34">Hereford and Worcester</option> <option value="35">Hertfordshire</option> <option value="36">Highlands</option> <option value="37">Humberside</option> <option value="38">Isle of Man</option> <option value="39">Isle of Wight</option> <option value="40">Jersey</option> <option value="41">Kent</option> <option value="42">Lancashire</option> <option value="43">Leicestershire</option> <option value="44">Lincolnshire</option> <option value="45">London</option> <option value="47">Lothian</option> <option value="49">Merseyside</option> <option value="25">Mid Glamorgan</option> <option value="50">Norfolk</option> <option value="74">North Yorkshire</option> <option value="51">Northamptonshire</option> <option value="52">Northumberland</option> <option value="53">Nottinghamshire</option> <option value="54">Orkney</option> <option value="55">Oxfordshire</option> <option value="56">Powys</option> <option value="58">Sark</option> <option value="59">Shetland</option> <option value="57">Shropshire</option> <option value="60">Somerset</option> <option value="26">South Glamorgan</option> <option value="75">South Yorkshire</option> <option value="61">Staffordshire</option> <option value="62">Strathclyde</option> <option value="63">Suffolk</option> <option value="64">Surrey</option> <option value="67">Tayside</option> <option value="68">Tyne and Wear</option> <option value="70">Warwickshire</option> <option value="27">West Glamorgan</option> <option value="72">West Midlands</option> <option value="66">West Sussex</option> <option value="76">West Yorkshire</option> <option value="71">Western Isles</option> <option value="73">Wiltshire</option> </select> </div>
+<div class="row cf">
+<p class="note">By clicking 'Search' you <br> are agreeing to our <br><a href="http://date.independent.co.uk/help/terms.cfm" title="Terms of use">Terms of Use</a>.</br></br></p>
+<input class="button" id="btnSearch" type="submit" value=""/> </div> </fieldset>
+</form> </div>
+</div>
+</div>
+</div>
+<div class="x300 iJobs-ctr">
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-7998974">
+<div class="iJobs-head">
+<a href="http://ijobs.independent.co.uk/" target="_blank"><img alt="iJobs Job Widget" src="http://www.independent.co.uk/independent.co.uk/images/logo-jobsSm.gif"/></a>
+</div>
+</div>
+<div class="widget feed rssFull widget-editable viziwyg-section-507 inpage-widget-8005362 iJobs">
+<div class="header">
+<h5>iJobs People</h5>
+</div>
+<div class="content">
+<div class="article first">
+<h3><a href="http://ijobs.independent.co.uk/job/78766/bookkeeper/?TrackID=7" onclick="return openLink(this.href,'_blank')">Recruitment Genius: Bookkeeper</a></h3>
+<p class="feedSummary">
+Negotiable:
+Recruitment Genius:
+One of the world's leading suppliers and manuf...</p>
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8005361 iJobs-ftr">
+<div class="ijobsLink">
+<a href="http://j.mp/K28zyC" target="_blank">View the latest Human Resource jobs on iJobs.</a>
+</div>
+
+</div>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8657875 border-bottom">
+<style>/*This will add border bottoms on widgets that is difficult to apply the css */</style>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1044 inpage-widget-6138615 dayInaPage">
+<h2>Day In a Page</h2>
+</div>
+<div class="widget menu menuItem widget-editable viziwyg-section-1023 inpage-widget-6138569">
+</div>
+<div class="widget archive form widget-editable viziwyg-section-1023 inpage-widget-6138560 arcForm">
+<ul>
+<li class="day first"><a href="http://www.independent.co.uk/dayinapage/?day=8&amp;month=2&amp;year=2015" title="Sun">Sun</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=9&amp;month=2&amp;year=2015" title="Mon">Mon</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=3&amp;month=2&amp;year=2015" title="Tue">Tue</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=4&amp;month=2&amp;year=2015" title="Wed">Wed</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=5&amp;month=2&amp;year=2015" title="Thu">Thu</a></li>
+<li class="day"><a href="http://www.independent.co.uk/dayinapage/?day=6&amp;month=2&amp;year=2015" title="Fri">Fri</a></li>
+<li class="day last"><a href="http://www.independent.co.uk/dayinapage/?day=7&amp;month=2&amp;year=2015" title="Sat">Sat</a></li>
+</ul>
+<div class="form">
+<form action="http://www.independent.co.uk/dayinapage/" method="GET">
+<fieldset>
+<select id="f_day" name="day">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option selected="selected" value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+<select id="f_month" name="month">
+<option value="1">January</option>
+<option selected="selected" value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option>
+</select>
+<select id="f_year" name="year">
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option selected="selected" value="2015">2015</option>
+</select>
+<button type="submit">Go</button>
+</fieldset>
+</form>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8687180">
+<div id="onscrollmpu"></div>
+
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+</div>
+<div id="bottom">
+<div class="widget filmstrip imagetext widget-editable viziwyg-section-1023 inpage-widget-5054673 greyRulerBottom greyRuler ">
+<a class="prev browse left"></a>
+<div class="scrollable h148" id="filmstrip-5054673" style="margin-left: 22.5px; margin-right: 22.5px; width: 815.0px;">
+<div class="items">
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/voices/isis-in-iraq-britain-has-no-plan-for-tackling-the-militants-and-no-idea-whos-in-charge-10031274.html">
+<img alt="Isis in Iraq: Britain has no plan for tackling the militants, and no idea who's in charge" class=" ip-ic ip-i-10031145-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-1" src="http://www.independent.co.uk/incoming/article10031145.ece/alternates/w148/35-Basra-Troops-Corbis.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-1">
+<h2 class="fs_title">Britain has no plan for tackling Isis in Iraq, and no idea who's in charge </h2> <div class="fs_body">A Commons report revealed last week that our involvement there is beyond parody, says Patrick Cockburn</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/people/angela-eagle-the-woman-who-wont-calm-down-10031425.html">
+<img alt="Angela Eagle: The woman who won't calm down" class=" ip-ic ip-i-10031247-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-2" src="http://www.independent.co.uk/incoming/article10031247.ece/alternates/w148/23-Angela-Eagle-MT.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-2">
+<h2 class="fs_title">Angela Eagle: The woman who won't calm down</h2> <div class="fs_body">Famously slapped down by David Cameron, the shadow leader of the Commons is proving to be a tenacious fighter for Labour</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/voices/campaigns/homeless-veterans/homeless-veterans-appeal-the-army-can-do-things-to-your-head-you-see-sick-things-10031286.html">
+<img alt="Homeless Veterans appeal: 'The Army can do things to your head. You see sick things'" class=" ip-ic ip-i-10031140-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-3" src="http://www.independent.co.uk/incoming/article10031140.ece/alternates/w148/27-Rachel-Holliday-ColMac.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-3">
+<h2 class="fs_title">Homeless Veterans appeal: 'The Army can do things to your head. You see sick things'</h2> <div class="fs_body">Traumatised ex-soldiers can easily end up on the streets. Mike Glover reports on a hostel that will help them through the social system</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/arts-entertainment/books/features/go-set-a-watchman-is-the-prospect-of-another-book-from-harper-lee-a-potshot-at-the-mockingbird-or-a-literary-coup-10031359.html">
+<img alt="Go Set a Watchman: Is the prospect of another book from Harper Lee a potshot at the Mockingbird, or a literary coup?" class=" ip-ic ip-i-10031225-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-4" src="http://www.independent.co.uk/incoming/article10031225.ece/alternates/w148/32-Harper-Lee-Split-v2.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-4">
+<h2 class="fs_title">A potshot at the Mockingbird, or a literary coup?</h2> <div class="fs_body">The sensational news of the publication of a second novel by Harper Lee has sparked debate across the world</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/voices/the-road-to-equality-was-a-long-and-lonely-one-for-charlie-sifford-10031211.html">
+<img alt="The road to equality was a long and lonely one for Charlie Sifford" class=" ip-ic ip-i-10031151-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-5" src="http://www.independent.co.uk/incoming/article10031151.ece/alternates/w148/43-Charles-Sifford-Get.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-5">
+<h2 class="fs_title">The road to equality was a long and lonely one for Charlie Sifford</h2> <div class="fs_body">Martin Luther King and Rosa Parks are being honoured this month, but the golfer, who has just died, also merits a place in history, argues Rupert Cornwell</div> </div>
+</div>
+</div>
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/environment/nature/zoo-keeping-for-beginners-mucking-out-with-the-man-who-inspired-a-hollywood-film-10027646.html">
+<img alt="Zoo keeping for beginners: Mucking out with the man who inspired a Hollywood film" class=" ip-ic ip-i-10027639-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-6" src="http://www.independent.co.uk/incoming/article10027639.ece/alternates/w148/v25791667.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-6">
+<h2 class="fs_title">Zoo keeping for beginners</h2> <div class="fs_body">Mucking out with the man who inspired a Hollywood film</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/arts-entertainment/theatre-dance/news/royal-shakespeare-company-looks-to-discover-a-new-musical-star-with-competition-to-reinterpret-songs-by-the-bard-10031411.html">
+<img alt="Royal Shakespeare Company looks to discover a new musical star with competition to reinterpret songs by the Bard" class=" ip-ic ip-i-10031193-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-7" src="http://www.independent.co.uk/incoming/article10031193.ece/alternates/w148/26-As-You-Like-It-Rex.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-7">
+<h2 class="fs_title">If music be the food of love, play on – and win</h2> <div class="fs_body">You don’t need a lute, just a feeling for Shakespeare, as the RSC launches a contest to write a new setting of a song by the Bard</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/environment/nature/the-experts-guide-to-animalspotting-from-whalewatching-with-steve-backshall-to-leopardtracking-with-saba-douglashamilton-10026622.html">
+<img alt="The experts' guide to animal-spotting: From whale-watching with Steve Backshall to leopard-tracking with Saba Douglas-Hamilton" class=" ip-ic ip-i-10027660-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-8" src="http://www.independent.co.uk/incoming/article10027660.ece/alternates/w148/elephants.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-8">
+<h2 class="fs_title">The experts' guide to animal-spotting</h2> <div class="fs_body">From whale-watching with Steve Backshall to leopard-tracking with Saba Douglas-Hamilton</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/voices/someone-should-tell-ed-miliband-that-we-are-all-in-business-now-10031214.html">
+<img alt="Someone should tell Ed Miliband that we are all in business now" class=" ip-ic ip-i-10031149-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-9" src="http://www.independent.co.uk/incoming/article10031149.ece/alternates/w148/40-Sugar-Sale-HultonArchive.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-9">
+<h2 class="fs_title">Someone should tell Ed Miliband that we are all in business now</h2> <div class="fs_body">For every stereotyped fat controller, there are many struggling to run enterprises from their living rooms, says DJ Taylor</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/travel/asia/malaysias-wildlife-is-far-more-captivating-than-its-hammocks-jet-skis-and-spas-10026629.html">
+<img alt="Malaysia's wildlife is far more captivating than its hammocks, jet skis and spas" class=" ip-ic ip-i-10029955-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-10" src="http://www.independent.co.uk/incoming/article10029955.ece/alternates/w148/5791655.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-10">
+<h2 class="fs_title">Malaysia's captivating wildlife</h2> <div class="fs_body">Lisa Markwell and her family were fascinated by hornbills, geckos and baby tiger sharks on an extraordinary visit to the island of Langkawi</div> </div>
+</div>
+</div>
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/life-style/food-and-drink/news/school-caterers-new-superhero-dives-in-to-educate-pupils-about-the-war-on-waste-10031445.html">
+<img alt="School caterers' new superhero dives in to educate pupils about the war on waste" class=" ip-ic ip-i-10031277-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-11" src="http://www.independent.co.uk/incoming/article10031277.ece/alternates/w148/16-Captain-Wasteless.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-11">
+<h2 class="fs_title">School caterers' new superhero dives in to educate pupils about the war on waste </h2> <div class="fs_body">A bucket and some pips are among simple aids Captain Wasteless uses to improve sustainability</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/environment/nature/10-of-the-worlds-most-spectacular-migrations-10026631.html">
+<img alt="10 of the world's most spectacular migrations" class=" ip-ic ip-i-10027623-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-12" src="http://www.independent.co.uk/incoming/article10027623.ece/alternates/w148/map.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-12">
+<h2 class="fs_title">10 spectacular animal migrations</h2> <div class="fs_body">From 11,000km swims across the Pacific to hyperventilation-aided flights across the Himalayas and 500-mile trips to the tundra...</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/life-style/food-and-drink/features/bill-granger-recipes-our-chefs-sunday-lunch-features-luxury-ingredients-and-very-little-prep-10026624.html">
+<img alt="Bill Granger recipes: Our chef's Sunday lunch features luxury ingredients and very little prep" class=" ip-ic ip-i-10027109-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-13" src="http://www.independent.co.uk/incoming/article10027109.ece/alternates/w148/v25791675.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-13">
+<h2 class="fs_title">Bill Granger's easy Sunday lunch</h2> <div class="fs_body">Sunday lunch is all about making something a little more luxurious than weekday meals, but that doesn't have to mean hours in the kitchen…</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/sport/general/others/antidoping-experts-concerned-at-rise-in-number-of-amateur-athletes-turning-to-drugs-to-get-ahead-10031430.html">
+<img alt="Anti-doping experts concerned at rise in number of amateur athletes turning to drugs to get ahead" class=" ip-ic ip-i-10031256-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-14" src="http://www.independent.co.uk/incoming/article10031256.ece/alternates/w148/v221-Qatar-Cyclists-Get.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-14">
+<h2 class="fs_title">Lance Armstrong wannabes get into the wrong gear </h2> <div class="fs_body">Amateur athletes are turning to drugs to get ahead and testers cannot keep pace with events </div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/sport/rugby/rugby-union/international/wales-vs-england-we-must-protect-the-players--like-george-north---often-from-themselves-10031217.html">
+<img alt="Wales vs England: We must protect the players - like George North - often from themselves" class=" ip-ic ip-i-10031216-ALTERNATES-w148 ip-id-148-222 ip-s-507 " height="222" rel="div-caption-15" src="http://www.independent.co.uk/incoming/article10031216.ece/alternates/w148/v2North.jpg" width="148"/>
+</a>
+<div class="" id="div-caption-15">
+<h2 class="fs_title">Michael Calvin's Last Word</h2> <div class="fs_body">We must protect the players - like George North - often from themselves</div> </div>
+</div>
+</div>
+</div>
+</div>
+<a class="next browse right"></a>
+<br class="c"/>
+
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8564865">
+
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8192089">
+
+</div>
+</div>
+<div id="footer">
+<div class="widget ad script widget-editable viziwyg-section-507 inpage-widget-9325946">
+<div id="teads">
+
+</div>
+
+
+
+</div>
+<div class="x170x515x255 redesign-footer">
+<div class="column-1">
+</div>
+<div class="column-2">
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054706">
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/legal-terms-amp-policies-759573.html">
+<span class="TermsText">Terms</span> <span class="&amp;Text">&amp;</span> <span class="PoliciesText">Policies</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/privacy-policy-759574.html">
+<span class="PrivacyText">Privacy</span> <span class="PolicyText">Policy</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/cookie-policy-7785164.html ">
+<span class="CookieText">Cookie</span> <span class="policyText">policy</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/code-of-conduct-and-complaints-6280644.html">
+<span class="CodeText">Code</span> <span class="ofText">of</span> <span class="ConductText">Conduct</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/code-of-conduct-and-complaints-6280644.html">
+<span class="ComplaintText">Complaint</span> <span class="formText">form</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/newsLetterPreferences/">
+<span class="EmailText">Email</span> <span class="newslettersText">newsletters</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/list-of-rss-feeds-775086.html">
+RSS </a>
+</li>
+<li class="-nav ">
+<a href="http://live.independent.co.uk/#AllEvents">
+<span class="LiveText">Live</span> <span class="BlogsText">Blogs</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/incoming/about-i100couk-9438671.html">
+<span class="AboutText">About</span> <span class="i100Text">i100</span> </a>
+</li>
+</ul>
+</div>
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054705">
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/contact-us-759589.html">
+<span class="ContactText">Contact</span> <span class="UsText">Us</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/subscriptions/">
+Subscriptions </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/marketing/apps/" target="_blank">
+Apps </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/work-for-inm-759587.html">
+<span class="WorkText">Work</span> <span class="forText">for</span> <span class="usText">us</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.standard.co.uk/" target="_blank">
+<span class="EveningText">Evening</span> <span class="StandardText">Standard</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.homesandproperty.co.uk/" target="_blank">
+<span class="HomesText">Homes</span> <span class="&amp;Text">&amp;</span> <span class="PropertyText">Property</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://ijobs.independent.co.uk/" target="_blank">
+iJobs </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/video/" target="_blank">
+<span class="NewsText">News</span> <span class="videoText">video</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/video/sports/" target="_blank">
+<span class="SportText">Sport</span> <span class="videoText">video</span> </a>
+</li>
+</ul>
+</div>
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054710">
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/advertising-guide/">
+<span class="AdvertisingText">Advertising</span> <span class="GuideText">Guide</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/independent-syndication-915183.html">
+Syndication </a>
+</li>
+<li class="-nav ">
+<a href="http://en.novayagazeta.ru/" target="_blank">
+<span class="NovayaText">Novaya</span> <span class="GazetaText">Gazeta</span> <span class="(English)Text">(English)</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.standard.co.uk/businessconnections" target="_blank">
+<span class="ESText">ES</span> <span class="BusinessText">Business</span> <span class="ConnectionsText">Connections</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.standard.co.uk/lifestyle/esrentals/" target="_blank">
+<span class="ESText">ES</span> <span class="RentalsText">Rentals</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.londonlive.co.uk" target="_blank">
+<span class="LondonText">London</span> <span class="LiveText">Live</span> </a>
+</li>
+</ul>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1023 inpage-widget-6138554 copyright">
+<strong>© independent.co.uk</strong>
+</div>
+</div>
+<div class="column-3">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8925767 footer-eagle">
+<a href="/" title="The Independent">
+<img alt="The Independent" src="/independent.co.uk/assets/images/redesign/masthead/black-eagle-square.png" title="The Independent" width="80px"/>
+</a>
+
+
+</div>
+<div class="widget search simpleForm widget-editable viziwyg-section-1023 inpage-widget-5054704 superSearchBox">
+
+<div class="simpleSearch" id="simpleSearch-5054704">
+<form action="http://www.independent.co.uk/search/simple.do" method="get" onsubmit="return validateSimpleSearchForm(this, 'emptySearchExpressionError-5054704');">
+<fieldset>
+<input name="destinationSectionUniqueName" type="hidden" value="search"/>
+<input name="publicationName" type="hidden" value="ind"/>
+<input name="sortString" type="hidden" value="publishdate"/>
+<input name="sortOrder" type="hidden" value="desc"/>
+<input name="sectionId" type="hidden" value="506"/>
+<input name="articleTypes" type="hidden" value="news"/>
+<input name="pageNumber" type="hidden" value="1"/>
+<input name="pageLength" type="hidden" value="10"/>
+<input name="startDay" type="hidden" value="1"/>
+<input name="startMonth" type="hidden" value="1"/>
+<input name="startYear" type="hidden" value="2010"/>
+<input name="useSectionFilter" type="hidden" value="true"/>
+<input name="useHideArticle" type="hidden" value="true"/>
+<p class="error" id="emptySearchExpressionError-5054704" style="display:none;">
+Please provide search keyword(s)
+</p>
+<input class="field" name="searchString" type="text" value=""/>
+<input class="button" title="Click here to search" type="submit" value="Go"/>
+</fieldset>
+</form>
+</div>
+
+</div>
+<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054702 searchLinks">
+<ul>
+<li>
+<a href="http://www.independent.co.uk/advancedsearch/">
+<span>Advanced search </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/article-archive/">
+<span>Article archive </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/topics/">
+<span>Topics </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2011 Nielsen Online -->
+
+<noscript>
+<div>
+<img alt="" height="1" src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-805619h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1"/>
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- Quantcast Tag -->
+<!--<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+//Quantcast labels
+var quantcastLabels = "Independent.";
+quantcastLabels += (s.hier1.replace(/,/g, ".")) ? s.hier1.replace(/,/g, ".") : "Home";
+_qevents.push({
+qacct:"p-jAJ_WUYAnDzxn",
+labels: quantcastLabels
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-jAJ_WUYAnDzxn.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>-->
+<!-- End Quantcast tag -->
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8976968">
+<div id="inskin8x8">
+
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8755159">
+
+
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

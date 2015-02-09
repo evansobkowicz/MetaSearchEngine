@@ -1,0 +1,23 @@
+Title: Avatar: The Last Airbender - Avatar Wiki, the Avatar: The Last Airbender resource
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-language: en
+X-Backend-Response-Time: 0.221
+ETag: "20150209172309-1423500507"
+Last-Modified: Mon, 09 Feb 2015 17:23:09 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 144774
+Accept-Ranges: bytes
+Date: Mon, 09 Feb 2015 23:39:14 GMT
+Age: 18231
+Connection: close
+X-Served-By: ap-s38, cache-wk-sjc3160-WKSJC, cache-iad2128-IAD
+X-Cache: ORIGIN, HIT, MISS
+X-Cache-Hits: ORIGIN, 1, 0
+X-Timer: S1423525154.190590,VS0,VE229
+Vary: Accept-Encoding,Cookie
+Set-Cookie: wikia_beacon_id=pa2vPL6IxY; domain=.wikia.com; path=/; expires=Sat, 08 Aug 2015 23:39:14 GMT;
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+

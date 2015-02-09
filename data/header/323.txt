@@ -1,0 +1,23 @@
+Title: Pirates of the Caribbean: Dead Man''s Chest - Pirates of the Caribbean Wiki - The Unofficial Pirates of the Caribbean Encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-language: en
+X-Backend-Response-Time: 0.246
+ETag: "20141225142148-1423267875"
+Last-Modified: Thu, 25 Dec 2014 14:21:48 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 185941
+Accept-Ranges: bytes
+Date: Mon, 09 Feb 2015 23:40:14 GMT
+Age: 68419
+Connection: close
+X-Served-By: ap-s47, cache-wk-sjc3160-WKSJC, cache-jfk1030-JFK
+X-Cache: ORIGIN, HIT, MISS
+X-Cache-Hits: ORIGIN, 2, 0
+X-Timer: S1423525213.890055,VS0,VE141
+Vary: Accept-Encoding,Cookie
+Set-Cookie: wikia_beacon_id=8XxzS_nqTh; domain=.wikia.com; path=/; expires=Sat, 08 Aug 2015 23:40:14 GMT;
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+

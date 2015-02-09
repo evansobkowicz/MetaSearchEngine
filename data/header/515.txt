@@ -1,0 +1,16 @@
+Title: A Little Fish and a Big God: Finding Nemo and the Prodigal Son | Kiersti Plog
+Date: Mon, 09 Feb 2015 23:43:24 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.35
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://kierstiplog.com/xmlrpc.php
+Link: <http://kierstiplog.com/?p=1537>; rel=shortlink
+Set-Cookie: PHPSESSID=9ed6a4934fa63fb7e653f3b023f8e43d; path=/
+Set-Cookie: ct_cookies_test=49fb1f49302071375efb6725c11d806a; path=/
+Set-Cookie: wfvt_1683542165=54d9461d69749; expires=Tue, 10-Feb-2015 00:13:25 GMT; path=/; httponly
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+

@@ -1,0 +1,12 @@
+Title: MariahCarey > Home
+Date: Mon, 09 Feb 2015 23:47:39 GMT
+Server: Apache/2.4.10 (Fedora) PHP/5.5.16
+X-Powered-By: PHP/5.5.16
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: PHPSESSID=jg8v5k4s09gtp4po548aoul1n2; path=/
+Connection: close
+Transfer-Encoding: chunked
+

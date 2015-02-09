@@ -1,0 +1,18 @@
+Title: 
+     Scarlett Johansson on the Avengers, Parenting, Nudity | W Magazine    
+Server: Apache/2.2.15 (Red Hat) mod_ssl/2.2.15 OpenSSL/1.0.0-fips PHP/5.3.3
+X-Powered-By: PHP/5.3.3
+X-Pingback: http://www.wmagazine.com/xmlrpc.php
+Link: <http://www.wmagazine.com/?p=7272151>; rel=shortlink
+Access-Control-Allow-Origin: *
+Content-Type: text/html; charset=UTF-8
+X-Cacheable: YES
+X-Varnish: 1942658110 1942657188
+Vary: Accept-Encoding
+Cache-Control: max-age=396
+Expires: Mon, 09 Feb 2015 23:46:24 GMT
+Date: Mon, 09 Feb 2015 23:39:48 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+

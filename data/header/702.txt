@@ -1,0 +1,17 @@
+Title: A View From the Dark Side of the Moon, Courtesy of NASA (Scored by Pink Floyd) - Neatorama
+Server: nginx/1.6.2
+Date: Mon, 09 Feb 2015 23:47:29 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+X-IP: 192.168.129.118
+X-Backend: mirror1.neatorama.com
+X-Generated-By: VosaPHP
+Set-Cookie: wwwneatoramacomSession=m3f8qu0qshprj3qm6oj9h9bh34; expires=Fri, 01-Apr-2016 15:47:28 GMT; Max-Age=36000000; path=/; domain=www.neatorama.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Content-Source: Generated
+Set-Cookie: persist_prefs=%5B%5D; expires=Wed, 11-Feb-2015 10:05:05 GMT; Max-Age=123456; path=/; domain=www.neatorama.com
+

@@ -1,0 +1,14 @@
+Title: Inception - Awards - IMDb
+Date: Mon, 09 Feb 2015 23:43:36 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYlPPocc3SGlOitNM6ax9tiiVJXSgzCjZ0mBxeOnzRq1augzyICIIaMPRBdbioCT80RQXOZS7fd%0D%0A3rnfnyxUSs1YaaRWGyPVU3ETa_UeCiQ89ZxhkjkHSg93s54oPUEJHd-AX3nbIlm6zvsqRgKhaOII%0D%0ANxxOZurY12xb33lsdvI2FUMxlKB6Dg2W44ndiRfjh7tgkRvoRcQBmMp-iDthQtDlQ2b4MlEXzeNy%0D%0A0dFoYRMQqNoOEjqONLXsLpVlvSgfBljMgwuirldHWCg2TGCRjkAKBw%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:57:44 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:57:44 GMT; Path=/
+Set-Cookie: session-id-time=1581205417; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:57:44 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Connection: close
+Transfer-Encoding: chunked
+

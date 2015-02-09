@@ -1,0 +1,13 @@
+Title: Shrek 2 (2004) - Plot Summary - IMDb
+Date: Mon, 09 Feb 2015 23:42:22 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYt_UNsOSvKR5uRy7A7OdK-BhUQtOYz6wYJwPr0k75TcFUbyblLHcruj6RmLSs6_aWhdtezIkIy%0D%0AAnGjxo6E2SPqRFfOJpZv4TYlAEFmceH1CICf6Fcd_IBAahROW9PKh4Tjf11k23vH7KtKm236hN_k%0D%0AR8o1d_sStpWSn-yhcWtcRp-mAYlo_ectzQLiwwWFMFD-O81mXZP3yoINg3YDA5jB39iFwx0UwVAZ%0D%0Ae9wkegRJpoX5WXBAnq_124RZVMnQusVf8EghgXejYkLcPXlqQIyDJw%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:30 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:30 GMT; Path=/
+Set-Cookie: session-id-time=1581205342; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:30 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

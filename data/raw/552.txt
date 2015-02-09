@@ -1,0 +1,762 @@
+<!DOCTYPE doctype html>
+
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<title>	Vintage photos of The Beatles  | 						PennLive.com</title>
+<!--
+	<PageMap>
+		<DataObject type="document">
+			<Attribute name="article_title">Vintage photos of The Beatles </Attribute>
+			<Attribute name="article_publication_name">PennLive.com</Attribute>
+			<Attribute name="article_author">Deb Kiner | dkiner@pennlive.com</Attribute>
+			<Attribute name="article_description">The Beatles made their first live appearance in the United States on Feb. 9, 1964, on the Ed Sullivan Show.</Attribute>
+			<Attribute name="image_src">http://media.pennlive.com/patriot-news/photo/2015/02/09/16970603-small.jpg</Attribute>
+			<Attribute name="article_comments">0</Attribute>
+			<Attribute name="article_date_original">02/09/2015</Attribute>
+			<Attribute name="article_date_updated">02/09/2015</Attribute>
+		</DataObject>
+	</PageMap>
+	-->
+<meta content='{"title": "Vintage photos of The Beatles ", "link": "http://www.pennlive.com/midstate/index.ssf/2015/02/vintage_photos_of_the_beatles.html", "image_url": "http://imgick.pennlive.com/home/penn-media/width620/img/patriot-news/photo/2015/02/09/16970603-large.jpg", "type": "post", "post_id": "15167913", "pub_date": "2015-02-09T14:26:12Z", "author": "Deb Kiner | dkiner@pennlive.com", "tags": ["@topstories"] }' name="parsely-page">
+<meta content='{"image_url": "http://media.pennlive.com/patriot-news/photo/2015/02/09/16970603-large.jpg", "author_name": "dkiner", "author_nickname": "Deb Kiner | dkiner@pennlive.com", "author_id": "496", "source_blog_name": "Breaking News on PennLive", "source_blog_url": "http://www.pennlive.com/midstate/index.ssf/", "sponsored_content": "0" }' name="parsely-metadata">
+<meta content="Vintage photos of The Beatles " name="title"/>
+<meta content="PennLive.com" name="article_publication_name"/>
+<meta content="Deb Kiner | dkiner@pennlive.com" name="article_author"/>
+<meta content="Monday, February 09, 2015,  8:46 AM" name="article_date_original"/>
+<meta content="Monday, February 09, 2015,  9:26 AM" name="article_date_updated"/>
+<link href="http://media.pennlive.com/patriot-news/photo/2015/02/09/16970603-small.jpg" rel="image_src"/>
+<meta content="0" name="article_comments"/>
+<meta content="news" name="medium"/>
+<meta content="" name="news_keywords">
+<meta content="summary" name="twitter:card"/>
+<meta content="The Beatles made their first live appearance in the United States on Feb. 9, 1964, on the Ed Sullivan Show." name="twitter:description"/>
+<meta content="http://media.pennlive.com/patriot-news/photo/2015/02/09/16970603-small.jpg" name="twitter:image"/>
+<meta content="@pennlive" name="twitter:site"/>
+<meta content="@DeborahKiner" name="twitter:creator"/>
+<meta content="Vintage photos of The Beatles " property="og:title"/>
+<meta content="The Beatles made their first live appearance in the United States on Feb. 9, 1964, on the Ed Sullivan Show." property="og:description"/>
+<meta content="PennLive.com" property="og:site_name"/>
+<meta content="http://www.pennlive.com/midstate/index.ssf/2015/02/vintage_photos_of_the_beatles.html" property="og:url"/>
+<meta content="article" property="og:type"/>
+<meta content="http://imgick.pennlive.com/home/penn-media/width620/img/patriot-news/photo/2015/02/09/16970603-large.jpg" property="og:image"/>
+<meta content="http://media.pennlive.com/patriot-news/photo/2015/02/09/16970603-small.jpg" property="og:image"/>
+<meta content="http://media.pennlive.com/design/alpha/img/logo_penn.gif" property="og:image"/>
+
+<!-- // Define an image media item and description for gigya pinterest MT-1770 -->
+
+
+
+<link href="http://www.pennlive.com/midstate/index.ssf//atom.xml" rel="alternate" title="Breaking News on PennLive" type="application/atom+xml"/>
+
+<link href="http://media.pennlive.com/design/alpha/css/nocommentbox.css" rel="stylesheet" type="text/css"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="100000302287435" property="fb:admins"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link href="/static/aff/static/css/article_res.css" rel="stylesheet"/>
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">#ziplist_container { display: none }</style>
+
+
+
+
+<!-- start ads_header.html -->
+<!-- stop ads_header.html -->
+<link href="/static/common/js/galleria/adv_galleria.css" rel="stylesheet" type="text/css"/>
+<link href="/static/common/js/galleria/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css"/>
+<meta content="The Beatles made their first live appearance in the United States on Feb. 9, 1964, on the Ed Sullivan Show." name="Description"/>
+<link href="https://plus.google.com/100886152462931380047/posts" rel="author" title="Deb Kiner | dkiner@pennlive.com on Google+"/>
+
+
+
+</meta></meta></meta></meta></meta></head>
+<body>
+
+<div id="FB_HiddenContainer" style="position: absolute; top: -10000px; left: -10000px; width: 0px; height: 0px;"></div>
+<!-- Start Masthead -->
+<!-- ./templates/global/shared/nav/masthead.mtml start -->
+<!-- start toprail -->
+<!-- toprail -->
+<section id="adv_network">
+<div class="advWrapper">
+<div class="Popup"><div class="Popup adunit nomobilead" id="Popup"></div></div>
+<div class="adunit nomobilead" id="Leaderboard"></div>
+<div class="Tile1 adunit nofullad" id="Tile1"></div>
+</div>
+</section>
+<header id="adv_header">
+<div id="adv_masthead">
+<div id="adv_header_logo">
+<div id="adv_logo">
+<a href="http://www.pennlive.com/" id="adv_aff_link" title="PennLive"><span class="ir">PennLive</span></a>
+<div id="adv_header_text"></div>
+</div>
+</div>
+</div>
+<div id="adv_mast_left">
+<nav class="advToprailBtn" data-state="1" id="adv_menu">
+<span class="advToprailIcon"></span>
+<span class="advMenuText">Menu</span>
+</nav>
+<div class="advDropdown advLayer" id="adv_menu_dropdown">
+<div class="advPanelArrow"></div>
+<div class="advDropdownOuter">
+<div id="adv_menu_container">
+<div class="advDropdownInner">
+<ul class="advMenu" id="adv_menu_top">
+<li><a href="http://www.pennlive.com/">Home</a></li>
+<li data-state="4" id="adv_mobi_weather">
+<div class="advWeatherInner">
+<span class="advGeoChoosen"></span>
+<span class="advConditions">
+<span class="advTemp"></span>
+</span>
+</div>
+<span class="next"></span>
+</li>
+</ul>
+<ul class="advMenu" id="adv_menu_main">
+<li><a href="http://www.pennlive.com/news/">News</a><span class="next" data-key="5013" data-state="2"></span></li><li><a href="http://www.pennlive.com/sports/">Sports</a><span class="next" data-key="5011" data-state="2"></span></li><li><a href="http://www.pennlive.com/pennstatefootball/">Penn State Football</a><span class="next" data-key="6398" data-state="2"></span></li><li><a href="http://highschoolsports.pennlive.com/">High School Sports</a><span class="next" data-key="hssports" data-state="2"></span></li><li><a href="http://www.pennlive.com/jobs/">Jobs</a><span class="none" data-key="6330" data-state="2"></span></li><li><a href="http://autos.pennlive.com/">Autos</a><span class="none" data-key="5095" data-state="2"></span></li><li><a href="http://realestate.pennlive.com/">Real Estate</a><span class="none" data-key="5029" data-state="2"></span></li><li><a href="http://classifieds.pennlive.com/">Classifieds</a><span class="none" data-key="5031" data-state="2"></span></li><li><a href="http://obits.pennlive.com/obituaries/pennlive/">Obituaries</a><span class="none" data-key="6328" data-state="2"></span></li><li><a href="http://www.pennlive.com/entertainment/">Entertainment</a><span class="next" data-key="5009" data-state="2"></span></li><li><a href="http://www.pennlive.com/food/">Food &amp; Dining</a><span class="next" data-key="5073" data-state="2"></span></li><li><a href="http://www.pennlive.com/opinion/">Opinion</a><span class="next" data-key="5068" data-state="2"></span></li><li><a href="http://www.pennlive.com/living/">Living</a><span class="next" data-key="5078" data-state="2"></span></li><li><a href="http://findnsave.pennlive.com/?ac=AFFpennliveFSNAVFLS">Find&amp;Save</a><span class="none" data-key="6329" data-state="2"></span></li><li><a href="http://businessfinder.pennlive.com/">Local Businesses</a><span class="none" data-key="6331" data-state="2"></span></li>
+<li data-key="follow" data-state="2"><span class="nolink">Follow Us</span>
+<span class="next" data-key="follow" data-state="2"></span>
+</li>
+<li data-key="subscribe" data-state="2" id="adv_li_subscribe"><span class="nolink">Subscribe</span>
+<span class="next" data-key="subscribe" data-state="2"></span>
+</li>
+</ul>
+<div class="SiteSponsor nomobilead injectedAd" id="SiteSponsor"></div>
+<ul class="advMenuSub advMenu" data-key="5013"><li class="advMainMenuLink" data-state="2"><div class="prev"></div>Back to Main Menu</li><li><a href="http://www.pennlive.com/midstate/">Local News</a></li><li><a href="http://www.pennlive.com/west-shore/">West Shore</a></li><li><a href="http://www.pennlive.com/east-shore/">East Shore</a></li><li><a href="http://www.pennlive.com/harrisburg">Harrisburg</a></li><li><a href="http://www.pennlive.com/politics/">Politics</a></li><li><a href="http://www.pennlive.com/governor2014/">Governor 2014</a></li><li><a href="http://www.pennlive.com/business/">Business</a></li><li><a href="http://obits.pennlive.com/obituaries/pennlive/">Obituaries</a></li><li><a href="http://www.pennlive.com/crime/">Crime</a></li><li><a href="http://www.pennlive.com/weather/">Weather</a></li><li><a href="http://www.pennlive.com/traffic/">Traffic</a></li><li><a href="http://photos.pennlive.com/patriot-news/index.html">Photos</a></li><li><a href="http://videos.pennlive.com/patriot-news/index.html">Videos</a></li><li><a href="http://www.pennlive.com/nation-world/">National &amp; World</a></li><li><a href="http://www.pennlive.com/newsflash/">Latest AP Headlines</a></li><li><a href="http://www.pennlive.com/specialprojects/">Special Projects</a></li><li><a href="http://www.pennlive.com/siteindex/">Site Index</a></li></ul><ul class="advMenuSub advMenu" data-key="5011"><li class="advMainMenuLink" data-state="2"><div class="prev"></div>Back to Main Menu</li><li><a href="http://www.pennlive.com/cityislanders/">City Islanders</a></li><li><a href="http://www.pennlive.com/fantasyfootball/">Fantasy Football</a></li><li><a href="http://www.pennlive.com/golf/">Golf</a></li><li><a href="http://www.pennlive.com/harrisburg-heat/">Harrisburg Heat</a></li><li><a href="http://www.pennlive.com/senators/">Harrisburg Senators</a></li><li><a href="http://www.pennlive.com/harrisburg-stampede/">Harrisburg Stampede</a></li><li><a href="http://www.pennlive.com/hersheybears/">Hershey Bears</a></li><li><a href="http://highschoolsports.pennlive.com/">High School Sports</a></li><li><a href="http://www.pennlive.com/little-league-world-series/">Little League World Series</a></li><li><a href="http://www.pennlive.com/motorsports/">Motorsports</a></li><li class="advMenuExpansion" data-state="3" data-sub-key="7387" data-sub-parent="5011"><a href="http://www.pennlive.com/nfl/">NFL</a><span class="next" data-state="3" data-sub-key="7387" data-sub-parent="5011"></span></li><li><a href="http://www.pennlive.com/outdoors/">Outdoors</a></li><li><a href="http://www.pennlive.com/pennstatefootball/">Penn State Football</a></li><li><a href="http://www.pennlive.com/pennstate">Penn State Sports</a></li><li><a href="http://www.pennlive.com/penn-state-wrestling/">Penn State wrestling</a></li><li><a href="http://www.pennlive.com/keystonerecruits/">Recruiting</a></li><li><a href="http://www.pennlive.com/forums/">Forums</a></li></ul><ul class="advMenuSub advMenu" data-key="6398"><li class="advMainMenuLink" data-state="2"><div class="prev"></div>Back to Main Menu</li><li><a href="http://www.pennlive.com/pennstatefootball/experts/">Reporter Updates</a></li><li><a href="http://www.pennlive.com/pennstatefootball/fans/">Fan Talk</a></li><li><a href="http://www.pennlive.com/keystonerecruits/">Recruiting</a></li><li><a href="http://videos.pennlive.com/patriot-news/index.html?category=Penn%20State%20Football">Videos</a></li><li><a href="http://photos.pennlive.com/4503/category/penn_state_football/index.html">Photo Galleries</a></li><li class="advMenuExpansion" data-state="3" data-sub-key="6957" data-sub-parent="6398"><span class="nolink">PSU Columnists</span><span class="next" data-state="3" data-sub-key="6957" data-sub-parent="6398"></span></li></ul><ul class="advMenuSub advMenu" data-key="5009"><li class="advMainMenuLink" data-state="2"><div class="prev"></div>Back to Main Menu</li><li><a href="http://www.pennlive.com/events/">Events</a></li><li><a href="http://www.pennlive.com/music/">Music</a></li><li><a href="http://www.pennlive.com/movies/">Movies</a></li><li><a href="http://www.pennlive.com/tv/">Television</a></li><li><a href="http://www.pennlive.com/travel/">Travel</a></li><li><a href="http://www.pennlive.com/celebrity-news/">Celebrity Gossip</a></li><li><a href="http://www.pennlive.com/comics-kingdom/">Comics</a></li><li><a href="http://www.pennlive.com/puzzles-kingdom/">Puzzles</a></li><li><a href="">Entertainment Columnists</a></li></ul><ul class="advMenuSub advMenu" data-key="5073"><li class="advMainMenuLink" data-state="2"><div class="prev"></div>Back to Main Menu</li><li><a href="http://www.pennlive.com/dining/">Dining</a></li><li><a href="http://www.pennlive.com/restaurant-guide/">Restaurant Guide</a></li><li><a href="http://www.pennlive.com/cooking/">Cooking &amp; Recipes</a></li><li><a href="http://www.pennlive.com/cooking/healthy-eating/">Healthy Eating</a></li><li><a href="http://www.pennlive.com/drinks/">Drinks</a></li><li><a href="http://www.pennlive.com/ziplist/">My Recipe Box</a></li><li><a href="">Food Columnists</a></li></ul><ul class="advMenuSub advMenu" data-key="5068"><li class="advMainMenuLink" data-state="2"><div class="prev"></div>Back to Main Menu</li><li><a href="http://www.pennlive.com/editorials/">Editorials</a></li><li><a href="http://www.pennlive.com/as-i-see-it/">Op-Eds</a></li><li><a href="http://www.pennlive.com/letters/">Letters to the Editor</a></li><li><a href="http://www.pennlive.com/hbgnext/">#HBGNext</a></li><li><a href="http://connect.pennlive.com/user/penncartoons/posts.html">Cartoons</a></li><li><a href="http://www.pennlive.com/columns/">Columnists</a></li><li><a href="http://www.pennlive.com/forums/">Forums</a></li></ul><ul class="advMenuSub advMenu" data-key="5078"><li class="advMainMenuLink" data-state="2"><div class="prev"></div>Back to Main Menu</li><li><a href="http://www.pennlive.com/bodyandmind/">Body &amp; Mind</a></li><li><a href="">Living Columnists</a></li><li><a href="http://www.pennlive.com/education/">Education</a></li><li><a href="http://www.pennlive.com/gardening/">Gardening</a></li><li><a href="http://www.pennlive.com/parenting/">Parenting</a></li><li><a href="http://www.pennlive.com/prom/">Proms</a></li></ul>
+<ul class="advMenuSub advMenu" data-key="hssports" data-sub-key="hssports">
+<li class="advMainMenuLink" data-state="2"><div class="prev"></div>Back to Main Menu</li>
+<li><a href="http://highschoolsports.pennlive.com/">High School Sports Home</a></li>
+<li><a href="http://highschoolsports.pennlive.com/football/">Football</a></li>
+<li><a href="http://highschoolsports.pennlive.com/wrestling/">Wrestling</a></li>
+<li><a href="http://highschoolsports.pennlive.com/fieldhockey/">Field Hockey</a></li>
+<li><a href="http://highschoolsports.pennlive.com/boysbasketball/">Boys Basketball</a></li>
+<li><a href="http://highschoolsports.pennlive.com/girlsbasketball/">Girls Basketball</a></li>
+<li><a href="http://highschoolsports.pennlive.com/boyssoccer/">Boys Soccer</a></li>
+<li><a href="http://highschoolsports.pennlive.com/girlssoccer/">Girls Soccer</a></li>
+<li><a href="http://highschoolsports.pennlive.com/girlstennis/">Girls Tennis</a></li>
+<li><a href="http://highschoolsports.pennlive.com/boysgolf/">Boys Golf</a></li>
+<li><a href="http://highschoolsports.pennlive.com/boysswimming/">Boys Swimming</a></li>
+<li><a href="http://highschoolsports.pennlive.com/girlsswimming/">Girls Swimming</a></li>
+<li><a href="http://highschoolsports.pennlive.com/boyscrosscountry/">Boys Cross Country</a></li>
+<li><a href="http://highschoolsports.pennlive.com/girlsgolf/">Girls Golf</a></li>
+<li><a href="http://highschoolsports.pennlive.com/girlscrosscountry/">Girls Cross Country</a></li>
+<li><a href="http://highschoolsports.pennlive.com/girlsvolleyball/">Girls Volleyball</a></li>
+<li><a href="http://highschoolsports.pennlive.com/boysicehockey/">Boys Ice Hockey</a></li>
+<li class="advMenuExpansion" data-state="3" data-sub-key="hssports">
+<span class="nolink">Off Season Sports</span>
+<span class="next" data-state="3" data-sub-key="hssports"></span>
+</li>
+</ul>
+<ul class="advMenuSub advMenu advMenuSub2" data-sub-key="hssports">
+<li class="advMainMenuLink" data-state="3" data-sub-key="hssports"><div class="prev"></div>Back to High School Sports Menu</li>
+<li><a href="http://highschoolsports.pennlive.com/baseball/">Baseball</a></li>
+<li><a href="http://highschoolsports.pennlive.com/softball/">Softball</a></li>
+<li><a href="http://highschoolsports.pennlive.com/boyslacrosse/">Boys Lacrosse</a></li>
+<li><a href="http://highschoolsports.pennlive.com/girlslacrosse/">Girls Lacrosse</a></li>
+<li><a href="http://highschoolsports.pennlive.com/boystennis/">Boys Tennis</a></li>
+<li><a href="http://highschoolsports.pennlive.com/boystrackandfield/">Boys Track and Field</a></li>
+<li><a href="http://highschoolsports.pennlive.com/girlstrackandfield/">Girls Track and Field</a></li>
+<li><a href="http://highschoolsports.pennlive.com/boysvolleyball/">Boys Volleyball</a></li>
+<li><a href="http://highschoolsports.pennlive.com/bowling/">Bowling</a></li>
+</ul>
+<ul class="advMenuSub advMenu" data-key="follow" id="adv_follow_menu">
+<li class="advMainMenuLink" data-state="2"><div class="prev"></div>Back to Main Menu</li>
+<li class="advMenuSoc" id="adv_follow_fb"><span><a href="http://www.facebook.com/pennlive">Like us on Facebook</a></span></li>
+<li class="advMenuSoc" id="adv_follow_twitter"><span><a href="http://twitter.com/pennlive">Follow us on Twitter</a></span></li>
+<li class="advMenuSoc" id="adv_follow_instagram"><span><a href="http://instagram.com/pennlive">Follow us on Instagram</a></span></li>
+<li class="advMenuSoc" id="adv_follow_pinterest"><span><a href="http://www.pinterest.com/pennlive/">Follow us on Pinterest</a></span></li>
+<li class="advMenuSoc" id="adv_follow_tumblr"><span><a href="http://pennlive.tumblr.com">Follow us on Tumblr</a></span></li>
+<li class="advMenuSoc" id="adv_follow_gplus"><span><a href="https://plus.google.com/u/0/109230594666081495837/posts">Follow us on Google Plus</a></span></li>
+</ul>
+<ul class="advMenuSub advMenu" data-key="subscribe" id="adv_subscribe_menu">
+<li class="advMainMenuLink" data-state="2"><div class="prev"></div>Back to Main Menu</li>
+<li data-val="" value=""><a href="https://member.pennlive.com/">The Patriot-News</a></li>
+<li data-val="" value=""><a href="http://www.thepamediagroup.com/brands/central-pa-magazine/">Central PA Magazine</a></li>
+<li data-val="" value=""><a href="http://update.pennlive.com/adv_pennlive/newsletters/pennlive/subscribe.htm">Newsletters</a></li>
+<li data-val="" value=""><a href="http://www.pennlive.com/mobile-device/">Mobile Apps</a></li>
+<li data-val="" value=""><a href="https://itunes.apple.com/ie/podcast/pennlive-news-podcasts/id731028103?mt=2">News Podcasts</a></li>
+<li data-val="" value=""><a href="https://itunes.apple.com/us/podcast/pennlive-sports-podcasts/id714417677?l=en">Sports Podcasts</a></li>
+</ul>
+<div class="SiteSponsor nofullad injectedAd" id="SiteSponsor"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="" data-state="4" id="adv_weather">
+<div class="advWeatherInner">
+<span class="advConditions intermittent-clouds-04">
+<span class="advTemp"></span>
+</span>
+</div>
+</div>
+<div class="advDropdown advLayer" id="adv_weather_main">
+<div class="advPanelArrow"></div>
+<div class="advDropdownOuter">
+<div class="advDropdownInner">
+<div class="advMainMenuLink" data-state="1"><div class="prev"><a href="#"></a></div>Back to Main Menu</div>
+<div id="adv_weather_inner">
+<div class="advClose" data-state="4"><span class="advToprailIcon ir">Close</span></div>
+<form id="adv_wlocation_form">
+<div class="title">Customize Your Weather</div>
+<div>
+<label for="adv_wlocation_input">Set Your Location (Enter City and State or Zip Code)</label>
+<div class="errorMsg"></div>
+</div>
+<div class="advFrmInput"><input id="adv_wlocation_input" name="adv_wlocation_input" placeholder="Use My Current Location" type="text" value=""/></div>
+<div class="advFrmBtn"><input type="submit" value="Submit"/></div>
+</form>
+<div id="adv_wlocation_confirm">
+<div class="title">Congratulations!</div>
+<div>Your weather is set to <span class="advGeoChoosen"></span>. You can change the location at any time.</div>
+<div class="advFrmBtn">
+<input class="adv-tray_link" data-phase="phase3" data-state="4" type="button" value="Done"/>
+</div>
+</div>
+<div id="adv_weather_data">
+<div class="subtitle">AccuWeather.com Quick Look</div>
+<div class="title"></div>
+<div><a class="advTrayLink" data-phase="phase1" data-state="2">Change your current location »</a></div>
+<div class="advWeatherInner"></div>
+<div class="advFrmBtn"><a class="advABtn" href="">View Full Weather Report</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="adunit nomobilead" id="SponsorRight"></div>
+</div>
+<div id="adv_mast_right">
+<div class="advToprailBtn" data-state="6" id="adv_search">
+<span class="advToprailIcon ir">Search</span>
+<span class="advIconLabel">Search</span>
+</div>
+<div id="adv_search_main">
+<div class="advPanelArrow"></div>
+<form action="http://search.pennlive.com/sp" id="adv_search_form" method="get" onsubmit="">
+<div id="adv_search_panel">
+<div class="advSearchBtn" data-state="6"><input class="advSearchIcon" type="submit" value="Search"/></div>
+<div class="advLayer" id="adv_search_bar">
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="advTextbox" id="adv_search_input" name="keywords" placeholder="Search" type="text"/><br/>
+</div>
+</div>
+<div class="advSearchLink">
+<h2>Search PennLive</h2>
+<div class="next"></div>
+</div>
+</form>
+</div>
+<div class="advToprailBtn" data-state="5" id="adv_account">
+<span class="advToprailIcon ir">Account</span>
+<span class="advIconLabel">Sign In</span>
+</div>
+<div class="advDropdown advLayer" id="adv_user_dropdown">
+<div class="advPanelArrow"></div>
+<div class="advDropdownOuter">
+<div class="advDropdownInner">
+<div class="advClose" data-state="5"><span class="advToprailIcon ir">Close</span></div>
+<div id="adv_user_main">
+<div id="adv_user_signin">
+<h2>Sign in to<br/><span>PennLive</span></h2>
+<div class="advRule"></div>
+<div id="adv_gigya_tr_container"></div>
+<form action="https://signup.pennlive.com/community/" id="adv_signin" method="post" name="ToprailSignInForm" onsubmit="document.getElementById('adv_login_return_url').value=top.document.location.href;return true;">
+<input name="__mode" type="hidden" value="do_login"/>
+<input id="adv_login_return_url" name="return_to" type="hidden" value=""/>
+<input id="adv-affiliate" name="affiliate" type="hidden" value="penn"/>
+<input id="adv-v" name="v" type="hidden" value="baseline"/>
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="advTextbox" id="adv_tr_login_author" name="username" placeholder="Enter Username" size="30" type="text"/><br/>
+<input class="advTextbox" id="adv_tr_login_password" name="password" placeholder="Enter Password" size="30" type="password"/><br/>
+<input type="submit" value="Sign In"/>
+<div class="advCheckbox">
+<input id="adv_signin_checkbox" name="remember" type="checkbox" value="Sign In"/>
+<label for="adv_signin_checkbox"><span class="advFormText">Remember me</span></label>
+</div>
+<input id="adv_tr_error_url" name="error_url" type="hidden" value="https://signup.pennlive.com/sign-in/">
+</input></form>
+<a href="https://signup.pennlive.com/remember/?" id="adv_pass_reset">Forgot your username and password?</a>
+<div class="advRule"></div>
+<div class="advSocialLogin">
+<div id="adv_signin_services">
+<h3>Don't have an account?</h3>
+<p><a href="https://signup.pennlive.com/register/?" id="adv_toprail_register" title="Register now!">Register now for free</a>, or sign in with any of these services:</p>
+<span id="adv_signin_links">
+<a class="adv-signin-fb" href="https://signup.pennlive.com/sign-in/?option=Facebook" id="AdvTrSdFb"><img alt="Facebook" src="http://media.pennlive.com/static/common/img/buttons/btn-signin-Facebook.png"/></a>
+<a class="adv-signin-google" href="https://signup.pennlive.com/sign-in/?option=Google"><img alt="Google" src="http://media.pennlive.com/static/common/img/buttons/btn-signin-Google.png"/></a>
+<a class="adv-signin-aim" href="https://signup.pennlive.com/sign-in/?option=AIM"><img alt="AOL" src="http://media.pennlive.com/static/common/img/buttons/btn-signin-AOL.png"/></a>
+<a class="adv-signin-twitter" href="https://signup.pennlive.com/sign-in/?option=Twitter"><img alt="Twitter" src="http://media.pennlive.com/static/common/img/buttons/btn-signin-Twitter.png"/></a>
+</span>
+</div>
+</div>
+</div>
+<div id="adv_user_snapshot">
+<div id="adv_profile_menu">
+<img id="adv_profile_img"/>
+<div id="adv_profile_nameplate">
+<span class="advSignInStatus">You are signed in as</span><br/>
+<h2></h2>
+</div>
+<div id="adv_profile_btns">
+<span class="advProfileBtn" id="adv_profile_edit"><a href="" title="Edit your profile">Edit</a></span>
+<span class="advProfileBtn" id="adv_profile_view"><a href="" title="View your public profile">Public Profile</a></span>
+<span class="advProfileBtn" id="adv_profile_exit"><a href="" title="Sign out">Sign Out</a></span>
+</div>
+</div>
+<div id="adv_gigya_tr_profile"></div>
+<div id="adv_user_favs">
+<ul>
+<li class="advFavCat" id="user_fav_schools"><div data-state="0"><h2>Favorite Schools</h2><span class="advFeedBtn ir">expand</span></div>
+<ul class="advFeedSubList"></ul>
+</li>
+<li class="advFavCat" id="user_fav_teams"><div data-state="0"><h2>Favorite Teams</h2><span class="advFeedBtn ir">close</span></div>
+<ul class="advFeedSubList"></ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="" data-state="9" id="adv_subscribe">
+<span class="advArrow">Subscribe</span><br/><strong></strong>
+</div>
+<div class="advDropdown advLayer" id="adv_subscribe_main">
+<div class="advPanelArrow"></div>
+<div class="advDropdownOuter">
+<div class="advDropdownInner">
+<ul class="advMenu">
+<li data-val="" value=""><a href="https://member.pennlive.com/">The Patriot-News</a></li>
+<li data-val="" value=""><a href="http://www.thepamediagroup.com/brands/central-pa-magazine/">Central PA Magazine</a></li>
+<li data-val="" value=""><a href="http://update.pennlive.com/adv_pennlive/newsletters/pennlive/subscribe.htm">Newsletters</a></li>
+<li data-val="" value=""><a href="http://www.pennlive.com/mobile-device/">Mobile Apps</a></li>
+<li data-val="" value=""><a href="https://itunes.apple.com/ie/podcast/pennlive-news-podcasts/id731028103?mt=2">News Podcasts</a></li>
+<li data-val="" value=""><a href="https://itunes.apple.com/us/podcast/pennlive-sports-podcasts/id714417677?l=en">Sports Podcasts</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<!-- /toprail -->
+<!-- stop toprail -->
+<div class="adunit nomobilead" id="FrameTile2"></div><div class="adunit nomobilead" id="Tower"></div>
+<!-- ./templates/global/shared/nav/masthead.mtml end -->
+<!-- End Masthead -->
+<div id="main" role="main">
+<div class="wrapper">
+<div id="content">
+<div class="hnews">
+<div id="article">
+<div class="wrapper">
+<div class="CommentCount">
+<a href="#comments"><span id="echo_comment_count"></span></a>
+<div class="label">comments</div>
+</div>
+<!-- headline - wide -->
+<!-- Premium Blog -->
+<!-- /Premium Blog -->
+<h1>Vintage photos of The Beatles </h1>
+<div class="clearfix"></div>
+<!-- /headline -->
+<div id="article_container">
+
+<div id="multimedia_main_gallery">
+<div class="gallery_wrapper">
+<input id="btnShare" onclick="javascript:showShareUI('simpleShare')" style="display: none" type="button"/>
+<div id="galleriaAdOverlay"><div id="galleriaAdCloseLeft"></div><div id="galleriaAdCloseRight"></div></div>
+<div id="galleria">
+<div id="preloadGallery">
+<div class="spinner">
+<div class="bounce1"></div>
+<div class="bounce2"></div>
+<div class="bounce3"></div>
+</div>
+</div>
+<div style="display:none">
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-479d53cacdbb84bb.JPG" data-buy="" data-credit="Dan Grossi" data-description="In this Feb. 9, 1964 file photo, The Beatles, from left, Paul McCartney, Ringo Starr on drums, George Harrison and John Lennon, perform for the Ed Sullivan Show in New York. (AP Photo/Dan Grossi, File)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-479d53cacdbb84bb.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-479d53cacdbb84bb.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-8a1052aa5b82760f.JPG" data-buy="" data-credit="Uncredited" data-description="The Beatles are shown during rehearsals on the set of the Ed Sullivan Show.  (AP Photo)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-8a1052aa5b82760f.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-8a1052aa5b82760f.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-77bef982e8e78516.JPG" data-buy="" data-credit="AP" data-description="The Beatles arriving in New York on Feb. 7, 1964. (AP Photo)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-77bef982e8e78516.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-77bef982e8e78516.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-035ed0258ee60ce6.JPG" data-buy="" data-credit="Anonymous" data-description="This Feb. 7, 1964, file photo shows fans pushing forward in hopes of getting a view of The Beatles after their arrival for an American tour in New York. (AP Photo, File)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-035ed0258ee60ce6.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-035ed0258ee60ce6.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-ab06825f5035b896.JPG" data-buy="" data-credit="AP" data-description="The Beatles are shown on the set of the Ed Sullivan Show in New York, Feb. 9, 1964.  In back is John Lennon; the others, from left to right, are: George Harrison, Ringo Starr and Paul McCartney. (AP Photo)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-ab06825f5035b896.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-ab06825f5035b896.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-01b737998a399b78.JPG" data-buy="" data-credit="AP" data-description="The Beatles are shown during rehearsals on the set of the Ed Sullivan Show in New York, Feb. 8, 1964.  On the drums is Ringo Starr, and in the front, left to right, are bassist Paul McCartney, an unidentified stand-in for George Harrison, and singer John Lennon. Harrison was sick.  (AP Photo)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-01b737998a399b78.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-01b737998a399b78.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-63fe8b321c19cbb2.JPG" data-buy="" data-credit="AP" data-description="American speed skating champion Terry McDermott, top center,a barber by trade, prepares to take a swipe at the famed locks of Beatle Paul McCartney, seated, to the mock horror of the other Beatles and TV host Ed Sullivan, during rehearsals at the TV studio, New York, Feb. 9, 1964. From left, George Harrison, Ringo Starr, McDermott, Ed Sullivan and John Lennon. (AP Photo) " data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-63fe8b321c19cbb2.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-63fe8b321c19cbb2.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-da54b068fe925045.JPG" data-buy="" data-credit="AP" data-description="American fans in New York react during the Beatles' concert on the Ed Sullivan Show, Feb. 9, 1964. (AP Photo)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-da54b068fe925045.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-da54b068fe925045.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-6f79938c6f5a1dc8.JPG" data-buy="" data-credit="ASSOCIATED PRESS" data-description="Three of the four Beatles, from left, John Lennon, Ringo Starr, and Paul McCartney, walk in Central Park in New York City, Feb. 10, 1964 on their first U.S. tour.  (AP Photo)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-6f79938c6f5a1dc8.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-6f79938c6f5a1dc8.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-152ffa1134670f44.JPG" data-buy="" data-credit="AP" data-description="Three members of the Beatles, from left, Paul McCartney, left, John Lennon and drummer Ringo Starr are shown on the set of the Ed Sullivan Show in New York, Feb. 9, 1964.  (AP Photo)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-152ffa1134670f44.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-152ffa1134670f44.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-efb387fe8bef87d3.JPG" data-buy="" data-credit="ANONYMOUS" data-description="Ed Sullivan, center, stands with The Beatles during a rehearsal for the British group's first American appearance, on the Ed Sullivan Show in New York on Feb. 9, 1964. From left:  Ringo Starr, George Harrison, Sullivan, John Lennon and Paul McCartney. (AP Photo)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-efb387fe8bef87d3.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-efb387fe8bef87d3.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-0cf95b0044e21d3b.JPG" data-buy="" data-credit="AP" data-description="John Lennon, center, holds his forehead as 5-year-old Debbie Fyall, of London, England, sits on his shoulders, in New York, Central Park, USA, February 8, 1964. The other two members of the Beatles are Paul McCartney, left, and Ringo Starr, right.  (AP Photo/The Beatles)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-0cf95b0044e21d3b.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-0cf95b0044e21d3b.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-149f8dc0cc4a0bd1.JPG" data-buy="" data-credit="AP" data-description="The Beatles, from left, Ringo Starr, George Harrison, John Lennon and Paul McCartney, are shown in their New York hotel after their arrival on Feb. 7, 1964.  The British rock group, on their first American tour, was pelted with jelly beans and candy kisses by screaming teen-age fans.  (AP Photo)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-149f8dc0cc4a0bd1.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-149f8dc0cc4a0bd1.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-fb9efbda2e1ad8fe.JPG" data-buy="" data-credit="ASSOCIATED PRESS" data-description="The Beatles meet reporters at Kennedy Airport in New York City, Feb. 7, 1964, on their arrival from London for their first American tour.  The band members, from left, are, Paul McCartney, Ringo Starr, George Harrison, and John Lennon.  (AP Photo)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-fb9efbda2e1ad8fe.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-fb9efbda2e1ad8fe.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+<span class="resimg" data-author="dkiner" data-author-username="Deb Kiner | dkiner@pennlive.com" data-authorlink="" data-big="http://imgick.pennlive.com/home/penn-media/pgfull/img/patriot-news/photo/2015/02/09/-7930078e2435ddad.JPG" data-buy="" data-credit="CHARLES TASNADI" data-description="The Beatles face the media on arrival at JFK airport in New York City on Feb. 7, 1964. The British rock and roll group was also greeted by a screaming crowd estimated at 5,000. (AP Photo/Charles Tasnadi)" data-image="http://media.pennlive.com/patriot-news/photo/2015/02/09/-7930078e2435ddad.JPG" data-keywords="" data-moderate="" data-position="gallery-photo" data-tags="The Beatles in America" data-thumb="http://imgick.pennlive.com/home/penn-media/pgthumb/img/patriot-news/photo/2015/02/09/-7930078e2435ddad.JPG" data-title="The Beatles made their American debut on Feb. 9, 1964, on the Ed Sullivan Show." data-titleurl="">
+</span>
+</div>
+</div> <!-- /galleria -->
+</div> <!-- /gallery_wrapper -->
+</div>
+<div id="Byline">
+<div class="EmailPrint">
+<a class="PrintLink" href="http://blog.pennlive.com/midstate_impact/print.html?entry=/2015/02/vintage_photos_of_the_beatles.html" target="_blank">Print</a>
+</div>
+<a href="http://connect.pennlive.com/staff/dkiner/index.html">
+<span class="resimg Avatar" data-image="http://media.pennlive.com/avatars/496.png" data-position="byline-avatar">Deb Kiner | dkiner@pennlive.com</span>
+</a>
+	
+
+
+
+	
+
+
+
+By
+
+	
+		
+	
+		
+			<span class="author vcard"><a class="bl" href="http://connect.pennlive.com/staff/dkiner/posts.html">
+	
+		
+	
+	
+	
+	
+	Deb Kiner | dkiner@pennlive.com
+</a></span>
+<span style="display:none; visibility:hidden;">The Patriot-News</span>
+<br/> <a id="email_author" onclick="emailAuthor()">Email the author</a> | <a href="https://twitter.com/DeborahKiner" target="_blank">Follow on Twitter</a>
+<br/>on February 09, 2015 at  8:46 AM, updated <span class="updated" title="2015-02-09T14:26:25Z">February 09, 2015 at  9:26 AM</span>
+<div id="sponsor_tablet">
+<div class="sub-sponsor"></div>
+</div>
+</div><!-- /Byline -->
+<div id="social_top">
+</div><!-- /social_top -->
+<div id="social_mobile">
+<div class="social_simple">
+<a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.pennlive.com%2Fmidstate%2Findex.ssf%2F2015%2F02%2Fvintage_photos_of_the_beatles.html" target="_blank"></a>
+<a class="twitter" href="http://twitter.com/share?url=http%3A%2F%2Fwww.pennlive.com%2Fmidstate%2Findex.ssf%2F2015%2F02%2Fvintage_photos_of_the_beatles.html" target="_blank"></a>
+<a class="email" href="mailto:" target="_blank"></a>
+<a class="no_mobile comments_button comments_button_top" href="#comments">View/Post Comments</a>
+</div>
+</div><!-- /social_mobile -->
+
+<div id="article_inset">
+<div id="story-package">
+<!-- series -->
+<!-- /series -->
+<!-- Aka Story Package -->
+<!-- gallery-preview -->
+<!-- /gallery-preview -->
+<!-- Aka Secondary Package -->
+<div class="adunit nomobilead" id="StoryAd"></div>
+</div><!-- /storypackage -->
+</div><!-- /#article_inset -->
+<!-- Article -->
+<div class="entry-content">
+<p>The Beatles made their first live appearance in the United States on Feb. 9, 1964, on the Ed Sullivan Show.</p>
+<p>According to history.com, "Shortly after 8 p.m. Sullivan would finally introduce John, Paul, George and Ringo to America with the now-famous words, 'Ladies and Gentleman ... The Beatles!' As a packed house of giddy teenagers looked on, the group launched into renditions of 'All My Loving' and 'Till There Was You' before driving the crowd into a frenzy with the catchy 'She Loves You.' The Beatles returned later that evening for a second set featuring energetic versions of 'I Saw Her Standing There' and their number one hit, 'I Want to Hold Your Hand,' both nearly drowned out by screams of joy from female audience members. Television ratings for the appearance proved astronomical. According to the Nielsen Company, a record-breaking 73 million viewers tuned in to watch The Beatles on Ed Sullivan --nearly 40 percent of the U.S. population at the time."</p>
+</div>
+<!-- /Article -->
+<div class="box_grayoutline">
+<div>
+<div class="box_top_left"><!-- --></div><div class="box_top_right"><!-- --></div><div class="box_top"><!-- --></div>
+</div>
+<div class="box_content">
+<div class="clear"><!-- --></div>
+<!-- 'BannerShared' begin -->
+<div class="adunit nomobilead" id="BannerShared"></div>
+<!-- 'BannerShared' end -->
+</div>
+<div>
+<div class="box_bottom_left"><!-- --></div><div class="box_bottom_right"><!-- --></div><div class="box_bottom"><!-- --></div>
+</div>
+</div>
+<div class="Tile5 adunit nofullad" id="Tile5"></div>
+<div class="clearfix"></div>
+<div id="social_bottom">
+</div>
+<div class="social_simple">
+<a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.pennlive.com%2Fmidstate%2Findex.ssf%2F2015%2F02%2Fvintage_photos_of_the_beatles.html" target="_blank"></a>
+<a class="twitter" href="http://twitter.com/share?url=http%3A%2F%2Fwww.pennlive.com%2Fmidstate%2Findex.ssf%2F2015%2F02%2Fvintage_photos_of_the_beatles.html" target="_blank"></a>
+<a class="email" href="mailto:" target="_blank"></a>
+<a class="no_mobile comments_button comments_button_bottom" href="#comments">View/Post Comments</a>
+</div>
+<!-- /social_bottom -->
+<div class="clearfix newrelated" id="related">
+<h2>Related Stories</h2>
+</div>
+<a name="comments"></a>
+<div id="rtb-comments"></div>
+</div><!--/#article_container -->
+</div><!-- /#article .wrapper -->
+</div><!-- /#article -->
+</div><!-- .hnews -->
+<aside class="ArticleSidebar">
+
+<div class="Rectangle adunit nomobilead" id="Rectangle"></div>
+<section class="entertainment_highlight">
+<h1>Featured Story</h1>
+<h2></h2>
+<div class="pod-inner">
+<div class="pod-photo"><a href="http://www.pennlive.com/politics/index.ssf/2015/02/pa_bar_rejects_republican_supr.html"><img class="lazy" data-original="http://imgick.pennlive.com/home/penn-media/width620/img/politics_impact/photo/16970872-mmmain.jpg" src="/static/common/img/blank.gif"/></a></div>
+<h2><a href="http://www.pennlive.com/politics/index.ssf/2015/02/pa_bar_rejects_republican_supr.html">Pa. Bar rejects Republican Supreme Court pick, who fights back</a></h2>
+<div class="pod-text">
+<p> </p>
+</div>
+</div>
+</section>
+
+<section class="newsletter-signup promo-spot">
+<form action="http://newsletters.pennlive.com/bin/listctrl" class="newsletter-form" method="post" name="newsletter-form" onsubmit="return verifyform(this);" target="_blank">
+<input name="multiadd" type="hidden" value="1">
+<input name="cmd" type="hidden" value="subscribe">
+<input name="goto" type="hidden" value="http://newsletters.pennlive.com/bin/msv?r=adv_pennlive&amp;t=subscribe_msv&amp;a=subscribe_thankyou&amp;cmpid=newsletter_pagebuilder_module">
+<input name="format" type="hidden" value="html">
+<input name="goto_pass_along" type="hidden" value="email">
+<input name="goto_pass_along_aliases" type="hidden" value="email">
+<input name="slid_2" type="hidden" value="6700EAF45F07D38E9875C3D2D0F9529E9F5EDC9A5AB4FEBA">
+<input id="optout_value" name="custom_optout" type="hidden" value="YES">
+<header><h1>Get 'Today's Front Page' in your inbox</h1></header>
+<div id="newsletter-intro">This newsletter is sent every morning at 6 a.m. and includes the morning's top stories, a full list of obituaries, links to comics and puzzles and the most recent news, sports and entertainment headlines.</div>
+<label> <br>
+<input id="newsletter-email" name="email" placeholder="Enter your e-mail address" type="email"/>
+</br></label>
+<label>optional<br>
+<input id="newsletter-zip" name="zip" pattern="[0-9]*" placeholder="Enter Zip" type="tel"/>
+</br></label>
+<label class="selector" id="newsletter-button">
+<input id="newsletter-submit" type="submit" value="Submit"/>
+</label>
+<label>
+<input id="newsletter-optout" onclick="setCustomOptout();" type="checkbox"/>
+<span>Check here if you do not want to receive additional email offers and information.</span>
+<input id="newsletter-realdeal" name="slid_1" type="hidden" value=""/>
+</label>
+<a href="/privacypolicy/" id="newsletter-policy" target="_blank">See our privacy policy</a>
+</input></input></input></input></input></input></input></input></form>
+<div id="newsletter-thanks">
+<header><h1>Thank you for signing up for 'Today's Front Page'</h1></header>
+<p>
+              To view and subscribe to any of our other newsletters, please <a href="http://update.pennlive.com/adv_pennlive/newsletters/pennlive/" target="_blank">click here</a>.
+        </p>
+</div>
+</section>
+
+<section class="most-popular" id="most-popular-read">
+<div class="module-block active" id="most-read">
+<h2>Most Read</h2>
+
+</div>
+</section>
+<section class="most-popular " id="most-popular-comments">
+<h2>Active Discussions</h2>
+<div class="active module-block" id="most-comments"></div>
+</section>
+
+</aside><!-- /ArticleSidebar -->
+<!-- Best Of Module -->
+<div class="clearfix" id="best_of">
+<h2>Best of PennLive.com</h2>
+<div class="BestOfColumn" id="best_first">
+<a href="http://www.pennlive.com/midstate/index.ssf/2015/02/sadness_settles_over_millersvi.html#incart_hbx"><img alt="" class="lazy" data-original="
+  
+    
+      
+  
+    http://media.pennlive.com/penn_top_stories/photo/16970262-thumb_square_large.jpg
+  
+
+    
+  
+" src="/static/common/img/blank.gif" width="140"/></a>
+<a href="http://www.pennlive.com/midstate/index.ssf/2015/02/sadness_settles_over_millersvi.html#incart_hbx">Sadness at Millersville following student's death</a>
+</div>
+<div class="BestOfColumn" id="best_second">
+<a href="http://www.pennlive.com/sports/index.ssf/2015/02/iowa_heavyweight_bobby_telford.html#incart_hbx"><img alt="" class="lazy" data-original="
+  
+    
+      
+  
+    http://media.pennlive.com/penn_top_stories/photo/16970271-thumb_square_large.jpg
+  
+
+    
+  
+" src="/static/common/img/blank.gif" width="140"/></a>
+<a href="http://www.pennlive.com/sports/index.ssf/2015/02/iowa_heavyweight_bobby_telford.html#incart_hbx">Iowa's Telford spoils Penn State wrestling party</a>
+</div>
+<div class="BestOfColumn" id="best_third">
+<a href="http://www.pennlive.com/entertainment/index.ssf/2015/02/grammy_2015_beyonce_sam_smith.html#incart_hbx"><img alt="" class="lazy" data-original="
+  
+    
+      
+  
+    http://media.pennlive.com/penn_top_stories/photo/16970268-thumb_square_large.jpg
+  
+
+    
+  
+" src="/static/common/img/blank.gif" width="140"/></a>
+<a href="http://www.pennlive.com/entertainment/index.ssf/2015/02/grammy_2015_beyonce_sam_smith.html#incart_hbx">Best dressed at the 2015 Grammys: photos</a>
+</div>
+</div>
+<!-- /Best of -->
+</div><!-- /#content -->
+</div><!-- .wrapper -->
+</div><!-- /#main -->
+<!-- start esi-entry.html -->
+
+
+
+
+<!-- end esi-entry.html -->
+<!-- ./templates/global/shared/nav/footer.mtml start -->
+<br/>
+<!-- No longer used; Pushed down into parent template -->
+<span data-start="pages/comments/main" id="adilf">
+
+</span>
+<footer id="footer">
+<div class="wrapper clearfix">
+<div id="footer-logos">
+<img alt="PennLive logo" src="http://media.pennlive.com/static/penn/static/img/footer-logo-penn-inc.png">
+</img></div>
+<div class="footer-col" id="about-us">
+<div class="cluster clearfix">
+<h2>About Us</h2>
+<ul>
+<li><a href="http://www.pennlive.com/aboutus/">PennLive</a></li>
+<li><a href="http://www.thepamediagroup.com/about/">PA Media Group</a></li>
+<li><a href="http://www.pennlive.com/placead/">Advertise with Us</a></li>
+<li><a href="http://www.pennlive.com/contactus/" title="Contact Us">Contact Us</a></li>
+<li><a href="http://www.pennlive.com/newstips" title="Send us a news tip">Send us a news tip</a></li>
+</ul>
+<ul>
+<li><a href="http://jobs.pennlive.com/careers/company/detail?id=883843&amp;letter=P">Career Opportunities</a></li>
+<li><a href="http://www.pennlive.com/aboutus/index.ssf?/aboutus/content/faq.html">FAQ</a></li>
+<li><a href="http://www.pennlive.com/aboutus/index.ssf?/forums/rules.html">Community Rules</a></li>
+</ul>
+</div>
+<div class="cluster clearfix">
+<h2>Subscriptions</h2>
+<ul class="no_wrap">
+<li><a href="https://member.pennlive.com">The Patriot-News</a></li>
+<li><a href="http://www.thepamediagroup.com/subscribe/">Manage Your Patriot-News Subscription</a></li>
+<li><a href="http://www.pennlive.com/newsletters">e-Newsletters</a></li>
+<li><a href="http://www.pennlive.com/rss/">Blogs</a></li>
+</ul>
+</div>
+</div><!-- /#about-us -->
+<div class="footer-col" id="sections">
+<div class="cluster clearfix">
+<h2>PennLive Sections</h2>
+<ul>
+<li><a href="http://www.pennlive.com/midstate/">News</a></li>
+<li><a href="http://www.pennlive.com/business/">Business</a></li>
+<li><a href="http://www.pennlive.com/sports/">Sports</a></li>
+<li><a href="http://highschoolsports.pennlive.com/">High School Sports</a></li>
+<li><a href="http://www.pennlive.com/entertainment/">Entertainment</a></li>
+<li><a href="http://www.pennlive.com/living/">Living</a></li>
+<li><a href="http://www.pennlive.com/travel/">Travel</a></li>
+<li><a href="http://www.pennlive.com/opinion/">Opinion</a></li>
+</ul>
+<ul>
+<li><a href="http://obits.pennlive.com/PennLive/DeathNotices.asp">Obituaries</a></li>
+<li><a href="http://www.pennlive.com/jobs/">Jobs</a></li>
+<li><a href="http://www.pennlive.com/autos/">Autos</a></li>
+<li><a href="http://www.pennlive.com/realestate/">Real Estate</a></li>
+<li><a href="http://realestate.pennlive.com/for-rent">Rentals</a></li>
+<li><a href="http://classifieds.pennlive.com/">Classifieds</a></li>
+<li><a href="http://findnsave.pennlive.com/">Find n Save</a></li>
+<li><a href="http://businessfinder.pennlive.com/">Local Businesses</a></li>
+</ul>
+</div>
+<div class="cluster">
+<h2>Mobile</h2>
+<p><a href="http://www.pennlive.com/mobile-device/">iPhone, Android Apps</a> | <a href="http://www.pennlive.com/mobile-device/">Tablet Apps</a>
+</p></div>
+</div><!-- /#topics -->
+<div class="footer-col" id="more">
+<div class="clearfix cluster">
+<h2>More on PennLive</h2>
+<ul>
+<li><a href="http://www.pennlive.com/forums/">Forums</a></li>
+<li><a href="http://videos.pennlive.com/patriot-news">Videos</a></li>
+<li><a href="http://photos.pennlive.com/patriot-news/">Photos</a></li>
+<li><a href="http://www.pennlive.com/interact/">Interact with Us</a></li>
+<li><a href="http://www.pennlive.com/weather/">Weather</a></li>
+<li><a href="http://www.pennlive.com/contests/">Contests</a></li>
+</ul>
+<ul>
+<li><a href="http://www.pennlive.com/jobs/products">Post a Job</a></li>
+<li><a href="http://www.pennlive.com/classifieds/free/">Post a Free Classified Ad</a></li>
+<li><a href="http://www.pennlive.com/placead/">Sell your Car</a></li>
+<li><a href="http://www.pennlive.com/placead/">Sell/Rent your Home</a></li>
+<li><a href="http://www.pennlive.com/siteindex">Sitemap &amp; Search</a></li>
+</ul>
+</div>
+<div class="cluster">
+<h2>Follow Us</h2>
+<p>
+<a class="adv-icn-twitter icn-link" href="http://twitter.com/pennlive">Twitter</a> | 
+                    	<a class="adv-icn-facebook icn-link" href="http://www.facebook.com/pennlive">Facebook</a> | 
+                    	<a class="adv-icn-google icn-link" href="https://plus.google.com/u/0/109230594666081495837/posts">Google+</a>
+</p>
+</div>
+</div><!-- /#more -->
+</div><!--/.wrapper-->
+<div id="disclaimer">
+<a href="http://www.advancedigital.com/" title="Advance Digital"><img alt="Advance Digital logo" id="AdvanceDigitalLogo" src="http://media.pennlive.com/static/common/img/footer-logo-advance.png"/></a>
+<p>Registration on or use of this site constitutes acceptance of our <a href="http://www.pennlive.com/useragreement/" title="User Agreement">User Agreement</a> and <a href="http://www.pennlive.com/privacypolicy/" title="Privacy Policy">Privacy Policy</a></p>
+<p>© 2015 PA Media Group All rights reserved (<a href="http://www.thepamediagroup.com/brands/pennlive/">About Us</a>).<br>The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of PA Media Group</br></p>
+<p><a href="http://www.pennlive.com/forums/index.ssf?rules.html" title="Community Rules">Community Rules</a> apply to all content you upload or otherwise submit to this site. <a href="http://www.pennlive.com/contactus/interactivity.ssf" title="Community Rules">Contact interactivity management.</a></p>
+<p><a href="http://www.advance.net/advancedigitalUserAgreementPP/#opt_out"><img src="http://media.pennlive.com/static/common/img/ad_choices_arrow_transparent.png"> Ad Choices</img></a></p>
+</div>
+</footer>
+<!-- this is no longer used for site catalyst -->
+<!-- ./templates/global/shared/nav/footer.mtml end -->
+<!-- Quantcast Tag moved to bottom_1 -->
+<!-- Nielsen code moved to bottom1 -->
+
+<!--Javascript/CSS needed for moderation (flagging inappropriate content) -->
+<link href="http://media.pennlive.com/design/alpha/css/moderate.css" rel="stylesheet" type="text/css">
+
+
+
+
+</link></body>
+</html>

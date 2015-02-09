@@ -1,0 +1,20 @@
+Title: List of Toy Story characters - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=5905720; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sun, 08 Feb 2015 23:13:49 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1578335548, 502111899 442334821
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:40:23 GMT
+Age: 38922
+Connection: close
+X-Cache: cp1052 miss (0), cp1052 frontend hit (20)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

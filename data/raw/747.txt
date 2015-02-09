@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Celine Las Vegas</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="/favicon.ico" rel="icon" type="image/vnd.microsoft.icon"/>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="/css/screen.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="/css/ie6.css" media="all">
+<![endif]-->
+<!--[if lt IE 8]>
+<link type="text/css" rel="stylesheet" href="/css/ie.css" media="all">
+<![endif]-->
+<!--[if !IE]>
+	<link media="only screen and (max-device-width: 480px)" href="/css/handheld.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+<meta content="This past year Celine has been enjoying some valuable family time and now that she’s been able to enjoy this time off, she’s getting ready to return to Las Vegas in 2011, with a brand-new spectacular show." name="description"/>
+<meta content="Celine Dion Las Vegas Caesers Palace Colosseum" name="keywords"/>
+<meta content="Celine Dion Returning To Las Vegas" name="title"/>
+<link href="http://www.celineinvegas.com/images/fbimage.jpg" rel="image_src"/>
+
+</head>
+<body id="index_body">
+<div id="header">
+<h1>Celine</h1>
+<div id="nav">
+<ul>
+<li class="first_li"><a href="/index.php" id="nav_home">Home</a></li>
+<li><a href="/show.php" id="nav_show">The Show</a></li>
+<li><a href="/tickets.php" id="nav_tickets">Tickets &amp; Seats</a></li>
+<li><a href="/colosseum.php" id="nav_colosseum">The Colosseum</a></li>
+</ul>
+</div>
+</div><div class="main">
+<div class="col1">
+<div id="leadstory">
+<h1>CELINE DION PERFORMANCES AT THE COLOSSEUM AT CAESARS PALACE CANCELED</h1>
+<p>LAS VEGAS, NV (Aug. 13, 2014) - It is with great regret that we inform you that Celine Dion has canceled all scheduled performances, including those at The Colosseum at Caesars Palace in Las Vegas.  Affected performances include all announced shows scheduled through March 22, 2015.</p>
+<p>Celine Dion has decided to postpone all of her show business activities indefinitely, in order to focus 100% of her attention on her husband Rene, their family, and recent health issues. Since Rene's surgery last December to remove a cancerous tumor, it's been a very difficult and stressful time for the couple as they deal with the day-to-day challenges of fighting this disease while trying to juggle a very active show business schedule, and raise their three young children.</p>
+<p>Celine has also been fighting an illness that has caused inflammation in her throat muscles, and has not been able to perform any of her scheduled shows in Las Vegas since her last show on July 29. She has still not recovered from this condition.</p>
+<p>"I want to devote every ounce of my strength and energy to my husband's healing, and to do so, it's important for me to dedicate this time to him and to our children. I also want to apologize to all my fans everywhere, for inconveniencing them, and I thank them so much for their love and support," said Celine. "I also appreciate the understanding of my long-term partners AEG and Caesars Entertainment during this difficult time."</p>
+<p>Besides canceling her shows at The Colosseum at Caesars Palace until further notice, Celine will also cancel her tour of Asia, previously scheduled for the fall of this year.</p>
+<p>Celine, Caesars Palace, and AEG apologize for any inconvenience this causes ticket holders.</p>
+<p>Ticket holders for the canceled performances should be aware of the following:</p>
+<p><strong>TICKET REFUNDS</strong></p>
+<p><u>Credit Cards</u> - Orders purchased with a credit card for the canceled performance will be refunded to the credit card used for purchase.</p>
+<p><u>Cash</u> - Those who purchased tickets with cash may present tickets at the original point of sale for a refund.</p>
+<p>Please note that Celine, The Colosseum, AXS, Caesars Palace, and AEG Live are not responsible for hotel, travel or other expenses related to the cancelations of these performances.</p>
+</div>
+<div id="spotlight">
+<ul>
+<!--<li class="first_li"><a href="/offers.php" id="btn_offers">Packages &amp; Special Offers</a></li>-->
+<li class="last_li"><a href="/register.php" id="btn_signup">Sign-up Here for More Info</a></li>
+</ul>
+</div> <!--<div align="center">
+            <p>&nbsp;</p>
+            <embed src="http://celinedioninvegas.com/index.swf" quality="high" bgcolor="#000000" width="420" height="310" name="index" align="middle" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer">
+        </div>-->
+<div class="film_photo" id="home_photo">
+<div class="slide">
+<img alt="" src="/images/photo1.jpg"/>
+<p class="photo_caption">Photo Credit: Denise Truscello</p>
+</div>
+</div>
+</div>
+<div class="col2">
+<div id="showdates">
+<h3>Celine Show Dates</h3>
+<table>
+<tbody>
+<tr>
+<td class="moredates_cell" colspan="3">
+<a href="/show.php" id="moredates">More Dates</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="news">
+<h3>What’s Goin’ On</h3>
+<ul>
+<li>
+<h5>August 13, 2014</h5>
+<h4><a href="/news.php?id=12225">Celine Dion Performances at The Colosseum at Caesars Palace Canceled</a></h4>
+<p></p>
+<br/>
+</li>
+<li>
+<h5>June 17, 2014</h5>
+<h4><a href="/news.php?id=12201">Celine Dion Announces New Year's Eve 2014 and Early 2015 Performances at The Colosseum at Caesars Palace</a></h4>
+<p></p>
+<br/>
+</li>
+<li>
+<h5>November 12, 2013</h5>
+<h4><a href="/news.php?id=12117">Celine Dion Announces Summer 2014 Performances at The Colosseum at Caesars Palace</a></h4>
+<p></p>
+<br/>
+</li>
+<li>
+<h5>September 03, 2013</h5>
+<h4><a href="/news.php?id=12081">Celine Dion's New Studio Album Available in The U.S. on Tuesday, November 5</a></h4>
+<p></p>
+<br/>
+</li>
+<li>
+<h5>June 24, 2013</h5>
+<h4><a href="/news.php?id=12049">Celine Dion Announces New Year's Eve and Winter 2013 Performances at The Colosseum - Onsale Fri, June 28 at 10am!</a></h4>
+<p></p>
+<br/>
+</li>
+</ul>
+</div>
+<div id="social">
+<a href="http://www.facebook.com/home.php?#!/celinedion?ref=ts" id="social_facebook" target="_blank">Facebook Celine</a>
+</div>
+</div>
+</div>
+<div id="footer">
+<ul>
+<li class="first_li"><a href="http://www.aeglive.com" target="_blank">AEG Live</a></li>
+<li><a href="http://www.celinedion.com" target="_blank">CelineDion.com</a></li>
+<li><a href="http://www.caesarspalace.com" target="_blank">Caesars Palace</a></li>
+<li><a href="http://www.caesarspalace.com/casinos/caesars-palace/casino-entertainment/index.html" target="_blank">The Colosseum</a></li>
+<li><a href="termsofuse.php">Terms of Use</a></li>
+<li><a href="privacypolicy.php">Privacy Policy</a></li>
+</ul>
+<p>3570 Las Vegas Blvd. South, Las Vegas, NV 89109    © 2015 Five-Star Feeling, Inc. . AEG Live. All Rights Reserved.</p>
+</div>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+
+<noscript>
+<div>
+<img alt="" height="1" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-aeg&amp;cg=celineinvegas&amp;cc=1&amp;ts=noscript" width="1"/>
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- START Google Analytics -->
+
+<!-- END Google Analytics -->
+<!-- START FB Pixel -->
+
+<noscript><img alt="" border="0" height="1" src="https://www.facebook.com/tr?id=217011611820041&amp;ev=NoScript" style="display:none" width="1"/></noscript>
+<!-- END FB Pixel -->
+</body>
+</html>

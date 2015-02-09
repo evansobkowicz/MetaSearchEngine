@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Led Zeppelin Archives - Vinyl Tempest</title>
+<link href="http://vinyltempest.com/xmlrpc.php" rel="pingback">
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link href="http://vinyltempest.com/tag/led-zeppelin/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="object" property="og:type"/>
+<meta content="Led Zeppelin Archives - Vinyl Tempest" property="og:title"/>
+<meta content="http://vinyltempest.com/tag/led-zeppelin/" property="og:url"/>
+<meta content="Vinyl Tempest" property="og:site_name"/>
+<!-- / Yoast WordPress SEO plugin. -->
+<link href="http://feeds.feedburner.com/VinylTempest" rel="alternate" title="Vinyl Tempest » Feed" type="application/rss+xml"/>
+<link href="http://vinyltempest.com/comments/feed/" rel="alternate" title="Vinyl Tempest » Comments Feed" type="application/rss+xml"/>
+<link href="//fonts.googleapis.com/css?family=Titillium+Web:400,400italic,300italic,300,600&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link href="http://vinyltempest.com/tag/led-zeppelin/feed/" rel="alternate" title="Vinyl Tempest » Led Zeppelin Tag Feed" type="application/rss+xml"/>
+<link href="http://vinyltempest.com/wp-content/plugins/my-pinterest-badge/css/mypinterest.css?ver=4.1" id="myPinterestBadge-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://vinyltempest.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.4-5380" id="bbp-default-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://vinyltempest.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.3" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://vinyltempest.com/wp-content/themes/hueman/style.css?ver=4.1" id="style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://vinyltempest.com/wp-content/themes/hueman/responsive.css?ver=4.1" id="responsive-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://vinyltempest.com/wp-content/themes/hueman/fonts/font-awesome.min.css?ver=4.1" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://vinyltempest.com/wp-content/plugins/simple-social-icons/css/style.css?ver=1.0.5" id="simple-social-icons-font-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://vinyltempest.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+<link href="http://vinyltempest.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://vinyltempest.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 4.1" name="generator"/>
+<link href="http://vinyltempest.com/wp-content/uploads/2015/01/VT.png" rel="shortcut icon"/>
+<!--[if lt IE 9]>
+<script src="http://vinyltempest.com/wp-content/themes/hueman/js/ie/html5.js"></script>
+<script src="http://vinyltempest.com/wp-content/themes/hueman/js/ie/selectivizr.js"></script>
+<![endif]-->
+<style media="screen" type="text/css"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover { background-color: #999999 !important; border-radius: 3px; color: #ffffff !important; font-size: 18px; padding: 9px; }  .simple-social-icons ul li a:hover { background-color: #666666 !important; color: #ffffff !important; }</style><style type="text/css">
+/* Dynamic CSS: For no styles in head, copy and put the css below in your child theme's style.css, disable dynamic styles */
+body { font-family: "Titillium Web", Arial, sans-serif; }
+.sidebar .widget { padding-left: 20px; padding-right: 20px; padding-top: 20px; }
+
+::selection { background-color: #5b1db7; }
+::-moz-selection { background-color: #5b1db7; }
+
+a,
+.themeform label .required,
+#flexslider-featured .flex-direction-nav .flex-next:hover,
+#flexslider-featured .flex-direction-nav .flex-prev:hover,
+.post-hover:hover .post-title a,
+.post-title a:hover,
+.s1 .post-nav li a:hover i,
+.content .post-nav li a:hover i,
+.post-related a:hover,
+.s1 .widget_rss ul li a,
+#footer .widget_rss ul li a,
+.s1 .widget_calendar a,
+#footer .widget_calendar a,
+.s1 .alx-tab .tab-item-category a,
+.s1 .alx-posts .post-item-category a,
+.s1 .alx-tab li:hover .tab-item-title a,
+.s1 .alx-tab li:hover .tab-item-comment a,
+.s1 .alx-posts li:hover .post-item-title a,
+#footer .alx-tab .tab-item-category a,
+#footer .alx-posts .post-item-category a,
+#footer .alx-tab li:hover .tab-item-title a,
+#footer .alx-tab li:hover .tab-item-comment a,
+#footer .alx-posts li:hover .post-item-title a,
+.comment-tabs li.active a,
+.comment-awaiting-moderation,
+.child-menu a:hover,
+.child-menu .current_page_item > a,
+.wp-pagenavi a { color: #5b1db7; }
+
+.themeform input[type="submit"],
+.themeform button[type="submit"],
+.s1 .sidebar-top,
+.s1 .sidebar-toggle,
+#flexslider-featured .flex-control-nav li a.flex-active,
+.post-tags a:hover,
+.s1 .widget_calendar caption,
+#footer .widget_calendar caption,
+.author-bio .bio-avatar:after,
+.commentlist li.bypostauthor > .comment-body:after,
+.commentlist li.comment-author-admin > .comment-body:after { background-color: #5b1db7; }
+
+.post-format .format-container { border-color: #5b1db7; }
+
+.s1 .alx-tabs-nav li.active a,
+#footer .alx-tabs-nav li.active a,
+.comment-tabs li.active a,
+.wp-pagenavi a:hover,
+.wp-pagenavi a:active,
+.wp-pagenavi span.current { border-bottom-color: #5b1db7!important; }				
+				
+
+.s2 .post-nav li a:hover i,
+.s2 .widget_rss ul li a,
+.s2 .widget_calendar a,
+.s2 .alx-tab .tab-item-category a,
+.s2 .alx-posts .post-item-category a,
+.s2 .alx-tab li:hover .tab-item-title a,
+.s2 .alx-tab li:hover .tab-item-comment a,
+.s2 .alx-posts li:hover .post-item-title a { color: #fb9400; }
+
+.s2 .sidebar-top,
+.s2 .sidebar-toggle,
+.post-comments,
+.jp-play-bar,
+.jp-volume-bar-value,
+.s2 .widget_calendar caption { background-color: #fb9400; }
+
+.s2 .alx-tabs-nav li.active a { border-bottom-color: #fb9400; }
+.post-comments span:before { border-right-color: #fb9400; }				
+				
+
+.search-expand,
+#nav-topbar.nav-container { background-color: #1c1c1c; }
+@media only screen and (min-width: 720px) {
+	#nav-topbar .nav ul { background-color: #1c1c1c; }
+}			
+				
+
+#header { background-color: #212121; }
+@media only screen and (min-width: 720px) {
+	#nav-header .nav ul { background-color: #212121; }
+}			
+				
+#footer-bottom { background-color: #191414; }
+.site-title a img { max-height: 100px; }
+img { -webkit-border-radius: 8px; border-radius: 8px; }
+</style>
+</link></link></meta></meta></head>
+<body class="archive tag tag-led-zeppelin tag-7 col-3cm full-width topbar-enabled mobile-sidebar-hide unknown">
+<div id="wrapper">
+<header id="header">
+<nav class="nav-container group" id="nav-topbar">
+<div class="nav-toggle"><i class="fa fa-bars"></i></div>
+<div class="nav-text"><!-- put your mobile menu text here --></div>
+<div class="nav-wrap container"><ul class="nav container-inner group" id="menu-primary"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-316" id="menu-item-316"><a href="http://vinyltempest.com/category/music/">Music</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-135" id="menu-item-135"><a href="http://vinyltempest.com/category/music/songs/">Songs</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-873" id="menu-item-873"><a href="http://vinyltempest.com/category/music/songs/one-hit-wonders/">One Hit Wonders</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28" id="menu-item-28"><a href="http://vinyltempest.com/home/">Lyrics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-318" id="menu-item-318"><a href="http://vinyltempest.com/category/music/bands/">Bands</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-317" id="menu-item-317"><a href="http://vinyltempest.com/category/music/albums/">Albums</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-319" id="menu-item-319"><a href="http://vinyltempest.com/category/music/live/">Live</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-492" id="menu-item-492"><a href="http://vinyltempest.com/category/covers/">Covers</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132" id="menu-item-132"><a href="http://vinyltempest.com/category/music/playlists/">Playlists</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-490" id="menu-item-490"><a href="http://vinyltempest.com/category/concerts/">Concerts</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-787" id="menu-item-787"><a href="http://vinyltempest.com/category/concerts/woodstock/">Woodstock</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-786" id="menu-item-786"><a href="http://vinyltempest.com/category/concerts/monterrey/">Monterey</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-617" id="menu-item-617"><a href="http://vinyltempest.com/category/concerts/isle-of-wight/">Isle of Wight</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-719" id="menu-item-719"><a href="http://vinyltempest.com/rock-vault/">Rock Vault</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-720" id="menu-item-720"><a href="http://vinyltempest.com/vintage-rock-posters/">Posters</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-721" id="menu-item-721"><a href="http://vinyltempest.com/rock-roll-gallery/">Photos</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-616" id="menu-item-616"><a href="http://vinyltempest.com/about/">About</a></li>
+</ul></div>
+<div class="container">
+<div class="container-inner">
+<div class="toggle-search"><i class="fa fa-search"></i></div>
+<div class="search-expand">
+<div class="search-expand-inner">
+<form action="http://vinyltempest.com/" class="searchform themeform" method="get">
+<div>
+<input class="search" name="s" onblur="if(this.value=='')this.value='To search type and hit enter';" onfocus="if(this.value=='To search type and hit enter')this.value='';" type="text" value="To search type and hit enter"/>
+</div>
+</form> </div>
+</div>
+</div><!--/.container-inner-->
+</div><!--/.container-->
+</nav><!--/#nav-topbar-->
+<div class="container group">
+<div class="container-inner">
+<div class="group pad">
+<p class="site-title"><a href="http://vinyltempest.com/" rel="home"><img alt="Vinyl Tempest" src="http://vinyltempest.com/wp-content/uploads/2015/01/VT-Logo.png"/></a></p>
+</div>
+</div><!--/.container-inner-->
+</div><!--/.container-->
+</header><!--/#header-->
+<div class="container" id="page">
+<div class="container-inner">
+<div class="main">
+<div class="main-inner group">
+<section class="content">
+<div class="page-title pad group">
+<h1><i class="fa fa-tags"></i>Tagged: <span>Led Zeppelin</span></h1>
+</div><!--/.page-title-->
+<div class="pad group">
+<div class="post-list group">
+<div class="post-row"> <article class="post-1876 post type-post status-publish format-standard has-post-thumbnail hentry category-concerts category-live category-music category-song-of-the-day tag-led-zeppelin tag-madison-square-garden tag-the-ocean group" id="post-1876">
+<div class="post-inner post-hover">
+<div class="post-thumbnail">
+<a href="http://vinyltempest.com/led-zeppelins-the-ocean-official-video/" title="Led Zeppelin’s The Ocean Official Video">
+<img alt="led_zeppelin_wallpaper_blac_and_white" class="attachment-thumb-medium wp-post-image" height="245" src="http://vinyltempest.com/wp-content/uploads/2014/05/led_zeppelin_wallpaper_blac_and_white-520x245.jpg" width="520"/> </a>
+<a class="post-comments" href="http://vinyltempest.com/led-zeppelins-the-ocean-official-video/#comments"><span><i class="fa fa-comments-o"></i><span class="dsq-postid" data-dsqidentifier="1876 http://vinyltempest.com/?p=1876">0</span></span></a>
+</div><!--/.post-thumbnail-->
+<div class="post-meta group">
+<p class="post-category"><a href="http://vinyltempest.com/category/concerts/" rel="category tag">Concerts</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/song-of-the-day/" rel="category tag">Song of The Day</a></p>
+<p class="post-date">19 Oct, 2014</p>
+</div><!--/.post-meta-->
+<h2 class="post-title">
+<a href="http://vinyltempest.com/led-zeppelins-the-ocean-official-video/" rel="bookmark" title="Led Zeppelin’s The Ocean Official Video">Led Zeppelin’s The Ocean Official Video</a>
+</h2><!--/.post-title-->
+<div class="entry excerpt">
+<p>How ’bout a fantastic slice of Classic Rock? Led Zeppelin’s The Ocean Official Video- Straight from Madison Square Garden, New York City, 1973. Served up extra HOT- Yes, please! Oh, and LADIES, I dare y’all to just TRY &amp; keep your naughty eyes off Robert Plant’s  . . . uh ....</p>
+</div><!--/.entry-->
+</div><!--/.post-inner-->
+</article><!--/.post--> <article class="post-1474 post type-post status-publish format-standard has-post-thumbnail hentry category-live category-music category-song-of-the-day category-songs tag-led-zeppelin group" id="post-1474">
+<div class="post-inner post-hover">
+<div class="post-thumbnail">
+<a href="http://vinyltempest.com/going-california/" title="Going To California">
+<img alt="images-4" class="attachment-thumb-medium wp-post-image" height="245" src="http://vinyltempest.com/wp-content/uploads/2014/05/images-42-520x245.jpg" width="520"/> </a>
+<a class="post-comments" href="http://vinyltempest.com/going-california/#comments"><span><i class="fa fa-comments-o"></i><span class="dsq-postid" data-dsqidentifier="1474 http://vinyltempest.com/?p=1474">0</span></span></a>
+</div><!--/.post-thumbnail-->
+<div class="post-meta group">
+<p class="post-category"><a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/song-of-the-day/" rel="category tag">Song of The Day</a> / <a href="http://vinyltempest.com/category/music/songs/" rel="category tag">Songs</a></p>
+<p class="post-date">25 May, 2014</p>
+</div><!--/.post-meta-->
+<h2 class="post-title">
+<a href="http://vinyltempest.com/going-california/" rel="bookmark" title="Going To California">Going To California</a>
+</h2><!--/.post-title-->
+<div class="entry excerpt">
+<p>What an exquisite Zeppelin song for today:  Jimmy Page’s acoustic guitar paired with Robert Plants’ lyrics.  Does it get any better? Beautiful endeavor. Allegedly, Page and Plant’s collaboration, Going to California was dedicated to Joni Mitchell. Their London Earls Court ’75 rendition is rather perfect. Enjoy!</p>
+</div><!--/.entry-->
+</div><!--/.post-inner-->
+</article><!--/.post--> </div><div class="post-row"> <article class="post-1426 post type-post status-publish format-standard has-post-thumbnail hentry category-music category-playlists tag-creedence-clearwater-revival tag-led-zeppelin tag-lynyrd-skynyrd tag-mountain tag-nazareth tag-rolling-stones tag-steppenwolf group" id="post-1426">
+<div class="post-inner post-hover">
+<div class="post-thumbnail">
+<a href="http://vinyltempest.com/rockin-boogie-tunes/" title="Rockin’ Boogie Tunes">
+<img alt="images-3" class="attachment-thumb-medium wp-post-image" height="245" src="http://vinyltempest.com/wp-content/uploads/2014/05/images-33-520x245.jpg" width="520"/> </a>
+<a class="post-comments" href="http://vinyltempest.com/rockin-boogie-tunes/#comments"><span><i class="fa fa-comments-o"></i><span class="dsq-postid" data-dsqidentifier="1426 http://vinyltempest.com/?p=1426">0</span></span></a>
+</div><!--/.post-thumbnail-->
+<div class="post-meta group">
+<p class="post-category"><a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/music/playlists/" rel="category tag">Playlists</a></p>
+<p class="post-date">18 May, 2014</p>
+</div><!--/.post-meta-->
+<h2 class="post-title">
+<a href="http://vinyltempest.com/rockin-boogie-tunes/" rel="bookmark" title="Rockin’ Boogie Tunes">Rockin’ Boogie Tunes</a>
+</h2><!--/.post-title-->
+<div class="entry excerpt">
+<p>Some songs just bring on the boogie, big time . . .   Yeah, YOU know what I’m talkin’ about!  Your favorite rockin’ number is blasting away, you’re totally into the groovy beat and the next thing ya know, you’re shakin’ it on top of tables, WOWWW! Ok, true confessions: I’ve been...</p>
+</div><!--/.entry-->
+</div><!--/.post-inner-->
+</article><!--/.post--> <article class="post-1298 post type-post status-publish format-standard has-post-thumbnail hentry category-bands category-live tag-celebration-day tag-led-zeppelin tag-rock-and-roll group" id="post-1298">
+<div class="post-inner post-hover">
+<div class="post-thumbnail">
+<a href="http://vinyltempest.com/led-zeppelins-celebration-day-performance-of-rock-and-roll/" title="Led Zeppelin’s Celebration Day Performance of Rock and Roll">
+<img alt="Led Zeppelin Celebration Day Rock And Roll" class="attachment-thumb-medium wp-post-image" height="245" src="http://vinyltempest.com/wp-content/uploads/2014/05/led-zeppelin-celebration-day-520x245.jpg" width="520"/> </a>
+<a class="post-comments" href="http://vinyltempest.com/led-zeppelins-celebration-day-performance-of-rock-and-roll/#comments"><span><i class="fa fa-comments-o"></i><span class="dsq-postid" data-dsqidentifier="1298 http://vinyltempest.com/?p=1298">9</span></span></a>
+</div><!--/.post-thumbnail-->
+<div class="post-meta group">
+<p class="post-category"><a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a></p>
+<p class="post-date">9 May, 2014</p>
+</div><!--/.post-meta-->
+<h2 class="post-title">
+<a href="http://vinyltempest.com/led-zeppelins-celebration-day-performance-of-rock-and-roll/" rel="bookmark" title="Led Zeppelin’s Celebration Day Performance of Rock and Roll">Led Zeppelin’s Celebration Day Performance of Rock and Roll</a>
+</h2><!--/.post-title-->
+<div class="entry excerpt">
+<p>Led Zeppelin. An incredible band with incredible music. I’ve never had the privilege of seeing Led Zeppelin live in concert. I was a child in the early 70’s and by the time I could fully appreciate their music, the band had released CODA, their last and final album as a...</p>
+</div><!--/.entry-->
+</div><!--/.post-inner-->
+</article><!--/.post--> </div><div class="post-row"> <article class="post-1184 post type-post status-publish format-standard has-post-thumbnail hentry category-bands category-live category-music category-songs tag-led-zeppelin tag-whole-lotta-love group" id="post-1184">
+<div class="post-inner post-hover">
+<div class="post-thumbnail">
+<a href="http://vinyltempest.com/led-zeppelin-live-whole-lotta-love-1970/" title="Led Zeppelin Live Whole Lotta Love 1970">
+<img alt="LED ZEPPELIN Whole Lotta Love" class="attachment-thumb-medium wp-post-image" height="245" src="http://vinyltempest.com/wp-content/uploads/2014/05/LED-ZEPPELIN-Whole-Lotta-Love-520x245.jpg" width="520"/> </a>
+<a class="post-comments" href="http://vinyltempest.com/led-zeppelin-live-whole-lotta-love-1970/#comments"><span><i class="fa fa-comments-o"></i><span class="dsq-postid" data-dsqidentifier="1184 http://vinyltempest.com/?p=1184">5</span></span></a>
+</div><!--/.post-thumbnail-->
+<div class="post-meta group">
+<p class="post-category"><a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/music/songs/" rel="category tag">Songs</a></p>
+<p class="post-date">2 May, 2014</p>
+</div><!--/.post-meta-->
+<h2 class="post-title">
+<a href="http://vinyltempest.com/led-zeppelin-live-whole-lotta-love-1970/" rel="bookmark" title="Led Zeppelin Live Whole Lotta Love 1970">Led Zeppelin Live Whole Lotta Love 1970</a>
+</h2><!--/.post-title-->
+<div class="entry excerpt">
+<p>How about a smokin’ Led Zeppelin LIVE Whole Lotta Love 1970? Vinyl Tempest salutes the hammer of the rock gods with this ripped performance at London’s Royal Albert Hall. Crank that volume and lose yourself in today’s sick video flashback featuring the king of all encores. We think this helluva Zeppelin gem...</p>
+</div><!--/.entry-->
+</div><!--/.post-inner-->
+</article><!--/.post--> <article class="post-1139 post type-post status-publish format-standard has-post-thumbnail hentry category-bands category-concerts category-live category-music category-playlists category-songs tag-communication-breakdown tag-led-zeppelin group" id="post-1139">
+<div class="post-inner post-hover">
+<div class="post-thumbnail">
+<a href="http://vinyltempest.com/more_live_led_zeppelin/" title="More LIVE Led Zeppelin">
+<img alt="page_zep" class="attachment-thumb-medium wp-post-image" height="245" src="http://vinyltempest.com/wp-content/uploads/2014/04/page_zep-520x245.jpg" width="520"/> </a>
+<a class="post-comments" href="http://vinyltempest.com/more_live_led_zeppelin/#comments"><span><i class="fa fa-comments-o"></i><span class="dsq-postid" data-dsqidentifier="1139 http://vinyltempest.com/?p=1139">0</span></span></a>
+</div><!--/.post-thumbnail-->
+<div class="post-meta group">
+<p class="post-category"><a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/concerts/" rel="category tag">Concerts</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/music/playlists/" rel="category tag">Playlists</a> / <a href="http://vinyltempest.com/category/music/songs/" rel="category tag">Songs</a></p>
+<p class="post-date">28 Apr, 2014</p>
+</div><!--/.post-meta-->
+<h2 class="post-title">
+<a href="http://vinyltempest.com/more_live_led_zeppelin/" rel="bookmark" title="More LIVE Led Zeppelin">More LIVE Led Zeppelin</a>
+</h2><!--/.post-title-->
+<div class="entry excerpt">
+<p>This Led Zeppelin trailer is SICK! You must watch NOW! Ok, folks, our last Zep post was such a blast, we’re gonna do it AGAIN and rock OUT your Monday! Have you heard?? The great folks at www.ledzeppelin.com will release remastered Led Zeppelin, Led Zeppelin II and Led Zeppelin III...</p>
+</div><!--/.entry-->
+</div><!--/.post-inner-->
+</article><!--/.post--> </div><div class="post-row"> <article class="post-1107 post type-post status-publish format-standard has-post-thumbnail hentry category-bands category-live category-music tag-fender-telecaster tag-jeff-beck tag-led-zeppelin tag-yardbirds group" id="post-1107">
+<div class="post-inner post-hover">
+<div class="post-thumbnail">
+<a href="http://vinyltempest.com/led_zeppelin_live_1969_danish_tv/" title="Led Zeppelin Live 1969 Danish TV Performance">
+<img alt="led-zeppelin-1" class="attachment-thumb-medium wp-post-image" height="245" src="http://vinyltempest.com/wp-content/uploads/2014/04/led-zeppelin-1-520x245.jpg" width="520"/> </a>
+<a class="post-comments" href="http://vinyltempest.com/led_zeppelin_live_1969_danish_tv/#comments"><span><i class="fa fa-comments-o"></i><span class="dsq-postid" data-dsqidentifier="1107 http://vinyltempest.com/?p=1107">4</span></span></a>
+</div><!--/.post-thumbnail-->
+<div class="post-meta group">
+<p class="post-category"><a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a></p>
+<p class="post-date">25 Apr, 2014</p>
+</div><!--/.post-meta-->
+<h2 class="post-title">
+<a href="http://vinyltempest.com/led_zeppelin_live_1969_danish_tv/" rel="bookmark" title="Led Zeppelin Live 1969 Danish TV Performance">Led Zeppelin Live 1969 Danish TV Performance</a>
+</h2><!--/.post-title-->
+<div class="entry excerpt">
+<p>ROCKIN’ your weekend with this epic early Led Zeppelin live performance from March, 17, 1969. Just off their American tour and US release of their debut album Led Zeppelin, the band played 4 killer tunes from Led Zeppelin for TV Denmark during their promotional European tour- right before their eponymous album...</p>
+</div><!--/.entry-->
+</div><!--/.post-inner-->
+</article><!--/.post--> <article class="post-1004 post type-post status-publish format-standard has-post-thumbnail hentry category-bands category-music category-playlists tag-chicago tag-crosby tag-guess-who tag-jerry-garcia tag-led-zeppelin tag-neil-young tag-rolling-stones tag-stills-nash tag-the-chambers-bros group" id="post-1004">
+<div class="post-inner post-hover">
+<div class="post-thumbnail">
+<a href="http://vinyltempest.com/time-trax-playlist/" title="Time Trax Playlist">
+<img alt="Time-Spiral" class="attachment-thumb-medium wp-post-image" height="245" src="http://vinyltempest.com/wp-content/uploads/2014/03/Time-Spiral-520x245.png" width="520"/> </a>
+<a class="post-comments" href="http://vinyltempest.com/time-trax-playlist/#comments"><span><i class="fa fa-comments-o"></i><span class="dsq-postid" data-dsqidentifier="1004 http://vinyltempest.com/?p=1004">1</span></span></a>
+</div><!--/.post-thumbnail-->
+<div class="post-meta group">
+<p class="post-category"><a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/music/playlists/" rel="category tag">Playlists</a></p>
+<p class="post-date">24 Mar, 2014</p>
+</div><!--/.post-meta-->
+<h2 class="post-title">
+<a href="http://vinyltempest.com/time-trax-playlist/" rel="bookmark" title="Time Trax Playlist">Time Trax Playlist</a>
+</h2><!--/.post-title-->
+<div class="entry excerpt">
+<p>“Time is an illusion” according to Albert Einstein. So true! Einstein’s “fourth dimension” also inspires our latest Vinyl Tempest playlist, TIME TRAX . Time Trax Playlist Led Zeppelin, How Many More Times, Live Denmark TV, 3/17/1968 The Chambers Brothers, Time Has Come Today, Live performance, 1968 Crosby, Stills &amp; Nash, Long...</p>
+</div><!--/.entry-->
+</div><!--/.post-inner-->
+</article><!--/.post--> </div><div class="post-row"> <article class="post-220 post type-post status-publish format-standard has-post-thumbnail hentry category-playlists tag-acdc tag-cream tag-george-harrison tag-joe-walsh tag-led-zeppelin tag-pink-floyd tag-the-beatles tag-the-doors group" id="post-220">
+<div class="post-inner post-hover">
+<div class="post-thumbnail">
+<a href="http://vinyltempest.com/super-g/" title="Super G">
+<img alt="star-wars-identities-poster" class="attachment-thumb-medium wp-post-image" height="245" src="http://vinyltempest.com/wp-content/uploads/2013/09/star-wars-identities-poster-darth-vader-2_zps5cb7c13a-520x245.jpg" width="520"/> </a>
+<a class="post-comments" href="http://vinyltempest.com/super-g/#comments"><span><i class="fa fa-comments-o"></i><span class="dsq-postid" data-dsqidentifier="220 http://master-wp.com/vinyll/?p=220">1</span></span></a>
+</div><!--/.post-thumbnail-->
+<div class="post-meta group">
+<p class="post-category"><a href="http://vinyltempest.com/category/music/playlists/" rel="category tag">Playlists</a></p>
+<p class="post-date">27 Sep, 2013</p>
+</div><!--/.post-meta-->
+<h2 class="post-title">
+<a href="http://vinyltempest.com/super-g/" rel="bookmark" title="Super G">Super G</a>
+</h2><!--/.post-title-->
+<div class="entry excerpt">
+<p>My badass friend, Super G, inspires today’s playlist. Neighbors and music junkies since we were 8, we forged our lifelong friendship over our turntables, spending countless hours staring at the circulating LP’s, memorizing lyrics, and loving on that vinyl. Thank you, Super G. You were the brother I never had and the...</p>
+</div><!--/.entry-->
+</div><!--/.post-inner-->
+</article><!--/.post--> <article class="post-145 post type-post status-publish format-standard has-post-thumbnail hentry category-bands category-featured category-live category-music category-songs tag-kashmir tag-led-zeppelin tag-physical-graffiti tag-songs group" id="post-145">
+<div class="post-inner post-hover">
+<div class="post-thumbnail">
+<a href="http://vinyltempest.com/live-kashmir/" title="Live Kashmir">
+<img alt="Led Zeppelin Kashmir" class="attachment-thumb-medium wp-post-image" height="245" src="http://vinyltempest.com/wp-content/uploads/2013/09/Kashmir-520x245.jpg" width="520"/> </a>
+<a class="post-comments" href="http://vinyltempest.com/live-kashmir/#comments"><span><i class="fa fa-comments-o"></i><span class="dsq-postid" data-dsqidentifier="145 http://master-wp.com/vinyll/?p=145">0</span></span></a>
+</div><!--/.post-thumbnail-->
+<div class="post-meta group">
+<p class="post-category"><a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/featured/" rel="category tag">Featured</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/music/songs/" rel="category tag">Songs</a></p>
+<p class="post-date">21 Sep, 2013</p>
+</div><!--/.post-meta-->
+<h2 class="post-title">
+<a href="http://vinyltempest.com/live-kashmir/" rel="bookmark" title="Live Kashmir">Live Kashmir</a>
+</h2><!--/.post-title-->
+<div class="entry excerpt">
+<p>  Yeah, that would be Kashmir, from Led Zeppelin’s ’75 album, Physical Graffiti. If you can’t figure out something better to do while enjoying 9 minutes, 4 seconds of this Zep classic, read Jimmy Page’s cool back story here. As promised, here’s Live Kashmir!</p>
+</div><!--/.entry-->
+</div><!--/.post-inner-->
+</article><!--/.post--> </div><div class="post-row"></div> </div><!--/.post-list-->
+<nav class="pagination group">
+</nav><!--/.pagination-->
+</div><!--/.pad-->
+</section><!--/.content-->
+<div class="sidebar s1">
+<a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+<div class="sidebar-content">
+<div class="sidebar-top group">
+<p>Follow:</p>
+<ul class="social-links"><li><a class="social-tooltip" href="https://www.facebook.com/pages/Vinyl-Tempest/173593392818773?ref=br_tf" rel="nofollow" target="Array" title="Facebook"><i class="fa fa-facebook"></i></a></li><li><a class="social-tooltip" href="http://twitter.com/vinyltempest" rel="nofollow" target="Array" title="Twitter"><i class="fa fa-twitter"></i></a></li><li><a class="social-tooltip" href="http://www.pinterest.com/vinyltempest" rel="nofollow" target="Array" title="Pinterest"><i class="fa fa-pinterest "></i></a></li><li><a class="social-tooltip" href="http://instagram.com/vinyltempest/" rel="nofollow" target="Array" title="Instagram"><i class="fa fa-instagram"></i></a></li><li><a class="social-tooltip" href="http://www.youtube.com/channel/UC-yUvn_6lINg3KxDLqA0Vfw" rel="nofollow" target="Array" title="YouTube"><i class="fa fa-youtube"></i></a></li><li><a class="social-tooltip" href="http://feeds.feedburner.com/VinylTempest" rel="nofollow" target="Array" title="RSS"><i class="fa fa-rss"></i></a></li></ul> </div>
+<div class="widget jetpack_subscription_widget" id="blog_subscription-2"><h3><label for="subscribe-field">ROCK Your Inbox with VINYL TEMPEST</label></h3>
+<form accept-charset="utf-8" action="#" id="subscribe-blog-blog_subscription-2" method="post">
+<div id="subscribe-text"><p>Subscribe to our VINYL TEMPEST blog via email to seize the latest posts &amp; music!</p>
+</div>
+<p id="subscribe-email">
+<label for="subscribe-field" id="jetpack-subscribe-label">
+					Email Address				</label>
+<input id="subscribe-field" name="email" placeholder="Email Address" type="email" value="Email Address"/>
+</p>
+<p id="subscribe-submit">
+<input name="action" type="hidden" value="subscribe"/>
+<input name="source" type="hidden" value="http://vinyltempest.com/tag/led-zeppelin/"/>
+<input name="sub-type" type="hidden" value="widget"/>
+<input name="redirect_fragment" type="hidden" value="blog_subscription-2"/>
+<input name="jetpack_subscriptions_widget" type="submit" value="Subscribe"/>
+</p>
+</form>
+
+</div><div class="widget widget_facebook_likebox" id="facebook-likebox-2"><h3><a href="https://www.facebook.com/pages/Vinyl-Tempest/173593392818773">Like VINYL TEMPEST on Facebook</a></h3><iframe frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FVinyl-Tempest%2F173593392818773&amp;width=300&amp;height=200&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;show_border=true&amp;header=false&amp;force_wall=true" style="border: none; overflow: hidden; width: 300px;  height: 200px; background: #fff"></iframe></div><div class="widget widget_twitter_timeline" id="twitter_timeline-3"><h3>Follow VINYL TEMPEST on Twitter</h3><a class="twitter-timeline" data-border-color="#e8e8e8" data-chrome="transparent" data-link-color="#f96e5b" data-theme="light" data-tweet-limit="3" data-widget-id="429707269949775873" height="300" lang="EN" width="350">My Tweets</a></div><div class="widget widget_mypinterestbadgewidget" id="mypinterestbadgewidget-2"><h3>VINYL TEMPEST Recent Pins</h3><div class="topwrapper"><div class="middlewrapper"><div class="bottomwrapper"><div style="clear:both"><a href="http://pinterest.com/vinyltempest" target="_blank"><img alt="Follow Me on Pinterest" height="28" src="http://passets-lt.pinterest.com/images/about/buttons/follow-me-on-pinterest-button.png" width="150"/></a> <a href="javascript:mypinterestpinit();"><img height="28" src="http://vinyltempest.com/wp-content/plugins/my-pinterest-badge/css/pinit.png" width=""/></a></div><div class="pinwidget"><div class="myimgs"><!-- Pinterest Recent Widget By Jafaloo.com --><a href="http://www.pinterest.com/pin/487514728386263677/" target="_blank"><img class="pins-mid" src="http://media-cache-ak0.pinimg.com/236x/f4/ad/ce/f4adce3bb96bbdea47a208819d50e02e.jpg"/></a><a href="http://www.pinterest.com/pin/487514728386263672/" target="_blank"><img class="pins-mid" src="http://media-cache-ec0.pinimg.com/236x/94/ce/9a/94ce9a4b5722cb973338b8340177554e.jpg"/></a><a href="http://www.pinterest.com/pin/487514728386260074/" target="_blank"><img class="pins-mid" src="http://media-cache-ec0.pinimg.com/236x/90/27/27/902727663cc7b451b42412a108d30afd.jpg"/></a><a href="http://www.pinterest.com/pin/487514728386249410/" target="_blank"><img class="pins-mid" src="http://media-cache-ak0.pinimg.com/236x/72/cf/2c/72cf2ccddcda49ed28fb3b26eb891639.jpg"/></a><a href="http://www.pinterest.com/pin/487514728386249407/" target="_blank"><img class="pins-mid" src="http://media-cache-ak0.pinimg.com/236x/17/bf/76/17bf76c4da642980542aca51aa175e90.jpg"/></a><a href="http://www.pinterest.com/pin/487514728386249400/" target="_blank"><img class="pins-mid" src="http://media-cache-ak0.pinimg.com/236x/e0/ad/cf/e0adcf9ed065512cbb6effc5a29436eb.jpg"/></a><a href="http://www.pinterest.com/pin/487514728386249293/" target="_blank"><img class="pins-mid" src="http://media-cache-ec0.pinimg.com/236x/18/09/1e/18091e7d7c4237ff90d6cacccdc7b440.jpg"/></a><a href="http://www.pinterest.com/pin/487514728386249288/" target="_blank"><img class="pins-mid" src="http://media-cache-ec0.pinimg.com/236x/90/1a/00/901a009fbfa2954d7d84269ccd4f0c96.jpg"/></a><a href="http://www.pinterest.com/pin/487514728386249284/" target="_blank"><img class="pins-mid" src="http://media-cache-ec0.pinimg.com/236x/e4/09/f2/e409f29b7570e0075dc6cfb36105cfca.jpg"/></a><a href="http://www.pinterest.com/pin/487514728386249279/" target="_blank"><img class="pins-mid" src="http://media-cache-ak0.pinimg.com/236x/37/b0/d4/37b0d4948b4b56a875fbbb2655259c0c.jpg"/></a><a href="http://www.pinterest.com/pin/487514728386244988/" target="_blank"><img class="pins-mid" src="http://media-cache-ec0.pinimg.com/236x/91/9b/a0/919ba0b1c0a57c26ded624d53bdcb7a6.jpg"/></a><a href="http://www.pinterest.com/pin/487514728386244929/" target="_blank"><img class="pins-mid" src="http://media-cache-ec0.pinimg.com/236x/a5/5a/2b/a55a2b8b2ff7bd27ca16788815b1eea5.jpg"/></a></div></div><div style="clear: both; display:none ">My Pinterest Badge by: <a href="http://www.jafaloo.com">Jafaloo</a>. For Support visit: <a href="http://www.protechblog.com/tools/my-pinterest-badge.php">My Pinterest Badge</a></div></div></div></div></div>
+</div><!--/.sidebar-content-->
+</div><!--/.sidebar-->
+<div class="sidebar s2">
+<a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+<div class="sidebar-content">
+<div class="sidebar-top group">
+<p>More</p>
+</div>
+<div class="widget youtubechannelgallery ytccf" id="youtubechannelgallery_widget-3"><h3>VINYL TEMPEST SALUTES SAM COOKE</h3><div class="ytcplayer-fixwidthwrapper"><div class="ytcplayer-wrapper ytc-player4x3"><iframe allowfullscreen="" class="ytcplayer" frameborder="0" id="ytcplayer1" src="https://www.youtube.com/embed/85ekOXs1-7k?version=3&amp;theme=light&amp;color=red&amp;modestbranding=&amp;rel=0&amp;showinfo=1&amp;enablejsapi=1&amp;wmode=transparent"></iframe></div></div><ul class="ytchagallery ytccf ytc-table ytc-columns4 ytc-thumb4x3">
+<div class="ytccf ytc-row ytc-r-1 ytc-r-odd ">
+<li class="ytccell-1 ytccell-first"><div class="ytcliinner"><div class="ytcthumb-cont"><a class="ytcthumb ytclink" data-playerid="ytcplayer1" data-quality="default" href="https://www.youtube.com/watch?v=85ekOXs1-7k" style="background-image:url(http://i.ytimg.com/vi/85ekOXs1-7k/default.jpg)" title="Sam Cooke - You Send Me (Live)"><div class="ytcplay"></div></a></div></div></li>
+<li class="ytccell-2"><div class="ytcliinner"><div class="ytcthumb-cont"><a class="ytcthumb ytclink" data-playerid="ytcplayer1" data-quality="default" href="https://www.youtube.com/watch?v=7yIMt-aZjCo" style="background-image:url(http://i.ytimg.com/vi/7yIMt-aZjCo/default.jpg)" title="Sam Cooke Live Twistin' the Night Away 1963"><div class="ytcplay"></div></a></div></div></li>
+<li class="ytccell-3"><div class="ytcliinner"><div class="ytcthumb-cont"><a class="ytcthumb ytclink" data-playerid="ytcplayer1" data-quality="default" href="https://www.youtube.com/watch?v=5WfkO0fE31I" style="background-image:url(http://i.ytimg.com/vi/5WfkO0fE31I/default.jpg)" title="Sam Cooke Interview 1964"><div class="ytcplay"></div></a></div></div></li>
+<li class="ytccell-4 ytccell-last"><div class="ytcliinner"><div class="ytcthumb-cont"><a class="ytcthumb ytclink" data-playerid="ytcplayer1" data-quality="default" href="https://www.youtube.com/watch?v=0OifzTcBn-A" style="background-image:url(http://i.ytimg.com/vi/0OifzTcBn-A/default.jpg)" title="Sam Cooke - Chain Gang - Live At The Harlem Square Club, 1963"><div class="ytcplay"></div></a></div></div></li>
+</div>
+<div class="ytccf ytc-row ytc-r-2 ytc-r-even ">
+<li class="ytccell-1 ytccell-first"><div class="ytcliinner"><div class="ytcthumb-cont"><a class="ytcthumb ytclink" data-playerid="ytcplayer1" data-quality="default" href="https://www.youtube.com/watch?v=xqmWVZO5p6U" style="background-image:url(http://i.ytimg.com/vi/xqmWVZO5p6U/default.jpg)" title="Sam Cooke - Cupid [Live Version]"><div class="ytcplay"></div></a></div></div></li>
+<li class="ytccell-2"><div class="ytcliinner"><div class="ytcthumb-cont"><a class="ytcthumb ytclink" data-playerid="ytcplayer1" data-quality="default" href="https://www.youtube.com/watch?v=hhzG9aeOn9w" style="background-image:url(http://i.ytimg.com/vi/hhzG9aeOn9w/default.jpg)" title="Sam Cooke Wonderful world"><div class="ytcplay"></div></a></div></div></li>
+<li class="ytccell-3"><div class="ytcliinner"><div class="ytcthumb-cont"><a class="ytcthumb ytclink" data-playerid="ytcplayer1" data-quality="default" href="https://www.youtube.com/watch?v=if7Fk9q6GsU" style="background-image:url(http://i.ytimg.com/vi/if7Fk9q6GsU/default.jpg)" title="Sam Cooke - There, I've Said It"><div class="ytcplay"></div></a></div></div></li>
+<li class="ytccell-4 ytccell-last"><div class="ytcliinner"><div class="ytcthumb-cont"><a class="ytcthumb ytclink" data-playerid="ytcplayer1" data-quality="default" href="https://www.youtube.com/watch?v=XHv6Qhz8Z7Q" style="background-image:url(http://i.ytimg.com/vi/XHv6Qhz8Z7Q/default.jpg)" title="Sam Cooke I love you for Sentimental Reasons"><div class="ytcplay"></div></a></div></div></li>
+</div>
+</ul><a class="ytcmore" href="https://www.youtube.com/playlist?list=PL8OIf7WDvPAvh1xMWkOePu_2YLN0FTl9W" target="_blank">Subscribe to our YouTube channel.</a></div><div class="widget widget_alx_tabs" id="alxtabs-2">
+<ul class="alx-tabs-nav group tab-count-4"><li class="alx-tab tab-recent"><a href="#tab-recent" title="Recent Posts"><i class="fa fa-clock-o"></i><span>Recent Posts</span></a></li><li class="alx-tab tab-popular"><a href="#tab-popular" title="Popular Posts"><i class="fa fa-star"></i><span>Popular Posts</span></a></li><li class="alx-tab tab-comments"><a href="#tab-comments" title="Recent Comments"><i class="fa fa-comments-o"></i><span>Recent Comments</span></a></li><li class="alx-tab tab-tags"><a href="#tab-tags" title="Tags"><i class="fa fa-tags"></i><span>Tags</span></a></li></ul>
+<div class="alx-tabs-container">
+<ul class="alx-tab group " id="tab-recent">
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/covers/" rel="category tag">Covers</a> / <a href="http://vinyltempest.com/category/music/songs/" rel="category tag">Songs</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/guitar-gently-weeps-peter-frampton/" rel="bookmark" title="While My Guitar Gently Weeps. Peter Frampton.">While My Guitar Gently Weeps. Peter Frampton.</a></p>
+<p class="tab-item-date">15 Jan, 2015</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/concerts/" rel="category tag">Concerts</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/song-of-the-day/" rel="category tag">Song of The Day</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/led-zeppelins-the-ocean-official-video/" rel="bookmark" title="Led Zeppelin’s The Ocean Official Video">Led Zeppelin’s The Ocean Official Video</a></p>
+<p class="tab-item-date">19 Oct, 2014</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/music/songs/" rel="category tag">Songs</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/things-we-said-today/" rel="bookmark" title="Things We Said Today">Things We Said Today</a></p>
+<p class="tab-item-date">9 Oct, 2014</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/song-of-the-day/" rel="category tag">Song of The Day</a> / <a href="http://vinyltempest.com/category/music/songs/" rel="category tag">Songs</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/angry-eyes/" rel="bookmark" title="Angry Eyes">Angry Eyes</a></p>
+<p class="tab-item-date">8 Oct, 2014</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/concerts/" rel="category tag">Concerts</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/concerts/monterrey/" rel="category tag">Monterey</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/music/playlists/" rel="category tag">Playlists</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/janis-joplin-live-tribute-playlist/" rel="bookmark" title="Janis Joplin LIVE Tribute Playlist">Janis Joplin LIVE Tribute Playlist</a></p>
+<p class="tab-item-date">6 Oct, 2014</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/allman_brothers_band_pop_up_video/" rel="bookmark" title="Allman Brothers Band Pop Up Video">Allman Brothers Band Pop Up Video</a></p>
+<p class="tab-item-date">2 Aug, 2014</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/concerts/" rel="category tag">Concerts</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/george-harrisons-concert-for-bangladesh/" rel="bookmark" title="George Harrison’s Concert For Bangladesh">George Harrison’s Concert For Bangladesh</a></p>
+<p class="tab-item-date">13 Jul, 2014</p> </div>
+</li>
+</ul><!--/.alx-tab-->
+<ul class="alx-tab group " id="tab-popular">
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/concerts/" rel="category tag">Concerts</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/concerts/woodstock/" rel="category tag">Woodstock</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/jefferson-airplane-at-woodstock-1969/" rel="bookmark" title="Jefferson Airplane at Woodstock 1969">Jefferson Airplane at Woodstock 1969</a></p>
+<p class="tab-item-date">4 Mar, 2014</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/led-zeppelins-celebration-day-performance-of-rock-and-roll/" rel="bookmark" title="Led Zeppelin’s Celebration Day Performance of Rock and Roll">Led Zeppelin’s Celebration Day Performance of Rock and Roll</a></p>
+<p class="tab-item-date">9 May, 2014</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/music/albums/" rel="category tag">Albums</a> / <a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/neil_young_acoustic_conversion_playlist/" rel="bookmark" title="Neil Young Acoustic Conversion Playlist">Neil Young Acoustic Conversion Playlist</a></p>
+<p class="tab-item-date">10 Jul, 2014</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/music/songs/" rel="category tag">Songs</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/led-zeppelin-live-whole-lotta-love-1970/" rel="bookmark" title="Led Zeppelin Live Whole Lotta Love 1970">Led Zeppelin Live Whole Lotta Love 1970</a></p>
+<p class="tab-item-date">2 May, 2014</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/led_zeppelin_live_1969_danish_tv/" rel="bookmark" title="Led Zeppelin Live 1969 Danish TV Performance">Led Zeppelin Live 1969 Danish TV Performance</a></p>
+<p class="tab-item-date">25 Apr, 2014</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/music/bands/" rel="category tag">Bands</a> / <a href="http://vinyltempest.com/category/concerts/" rel="category tag">Concerts</a> / <a href="http://vinyltempest.com/category/music/live/" rel="category tag">Live</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/music/songs/" rel="category tag">Songs</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/classic-chicago/" rel="bookmark" title="Classic Chicago, 25 or 6 to 4">Classic Chicago, 25 or 6 to 4</a></p>
+<p class="tab-item-date">12 May, 2014</p> </div>
+</li>
+<li>
+<div class="tab-item-inner group">
+<p class="tab-item-category"><a href="http://vinyltempest.com/category/concerts/" rel="category tag">Concerts</a> / <a href="http://vinyltempest.com/category/covers/" rel="category tag">Covers</a> / <a href="http://vinyltempest.com/category/music/" rel="category tag">Music</a> / <a href="http://vinyltempest.com/category/music/songs/" rel="category tag">Songs</a> / <a href="http://vinyltempest.com/category/concerts/woodstock/" rel="category tag">Woodstock</a></p> <p class="tab-item-title"><a href="http://vinyltempest.com/hendrix-star-spangled-banner/" rel="bookmark" title="Hendrix’ Star Spangled Banner">Hendrix’ Star Spangled Banner</a></p>
+<p class="tab-item-date">4 Jul, 2014</p> </div>
+</li>
+</ul><!--/.alx-tab-->
+<ul class="alx-tab group avatars-enabled" id="tab-comments">
+<li>
+<div class="tab-item-avatar">
+<a href="http://vinyltempest.com/janis-joplin-live-tribute-playlist/#comment-2153">
+<img alt="" class="avatar avatar-96 photo" height="96" src="http://1.gravatar.com/avatar/37d169724e427784f505154d295945ad?s=96&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&amp;r=G" width="96"/> </a>
+</div>
+<div class="tab-item-inner group">
+<div class="tab-item-name">Myrna Hoyos says:</div>
+<div class="tab-item-comment"><a href="http://vinyltempest.com/janis-joplin-live-tribute-playlist/#comment-2153">Siempre mi favorita .......nadie la ha superado..Love You Janis Joplin </a></div>
+</div>
+</li>
+<li>
+<div class="tab-item-avatar">
+<a href="http://vinyltempest.com/neil_young_acoustic_conversion_playlist/#comment-1965">
+<img alt="" class="avatar avatar-96 photo" height="96" src="http://1.gravatar.com/avatar/9730b21cc6908b00fc5593c0a9c0f0d5?s=96&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&amp;r=G" width="96"/> </a>
+</div>
+<div class="tab-item-inner group">
+<div class="tab-item-name">Vinyl Tempest says:</div>
+<div class="tab-item-comment"><a href="http://vinyltempest.com/neil_young_acoustic_conversion_playlist/#comment-1965">Working on an acoustic playlist per your request- stay tuned! </a></div>
+</div>
+</li>
+<li>
+<div class="tab-item-avatar">
+<a href="http://vinyltempest.com/neil_young_acoustic_conversion_playlist/#comment-1964">
+<img alt="" class="avatar avatar-96 photo" height="96" src="http://1.gravatar.com/avatar/9730b21cc6908b00fc5593c0a9c0f0d5?s=96&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&amp;r=G" width="96"/> </a>
+</div>
+<div class="tab-item-inner group">
+<div class="tab-item-name">Vinyl Tempest says:</div>
+<div class="tab-item-comment"><a href="http://vinyltempest.com/neil_young_acoustic_conversion_playlist/#comment-1964">Ojalá que todavía toques esas canciones bellísimas del gran Sr. Young.</a></div>
+</div>
+</li>
+<li>
+<div class="tab-item-avatar">
+<a href="http://vinyltempest.com/neil_young_acoustic_conversion_playlist/#comment-1846">
+<img alt="" class="avatar avatar-96 photo" height="96" src="http://1.gravatar.com/avatar/92d8bff245bcb1b2acb7d28d8e9286af?s=96&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&amp;r=G" width="96"/> </a>
+</div>
+<div class="tab-item-inner group">
+<div class="tab-item-name">vinyl viking says:</div>
+<div class="tab-item-comment"><a href="http://vinyltempest.com/neil_young_acoustic_conversion_playlist/#comment-1846">totally agree- stay tuned for acoustic CSN- Guinèvre one of my...</a></div>
+</div>
+</li>
+<li>
+<div class="tab-item-avatar">
+<a href="http://vinyltempest.com/neil_young_acoustic_conversion_playlist/#comment-1636">
+<img alt="" class="avatar avatar-96 photo" height="96" src="http://0.gravatar.com/avatar/c0a738bfa4c8948e3de8b6e6b1d6e44b?s=96&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&amp;r=G" width="96"/> </a>
+</div>
+<div class="tab-item-inner group">
+<div class="tab-item-name">Valhjim says:</div>
+<div class="tab-item-comment"><a href="http://vinyltempest.com/neil_young_acoustic_conversion_playlist/#comment-1636">Great post! Been a fan of Neil Young from the times...</a></div>
+</div>
+</li>
+<li>
+<div class="tab-item-avatar">
+<a href="http://vinyltempest.com/neil_young_acoustic_conversion_playlist/#comment-1058">
+<img alt="" class="avatar avatar-96 photo" height="96" src="http://1.gravatar.com/avatar/94bef22c12edc4ac24c66edf563594d9?s=96&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&amp;r=G" width="96"/> </a>
+</div>
+<div class="tab-item-inner group">
+<div class="tab-item-name">Ignacio Betancourt Reyes says:</div>
+<div class="tab-item-comment"><a href="http://vinyltempest.com/neil_young_acoustic_conversion_playlist/#comment-1058">I used to play all these songs (HARVEST album) </a></div>
+</div>
+</li>
+<li>
+<div class="tab-item-avatar">
+<a href="http://vinyltempest.com/led_zeppelin_live_1969_danish_tv/#comment-1056">
+<img alt="" class="avatar avatar-96 photo" height="96" src="http://0.gravatar.com/avatar/cdfb78f25e04168ec49c43e36ff18692?s=96&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&amp;r=G" width="96"/> </a>
+</div>
+<div class="tab-item-inner group">
+<div class="tab-item-name">gerardo says:</div>
+<div class="tab-item-comment"><a href="http://vinyltempest.com/led_zeppelin_live_1969_danish_tv/#comment-1056">bellos conciertos esta musica la reproduciamos en la primer discotec en...</a></div>
+</div>
+</li>
+</ul><!--/.alx-tab-->
+<ul class="alx-tab group" id="tab-tags">
+<li>
+<a class="tag-link-55" href="http://vinyltempest.com/tag/acdc/" style="font-size: 8pt;" title="1 topic">AC/DC</a>
+<a class="tag-link-60" href="http://vinyltempest.com/tag/big-brother-the-holding-co/" style="font-size: 11.405405405405pt;" title="2 topics">Big Brother &amp; The Holding Co</a>
+<a class="tag-link-90" href="http://vinyltempest.com/tag/british-invasion/" style="font-size: 11.405405405405pt;" title="2 topics">British Invasion</a>
+<a class="tag-link-33" href="http://vinyltempest.com/tag/ccr/" style="font-size: 8pt;" title="1 topic">CCR</a>
+<a class="tag-link-110" href="http://vinyltempest.com/tag/chicago/" style="font-size: 11.405405405405pt;" title="2 topics">Chicago</a>
+<a class="tag-link-22" href="http://vinyltempest.com/tag/classic-rock/" style="font-size: 8pt;" title="1 topic">classic rock</a>
+<a class="tag-link-57" href="http://vinyltempest.com/tag/cream/" style="font-size: 13.675675675676pt;" title="3 topics">Cream</a>
+<a class="tag-link-32" href="http://vinyltempest.com/tag/credence-clearwater-revival/" style="font-size: 8pt;" title="1 topic">Credence Clearwater Revival</a>
+<a class="tag-link-31" href="http://vinyltempest.com/tag/eric-clapton/" style="font-size: 13.675675675676pt;" title="3 topics">Eric Clapton</a>
+<a class="tag-link-139" href="http://vinyltempest.com/tag/fillmore-east/" style="font-size: 11.405405405405pt;" title="2 topics">Fillmore East</a>
+<a class="tag-link-35" href="http://vinyltempest.com/tag/fillmore-west/" style="font-size: 8pt;" title="1 topic">Fillmore West</a>
+<a class="tag-link-64" href="http://vinyltempest.com/tag/fleetwood-mac/" style="font-size: 8pt;" title="1 topic">Fleetwood Mac</a>
+<a class="tag-link-49" href="http://vinyltempest.com/tag/george-harrison/" style="font-size: 11.405405405405pt;" title="2 topics">George Harrison</a>
+<a class="tag-link-30" href="http://vinyltempest.com/tag/grass-roots/" style="font-size: 8pt;" title="1 topic">Grass Roots</a>
+<a class="tag-link-83" href="http://vinyltempest.com/tag/isle-of-wight/" style="font-size: 11.405405405405pt;" title="2 topics">Isle of Wight</a>
+<a class="tag-link-40" href="http://vinyltempest.com/tag/its-a-beautiful-day/" style="font-size: 8pt;" title="1 topic">It's A Beautiful Day</a>
+<a class="tag-link-59" href="http://vinyltempest.com/tag/janis-joplin/" style="font-size: 11.405405405405pt;" title="2 topics">Janis Joplin</a>
+<a class="tag-link-39" href="http://vinyltempest.com/tag/jefferson-airplane/" style="font-size: 11.405405405405pt;" title="2 topics">Jefferson Airplane</a>
+<a class="tag-link-25" href="http://vinyltempest.com/tag/jimi-hendrix/" style="font-size: 13.675675675676pt;" title="3 topics">jimi hendrix</a>
+<a class="tag-link-58" href="http://vinyltempest.com/tag/joe-cocker/" style="font-size: 8pt;" title="1 topic">Joe Cocker</a>
+<a class="tag-link-56" href="http://vinyltempest.com/tag/joe-walsh/" style="font-size: 8pt;" title="1 topic">Joe Walsh</a>
+<a class="tag-link-17" href="http://vinyltempest.com/tag/kashmir/" style="font-size: 8pt;" title="1 topic">Kashmir</a>
+<a class="tag-link-7" href="http://vinyltempest.com/tag/led-zeppelin/" style="font-size: 22pt;" title="10 topics">Led Zeppelin</a>
+<a class="tag-link-63" href="http://vinyltempest.com/tag/lindsey-buckingham/" style="font-size: 8pt;" title="1 topic">Lindsey Buckingham</a>
+<a class="tag-link-108" href="http://vinyltempest.com/tag/neil-young/" style="font-size: 11.405405405405pt;" title="2 topics">Neil Young</a>
+<a class="tag-link-66" href="http://vinyltempest.com/tag/peter-frampton/" style="font-size: 11.405405405405pt;" title="2 topics">Peter Frampton</a>
+<a class="tag-link-18" href="http://vinyltempest.com/tag/physical-graffiti/" style="font-size: 8pt;" title="1 topic">Physical Graffiti</a>
+<a class="tag-link-47" href="http://vinyltempest.com/tag/pink-floyd/" style="font-size: 8pt;" title="1 topic">Pink Floyd</a>
+<a class="tag-link-38" href="http://vinyltempest.com/tag/quicksilver-messenger-service/" style="font-size: 8pt;" title="1 topic">Quicksilver Messenger Service</a>
+<a class="tag-link-65" href="http://vinyltempest.com/tag/rock-roll-hall-of-fame/" style="font-size: 8pt;" title="1 topic">Rock &amp; Roll Hall of Fame</a>
+<a class="tag-link-74" href="http://vinyltempest.com/tag/rolling-stones/" style="font-size: 15.567567567568pt;" title="4 topics">Rolling Stones</a>
+<a class="tag-link-24" href="http://vinyltempest.com/tag/shakespeare/" style="font-size: 8pt;" title="1 topic">Shakespeare</a>
+<a class="tag-link-15" href="http://vinyltempest.com/tag/songs/" style="font-size: 8pt;" title="1 topic">Songs</a>
+<a class="tag-link-75" href="http://vinyltempest.com/tag/the-allman-brothers-band/" style="font-size: 11.405405405405pt;" title="2 topics">The Allman Brothers Band</a>
+<a class="tag-link-16" href="http://vinyltempest.com/tag/the-beatles/" style="font-size: 15.567567567568pt;" title="4 topics">The Beatles</a>
+<a class="tag-link-48" href="http://vinyltempest.com/tag/the-doors/" style="font-size: 11.405405405405pt;" title="2 topics">The Doors</a>
+<a class="tag-link-36" href="http://vinyltempest.com/tag/the-grateful-dead/" style="font-size: 8pt;" title="1 topic">The Grateful Dead</a>
+<a class="tag-link-29" href="http://vinyltempest.com/tag/the-rolling-stones/" style="font-size: 8pt;" title="1 topic">The Rolling Stones</a>
+<a class="tag-link-23" href="http://vinyltempest.com/tag/the-tempest/" style="font-size: 8pt;" title="1 topic">The Tempest</a>
+<a class="tag-link-85" href="http://vinyltempest.com/tag/the-who/" style="font-size: 11.405405405405pt;" title="2 topics">The Who</a>
+<a class="tag-link-80" href="http://vinyltempest.com/tag/the-zombies/" style="font-size: 11.405405405405pt;" title="2 topics">The Zombies</a>
+<a class="tag-link-1" href="http://vinyltempest.com/tag/news/" style="font-size: 8pt;" title="1 topic">Uncategorized</a>
+<a class="tag-link-21" href="http://vinyltempest.com/tag/vinyl-era/" style="font-size: 8pt;" title="1 topic">vinyl era</a>
+<a class="tag-link-20" href="http://vinyltempest.com/tag/vinyl-tempest/" style="font-size: 8pt;" title="1 topic">vinyl tempest</a>
+<a class="tag-link-101" href="http://vinyltempest.com/tag/woodstock/" style="font-size: 11.405405405405pt;" title="2 topics">Woodstock</a> </li>
+</ul><!--/.alx-tab-->
+</div>
+</div>
+</div><!--/.sidebar-content-->
+</div><!--/.sidebar-->
+</div><!--/.main-inner-->
+</div><!--/.main-->
+</div><!--/.container-inner-->
+</div><!--/.container-->
+<footer id="footer">
+<nav class="nav-container group" id="nav-footer">
+<div class="nav-toggle"><i class="fa fa-bars"></i></div>
+<div class="nav-text"><!-- put your mobile menu text here --></div>
+<div class="nav-wrap"><ul class="nav container group" id="menu-footer"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47" id="menu-item-47"><a href="http://vinyltempest.com/home/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48" id="menu-item-48"><a href="http://vinyltempest.com/about/">About Vinyl Tempest</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1918" id="menu-item-1918"><a href="http://vinyltempest.com/copyright-policy/">Copyright Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49" id="menu-item-49"><a href="http://vinyltempest.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1919" id="menu-item-1919"><a href="http://vinyltempest.com/dmca-notice-form/">DMCA Notice Form</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50" id="menu-item-50"><a href="http://vinyltempest.com/contact/">Contact</a></li>
+</ul></div>
+</nav><!--/#nav-footer-->
+<section class="container" id="footer-bottom">
+<div class="container-inner">
+<a href="#" id="back-to-top"><i class="fa fa-angle-up"></i></a>
+<div class="pad group">
+<div class="grid one-half">
+<img alt="" id="footer-logo" src="http://vinyltempest.com/wp-content/uploads/2015/01/VT-Logo1.png">
+<div id="copyright">
+<p>Vinyl Tempest © 2015. All Rights Reserved.</p>
+</div><!--/#copyright-->
+<div id="credit">
+<p>Powered by <a href="http://wordpress.org" rel="nofollow">WordPress</a>. Theme by <a href="http://alxmedia.se" rel="nofollow">Alx</a>.</p>
+</div><!--/#credit-->
+</img></div><!--/.pad-->
+<div class="grid one-half last">
+<ul class="social-links"><li><a class="social-tooltip" href="https://www.facebook.com/pages/Vinyl-Tempest/173593392818773?ref=br_tf" rel="nofollow" target="Array" title="Facebook"><i class="fa fa-facebook"></i></a></li><li><a class="social-tooltip" href="http://twitter.com/vinyltempest" rel="nofollow" target="Array" title="Twitter"><i class="fa fa-twitter"></i></a></li><li><a class="social-tooltip" href="http://www.pinterest.com/vinyltempest" rel="nofollow" target="Array" title="Pinterest"><i class="fa fa-pinterest "></i></a></li><li><a class="social-tooltip" href="http://instagram.com/vinyltempest/" rel="nofollow" target="Array" title="Instagram"><i class="fa fa-instagram"></i></a></li><li><a class="social-tooltip" href="http://www.youtube.com/channel/UC-yUvn_6lINg3KxDLqA0Vfw" rel="nofollow" target="Array" title="YouTube"><i class="fa fa-youtube"></i></a></li><li><a class="social-tooltip" href="http://feeds.feedburner.com/VinylTempest" rel="nofollow" target="Array" title="RSS"><i class="fa fa-rss"></i></a></li></ul> </div>
+</div>
+</div><!--/.container-inner-->
+</section><!--/.container-->
+</footer><!--/#footer-->
+</div><!--/#wrapper-->
+
+<div style="display:none">
+<div class="grofile-hash-map-37d169724e427784f505154d295945ad">
+</div>
+<div class="grofile-hash-map-9730b21cc6908b00fc5593c0a9c0f0d5">
+</div>
+<div class="grofile-hash-map-92d8bff245bcb1b2acb7d28d8e9286af">
+</div>
+<div class="grofile-hash-map-c0a738bfa4c8948e3de8b6e6b1d6e44b">
+</div>
+<div class="grofile-hash-map-94bef22c12edc4ac24c66edf563594d9">
+</div>
+<div class="grofile-hash-map-cdfb78f25e04168ec49c43e36ff18692">
+</div>
+</div>
+
+<link href="http://vinyltempest.com/wp-content/plugins/youtube-channel-gallery/styles.css?ver=4.1" id="youtube-channel-gallery-css" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 9]>
+<script src="http://vinyltempest.com/wp-content/themes/hueman/js/ie/respond.js"></script>
+<![endif]-->
+
+</body>
+</html>

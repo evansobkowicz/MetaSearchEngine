@@ -1,0 +1,14 @@
+Title: Inception - Rotten Tomatoes
+Set-Cookie: ServerID=1274; path=/
+Date: Mon, 09 Feb 2015 23:43:42 GMT
+Set-Cookie: JSESSIONID=160716C5009C4C19DE2AF55AD7BF5A13; Path=/; HttpOnly
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Vary: User-Agent,Accept-Encoding
+FLX-Server: web174.flixster.com
+RT-Commit: RTRELEASE.2015-02-05.11-34-23 59aec43
+FLX-Commit: ADMINRELEASE.2015-02-05.10-57-48 83da59a
+FLX-Build-Date: 2015-02-05 11:38:07
+Connection: close
+Transfer-Encoding: chunked
+

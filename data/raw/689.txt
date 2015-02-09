@@ -1,0 +1,1144 @@
+<!DOCTYPE html>
+<html data-cast-api-enabled="true" lang="en"><head>
+
+
+
+<link href="//s.ytimg.com/yts/cssbin/www-core-vfldMqirS.css" name="www-core" rel="stylesheet">
+<link href="//s.ytimg.com/yts/cssbin/www-pageframe-vfliaAks7.css" name="www-pageframe" rel="stylesheet">
+<title>ABBA - Gold: Greatest Hits (Full Album) - YouTube</title><link href="http://www.youtube.com/opensearch?locale=en_US" rel="search" title="YouTube Video Search" type="application/opensearchdescription+xml"><link href="https://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" rel="shortcut icon" type="image/x-icon"> <link href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" rel="icon" sizes="32x32"><link href="http://www.youtube.com/watch?v=6Iw7ucd6_qE" rel="canonical"><link href="http://m.youtube.com/watch?v=6Iw7ucd6_qE" media="handheld" rel="alternate"><link href="http://m.youtube.com/watch?v=6Iw7ucd6_qE" media="only screen and (max-width: 640px)" rel="alternate"><link href="http://youtu.be/6Iw7ucd6_qE" rel="shortlink"> <meta content="ABBA - Gold: Greatest Hits (Full Album)" name="title">
+<meta content="ABBA - Gold: Greatest Hits / Best of / Compilation (Album 1992 HD)" name="description">
+<meta content="ABBA, Gold, Greatest Hits, Full Album, Best of, Compilation, 1992, HD, Song" name="keywords">
+<link href="android-app://http://www.youtube.com/watch?v=6Iw7ucd6_qE" rel="alternate">
+<link href="http://www.youtube.com/oembed?format=json&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6Iw7ucd6_qE" rel="alternate" title="ABBA - Gold: Greatest Hits (Full Album)" type="application/json+oembed">
+<link href="http://www.youtube.com/oembed?format=xml&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6Iw7ucd6_qE" rel="alternate" title="ABBA - Gold: Greatest Hits (Full Album)" type="text/xml+oembed">
+<meta content="YouTube" property="og:site_name">
+<meta content="http://www.youtube.com/watch?v=6Iw7ucd6_qE" property="og:url">
+<meta content="ABBA - Gold: Greatest Hits (Full Album)" property="og:title">
+<meta content="https://i.ytimg.com/vi/6Iw7ucd6_qE/maxresdefault.jpg" property="og:image">
+<meta content="ABBA - Gold: Greatest Hits / Best of / Compilation (Album 1992 HD)" property="og:description">
+<meta content="544007664" property="al:ios:app_store_id">
+<meta content="YouTube" property="al:ios:app_name">
+<meta content="vnd.youtube://www.youtube.com/watch?v=6Iw7ucd6_qE&amp;feature=applinks" property="al:ios:url">
+<meta content="http://www.youtube.com/watch?v=6Iw7ucd6_qE&amp;feature=applinks" property="al:android:url">
+<meta content="YouTube" property="al:android:app_name">
+<meta content="com.google.android.youtube" property="al:android:package">
+<meta content="http://www.youtube.com/watch?v=6Iw7ucd6_qE&amp;feature=applinks" property="al:web:url">
+<meta content="video" property="og:type">
+<meta content="https://www.youtube.com/embed/6Iw7ucd6_qE" property="og:video:url">
+<meta content="https://www.youtube.com/embed/6Iw7ucd6_qE" property="og:video:secure_url">
+<meta content="text/html" property="og:video:type">
+<meta content="1280" property="og:video:width">
+<meta content="720" property="og:video:height">
+<meta content="http://www.youtube.com/v/6Iw7ucd6_qE?autohide=1&amp;version=3" property="og:video:url">
+<meta content="https://www.youtube.com/v/6Iw7ucd6_qE?autohide=1&amp;version=3" property="og:video:secure_url">
+<meta content="application/x-shockwave-flash" property="og:video:type">
+<meta content="1280" property="og:video:width">
+<meta content="720" property="og:video:height">
+<meta content="ABBA" property="og:video:tag">
+<meta content="Gold" property="og:video:tag">
+<meta content="Greatest Hits" property="og:video:tag">
+<meta content="Full Album" property="og:video:tag">
+<meta content="Best of" property="og:video:tag">
+<meta content="Compilation" property="og:video:tag">
+<meta content="1992" property="og:video:tag">
+<meta content="HD" property="og:video:tag">
+<meta content="Song" property="og:video:tag">
+<meta content="87741124305" property="fb:app_id">
+<meta content="player" name="twitter:card">
+<meta content="@youtube" name="twitter:site">
+<meta content="http://www.youtube.com/watch?v=6Iw7ucd6_qE" name="twitter:url">
+<meta content="ABBA - Gold: Greatest Hits (Full Album)" name="twitter:title">
+<meta content="ABBA - Gold: Greatest Hits / Best of / Compilation (Album 1992 HD)" name="twitter:description">
+<meta content="https://i.ytimg.com/vi/6Iw7ucd6_qE/maxresdefault.jpg" name="twitter:image">
+<meta content="YouTube" name="twitter:app:name:iphone">
+<meta content="544007664" name="twitter:app:id:iphone">
+<meta content="YouTube" name="twitter:app:name:ipad">
+<meta content="544007664" name="twitter:app:id:ipad">
+<meta content="vnd.youtube://www.youtube.com/watch?v=6Iw7ucd6_qE&amp;feature=applinks" name="twitter:app:url:iphone">
+<meta content="vnd.youtube://www.youtube.com/watch?v=6Iw7ucd6_qE&amp;feature=applinks" name="twitter:app:url:ipad">
+<meta content="YouTube" name="twitter:app:name:googleplay">
+<meta content="com.google.android.youtube" name="twitter:app:id:googleplay">
+<meta content="http://www.youtube.com/watch?v=6Iw7ucd6_qE" name="twitter:app:url:googleplay">
+<meta content="https://www.youtube.com/embed/6Iw7ucd6_qE" name="twitter:player">
+<meta content="1280" name="twitter:player:width">
+<meta content="720" name="twitter:player:height">
+<!-- Smart CSS Insertion --></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></link></link></link></meta></meta></meta></link></link></link></link></link></link></link></link></link></head> <body class=" ltr exp-innertube-history site-center-aligned site-as-giant-card appbar-hidden not-nirvana-dogfood not-yt-legacy-css flex-width-enabled flex-width-enabled-snap delayed-frame-styles-not-in " dir="ltr" id="body">
+<div id="early-body"></div><div id="body-container"><form action="/logout" method="POST" name="logoutForm"><input name="action_logout" type="hidden" value="1"/></form><div id="masthead-positioner">
+<div class="clearfix yt-base-gutter" id="yt-masthead-container"><div class="" id="yt-masthead"><div class="yt-masthead-logo-container"> <a class=" spf-link yt-uix-sessionlink" data-sessionlink="feature=yt-logo" href="/" id="logo-container" title="YouTube home"><img alt="" id="logo" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif"/></a>
+<a class=" spf-link yt-uix-sessionlink" data-sessionlink="feature=yt-logo" href="/" title="YouTube home">
+<span class="mini-logo yt-sprite"></span>
+</a>
+<div id="appbar-guide-button-container">
+<button aria-controls="appbar-guide-menu" aria-label="Guide" class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" id="appbar-guide-button" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<div class="yt-valign" id="appbar-guide-button-notification-check">
+<span class="appbar-guide-notification-icon yt-valign-content yt-sprite"></span>
+</div>
+</div>
+<div id="appbar-main-guide-notification-container"></div>
+</div><div id="yt-masthead-signin"><span id="appbar-onebar-upload-group"><a class="yt-uix-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=mhsb&amp;ei=-kbZVO8H1Y6qBc3MgOgM" href="//www.youtube.com/upload" id="upload-btn"><span class="yt-uix-button-content">Upload </span></a></span><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" href="https://accounts.google.com/ServiceLogin?passive=true&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253D6Iw7ucd6_qE%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26feature%3Dsign_in_button&amp;service=youtube" onclick=";window.location.href=this.getAttribute('href');return false;" type="button"><span class="yt-uix-button-content">Sign in </span></button></div><div id="yt-masthead-content"><form action="/results" class="search-form consolidated-form" id="masthead-search" onsubmit="if (_gel('masthead-search-term').value == '') return false;"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" dir="ltr" id="search-btn" onclick="if (_gel('masthead-search-term').value == '') return false; _gel('masthead-search').submit(); return false;;return true;" tabindex="2" type="submit"><span class="yt-uix-button-content">Search </span></button><div class="masthead-search-terms-border" dir="ltr" id="masthead-search-terms"><label><input autocomplete="off" class="search-term yt-uix-form-input-bidi" id="masthead-search-term" name="search_query" tabindex="1" title="Search" type="text" value=""/></label></div></form></div></div></div>
+<div class="clearfix" id="masthead-appbar-container"><div id="masthead-appbar"><div class="" id="appbar-content"></div></div></div>
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div class=" watch watch-non-stage-mode clearfix" id="page"><div class="yt-scrollbar" id="guide"> <div class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor" id="appbar-guide-menu">
+<div id="guide-container">
+<div class="guide-module-content guide-module-loading">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+</div>
+</div><div class="alerts-wrapper"><div class="content-alignment" id="alerts">
+<div id="editor-progress-alert-container"></div>
+<div class="yt-alert yt-alert-default yt-alert-warn hid " id="editor-progress-alert-template"> <div class="yt-alert-icon">
+<span class="icon master-sprite yt-sprite"></span>
+</div>
+<div class="yt-alert-content" role="alert"></div><div class="yt-alert-buttons"><button aria-label="Close" class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" data-close-parent-class="yt-alert" onclick=";return false;" type="button"><span class="yt-uix-button-content">Close </span></button></div></div>
+<div id="edit-confirmation-alert"></div>
+<div class="yt-alert yt-alert-actionable yt-alert-info hid " id="edit-confirmation-alert-template"> <div class="yt-alert-icon">
+<span class="icon master-sprite yt-sprite"></span>
+</div>
+<div class="yt-alert-content" role="alert"> <div class="yt-alert-message">
+</div>
+</div><div class="yt-alert-buttons"> <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-alert-info yt-uix-button-has-icon edit-confirmation-yes" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-like-invert yt-sprite"></span></span><span class="yt-uix-button-content">Yeah, keep it </span></button>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-alert-info yt-uix-button-has-icon edit-confirmation-no" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-unlike-invert yt-sprite"></span></span><span class="yt-uix-button-content">Undo </span></button>
+<button aria-label="Close" class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" data-close-parent-class="yt-alert" onclick=";return false;" type="button"><span class="yt-uix-button-content">Close </span></button></div></div>
+</div></div><div id="header"></div><div class=" content-alignment watch-small " id="player"><div class="player-height" id="theater-background"></div> <div id="player-mole-container">
+<div class=" hid player-width player-height player-unavailable watch-main-col " id="player-unavailable">
+<img alt="" class="icon meh" data-icon="//s.ytimg.com/yts/img/meh7-vflGevej7.png" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif">
+<div class="content">
+<h1 class="message" id="unavailable-message">
+            This video is unavailable.
+    </h1>
+<div class="submessage" id="unavailable-submessage">
+</div>
+</div>
+</img></div>
+<div class="player-width player-height off-screen-target player-api" id="player-api"></div>
+
+
+<div class="video-mole mole-collapsed hid" id="watch-queue-mole"><div class="watch-playlist player-height" id="watch-queue"><div class="main-content"><div class="watch-queue-header"><div class="watch-queue-info"><div class="watch-queue-info-icon"><span class="tv-queue-list-icon yt-sprite"></span></div><h3 class="watch-queue-title">Watch Queue</h3><h3 class="tv-queue-title">TV Queue</h3><span class="tv-queue-details"></span></div><div class="watch-queue-control-bar control-bar-button"><div class="watch-queue-mole-info"><div class="watch-queue-control-bar-icon"><span class="watch-queue-icon yt-sprite"></span></div><div class="watch-queue-title-container"><span class="watch-queue-count"></span><span class="watch-queue-title">Watch Queue</span><span class="tv-queue-title">TV Queue</span></div></div> <span class="dark-overflow-action-menu">
+<button aria-expanded="false" aria-haspopup="true" aria-label="Actions for the queue" class="flip control-bar-button yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul aria-haspopup="true" class="watch-queue-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" role="menu" style="display: none;"><li role="menuitem"><span class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" data-action="remove-all" onclick=";return false;">Remove all</span></li><li role="menuitem"><span class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" data-action="disconnect" onclick=";return false;">Disconnect</span></li></ul></button>
+</span>
+<div class="watch-queue-controls">
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button prev-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" onclick=";return false;" title="Previous video" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-prev yt-sprite"></span></span></button>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button play-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" onclick=";return false;" title="Play" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-play yt-sprite"></span></span></button>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button pause-watch-queue-button yt-uix-button-opacity yt-uix-tooltip hid yt-uix-tooltip" onclick=";return false;" title="Pause" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-pause yt-sprite"></span></span></button>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button next-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" onclick=";return false;" title="Next video" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-next yt-sprite"></span></span></button>
+</div>
+</div></div><div class="watch-queue-items-container yt-scrollbar-dark yt-scrollbar"><ol class="watch-queue-items-list playlist-videos-list yt-uix-scroller" data-scroll-action="yt.www.watchqueue.loadThumbnails">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</ol></div></div> <div class="hid">
+<div id="watch-queue-title-msg">
+Watch Queue
+    </div>
+<div id="tv-queue-title-msg">
+TV Queue
+    </div>
+<div id="watch-queue-count-msg">
+__count__/__total__
+    </div>
+<div id="watch-queue-loading-template">
+<!--
+          
+  <p class="yt-spinner ">
+        
+  <span class="yt-spinner-img  yt-sprite" title="Loading icon"></span>
+
+    <span class="yt-spinner-message">
+Loading...
+    </span>
+  </p>
+
+      -->
+</div>
+</div>
+</div></div>
+</div>
+<div class="clear"></div>
+</div><div class=" content-alignment " id="content">
+<span id="tabindex-after-player-enter-reverse"> </span>
+<span id="tabindex-after-player-enter"> </span>
+<span id="tabindex-after-player-exit-reverse"> </span>
+<span id="tabindex-after-player-exit"> </span>
+<div class="" id="watch7-container">
+<div id="watch7-main-container">
+<div class="clearfix" id="watch7-main">
+<div class="player-width player-height hid" id="watch7-preview">
+</div>
+<div class="watch-main-col " id="watch7-content" itemid="" itemscope="" itemtype="http://schema.org/VideoObject">
+<link href="http://www.youtube.com/watch?v=6Iw7ucd6_qE" itemprop="url">
+<meta content="ABBA - Gold: Greatest Hits (Full Album)" itemprop="name">
+<meta content="ABBA - Gold: Greatest Hits / Best of / Compilation (Album 1992 HD)" itemprop="description">
+<meta content="False" itemprop="paid">
+<meta content="UCBSMw_-TjdR81NAFB1ZKicw" itemprop="channelId">
+<meta content="6Iw7ucd6_qE" itemprop="videoId">
+<meta content="PT72M59S" itemprop="duration">
+<meta content="False" itemprop="unlisted">
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<link href="http://www.youtube.com/channel/UCBSMw_-TjdR81NAFB1ZKicw" itemprop="url">
+</link></span>
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<link href="https://plus.google.com/111647374438745692892" itemprop="url">
+</link></span>
+<link href="https://i.ytimg.com/vi/6Iw7ucd6_qE/maxresdefault.jpg" itemprop="thumbnailUrl">
+<span itemprop="thumbnail" itemscope="" itemtype="http://schema.org/ImageObject">
+<link href="https://i.ytimg.com/vi/6Iw7ucd6_qE/maxresdefault.jpg" itemprop="url">
+<meta content="1280" itemprop="width">
+<meta content="720" itemprop="height">
+</meta></meta></link></span>
+<link href="https://www.youtube.com/embed/6Iw7ucd6_qE" itemprop="embedURL">
+<meta content="HTML5 Flash" itemprop="playerType">
+<meta content="1280" itemprop="width">
+<meta content="720" itemprop="height">
+<meta content="True" itemprop="isFamilyFriendly">
+<meta content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW" itemprop="regionsAllowed">
+<meta content="3339590" itemprop="interactionCount">
+<meta content="May 21, 2014" itemprop="datePublished">
+<meta content="Music" itemprop="genre">
+<div id="watch7-speedyg-area">
+<div class="yt-alert yt-alert-actionable yt-alert-info hid " id="speedyg-template"> <div class="yt-alert-icon">
+<span class="icon master-sprite yt-sprite"></span>
+</div>
+<div class="yt-alert-content" role="alert"> <div class="yt-alert-message">
+</div>
+</div><div class="yt-alert-buttons"><a class="yt-uix-button yt-uix-sessionlink yt-uix-button-alert-info yt-uix-button-size-small" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" href="https://www.google.com/get/videoqualityreport/?v=6Iw7ucd6_qE" id="speedyg-link" target="_blank"><span class="yt-uix-button-content">Find out why </span></a><button aria-label="Close" class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" data-close-parent-class="yt-alert" onclick=";return false;" type="button"><span class="yt-uix-button-content">Close </span></button></div></div>
+</div>
+<div class="yt-card yt-card-has-padding" id="watch-header">
+<div class="clearfix" id="watch7-headline">
+<div id="watch-headline-title">
+<h1 class="yt watch-title-container">
+<span class="watch-title " dir="ltr" id="eow-title" title="ABBA - Gold: Greatest Hits (Full Album)">
+    ABBA - Gold: Greatest Hits (Full Album)
+  </span>
+</h1>
+</div>
+</div>
+<div class=" spf-link " id="watch7-user-header"> <a class="yt-user-photo yt-uix-sessionlink spf-link g-hovercard" data-sessionlink="itct=" data-ytid="UCBSMw_-TjdR81NAFB1ZKicw" href="/channel/UCBSMw_-TjdR81NAFB1ZKicw">
+<span class="video-thumb yt-thumb yt-thumb-48 g-hovercard" data-ytid="UCBSMw_-TjdR81NAFB1ZKicw">
+<span class="yt-thumb-square">
+<span class="yt-thumb-clip">
+<img alt="albumsmix5" data-thumb="https://yt3.ggpht.com/-aod__P-vjW0/AAAAAAAAAAI/AAAAAAAAAAA/5hn66OAyyRc/s88-c-k-no/photo.jpg" height="48" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="48">
+<span class="vertical-align"></span>
+</img></span>
+</span>
+</span>
+</a>
+<div class="yt-user-info">
+<a class=" yt-uix-sessionlink spf-link g-hovercard" data-name="" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" data-ytid="UCBSMw_-TjdR81NAFB1ZKicw" href="/channel/UCBSMw_-TjdR81NAFB1ZKicw">albumsmix5</a>
+</div>
+<span id="watch7-subscription-container"><span class=" yt-uix-button-subscription-container"><button aria-busy="false" aria-live="polite" class="yt-uix-button yt-uix-button-size-default yt-uix-button-subscribe-branded yt-uix-button-has-icon no-icon-markup yt-can-buffer yt-uix-subscription-button" data-channel-external-id="UCBSMw_-TjdR81NAFB1ZKicw" data-href="https://accounts.google.com/ServiceLogin?passive=true&amp;hl=en&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3Dsubscribe%26app%3Ddesktop%26next%3D%252Fchannel%252FUCBSMw_-TjdR81NAFB1ZKicw%26continue_action%3DQUFFLUhqa21QZm5weTdmNkY4ZUpNWk1XenkwVVV4ZkNZUXxBQ3Jtc0ttSmcyRFRPeWVXeFFwWElLTkVQdXBvSXNSZGY2bE9lUjBlTmJydTFBS2pFcXQ5bkJfdlpSVUxRbDlsbTZSRlR4V01JT3JUMFV1and5ZXFEZjltZUxXeFl5RkxENVFTRE1vZTU1UVE1NHRYV2VZbURKODN4bWszZlJSWjNIMzFneUJKUWhjandYQVR0RldyRnM5X3k5c0x1VFFFbUNvWGdRdVZFX1dQVWVSaVVaS2VDN2VlZ1Y1UUhlUktxWm5lV043YnFIWDhiYlhIbk9KbVJEN2dWV1ZkWWdRcDhR%26hl%3Den&amp;service=youtube" data-sessionlink="itct=" data-style-type="branded" onclick=";return false;" type="button"><span class="yt-uix-button-content"><span aria-label="Subscribe" class="subscribe-label">Subscribe</span><span aria-label="Unsubscribe" class="subscribed-label">Subscribed</span><span aria-label="Unsubscribe" class="unsubscribe-label">Unsubscribe</span> </span></button><button aria-busy="false" aria-label="Subscription preferences" aria-live="polite" aria-role="button" class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon yt-uix-subscription-preferences-button" data-channel-external-id="UCBSMw_-TjdR81NAFB1ZKicw" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences yt-sprite"></span></span></button><span class="yt-subscription-button-subscriber-count-branded-horizontal" tabindex="0" title="5,243">5,243</span>
+<div class="yt-uix-overlay " data-overlay-shape="tiny" data-overlay-style="primary">
+<div class="yt-dialog hid " role="dialog">
+<div class="yt-dialog-base">
+<span class="yt-dialog-align"></span>
+<div class="yt-dialog-fg">
+<div class="yt-dialog-fg-content">
+<div class="yt-dialog-header">
+<h2 class="yt-dialog-title">
+                        Subscription preferences
+
+
+                </h2>
+</div>
+<div class="yt-dialog-loading">
+<div class="yt-dialog-waiting-content">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+<div class="yt-dialog-content">
+<div class="subscription-preferences-overlay-content-container">
+<div class="subscription-preferences-overlay-loading ">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+<div class="subscription-preferences-overlay-content">
+</div>
+</div>
+</div>
+<div class="yt-dialog-working">
+<div class="yt-dialog-working-overlay"></div>
+<div class="yt-dialog-working-bubble">
+<div class="yt-dialog-waiting-content">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+        Working...
+    </span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</span></span></div>
+<div class="watch-action-buttons clearfix" id="watch8-action-buttons"><div class="watch-secondary-actions yt-uix-button-group" data-button-toggle-group="optional" id="watch8-secondary-actions">
+<span class="yt-uix-clickcard">
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup action-panel-trigger action-panel-trigger-none-addto addto-button yt-uix-clickcard-target yt-uix-tooltip" data-button-toggle="true" data-orientation="vertical" data-position="bottomleft" data-trigger-for="action-panel-none-addto" data-upsell="playlist" onclick=";return false;" title="Add to" type="button"><span class="yt-uix-button-content">Add to </span></button>
+<div class="signin-clickcard yt-uix-clickcard-content">
+<h3 class="signin-clickcard-header">Want to watch this again later?</h3>
+<div class="signin-clickcard-message">
+      Sign in to add this video to a playlist.
+    </div>
+<a class="yt-uix-button signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" href="https://accounts.google.com/ServiceLogin?passive=true&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253D6Iw7ucd6_qE%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26feature%3D__FEATURE__&amp;service=youtube"><span class="yt-uix-button-content">Sign in </span></a>
+</div>
+</span>
+<span>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup action-panel-trigger action-panel-trigger-share yt-uix-tooltip" data-button-toggle="true" data-trigger-for="action-panel-share" onclick=";return false;" title="Share
+" type="button"><span class="yt-uix-button-content">Share
+ </span></button>
+</span>
+<div class="yt-uix-menu "><div class="yt-uix-menu-trigger">
+<button aria-haspopup="true" aria-pressed="false" class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-tooltip" data-button-toggle="true" id="action-panel-overflow-button" onclick=";return false;" role="button" title="More actions" type="button"><span class="yt-uix-button-content">More </span></button>
+</div><div class="yt-uix-menu-content yt-ui-menu-content yt-uix-menu-content-hidden" role="menu"><ul id="action-panel-overflow-menu"> <li>
+<span class="yt-uix-clickcard" data-card-class="report-card">
+<button class="yt-ui-menu-item has-icon action-panel-trigger action-panel-trigger-report report-button yt-uix-clickcard-target" data-orientation="horizontal" data-position="topright" type="button">
+<span class="yt-ui-menu-item-label">Report
+</span>
+</button>
+<div class="signin-clickcard yt-uix-clickcard-content">
+<h3 class="signin-clickcard-header">Need to report the video?</h3>
+<div class="signin-clickcard-message">
+      Sign in to report inappropriate content.
+    </div>
+<a class="yt-uix-button signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" href="https://accounts.google.com/ServiceLogin?passive=true&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253D6Iw7ucd6_qE%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26feature%3D__FEATURE__&amp;service=youtube"><span class="yt-uix-button-content">Sign in </span></a>
+</div>
+</span>
+</li>
+</ul></div></div></div><div id="watch8-sentiment-actions"><div id="watch7-views-info"><div class="watch-view-count">3,339,590</div>
+<div class="video-extras-sparkbars">
+<div class="video-extras-sparkbar-likes" style="width: 94.5472953428%"></div>
+<div class="video-extras-sparkbar-dislikes" style="width: 5.45270465722%"></div>
+</div>
+</div>
+<span class="yt-uix-button-group " data-button-toggle-group="optional" data-vote-state="2" id="watch-like-dislike-buttons"><span class="yt-uix-clickcard"><button aria-label="like this video along with 6,537 other people" class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-clickcard-target yt-uix-tooltip" data-button-toggle="true" data-force-position="true" data-like-tooltip="I like this" data-orientation="vertical" data-position="bottomright" data-unlike-tooltip="Unlike" id="watch-like" onclick=";return false;" title="I like this" type="button"><span class="yt-uix-button-content">6,537 </span></button> <div class="signin-clickcard yt-uix-clickcard-content">
+<h3 class="signin-clickcard-header">Like this video?</h3>
+<div class="signin-clickcard-message">
+      Sign in to make your opinion count.
+    </div>
+<a class="yt-uix-button signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" href="https://accounts.google.com/ServiceLogin?passive=true&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253D6Iw7ucd6_qE%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26feature%3D__FEATURE__&amp;service=youtube"><span class="yt-uix-button-content">Sign in </span></a>
+</div>
+</span><span class="yt-uix-clickcard"><button aria-label="dislike this video along with 377 other people" class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity yt-uix-button-has-icon no-icon-markup yt-uix-clickcard-target yt-uix-tooltip" data-button-toggle="true" data-force-position="true" data-orientation="vertical" data-position="bottomright" id="watch-dislike" onclick=";return false;" title="I dislike this" type="button"><span class="yt-uix-button-content">377 </span></button> <div class="signin-clickcard yt-uix-clickcard-content">
+<h3 class="signin-clickcard-header">Don't like this video?</h3>
+<div class="signin-clickcard-message">
+      Sign in to make your opinion count.
+    </div>
+<a class="yt-uix-button signin-button yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" href="https://accounts.google.com/ServiceLogin?passive=true&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253D6Iw7ucd6_qE%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26feature%3D__FEATURE__&amp;service=youtube"><span class="yt-uix-button-content">Sign in </span></a>
+</div>
+</span></span></div></div>
+</div>
+<div class="watch-action-panels yt-uix-button-panel hid yt-card yt-card-has-padding" id="watch-action-panels">
+<div class="action-panel-content hid" id="action-panel-share">
+<div id="watch-actions-share-loading">
+<div class="action-panel-loading">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+<div id="watch-actions-share-panel"></div>
+</div>
+<div class="action-panel-content hid" id="action-panel-stats">
+<div class="action-panel-loading">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+<div class="action-panel-content hid" data-auth-required="true" id="action-panel-report">
+<div class="action-panel-loading">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+<div class="action-panel-content hid" id="action-panel-rental-required">
+<div id="watch-actions-rental-required">
+<strong>Rating is available when the video has been rented.</strong>
+</div>
+</div>
+<div class="action-panel-content hid" id="action-panel-error">
+<div class="action-panel-error">
+      This feature is not available right now. Please try again later.
+    </div>
+</div>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup yt-uix-button-opacity yt-uix-close" data-close-parent-id="watch8-action-panels" id="action-panel-dismiss" onclick=";return false;" type="button"></button>
+</div>
+<div class="action-panel-content yt-card yt-card-has-padding yt-uix-expander yt-uix-expander-collapsed" id="action-panel-details"><div class="yt-uix-button-panel" id="watch-description"><div id="watch-description-content"><div id="watch-description-clip"><div id="watch-uploader-info"><strong class="watch-time-text">Published on May 21, 2014</strong></div><div class="" id="watch-description-text"><p id="eow-description">ABBA - Gold: Greatest Hits / Best of / Compilation (Album 1992 HD)</p></div> <div id="watch-description-extras">
+<ul class="watch-extras-section">
+<li class="watch-meta-item ">
+<h4 class="title">
+      Music
+    </h4>
+<ul class="content watch-info-tag-list">
+<li>"Sos" by <a class=" yt-uix-sessionlink spf-link g-hovercard" data-name="" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" data-ytid="UCuubAXN9AYgtcmSrD0frggQ" href="/channel/UCuubAXN9AYgtcmSrD0frggQ">ABBA</a> (<a class=" yt-uix-sessionlink" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" href="https://www.youtube.com/cthru?c2b=googlemusic&amp;key=o0vik6IlegfNHHZNSTXrpiPiZuTRvNSzgs9IZoIswiBGXLTbMpaNuJ8FzOQN08LvrT7HPWqb54ute73d0Ira3IygFlq3gAWYcrz1Uiw7o3nWW1WlO8pV_38kjSaM2diNAfcDB5CnGjqiSLWtUzRrRFO1YPFqHrqzfdIpxowFucvOuW6SzJUyJuf9V1WZoSXZEFj_eDHeFs_tyUvLWYTRSA%3D%3D&amp;v=6Iw7ucd6_qE">Google Play</a> • <a class=" yt-uix-sessionlink" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" href="https://www.youtube.com/cthru?c2b=itunes&amp;key=-VBbm70Hgs1k2xzvnW2xaLCeajClVoNdYO_Wi5Heg2kT3YZkAy6t2_FiGcu4kRSlT89y2HubcHB1yfA7pEDuj577SRUj0ZiPNwhuXWwoO0IQC00QlNJEY0SJhQdYcWQmw2exEg8lKC_ly_gqwPw6UI2cHiV1QkmvVB2n3d5YfCg%3D&amp;v=6Iw7ucd6_qE">iTunes</a> • <a class=" yt-uix-sessionlink" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" href="https://www.youtube.com/cthru?c2b=amazonmp3&amp;key=fttY206rrILm6Q_xSGu4gShQ78p04IVfUJbdafMsFxFG_pWrsl8w8hzAH_ekeIezqNcMV-R8Az4aSMh0o4fpyvxFEa8KT4ZSvA-hyxPm-XlZsBrfImUzggohp_eHa7Uy&amp;v=6Iw7ucd6_qE">AmazonMP3</a>)</li>
+</ul>
+</li>
+<li class="watch-meta-item yt-uix-expander-body">
+<h4 class="title">
+      Artist
+    </h4>
+<ul class="content watch-info-tag-list">
+<li><a class=" yt-uix-sessionlink spf-link g-hovercard" data-name="" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" data-ytid="UCuubAXN9AYgtcmSrD0frggQ" href="/channel/UCuubAXN9AYgtcmSrD0frggQ">ABBA</a></li>
+</ul>
+</li>
+<li class="watch-meta-item yt-uix-expander-body">
+<h4 class="title">
+      Category
+    </h4>
+<ul class="content watch-info-tag-list">
+<li><a class=" yt-uix-sessionlink spf-link g-hovercard" data-name="" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" data-ytid="UC-9-kyTW8ZkZNDHQJ6FgpwQ" href="/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ">Music</a></li>
+</ul>
+</li>
+<li class="watch-meta-item yt-uix-expander-body">
+<h4 class="title">
+      License
+    </h4>
+<ul class="content watch-info-tag-list">
+<li>Standard YouTube License</li>
+</ul>
+</li>
+</ul>
+</div>
+</div></div></div> <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander yt-uix-expander-head yt-uix-expander-collapsed-body yt-uix-gen204" data-gen204="feature=watch-show-more-metadata" onclick=";return false;" type="button"><span class="yt-uix-button-content">Show more </span></button>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander yt-uix-expander-head yt-uix-expander-body" onclick=";return false;" type="button"><span class="yt-uix-button-content">Show less </span></button>
+</div>
+<div class="cmt_iframe_holder" data-href="http://www.youtube.com/watch?v=6Iw7ucd6_qE" data-viewtype="FILTERED" style="display: none;"></div>
+<div class="yt-card branded-page-box" id="watch-discussion">
+<div class="comments-iframe-container">
+<div id="comments-test-iframe"></div>
+<div class="action-panel-loading" id="distiller-spinner">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+</div>
+</meta></meta></meta></meta></meta></meta></meta></meta></link></link></meta></meta></meta></meta></meta></meta></meta></link></div>
+<div class="watch-sidebar" id="watch7-sidebar">
+<div id="watch7-sidebar-playlist">
+</div>
+<div class="watch-sidebar-gutter yt-card yt-card-has-padding yt-uix-expander yt-uix-expander-collapsed" id="watch7-sidebar-contents">
+<div id="watch7-sidebar-offer">
+</div>
+<div id="watch7-sidebar-ads">
+<div class="" id="watch-channel-brand-div">
+<div id="watch-channel-brand-div-text">
+Advertisement
+      </div>
+<div id="google_companion_ad_div">
+</div>
+</div>
+</div>
+<div id="watch7-sidebar-modules">
+<div class="watch-sidebar-section">
+<div class="watch-sidebar-body">
+<ul class="video-list" id="watch-related">
+<li class="video-list-item related-list-item "><a class="related-playlist yt-pl-thumb-link spf-link mix-playlist resumable-list yt-uix-sessionlink" data-sessionlink="feature=list_other&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAMQzhooAA" href="/watch?v=6Iw7ucd6_qE&amp;list=RD6Iw7ucd6_qE" rel="spf-prefetch">
+<span class="yt-pl-thumb is-small yt-mix-thumb">
+<span class="video-thumb yt-thumb yt-thumb-120">
+<span class="yt-thumb-default">
+<span class="yt-thumb-clip">
+<img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/6Iw7ucd6_qE/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120">
+<span class="vertical-align"></span>
+</img></span>
+</span>
+</span>
+<span class="sidebar">
+<span class="yt-pl-sidebar-content yt-valign">
+<span class="yt-valign-container">
+<span class="formatted-video-count-label">
+<b>50+</b> videos
+  </span>
+<span class="yt-pl-icon yt-pl-icon-mix yt-sprite"></span>
+</span>
+</span>
+</span>
+<span class="yt-pl-thumb-overlay">
+<span class="yt-pl-thumb-overlay-content">
+<span class="play-icon yt-sprite"></span>
+<span class="yt-pl-thumb-overlay-text">
+Play all
+          </span>
+</span>
+</span>
+<span class="yt-pl-watch-queue-overlay">
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-list-id="RD6Iw7ucd6_qE" data-video-ids="6Iw7ucd6_qE" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-list-id="RD6Iw7ucd6_qE" data-style="tv-queue" data-video-ids="6Iw7ucd6_qE" onclick=";return false;" title="TV Queue" type="button"></button>
+</span>
+</span>
+<span class="title" dir="ltr" title="Mix - ABBA - Gold: Greatest Hits (Full Album)">Mix - ABBA - Gold: Greatest Hits (Full Album)</span><span class="stat attribution">by YouTube</span></a></li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAQQzRooAQ" href="/watch?v=NrWpbK020YU" rel="spf-prefetch" title="THE BEE GEES (COLLECTION) HD"> <span aria-describedby="description-id-202653" class="title" dir="ltr">
+    THE BEE GEES (COLLECTION) HD
+  </span>
+<span class="accessible-description" id="description-id-202653">
+       - Duration: 1:16:33.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCSeZTAZYe9BoJGFMUANHNEw">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCSeZTAZYe9BoJGFMUANHNEw">Pedro Seeker</span>
+</span>
+</span>
+<span class="stat view-count">16,663,443 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAQQzRooAQ" href="/watch?v=NrWpbK020YU" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="NrWpbK020YU" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/NrWpbK020YU/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:16:33
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="NrWpbK020YU" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="NrWpbK020YU" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="NrWpbK020YU" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="NrWpbK020YU" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAUQzRooAg" href="/watch?v=1-qW9yAtvFA" rel="spf-prefetch" title="Greatest Songs of Rod Stewart"> <span aria-describedby="description-id-92449" class="title" dir="ltr">
+    Greatest Songs of Rod Stewart
+  </span>
+<span class="accessible-description" id="description-id-92449">
+       - Duration: 1:44:06.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCe26oWcahXBwRsHK_F_KPCQ">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCe26oWcahXBwRsHK_F_KPCQ">Naftali Ohana</span>
+</span>
+</span>
+<span class="stat view-count">2,250,024 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAUQzRooAg" href="/watch?v=1-qW9yAtvFA" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="1-qW9yAtvFA" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/1-qW9yAtvFA/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:44:06
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="1-qW9yAtvFA" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="1-qW9yAtvFA" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="1-qW9yAtvFA" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="1-qW9yAtvFA" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAYQzRooAw" href="/watch?v=HAYrNAaZ7Cs" rel="spf-prefetch" title="Air Supply Greatest Hits (Full Album) - The Best Of Air Supply"> <span aria-describedby="description-id-144844" class="title" dir="ltr">
+    Air Supply Greatest Hits (Full Album) - The Best Of Air Supply
+  </span>
+<span class="accessible-description" id="description-id-144844">
+       - Duration: 1:30:01.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UC3mCGSMYOWbb2939i3e-oPA">
+        by <span class=" g-hovercard" data-name="" data-ytid="UC3mCGSMYOWbb2939i3e-oPA">HD Film</span>
+</span>
+</span>
+<span class="stat view-count">1,171,283 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAYQzRooAw" href="/watch?v=HAYrNAaZ7Cs" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="HAYrNAaZ7Cs" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/HAYrNAaZ7Cs/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:30:01
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="HAYrNAaZ7Cs" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="HAYrNAaZ7Cs" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="HAYrNAaZ7Cs" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="HAYrNAaZ7Cs" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAcQzRooBA" href="/watch?v=tQhr1BJCh8A" rel="spf-prefetch" title="Neil Diamond - The Very Best Of  (Full Album)"> <span aria-describedby="description-id-560995" class="title" dir="ltr">
+    Neil Diamond - The Very Best Of  (Full Album)
+  </span>
+<span class="accessible-description" id="description-id-560995">
+       - Duration: 1:30:06.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCtzaIG5zmINt14hcB9rLRcQ">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCtzaIG5zmINt14hcB9rLRcQ">tourtime</span>
+</span>
+</span>
+<span class="stat view-count">1,009,191 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAcQzRooBA" href="/watch?v=tQhr1BJCh8A" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="tQhr1BJCh8A" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/tQhr1BJCh8A/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:30:06
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="tQhr1BJCh8A" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="tQhr1BJCh8A" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="tQhr1BJCh8A" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="tQhr1BJCh8A" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "><a class="related-playlist yt-pl-thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=rellist&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAgQzhooBQ" href="/watch?v=z3RBgwTYUPA&amp;list=PLE6819DE2FA325563" rel="spf-prefetch">
+<span class="yt-pl-thumb is-small">
+<span class="video-thumb yt-thumb yt-thumb-120">
+<span class="yt-thumb-default">
+<span class="yt-thumb-clip">
+<img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/z3RBgwTYUPA/default.jpg" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120">
+<span class="vertical-align"></span>
+</img></span>
+</span>
+</span>
+<span class="sidebar">
+<span class="yt-pl-sidebar-content yt-valign">
+<span class="yt-valign-container">
+<span class="formatted-video-count-label">
+<b>134</b> videos
+  </span>
+<span class="yt-pl-icon yt-pl-icon-reg yt-sprite"></span>
+</span>
+</span>
+</span>
+<span class="yt-pl-thumb-overlay">
+<span class="yt-pl-thumb-overlay-content">
+<span class="play-icon yt-sprite"></span>
+<span class="yt-pl-thumb-overlay-text">
+Play all
+          </span>
+</span>
+</span>
+<span class="yt-pl-watch-queue-overlay">
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-list-id="PLE6819DE2FA325563" data-video-ids="z3RBgwTYUPA" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-list-id="PLE6819DE2FA325563" data-style="tv-queue" data-video-ids="z3RBgwTYUPA" onclick=";return false;" title="TV Queue" type="button"></button>
+</span>
+</span>
+<span class="title" dir="ltr" title="ABBA">ABBA</span><span class="stat attribution">by <span class=" g-hovercard" data-name="" data-ytid="UCZIxEnRpxKhNhy3Ieg4Bc5Q">Superstellina2012</span></span><span class="stat view-count"></span></a></li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAkQzRooBg" href="/watch?v=PjbE0UvGAo4" rel="spf-prefetch" title="The Best Songs Of ABBA || ABBA's Greatest Hits"> <span aria-describedby="description-id-170838" class="title" dir="ltr">
+    The Best Songs Of ABBA || ABBA's Greatest Hits
+  </span>
+<span class="accessible-description" id="description-id-170838">
+       - Duration: 1:59:11.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCOaQEk7kGvbId78d9t8i3UQ">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCOaQEk7kGvbId78d9t8i3UQ">lucky</span>
+</span>
+</span>
+<span class="stat view-count">414,338 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAkQzRooBg" href="/watch?v=PjbE0UvGAo4" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="PjbE0UvGAo4" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/PjbE0UvGAo4/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:59:11
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="PjbE0UvGAo4" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="PjbE0UvGAo4" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="PjbE0UvGAo4" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="PjbE0UvGAo4" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAoQzRooBw" href="/watch?v=YJhRhXJOrus" rel="spf-prefetch" title="‫Dire Straits: Greatest Hits Essential Album Songs"> <span aria-describedby="description-id-845548" class="title" dir="ltr">
+    ‫Dire Straits: Greatest Hits Essential Album Songs
+  </span>
+<span class="accessible-description" id="description-id-845548">
+       - Duration: 1:54:01.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCe26oWcahXBwRsHK_F_KPCQ">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCe26oWcahXBwRsHK_F_KPCQ">Naftali Ohana</span>
+</span>
+</span>
+<span class="stat view-count">1,727,128 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAoQzRooBw" href="/watch?v=YJhRhXJOrus" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="YJhRhXJOrus" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/YJhRhXJOrus/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:54:01
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="YJhRhXJOrus" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="YJhRhXJOrus" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="YJhRhXJOrus" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="YJhRhXJOrus" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAsQzRooCA" href="/watch?v=iGKgzcTN4kw" rel="spf-prefetch" title="The Best Of Queen y Freddie Mercury - 25 Greatest Hits"> <span aria-describedby="description-id-907852" class="title" dir="ltr">
+    The Best Of Queen y Freddie Mercury - 25 Greatest Hits
+  </span>
+<span class="accessible-description" id="description-id-907852">
+       - Duration: 1:48:25.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCBjj_A-cxEjFQrxf_zOn1gA">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCBjj_A-cxEjFQrxf_zOn1gA">Jona Solari</span>
+</span>
+</span>
+<span class="stat view-count">758,669 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAsQzRooCA" href="/watch?v=iGKgzcTN4kw" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="iGKgzcTN4kw" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/iGKgzcTN4kw/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:48:25
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="iGKgzcTN4kw" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="iGKgzcTN4kw" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="iGKgzcTN4kw" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="iGKgzcTN4kw" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAwQzRooCQ" href="/watch?v=KlLn2O5oH0E" rel="spf-prefetch" title="The very Best of Kenny G"> <span aria-describedby="description-id-619051" class="title" dir="ltr">
+    The very Best of Kenny G
+  </span>
+<span class="accessible-description" id="description-id-619051">
+       - Duration: 1:06:29.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCREpt8EciaUAHihFW9mjvmQ">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCREpt8EciaUAHihFW9mjvmQ">ainapyawn saniex</span>
+</span>
+</span>
+<span class="stat view-count">1,385,672 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CAwQzRooCQ" href="/watch?v=KlLn2O5oH0E" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="KlLn2O5oH0E" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/KlLn2O5oH0E/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:06:29
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="KlLn2O5oH0E" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="KlLn2O5oH0E" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="KlLn2O5oH0E" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="KlLn2O5oH0E" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CA0QzRooCg" href="/watch?v=P6gjFtly_nI" rel="spf-prefetch" title="BON JOVI The Greatest Hits (all album)"> <span aria-describedby="description-id-208484" class="title" dir="ltr">
+    BON JOVI The Greatest Hits (all album)
+  </span>
+<span class="accessible-description" id="description-id-208484">
+       - Duration: 1:11:51.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UC_hQlmt7nmgOd-ZyfjA-jxA">
+        by <span class=" g-hovercard" data-name="" data-ytid="UC_hQlmt7nmgOd-ZyfjA-jxA">kiler484</span>
+</span>
+</span>
+<span class="stat view-count">7,458,805 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CA0QzRooCg" href="/watch?v=P6gjFtly_nI" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="P6gjFtly_nI" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/P6gjFtly_nI/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:11:51
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="P6gjFtly_nI" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="P6gjFtly_nI" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="P6gjFtly_nI" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="P6gjFtly_nI" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CA4QzRooCw" href="/watch?v=zX8nZI8U9XY" rel="spf-prefetch" title="Sade - The Best Of Sade (Full Album)"> <span aria-describedby="description-id-204114" class="title" dir="ltr">
+    Sade - The Best Of Sade (Full Album)
+  </span>
+<span class="accessible-description" id="description-id-204114">
+       - Duration: 1:15:04.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCn_cTBTFjHu_V0fw_S8WwoQ">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCn_cTBTFjHu_V0fw_S8WwoQ">Sony Music UK</span>
+</span>
+</span>
+<span class="stat view-count">2,556,479 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CA4QzRooCw" href="/watch?v=zX8nZI8U9XY" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="zX8nZI8U9XY" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/zX8nZI8U9XY/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:15:04
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="zX8nZI8U9XY" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="zX8nZI8U9XY" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="zX8nZI8U9XY" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="zX8nZI8U9XY" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CA8QzRooDA" href="/watch?v=Schqd6TtbyQ" rel="spf-prefetch" title="Rolling Stones - Greatest Hits  (Full Album)"> <span aria-describedby="description-id-640971" class="title" dir="ltr">
+    Rolling Stones - Greatest Hits  (Full Album)
+  </span>
+<span class="accessible-description" id="description-id-640971">
+       - Duration: 1:23:15.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCBpG_gx__cjBwxg5whR0Xsg">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCBpG_gx__cjBwxg5whR0Xsg">soundcandy33</span>
+</span>
+</span>
+<span class="stat view-count">1,607,955 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CA8QzRooDA" href="/watch?v=Schqd6TtbyQ" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="Schqd6TtbyQ" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/Schqd6TtbyQ/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:23:15
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="Schqd6TtbyQ" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="Schqd6TtbyQ" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Schqd6TtbyQ" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="Schqd6TtbyQ" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBAQzRooDQ" href="/watch?v=ZFAZmhJN38w" rel="spf-prefetch" title="ABBA in Australia HQ (TV show) 41mn"> <span aria-describedby="description-id-862912" class="title" dir="ltr">
+    ABBA in Australia HQ (TV show) 41mn
+  </span>
+<span class="accessible-description" id="description-id-862912">
+       - Duration: 41:02.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCg2kK3ahZNsW9t0fCA-GV0w">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCg2kK3ahZNsW9t0fCA-GV0w">ABBA RICO</span>
+</span>
+</span>
+<span class="stat view-count">263,940 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBAQzRooDQ" href="/watch?v=ZFAZmhJN38w" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="ZFAZmhJN38w" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/ZFAZmhJN38w/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      41:02
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="ZFAZmhJN38w" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="ZFAZmhJN38w" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="ZFAZmhJN38w" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="ZFAZmhJN38w" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBEQzRooDg" href="/watch?v=MInlPBLOaro" rel="spf-prefetch" title="Enya Greatest Hits - Full Video Album HD"> <span aria-describedby="description-id-701056" class="title" dir="ltr">
+    Enya Greatest Hits - Full Video Album HD
+  </span>
+<span class="accessible-description" id="description-id-701056">
+       - Duration: 2:09:52.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCaBr-6Tomfoj0gUsAmcur1w">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCaBr-6Tomfoj0gUsAmcur1w">Fox Zeint</span>
+</span>
+</span>
+<span class="stat view-count">919,228 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBEQzRooDg" href="/watch?v=MInlPBLOaro" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="MInlPBLOaro" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/MInlPBLOaro/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      2:09:52
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="MInlPBLOaro" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="MInlPBLOaro" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="MInlPBLOaro" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="MInlPBLOaro" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBIQzRooDw" href="/watch?v=fGMHwODIpL4" rel="spf-prefetch" title="Chicago - 'The Story'   Complete Greatest Hits  (Full Album)"> <span aria-describedby="description-id-379694" class="title" dir="ltr">
+    Chicago - 'The Story'   Complete Greatest Hits  (Full Album)
+  </span>
+<span class="accessible-description" id="description-id-379694">
+       - Duration: 1:12:58.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCTQ_ZSfgDWvUhLcCe_KzIzA">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCTQ_ZSfgDWvUhLcCe_KzIzA">candychannel24</span>
+</span>
+</span>
+<span class="stat view-count">736,605 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBIQzRooDw" href="/watch?v=fGMHwODIpL4" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="fGMHwODIpL4" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/fGMHwODIpL4/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:12:58
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="fGMHwODIpL4" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="fGMHwODIpL4" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="fGMHwODIpL4" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="fGMHwODIpL4" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBMQzRooEA" href="/watch?v=nYCcpp9RjzM" rel="spf-prefetch" title="Simply The Best Of 60s Vol II (Full Album)"> <span aria-describedby="description-id-426470" class="title" dir="ltr">
+    Simply The Best Of 60s Vol II (Full Album)
+  </span>
+<span class="accessible-description" id="description-id-426470">
+       - Duration: 59:28.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCUBSQOkAlpVNbk4m80cYrZg">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCUBSQOkAlpVNbk4m80cYrZg">Bunnymen</span>
+</span>
+</span>
+<span class="stat view-count">139,156 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBMQzRooEA" href="/watch?v=nYCcpp9RjzM" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="nYCcpp9RjzM" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/nYCcpp9RjzM/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      59:28
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="nYCcpp9RjzM" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="nYCcpp9RjzM" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="nYCcpp9RjzM" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="nYCcpp9RjzM" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBQQzRooEQ" href="/watch?v=C2sFSbn7ZIw" rel="spf-prefetch" title="R.E.M. - Best of R.E.M. - In Time (1988 - 2003) - Full album."> <span aria-describedby="description-id-872789" class="title" dir="ltr">
+    R.E.M. - Best of R.E.M. - In Time (1988 - 2003) - Full album.
+  </span>
+<span class="accessible-description" id="description-id-872789">
+       - Duration: 1:16:30.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCJ3qCI2Uu3Vr_SEKr524Fvg">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCJ3qCI2Uu3Vr_SEKr524Fvg">Jenn Aaron</span>
+</span>
+</span>
+<span class="stat view-count">1,088,588 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBQQzRooEQ" href="/watch?v=C2sFSbn7ZIw" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="C2sFSbn7ZIw" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/C2sFSbn7ZIw/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:16:30
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="C2sFSbn7ZIw" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="C2sFSbn7ZIw" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="C2sFSbn7ZIw" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="C2sFSbn7ZIw" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBUQzRooEg" href="/watch?v=G6noXtgBy68" rel="spf-prefetch" title="ABBA REUNION - THIS IS IT - APRIL 2014"> <span aria-describedby="description-id-922054" class="title" dir="ltr">
+    ABBA REUNION - THIS IS IT - APRIL 2014
+  </span>
+<span class="accessible-description" id="description-id-922054">
+       - Duration: 1:00.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCYRZzQSxqLphaILGq_WDL2Q">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCYRZzQSxqLphaILGq_WDL2Q">ABBAVIDEOEDITS</span>
+</span>
+</span>
+<span class="stat view-count">697,842 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBUQzRooEg" href="/watch?v=G6noXtgBy68" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="G6noXtgBy68" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/G6noXtgBy68/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:00
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="G6noXtgBy68" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="G6noXtgBy68" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="G6noXtgBy68" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="G6noXtgBy68" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li><li class="video-list-item related-list-item "> <div class="content-wrapper">
+<a class="content-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBYQzRooEw" href="/watch?v=GQ1uHdQ67rc" rel="spf-prefetch" title="ABBA, 15 Grandes Exitos De Oro, Romanticas Español,  De Antaño Mix"> <span aria-describedby="description-id-492119" class="title" dir="ltr">
+    ABBA, 15 Grandes Exitos De Oro, Romanticas Español,  De Antaño Mix
+  </span>
+<span class="accessible-description" id="description-id-492119">
+       - Duration: 1:04:52.
+    </span>
+<span class="stat attribution">
+<span class="g-hovercard" data-name="related" data-ytid="UCbLZb317uGcbSUzRZFRYtVw">
+        by <span class=" g-hovercard" data-name="" data-ytid="UCbLZb317uGcbSUzRZFRYtVw">Romanticas para ti</span>
+</span>
+</span>
+<span class="stat view-count">109,276 views</span>
+</a>
+</div>
+<div class="thumb-wrapper">
+<a aria-hidden="true" class=" thumb-link spf-link yt-uix-sessionlink" data-sessionlink="feature=related&amp;ei=-kbZVO8H1Y6qBc3MgOgM&amp;ved=CBYQzRooEw" href="/watch?v=GQ1uHdQ67rc" rel="spf-prefetch"><span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="GQ1uHdQ67rc" tabindex="0"><img alt="" aria-hidden="true" data-thumb="//i.ytimg.com/vi/GQ1uHdQ67rc/default.jpg" height="90" src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120"/></span></a>
+<span class="video-time">
+      1:04:52
+    </span>
+<span class="thumb-menu dark-overflow-action-menu video-actions">
+<button aria-expanded="false" aria-haspopup="true" class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" onclick=";return false;" type="button"><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu" style="display: none;"><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" data-video-ids="GQ1uHdQ67rc" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play next</span></li><li class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" data-video-ids="GQ1uHdQ67rc" onclick=";return false;" role="menuitem"><span class="addto-watch-queue-menu-text">Play now</span></li></ul></button>
+</span>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="GQ1uHdQ67rc" onclick=";return false;" role="button" title="Watch Later" type="button"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+<button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" data-style="tv-queue" data-video-ids="GQ1uHdQ67rc" onclick=";return false;" title="TV Queue" type="button"></button>
+</div>
+</li>
+<div class="hid" id="watch-more-related">
+<li id="watch-more-related-loading">
+Loading more suggestions...
+    </li>
+</div>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-expander" data-button-action="yt.www.watch.related.loadMore" data-continuation="CBQSDRILNkl3N3VjZDZfcUUYAA%3D%3D" id="watch-more-related-button" onclick=";return false;" type="button"><span class="yt-uix-button-content">Show more </span></button>
+</ul>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="watch7-hidden-extras">
+<div style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;">
+</div>
+</div>
+</div>
+</div></div></div></div> <div class="yt-base-gutter" id="footer-container"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/" title="YouTube home"><span class="footer-logo-icon yt-sprite"></span></a></div> <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+<li>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-button-toggle="true" data-picker-key="language" data-picker-position="footer" id="yt-picker-language-button" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-language yt-sprite"></span></span><span class="yt-uix-button-content"> <span class="yt-picker-button-label">
+Language:
+  </span>
+  English
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+</li>
+<li>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-button-toggle="true" data-picker-key="country" data-picker-position="footer" id="yt-picker-country-button" onclick=";return false;" type="button"><span class="yt-uix-button-content"> <span class="yt-picker-button-label">
+Country:
+  </span>
+  Worldwide
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+</li>
+<li>
+<button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" data-button-action="yt.www.picker.load" data-button-menu-id="arrow-display" data-button-toggle="true" data-picker-key="safetymode" data-picker-position="footer" id="yt-picker-safetymode-button" onclick=";return false;" type="button"><span class="yt-uix-button-content"> <span class="yt-picker-button-label">
+Safety:
+  </span>
+Off
+ </span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+</li>
+</ul>
+<a class="yt-uix-button footer-history yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon" data-sessionlink="ei=-kbZVO8H1Y6qBc3MgOgM" href="/feed/history"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-history yt-sprite"></span></span><span class="yt-uix-button-content">History </span></a> <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon yt-uix-button-reverse yt-google-help-link inq-no-click " data-ghelp-anchor="google-help" data-ghelp-tracking-param="" id="google-help" onclick=";return false;" type="button"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-questionmark yt-sprite"></span></span><span class="yt-uix-button-content">Help
+ </span></button>
+<div class="yt-picker" id="yt-picker-language-footer" style="display: none">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+<div class="yt-picker" id="yt-picker-country-footer" style="display: none">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+<div class="yt-picker" id="yt-picker-safetymode-footer" style="display: none">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div><div id="footer-links"><ul id="footer-links-primary"> <li><a href="//www.youtube.com/yt/about/">About</a></li>
+<li><a href="//www.youtube.com/yt/press/">Press &amp; Blogs</a></li>
+<li><a href="//www.youtube.com/yt/copyright/">Copyright</a></li>
+<li><a href="//www.youtube.com/yt/creators/">Creators &amp; Partners</a></li>
+<li><a href="//www.youtube.com/yt/advertise/">Advertising</a></li>
+<li><a href="//www.youtube.com/yt/dev/">Developers</a></li>
+<li><a dir="ltr" href="https://plus.google.com/+youtube">+YouTube</a></li>
+</ul><ul id="footer-links-secondary"> <li><a href="/t/terms">Terms</a></li>
+<li><a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a></li>
+<li><a href="//www.youtube.com/yt/policyandsafety/">
+Policy &amp; Safety
+  </a></li>
+<li><a class="reportbug" href="//support.google.com/youtube/?hl=en" onclick="return yt.www.feedback.start(59);">Send feedback</a></li>
+<li><a href="/testtube">Try something new!</a></li>
+<li></li>
+</ul></div></div></div>
+<div id="a11y-announcements"></div>
+<div class="yt-dialog hid " id="feed-privacy-lb" role="dialog">
+<div class="yt-dialog-base">
+<span class="yt-dialog-align"></span>
+<div class="yt-dialog-fg">
+<div class="yt-dialog-fg-content">
+<div class="yt-dialog-loading">
+<div class="yt-dialog-waiting-content">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+Loading...
+    </span>
+</p>
+</div>
+</div>
+<div class="yt-dialog-content">
+<div id="feed-privacy-dialog">
+</div>
+</div>
+<div class="yt-dialog-working">
+<div class="yt-dialog-working-overlay"></div>
+<div class="yt-dialog-working-bubble">
+<div class="yt-dialog-waiting-content">
+<p class="yt-spinner ">
+<span class="yt-spinner-img yt-sprite" title="Loading icon"></span>
+<span class="yt-spinner-message">
+        Working...
+    </span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hid" id="hidden-component-template-wrapper"> <div class="hid" id="shared-addto-watch-later-login">
+<a class="sign-in-link" href="https://accounts.google.com/ServiceLogin?passive=true&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fwatch%253Fv%253D6Iw7ucd6_qE%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26feature%3Dplaylist&amp;service=youtube">Sign in</a> to add this to Watch Later
+
+    </div>
+<div class="yt-ui-menu-content" id="yt-uix-videoactionmenu-menu">
+<div class="hide-on-create-pl-panel">
+<h3>
+Add to
+    </h3>
+</div>
+<div class="add-to-widget">
+</div>
+</div>
+</div> 
+
+
+ 
+
+<!-- Smart JS Insertion --></body></html>

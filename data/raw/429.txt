@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="noindex,nofollow" name="robots"/>
+<title>Broadway Show Tickets</title>
+<link href="/Content/Style.css" rel="stylesheet" type="text/css"/>
+<!-- Universal Analytics -->
+
+<!-- End Universal Analytics -->
+<!-- Start Facebook Remarketing  -->
+
+<noscript><img alt="" height="1" src="https://www.facebook.com/tr?id=682878898465597&amp;ev=NoScript" style="display:none" width="1"/></noscript>
+<!-- End Facebook Remarketing -->
+
+
+
+<!--[if lt IE 9]><script src="/Scripts/json2.js" type="text/javascript"></script><![endif]-->
+<!--[if IE]><script src="/Scripts/html5.js"></script><![endif]-->
+</head>
+<body>
+
+<noscript>
+<img height="1" src="HTTPS://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=503675&amp;ns=1" style="border:0" width="1"/>
+</noscript>
+<header>
+<div class="logo">
+<a href="#"><img alt="Broadway" onclick="if(confirm('Are you sure you want to abandon this order to return to Broadway.com?')){window.location='http://www.broadway.com';}" src="http://img.broadway.com/images/logo.png" title="Broadway"/></a>
+<div class="left">
+<img alt="MasterCard" src="http://img.broadway.com/images/MasterCard_BoxOffice_Header.jpg" title="MasterCard">
+</img></div>
+<div class="right">
+<a href="http://www.broadway.com/gift-certificates/" target="_blank"><img alt="Gift Cards" src="http://img.broadway.com/images/giftcards.png" title="Gift Cards"/></a>
+</div>
+</div>
+</header>
+<div class="redStripe">
+             </div>
+<section id="wrapper">
+<section id="customerCare">
+<div class="flr mr10 mt10">
+<a href="#" onclick="OpenFaqPopup();">
+<img alt="Want to talk to a human? We would love to hear from you! or Visit our Frequently Asked Questions" class="new_online_help_button" src="http://img.broadway.com/images/5027511.gif"/>
+</a>
+<img alt="1.800.276.2392" class="new_call_button" src="http://img.broadway.com/images/5027512.gif"/>
+</div>
+<div class="clear"></div>
+</section>
+<div class="mboxDefault"></div>
+
+
+
+<div class="dNone" id="loaderHolder">
+<div id="overlay">
+</div>
+<div id="loader">
+<div id="innerLoader">
+<img alt="Loading..." src="http://img.broadway.com/images/loader.gif"/><br/>
+            Please Wait...
+        </div>
+</div>
+</div>
+<div id="MainDiv">
+<div id="summary">
+
+<div id="ShowVenueInfo">
+<div class="title">
+<h1>The Lion King</h1>
+</div>
+<a href="#_" onclick="OpenShowPopup(1004);">
+<img alt="The Lion King" height="133" id="poster" src="http://d2npu017ljjude.cloudfront.net/images/poster-178275/w87/5293-1.jpg" title="The Lion King" width="87"/>
+</a>
+<span class="summaryTag"></span>
+</div>
+<div class="summaryDetails dNone">
+<div class="panel">
+<div class="b">
+                    Venue Details</div>
+                Minskoff Theatre, <br/>200 West 45th Street, <br/>New York, <br/>NY
+            </div>
+
+<div class="panel" id="PerformanceInfo">
+<div class="b">
+                    Performance</div>
+                Feb 12, 2015
+                <br/>
+                8:00 PM
+                <br/>
+<span class="btn-secondary mt05">
+<a class="OrderSummarylink" href="http://boxoffice.broadway.com/CalPoh?pOrderID=80236756&amp;pXref=E1B74057-3063-43E2-A78D-BBD243514365&amp;pOS=4">Change Date/Show</a>
+</span>
+</div>
+<div class="clear"></div>
+<div class="clear">
+</div>
+</div>
+</div>
+
+<div id="CalShowDiv">
+<div class="accordionButton fll activeAccord accordCal-btn silo">
+<a data-ajax="true" data-ajax-begin="setOverlayHeight" data-ajax-loading="#loaderHolder" data-ajax-method="Get" data-ajax-mode="replace" data-ajax-update="#MainDiv" href="/CalPoh/SelectCalendarDates?pOrderId=80236756&amp;pXref=E1B74057-3063-43E2-A78D-BBD243514365&amp;pMonth=2&amp;pYear=2015">When do you want to see the show?</a> </div>
+<div class="clear"></div>
+<div class="accordionButton activeAccord">
+<span>Choose your seats</span>
+</div>
+<div class="clear"></div>
+<div class="borderB">
+<form action="/CalPoh/SelectTixQty?pOrderId=80236756&amp;pXref=E1B74057-3063-43E2-A78D-BBD243514365" data-ajax="true" data-ajax-begin="setOverlayHeight" data-ajax-loading="#loaderHolder" data-ajax-method="Post" data-ajax-mode="replace" data-ajax-update="#dvSectionList" id="formTicket" method="post"> <div class="clear">
+</div>
+<div class="ml20 mt20">
+<h1 class="c2">
+<span>How many tickets would you like?</span> <select data-val="true" data-val-number="The field TicketQtyValue must be a number." data-val-required="The TicketQtyValue field is required." id="drpTicketQty" name="SelectedTicketQty.TicketQtyValue"><option selected="selected" value="0">--</option>
+<option value="1">1 Ticket</option>
+<option value="2">2 Tickets</option>
+<option value="3">3 Tickets</option>
+<option value="4">4 Tickets</option>
+<option value="5">5 Tickets</option>
+<option value="6">6 Tickets</option>
+<option value="7">7 Tickets</option>
+<option value="8">8 Tickets</option>
+<option value="9">9 Tickets</option>
+<option value="10">10 Tickets</option>
+<option value="11">11 Tickets</option>
+<option value="12">12 Tickets</option>
+<option value="13">13 Tickets</option>
+<option value="14">14 Tickets</option>
+<option value="15">15 Tickets</option>
+<option value="16">16 Tickets</option>
+<option value="17">17 Tickets</option>
+<option value="18">18 Tickets</option>
+<option value="19">19 Tickets</option>
+<option value="20">20 Tickets</option>
+</select>
+</h1>
+</div>
+</form><div id="dvSectionList">
+<form action="/CalPoh/CheckInventory?pOrderId=80236756&amp;pXref=E1B74057-3063-43E2-A78D-BBD243514365" data-ajax="true" data-ajax-begin="setOverlayHeight" data-ajax-complete="HideSectionList()" data-ajax-loading="#loaderHolder" data-ajax-method="Post" data-ajax-mode="replace" data-ajax-success="onSectionChangeSuccess" data-ajax-update="#CheckInventoryPopupDiv" id="formCheckInventory" method="post"> <!-- Antiforgery token to protect html form from CSRF(Cross site request forgery) attacks-->
+<input name="__RequestVerificationToken" type="hidden" value="WkXxW5gM5rgiRtjR9sQ12S6i_uycDrOXiF_UmmPM0-jzgNEyMoxhtoSh8dGNpasgi-6_SkfoV0VgxmV3M8_-e6SfLOmR1dayYrjG3G8CnE42h_BRvwquCNpfmKqiDCbt_pmJwA2"/><input data-val="true" data-val-number="The field TicketQtyValue must be a number." data-val-required="The TicketQtyValue field is required." id="hdnqty" name="SelectedTicketQty.TicketQtyValue" type="hidden" value="0"/><input id="hdnsectionattr" name="OrderEvent.Section.SectionAttributes" type="hidden" value=""/><input id="hdnsectiontypeid" name="SelectedSectionTypeid" type="hidden" value=""/><input id="hdnVenueSectionId" name="SelectedSectionId" type="hidden" value=""/><input id="hdnIsDeepLink" name="hdnIsDeepLink" type="hidden" value=""/><input data-val="true" data-val-required="The IsDeepLinkSeatsFound field is required." id="hdnDeepLinkSeatsFound" name="IsDeepLinkSeatsFound" type="hidden" value="False"/><input id="hdnDeepLinkSeatNumbers" name="DeepLinkSeatNumbers" type="hidden" value=""/><input data-val="true" data-val-number="The field AvailableSectionsCount must be a number." data-val-required="The AvailableSectionsCount field is required." id="hdnSectionsCount" name="AvailableSectionsCount" type="hidden" value="3"/>
+
+
+<div>
+<table class="webgrid mb10">
+<thead>
+<tr class="webgrid-header">
+<th scope="col">
+</th>
+<th scope="col">
+</th>
+<th scope="col">
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="webgrid-row-style">
+<td class="sectionName">
+<div class="bubbleInfo">
+<h1 class="trigger" desc="Located on the same level of the theater as the stage, this section gives you a great view from anywhere." id="trg794">Orchestra</h1>
+</div>
+<div class="w250">
+<b>Face Value: $102.00</b> <b> Fees: $35.70</b></div></td>
+<td class="sectionTotalPrice"><div class="w70">
+<b>$137.70</b></div></td>
+<td class="sectionSubmit">
+<div class="btnSelect">
+<div class="buy-tickets-link noFloat">
+<div class="btn-pill-sml noFloat">
+<div class="select">
+<input class="w56" onclick="javascript:TraceEvent();UpdateModelforCheckInventory('Orchestra|8|3|1059864|212327844|True|974|2');" type="submit" value="SELECT"/>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="webgrid-alternating-row">
+<td class="sectionName">
+<div class="bubbleInfo">
+<h1 class="trigger" desc="These seats are located in the rear and side sections of the orchestra." id="trg3570">Orchestra (Rear Sides)</h1>
+</div>
+<div class="w250">
+<b>Face Value: $92.00</b> <b> Fees: $32.20</b></div></td>
+<td class="sectionTotalPrice"><div class="w70">
+<b>$124.20</b></div></td>
+<td class="sectionSubmit">
+<div class="btnSelect">
+<div class="buy-tickets-link noFloat">
+<span class="btn-pill-sml btnDisable"><a class="select" href="#_" id="soldout">
+<input class="w56" onclick="javascript:return false" type="button" value="Sold Out"/>
+</a></span>
+<div class="clear"></div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="webgrid-row-style">
+<td class="sectionName">
+<div class="bubbleInfo">
+<h1 class="trigger" desc="Prime tickets are the best seats in the house, put aside by the producers of Broadway's hottest shows at an additional cost." id="trg3571">Mezzanine (Prime)</h1>
+</div>
+<div class="w250">
+<b>Face Value: $125.00</b> <b> Fees: $43.75</b></div></td>
+<td class="sectionTotalPrice"><div class="w70">
+<b>$168.75</b></div></td>
+<td class="sectionSubmit">
+<div class="btnSelect">
+<div class="buy-tickets-link noFloat">
+<span class="btn-pill-sml btnDisable"><a class="select" href="#_" id="soldout">
+<input class="w56" onclick="javascript:return false" type="button" value="Sold Out"/>
+</a></span>
+<div class="clear"></div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="webgrid-alternating-row">
+<td class="sectionName">
+<div class="bubbleInfo">
+<h1 class="trigger" desc="With sweeping views from the second level of the theater, these seats are located in the front part of the theater’s first balcony and offers the same quality of viewing as the orchestra." id="trg792">Front Mezzanine</h1>
+</div>
+<div class="w250">
+<b>Face Value: $115.00</b> <b> Fees: $40.25</b></div></td>
+<td class="sectionTotalPrice"><div class="w70">
+<b>$155.25</b></div></td>
+<td class="sectionSubmit">
+<div class="btnSelect">
+<div class="buy-tickets-link noFloat">
+<span class="btn-pill-sml btnDisable"><a class="select" href="#_" id="soldout">
+<input class="w56" onclick="javascript:return false" type="button" value="Sold Out"/>
+</a></span>
+<div class="clear"></div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="webgrid-row-style">
+<td class="sectionName">
+<div class="bubbleInfo">
+<h1 class="trigger" desc="These seats are located just above the rear orchestra on the second level of the theater." id="trg6363">Mezzanine </h1>
+</div>
+<div class="w250">
+<b>Face Value: $92.00</b> <b> Fees: $32.20</b></div></td>
+<td class="sectionTotalPrice"><div class="w70">
+<b>$124.20</b></div></td>
+<td class="sectionSubmit">
+<div class="btnSelect">
+<div class="buy-tickets-link noFloat">
+<div class="btn-pill-sml noFloat">
+<div class="select">
+<input class="w56" onclick="javascript:TraceEvent();UpdateModelforCheckInventory('Mezzanine |8|3|1059859|212327839|True|970|2');" type="submit" value="SELECT"/>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="webgrid-alternating-row">
+<td class="sectionName">
+<div class="bubbleInfo">
+<h1 class="trigger" desc="Premium tickets are the best seats in the house, put aside by the producers of Broadway's hottest shows at an additional cost." id="trg795">Premium Orchestra</h1>
+</div>
+<div class="w250">
+<b>Face Value: $215.00</b> <b> Fees: $75.25</b></div></td>
+<td class="sectionTotalPrice"><div class="w70">
+<b>$290.25</b></div></td>
+<td class="sectionSubmit">
+<div class="btnSelect">
+<div class="buy-tickets-link noFloat">
+<div class="btn-pill-sml noFloat">
+<div class="select">
+<input class="w56" onclick="javascript:TraceEvent();UpdateModelforCheckInventory('Premium Orchestra|8|3|1059858|212327838|True|968|1');" type="submit" value="SELECT"/>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</form>
+
+</div>
+<div id="CheckInventoryPopupDiv">
+</div>
+<div id="dvPohFlash" style="display:none">
+<input id="EventId" name="EventId" type="hidden" value="263990"/>
+<input id="VenueId" name="VenueId" type="hidden" value="32"/>
+<input id="VenueImageUrl" name="VenueImageUrl" type="hidden" value="http://d3rm69wky8vagu.cloudfront.net/seatmaps/images/5027941.png"/>
+<input id="SectionUrl" name="SectionUrl" type="hidden" value=""/>
+<input id="VenueSectionId" name="VenueSectionId" type="hidden" value=""/>
+<input id="Seats" name="Seats" type="hidden" value=""/>
+<input data-val="true" data-val-required="The IsDeepLinkFlash field is required." id="IsDeepLinkFlash" name="IsDeepLinkFlash" type="hidden" value="True"/>
+<div id="dvFlash"></div>
+<img alt="" id="venue_section_img" src="#" style="display: none" width="450"/><br/>
+
+
+
+</div>
+<div class="clear">
+</div>
+
+</div>
+<div class="clear"></div>
+</div>
+
+</div>
+
+
+<noscript>
+<img height="1" src="HTTP://bs.serving-sys.com/Serving?CN=DT&amp;TID=5905&amp;TVAL=1004X&amp;ns=1" style="border:0" width="1"/>
+</noscript>
+</section>
+<footer id="footer">
+<div class="footer-links">
+<a href="http://www.broadway.com/" target="_blank">Home</a> |
+            <a href="http://www.broadway.com/about-us/" target="_blank">About Us</a> |
+            <a href="http://www.broadway.com/privacy-policy/" target="_blank">Privacy Policy</a> |
+            <a href="http://www.broadway.com/customer-service/" target="_blank">Customer Service</a>
+<div class="clear"></div>
+</div>
+<div class="clearfix" id="footest">
+<span class="phone">1.800.BROADWAY</span>
+<span class="copyright">© 2014 Broadway.com, Inc.</span>
+</div>
+
+
+
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067883675/?value=0&amp;guid=ON&amp;script=0" style="border­style:none;" width="1"/>
+</div>
+</noscript>
+<input id="hdnVersion" name="hdnVersion" type="hidden" value="2.38.65.0"/>
+</footer>
+</body>
+</html>

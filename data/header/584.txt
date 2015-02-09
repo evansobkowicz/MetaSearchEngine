@@ -1,0 +1,12 @@
+Title: Madonna.com > Home
+Date: Mon, 09 Feb 2015 23:44:59 GMT
+Server: Apache/2.4.10 (Fedora) PHP/5.5.18
+X-Powered-By: PHP/5.5.18
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=ISO_8859-1
+Set-Cookie: PHPSESSID=jirmgqdte0e13o5jsfpdaj5cg2; path=/
+Connection: close
+Transfer-Encoding: chunked
+

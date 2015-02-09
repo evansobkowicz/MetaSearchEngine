@@ -1,0 +1,13 @@
+Title: Elvis Presley - IMDb
+Date: Mon, 09 Feb 2015 23:44:48 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYpNFtsx8W9HhLKijTcpgorIi4EhCCfrc1s2bpstJFUc5u6tf0lJE9moXP4Mrp8HTujKSOEJ9pA%0D%0AIFSFEkaTCh88Eg8SnQi9ZT4yzQ1LIFQXWTvJukwvVdpHdYnMCSEtHitVLuaLnKcghXSCV6waHlop%0D%0AlgkCtUPf2b52xcQytkYVyNicFCeafEMl7kVkGsUyfmrHAkM7mycQLMdfIZyrHNrCIi5NW-rMkJSi%0D%0AgsAyG1TKc03Sp1z-qIx92qlg-EDQ6fSED6y2VLvmusSV1NnhDv7HqQ%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:58:55 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:58:55 GMT; Path=/
+Set-Cookie: session-id-time=1581205488; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:58:55 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

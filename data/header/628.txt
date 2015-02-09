@@ -1,0 +1,20 @@
+Title: David Furnish - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=2213967; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 09 Feb 2015 23:05:30 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 3283866840 3282182569, 502546316 502210411
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:45:44 GMT
+Age: 1861
+Connection: close
+X-Cache: cp1067 hit (5), cp1052 frontend hit (1)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

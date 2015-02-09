@@ -1,0 +1,25 @@
+Title: Elton John (@eltonjohndotcom) | Twitter
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+connection: close
+content-length: 237135
+content-security-policy: default-src https:; connect-src https:; font-src https: data:; frame-src https: twitter:; frame-ancestors https:; img-src https: data:; media-src https:; object-src https:; script-src 'unsafe-inline' 'unsafe-eval' https:; style-src 'unsafe-inline' https:; report-uri https://twitter.com/i/csp_report?a=NVQWGYLXFVZXO2LGOQ%3D%3D%3D%3D%3D%3D&ro=false;
+content-type: text/html;charset=utf-8
+date: Mon, 09 Feb 2015 23:46:00 UTC
+expires: Tue, 31 Mar 1981 05:00:00 GMT
+last-modified: Mon, 09 Feb 2015 23:46:00 GMT
+ms: A
+pragma: no-cache
+server: tsa_b
+set-cookie: _twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCJpBvHBLAToMY3NyZl9p%250AZCIlNDZiYmQ5NTg4NjQ1OTIyMmRiZjRjNDQwZGNlMzM2Mzc6B2lkIiU2MjY1%250AZDQzZTYyZTQ0MmQzZGViOWQyZTcxNTU1MDQ5Mw%253D%253D--996211a3b54b7b9da9992e5b69518e1dfb022f3c; Path=/; Domain=.twitter.com; Secure; HTTPOnly
+set-cookie: guest_id=v1%3A142352556072987742; Domain=.twitter.com; Path=/; Expires=Wed, 08-Feb-2017 23:46:00 UTC
+status: 200 OK
+strict-transport-security: max-age=631138519
+x-connection-hash: fca2595b9992e10cd8554d642cdfc0db
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-response-time: 93
+x-transaction: 411bf97b4036631f
+x-twitter-response-tags: BouncerCompliant
+x-ua-compatible: IE=edge,chrome=1
+x-xss-protection: 1; mode=block
+

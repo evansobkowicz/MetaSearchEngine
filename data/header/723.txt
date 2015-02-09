@@ -1,0 +1,12 @@
+Title: Mariah Carey Archive - SAWFIRST | Hot Celebrity Pictures
+Date: Mon, 09 Feb 2015 23:47:52 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.30
+X-Pingback: http://www.sawfirst.com/xmlrpc.php
+Vary: Accept-Encoding,User-Agent
+Cache-Control: max-age=0, public
+Expires: Mon, 09 Feb 2015 23:47:52 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+

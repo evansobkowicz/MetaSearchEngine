@@ -1,0 +1,13 @@
+Title: Toy Story 3 (2010) - IMDb
+Date: Mon, 09 Feb 2015 23:40:18 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYl9gyCEjlh4_sBjcBWwPC71OcdgP_Cj2sKe3aJ9d6dpD78YaTH2NJnEFpQ2k5SZ25tup4YSGG7%0D%0ABdAb9j7mNpQpjVN0sBs3EAv1PDJfbk_qA5IwZI0rE7ApDgVuB7BSY3TZ9MsXyYra_ZUnDDTOc4_X%0D%0AUwGMZ2_b_H-gvh3pjpiCwg31bD7jJ_-hnzlXUIenkCwJIB3M994yAtP4CSwkDh4w7nmDu9AROQl9%0D%0AwDMR7L7L0bZ2IuoDys6yCvzUY_Z4e_M1_lJbbGn0UV51fN34W6Ga8g%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:54:26 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:54:26 GMT; Path=/
+Set-Cookie: session-id-time=1581205218; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:54:26 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

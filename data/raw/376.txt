@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>The Hatter - Wikipedia, the free encyclopedia</title>
+<meta content="MediaWiki 1.25wmf15" name="generator"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Hatter" rel="alternate"/>
+<link href="/w/index.php?title=The_Hatter&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=The_Hatter&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="/wiki/The_Hatter" hreflang="x-default" rel="alternate"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="http://en.wikipedia.org/wiki/The_Hatter" rel="canonical"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+
+
+
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Hatter skin-vector action-view vector-animateLayout">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><span dir="auto">The Hatter</span></h1>
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote">For other uses, see <a class="mw-disambig" href="/wiki/Hatter_(disambiguation)" title="Hatter (disambiguation)">Hatter (disambiguation)</a> and <a class="mw-disambig" href="/wiki/Mad_Hatter_(disambiguation)" title="Mad Hatter (disambiguation)">Mad Hatter (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em;border-spacing: 2px 5px;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #DEDEE2; color: #000;">The Hatter</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice</a></i> character</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:MadlHatterByTenniel.svg"><img alt="MadlHatterByTenniel.svg" data-file-height="431" data-file-width="379" height="284" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/MadlHatterByTenniel.svg/250px-MadlHatterByTenniel.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/MadlHatterByTenniel.svg/375px-MadlHatterByTenniel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/MadlHatterByTenniel.svg/500px-MadlHatterByTenniel.svg.png 2x" width="250"/></a>
+<div>The Hatter as depicted by <a class="mw-redirect" href="/wiki/Sir_John_Tenniel" title="Sir John Tenniel">Sir John Tenniel</a>, reciting his nonsensical poem, "<a href="/wiki/Twinkle,_Twinkle,_Little_Bat" title="Twinkle, Twinkle, Little Bat">Twinkle, Twinkle, Little Bat</a>"</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">First appearance</th>
+<td><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a></i></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Last appearance</th>
+<td><i><a class="mw-redirect" href="/wiki/Through_the_Looking_Glass" title="Through the Looking Glass">Through the Looking Glass</a></i></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Created by</th>
+<td>Lewis Carroll</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #DEDEE2; color: #000;">Information</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Aliases</th>
+<td>Mad Hatter<br/>
+Hatta</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Species</th>
+<td><a href="/wiki/Human" title="Human">Human</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Gender</th>
+<td>Male</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Occupation</th>
+<td>Hatter/messenger</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/Significant_other" title="Significant other">Significant other</a>(s)</th>
+<td><a href="/wiki/March_Hare" title="March Hare">March Hare</a><br/>
+<a href="/wiki/The_Dormouse" title="The Dormouse">The Dormouse</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Nationality</th>
+<td><a href="/wiki/Wonderland_(fictional_country)" title="Wonderland (fictional country)">Wonderland</a>/<a href="/wiki/Looking-Glass_Land" title="Looking-Glass Land">Looking-Glass Land</a></td>
+</tr>
+</table>
+<p><b>The Hatter</b> (called <b>Hatta</b> in <i><a href="/wiki/Through_the_Looking-Glass" title="Through the Looking-Glass">Through the Looking-Glass</a></i>) is a fictional character in <a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a>'s <i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a></i> and its sequel <i>Through the Looking-Glass</i>. He is often referred to as the <b>Mad Hatter</b>, though this term was never used by Carroll. The phrase "<a href="/wiki/Mad_as_a_hatter" title="Mad as a hatter">mad as a hatter</a>" pre-dates Carroll's works and the characters the Hatter and the <a href="/wiki/March_Hare" title="March Hare">March Hare</a> are initially referred to as "both <i><a href="/wiki/Insanity" title="Insanity">mad</a></i>" by the <a href="/wiki/Cheshire_Cat" title="Cheshire Cat">Cheshire Cat</a>, with both first appearing in <i>Alice's Adventures in Wonderland</i>, in the seventh chapter titled "A Mad Tea-Party".</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Appearances_in_the_Alice_books"><span class="tocnumber">1</span> <span class="toctext">Appearances in the <i>Alice</i> books</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mad_as_a_hatter"><span class="tocnumber">2</span> <span class="toctext">Mad as a hatter</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Model"><span class="tocnumber">3</span> <span class="toctext">Model</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#10.2F6"><span class="tocnumber">4</span> <span class="toctext">10/6</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#The_Hatter.27s_riddle"><span class="tocnumber">5</span> <span class="toctext">The Hatter's riddle</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Adaptations"><span class="tocnumber">6</span> <span class="toctext">Adaptations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Batman"><span class="tocnumber">6.1</span> <span class="toctext">Batman</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Disney"><span class="tocnumber">6.2</span> <span class="toctext">Disney</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#1951"><span class="tocnumber">6.2.1</span> <span class="toctext">1951</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#2010_film"><span class="tocnumber">6.2.2</span> <span class="toctext">2010 film</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Wonderland:_A_New_Alice"><span class="tocnumber">6.3</span> <span class="toctext"><i>Wonderland: A New Alice</i></span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#American_McGee.27s_Alice"><span class="tocnumber">6.4</span> <span class="toctext"><i>American McGee's Alice</i></span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#The_Looking_Glass_Wars"><span class="tocnumber">6.5</span> <span class="toctext"><i>The Looking Glass Wars</i></span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Alice_in_the_Country_of_Hearts"><span class="tocnumber">6.6</span> <span class="toctext"><i>Alice in the Country of Hearts</i></span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Charisma_Label"><span class="tocnumber">6.7</span> <span class="toctext">Charisma Label</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Pandora_Hearts"><span class="tocnumber">6.8</span> <span class="toctext">Pandora Hearts</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Futurama"><span class="tocnumber">6.9</span> <span class="toctext"><i>Futurama</i></span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Once_Upon_a_Time"><span class="tocnumber">6.10</span> <span class="toctext"><i>Once Upon a Time</i></span></a>
+<ul>
+<li class="toclevel-3 tocsection-19"><a href="#Season_1"><span class="tocnumber">6.10.1</span> <span class="toctext">Season 1</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Season_2"><span class="tocnumber">6.10.2</span> <span class="toctext">Season 2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-21"><a href="#Mad_T_Party"><span class="tocnumber">6.11</span> <span class="toctext"><i>Mad T Party</i></span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Ouran_High_School_Host_Club"><span class="tocnumber">6.12</span> <span class="toctext"><i>Ouran High School Host Club</i></span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Code_Geass:_Nunnally_in_Wonderland"><span class="tocnumber">6.13</span> <span class="toctext"><i>Code Geass: Nunnally in Wonderland</i></span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Alice:_Madness_Returns"><span class="tocnumber">6.13.1</span> <span class="toctext">Alice: Madness Returns</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#We.27re_All_Made_Here"><span class="tocnumber">6.13.2</span> <span class="toctext">We're All Made Here</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Appearances_in_the_Alice_books">Appearances in the <i>Alice</i> books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=1" title="Edit section: Appearances in the Alice books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Alice_par_John_Tenniel_27.png"><img alt="" class="thumbimage" data-file-height="596" data-file-width="680" height="193" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alice_par_John_Tenniel_27.png/220px-Alice_par_John_Tenniel_27.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alice_par_John_Tenniel_27.png/330px-Alice_par_John_Tenniel_27.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alice_par_John_Tenniel_27.png/440px-Alice_par_John_Tenniel_27.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Alice_par_John_Tenniel_27.png" title="Enlarge"></a></div>
+The <a href="/wiki/March_Hare" title="March Hare">March Hare</a> and the Hatter put the Dormouse's head in a teapot. Illustration by <a href="/wiki/John_Tenniel" title="John Tenniel">John Tenniel</a>.</div>
+</div>
+</div>
+<p>The Hatter explains to Alice that he and the <a href="/wiki/March_Hare" title="March Hare">March Hare</a> are always having tea because, when he tried to sing for the <a href="/wiki/Queen_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Queen of Hearts (Alice's Adventures in Wonderland)">Queen of Hearts</a> at her celebration, she <a href="/wiki/Capital_punishment" title="Capital punishment">sentenced him to death</a> for "murdering the time," but he escapes <a href="/wiki/Decapitation" title="Decapitation">decapitation</a>. In retaliation, Time (referred to as a "Him") halts himself in respect to the Hatter, keeping him and the <a href="/wiki/March_Hare" title="March Hare">March Hare</a> stuck at 6:00 forever. The tea party, when Alice arrives, is characterised by switching places on the table at any given time, making short, personal remarks, asking unanswerable riddles and reciting nonsensical poetry, all of which eventually drive Alice away. He appears again as a witness at the <a href="/wiki/Knave_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Knave of Hearts (Alice's Adventures in Wonderland)">Knave of Hearts</a>' trial, where the <a href="/wiki/Queen_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Queen of Hearts (Alice's Adventures in Wonderland)">Queen</a> appears to recognise him as the singer she sentenced to death, and the <a href="/wiki/King_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="King of Hearts (Alice's Adventures in Wonderland)">King</a> also cautions him not to be nervous "or I'll have you executed on the spot."</p>
+<p>When the character makes his appearance as "Hatta" in <i><a href="/wiki/Through_the_Looking-Glass" title="Through the Looking-Glass">Through the Looking-Glass</a></i>, he is in trouble with the law once again. This time, however, he is not necessarily guilty: the <a class="mw-redirect" href="/wiki/White_Queen_(Through_the_Looking_Glass)" title="White Queen (Through the Looking Glass)">White Queen</a> explains that quite often subjects are punished before they commit a crime, rather than after, and sometimes they do not even commit it at all. He is also mentioned as being one of the <a class="mw-redirect" href="/wiki/White_King_(Through_the_Looking_Glass)" title="White King (Through the Looking Glass)">White King</a>'s messengers, and the March Hare appears as well as "Haigha", since the King explains that he needs two messengers: "one to come, and one to go." <a class="mw-redirect" href="/wiki/Sir_John_Tenniel" title="Sir John Tenniel">Sir John Tenniel</a>'s illustration also depicts him as sipping from a teacup as he did in the original novel, adding weight to Carroll's hint that the two characters are very much the same.</p>
+<h2><span class="mw-headline" id="Mad_as_a_hatter">Mad as a hatter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=2" title="Edit section: Mad as a hatter">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Mad_as_a_hatter" title="Mad as a hatter">Mad as a hatter</a></div>
+<p>Although the name "Mad Hatter" was clearly inspired by the phrase "as mad as a hatter", there is some uncertainty as to the origins of this phrase. <a href="/wiki/Mercury_(element)" title="Mercury (element)">Mercury</a> was used in the process of curing felt used in some hats, making it impossible for hatters to avoid inhaling the mercury fumes given off during the hat making process; hatters and mill workers thus often suffered mad hatter disease, <a href="/wiki/Mercury_poisoning" title="Mercury poisoning">mercury poisoning</a> causing <a href="/wiki/Neurology" title="Neurology">neurological</a> damage including confused speech and distorted vision.</p>
+<p>Hat making was the main trade in <a href="/wiki/Stockport" title="Stockport">Stockport</a>, near where Carroll grew up, and it was not unusual then for hatters to appear disturbed or confused; many died early as a result of mercury poisoning. However, the Hatter does not exhibit the symptoms of mercury poisoning, which include "excessive timidity, diffidence, increasing shyness, loss of self-confidence, anxiety, and a desire to remain unobserved and unobtrusive."<sup class="reference" id="cite_ref-Waldron_1-0"><a href="#cite_note-Waldron-1"><span>[</span>1<span>]</span></a></sup> The Hatter and the March Hare are initially referred to as "both mad" by the Cheshire Cat, and both first appear in the seventh chapter of <i>Alice's Adventures in Wonderland</i>, which is titled "A Mad Tea-Party".<sup class="reference" id="cite_ref-Alice_guttenburg_2-0"><a href="#cite_note-Alice_guttenburg-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Model">Model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=3" title="Edit section: Model">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It has been claimed that the Hatter's character may have been inspired by <a href="/wiki/Theophilus_Carter" title="Theophilus Carter">Theophilus Carter</a>, an eccentric furniture dealer. Carter was supposedly at one time a <a href="/wiki/Servitor" title="Servitor">servitor</a> at <a href="/wiki/Christ_Church,_Oxford" title="Christ Church, Oxford">Christ Church</a>, one of the <a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a>'s colleges. This is not substantiated by university records. He later owned a furniture shop, and became known as "the Mad Hatter" from his habit of standing in the door of his shop wearing a top hat. Sir <a href="/wiki/John_Tenniel" title="John Tenniel">John Tenniel</a> is reported to have come to Oxford especially to sketch him for his illustrations.<sup class="reference" id="cite_ref-Waldron_1-1"><a href="#cite_note-Waldron-1"><span>[</span>1<span>]</span></a></sup> There is no evidence for this claim, however, in either Carroll's letters or diaries.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:277px;"><a class="image" href="/wiki/File:Teaparty.svg"><img alt="" class="thumbimage" data-file-height="487" data-file-width="640" height="209" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Teaparty.svg/275px-Teaparty.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Teaparty.svg/413px-Teaparty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Teaparty.svg/550px-Teaparty.svg.png 2x" width="275"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Teaparty.svg" title="Enlarge"></a></div>
+The March Hare's tea party with Alice, the March Hare, the Dormouse, and the Hatter.</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="10.2F6">10/6</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=4" title="Edit section: 10/6">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tenniel's illustrations show a card or label in the Hatter's hatband reading "In this style 10/6". This is the hat's pricetag, indicative of his trade, and giving the price in <a class="mw-redirect" href="/wiki/British_coinage#Pre-decimal_coinage" title="British coinage">pre-decimal British money</a> as ten <a href="/wiki/Shilling" title="Shilling">shillings</a> and six <a href="/wiki/Penny" title="Penny">pence</a> (or half a <a href="/wiki/Guinea_(British_coin)" title="Guinea (British coin)">guinea</a>). In decimal money, this would be 52½p.</p>
+<h2><span class="mw-headline" id="The_Hatter.27s_riddle">The Hatter's riddle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=5" title="Edit section: The Hatter's riddle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the chapter "A Mad Tea Party," the Hatter asks a much-noted <a href="/wiki/Riddle" title="Riddle">riddle</a>: "Why is a <a href="/wiki/Raven" title="Raven">raven</a> like a writing desk?" When Alice gives up, the Hatter admits: "I haven't the slightest idea." Lewis Carroll originally intended the riddle to be without an answer; but after many requests from readers, he and others — including puzzle expert <a href="/wiki/Sam_Loyd" title="Sam Loyd">Sam Loyd</a> — suggested possible answers. In his preface to the 1896 edition, Carroll wrote:</p>
+<blockquote class="templatequote">
+<p>Enquiries have been so often addressed to me, as to whether any answer to the Hatter’s Riddle can be imagined, that I may as well put on record here what seems to me to be a fairly appropriate answer: "Because it can produce a few notes, though they are very flat; and it is nevar [<i>sic</i>] put with the wrong end in front!" This, however, is merely an afterthought; the riddle as originally invented had no answer at all.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+</blockquote>
+<p>Note that "nevar" is "raven" spelled "with the wrong end in front" (that is, backwards).</p>
+<p>Loyd proposed a number of alternative solutions to the riddle, including "Because <a href="/wiki/Edgar_Allan_Poe" title="Edgar Allan Poe">Poe</a> wrote on both" (alluding to <i><a href="/wiki/The_Raven" title="The Raven">The Raven</a></i>) and "Because the notes for which they are noted are not noted for being musical notes."<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>American author <a href="/wiki/Stephen_King" title="Stephen King">Stephen King</a> provides an alternative answer to the Hatter's riddle in his 1977 horror novel <i><a href="/wiki/The_Shining_(novel)" title="The Shining (novel)">The Shining</a>.</i> Snowbound and isolated "ten thousand feet high" in the <a href="/wiki/Rocky_Mountains" title="Rocky Mountains">Rocky Mountains</a>, young Danny Torrance (the son of a writer) hears whispers of the malign "voice of the [Overlook] hotel" inside his head — including this bit of mockery:</p>
+<blockquote class="templatequote">
+<p><i>"Why is a raven like a writing desk? The higher the fewer, of course! Have another cup of tea!"</i><sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+</blockquote>
+<h2><span class="mw-headline" id="Adaptations">Adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=6" title="Edit section: Adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<table class="collapsible" style="width:95%; background:transparent;">
+<tr>
+<th style="text-align:left; padding:0.2em 2px 0.2em 0;">This section has multiple issues. <span style="font-weight: normal;">Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=The_Hatter&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:The_Hatter" title="Talk:The Hatter">talk page</a></b>.</span></th>
+</tr>
+<tr>
+<td>
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="204" data-file-width="262" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=The_Hatter&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(February 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Original_research" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=The_Hatter&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span> <small><i>(February 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section contains <a href="/wiki/Wikipedia:Manual_of_Style/Embedded_lists" title="Wikipedia:Manual of Style/Embedded lists">embedded lists</a> that <b>may be poorly defined, <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">unverified</a> or <a class="mw-redirect" href="/wiki/Wikipedia:NOT#IINFO" title="Wikipedia:NOT">indiscriminate</a></b>. <span class="hide-when-compact">Please help to <a class="external text" href="//en.wikipedia.org/w/index.php?title=The_Hatter&amp;action=edit">clean it up</a> to meet Wikipedia's quality standards. Where appropriate, incorporate items into the main body of the article.</span> <small><i>(February 2013)</i></small></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The Hatter has been featured in nearly every adaptation of <i>Alice in Wonderland</i> to date; he is usually the male lead. The character has been portrayed in film by <a href="/wiki/Edward_Everett_Horton" title="Edward Everett Horton">Edward Everett Horton</a>, <a href="/wiki/Robert_Helpmann" title="Robert Helpmann">Sir Robert Helpmann</a>, <a href="/wiki/Martin_Short" title="Martin Short">Martin Short</a>, <a href="/wiki/Peter_Cook" title="Peter Cook">Peter Cook</a>, <a href="/wiki/Anthony_Newley" title="Anthony Newley">Anthony Newley</a>, <a href="/wiki/Ed_Wynn" title="Ed Wynn">Ed Wynn</a>, <a href="/wiki/Andrew-Lee_Potts" title="Andrew-Lee Potts">Andrew-Lee Potts</a>, and <a href="/wiki/Johnny_Depp" title="Johnny Depp">Johnny Depp</a>. In music videos, the Hatter has been portrayed by <a href="/wiki/Tom_Petty" title="Tom Petty">Tom Petty</a>, <a href="/wiki/Dero_Goi" title="Dero Goi">Dero Goi</a>, and <a href="/wiki/Steven_Tyler" title="Steven Tyler">Steven Tyler</a>. He has also been portrayed on stage by <a href="/wiki/Nikki_Snelson" title="Nikki Snelson">Nikki Snelson</a> and <a href="/wiki/Katherine_Shindle" title="Katherine Shindle">Katherine Shindle</a>, and on television by <a href="/wiki/John_Robert_Hoffman" title="John Robert Hoffman">John Robert Hoffman</a>, <a href="/wiki/Pip_Donaghy" title="Pip Donaghy">Pip Donaghy</a> and <a href="/wiki/Sebastian_Stan" title="Sebastian Stan">Sebastian Stan</a>. In ballet adaptations, <a href="/wiki/Steven_McRae" title="Steven McRae">Steven McRae</a> also portrayed him as a mad 'Tapper'.</p>
+<h3><span class="mw-headline" id="Batman">Batman</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=7" title="Edit section: Batman">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Mad_Hatter_(comics)" title="Mad Hatter (comics)">Mad Hatter (comics)</a></div>
+<p>The <a href="/wiki/Mad_Hatter_(comics)" title="Mad Hatter (comics)">Mad Hatter</a> (a.k.a.: Jervis Tetch) is a <a href="/wiki/Supervillain" title="Supervillain">supervillain</a> and enemy of the <a href="/wiki/Batman" title="Batman">Batman</a> in DC comic books, making his first appearance in October 1948 (<i>Batman</i> #49). The Hatter has gone through many changes in physical appearance over the years, but his basic look remains the same—short with large teeth, almost invariably wearing a large hat. While the Mad Hatter has no inherent superpowers, he is portrayed as a brilliant neurotechnician with considerable knowledge in how to dominate and control the human mind, either through hypnosis or direct technological means. In addition to comic books, the Mad Hatter has appeared in the <a href="/wiki/Batman_(TV_series)" title="Batman (TV series)">Batman television series</a>, <a href="/wiki/Batman:_The_Animated_Series" title="Batman: The Animated Series">animated series</a> and various video games.</p>
+<h3><span class="mw-headline" id="Disney">Disney</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=8" title="Edit section: Disney">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="1951">1951</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=9" title="Edit section: 1951">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the 1951 <a class="mw-redirect" href="/wiki/Disney" title="Disney">Disney</a> animated feature <i><a href="/wiki/Alice_in_Wonderland_(1951_film)" title="Alice in Wonderland (1951 film)">Alice in Wonderland</a></i>, the Hatter appears as a short, hyperactive man with grey hair, a large nose and a comical voice. He was voiced by <a href="/wiki/Ed_Wynn" title="Ed Wynn">Ed Wynn</a> in 1951, and by <a href="/wiki/Corey_Burton" title="Corey Burton">Corey Burton</a> in his later appearances (<a href="/wiki/Bonkers_(TV_series)" title="Bonkers (TV series)">Bonkers</a>, <a class="mw-redirect" href="/wiki/House_of_Mouse" title="House of Mouse">House of Mouse</a>). Alice stumbles upon the Hatter and the March Hare having an "un-birthday" party for themselves. She sits at the table and they both run toward her, telling her "it's <i>very</i> <i>very</i> rude to sit down without being invited", although they immediately forgive her after she compliments their singing. Alice asks what an "un-birthday" is and they explain that "there are 364 days of the year that <i>aren't</i> your birthday; those are un-birthdays." They throw Alice a small un-birthday party. They ask Alice where she came from but they never give Alice a chance to answer. The Hatter and the Hare offer Alice tea several times, but each time she is unable to even take a sip before being ushered to another seat at the table so that the members of the party may each have a "clean cup" to use. The Hatter asks her the infamous riddle "Why is a raven like a writing desk?" but when she tries to answer, the Hatter denies asking her the riddle. The White Rabbit then bursts in exclaiming that he is late. The Hatter and the Hare (unwittingly) vandalize his watch by putting numerous food items into it (claiming the watch is two days slow). The Hatter and the March Hare then kick the rabbit out and Alice follows him, as the Hatter and the Hare begin singing the un-birthday song yet again. Later in the film, the Queen of Hearts calls the <a href="/wiki/March_Hare" title="March Hare">March Hare</a>, the Hatter, and the <a class="mw-redirect" href="/wiki/Dormouse_(Alice%27s_Adventures_in_Wonderland)" title="Dormouse (Alice's Adventures in Wonderland)">Dormouse</a> to Alice's trial. She asks them what they know of the disaster during the croquet game. Instead of answering, they throw the Queen an un-birthday party that cheers her up.</p>
+<p>Throughout the course of the film, the Hatter pulls numerous items out of his hat, such as cake and smaller hats. He and the Hare also break the laws of physics more than once; they pour tea cups and plates out of tea kettles, and the Hatter is seen eating plates and other inedible items at the tea party, also the March Hare asks the Hatter for half a cup of tea, and the Hatter cuts his tea cup in half and pours him the tea. His personality is that of a child: he is angry one second but happy the next. He also takes an immediate liking to Alice after she tells him she's a fan of his singing.</p>
+<p>The Hatter and March Hare make a cameo appearance in a painting in the Tea Party Garden in the <i><a href="/wiki/Kingdom_Hearts" title="Kingdom Hearts">Kingdom Hearts</a></i> video game, and the Hatter is also a greetable character at the <a href="/wiki/Disneyland_Resort" title="Disneyland Resort">Disneyland Resort</a>, <a class="mw-redirect" href="/wiki/Walt_Disney_World_Resort" title="Walt Disney World Resort">Walt Disney World Resort</a>, <a href="/wiki/Tokyo_Disney_Resort" title="Tokyo Disney Resort">Tokyo Disney Resort</a>, <a class="mw-redirect" href="/wiki/Disneyland_Paris_Resort" title="Disneyland Paris Resort">Disneyland Paris Resort</a> and <a href="/wiki/Hong_Kong_Disneyland" title="Hong Kong Disneyland">Hong Kong Disneyland</a>. This version of the character was also a semi-regular on the <a class="mw-redirect" href="/wiki/Disney_Afternoon" title="Disney Afternoon">Disney Afternoon</a> series <i><a href="/wiki/Bonkers_(TV_series)" title="Bonkers (TV series)">Bonkers</a></i> and one of the guests in <i><a class="mw-redirect" href="/wiki/House_of_Mouse" title="House of Mouse">House of Mouse</a></i>, where he even made a cameo appearance in one of the featured cartoon shorts.</p>
+<h4><span class="mw-headline" id="2010_film">2010 film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=10" title="Edit section: 2010 film">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The Hatter appears in <a href="/wiki/Tim_Burton" title="Tim Burton">Tim Burton</a>'s <a href="/wiki/Alice_in_Wonderland_(2010_film)" title="Alice in Wonderland (2010 film)">2010 version of <i>Alice in Wonderland</i></a> portrayed by <a href="/wiki/Johnny_Depp" title="Johnny Depp">Johnny Depp</a> and given the name Tarrant Hightopp.<sup class="reference" id="cite_ref-script_6-0"><a href="#cite_note-script-6"><span>[</span>6<span>]</span></a></sup> In the film, the Hatter takes Alice toward the White Queen's castle and relates the terror of the Red Queen's reign while commenting that Alice is not the same as she once was. The Hatter subsequently helps Alice avoid capture by the Red Queen's guards by allowing himself to be seized instead. He is later saved from execution by the Cheshire Cat and calls for rebellion against the Red Queen. Near the end of the film, the Hatter unsuccessfully suggests to Alice that she could stay in Wonderland and consummate his feelings for her.</p>
+<p><a href="/wiki/Mia_Wasikowska" title="Mia Wasikowska">Mia Wasikowska</a>, who plays Alice in the film, said that the Hatter and Alice "both feel like outsiders and feel alone in their separate worlds, and have a special bond and friendship."<sup class="reference" id="cite_ref-.27.27Alice_in_Wonderland.27.27_star_Mia_Wasikowska_on_Johnny_Depp:_.27He.27s_so_brave_and_smart.27_7-0"><a href="#cite_note-.27.27Alice_in_Wonderland.27.27_star_Mia_Wasikowska_on_Johnny_Depp:_.27He.27s_so_brave_and_smart.27-7"><span>[</span>7<span>]</span></a></sup><sup class="reference" id="cite_ref-confirm_8-0"><a href="#cite_note-confirm-8"><span>[</span>8<span>]</span></a></sup> Burton explained that Depp "tried to find a grounding to the character ... as opposed to just being mad. In a lot of versions it's a very one-note kind of character and you know [Depp's] goal was to try and bring out a human side to the strangeness of the character."<sup class="reference" id="cite_ref-sdcc09_9-0"><a href="#cite_note-sdcc09-9"><span>[</span>9<span>]</span></a></sup> The Hatter's orange hair is an allusion to the <a href="/wiki/Mercury_poisoning" title="Mercury poisoning">mercury poisoning</a> suffered by <a href="/wiki/Hatmaking" title="Hatmaking">milliners</a> who used mercury to cure felt; Depp believes that the character "was poisoned ... and it was coming out through his hair, through his fingernails and eyes".<sup class="reference" id="cite_ref-Johnny_Depp_explains_how_he_picked_his_poison_with_the_Mad_Hatter_10-0"><a href="#cite_note-Johnny_Depp_explains_how_he_picked_his_poison_with_the_Mad_Hatter-10"><span>[</span>10<span>]</span></a></sup> Depp and Burton decided that the Hatter's clothes, skin, hair, personality and accent would change throughout the film to reflect his emotions.<sup class="reference" id="cite_ref-Johnny_Depp_is_Mad_11-0"><a href="#cite_note-Johnny_Depp_is_Mad-11"><span>[</span>11<span>]</span></a></sup> In an interview with Depp, the character was paralleled to "a <a href="/wiki/Mood_ring" title="Mood ring">mood ring</a>, [as] his emotions are <i>very</i> close to the surface".<sup class="reference" id="cite_ref-Johnny_Depp_Sets_Sail_on_Fourth_.27.27Pirates.27.27_Movie_12-0"><a href="#cite_note-Johnny_Depp_Sets_Sail_on_Fourth_.27.27Pirates.27.27_Movie-12"><span>[</span>12<span>]</span></a></sup> The Hatter is <a href="/wiki/Dissociative_identity_disorder" title="Dissociative identity disorder">"made up of different people and their extreme sides"</a>, with a gentle voice much like the character's creator <a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a> reflecting the lighter personality and with a Scottish <a href="/wiki/Glasgow_patter" title="Glasgow patter">Glaswegian</a> accent (which Depp modeled after <a href="/wiki/Gregor_Fisher" title="Gregor Fisher">Gregor Fisher</a>'s <i><a href="/wiki/Rab_C._Nesbitt" title="Rab C. Nesbitt">Rab C. Nesbitt</a></i> character) reflecting a darker, more dangerous personality.<sup class="reference" id="cite_ref-Rab_C_Nesbitt_inspired_Mad_Hatter_accent_says_Johnny_Depp_13-0"><a href="#cite_note-Rab_C_Nesbitt_inspired_Mad_Hatter_accent_says_Johnny_Depp-13"><span>[</span>13<span>]</span></a></sup> Illusionary dancer <a href="/wiki/David_Bernal" title="David Bernal">David "Elsewhere" Bernal</a> doubled for Depp during the "Futterwacken" sequence near the end of the film.<sup class="reference" id="cite_ref-Johnny_Depp.27s_body_double_and_other_.27Alice_in_Wonderland.27_secrets_14-0"><a href="#cite_note-Johnny_Depp.27s_body_double_and_other_.27Alice_in_Wonderland.27_secrets-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>Critical reception to Johnny Depp's portrayal of the Hatter was generally positive. <a href="/wiki/David_Edelstein" title="David Edelstein">David Edelstein</a> of <i><a class="mw-redirect" href="/wiki/New_York_Magazine" title="New York Magazine">New York Magazine</a></i> remarked that while the elements of the character suggested by Depp don't entirely come together, "Depp brings an infectious <a class="mw-redirect" href="/wiki/Summer-stock" title="Summer-stock">summer-stock</a> zest to everything he does: I picture him digging through trunks of old costumes and trying on this torn vest and that dusty cravat and sitting in front of his dressing-room mirror playing with makeup and bulging his eyes and sticking out his tongue."<sup class="reference" id="cite_ref-NewYorkMagazine_15-0"><a href="#cite_note-NewYorkMagazine-15"><span>[</span>15<span>]</span></a></sup> <a href="/wiki/J._Hoberman" title="J. Hoberman">J. Hoberman</a> of <i><a href="/wiki/The_Village_Voice" title="The Village Voice">The Village Voice</a></i> simply referred to Depp's Hatter as "amusing".<sup class="reference" id="cite_ref-VillageVoice_16-0"><a href="#cite_note-VillageVoice-16"><span>[</span>16<span>]</span></a></sup> Bill Goodykoontz of <i><a href="/wiki/The_Arizona_Republic" title="The Arizona Republic">The Arizona Republic</a></i> said that "Depp is exactly what you'd expect, which is a good thing. Gap-toothed and leering, at times he looks like <a href="/wiki/Madonna_(entertainer)" title="Madonna (entertainer)">Madonna</a> after sticking a fork in a toaster. How he finds his characters is anybody's guess, a sort of thrift-store warehouse of eccentricities, it seems like. But it works."<sup class="reference" id="cite_ref-ArizonaRepublic_17-0"><a href="#cite_note-ArizonaRepublic-17"><span>[</span>17<span>]</span></a></sup> Chris Vognar of <i><a href="/wiki/The_Dallas_Morning_News" title="The Dallas Morning News">The Dallas Morning News</a></i> stated that Depp's "wide eyes and high whimsy feel a bit derivative of his <a href="/wiki/Willy_Wonka" title="Willy Wonka">Willy Wonka</a> (another collaboration with Burton), but he invests so much of his ample energy and instinct in these roles that it's hard to complain."<sup class="reference" id="cite_ref-DallasMorning_18-0"><a href="#cite_note-DallasMorning-18"><span>[</span>18<span>]</span></a></sup></p>
+<p><a href="/wiki/Owen_Gleiberman" title="Owen Gleiberman">Owen Gleiberman</a> of <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i> had a more mixed opinion and commented that Depp as the Hatter is "a fantastic image, but once Depp opens his mouth, what comes out is a noisome Scottish brogue that makes everything he says sound more or less the same. The character offers no captivatingly skewed bat-house psychology. There isn't much to him, really — he's just a smiling Johnny one-note with a secret hip-hop dance move — and so we start to react to him the way that Alice does to everything else: by wondering when he's going to stop making nonsense."<sup class="reference" id="cite_ref-EntertainmentWeekly_19-0"><a href="#cite_note-EntertainmentWeekly-19"><span>[</span>19<span>]</span></a></sup> <a href="/wiki/Kenneth_Turan" title="Kenneth Turan">Kenneth Turan</a> of <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i> stated that "there's no denying Depp's gifts and abilities, but this performance feels both indulgent and something we've all seen before."<sup class="reference" id="cite_ref-LATimes_20-0"><a href="#cite_note-LATimes-20"><span>[</span>20<span>]</span></a></sup> Christopher Rosen of <i><a href="/wiki/The_New_York_Observer" title="The New York Observer">The New York Observer</a></i> observed that acting-wise, "Mr. Depp is tasked with the heavy lifting, but, festooned in an orange fright wig and some very uncomfortable-looking contact lenses, he can’t even be bothered to keep his accent straight (it vacillates between an effete lisp and an angry Scottish brogue) [...] he acts like even being on set was a chore. It wouldn’t have been a surprise to see him break the fourth wall, take the blue pill and return home to Paris. Frankly, with how much the film drags, you’ll probably wish he had."<sup class="reference" id="cite_ref-NYObserver_21-0"><a href="#cite_note-NYObserver-21"><span>[</span>21<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Wonderland:_A_New_Alice"><i>Wonderland: A New Alice</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=11" title="Edit section: Wonderland: A New Alice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Frank Wildhorn composed the music to and co-wrote the music to <i><a href="/wiki/Wonderland_(musical)" title="Wonderland (musical)">Wonderland</a></i>. In this adaption the Hatter is portrayed as the villain of the story, and Alice's alter-ego. Unlike most other adaptations, which portray the character, traditionally, as a male, the character in the show is instead a mad <i>woman</i> who longs to be Queen.</p>
+<p><br/></p>
+<p>It is also to be noted that he has an exceptionally strong right handed punch. It is referred to as a sledgehammer, he misses a punch with it and breaks a stone column with it and seems capable of knocking people out with one punch when he uses his right. He also can do tricks with his hat like throwing it into the air and the hat achieving hang time before coming back down.</p>
+<h3><span class="mw-headline" id="American_McGee.27s_Alice"><i>American McGee's Alice</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=12" title="Edit section: American McGee's Alice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the videogame <i><a href="/wiki/American_McGee%27s_Alice" title="American McGee's Alice">American McGee's Alice</a></i>, The Mad Hatter is portrayed as <a href="/wiki/Psychosis" title="Psychosis">psychotic</a>, literally gone "mad" and obsessed with time and clockworks, and considers himself to be a <a href="/wiki/Genius" title="Genius">genius</a>. He invents mechanical devices, often evidently using the bodies of living organisms for the base of his inventions, as he plans to do to all of Wonderland's inhabitants. His victims include the March Hare, the Dormouse, and countless insane children. This interpretation of the Mad Hatter has green skin, wears a loosened straitjacket, and has a large gear protruding out of his back. He wields a cane, and his hat is covered in <a href="/wiki/Astrology" title="Astrology">astrological</a> symbols. He appears in "Alice: Madness Returns" in the same appearance, although this time, he requests Alice's help in retrieving his lost limbs from his former compatriots the March Hare and Dormouse.</p>
+<p>In an interview, American McGee has stated that the Mad Hatter is the embodiment of Alice's emotional state, which explains why he is psychotic in the first game, yet more preserved in the sequel.</p>
+<h3><span class="mw-headline" id="The_Looking_Glass_Wars"><i>The Looking Glass Wars</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=13" title="Edit section: The Looking Glass Wars">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A spin-off of the traditional <i>Alice in Wonderland</i> story, <a href="/wiki/Frank_Beddor" title="Frank Beddor">Frank Beddor</a>'s <i><a href="/wiki/The_Looking_Glass_Wars" title="The Looking Glass Wars">The Looking Glass Wars</a></i> features a character named Hatter Madigan. In the Looking Glass Wars trilogy, Hatter Madigan is a member of an elite group of bodyguards known in Wonderland as the "Millinery" (After the business of selling women's hats). He is based on and in many ways resembles the Hatter but with a twist, most notably that his well-known hat is in fact a deadly weapon. He acts as the bodyguard of the rightful Queen, and as guide/guardian to the protagonist, Alyss Heart. While based on the character of Hatter, Hatter Madigan is anything but mad, and is known and respected throughout Wonderland for being a fearsome fighter and loyal servant of the Queendom.</p>
+<h3><span class="mw-headline" id="Alice_in_the_Country_of_Hearts"><i>Alice in the Country of Hearts</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=14" title="Edit section: Alice in the Country of Hearts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Japanese <a href="/wiki/Manga" title="Manga">manga</a> <i><a href="/wiki/Alice_in_the_Country_of_Hearts" title="Alice in the Country of Hearts">Alice in the Country of Hearts</a></i> has been translated into English, and has been recently sold in the United States. In this interpretation, the Hatter role is played by Blood Dupre, a crime boss and leader of a street gang called The Hatters, which controls one of the four territories of Wonderland.</p>
+<h3><span class="mw-headline" id="Charisma_Label">Charisma Label</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=15" title="Edit section: Charisma Label">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sir John Tenniel's drawing of the Hatter, combined with a montage of other images from <i>Alice in Wonderland</i>, were used as a logo by <a class="mw-redirect" href="/wiki/Charisma_(record_label)" title="Charisma (record label)">Charisma Records</a> from 1972 onwards.</p>
+<h3><span class="mw-headline" id="Pandora_Hearts">Pandora Hearts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=16" title="Edit section: Pandora Hearts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Mad Hatter in <a href="/wiki/Pandora_Hearts" title="Pandora Hearts">Pandora Hearts</a> <a href="/wiki/Manga" title="Manga">manga</a> series is a chain (creature from the Abyss) that was contracted by Xerxes Break. The hatter basically looks like a large top hat with flowery decorations (similar to Break's top hat). When summoned, it can destroy all chains and objects from the Abyss within a large area. The Mad Hatter resembles the Alice in Wonderland character of the same name but gives off a more sinister feel. The character of Break himself, in fact, seems to be a melding of both the Mad Hatter and <a href="/wiki/White_Knight_(Through_the_Looking-Glass)" title="White Knight (Through the Looking-Glass)">the White Knight</a> (possibly because Break's first chain was the White Knight).</p>
+<h3><span class="mw-headline" id="Futurama"><i>Futurama</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=17" title="Edit section: Futurama">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The TV series <i><a href="/wiki/Futurama" title="Futurama">Futurama</a></i> has a robot named Mad Hatterbot who is based off the Hatter. Seen only in the HAL Institute (an asylum for criminally insane robots) the Mad Hatterbot only says one line: "Change places!", which all in the room comply with when spoken. The price tag on his hat reads "5/3", a simplified form of the fraction 10/6.</p>
+<p>A minor character, he has been in the episodes "<a href="/wiki/Insane_in_the_Mainframe" title="Insane in the Mainframe">Insane in the Mainframe</a>" and "Follow the Reader" as well as the film <i><a href="/wiki/Futurama:_Bender%27s_Game" title="Futurama: Bender's Game">Futurama: Bender's Game</a></i>.</p>
+<h3><span class="mw-headline" id="Once_Upon_a_Time"><i>Once Upon a Time</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=18" title="Edit section: Once Upon a Time">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox" style="width:22em;border-spacing: 2px 5px;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #d6d6ff; color: #000;">Jefferson</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><i><a href="/wiki/Once_Upon_a_Time_(TV_series)" title="Once Upon a Time (TV series)">Once Upon a Time</a></i> character</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">First appearance</th>
+<td>"<a href="/wiki/Hat_Trick_(Once_Upon_a_Time)" title="Hat Trick (Once Upon a Time)">Hat Trick</a>" (1.17)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Last appearance</th>
+<td>"<a href="/wiki/The_Doctor_(Once_Upon_a_Time)" title="The Doctor (Once Upon a Time)">The Doctor</a>" (2.05)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Portrayed by</th>
+<td><a href="/wiki/Sebastian_Stan" title="Sebastian Stan">Sebastian Stan</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #d6d6ff; color: #000;">Information</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Nickname(s)</th>
+<td>The Mad Hatter</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Gender</th>
+<td>Male</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Family</th>
+<td>Grace (daughter)</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Season_1">Season 1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=19" title="Edit section: Season 1">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The character was featured in a Season One episode of <i><a href="/wiki/Once_Upon_a_Time_(TV_series)" title="Once Upon a Time (TV series)">Once Upon a Time</a></i>, "<a href="/wiki/Hat_Trick_(Once_Upon_a_Time)" title="Hat Trick (Once Upon a Time)">Hat Trick</a>." Portrayed by <a href="/wiki/Sebastian_Stan" title="Sebastian Stan">Sebastian Stan</a>, the character is a dual role: a man named Jefferson in one world and an out of work Hatter in the other. In Storybrooke, he is aware of the Dark Curse used by the <a class="mw-redirect" href="/wiki/Evil_Queen" title="Evil Queen">Evil Queen</a>, and Emma's role in destroying it. In his debut episode he takes Emma and Mary Margaret hostage, forcing Emma to help him build another magical hat to replace his missing one so that he can escape to the enchanted forest where he and his daughter, Grace can be together. However, Jefferson is defeated when Emma fakes belief in the Dark Curse and cracks him over the head with a telescope after he lowers his guard. After a rather lengthy altercation that involves freeing Mary Margaret and the eventual defenestration of Jefferson, Mary Margaret and Emma discover that Jefferson has not been killed by his fall, but has vanished. His origin as the Mad Hatter is also revealed in the episode. Apparently, the Hatter once worked for the Evil Queen to help her enter Wonderland in exchange for giving Grace a life of ease. The Queen betrays him, revealing that her plan was to retrieve her father from the Queen of Hearts, escape with the magical hat, and due to the nature of the hat, trap the Hatter in Wonderland for the Queen of Hearts' forces to capture. The Hatter is then illustrated as spending many years in Wonderland, sewing hat after hat, attempting to create one that "works".</p>
+<p>This is not the end of the Hatter in <i><a href="/wiki/Once_Upon_a_Time_(TV_series)" title="Once Upon a Time (TV series)">Once Upon a Time</a></i>, however. Jefferson is shown, again in Storybrooke, assisting the Queen in her attempt to rid herself of Emma in "Land Without Magic". When Regina produces Jefferson's original hat and demands his help, Jefferson understandably refuses since he has been tricked by Regina on numerous occasions. However, when Regina suggests that she may be able to help Jefferson and Grace (or Paige as she is known in Storybrooke) return to the enchanted forest, an offer he cannot refuse, he reluctantly agrees to help her figure out how to make the hat work. Ultimately, Regina is forced to sacrifice the only bit of magic that she has in this world, a ring that is imbued with the magic of her true love for her fiance, Daniel. The ring does indeed cause the hat to work, allowing Regina to retrieve the poison apple that caused Snow White's near death experience, and eventually leads to the enchantment of Henry and the breaking of the curse when Emma kisses the forehead of her son, whom she believes to be dead.</p>
+<h4><span class="mw-headline" id="Season_2">Season 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=20" title="Edit section: Season 2">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>He appears again in three episodes of the second season where he reunites with Grace after the curse is broken and it is also revealed that he used to work for <a href="/wiki/Rumpelstiltskin" title="Rumpelstiltskin">Rumpelstiltskin</a> in the Enchanted Forest.</p>
+<h3><span class="mw-headline" id="Mad_T_Party"><i>Mad T Party</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=21" title="Edit section: Mad T Party">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Mad Hatter appears on stage at Disneyland's California Adventure park as the lead singer of the Mad T Party Band alongside Alice, Dormouse, March Hare, Cheshire cat, and the Caterpillar.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Ouran_High_School_Host_Club"><i>Ouran High School Host Club</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=22" title="Edit section: Ouran High School Host Club">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the episode, "Haruhi in Wonderland" from this popular anime and manga series, the main male character, Tamaki Suoh, dresses up as the Mad Hatter.</p>
+<h3><span class="mw-headline" id="Code_Geass:_Nunnally_in_Wonderland"><i>Code Geass: Nunnally in Wonderland</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=23" title="Edit section: Code Geass: Nunnally in Wonderland">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The popular Japanese anime series, <a href="/wiki/Code_Geass" title="Code Geass">Code Geass</a>, has had a spin-off OVA (Original Video Animation) titled Code Geass: Nunnally in Wonderland in which the series' protagonist, Lelouch vi Britannia, tells the story of Alice in Wonderland to his younger sister, Nunnally who acts as Alice and all the other characters of the Code Geass anime begin acting as the various Alice in Wonderland characters. Near the end of the story, the characters realize Lelouch was responsible for their acting out the story and they get revenge by turning him into the Mad Hatter.</p>
+<h4><span class="mw-headline" id="Alice:_Madness_Returns">Alice: Madness Returns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=24" title="Edit section: Alice: Madness Returns">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The Mad Hatter freed by Alice. The Mad Hatter had been ironically torn apart at the hands of his former victims, the March Hare and the Dormouse. Alice found his head and torso in the garbage dump of his domain. She offered to collect the rest of his limbs in exchange for help.[1] After successfully retrieving his arms and legs, Hatter became delighted, but refused to reveal any information and resorted to jabbering nonsense when Alice asked him about the Infernal Train. He did, however, led her to the main part of the factory, where the Train was built.</p>
+<p>After the Train passed through, the Dormouse and Hare appeared in a huge imposing looking mecha, taunting the pair and promising to destroy them. The Hatter became furious with them for their part in Alice's potential downfall by unleashing the Train. The two new leaders responded to his scolding by snatching him up with a hook. Hatter was able to free himself and destroy the mech within seconds by dropping a giant teapot on it. The weight of the teapot caused March Hare and Dormouse's deaths.</p>
+<p>The severity of Hatter's actions finally reached him and he suffered another break with reality. He cradled his dead friends in his arms and told them that all he wanted was another tea party as his domain crumbles around him. He wrapped them both in his arms and offered them tea. Alice persistently demanded information about the Train, but Hatter does not answer her and only told her to talk to the Mock Turtle just seconds before the roof fell and crushed him.[2]</p>
+<p>The Hatter later appeared on the Infernal Train, criticizing Alice for her methods of solving her problems, reminiscing about a party he had with Hare and Dormouse before they turned on him. He remarked that insanity was no excuse for forgetting, and told Alice that he had tried to forget what Alice had done, but was unsuccessful.[3]</p>
+<h4><span class="mw-headline" id="We.27re_All_Made_Here">We're All Made Here</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=25" title="Edit section: We're All Made Here">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a class="external text" href="https://vimeo.com/76310726" rel="nofollow">“We're All Made Here”</a> is an editorial and digital adventure sponsored by HOGAN REBEL and created by Italian director Bruno Miotto. This video is the first of “The Rebel Journey.Dream, believe and create”, a project celebrating the icons of the past, a journey in search of the Rebels of today. In this modern and realistic transposition of one of the best-known characters from Lewis Carroll's novel, Nick Fouquet plays himself: an American hatter. The backdrop changes from Wonderland into Venice Beach – California; the “madness" of its protagonist changes as he tells his own story, that of his ethics, his work, his lifestyle and his inspiration in an interview where his off-screen voice unleashes a maelstrom of thoughts.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=26" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Notes</b></p>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Waldron-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Waldron_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Waldron_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation">Waldron HA.  <a class="external text" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1550196/" rel="nofollow">Did the Mad Hatter have mercury poisoning?</a>. <i>Br Med J</i> (Clin Res Ed). 1983;287(6409):1961. <a class="mw-redirect" href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier">doi</a>:<a class="external text" href="http://dx.doi.org/10.1136%2Fbmj.287.6409.1961" rel="nofollow">10.1136/bmj.287.6409.1961</a>. <a class="external mw-magiclink-pmid" href="//www.ncbi.nlm.nih.gov/pubmed/6418283?dopt=Abstract" rel="nofollow">PMID 6418283</a>.</span></span></li>
+<li id="cite_note-Alice_guttenburg-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Alice_guttenburg_2-0">^</a></b></span> <span class="reference-text"><span class="citation book">Carroll, Lewis (1865). <a class="external text" href="http://www.gutenberg.org/cache/epub/11/pg11.txt" rel="nofollow"><i>Alice's Adventures in Wonderland</i></a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 January</span> 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.au=Carroll%2C+Lewis&amp;rft.aufirst=Lewis&amp;rft.aulast=Carroll&amp;rft.btitle=Alice%27s+Adventures+in+Wonderland&amp;rft.date=1865&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.gutenberg.org%2Fcache%2Fepub%2F11%2Fpg11.txt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> The first mention of both characters occurs in the previous chapter, "Pig and Pepper", in a conversation between Alice and the Cheshire Cat: (Alice): 'What sort of people live about here?' (Cheshire Cat): 'In THAT direction,' the Cat said, waving its right paw round, 'lives a Hatter: and in THAT direction,' waving the other paw, 'lives a March Hare. Visit either you like: they're both mad.'</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.alice-in-wonderland.net/alice9.html" rel="nofollow">http://www.alice-in-wonderland.net/alice9.html</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Published posthumously in <span class="citation book"><a class="external text" href="http://www.mathpuzzle.com/loyd/cop354-355.html" rel="nofollow"><i>Cyclopedia of Puzzles</i></a>. 1914. p. 354.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.btitle=Cyclopedia+of+Puzzles&amp;rft.date=1914&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mathpuzzle.com%2Floyd%2Fcop354-355.html&amp;rft.pages=354&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">King, Stephen: <i>The Shining.</i> Garden City, N.Y.: Doubleday &amp; Co., 1977. Chapter Thirty-Nine: <i>On the Stairs.</i></span></li>
+<li id="cite_note-script-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-script_6-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.joblo.com/scripts/Alice%20in%20Wonderland.pdf" rel="nofollow">"Alice in Wonderland – Glossary of Terms/Script (early draft)"</a> (PDF). <i>Walt Disney Pictures</i>. JoBlo.com. <a class="external text" href="http://www.webcitation.org/5uGcg7INk" rel="nofollow">Archived</a> from the original on November 15, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.atitle=Alice+in+Wonderland+%E2%80%93+Glossary+of+Terms%2FScript+%28early+draft%29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.joblo.com%2Fscripts%2FAlice%2520in%2520Wonderland.pdf&amp;rft.jtitle=Walt+Disney+Pictures&amp;rft.pub=JoBlo.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-.27.27Alice_in_Wonderland.27.27_star_Mia_Wasikowska_on_Johnny_Depp:_.27He.27s_so_brave_and_smart.27-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-.27.27Alice_in_Wonderland.27.27_star_Mia_Wasikowska_on_Johnny_Depp:_.27He.27s_so_brave_and_smart.27_7-0">^</a></b></span> <span class="reference-text"><span class="citation news">Abramowitz, Rachel (December 22, 2009). <a class="external text" href="http://latimesblogs.latimes.com/herocomplex/2009/12/alice-in-wonderland-star-mia-wasikowska-on-johnny-depp-hes-so-brave-and-smart.html" rel="nofollow">"<i>Alice in Wonderland</i> star Mia Wasikowska on Johnny Depp: 'He's so brave and smart<span style="padding-right:0.2em;">'</span>"</a>. <i>Los Angeles Times</i> (Tribune Company). <a class="external text" href="http://www.webcitation.org/5uGStexrl" rel="nofollow">Archived</a> from the original on November 15, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">December 22,</span> 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.atitle=Alice+in+Wonderland+star+Mia+Wasikowska+on+Johnny+Depp%3A+%27He%27s+so+brave+and+smart%27&amp;rft.au=Abramowitz%2C+Rachel&amp;rft.aufirst=Rachel&amp;rft.aulast=Abramowitz&amp;rft.date=December+22%2C+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flatimesblogs.latimes.com%2Fherocomplex%2F2009%2F12%2Falice-in-wonderland-star-mia-wasikowska-on-johnny-depp-hes-so-brave-and-smart.html&amp;rft.jtitle=Los+Angeles+Times&amp;rft.pub=Tribune+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-confirm-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-confirm_8-0">^</a></b></span> <span class="reference-text"><span class="citation news">Boucher, Geoff (October 15, 2008). <a class="external text" href="http://latimesblogs.latimes.com/herocomplex/2008/10/tim-burton-talk.html" rel="nofollow">"Tim Burton talks about Johnny Depp, <i>Alice in Wonderland</i> and <i>The Dark Knight</i>"</a>. <i>Los Angeles Times</i> (Tribune Company). <a class="external text" href="http://www.webcitation.org/5uGU1eBP1" rel="nofollow">Archived</a> from the original on November 15, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">October 15,</span> 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.atitle=Tim+Burton+talks+about+Johnny+Depp%2C+Alice+in+Wonderland+and+The+Dark+Knight&amp;rft.au=Boucher%2C+Geoff&amp;rft.aufirst=Geoff&amp;rft.aulast=Boucher&amp;rft.date=October+15%2C+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flatimesblogs.latimes.com%2Fherocomplex%2F2008%2F10%2Ftim-burton-talk.html&amp;rft.jtitle=Los+Angeles+Times&amp;rft.pub=Tribune+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-sdcc09-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-sdcc09_9-0">^</a></b></span> <span class="reference-text"><span class="citation news">Rice, Kellen (July 22, 2009). <a class="external text" href="http://blastmagazine.com/the-magazine/entertainment/2009/07/tim-burton-talks-wonderland/" rel="nofollow">"Comic-Con 2009: Tim Burton talks Wonderland"</a>. <i>Blast Magazine</i> (B Media Ventures). <a class="external text" href="http://www.webcitation.org/5uGchebLx" rel="nofollow">Archived</a> from the original on November 15, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">July 27,</span> 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.atitle=Comic-Con+2009%3A+Tim+Burton+talks+Wonderland&amp;rft.aufirst=Kellen&amp;rft.aulast=Rice&amp;rft.au=Rice%2C+Kellen&amp;rft.date=July+22%2C+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblastmagazine.com%2Fthe-magazine%2Fentertainment%2F2009%2F07%2Ftim-burton-talks-wonderland%2F&amp;rft.jtitle=Blast+Magazine&amp;rft.pub=B+Media+Ventures&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Johnny_Depp_explains_how_he_picked_his_poison_with_the_Mad_Hatter-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Johnny_Depp_explains_how_he_picked_his_poison_with_the_Mad_Hatter_10-0">^</a></b></span> <span class="reference-text"><span class="citation news">Abramowitz, Rachel (December 24, 2009). <a class="external text" href="http://latimesblogs.latimes.com/herocomplex/2009/12/johnny-depp-explains-how-he-picked-his-poison-with-the-mad-hatter-.html" rel="nofollow">"Johnny Depp explains how he picked his poison with the Mad Hatter"</a>. <i>Los Angeles Times</i> (Tribune Company). <a class="external text" href="http://www.webcitation.org/5uGTZzQAG" rel="nofollow">Archived</a> from the original on November 15, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">December 24,</span> 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.atitle=Johnny+Depp+explains+how+he+picked+his+poison+with+the+Mad+Hatter&amp;rft.au=Abramowitz%2C+Rachel&amp;rft.aufirst=Rachel&amp;rft.aulast=Abramowitz&amp;rft.date=December+24%2C+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flatimesblogs.latimes.com%2Fherocomplex%2F2009%2F12%2Fjohnny-depp-explains-how-he-picked-his-poison-with-the-mad-hatter-.html&amp;rft.jtitle=Los+Angeles+Times&amp;rft.pub=Tribune+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Johnny_Depp_is_Mad-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Johnny_Depp_is_Mad_11-0">^</a></b></span> <span class="reference-text"><span class="citation news"><a class="external text" href="http://ph.news.yahoo.com/mb/20100302/tel-johnny-depp-is-mad-2bf66ac.html" rel="nofollow">"Johnny Depp is Mad"</a>. <i><a href="/wiki/Manila_Bulletin" title="Manila Bulletin">Manila Bulletin</a></i> (Yahoo!). March 2, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">March 7,</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.atitle=Johnny+Depp+is+Mad&amp;rft.date=March+2%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fph.news.yahoo.com%2Fmb%2F20100302%2Ftel-johnny-depp-is-mad-2bf66ac.html&amp;rft.jtitle=Manila+Bulletin&amp;rft.pub=Yahoo%21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Johnny_Depp_Sets_Sail_on_Fourth_.27.27Pirates.27.27_Movie-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Johnny_Depp_Sets_Sail_on_Fourth_.27.27Pirates.27.27_Movie_12-0">^</a></b></span> <span class="reference-text"><span class="citation web">McDaniel, Matt (January 20, 2010). <a class="external text" href="http://movies.yahoo.com/feature/movie-talk-pirates-4.html" rel="nofollow">"Johnny Depp Sets Sail on Fourth <i>Pirates</i> Movie"</a>. <i>Yahoo! Movies</i>. Yahoo!<span class="reference-accessdate">. Retrieved <span class="nowrap">January 20,</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.atitle=Johnny+Depp+Sets+Sail+on+Fourth+Pirates+Movie&amp;rft.aufirst=Matt&amp;rft.aulast=McDaniel&amp;rft.au=McDaniel%2C+Matt&amp;rft.date=January+20%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmovies.yahoo.com%2Ffeature%2Fmovie-talk-pirates-4.html&amp;rft.jtitle=Yahoo%21+Movies&amp;rft.pub=Yahoo%21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Rab_C_Nesbitt_inspired_Mad_Hatter_accent_says_Johnny_Depp-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rab_C_Nesbitt_inspired_Mad_Hatter_accent_says_Johnny_Depp_13-0">^</a></b></span> <span class="reference-text"><span class="citation news">MacDonald, Stuart (March 14, 2010). <a class="external text" href="http://www.timesonline.co.uk/tol/news/uk/scotland/article7061171.ece" rel="nofollow">"Rab C Nesbitt inspired Mad Hatter accent says Johnny Depp"</a>. <i><a href="/wiki/The_Times" title="The Times">The Times</a></i> (London). <a class="external text" href="http://www.webcitation.org/5uGTjUrpK" rel="nofollow">Archived</a> from the original on November 15, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">March 14,</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.atitle=Rab+C+Nesbitt+inspired+Mad+Hatter+accent+says+Johnny+Depp&amp;rft.aufirst=Stuart&amp;rft.aulast=MacDonald&amp;rft.au=MacDonald%2C+Stuart&amp;rft.date=March+14%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.timesonline.co.uk%2Ftol%2Fnews%2Fuk%2Fscotland%2Farticle7061171.ece&amp;rft.jtitle=The+Times&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Johnny_Depp.27s_body_double_and_other_.27Alice_in_Wonderland.27_secrets-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Johnny_Depp.27s_body_double_and_other_.27Alice_in_Wonderland.27_secrets_14-0">^</a></b></span> <span class="reference-text"><span class="citation news">Hoffmann, Sharon (June 1, 2010). "Johnny Depp's body double and other 'Alice in Wonderland' secrets". <a href="/wiki/The_Kansas_City_Star" title="The Kansas City Star">The Kansas City Star</a>. p. D3.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.aufirst=Sharon&amp;rft.au=Hoffmann%2C+Sharon&amp;rft.aulast=Hoffmann&amp;rft.btitle=Johnny+Depp%27s+body+double+and+other+%27Alice+in+Wonderland%27+secrets&amp;rft.date=June+1%2C+2010&amp;rft.genre=book&amp;rft.pages=D3&amp;rft.pub=The+Kansas+City+Star&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-NewYorkMagazine-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-NewYorkMagazine_15-0">^</a></b></span> <span class="reference-text"><span class="citation web">David Edelstein (February 28, 2010). <a class="external text" href="http://nymag.com/movies/reviews/64316/" rel="nofollow">"David Edelstein on 'Alice in Wonderland', 'The Yellow Handkerchief', and 'The Art of the Steal' -- New York Magazine Movie Review"</a>. New York Magazine<span class="reference-accessdate">. Retrieved <span class="nowrap">March 6,</span> 2013</span>. <q>Depp reportedly decided that the mercury poisoning that made many nineteenth-century hatters so mad would be manifest in his eyes (green) and hair (Bozo orange), and that his skin tone and accent would shift according to the character’s mood. (“I always saw the Hatter as kind of tragic … ”) Does it all come together? Not entirely, but Depp brings an infectious summer-stock zest to everything he does: I picture him digging through trunks of old costumes and trying on this torn vest and that dusty cravat and sitting in front of his dressing-room mirror playing with makeup and bulging his eyes and sticking out his tongue.</q></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.au=David+Edelstein&amp;rft.aulast=David+Edelstein&amp;rft.btitle=David+Edelstein+on+%27Alice+in+Wonderland%27%2C+%27The+Yellow+Handkerchief%27%2C+and+%27The+Art+of+the+Steal%27+--+New+York+Magazine+Movie+Review&amp;rft.date=February+28%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnymag.com%2Fmovies%2Freviews%2F64316%2F&amp;rft.pub=New+York+Magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-VillageVoice-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-VillageVoice_16-0">^</a></b></span> <span class="reference-text"><span class="citation web">J. Hoberman (March 2, 2010). <a class="external text" href="http://www.villagevoice.com/2010-03-02/film/tim-burton-s-alice-in-wonderland/full/" rel="nofollow">"Tim Burton's <i>Alice in Wonderland</i>"</a>. The Village Voice<span class="reference-accessdate">. Retrieved <span class="nowrap">March 6,</span> 2013</span>. <q>Alice does encounter a pair of flesh-and-blood males—but Johnny Depp's amusing Mad Hatter, his golden eyes matched by an orange fright wig, is scarcely more eligible than Crispin Glover's thoroughly creepy Knave of Hearts.</q></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.au=J.+Hoberman&amp;rft.aulast=J.+Hoberman&amp;rft.btitle=Tim+Burton%27s+Alice+in+Wonderland&amp;rft.date=March+2%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.villagevoice.com%2F2010-03-02%2Ffilm%2Ftim-burton-s-alice-in-wonderland%2Ffull%2F&amp;rft.pub=The+Village+Voice&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-ArizonaRepublic-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-ArizonaRepublic_17-0">^</a></b></span> <span class="reference-text"><span class="citation web">Bill Goodykoontz (March 3, 2010). <a class="external text" href="http://www.azcentral.com/thingstodo/movies/articles/2010/03/03/20100303alice0305.html?nclick_check=1" rel="nofollow">"<span style="padding-left:0.2em;">'</span>Alice in Wonderland<span style="padding-right:0.2em;">'</span>"</a>. The Arizona Republic<span class="reference-accessdate">. Retrieved <span class="nowrap">March 6,</span> 2013</span>. <q>Depp is exactly what you'd expect, which is a good thing. Gap-toothed and leering, at times he looks like <a href="/wiki/Madonna_(entertainer)" title="Madonna (entertainer)">Madonna</a> after sticking a fork in a toaster. How he finds his characters is anybody's guess, a sort of thrift-store warehouse of eccentricities, it seems like. But it works.</q></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.au=Bill+Goodykoontz&amp;rft.aulast=Bill+Goodykoontz&amp;rft.btitle=%27Alice+in+Wonderland%27&amp;rft.date=March+3%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.azcentral.com%2Fthingstodo%2Fmovies%2Farticles%2F2010%2F03%2F03%2F20100303alice0305.html%3Fnclick_check%3D1&amp;rft.pub=The+Arizona+Republic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-DallasMorning-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-DallasMorning_18-0">^</a></b></span> <span class="reference-text"><span class="citation web">Chris Vognar (March 4, 2010). <a class="external text" href="http://www.dallasnews.com/entertainment/movies/reviews/20100304-alice-in-wonderland-b.ece" rel="nofollow">"<i>Alice in wonderland</i> (B)"</a>. The Dallas Morning News<span class="reference-accessdate">. Retrieved <span class="nowrap">March 6,</span> 2013</span>. <q>If you've seen a bus go by in the past few months you know this is Depp's show, and his fans shouldn't leave disappointed. He continues his knack for embodying human but otherworldly characters, and he gives life to quirks and mannerisms that would be annoying in the hands of other actors. The wide eyes and high whimsy feel a bit derivative of his Willy Wonka (another collaboration with Burton), but he invests so much of his ample energy and instinct in these roles that it's hard to complain.</q></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.au=Chris+Vognar&amp;rft.aulast=Chris+Vognar&amp;rft.btitle=Alice+in+wonderland+%28B%29&amp;rft.date=March+4%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.dallasnews.com%2Fentertainment%2Fmovies%2Freviews%2F20100304-alice-in-wonderland-b.ece&amp;rft.pub=The+Dallas+Morning+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-EntertainmentWeekly-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-EntertainmentWeekly_19-0">^</a></b></span> <span class="reference-text"><span class="citation web">Owen Gleiberman (March 3, 2010). <a class="external text" href="http://www.ew.com/ew/article/0,,20348226,00.html" rel="nofollow">"<i>Alice in Wonderland</i> Review"</a>. Entertainment Weekly<span class="reference-accessdate">. Retrieved <span class="nowrap">March 6,</span> 2013</span>. <q>Then there's Johnny Depp, who plays the Mad Hatter with radioactive emerald eyes, an exploding Bozo carrot top, and a gaze of luminous dementia. He's a fantastic image, but once Depp opens his mouth, what comes out is a noisome Scottish brogue that makes everything he says sound more or less the same. The character offers no captivatingly skewed bat-house psychology. There isn't much to him, really — he's just a smiling Johnny one-note with a secret hip-hop dance move — and so we start to react to him the way that Alice does to everything else: by wondering when he's going to stop making nonsense.</q></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.aulast=Owen+Gleiberman&amp;rft.au=Owen+Gleiberman&amp;rft.btitle=Alice+in+Wonderland+Review&amp;rft.date=March+3%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C20348226%2C00.html&amp;rft.pub=Entertainment+Weekly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-LATimes-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-LATimes_20-0">^</a></b></span> <span class="reference-text"><span class="citation web">Kenneth Turan (March 4, 2010). <a class="external text" href="http://www.latimes.com/entertainment/news/la-et-alice4-2010mar04,0,7137809.story" rel="nofollow">"Review: 'Alice in Wonderland<span style="padding-right:0.2em;">'</span>"</a>. Los Angeles Times<span class="reference-accessdate">. Retrieved <span class="nowrap">March 6,</span> 2013</span>. <q>His Mad Hatter is a genuine fashionista whom we get to see designing wacky headgear like there is no tomorrow. There's no denying Depp's gifts and abilities, but this performance feels both indulgent and something we've all seen before.</q></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.au=Kenneth+Turan&amp;rft.aulast=Kenneth+Turan&amp;rft.btitle=Review%3A+%27Alice+in+Wonderland%27&amp;rft.date=March+4%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.latimes.com%2Fentertainment%2Fnews%2Fla-et-alice4-2010mar04%2C0%2C7137809.story&amp;rft.pub=Los+Angeles+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-NYObserver-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-NYObserver_21-0">^</a></b></span> <span class="reference-text"><span class="citation web">Christopher Rosen (March 3, 2010). <a class="external text" href="http://observer.com/2010/03/malice-in-wonderland/" rel="nofollow">"Malice in Wonderland"</a>. The New York Observer<span class="reference-accessdate">. Retrieved <span class="nowrap">March 6,</span> 2013</span>. <q>Not one moment during the 108-minute film feels authentic. Neither does Mr. Depp’s central performance as the Mad Hatter. While Ms. Wasikowska is fine enough, her Alice is written as a straight woman; she’s required to do nothing more than react to the green-screen creations surrounding her. Mr. Depp is tasked with the heavy lifting, but, festooned in an orange fright wig and some very uncomfortable-looking contact lenses, he can’t even be bothered to keep his accent straight (it vacillates between an effete lisp and an angry Scottish brogue). When he was donning black eyeliner and doing an elaborate Keith Richards impression in Pirates of the Caribbean, you could sense the fun Mr. Depp was having while nailing a tricky performance. In Alice in Wonderland, though, he acts like even being on set was a chore. It wouldn’t have been a surprise to see him break the fourth wall, take the blue pill and return home to Paris. Frankly, with how much the film drags, you’ll probably wish he had.</q></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Hatter&amp;rft.au=Christopher+Rosen&amp;rft.aulast=Christopher+Rosen&amp;rft.btitle=Malice+in+Wonderland&amp;rft.date=March+3%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fobserver.com%2F2010%2F03%2Fmalice-in-wonderland%2F&amp;rft.pub=The+New+York+Observer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a class="external free" href="http://disneyland.disney.go.com/disneys-california-adventure/mad-t-party/" rel="nofollow">http://disneyland.disney.go.com/disneys-california-adventure/mad-t-party/</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Hatter&amp;action=edit&amp;section=27" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><img alt="" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/> Media related to <a class="extiw" href="//commons.wikimedia.org/wiki/Category:The_Mad_Hatter" title="commons:Category:The Mad Hatter">The Mad Hatter</a> at Wikimedia Commons</li>
+</ul>
+<p><br/></p>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Alice" title="Template:Alice"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Alice" title="Template talk:Alice"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Alice&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a>'s <i><a href="/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)" title="Alice (Alice's Adventures in Wonderland)">Alice</a></i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a></i></li>
+<li><i><a href="/wiki/Through_the_Looking-Glass" title="Through the Looking-Glass">Through the Looking-Glass</a></i></li>
+<li><i><a href="/wiki/The_Nursery_%22Alice%22" title='The Nursery "Alice"'>The Nursery "Alice"</a></i></li>
+<li>"<a href="/wiki/The_Hunting_of_the_Snark" title="The Hunting of the Snark">The Hunting of the Snark</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Creators</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row">Authors</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a></li>
+<li><a href="/wiki/A_New_Alice_in_the_Old_Wonderland" title="A New Alice in the Old Wonderland">Anna Matlack Richards</a></li>
+<li><a href="/wiki/Saki" title="Saki">Saki</a></li>
+<li><a href="/wiki/Gilbert_Adair" title="Gilbert Adair">Gilbert Adair</a></li>
+<li><a href="/wiki/Frank_Beddor" title="Frank Beddor">Frank Beddor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Illustrators</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Tenniel" title="John Tenniel">John Tenniel</a></li>
+<li><a href="/wiki/Arthur_Rackham" title="Arthur Rackham">Arthur Rackham</a></li>
+<li><a href="/wiki/Blanche_McManus" title="Blanche McManus">Blanche McManus</a></li>
+<li><a href="/wiki/Peter_Newell" title="Peter Newell">Peter Newell</a></li>
+<li><a href="/wiki/Fanny_Cory" title="Fanny Cory">Fanny Cory</a></li>
+<li><a href="/wiki/Bessie_Pease_Gutmann" title="Bessie Pease Gutmann">Bessie Pease Gutmann</a></li>
+<li><a href="/wiki/Charles_Robinson_(illustrator)" title="Charles Robinson (illustrator)">Charles Robinson</a></li>
+<li><a href="/wiki/Harry_Rountree" title="Harry Rountree">Harry Rountree</a></li>
+<li><a href="/wiki/Harry_Furniss" title="Harry Furniss">Harry Furniss</a></li>
+<li><a href="/wiki/Mabel_Lucie_Attwell" title="Mabel Lucie Attwell">Mabel Lucie Attwell</a></li>
+<li><a href="/wiki/Milo_Winter" title="Milo Winter">Milo Winter</a></li>
+<li><a href="/wiki/Oliver_Herford" title="Oliver Herford">Oliver Herford</a></li>
+<li><a href="/wiki/Uriel_Birnbaum" title="Uriel Birnbaum">Uriel Birnbaum</a></li>
+<li><a href="/wiki/Jessie_Willcox_Smith" title="Jessie Willcox Smith">Jessie Willcox Smith</a></li>
+<li><a href="/wiki/Charles_Folkard" title="Charles Folkard">Charles Folkard</a></li>
+<li><a href="/wiki/Mervyn_Peake" title="Mervyn Peake">Mervyn Peake</a></li>
+<li><a href="/wiki/Alex_Blum" title="Alex Blum">Alex Blum</a></li>
+<li><a href="/wiki/Leonard_Weisgard" title="Leonard Weisgard">Leonard Weisgard</a></li>
+<li><a href="/wiki/Walt_Disney" title="Walt Disney">Walt Disney</a></li>
+<li><a href="/wiki/Marjorie_Torrey" title="Marjorie Torrey">Marjorie Torrey</a></li>
+<li><a href="/wiki/Tove_Jansson" title="Tove Jansson">Tove Jansson</a></li>
+<li><a href="/wiki/Ralph_Steadman" title="Ralph Steadman">Ralph Steadman</a></li>
+<li><a href="/wiki/Frank_Bolle" title="Frank Bolle">Frank Bolle</a></li>
+<li><a href="/wiki/Charles_Blackman" title="Charles Blackman">Charles Blackman</a></li>
+<li><a href="/wiki/Barry_Moser" title="Barry Moser">Barry Moser</a></li>
+<li><a href="/wiki/Michael_Hague" title="Michael Hague">Michael Hague</a></li>
+<li><a href="/wiki/Anthony_Browne_(author)" title="Anthony Browne (author)">Anthony Browne</a></li>
+<li><a href="/wiki/Willy_Pogany" title="Willy Pogany">Willy Pogany</a></li>
+<li><a href="/wiki/Marie_Laurencin" title="Marie Laurencin">Marie Laurencin</a></li>
+<li><a href="/wiki/Salvador_Dal%C3%AD" title="Salvador Dalí">Salvador Dalí</a></li>
+<li><a class="mw-redirect" href="/wiki/Greg_Hildebrandt" title="Greg Hildebrandt">Greg Hildebrandt</a></li>
+<li><a href="/wiki/Gavin_O%27Keefe" title="Gavin O'Keefe">Gavin O'Keefe</a></li>
+<li><a href="/wiki/Tony_Ross" title="Tony Ross">Tony Ross</a></li>
+<li><a href="/wiki/Helen_Oxenbury" title="Helen Oxenbury">Helen Oxenbury</a></li>
+<li><a href="/wiki/Lisbeth_Zwerger" title="Lisbeth Zwerger">Lisbeth Zwerger</a></li>
+<li><a href="/wiki/Oleg_Lipchenko" title="Oleg Lipchenko">Oleg Lipchenko</a></li>
+<li><a href="/wiki/Franciszka_Themerson" title="Franciszka Themerson">Franciszka Themerson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Characters</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row"><i><a href="/wiki/List_of_minor_characters_in_the_Alice_series" title="List of minor characters in the Alice series">Alice's Adventures<br/>
+in Wonderland</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)" title="Alice (Alice's Adventures in Wonderland)">Alice</a></li>
+<li><a href="/wiki/White_Rabbit" title="White Rabbit">The White Rabbit</a></li>
+<li><a href="/wiki/Mouse_(Alice%27s_Adventures_in_Wonderland)" title="Mouse (Alice's Adventures in Wonderland)">The Mouse</a></li>
+<li><a href="/wiki/Dodo_(Alice%27s_Adventures_in_Wonderland)" title="Dodo (Alice's Adventures in Wonderland)">The Dodo</a></li>
+<li><a class="mw-redirect" href="/wiki/Duck_(Alice%27s_Adventures_in_Wonderland)" title="Duck (Alice's Adventures in Wonderland)">The Duck</a></li>
+<li><a class="mw-redirect" href="/wiki/Lory_(Alice%27s_Adventures_in_Wonderland)" title="Lory (Alice's Adventures in Wonderland)">The Lory</a></li>
+<li><a class="mw-redirect" href="/wiki/Eaglet_(Alice%27s_Adventures_in_Wonderland)" title="Eaglet (Alice's Adventures in Wonderland)">Eaglet</a></li>
+<li><a href="/wiki/Pat_(Alice%27s_Adventures_in_Wonderland)" title="Pat (Alice's Adventures in Wonderland)">Pat</a></li>
+<li><a href="/wiki/Bill_the_Lizard" title="Bill the Lizard">Bill the Lizard</a></li>
+<li><a href="/wiki/Puppy_(Alice%27s_Adventures_in_Wonderland)" title="Puppy (Alice's Adventures in Wonderland)">Puppy</a></li>
+<li><a href="/wiki/Caterpillar_(Alice%27s_Adventures_in_Wonderland)" title="Caterpillar (Alice's Adventures in Wonderland)">The Caterpillar</a></li>
+<li><a href="/wiki/Duchess_(Alice%27s_Adventures_in_Wonderland)" title="Duchess (Alice's Adventures in Wonderland)">The Duchess</a></li>
+<li><a href="/wiki/Cheshire_Cat" title="Cheshire Cat">The Cheshire Cat</a></li>
+<li><a href="/wiki/March_Hare" title="March Hare">The March Hare</a></li>
+<li><strong class="selflink">The Hatter</strong></li>
+<li><a href="/wiki/The_Dormouse" title="The Dormouse">The Dormouse</a></li>
+<li><a href="/wiki/Queen_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Queen of Hearts (Alice's Adventures in Wonderland)">The Queen of Hearts</a></li>
+<li><a href="/wiki/King_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="King of Hearts (Alice's Adventures in Wonderland)">The King of Hearts</a></li>
+<li><a href="/wiki/Knave_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Knave of Hearts (Alice's Adventures in Wonderland)">The Knave of Hearts</a></li>
+<li><a href="/wiki/Gryphon_(Alice%27s_Adventures_in_Wonderland)" title="Gryphon (Alice's Adventures in Wonderland)">The Gryphon</a></li>
+<li><a href="/wiki/Mock_Turtle" title="Mock Turtle">The Mock Turtle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><i><a href="/wiki/List_of_minor_characters_in_the_Alice_series" title="List of minor characters in the Alice series">Through the<br/>
+Looking-Glass</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)" title="Alice (Alice's Adventures in Wonderland)">Alice</a></li>
+<li><a href="/wiki/Red_Queen_(Through_the_Looking-Glass)" title="Red Queen (Through the Looking-Glass)">The Red Queen</a></li>
+<li><a href="/wiki/White_Queen_(Through_the_Looking-Glass)" title="White Queen (Through the Looking-Glass)">The White Queen</a></li>
+<li><a href="/wiki/Red_King_(Through_the_Looking-Glass)" title="Red King (Through the Looking-Glass)">The Red King</a></li>
+<li><a href="/wiki/White_King_(Through_the_Looking-Glass)" title="White King (Through the Looking-Glass)">The White King</a></li>
+<li><a href="/wiki/White_Knight_(Through_the_Looking-Glass)" title="White Knight (Through the Looking-Glass)">The White Knight</a></li>
+<li><a href="/wiki/Tweedledum_and_Tweedledee" title="Tweedledum and Tweedledee">Tweedledum and Tweedledee</a></li>
+<li><a href="/wiki/The_Sheep" title="The Sheep">The Sheep</a></li>
+<li><a href="/wiki/Humpty_Dumpty" title="Humpty Dumpty">Humpty Dumpty</a></li>
+<li><a href="/wiki/March_Hare" title="March Hare">Haigha</a></li>
+<li><strong class="selflink">Hatta</strong></li>
+<li><a href="/wiki/The_Lion_and_the_Unicorn" title="The Lion and the Unicorn">The Lion and the Unicorn</a></li>
+<li><a href="/wiki/Bandersnatch" title="Bandersnatch">Bandersnatch</a></li>
+<li><a href="/wiki/Jubjub_bird" title="Jubjub bird">Jubjub Bird</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Related topics</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alice_Liddell" title="Alice Liddell">Alice Liddell</a></li>
+<li><a href="/wiki/Alice%27s_Shop" title="Alice's Shop">Alice's Shop</a></li>
+<li><i><a href="/wiki/The_Annotated_Alice" title="The Annotated Alice">The Annotated Alice</a></i></li>
+<li><a href="/wiki/Wonderland_(fictional_country)" title="Wonderland (fictional country)">Wonderland</a></li>
+<li><a href="/wiki/Looking-Glass_Land" title="Looking-Glass Land">Looking-Glass Land</a></li>
+<li><a href="/wiki/Works_based_on_Alice_in_Wonderland" title="Works based on Alice in Wonderland">Works based on <i>Alice in Wonderland</i></a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Alice_in_Wonderland_(franchise)" title="Alice in Wonderland (franchise)">Disney franchise</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Translations_of_Alice%27s_Adventures_in_Wonderland" title="Translations of Alice's Adventures in Wonderland">Translations of <i>Alice's Adventures in Wonderland</i></a></li>
+<li><a href="/wiki/Translations_of_Through_the_Looking-Glass" title="Translations of Through the Looking-Glass">Translations of <i>Through the Looking-Glass</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Works_based_on_Alice_in_Wonderland" title="Works based on Alice in Wonderland">Adaptations</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row">Poems</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>"<a href="/wiki/All_in_the_golden_afternoon..." title="All in the golden afternoon...">All in the golden afternoon...</a>"</li>
+<li>"<a href="/wiki/How_Doth_the_Little_Crocodile" title="How Doth the Little Crocodile">How Doth the Little Crocodile</a>"</li>
+<li>"<a href="/wiki/The_Mouse%27s_Tale" title="The Mouse's Tale">The Mouse's Tale</a>"</li>
+<li>"<a href="/wiki/Twinkle,_Twinkle,_Little_Bat" title="Twinkle, Twinkle, Little Bat">Twinkle, Twinkle, Little Bat</a>"</li>
+<li>"<a href="/wiki/You_Are_Old,_Father_William" title="You Are Old, Father William">You Are Old, Father William</a>"</li>
+<li>"<a href="/wiki/%27Tis_the_Voice_of_the_Lobster" title="'Tis the Voice of the Lobster">'Tis the Voice of the Lobster</a>"</li>
+<li>"<a href="/wiki/Jabberwocky" title="Jabberwocky">Jabberwocky</a>"</li>
+<li>"<a href="/wiki/The_Walrus_and_the_Carpenter" title="The Walrus and the Carpenter">The Walrus and the Carpenter</a>"</li>
+<li>"<a href="/wiki/Haddocks%27_Eyes" title="Haddocks' Eyes">Haddocks' Eyes</a>"</li>
+<li>"<a class="mw-redirect" href="/wiki/They_told_me_you_had_been_to_her..." title="They told me you had been to her...">They told me you had been to her...</a>"</li>
+<li>"<a href="/wiki/The_Mock_Turtle%27s_Song" title="The Mock Turtle's Song">The Mock Turtle's Song</a>"</li>
+<li>"<a href="/wiki/The_Hunting_of_the_Snark" title="The Hunting of the Snark">The Hunting of the Snark</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Sequels</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/A_New_Alice_in_the_Old_Wonderland" title="A New Alice in the Old Wonderland">A New Alice in the Old Wonderland</a></i> (1895)</li>
+<li><i><a href="/wiki/New_Adventures_of_Alice" title="New Adventures of Alice">New Adventures of Alice</a></i> (1917)</li>
+<li><i><a href="/wiki/Alice_Through_the_Needle%27s_Eye" title="Alice Through the Needle's Eye">Alice Through the Needle's Eye</a></i> (1984)</li>
+<li><i><a href="/wiki/Automated_Alice" title="Automated Alice">Automated Alice</a></i> (1996)</li>
+<li><i><a href="/wiki/Wonderland_Revisited_and_the_Games_Alice_Played_There" title="Wonderland Revisited and the Games Alice Played There">Wonderland Revisited and the Games Alice Played There</a></i> (2009)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Retellings</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland_retold_in_words_of_one_syllable" title="Alice's Adventures in Wonderland retold in words of one syllable">Alice's Adventures in Wonderland retold in words of one syllable</a></i> (1905)</li>
+<li><i><a href="/wiki/Alice_in_Verse:_The_Lost_Rhymes_of_Wonderland" title="Alice in Verse: The Lost Rhymes of Wonderland">Alice in Verse: The Lost Rhymes of Wonderland</a></i> (2010)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Parodies</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Westminster_Alice" title="The Westminster Alice">The Westminster Alice</a></i> (1902)</li>
+<li><i><a href="/wiki/Clara_in_Blunderland" title="Clara in Blunderland">Clara in Blunderland</a></i> (1902)</li>
+<li><i><a href="/wiki/Lost_in_Blunderland" title="Lost in Blunderland">Lost in Blunderland</a></i> (1903)</li>
+<li><i><a href="/wiki/John_Bull%27s_Adventures_in_the_Fiscal_Wonderland" title="John Bull's Adventures in the Fiscal Wonderland">John Bull's Adventures in the Fiscal Wonderland</a></i> (1904)</li>
+<li><i><a href="/wiki/Alice_in_Blunderland:_An_Iridescent_Dream" title="Alice in Blunderland: An Iridescent Dream">Alice in Blunderland: An Iridescent Dream</a></i> (1904)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Imitations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Jean_Ingelow" title="Jean Ingelow">Mopsa the Fairy</a></i> (1869)</li>
+<li><i><a href="/wiki/Davy_and_the_Goblin" title="Davy and the Goblin">Davy and the Goblin</a></i> (1884)</li>
+<li><i><a href="/wiki/The_Admiral%27s_Caravan" title="The Admiral's Caravan">The Admiral's Caravan</a></i> (1891)</li>
+<li><i><a href="/wiki/Gladys_in_Grammarland" title="Gladys in Grammarland">Gladys in Grammarland</a></i> (1896)</li>
+<li><i><a href="/wiki/The_Magical_Monarch_of_Mo" title="The Magical Monarch of Mo">A New Wonderland</a></i> (1898)</li>
+<li><i><a href="/wiki/Rollo_in_Emblemland" title="Rollo in Emblemland">Rollo in Emblemland</a></i> (1902)</li>
+<li><i><a href="/wiki/The_Magic_World" title="The Magic World">Justnowland</a></i> (1912)</li>
+<li><i><a href="/wiki/Alice_in_Orchestralia" title="Alice in Orchestralia">Alice in Orchestralia</a></i> (1925)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Reimagining</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice_or_the_Last_Escapade" title="Alice or the Last Escapade">Alice or the Last Escapade</a></i> (1977)</li>
+<li><i><a href="/wiki/Adventures_in_Wonderland" title="Adventures in Wonderland">Adventures in Wonderland</a></i> (1991)</li>
+<li><i><a href="/wiki/The_Looking_Glass_Wars" title="The Looking Glass Wars">The Looking Glass Wars</a></i> (2006)</li>
+<li><i><a href="/wiki/Alice_(miniseries)" title="Alice (miniseries)">Alice</a></i> (2009)</li>
+<li><i><a href="/wiki/Malice_in_Wonderland_(2009_film)" title="Malice in Wonderland (2009 film)">Malice in Wonderland</a></i> (2009)</li>
+<li><a href="/wiki/Alice_in_Wonderland_(2010_film)" title="Alice in Wonderland (2010 film)"><i>Alice in Wonderland</i></a> (2010)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland:_Through_the_Looking_Glass" title="Alice in Wonderland: Through the Looking Glass">Alice in Wonderland: Through the Looking Glass</a></i> (2016)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Film</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alice_in_Wonderland_(1903_film)" title="Alice in Wonderland (1903 film)">1903</a></li>
+<li><a href="/wiki/Alice%27s_Adventures_in_Wonderland_(1910_film)" title="Alice's Adventures in Wonderland (1910 film)">1910</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1915_film)" title="Alice in Wonderland (1915 film)">1915</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1931_film)" title="Alice in Wonderland (1931 film)">1931</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1933_film)" title="Alice in Wonderland (1933 film)">1933</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1949_film)" title="Alice in Wonderland (1949 film)">1949</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1951_film)" title="Alice in Wonderland (1951 film)">1951</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1966_TV_play)" title="Alice in Wonderland (1966 TV play)">1966</a></li>
+<li><a href="/wiki/Alice%27s_Adventures_in_Wonderland_(1972_film)" title="Alice's Adventures in Wonderland (1972 film)">1972</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1976_film)" title="Alice in Wonderland (1976 film)">1976</a></li>
+<li><a href="/wiki/Alice_(1982_film)" title="Alice (1982 film)">1982</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1985_film)" title="Alice in Wonderland (1985 film)">1985</a></li>
+<li><a href="/wiki/Alice_Through_the_Looking_Glass_(1987_film)" title="Alice Through the Looking Glass (1987 film)">1987</a></li>
+<li><a href="/wiki/Alice_(1988_film)" title="Alice (1988 film)">1988 (Czech)</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1988_film)" title="Alice in Wonderland (1988 film)">1988 (Australian)</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1995_film)" title="Alice in Wonderland (1995 film)">1995</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1999_film)" title="Alice in Wonderland (1999 film)">1999</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Stage</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland_(ballet)" title="Alice's Adventures in Wonderland (ballet)">Alice's Adventures in Wonderland</a></i> (ballet)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(musical)" title="Alice in Wonderland (musical)">Alice in Wonderland</a></i> (musical)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(opera)" title="Alice in Wonderland (opera)">Alice in Wonderland</a></i> (opera)</li>
+<li><i><a href="/wiki/Peter_and_Alice" title="Peter and Alice">Peter and Alice</a></i> (2013 play)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Television</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Fushigi_no_Kuni_no_Alice" title="Fushigi no Kuni no Alice">Fushigi no Kuni no Alice</a></i></li>
+<li><i><a href="/wiki/Once_Upon_a_Time_(TV_series)" title="Once Upon a Time (TV series)">Once Upon a Time</a></i></li>
+<li><i><a href="/wiki/Once_Upon_a_Time_in_Wonderland" title="Once Upon a Time in Wonderland">Once Upon a Time in Wonderland</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Literary</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice_in_the_Country_of_Hearts" title="Alice in the Country of Hearts">Alice in the Country of Hearts</a></i>
+<ul>
+<li><a href="/wiki/List_of_Alice_in_the_Country_of_Hearts_characters" title="List of Alice in the Country of Hearts characters">characters</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Miyuki-chan_in_Wonderland" title="Miyuki-chan in Wonderland">Miyuki-chan in Wonderland</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Video games</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice_no_Paint_Adventure" title="Alice no Paint Adventure">Alice no Paint Adventure</a></i> (1995)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(2000_video_game)" title="Alice in Wonderland (2000 video game)">Alice in Wonderland</a></i> (2000)</li>
+<li><i><a href="/wiki/American_McGee%27s_Alice" title="American McGee's Alice">American McGee's Alice</a></i> (2000)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(2010_video_game)" title="Alice in Wonderland (2010 video game)">Alice in Wonderland</a></i> (2010)</li>
+<li><i><a href="/wiki/Alice:_Madness_Returns" title="Alice: Madness Returns">Alice: Madness Returns</a></i> (2011)</li>
+<li><i><a href="/wiki/Kingdom_Hearts" title="Kingdom Hearts">Kingdom Hearts</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Audio dramas</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Legend_of_the_Cybermen" title="Legend of the Cybermen">Legend of the Cybermen</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight: bold;">
+<div>
+<ul>
+<li><img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:Alice_in_Wonderland" title="Book:Alice in Wonderland">Book:Alice in Wonderland</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Alice_in_Wonderland" title="Category:Alice in Wonderland">Category:Alice in Wonderland</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Children%27s_literature" title="Portal:Children's literature">Portal:Children's literature</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1065
+CPU time usage: 0.685 seconds
+Real time usage: 0.862 seconds
+Preprocessor visited node count: 3718/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 138949/2097152 bytes
+Template argument size: 5071/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 6/500
+Lua time usage: 0.224/10.000 seconds
+Lua memory usage: 3.95 MB/50 MB
+-->
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  622.034      1 - -total
+ 32.63%  202.961      1 - Template:Reflist
+ 27.06%  168.300      4 - Template:Ambox
+ 23.31%  144.966      1 - Template:Multiple_issues
+ 15.80%   98.305      2 - Template:Infobox_character
+ 13.68%   85.087      2 - Template:Infobox
+ 11.74%   73.000      4 - Template:Navbox
+  9.09%   56.562      1 - Template:Alice
+  6.60%   41.024      9 - Template:Cite_web
+  5.77%   35.899      1 - Template:About
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:177896-0!*!0!!en!4!* and timestamp 20150209152622 and revision id 645230363
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Hatter&amp;oldid=645230363">http://en.wikipedia.org/w/index.php?title=The_Hatter&amp;oldid=645230363</a>"					</div>
+<div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lewis_Carroll_characters" title="Category:Lewis Carroll characters">Lewis Carroll characters</a></li><li><a href="/wiki/Category:Disney%27s_Alice_in_Wonderland_characters" title="Category:Disney's Alice in Wonderland characters">Disney's Alice in Wonderland characters</a></li><li><a href="/wiki/Category:Fictional_characters_introduced_in_1865" title="Category:Fictional characters introduced in 1865">Fictional characters introduced in 1865</a></li><li><a href="/wiki/Category:Hat_makers" title="Category:Hat makers">Hat makers</a></li><li><a href="/wiki/Category:Once_Upon_a_Time_(TV_series)_characters" title="Category:Once Upon a Time (TV series) characters">Once Upon a Time (TV series) characters</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Hatnote_templates_using_unusual_parameters" title="Category:Hatnote templates using unusual parameters">Hatnote templates using unusual parameters</a></li><li><a href="/wiki/Category:Use_British_English_from_June_2012" title="Category:Use British English from June 2012">Use British English from June 2012</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2012" title="Category:Use dmy dates from June 2012">Use dmy dates from June 2012</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2013" title="Category:Articles needing additional references from February 2013">Articles needing additional references from February 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_February_2013" title="Category:Articles that may contain original research from February 2013">Articles that may contain original research from February 2013</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_February_2013" title="Category:Articles needing cleanup from February 2013">Articles needing cleanup from February 2013</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Wikipedia_list_cleanup_from_February_2013" title="Category:Wikipedia list cleanup from February 2013">Wikipedia list cleanup from February 2013</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Hatter&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Hatter" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/The_Hatter" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:The_Hatter" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/The_Hatter">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=The_Hatter&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=The_Hatter&amp;action=history" title="Past versions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if one exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li>
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+<li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li>
+<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+<li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li>
+<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/The_Hatter" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li>
+<li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/The_Hatter" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
+<li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
+<li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=The_Hatter&amp;oldid=645230363" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=The_Hatter&amp;action=info" title="More information about this page">Page information</a></li>
+<li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q864751" title="Link to connected data repository item [g]">Wikidata item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Hatter&amp;id=645230363" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Hatter">Create a book</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Hatter&amp;oldid=645230363&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="t-print"><a accesskey="p" href="/w/index.php?title=The_Hatter&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/D%C9%99lisov_Papaq%C3%A7%C4%B1_(Kerrolun_personaj%C4%B1)" hreflang="az" lang="az" title="Dəlisov Papaqçı (Kerrolun personajı) – Azerbaijani">Azərbaycanca</a></li>
+<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Der_Hutmacher" hreflang="de" lang="de" title="Der Hutmacher – German">Deutsch</a></li>
+<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/El_Sombrerero" hreflang="es" lang="es" title="El Sombrerero – Spanish">Español</a></li>
+<li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Sonbrailugilea" hreflang="eu" lang="eu" title="Sonbrailugilea – Basque">Euskara</a></li>
+<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%A9%D9%84%D8%A7%D9%87%D8%AF%D9%88%D8%B2_%D8%AF%DB%8C%D9%88%D8%A7%D9%86%D9%87" hreflang="fa" lang="fa" title="کلاهدوز دیوانه – Persian">فارسی</a></li>
+<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Chapelier_fou_(Alice_au_pays_des_merveilles)" hreflang="fr" lang="fr" title="Chapelier fou (Alice au pays des merveilles) – French">Français</a></li>
+<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Cappellaio_Matto" hreflang="it" lang="it" title="Cappellaio Matto – Italian">Italiano</a></li>
+<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%94%D7%9B%D7%95%D7%91%D7%A2%D7%9F_%D7%94%D7%9E%D7%98%D7%95%D7%A8%D7%A3" hreflang="he" lang="he" title="הכובען המטורף – Hebrew">עברית</a></li>
+<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E5%B8%BD%E5%AD%90%E5%B1%8B" hreflang="ja" lang="ja" title="帽子屋 – Japanese">日本語</a></li>
+<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Chapeleiro_Louco" hreflang="pt" lang="pt" title="Chapeleiro Louco – Portuguese">Português</a></li>
+<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B2%D0%B0%D0%BD%D1%89%D0%B8%D0%BA" hreflang="ru" lang="ru" title="Болванщик – Russian">Русский</a></li>
+<li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Ludi_%C5%A0e%C5%A1ird%C5%BEija" hreflang="sh" lang="sh" title="Ludi Šeširdžija – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li>
+<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Hatuntekij%C3%A4" hreflang="fi" lang="fi" title="Hatuntekijä – Finnish">Suomi</a></li>
+<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Hattmakaren" hreflang="sv" lang="sv" title="Hattmakaren – Swedish">Svenska</a></li>
+<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/%C5%9Eapkac%C4%B1" hreflang="tr" lang="tr" title="Şapkacı – Turkish">Türkçe</a></li>
+<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D0%B5%D0%BB%D1%8E%D1%88%D0%BD%D0%B8%D0%BA" hreflang="uk" lang="uk" title="Капелюшник – Ukrainian">Українська</a></li>
+<li class="uls-p-lang-dummy"><a href="#"></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" class="wbc-editpage" href="//www.wikidata.org/wiki/Q864751#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 1 February 2015, at 23:52.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=The_Hatter&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
+</li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+Title: Harvey School Students Perform ''Alice in Wonderland'' | Bedford-Katonah, NY Patch
+Cache-Control: public, max-age=300
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Date: Mon, 09 Feb 2015 23:41:19 GMT
+ETag: "1423525279"
+Expires: Mon, 09 Feb 2015 23:46:19 +0000
+Last-Modified: Mon, 09 Feb 2015 23:41:19 +0000
+Link: <http://cdn.patch.com/users/21821499/2015/02/T800x600/20150254d7bd8ace658.jpg>; rel="image_src"
+Server: Apache
+Set-Cookie: SESS46bc88bd62773db28655aff52fbe3804=FKmS7UOTKyBdlXiWTeAlR9uszXzTl7Nh9iYR5MdTuO4; expires=Tue, 10-Feb-2015 00:41:19 GMT; path=/; domain=.patch.com; HttpOnly
+Vary: X-Is-Mobile,Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Is-Mobile: false
+X-Powered-By: Patch
+X-Server: patchfecms01
+X-Version: 3.1.4.237
+transfer-encoding: chunked
+Connection: Close
+

@@ -1,0 +1,13 @@
+Title: Inception (2010) - IMDb
+Date: Mon, 09 Feb 2015 23:43:33 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYjXdQdXmC1Ukcd-aV_QJzUFd992YqVQqDrJkbFNr_vM74-rfKkIOnS8n00MNgi-C5GKLBDtjOn%0D%0AumxAFbmHGa_h2QaADQf_99E__J1iZa7AY8iGRZ0AC7QgB48EqAxO8h96XLYOh6OCLt9ft8eoEmyw%0D%0AGifjQbeT50sHAddU-hM6PU_M_MUu8p6SBNjLxdyYkov-OvyFntLt_1eISJpi96j0vCcBLJLKtQBK%0D%0Ai8VU1b2UzchcARcW6vvNazHn6lo6gPt4591upYYI5d3kxyfXBAoY-w%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:57:41 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:57:41 GMT; Path=/
+Set-Cookie: session-id-time=1581205413; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:57:41 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

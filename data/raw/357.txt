@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Trade Federation - Wikipedia, the free encyclopedia</title>
+<meta content="MediaWiki 1.25wmf15" name="generator"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Trade_Federation" rel="alternate"/>
+<link href="/w/index.php?title=Trade_Federation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Trade_Federation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="/wiki/Trade_Federation" hreflang="x-default" rel="alternate"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="http://en.wikipedia.org/wiki/Trade_Federation" rel="canonical"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+
+
+
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Trade_Federation skin-vector action-view vector-animateLayout">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><span dir="auto">Trade Federation</span></h1>
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="Question book-new.svg" data-file-height="204" data-file-width="262" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Trade_Federation&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(October 2008)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-in-universe" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This Star Wars-related article <b>describes a work or element of fiction in a primarily <a href="/wiki/Wikipedia:Manual_of_Style/Writing_about_fiction" title="Wikipedia:Manual of Style/Writing about fiction">in-universe</a> style</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Trade_Federation&amp;action=edit">help rewrite it</a> to <a href="/wiki/Wikipedia:Manual_of_Style/Writing_about_fiction" title="Wikipedia:Manual of Style/Writing about fiction">explain the fiction more clearly and provide non-fictional perspective</a>.</span> <small><i>(October 2009)</i></small></span></td>
+</tr>
+</table>
+<p>The <b>Trade Federation</b> is a fictional organization in the <i><a href="/wiki/Star_Wars" title="Star Wars">Star Wars</a></i> universe. It appears in the franchise's three prequel movies and the <a class="mw-redirect" href="/wiki/Star_Wars_Expanded_Universe" title="Star Wars Expanded Universe">Expanded Universe</a> and comprises many species. In the <i>Star Wars</i> franchise, the Trade Federation was able to maintain a sizable monopoly on interstellar trade and held considerable sway in the government of the <i>Star Wars</i> universe, known as the <a class="mw-redirect" href="/wiki/Galactic_Republic_(Star_Wars)" title="Galactic Republic (Star Wars)">Galactic Republic</a>.</p>
+<p>The Trade Federation are the main antagonist in the film <i><a href="/wiki/Star_Wars_Episode_I:_The_Phantom_Menace" title="Star Wars Episode I: The Phantom Menace">Star Wars Episode I: The Phantom Menace</a></i>, due to being manipulated by the evil <a href="/wiki/Sith" title="Sith">Order of the Sith Lords</a>. The Federation becomes part of a larger consortium in the films <i><a href="/wiki/Star_Wars_Episode_II:_Attack_of_the_Clones" title="Star Wars Episode II: Attack of the Clones">Star Wars Episode II: Attack of the Clones</a></i> and <i><a href="/wiki/Star_Wars_Episode_III:_Revenge_of_the_Sith" title="Star Wars Episode III: Revenge of the Sith">Star Wars Episode III: Revenge of the Sith</a></i>, known as the Confederacy of Independent Systems (CIS), which is also manipulated by the Sith. The Federation is destroyed, among other corporations of the CIS, when its representatives are assassinated by <a href="/wiki/Darth_Vader" title="Darth Vader">Darth Vader</a>; this act ends the <a href="/wiki/Clone_Wars_(Star_Wars)" title="Clone Wars (Star Wars)">Clone Wars</a> and paves the way for <a href="/wiki/Palpatine" title="Palpatine">Palpatine</a>'s transformation of the Galactic Republic into <a href="/wiki/Galactic_Empire_(Star_Wars)" title="Galactic Empire (Star Wars)">Galactic Empire</a>.</p>
+<p>The Federation's succeeding representative briefly resists the dissolution of his organization while affiliated with the remnant of the CIS called the Separatist holdouts. However, after being forced to sign a surrender treaty by <a href="/wiki/Clone_trooper" title="Clone trooper">Clone troopers</a> (who became <a href="/wiki/Stormtrooper_(Star_Wars)" title="Stormtrooper (Star Wars)">Stormtroopers</a>), the Federation becomes a <a href="/wiki/Puppet_state" title="Puppet state">puppet government</a> of the Galactic Empire. Pockets across the universe still resist in what is known as the Trade Federation resistance, eventually joining the cause of the <a href="/wiki/Rebel_Alliance" title="Rebel Alliance">Rebel Alliance</a>. The main body of the Federation continues to be a puppet to the Empire until it and the Imperial Senate are dissolved prior to the <a class="mw-redirect" href="/wiki/Battle_of_Yavin" title="Battle of Yavin">Battle of Yavin</a>, depicted in <i><a class="mw-redirect" href="/wiki/Star_Wars_Episode_IV:_A_New_Hope" title="Star Wars Episode IV: A New Hope">Star Wars Episode IV: A New Hope</a></i>. Several months later, the Empire defeats and disbands what is left of the Trade Federation resistance, ending the organization's three and a half centuries of galactic influence.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Stark_Hyperspace_War"><span class="tocnumber">1.1</span> <span class="toctext">Stark Hyperspace War</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#First_Battle_of_Alaris_Prime"><span class="tocnumber">1.2</span> <span class="toctext">First Battle of Alaris Prime</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Battle_of_Naboo"><span class="tocnumber">1.3</span> <span class="toctext">Battle of Naboo</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Clone_Wars"><span class="tocnumber">1.4</span> <span class="toctext">Clone Wars</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Appearances"><span class="tocnumber">2</span> <span class="toctext">Appearances</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#In_films"><span class="tocnumber">2.1</span> <span class="toctext">In films</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#In_video_games"><span class="tocnumber">2.2</span> <span class="toctext">In video games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trade_Federation&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Stark_Hyperspace_War">Stark Hyperspace War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trade_Federation&amp;action=edit&amp;section=2" title="Edit section: Stark Hyperspace War">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ten years before the events of Episode I, a space pirate named Iaco Stark proclaimed that there was a shortage of the healing substance called bacta when there in fact was none, and began selling the product at an inflated price, cutting in on the Trade Federation's profits (which were almost as ridiculous). In response, the Trade Federation asked for aid from the Republic. Senator Ranulph Tarkin of Seswenna Sector (the uncle of <a href="/wiki/Grand_Moff_Tarkin" title="Grand Moff Tarkin">Grand Moff Tarkin</a>) recruited the entire military of planet Eriadu to help fight the threat. In response, the <a class="mw-redirect" href="/wiki/Jedi_Order" title="Jedi Order">Jedi Order</a> sent a few of its members to aid in the fight as generals. The Battle of Troiken began the conflict, followed by the five battles of planet Qotile. The first four battles were believed to be draws, but the Fifth Battle of Qotile was a victory for the Republic. The Stark Commercial Combine was dissolved after that battle and Iaco Stark escaped into the underbelly of the <a class="new" href="/w/index.php?title=Outer_Rim&amp;action=edit&amp;redlink=1" title="Outer Rim (page does not exist)">Outer Rim</a>.</p>
+<h3><span class="mw-headline" id="First_Battle_of_Alaris_Prime">First Battle of Alaris Prime</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trade_Federation&amp;action=edit&amp;section=3" title="Edit section: First Battle of Alaris Prime">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Shortly before the Battle Of Naboo the Trade Federation tried to colonize <a class="new" href="/w/index.php?title=Alaris_Prime&amp;action=edit&amp;redlink=1" title="Alaris Prime (page does not exist)">Alaris Prime</a> which was one of <a href="/wiki/Kashyyyk" title="Kashyyyk">Kashyyyk</a>'s moons. They had many battles with the native <a href="/wiki/Wookiee" title="Wookiee">Wookiees</a> and one battle with Gundarks. In the end every one of their bases on <a class="new" href="/w/index.php?title=Alaris_Prime&amp;action=edit&amp;redlink=1" title="Alaris Prime (page does not exist)">Alaris Prime</a> was destroyed by the native <a href="/wiki/Wookiee" title="Wookiee">Wookiees</a> with the help of <a href="/wiki/Qui-Gon_Jinn" title="Qui-Gon Jinn">Qui-Gon Jinn</a>.</p>
+<h3><span class="mw-headline" id="Battle_of_Naboo">Battle of Naboo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trade_Federation&amp;action=edit&amp;section=4" title="Edit section: Battle of Naboo">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Shortly before the time period of <i><a href="/wiki/Star_Wars_Episode_I:_The_Phantom_Menace" title="Star Wars Episode I: The Phantom Menace">Star Wars Episode I: The Phantom Menace</a></i>, <a class="mw-redirect" href="/wiki/Nute_Gunray" title="Nute Gunray">Nute Gunray</a> ascended to the position of <a href="/wiki/Viceroy" title="Viceroy">viceroy</a> of the Trade Federation with <a class="mw-redirect" href="/wiki/List_of_Star_Wars_Separatist_characters#Haako.2C_Rune" title="List of Star Wars Separatist characters">Rune Haako</a> as his chief lieutenant. In <i><a href="/wiki/Star_Wars_Episode_I:_The_Phantom_Menace" title="Star Wars Episode I: The Phantom Menace">The Phantom Menace</a></i>, Gunray was manipulated into blockading and subsequently invading the planet <a href="/wiki/Naboo" title="Naboo">Naboo</a> by the shadowy <a href="/wiki/Palpatine" title="Palpatine">Darth Sidious</a>, who assured him the Senate would take no action against him. Nute sent an invasion force down to Naboo. The invasion force's leader, a battle droid known as OOM-9, and the Battle Droid army took over many cities like Harte Secur and, eventually, the capital city of Theed. Gunray tried to force <a class="mw-redirect" href="/wiki/Padme_Amidala" title="Padme Amidala">Queen Amidala</a> of Naboo to sign a treaty which would legalize the invasion, but she escaped and, after allying herself with the native <a class="mw-redirect" href="/wiki/List_of_Star_Wars_races_(F-J)#Gungan" title="List of Star Wars races (F-J)">Gungans</a>, Amidala captured Gunray himself and ended the invasion, which would become known as the Battle of Naboo. Gunray and Haako were put on trial for their crimes, but, due to the corruption of the Republic at the time, they were not punished and Gunray retained his position as viceroy.</p>
+<h3><span class="mw-headline" id="Clone_Wars">Clone Wars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trade_Federation&amp;action=edit&amp;section=5" title="Edit section: Clone Wars">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ten years later, in <i><a href="/wiki/Star_Wars_Episode_II:_Attack_of_the_Clones" title="Star Wars Episode II: Attack of the Clones">Star Wars Episode II: Attack of the Clones</a></i>, seeking revenge on Queen Amidala, Nute Gunray and <a class="mw-redirect" href="/wiki/List_of_Star_Wars_Separatist_characters#Libkath.2C_Gilramos" title="List of Star Wars Separatist characters">Gilramos Libkath</a>, a Trade Federation contract-scribe, agreed to ally the <a href="/wiki/Droid_(robot)" title="Droid (robot)">droid</a> armies of the Trade Federation with <a href="/wiki/Count_Dooku" title="Count Dooku">Count Dooku</a>'s Confederacy of Independent Systems, under the condition that Amidala be killed and brought to Gunray. Amidala's attempted assassination by the hired killer <a href="/wiki/Jango_Fett" title="Jango Fett">Jango Fett</a> did not succeed and Jedi Knight <a href="/wiki/Obi-Wan_Kenobi" title="Obi-Wan Kenobi">Obi-Wan Kenobi</a>, following his trail, discovered the Federation's plot on <a class="new" href="/w/index.php?title=Geonosis&amp;action=edit&amp;redlink=1" title="Geonosis (page does not exist)">Geonosis</a>. Nute Gunray and Gilramos Libkath, now his right-hand-man, were outraged. Meanwhile, Kenobi was able to alert the Republic and, soon, the <a href="/wiki/Clone_Wars_(Star_Wars)" title="Clone Wars (Star Wars)">Clone Wars</a> began when the new <a href="/wiki/Clone_trooper" title="Clone trooper">Clone troopers</a> engaged the Federation's droids on Geonosis. The Trade Federation's failed assassin, Jango Fett, was killed by <a href="/wiki/Mace_Windu" title="Mace Windu">Mace Windu</a> at the Battle of Geonosis; Libkath and Gunray fled the planet. It is said Libkath was later murdered by Jango Fett's son, <a href="/wiki/Boba_Fett" title="Boba Fett">Boba</a>, at which point the Trade Federation's settlement officer, <a class="mw-redirect" href="/wiki/List_of_Star_Wars_Separatist_characters#Haako.2C_Rune" title="List of Star Wars Separatist characters">Rune Haako</a>, from the Battle of Naboo retook his post as Gunray's second-in-command.</p>
+<p>The Trade Federation and its main leaders survived until the very end of the Clone Wars even after the Confederacy of Independent Systems and its Separatists, to which they belonged, had suffered numerous defeats throughout the wars. However, in <i><a href="/wiki/Star_Wars_Episode_III:_Revenge_of_the_Sith" title="Star Wars Episode III: Revenge of the Sith">Star Wars Episode III: Revenge of the Sith</a></i>, <a href="/wiki/Darth_Vader" title="Darth Vader">Darth Vader</a> murdered the Federation's rulers, Gunray and Haako, along with all the other members of the Separatist Council (like <a class="mw-redirect" href="/wiki/List_of_Star_Wars_Separatist_characters#Mai.2C_Shu" title="List of Star Wars Separatist characters">Shu Mai</a> and <a class="mw-redirect" href="/wiki/Wat_Tambor" title="Wat Tambor">Wat Tambor</a>) in cold blood under orders from Sidious, who also ordered the remaining droid armies to stand down. After the Clone Wars, what little remained of the Trade Federation's assets were forcibly seized by <a href="/wiki/Palpatine" title="Palpatine">Emperor Palpatine</a> to help build the <a href="/wiki/Galactic_Empire_(Star_Wars)" title="Galactic Empire (Star Wars)">Galactic Empire</a>. Trade organizations including the Trade Federation were disbanded and outlawed by the time of the <a class="mw-redirect" href="/wiki/Battle_of_Yavin" title="Battle of Yavin">Battle of Yavin</a> due to the Dissolution of the Imperial Senate shortly prior.</p>
+<h2><span class="mw-headline" id="Appearances">Appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trade_Federation&amp;action=edit&amp;section=6" title="Edit section: Appearances">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Trade Federation appears throughout the Star Wars films, novels, comics, and videogames.</p>
+<h3><span class="mw-headline" id="In_films">In films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trade_Federation&amp;action=edit&amp;section=7" title="Edit section: In films">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Trade Federation's key role in the films was as <a href="/wiki/Sith" title="Sith">Sith Lord</a> <a href="/wiki/Palpatine" title="Palpatine">Darth Sidious</a>'s puppet, facilitating his ascension to Galactic Emperor by the end of <a href="/wiki/Star_Wars_Episode_III:_Revenge_of_the_Sith" title="Star Wars Episode III: Revenge of the Sith">Episode III</a>. By inciting hostilities, Sidious used the military strength of the Trade Federation to distract the <a href="/wiki/Jedi" title="Jedi">Jedi</a> and to fabricate political leverage for his Palpatine guise. The true reason for the Battle of Naboo was to allow Palpatine, as Naboo's senator, to become Supreme Chancellor. Years later, the Separatist movement led by the Trade Federation was also a result of Sidious's manipulation, leading to the Clone Wars. Also Sidious's design, the Clone Wars justified the creation of a military force on the scale necessary to later exterminate the Jedi and form a Galactic Empire. This chain of events would have been impossible without the contributions of the Trade Federation. Once Sidious ascended to the position of Emperor, he no longer had any use for the Federation, and ordered his apprentice <a href="/wiki/Darth_Vader" title="Darth Vader">Darth Vader</a> to wipe out the last of all its leaders, ending the Clone Wars. Vader was unaware of his master's underlying manipulation, viewing himself then as the hero who ended the war.</p>
+<h3><span class="mw-headline" id="In_video_games">In video games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trade_Federation&amp;action=edit&amp;section=8" title="Edit section: In video games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Trade Federation is a playable faction in the video game <i><a href="/wiki/Star_Wars:_Galactic_Battlegrounds" title="Star Wars: Galactic Battlegrounds">Star Wars: Galactic Battlegrounds</a></i>.</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trade_Federation&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.wikia.com/wiki/c:starwars:Trade_Federation" rel="nofollow">Trade Federation</a> on <a href="/wiki/Wookieepedia" title="Wookieepedia">Wookieepedia</a>: a <i>Star Wars</i> wiki</li>
+<li><a class="external text" href="http://www.starwars.com/explore/encyclopedia/organization/tradefederation/" rel="nofollow">Trade Federation</a> in the Official <i>StarWars.com</i> Encyclopedia</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Star_Wars_characters" title="Template:Star Wars characters"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Star_Wars_characters" title="Template talk:Star Wars characters"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Star_Wars_characters&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><i><a href="/wiki/Star_Wars" title="Star Wars">Star Wars</a></i> <a href="/wiki/List_of_Star_Wars_characters" title="List of Star Wars characters">characters</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div><a href="/wiki/List_of_Star_Wars:_Knights_of_the_Old_Republic_characters" title="List of Star Wars: Knights of the Old Republic characters">Characters in <i>Star Wars: Knights of the Old Republic</i></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Category:Star_Wars_characters" title="Category:Star Wars characters">Individual characters</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:11em;padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">Film</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Admiral_Ackbar" title="Admiral Ackbar">Admiral Ackbar</a></li>
+<li><a href="/wiki/Darth_Vader" title="Darth Vader">Anakin Skywalker (Darth Vader)</a></li>
+<li><a href="/wiki/Boba_Fett" title="Boba Fett">Boba Fett</a></li>
+<li><a href="/wiki/C-3PO" title="C-3PO">C-3PO</a></li>
+<li><a href="/wiki/Chewbacca" title="Chewbacca">Chewbacca</a></li>
+<li><a href="/wiki/Count_Dooku" title="Count Dooku">Count Dooku (Darth Tyranus)</a></li>
+<li><a href="/wiki/Darth_Maul" title="Darth Maul">Darth Maul</a></li>
+<li><a href="/wiki/General_Grievous" title="General Grievous">General Grievous</a></li>
+<li><a href="/wiki/Grand_Moff_Tarkin" title="Grand Moff Tarkin">Grand Moff Tarkin</a></li>
+<li><a href="/wiki/Greedo" title="Greedo">Greedo</a></li>
+<li><a href="/wiki/Han_Solo" title="Han Solo">Han Solo</a></li>
+<li><a href="/wiki/Jabba_the_Hutt" title="Jabba the Hutt">Jabba the Hutt</a></li>
+<li><a href="/wiki/Jango_Fett" title="Jango Fett">Jango Fett</a></li>
+<li><a href="/wiki/Jar_Jar_Binks" title="Jar Jar Binks">Jar Jar Binks</a></li>
+<li><a href="/wiki/Lando_Calrissian" title="Lando Calrissian">Lando Calrissian</a></li>
+<li><a href="/wiki/Luke_Skywalker" title="Luke Skywalker">Luke Skywalker</a></li>
+<li><a href="/wiki/Mace_Windu" title="Mace Windu">Mace Windu</a></li>
+<li><a class="mw-redirect" href="/wiki/Nute_Gunray" title="Nute Gunray">Nute Gunray</a></li>
+<li><a href="/wiki/Obi-Wan_Kenobi" title="Obi-Wan Kenobi">Obi-Wan Kenobi</a></li>
+<li><a href="/wiki/Padm%C3%A9_Amidala" title="Padmé Amidala">Padmé Amidala</a></li>
+<li><a href="/wiki/Palpatine" title="Palpatine">Palpatine (Darth Sidious)</a></li>
+<li><a href="/wiki/Princess_Leia" title="Princess Leia">Princess Leia</a></li>
+<li><a href="/wiki/Qui-Gon_Jinn" title="Qui-Gon Jinn">Qui-Gon Jinn</a></li>
+<li><a href="/wiki/R2-D2" title="R2-D2">R2-D2</a></li>
+<li><a href="/wiki/Watto" title="Watto">Watto</a></li>
+<li><a href="/wiki/Wedge_Antilles" title="Wedge Antilles">Wedge Antilles</a></li>
+<li><a href="/wiki/Yoda" title="Yoda">Yoda</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em;padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a class="mw-redirect" href="/wiki/Star_Wars_Expanded_Universe" title="Star Wars Expanded Universe">Expanded Universe</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ahsoka_Tano" title="Ahsoka Tano">Ahsoka Tano</a></li>
+<li><a href="/wiki/Asajj_Ventress" title="Asajj Ventress">Asajj Ventress</a></li>
+<li><a href="/wiki/Cad_Bane" title="Cad Bane">Cad Bane</a></li>
+<li><a href="/wiki/Darth_Bane" title="Darth Bane">Darth Bane</a></li>
+<li><a href="/wiki/HK-47" title="HK-47">HK-47</a></li>
+<li><a href="/wiki/Mara_Jade" title="Mara Jade">Mara Jade</a></li>
+<li><a href="/wiki/Kyle_Katarn" title="Kyle Katarn">Kyle Katarn</a></li>
+<li><a href="/wiki/Revan" title="Revan">Revan</a></li>
+<li><a href="/wiki/Starkiller" title="Starkiller">Galen Marek (Starkiller)</a></li>
+<li><a href="/wiki/Grand_Admiral_Thrawn" title="Grand Admiral Thrawn">Grand Admiral Thrawn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="padding:0px">
+<div style="padding:0em 0.25em"></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Category:Star_Wars_organizations" title="Category:Star Wars organizations">Group characters</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:11em;padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a class="mw-redirect" href="/wiki/Force_(Star_Wars)" title="Force (Star Wars)">Force-users</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jedi" title="Jedi">Jedi</a></li>
+<li><a href="/wiki/Sith" title="Sith">Sith</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em;padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">Warriors</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_droid" title="Battle droid">Battle droid</a></li>
+<li><a href="/wiki/Clone_trooper" title="Clone trooper">Clone trooper</a> / <a href="/wiki/Stormtrooper_(Star_Wars)" title="Stormtrooper (Star Wars)">Stormtrooper</a></li>
+<li><a href="/wiki/Delta_Squad" title="Delta Squad">Delta Squad</a></li>
+<li><a href="/wiki/Mandalorian" title="Mandalorian">Mandalorian</a></li>
+<li><a href="/wiki/Rogue_Squadron" title="Rogue Squadron">Rogue Squadron</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em;padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">Families</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Skywalker_family" title="Skywalker family">Skywalker family</a></li>
+<li><a href="/wiki/Solo_family" title="Solo family">Solo family</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em;padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">Bands</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Figrin_D%27an_and_the_Modal_Nodes" title="Figrin D'an and the Modal Nodes">Figrin D'an and the Modal Nodes</a></li>
+<li><a href="/wiki/Max_Rebo_Band" title="Max Rebo Band">Max Rebo Band</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em;padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Category:Star_Wars_governments" title="Category:Star Wars governments">Governments</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Galactic_Empire_(Star_Wars)" title="Galactic Empire (Star Wars)">Galactic Empire</a></li>
+<li><a href="/wiki/Galactic_Republic" title="Galactic Republic">Galactic Republic</a></li>
+<li><a href="/wiki/New_Republic_(Star_Wars)" title="New Republic (Star Wars)">New Republic</a></li>
+<li><a href="/wiki/Rebel_Alliance" title="Rebel Alliance">Rebel Alliance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em;padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Category:Star_Wars_species" title="Category:Star Wars species">Species</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Wookies" title="Wookies">Wookies</a></li>
+<li><a class="mw-redirect" href="/wiki/Hutts" title="Hutts">Hutts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:11em;padding-left:0em;padding-right:0em;">
+<div style="padding:0em 0.75em;">Other</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jedi_Council" title="Jedi Council">Jedi Council</a></li>
+<li><strong class="selflink">Trade Federation</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:Star_Wars" title="Book:Star Wars">Book</a></b></li>
+<li><b><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Star_Wars" title="Category:Star Wars">Category</a></b></li>
+<li><b><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Star_Wars" title="Portal:Star Wars">Portal</a></b></li>
+<li><b><img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/> <a href="/wiki/Wikipedia:WikiProject_Star_Wars" title="Wikipedia:WikiProject Star Wars">WikiProject</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1098
+CPU time usage: 0.243 seconds
+Real time usage: 0.299 seconds
+Preprocessor visited node count: 1259/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46252/2097152 bytes
+Template argument size: 1752/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 2/500
+Lua time usage: 0.064/10.000 seconds
+Lua memory usage: 1.63 MB/50 MB
+-->
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  162.873      1 - -total
+ 52.24%   85.089      3 - Template:Navbox
+ 43.27%   70.480      1 - Template:Unreferenced
+ 41.82%   68.113      1 - Template:Star_Wars_major_characters
+ 30.24%   49.248      2 - Template:Ambox
+ 19.58%   31.893      2 - Template:Navbox_subgroup
+  8.71%   14.190      4 - Template:Icon
+  6.76%   11.018      1 - Template:In-universe
+  4.99%    8.129      1 - Template:Sww
+  2.70%    4.403      1 - Template:Databank
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:288091-0!*!0!!en!4!* and timestamp 20150131230233 and revision id 624253926
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Trade_Federation&amp;oldid=624253926">http://en.wikipedia.org/w/index.php?title=Trade_Federation&amp;oldid=624253926</a>"					</div>
+<div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Star_Wars_organizations" title="Category:Star Wars organizations">Star Wars organizations</a></li><li><a href="/wiki/Category:Fictional_businesspeople" title="Category:Fictional businesspeople">Fictional businesspeople</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_October_2008" title="Category:Articles lacking sources from October 2008">Articles lacking sources from October 2008</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li><li><a href="/wiki/Category:Articles_that_need_to_differentiate_between_fact_and_fiction_from_October_2009" title="Category:Articles that need to differentiate between fact and fiction from October 2009">Articles that need to differentiate between fact and fiction from October 2009</a></li><li><a href="/wiki/Category:All_articles_that_need_to_differentiate_between_fact_and_fiction" title="Category:All articles that need to differentiate between fact and fiction">All articles that need to differentiate between fact and fiction</a></li><li><a href="/wiki/Category:Star_Wars_articles_that_need_to_differentiate_between_fact_and_fiction" title="Category:Star Wars articles that need to differentiate between fact and fiction">Star Wars articles that need to differentiate between fact and fiction</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Trade+Federation&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Trade+Federation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Trade_Federation" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Trade_Federation" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Trade_Federation">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Trade_Federation&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Trade_Federation&amp;action=history" title="Past versions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if one exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li>
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+<li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li>
+<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+<li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li>
+<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Trade_Federation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li>
+<li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Trade_Federation" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
+<li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
+<li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=Trade_Federation&amp;oldid=624253926" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=Trade_Federation&amp;action=info" title="More information about this page">Page information</a></li>
+<li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q1048805" title="Link to connected data repository item [g]">Wikidata item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Trade_Federation&amp;id=624253926" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Trade+Federation">Create a book</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Trade+Federation&amp;oldid=624253926&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="t-print"><a accesskey="p" href="/w/index.php?title=Trade_Federation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Kevredad_ar_c%27henwerzh" hreflang="br" lang="br" title="Kevredad ar c'henwerzh – Breton">Brezhoneg</a></li>
+<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Handelsf%C3%B8derationen" hreflang="da" lang="da" title="Handelsføderationen – Danish">Dansk</a></li>
+<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Federaci%C3%B3n_de_comercio" hreflang="es" lang="es" title="Federación de comercio – Spanish">Español</a></li>
+<li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Merkataritza_Federazioa" hreflang="eu" lang="eu" title="Merkataritza Federazioa – Basque">Euskara</a></li>
+<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_du_commerce" hreflang="fr" lang="fr" title="Fédération du commerce – French">Français</a></li>
+<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A4%D7%93%D7%A8%D7%A6%D7%99%D7%99%D7%AA_%D7%94%D7%A1%D7%97%D7%A8_(%D7%9E%D7%9C%D7%97%D7%9E%D7%AA_%D7%94%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D)" hreflang="he" lang="he" title="פדרציית הסחר (מלחמת הכוכבים) – Hebrew">עברית</a></li>
+<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kereskedelmi_Sz%C3%B6vets%C3%A9g" hreflang="hu" lang="hu" title="Kereskedelmi Szövetség – Hungarian">Magyar</a></li>
+<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Trade_Federation" hreflang="nl" lang="nl" title="Trade Federation – Dutch">Nederlands</a></li>
+<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E9%80%9A%E5%95%86%E9%80%A3%E5%90%88" hreflang="ja" lang="ja" title="通商連合 – Japanese">日本語</a></li>
+<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Federacja_Handlowa_(Gwiezdne_wojny)" hreflang="pl" lang="pl" title="Federacja Handlowa (Gwiezdne wojny) – Polish">Polski</a></li>
+<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Federa%C3%A7%C3%A3o_do_Com%C3%A9rcio" hreflang="pt" lang="pt" title="Federação do Comércio – Portuguese">Português</a></li>
+<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Federa%C8%9Bia_Comer%C8%9Bului" hreflang="ro" lang="ro" title="Federația Comerțului – Romanian">Română</a></li>
+<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A2%D1%80%D0%B3%D0%BE%D0%B2%D0%B0%D1%87%D0%BA%D0%B0_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Трговачка Федерација – Serbian">Српски / srpski</a></li>
+<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kauppaliitto" hreflang="fi" lang="fi" title="Kauppaliitto – Finnish">Suomi</a></li>
+<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Handelsfederationen" hreflang="sv" lang="sv" title="Handelsfederationen – Swedish">Svenska</a></li>
+<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%B2%BF%E6%98%93%E8%81%94%E9%82%A6" hreflang="zh" lang="zh" title="貿易联邦 – Chinese">中文</a></li>
+<li class="uls-p-lang-dummy"><a href="#"></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" class="wbc-editpage" href="//www.wikidata.org/wiki/Q1048805#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 5 September 2014, at 05:53.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Trade_Federation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
+</li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+
+</body>
+</html>

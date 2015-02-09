@@ -1,0 +1,14 @@
+Title: Celine Dion -- I''m Passing on the Caesars | TMZ.com 
+Date: Mon, 09 Feb 2015 23:48:27 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Vary: Host,Accept-Encoding,User-Agent
+X-FpcMode-Result: WHITELIST
+Set-Cookie: phpsessionid=e5nhe7gj7di6qj1gr09tg8he54; expires=Wed, 11-Feb-2015 23:48:27 GMT; path=/; domain=www.tmz.com
+X-Powered-By: Crowd Fusion
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Mon, 09 Feb 2015 23:48:27 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset="utf-8"
+Set-Cookie: SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+

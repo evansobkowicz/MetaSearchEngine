@@ -1,0 +1,14 @@
+Title: The Lion King (1994) - IMDb
+Date: Mon, 09 Feb 2015 23:41:49 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYh1c3YyrCdg2McKs0K_X-ORilj4XxU8dlCLM-RYXTE8kFwEHoV-h4u9ZLIF-XiQ4eaXZUVkceC%0D%0AuxyyfC5z2uI_XHYI6vkUy10eR6YmLY10z6h9llky9bpk4-C4tZFPO7Edm-fxcwCL3lnoBwpIuukj%0D%0A3Tj58nNF6PGZcmjILgS9KF0sg_4GGX-QmZlLfm6bu5DJ98hHCRKyikSD_-w4y4uwQTmUKeF1BEge%0D%0AhTlJ6VplYhYzc3P53slo10DRERLIO4h1eqShrJ_scRmLPKRZZ6s-7Q%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:57 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:57 GMT; Path=/
+Set-Cookie: session-id-time=1581205310; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:57 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Connection: close
+Transfer-Encoding: chunked
+

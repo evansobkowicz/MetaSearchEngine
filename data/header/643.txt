@@ -1,0 +1,20 @@
+Title: John Bonham - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=163272; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 09 Feb 2015 15:24:29 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 3066904259 3066582781, 2475513043 2427019596
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:46:10 GMT
+Age: 29991
+Connection: close
+X-Cache: cp1066 hit (3), cp1065 frontend hit (51)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

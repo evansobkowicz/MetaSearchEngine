@@ -1,0 +1,14 @@
+Title: Inception 2? Just Say No To Sequel Rumors - CINEMABLEND
+Server: nginx/1.6.2
+Date: Mon, 09 Feb 2015 23:43:41 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+X-Powered-By: PHP/5.4.27
+Expires: Tue, 10 Feb 2015 00:43:41 GMT
+Cache-Control: max-age=3600
+Pragma: no-cache
+Set-Cookie: cinemablend_session=e4325495cf6d6d97afbc1bb89e0c4127; path=/; domain=.cinemablend.com
+X-Cache-Status: MISS
+View: desktop
+

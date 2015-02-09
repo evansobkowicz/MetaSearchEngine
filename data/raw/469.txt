@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head id="Meta_HeadTag"><title>Jurassic World’s Antagonist Problem: Can Dinosaurs Be “Villains”? :: Movies :: Features :: Paste</title><link href="/pastemagazine.img/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="http://www.pastemagazine.com/recent.xml" rel="alternate" title="Recent Paste Articles" type="application/rss+xml"/>
+<link href="http://www.pastemagazine.com/articles/2015/02/jurassic-worlds-antagonist-problem-can-dinosaurs-b.html" rel="canonical"/>
+<meta content="text/html;charset=utf-8" http-equiv="Content-type"/>
+<meta content="Jurassic World’s Antagonist Problem: Can Dinosaurs Be “Villains”? - Paste Magazine" name="title"/>
+<meta content="Can &quot;Jurassic World&quot; subvert modern Hollywood story structure to deliver an experience that isn't totally predictable?" name="description"/>
+<meta content="features, jurassic park, jurassic world, movies, &lt;i&gt;Jurassic World&lt;/i&gt;'s Antagonist Problem: Can Dinosaurs Be &quot;Villains&quot;?, Movies, Features, Articles, Paste" name="keywords"/>
+<meta content="679468950" property="fb:admins"/>
+<meta content="1185614656" property="fb:admins"/>
+<meta content="127550380613969" property="fb:app_id"/>
+<meta content="http://cdn.pastemagazine.com/www/articles/jurassicworldindominusrex%20%28Custom%29.jpg?635590932352738051556313" property="og:image"/>
+<meta content="article" property="og:type"/>
+<meta content="http://www.pastemagazine.com/articles/2015/02/jurassic-worlds-antagonist-problem-can-dinosaurs-b.html" property="og:url"/>
+<meta content="Jurassic World’s Antagonist Problem: Can Dinosaurs Be “Villains”?" property="og:title"/>
+<meta content="pastemagazine.com" property="og:site_name"/>
+<meta content="Can &quot;Jurassic World&quot; subvert modern Hollywood story structure to deliver an experience that isn't totally predictable?" property="og:description"/>
+<meta content="width=device-width" id="viewport" name="viewport"/>
+
+<link href="http://www.pastemagazine.com/pastemagazine.css/stylesheet.css?cb=30.2015.10123.12256.2" rel="stylesheet" type="text/css"/>
+
+<link href="http://www.pastemagazine.com/pastemagazine.css/print.css?cb=30.2015.10123.12256.2" media="print" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+<!--[if gte IE 9]><style type="text/css">.gradient {filter: none;}</style><![endif]-->
+</head>
+<body>
+<form action="/articles/2015/02/jurassic-worlds-antagonist-problem-can-dinosaurs-b.html" id="PageForm" method="post">
+<div class="aspNetHidden">
+</div>
+<div class="center header-ad gradient only-view-large">
+<div class="fullwide" id="header-ad">
+<div class="ad">
+<div id="ad728x90top"> </div>
+</div>
+</div>
+</div>
+<div class="center mobile-header-ad only-view-small">
+<div class="fullwide" id="mobile-header-ad">
+<div class="ad">
+<div id="mobile320x50top"> </div>
+</div>
+</div>
+</div>
+<div class="center master-header">
+<a class="non print-logo" href="http://www.pastemagazine.com/">
+<img alt="PASTE" src="/pastemagazine.img/master-header-logo.png" title="PASTE"/>
+</a>
+<header class="fullwide" data-pagetype="Article" id="master-header">
+<div class="page-logo">
+<span>Movies</span>
+</div>
+<div class="top">
+<a class="non logo" href="http://www.pastemagazine.com/">
+<img alt="PASTE" src="/pastemagazine.img/master-header-logo.png" title="PASTE"/>
+</a>
+<div class="search">
+<input id="master-search" placeholder="Search Paste" type="search" value=""/>
+<button id="master-search-button">
+<i class="icon-search"> </i>
+</button>
+</div>
+<ul class="nof icons">
+<li class="f">
+<a class="non icon-facebook" href="http://facebook.com/pastemagazine" target="_blank"> </a>
+</li>
+<li>
+<a class="non icon-twitter" href="http://twitter.com/pastemagazine" target="_blank"> </a>
+</li>
+<li>
+<a class="non icon-gplus" href="https://plus.google.com/u/1/105010654625654059976/posts" target="_blank"> </a>
+</li>
+<li>
+<a class="non icon-pinterest-circled" href="http://www.pinterest.com/pastemagazine/" target="_blank"> </a>
+</li>
+<li>
+<a class="non icon-instagram" href="http://instagram.com/pastemagazine" target="_blank"> </a>
+</li>
+<li>
+<a class="non icon-youtube-play-2" href="https://www.youtube.com/user/pastemagazineonline" target="_blank"> </a>
+</li>
+<li class="newsletter-signup-container">
+<input id="header-newsletter-signup" placeholder="Newsletter Signup" type="email"/>
+</li>
+</ul>
+</div>
+<div class="navigation">
+<ul class="nof elements">
+<li class="f">
+<a class="non" href="/music">Music</a>
+</li>
+<li>
+<a class="non a" href="/movies">Movies</a>
+</li>
+<li>
+<a class="non" href="/tv">TV</a>
+</li>
+<li>
+<a class="non" href="/games">Games</a>
+</li>
+<li>
+<a class="non" href="/comedy">Comedy</a>
+</li>
+<li>
+<a class="non" href="/books">Books</a>
+</li>
+<li>
+<a class="non" href="/design">Design</a>
+</li>
+<li>
+<a class="non" href="/tech">Tech</a>
+</li>
+<li>
+<a class="non" href="/food">Food</a>
+</li>
+<li>
+<a class="non" href="/drink">Drink</a>
+</li>
+<li class="l">
+<a class="non" href="/travel">Travel</a>
+</li>
+</ul>
+</div>
+<div class="subhead">
+<a class="non icon-th-large extra-links photo-galleries" href="/articles/article-type/galleries/?s=1">Galleries</a>
+<a class="non icon-list extra-links top-lists" href="/articles/article-type/lists/?s=1">Lists</a>
+<a class="non icon-reviews extra-links reviews" href="/articles/article-type/reviews/">Reviews</a>
+<a class="non icon-youtube extra-links video" href="https://www.youtube.com/user/pastemagazineonline" target="_blank">Video</a>
+<a class="non icon-best-of extra-links bestof" href="/tag/best+of+2014">Best of 2014</a>
+<ul class="nof">
+<li>
+<a class="non" href="/comics">Comics</a>
+</li>
+<li>
+<a class="non" href="/style">Style</a>
+</li>
+<li>
+<a class="non" href="/soccer">Soccer</a>
+</li>
+<li>
+<a class="non" href="/college">College</a>
+</li>
+<li class="l">
+<a class="non" href="/geek">Geek</a>
+</li>
+</ul>
+</div>
+<div class="ad header-bottom-ad">
+<div id="ad970x90top">
+</div>
+</div>
+</header>
+<div class="fullwide" id="mobile-header">
+<a class="non logo" href="http://www.pastemagazine.com/">
+<img alt="PASTE" src="/pastemagazine.img/master-header-logo.png" title="PASTE"/>
+</a>
+<div class="menu icon-menu"> </div>
+<div class="fullwide menu-items closed">
+<div class="blue-bar">
+<a class="non mobile-extra-links photo-galleries" href="/articles/article-type/galleries/?s=1">Galleries</a>
+<a class="non mobile-extra-links top-lists" href="/articles/article-type/lists/?s=1">Lists</a>
+<a class="non mobile-extra-links reviews" href="/articles/article-type/reviews/">Reviews</a>
+<a class="non mobile-extra-links video" href="https://www.youtube.com/user/pastemagazineonline" target="_blank">Video</a>
+<a class="non mobile-extra-links bestof" href="/tag/best+of+2014">Best of 2014</a>
+</div>
+<div class="search">
+<input id="mobile-master-search" placeholder="Search Paste" type="search" value=""/>
+<button id="mobile-master-search-button">
+<i class="icon-search"> </i>
+</button>
+</div>
+<ul class="nof elements">
+<li class="rf">
+<a class="non a" href="/movies">Movies</a>
+</li>
+<li class="rl">
+<a class="non" href="/music">Music</a>
+</li>
+<li class="rf">
+<a class="non" href="/games">Games</a>
+</li>
+<li class="rl">
+<a class="non" href="/tv">TV</a>
+</li>
+<li class="rf">
+<a class="non" href="/books">Books</a>
+</li>
+<li class="rl">
+<a class="non" href="/comedy">Comedy</a>
+</li>
+<li class="rf">
+<a class="non" href="/tech">Tech</a>
+</li>
+<li class="rl">
+<a class="non" href="/design">Design</a>
+</li>
+<li class="rf">
+<a class="non" href="/food">Food</a>
+</li>
+<li class="rl">
+<a class="non" href="/drink">Drink</a>
+</li>
+<li class="rf">
+<a class="non" href="/travel">Travel</a>
+</li>
+<li class="rl">
+<a class="non" href="/comics">Comics</a>
+</li>
+<li class="rf">
+<a class="non" href="/soccer">Soccer</a>
+</li>
+<li class="rl">
+<a class="non" href="/style">Style</a>
+</li>
+<li class="rf l">
+<a class="non" href="/college">College</a>
+</li>
+<li class="rl l">
+<a class="non" href="/geek">Geek</a>
+</li>
+</ul>
+</div>
+<div class="page-indicator">
+<a class="non text" href="http://www.pastemagazine.com/movies">Movies</a>
+</div>
+</div>
+</div>
+<div class="center article-detail-wrapper">
+<div class="fullwide" id="article-detail-wrapper">
+<div id="landing-left-column">
+<section class="article-detail-container" data-entry="{ 'id': 116936 }" id="article-detail-container">
+<div class="header">
+<b class="type">
+<a class="non" href="/movies">Movies</a>  |  <a class="non" href="/articles/movies/features/">Features</a></b>
+<h1 class="title"><i>Jurassic World</i>’s Antagonist Problem: Can Dinosaurs Be “Villains”?</h1>
+<div class="byline">By <a class="ovr" href="/writers?name=jim+vorel">Jim Vorel</a></div>
+<div class="published">February 8, 2015  |  9:18pm</div>
+</div>
+<b class="article-shares-links">
+<a class="social-stub social-share facebook" data-href="http://www.pastemagazine.com/articles/2015/02/jurassic-worlds-antagonist-problem-can-dinosaurs-b.html" data-shares="50" data-title="Jurassic World&amp;#8217;s Antagonist Problem: Can Dinosaurs Be &amp;#8220;Villains&amp;#8221;?" href="javascript:void(0);">Share</a>
+<a class="social-stub social-share twitter" data-href="http://www.pastemagazine.com/articles/2015/02/jurassic-worlds-antagonist-problem-can-dinosaurs-b.html" data-shares="21" data-title="Jurassic World&amp;#8217;s Antagonist Problem: Can Dinosaurs Be &amp;#8220;Villains&amp;#8221;?" href="javascript:void(0);">Tweet</a>
+<a class="social-stub social-share google-plus" data-href="http://www.pastemagazine.com/articles/2015/02/jurassic-worlds-antagonist-problem-can-dinosaurs-b.html" data-shares="0" data-title="Jurassic World&amp;#8217;s Antagonist Problem: Can Dinosaurs Be &amp;#8220;Villains&amp;#8221;?" href="javascript:void(0);">Share</a>
+</b>
+<div class="main-image">
+<img alt="&lt;i&gt;Jurassic World&lt;/i&gt;&amp;#8217;s Antagonist Problem: Can Dinosaurs Be &amp;#8220;Villains&amp;#8221;?" src="http://cdn.pastemagazine.com/www/articles/jurassicworldindominusrex%20%28Custom%29.jpg?635590932352738051"/>
+</div>
+<div class="copy entry"><p>It’s been 13 years since the last time audiences set foot within the dream space of the <i>Jurassic</i> world, and in that time, much has changed. CGI and 3D effects ascended to a new level via <i>Avatar</i>. The world forgot most of the franchise-deflating disappointments of <i>Jurassic Park III</i>. The fictional John Hammond passed away alongside the actor who brought him to life, Richard Attenborough. And along the way, Hollywood apparently forgot what the first film was all about—but are you really surprised?</p>
+<p>The original <i>Jurassic Park</i>, in no uncertain terms, was one of the formative films of my youth. I was seven when it came out in 1993, too young perhaps to go see the film in theaters, but I soon saw it elsewhere. And then saw it again, and again. I’d already gone through the dinosaur phase that so many young boys find themselves engrossed in, but it probably hit me a bit harder than most. There are photos of me in a third-grade classroom wearing a floppy fedora and blue shirt like Dr. Alan Grant from that first film. Other kids can be seen in the background wearing lab coats or chefs hats. It was some variant on “what do you want to be when you grow up?” day. And I was there to represent the rootin’, tootin’ Action Paleontologists of <i>Jurassic Park</i>.</p>
+<p>And so, please realize it comes from a place of love when I say that <i>Jurassic World</i> has me worried. Not about things so paltry as the CGI, which whipped up a big fanboy conversation when the first trailer was released last year, but about things I believe are much more integral to its success. In chief, I’m concerned about the issue of antagonists. Because to have an “evil” dinosaur as a villain is a radical departure from the spirit of the original, and I’ll do my best in this space to explain why.</p>
+<p>First, let’s agree upon one thing: The dinosaurs of <i>Jurassic Park</i> are neither good nor evil, because they’re animals. An <i>animal</i> cannot truly be evil, because to do so requires knowledge of good and at least the suggestion of sentience. Even the raptors of the original film, so often lauded for their intelligence, don’t engineer their own escape and aren’t truly “evil.” They may be more capable, but they’re still just animals, doing what comes naturally to them. In that way, they’re essentially outside of blame for their actions—it’s always the fault of man when he comes into contact with them. Don’t want to get eaten by raptors? Then don’t create raptors and free them from their paddocks to run amok—that’s just asking for devouring via raptor.</p>
+<p>This is a single instance of <i>Jurassic Park</i>’s greatest recurring theme, as it’s casually laid out by Jeff Goldbum’s Ian Malcom during the guided tour of the island: chaos theory. The concepts of chaos theory crop up constantly throughout the film as we’re reminded over and over again that man, as a species, thinks he has a great degree more control over his surroundings than he really does. In reality, the complex systems of fate, chance and unknowable variables all operate on levels completely beyond our understanding, and any attempt to control them is hopeless. It’s not just about the dinosaurs figuring out how to breed—it’s everywhere. Hammond’s choice to employ Wayne Knight’s Dennis Nedry is a prime example: Hammond believes he can control all of the interconnected systems at his fingers, including the people, but there’s always a spanner in the works. One failure in that system—whether it’s the greed of a Dennis Nedry or the shut-down of an electric fence—and you’ve got an unbalanced equation spinning toward a deadly conclusion. </p>
+<p>The point is, in <i>Jurassic Park</i>, it’s always man and his hubris that is the villain. It’s something the second film, <i>The Lost World</i> also understood for the most part, but was lost by the time <i>Jurassic Park III</i> came out, to the series’ detriment. And in <i>Jurassic World</i>, it’s the new ” <a href="http://www.jurassicworld.com/dinosaurs/indominus-rex/">Indominus Rex</a> ” that raises similar concerns. </p>
+<p>On a surface level, yes, it’s more of the “man’s folly” theme to think they can muck about with genetics and create a new dinosaur species for the sake of marketability. But who will be assigned that responsibility and consequences? Certainly not Bryce Dallas Howard’s park operations character—you don’t bring in a beautiful Hollywood actress to play that role, because an attractive character immediately engenders underserved audience sympathy—that’s just Audience Manipulation 101. Irrfan Kahn’s businessman character seems to be the closest in tone to what one would expect to find, but none of the materials so far have suggested he plays a major role in the film, certainly not like Hammond or the lawyer Donald Gennaro in the original.</p>
+<p>Beyond that, though, the potential problem lies with the capabilities with which they’ve imbued this new dinosaur. In short, they’ve transformed it from an “animal” into a “monster.” While an animal simply does what’s in its nature, a monster plots. It schemes. It has motives and the capacity for evil. We can see from the two trailers that the Indominus Rex engineers its own escape, so it’s clearly smarter than even the velociraptors. And according to Chris Pratt in <a href="https://www.youtube.com/watch?v=4mvWuky1g0g">the Super Bowl spot</a>, “it’s killing for sport,” rather than self-preservation. What we have here isn’t an animal—it’s a dinosaur serial killer. </p>
+<p>You may be asking why it matters, whether the Indominus Rex is an animal or a monster; whether it’s a hazard or a “villain,” and the answer is this: It matters because if the creature becomes a villain, it immediately becomes subject to an entirely different set of storytelling tropes that Hollywood rarely, if ever, deviates from. In more ways than one, it robs us of any unpredictability in the story structure and conclusion. If the Indominus Rex is central, it shackles its story arc to the plot while simultaneously minimizing the importance of every other dinosaur—it becomes the only one that matters. </p>
+<p>Consider the climactic scene of the original <i>Jurassic Park</i>. As the raptors close in on the heroes, things look hopeless for a moment before they’re suddenly saved by the T-Rex’s appearance. It’s a genuinely surprising moment because the audience has no reason to expect that the T-Rex is about to suddenly show itself. It’s never been implied that this one creature is central to the plot, and nothing dictates that it would <em>have to be there</em> in the closing moments. It hasn’t been given a personality and thus, convention doesn’t dictate that it have a closed story arc. In <i>Jurassic World</i>, on the other hand, we already know months in advance that the Indominus Rex will need to be thoroughly “dealt with” for a conventional conclusion. The story is structured around it as its main narrative gewgaw, which means the storytellers’ hands are tied. What choice do they have?</p>
+<p>Allow me to offer an example from another, seemingly unrelated film series: <i>28 Days Later</i> and <i>28 Weeks Later</i>. The rage virus infected of the first film were a terrifying modern spin on the old zombie structure, an outward manifestation of man’s barbarism, unstoppable and uncaring in their anonymity. Their anonymity is key to the metaphor.</p>
+<p>The sequel, however, did away with that by making the father of the two protagonist children one of the infected. Suddenly, instead of the threat of the unconquerable hoard, you have a <i>named</i> enemy who repeatedly shows up to stalk them, making it closer to a slasher film in motif. All of the other infected immediately become pointless to the story—if you’re at all familiar with Hollywood story structure, you know that the anonymous infected are no longer a threat if the primary antagonist hasn’t yet been dealt with. Until he’s dead and his story arc is closed, the audience is simply waiting for him to show up again. We know that the conclusion must involve that one infected guy in one way or another because that’s simply how stories work—he’s like Chekhov’s zombie. One can only hope that the Indominus Rex isn’t bound quite so tightly to convention, for the sake of being <em>surprised</em> for once.</p>
+<p>Obviously, this is all hearsay for now, simply based on what we’ve been able to observe in the film’s promotional materials. I have no doubt that <i>Jurassic World</i> will likely still be an entertaining film, but it’s safe to say that ideally, I’m still grasping for that transcendent experience a seven-year-old me derived from the original. I’ll continue to hope that I’m wrong about the misgivings prompted by an extensive education in film—but I doubt it. Hollywood would have to evolve far more than an Indominus Rex to subvert its own predictability.</p>
+<p><hr noshade="" size="3" width="100%"/></p>
+<p><i>Jim Vorel is <i>Paste</i>’s news editor and resident dinosaur geek. He studied film and journalism at the University of Illinois, so please keep that in mind as you compose a comment about his total lack of understanding in either of those fields.</i></p>
+</div>
+<div class="tags">
+<b class="label">Tags</b>
+<ul class="nof">
+<li class="f">
+<a class="non" href="/tag/features">features</a>
+</li>
+<li>
+<a class="non" href="/tag/jurassic+park">jurassic park</a>
+</li>
+<li>
+<a class="non" href="/tag/jurassic+world">jurassic world</a>
+</li>
+<li>
+<a class="non" href="/tag/movies">movies</a>
+</li>
+</ul>
+</div>
+</section>
+<div class="taboola article-detail-taboola">
+<div id="taboola-below-main-column"> </div>
+
+<div id="taboola-text-2-columns-mix"> </div>
+
+</div>
+<div class="comments article-detail-comments">
+<div id="disqus_thread"> </div>
+
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a class="dsq-brlink" href="http://disqus.com">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+<aside class="only-view-small">
+<div class="landing-articles" id="article-detail-most-read">
+<div class="articles-header">
+<b class="hed">Most Read In Movies</b>
+</div>
+<ul class="nof articles">
+<li class="f" data-entry="{ 'id': 116823 }">
+<a class="non image" href="/articles/2015/02/twilight-refuses-to-die-six-new-short-films-planne.html">
+<img alt="&lt;i&gt;Twilight&lt;/i&gt; Refuses to Die; Six New Short Films Planned" src="http://cdn.pastemagazine.com/www/articles/twilightmovies-lead.jpg?635590923799782841"/>
+</a>
+<a class="non title" href="/articles/2015/02/twilight-refuses-to-die-six-new-short-films-planne.html"><i>Twilight</i> Refuses to Die; Six New Short Films Planned</a>
+<b class="only-view-small date-time">2/5/2015 10:45:00 AM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-05T10:45:00-07:00">2/5/2015 10:45:00 AM</b>
+<b class="shares">294 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116936 }">
+<a class="non image" href="/articles/2015/02/jurassic-worlds-antagonist-problem-can-dinosaurs-b.html">
+<img alt="&lt;i&gt;Jurassic World&lt;/i&gt;&amp;#8217;s Antagonist Problem: Can Dinosaurs Be &amp;#8220;Villains&amp;#8221;?" src="http://cdn.pastemagazine.com/www/articles/jurassicworldindominusrexlead%20%28Custom%29.jpeg?635590923799792842"/>
+</a>
+<a class="non title" href="/articles/2015/02/jurassic-worlds-antagonist-problem-can-dinosaurs-b.html"><i>Jurassic World</i>’s Antagonist Problem: Can Dinosaurs Be “Villains”?</a>
+<b class="only-view-small date-time">2/8/2015 9:18:04 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-08T21:18:04-07:00">2/8/2015 9:18:04 PM</b>
+<b class="shares">71 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116949 }">
+<a class="non image" href="/articles/2015/02/the-roles-of-a-lifetime-sean-bean.html">
+<img alt="The Roles of a Lifetime: Sean Bean" src="http://cdn.pastemagazine.com/www/articles/LEAD%20Bean.jpg?635590923799792842"/>
+</a>
+<a class="non title" href="/articles/2015/02/the-roles-of-a-lifetime-sean-bean.html">The Roles of a Lifetime: Sean Bean</a>
+<b class="only-view-small date-time">2/9/2015 8:00:00 AM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T08:00:00-07:00">2/9/2015 8:00:00 AM</b>
+<b class="shares">55 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116868 }">
+<a class="non image" href="/blogs/lists/2015/02/the-25-best-movies-on-hbo-go-in-february-2015.html">
+<img alt="The 25 Best Movies on HBO Go in February 2015" src="http://cdn.pastemagazine.com/www/blogs/lists/2015/02/05/hbo-go-feb-2015-lead.jpg?635590923799792842"/>
+</a>
+<a class="non title" href="/blogs/lists/2015/02/the-25-best-movies-on-hbo-go-in-february-2015.html">The 25 Best Movies on HBO Go in February 2015</a>
+<b class="only-view-small date-time">2/5/2015 6:00:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-05T18:00:00-07:00">2/5/2015 6:00:00 PM</b>
+<b class="shares">134 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116101 }">
+<a class="non image" href="/articles/2015/01/new-february-2015-movies-and-tv-streaming-on-netfl.html">
+<img alt="New February 2015 Movies and TV Streaming on Netflix" src="http://cdn.pastemagazine.com/www/articles/2015/01/21/netflix-feb-2015-lead.jpg?635590923799802843"/>
+</a>
+<a class="non title" href="/articles/2015/01/new-february-2015-movies-and-tv-streaming-on-netfl.html">New February 2015 Movies and TV Streaming on Netflix</a>
+<b class="only-view-small date-time">1/21/2015 1:41:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-01-21T13:41:00-07:00">1/21/2015 1:41:00 PM</b>
+<b class="shares">471 Shares</b>
+</b>
+</li>
+<li class="l" data-entry="{ 'id': 116918 }">
+<a class="non image" href="/articles/2015/02/seventh-son.html">
+<img alt="&lt;i&gt;Seventh Son&lt;/i&gt;" src="http://cdn.pastemagazine.com/www/articles/LEAD%20Seventh%20Son.jpg?635590923799802843"/>
+</a>
+<a class="non title" href="/articles/2015/02/seventh-son.html"><i>Seventh Son</i></a>
+<b class="only-view-small date-time">2/6/2015 3:55:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-06T15:55:00-07:00">2/6/2015 3:55:00 PM</b>
+<b class="shares">38 Shares</b>
+</b>
+</li>
+</ul>
+</div> <div class="mobile-ad only-view-small"><div id="mobile300x250middle"></div></div>
+<div class="landing-list" id="article-detail-essentials">
+<div class="list-header">
+<a class="non hed" href="/movies/essential">Movies Essentials</a>
+</div>
+<ul class="nof list">
+<li class="f" data-entry="{ 'id': 103467 }">
+<a class="non title" href="/blogs/lists/2013/12/the-50-best-movies-of-2013.html">The 50 Best Movies of 2013</a>
+</li>
+<li data-entry="{ 'id': 107844 }">
+<a class="non title" href="/blogs/lists/2014/06/the-101-best-movies-streaming-on-netflix-2014.html">The 101 Best Movies Streaming on Netflix 2014</a>
+</li>
+<li data-entry="{ 'id': 93554 }">
+<a class="non title" href="/blogs/lists/2012/11/the-best-movies-on-hulu-plus.html">The 50 Best Movies on Hulu Plus</a>
+</li>
+<li data-entry="{ 'id': 101111 }">
+<a class="non title" href="/blogs/lists/2013/09/the-40-best-documentaries-on-netflix-instant.html">The 40 Best Documentaries on Netflix Instant</a>
+</li>
+<li data-entry="{ 'id': 97482 }">
+<a class="non title" href="/blogs/lists/2013/04/the-50-best-romantic-comedies-of-all-time.html">The 50 Best Romantic Comedies of All Time</a>
+</li>
+<li data-entry="{ 'id': 100267 }">
+<a class="non title" href="/blogs/lists/2013/08/the-10-best-biopics-of-all-time.html">The 20 Best Biopics of All Time</a>
+</li>
+<li data-entry="{ 'id': 90564 }">
+<a class="non title" href="/blogs/lists/2012/07/the-90-best-movies-of-the-1990s.html">The 90 Best Movies of the 1990s</a>
+</li>
+<li data-entry="{ 'id': 93230 }">
+<a class="non title" href="/blogs/lists/2012/10/the-80-best-movies-of-the-1980s.html">The 80 Best Movies of the 1980s</a>
+</li>
+<li class="l" data-entry="{ 'id': 103292 }">
+<a class="non title" href="/blogs/lists/2013/12/the-10-best-memes-of-2013.html">The 10 Best Memes of 2013</a>
+</li>
+</ul>
+</div><div class="landing-articles" id="article-detail-news-large">
+<div class="articles-header">
+<a class="non hed" href="/articles/movies/news/">Movies News</a>
+</div>
+<ul class="nof articles">
+<li class="f" data-entry="{ 'id': 117002 }">
+<a class="non image" href="/articles/2015/02/terrence-malicks-knight-of-cups-picked-up-in-two-m.html">
+<img alt="Terrence Malick's &lt;i&gt;Knight of Cups&lt;/i&gt; Picked Up In Two-Movie Deal" src="http://cdn.pastemagazine.com/www/articles/terrence%20malick%20lead2.jpg?635590923802853148"/>
+</a>
+<a class="non title" href="/articles/2015/02/terrence-malicks-knight-of-cups-picked-up-in-two-m.html">Terrence Malick's <i>Knight of Cups</i> Picked Up In Two-Movie Deal</a>
+<b class="only-view-small date-time">2/9/2015 5:00:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T17:00:00-07:00">2/9/2015 5:00:00 PM</b>
+<b class="shares">0 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116999 }">
+<a class="non image" href="/articles/2015/02/the-lonely-island-and-tegan-sara-will-perform-at-t.html">
+<img alt="The Lonely Island And Tegan &amp; Sara Will Perform At The Oscars" src="http://cdn.pastemagazine.com/www/articles/The-Lonely-Island-Cool-Guys-Dont-Look-At-Explosions.jpeg?635590923802853148"/>
+</a>
+<a class="non title" href="/articles/2015/02/the-lonely-island-and-tegan-sara-will-perform-at-t.html">The Lonely Island And Tegan &amp; Sara Will Perform At The Oscars</a>
+<b class="only-view-small date-time">2/9/2015 4:50:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T16:50:00-07:00">2/9/2015 4:50:00 PM</b>
+<b class="shares">7 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116994 }">
+<a class="non image" href="/articles/2015/02/james-gunn-reveals-new-info-on-guardians-of-the-ga.html">
+<img alt="James Gunn Reveals New Info on &lt;i&gt;Guardians of the Galaxy 2&lt;/i&gt;" src="http://cdn.pastemagazine.com/www/articles/Guardians%20LeAd.jpg?635590923802853148"/>
+</a>
+<a class="non title" href="/articles/2015/02/james-gunn-reveals-new-info-on-guardians-of-the-ga.html">James Gunn Reveals New Info on <i>Guardians of the Galaxy 2</i></a>
+<b class="only-view-small date-time">2/9/2015 2:50:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T14:50:00-07:00">2/9/2015 2:50:00 PM</b>
+<b class="shares">6 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116988 }">
+<a class="non image" href="/articles/2015/02/johnny-depp-meant-to-cameo-in-original-ending-of-b.html">
+<img alt="Johnny Depp Was Meant to Cameo in Original Ending of &lt;i&gt;Birdman&lt;/i&gt;" src="http://cdn.pastemagazine.com/www/articles/Birdman%20-%20514x514.jpg?635590923802863149"/>
+</a>
+<a class="non title" href="/articles/2015/02/johnny-depp-meant-to-cameo-in-original-ending-of-b.html">Johnny Depp Was Meant to Cameo in Original Ending of <i>Birdman</i></a>
+<b class="only-view-small date-time">2/9/2015 1:50:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T13:50:00-07:00">2/9/2015 1:50:00 PM</b>
+<b class="shares">6 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116978 }">
+<a class="non image" href="/articles/2015/02/jennifer-lawrence-and-chris-pratt-are-on-board-for.html">
+<img alt="Jennifer Lawrence and Chris Pratt Are on Board for Sci-Fi &lt;i&gt;Passengers&lt;/i&gt;" src="http://cdn.pastemagazine.com/www/articles/jenniferlawrence300.jpg?635590923802863149"/>
+</a>
+<a class="non title" href="/articles/2015/02/jennifer-lawrence-and-chris-pratt-are-on-board-for.html">Jennifer Lawrence and Chris Pratt Are on Board for Sci-Fi <i>Passengers</i></a>
+<b class="only-view-small date-time">2/9/2015 12:30:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T12:30:00-07:00">2/9/2015 12:30:00 PM</b>
+<b class="shares">8 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116974 }">
+<a class="non image" href="/articles/2015/02/north-korea-dvd-airdrop-of-the-interview-confirmed.html">
+<img alt="North Korea DVD Airdrop of &lt;i&gt;The Interview&lt;/i&gt; Confirmed" src="http://cdn.pastemagazine.com/www/articles/interviewhit-lead1.jpg?635590923802863149"/>
+</a>
+<a class="non title" href="/articles/2015/02/north-korea-dvd-airdrop-of-the-interview-confirmed.html">North Korea DVD Airdrop of <i>The Interview</i> Confirmed</a>
+<b class="only-view-small date-time">2/9/2015 12:00:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T12:00:00-07:00">2/9/2015 12:00:00 PM</b>
+<b class="shares">4 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116927 }">
+<a class="non image" href="/articles/2015/02/antoine-fuqua-jake-gyllenhaal-crime-biopic-the-man.html">
+<img alt="Antoine Fuqua, Jake Gyllenhaal Crime Biopic &lt;i&gt;The Man Who Made It Snow&lt;/i&gt; Links Up With Weinstein Co." src="http://cdn.pastemagazine.com/www/articles/Antoine_Fuqua_crop.jpg?635590923802873150"/>
+</a>
+<a class="non title" href="/articles/2015/02/antoine-fuqua-jake-gyllenhaal-crime-biopic-the-man.html">Antoine Fuqua, Jake Gyllenhaal Crime Biopic <i>The Man Who Made It Snow</i> Links Up With Weinstein Co.</a>
+<b class="only-view-small date-time">2/7/2015 10:00:00 AM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-07T10:00:00-07:00">2/7/2015 10:00:00 AM</b>
+<b class="shares">1 Share</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116899 }">
+<a class="non image" href="/articles/2015/02/2015-movie-toy-sales-projected-to-break-records.html">
+<img alt="2015 Movie Toy Sales Projected to Break Records" src="http://cdn.pastemagazine.com/www/articles/jurassicworldLEAD1.jpg?635590923802873150"/>
+</a>
+<a class="non title" href="/articles/2015/02/2015-movie-toy-sales-projected-to-break-records.html">2015 Movie Toy Sales Projected to Break Records</a>
+<b class="only-view-small date-time">2/6/2015 1:40:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-06T13:40:00-07:00">2/6/2015 1:40:00 PM</b>
+<b class="shares">21 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116895 }">
+<a class="non image" href="/articles/2015/02/keanu-reeves-christina-hendricks-to-star-in-refns.html">
+<img alt="Keanu Reeves, Christina Hendricks to star in Refn's &lt;i&gt;The Neon Demon&lt;/i&gt;" src="http://cdn.pastemagazine.com/www/articles/neondemon.png?635590923802873150"/>
+</a>
+<a class="non title" href="/articles/2015/02/keanu-reeves-christina-hendricks-to-star-in-refns.html">Keanu Reeves, Christina Hendricks to star in Refn's <i>The Neon Demon</i></a>
+<b class="only-view-small date-time">2/6/2015 12:50:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-06T12:50:00-07:00">2/6/2015 12:50:00 PM</b>
+<b class="shares">6 Shares</b>
+</b>
+</li>
+<li class="l" data-entry="{ 'id': 116884 }">
+<a class="non image" href="/articles/2015/02/blazing-saddles-is-getting-an-animated-remake-with.html">
+<img alt="&lt;i&gt;Blazing Saddles&lt;/i&gt; Is Getting an Animated Remake with Samurai" src="http://cdn.pastemagazine.com/www/articles/blazingsaddles-lead.jpg?635590923802883151"/>
+</a>
+<a class="non title" href="/articles/2015/02/blazing-saddles-is-getting-an-animated-remake-with.html"><i>Blazing Saddles</i> Is Getting an Animated Remake with Samurai</a>
+<b class="only-view-small date-time">2/6/2015 11:45:00 AM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-06T11:45:00-07:00">2/6/2015 11:45:00 AM</b>
+<b class="shares">241 Shares</b>
+</b>
+</li>
+</ul>
+</div> </aside>
+<!--Detail Page Bottom Rendered: 2/9/2015 3:26:20 PM -->
+</div>
+<aside id="landing-right-column">
+<div class="ad"><div id="ad300x250top"></div></div>
+<div class="landing-list" id="landing-most-read">
+<div class="list-header">
+<a class="non hed" href="/articles/movies/most-read/">Most Read</a>
+<a class="non see-more only-view-large" href="/articles/movies/most-read/">See All</a>
+<a class="non see-more only-view-small" href="/articles/movies/most-read/">More</a>
+</div>
+<ul class="nof list">
+<li class="f" data-entry="{ 'id': 116823 }">
+<a class="non title" href="/articles/2015/02/twilight-refuses-to-die-six-new-short-films-planne.html"><i>Twilight</i> Refuses to Die; Six New Short Films Planned</a>
+</li>
+<li data-entry="{ 'id': 116936 }">
+<a class="non title" href="/articles/2015/02/jurassic-worlds-antagonist-problem-can-dinosaurs-b.html"><i>Jurassic World</i>’s Antagonist Problem: Can Dinosaurs Be “Villains”?</a>
+</li>
+<li data-entry="{ 'id': 116949 }">
+<a class="non title" href="/articles/2015/02/the-roles-of-a-lifetime-sean-bean.html">The Roles of a Lifetime: Sean Bean</a>
+</li>
+<li data-entry="{ 'id': 116868 }">
+<a class="non title" href="/blogs/lists/2015/02/the-25-best-movies-on-hbo-go-in-february-2015.html">The 25 Best Movies on HBO Go in February 2015</a>
+</li>
+<li data-entry="{ 'id': 116101 }">
+<a class="non title" href="/articles/2015/01/new-february-2015-movies-and-tv-streaming-on-netfl.html">New February 2015 Movies and TV Streaming on Netflix</a>
+</li>
+<li data-entry="{ 'id': 116918 }">
+<a class="non title" href="/articles/2015/02/seventh-son.html"><i>Seventh Son</i></a>
+</li>
+<li data-entry="{ 'id': 116493 }">
+<a class="non title" href="/articles/2015/01/disney-characters-meet-movie-villains-in-illustrat.html">Disney Characters Meet Movie Villains in Illustrations</a>
+</li>
+<li data-entry="{ 'id': 114837 }">
+<a class="non title" href="/articles/2015/02/horror-icon-john-carpenter-on-iconic-film-soundtra.html">Horror Icon John Carpenter on Great Film Soundtracks and his Debut Album, “Lost Themes”</a>
+</li>
+<li data-entry="{ 'id': 116901 }">
+<a class="non title" href="/articles/2015/02/poltergeist-remake-debuts-trailer-reminds-us-of-th.html"><i>Poltergeist</i> Remake Debuts Trailer; Reminds Us of the Original</a>
+</li>
+<li class="l" data-entry="{ 'id': 116898 }">
+<a class="non title" href="/articles/2015/02/jupiter-ascending.html"><i>Jupiter Ascending</i></a>
+</li>
+</ul>
+</div><div class="landing-articles" id="article-detail-news-small">
+<div class="articles-header">
+<a class="non hed" href="/articles/movies/news/">News</a>
+<a class="non see-more only-view-large" href="/articles/movies/news/">See All</a>
+<a class="non see-more only-view-small" href="/articles/movies/news/">More</a>
+</div>
+<ul class="nof articles">
+<li class="f" data-entry="{ 'id': 117002 }">
+<a class="non image" href="/articles/2015/02/terrence-malicks-knight-of-cups-picked-up-in-two-m.html">
+<img alt="Terrence Malick's &lt;i&gt;Knight of Cups&lt;/i&gt; Picked Up In Two-Movie Deal" src="http://cdn.pastemagazine.com/www/articles/terrence%20malick%20lead2.jpg?635590923796452508"/>
+</a>
+<a class="non title" href="/articles/2015/02/terrence-malicks-knight-of-cups-picked-up-in-two-m.html">Terrence Malick's <i>Knight of Cups</i> Picked Up In Two-Movie Deal</a>
+<b class="only-view-small date-time">2/9/2015 5:00:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T17:00:00-07:00">2/9/2015 5:00:00 PM</b>
+<b class="shares">0 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116999 }">
+<a class="non image" href="/articles/2015/02/the-lonely-island-and-tegan-sara-will-perform-at-t.html">
+<img alt="The Lonely Island And Tegan &amp; Sara Will Perform At The Oscars" src="http://cdn.pastemagazine.com/www/articles/The-Lonely-Island-Cool-Guys-Dont-Look-At-Explosions.jpeg?635590923796452508"/>
+</a>
+<a class="non title" href="/articles/2015/02/the-lonely-island-and-tegan-sara-will-perform-at-t.html">The Lonely Island And Tegan &amp; Sara Will Perform At The Oscars</a>
+<b class="only-view-small date-time">2/9/2015 4:50:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T16:50:00-07:00">2/9/2015 4:50:00 PM</b>
+<b class="shares">7 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116994 }">
+<a class="non image" href="/articles/2015/02/james-gunn-reveals-new-info-on-guardians-of-the-ga.html">
+<img alt="James Gunn Reveals New Info on &lt;i&gt;Guardians of the Galaxy 2&lt;/i&gt;" src="http://cdn.pastemagazine.com/www/articles/Guardians%20LeAd.jpg?635590923796452508"/>
+</a>
+<a class="non title" href="/articles/2015/02/james-gunn-reveals-new-info-on-guardians-of-the-ga.html">James Gunn Reveals New Info on <i>Guardians of the Galaxy 2</i></a>
+<b class="only-view-small date-time">2/9/2015 2:50:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T14:50:00-07:00">2/9/2015 2:50:00 PM</b>
+<b class="shares">6 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116988 }">
+<a class="non image" href="/articles/2015/02/johnny-depp-meant-to-cameo-in-original-ending-of-b.html">
+<img alt="Johnny Depp Was Meant to Cameo in Original Ending of &lt;i&gt;Birdman&lt;/i&gt;" src="http://cdn.pastemagazine.com/www/articles/Birdman%20-%20514x514.jpg?635590923796462509"/>
+</a>
+<a class="non title" href="/articles/2015/02/johnny-depp-meant-to-cameo-in-original-ending-of-b.html">Johnny Depp Was Meant to Cameo in Original Ending of <i>Birdman</i></a>
+<b class="only-view-small date-time">2/9/2015 1:50:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T13:50:00-07:00">2/9/2015 1:50:00 PM</b>
+<b class="shares">6 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116978 }">
+<a class="non image" href="/articles/2015/02/jennifer-lawrence-and-chris-pratt-are-on-board-for.html">
+<img alt="Jennifer Lawrence and Chris Pratt Are on Board for Sci-Fi &lt;i&gt;Passengers&lt;/i&gt;" src="http://cdn.pastemagazine.com/www/articles/jenniferlawrence300.jpg?635590923796462509"/>
+</a>
+<a class="non title" href="/articles/2015/02/jennifer-lawrence-and-chris-pratt-are-on-board-for.html">Jennifer Lawrence and Chris Pratt Are on Board for Sci-Fi <i>Passengers</i></a>
+<b class="only-view-small date-time">2/9/2015 12:30:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T12:30:00-07:00">2/9/2015 12:30:00 PM</b>
+<b class="shares">8 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116974 }">
+<a class="non image" href="/articles/2015/02/north-korea-dvd-airdrop-of-the-interview-confirmed.html">
+<img alt="North Korea DVD Airdrop of &lt;i&gt;The Interview&lt;/i&gt; Confirmed" src="http://cdn.pastemagazine.com/www/articles/interviewhit-lead1.jpg?635590923796462509"/>
+</a>
+<a class="non title" href="/articles/2015/02/north-korea-dvd-airdrop-of-the-interview-confirmed.html">North Korea DVD Airdrop of <i>The Interview</i> Confirmed</a>
+<b class="only-view-small date-time">2/9/2015 12:00:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-09T12:00:00-07:00">2/9/2015 12:00:00 PM</b>
+<b class="shares">4 Shares</b>
+</b>
+</li>
+<li data-entry="{ 'id': 116927 }">
+<a class="non image" href="/articles/2015/02/antoine-fuqua-jake-gyllenhaal-crime-biopic-the-man.html">
+<img alt="Antoine Fuqua, Jake Gyllenhaal Crime Biopic &lt;i&gt;The Man Who Made It Snow&lt;/i&gt; Links Up With Weinstein Co." src="http://cdn.pastemagazine.com/www/articles/Antoine_Fuqua_crop.jpg?635590923796472510"/>
+</a>
+<a class="non title" href="/articles/2015/02/antoine-fuqua-jake-gyllenhaal-crime-biopic-the-man.html">Antoine Fuqua, Jake Gyllenhaal Crime Biopic <i>The Man Who Made It Snow</i> Links Up With Weinstein Co.</a>
+<b class="only-view-small date-time">2/7/2015 10:00:00 AM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-07T10:00:00-07:00">2/7/2015 10:00:00 AM</b>
+<b class="shares">1 Share</b>
+</b>
+</li>
+<li class="l" data-entry="{ 'id': 116899 }">
+<a class="non image" href="/articles/2015/02/2015-movie-toy-sales-projected-to-break-records.html">
+<img alt="2015 Movie Toy Sales Projected to Break Records" src="http://cdn.pastemagazine.com/www/articles/jurassicworldLEAD1.jpg?635590923796472510"/>
+</a>
+<a class="non title" href="/articles/2015/02/2015-movie-toy-sales-projected-to-break-records.html">2015 Movie Toy Sales Projected to Break Records</a>
+<b class="only-view-small date-time">2/6/2015 1:40:00 PM</b>
+<b class="stats">
+<b class="time" data-iso-date="2015-02-06T13:40:00-07:00">2/6/2015 1:40:00 PM</b>
+<b class="shares">21 Shares</b>
+</b>
+</li>
+</ul>
+</div> <div class="ad"><div id="ad300x600bottom"></div></div>
+<div class="landing-list" id="article-detail-essentials-small">
+<div class="list-header">
+<a class="non hed" href="/articles/movies/editors-picks/">Editors' Picks</a>
+</div>
+<ul class="nof list">
+<li class="f" data-entry="{ 'id': 103467 }">
+<a class="non title" href="/blogs/lists/2013/12/the-50-best-movies-of-2013.html">The 50 Best Movies of 2013</a>
+</li>
+<li data-entry="{ 'id': 107844 }">
+<a class="non title" href="/blogs/lists/2014/06/the-101-best-movies-streaming-on-netflix-2014.html">The 101 Best Movies Streaming on Netflix 2014</a>
+</li>
+<li data-entry="{ 'id': 93554 }">
+<a class="non title" href="/blogs/lists/2012/11/the-best-movies-on-hulu-plus.html">The 50 Best Movies on Hulu Plus</a>
+</li>
+<li data-entry="{ 'id': 101111 }">
+<a class="non title" href="/blogs/lists/2013/09/the-40-best-documentaries-on-netflix-instant.html">The 40 Best Documentaries on Netflix Instant</a>
+</li>
+<li data-entry="{ 'id': 97482 }">
+<a class="non title" href="/blogs/lists/2013/04/the-50-best-romantic-comedies-of-all-time.html">The 50 Best Romantic Comedies of All Time</a>
+</li>
+<li data-entry="{ 'id': 100267 }">
+<a class="non title" href="/blogs/lists/2013/08/the-10-best-biopics-of-all-time.html">The 20 Best Biopics of All Time</a>
+</li>
+<li data-entry="{ 'id': 90564 }">
+<a class="non title" href="/blogs/lists/2012/07/the-90-best-movies-of-the-1990s.html">The 90 Best Movies of the 1990s</a>
+</li>
+<li data-entry="{ 'id': 93230 }">
+<a class="non title" href="/blogs/lists/2012/10/the-80-best-movies-of-the-1980s.html">The 80 Best Movies of the 1980s</a>
+</li>
+<li class="l" data-entry="{ 'id': 103292 }">
+<a class="non title" href="/blogs/lists/2013/12/the-10-best-memes-of-2013.html">The 10 Best Memes of 2013</a>
+</li>
+</ul>
+</div> </aside>
+<!--Detail Page Right Column Rendered: 2/9/2015 3:26:19 PM -->
+<div class="clear"></div>
+<div class="ad bottom-ad only-view-large"><div id="ad728x90bottom"></div></div>
+<div class="mobile-ad only-view-small"><div id="mobile300x250bottom"></div></div>
+</div>
+</div>
+<div class="only-view-small mobile-load-more" data-article-type="news" data-media-type="movies" data-page-number="2" data-page-size="10" data-start="11" data-target="#article-detail-news-large ul" id="mobile-load-more"><i class="icon-spinner1 animate-spin"></i>Load More</div>
+<div class="center master-footer">
+<footer class="fullwide" id="master-footer">
+<ul class="nof">
+<li class="f"><a class="non" href="http://www.pastemagazine.com/paste/2008/10/about-paste.html">About</a></li>
+<li><a class="non" href="http://www.pastemagazine.com/paste/2008/10/advertise-with-paste.html">Advertise With Paste</a></li>
+<li><a class="non" href="http://www.pastemagazine.com/paste/2008/10/artist-label-information.html">Artists &amp; Labels</a></li>
+<li><a class="non" href="http://www.pastemagazine.com/paste/2008/10/contributor-information.html">Contributors</a></li>
+<li><a class="non" href="http://www.pastemagazine.com/tag/paste_magazine">Press</a></li>
+<li><a class="non" href="http://www.pastemagazine.com/privacy">Privacy &amp; Security</a></li>
+<li><a class="non" href="http://www.pastemagazine.com/newsletter/signup">Newsletter</a></li>
+<li><a class="non" href="http://www.pastemagazine.com/paste/2009/03/subscriber-services.html">Customer Service</a></li>
+<li class="l"><a class="non" href="http://www.pastemagazine.com/paste/contests.html">Contests</a></li>
+</ul>
+<p>© 2015 Paste Media Group. All Rights Reserved</p>
+</footer>
+<div id="mobile-footer">
+<!--a href="/" class="non full-site-link">See the Full pastemagazine.com Site</a-->
+<p>© 2015 Paste Media Group. All Rights Reserved</p>
+</div>
+</div>
+</form>
+<div id="FooterScripts">
+<div id="fb-root"></div> <!-- facebook requires a div with this ID -->
+<div class="ad"><div id="ad1x1bottom"></div></div>
+<div class="ad"><div id="mobile1x1bottom"></div></div>
+<!-- Quantcast Tag -->
+
+<noscript>
+<div style="display: none;"><img alt="Quantcast" height="1" src="http://pixel.quantserve.com/pixel/p-06GZ9uYi7C_4E" width="1"/></div>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Begin comScore Tag -->
+
+
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19213596&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag --><!--Rendered: 2/9/2015 3:42:46 PM -->
+<!--HealthCheckOK:PM-->
+</div>
+</body>
+</html>

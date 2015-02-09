@@ -1,0 +1,15 @@
+Title: FREE GEEKGOLD FOR AN AVATAR!!! | BoardGameGeek | BoardGameGeek
+Server: nginx/1.6.2
+Date: Mon, 09 Feb 2015 23:39:13 GMT
+Content-Type: text/html; charset="UTF-8"
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.5.20
+Set-Cookie: SessionID=a97043845b6e1c1854c8563842dab24c5f9d8acd; expires=Tue, 10-Feb-2015 00:39:13 GMT; Max-Age=3600; path=/; domain=.boardgamegeek.com
+Pragma: no-cache
+Last-Modified: Mon, 09 Feb 2015 23:39:13GMT
+Expires: Mon, 09 Feb 2015 23:44:13GMT
+Cache-Control: private,max-age=300,s-maxage=0
+Set-Cookie: geekproxy=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+

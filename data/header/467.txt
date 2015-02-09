@@ -1,0 +1,21 @@
+Title: Jurassic Park Fan Project Is The Dinosaur Game I''ve Always Wanted
+Cache-Control: stale-while-revalidate=300
+Content-Type: text/html; charset=utf-8
+P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+X-Kinja: app10.xyz.kinja-ops.com #14637
+X-Kinja-Build: 14637
+X-Kinja-Server: app10.xyz.kinja-ops.com
+x-cdn-fetch: mantle-default
+Content-Length: 87723
+Accept-Ranges: bytes
+Date: Mon, 09 Feb 2015 23:42:44 GMT
+Via: 1.1 varnish
+Age: 10
+Connection: close
+X-Served-By: cache-atl6223-ATL
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1423525364.602088,VS0,VE1
+Vary: Accept-Encoding, X-Feature-Hash
+Set-Cookie: geocc=US;path=/;
+

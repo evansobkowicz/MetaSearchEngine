@@ -1,0 +1,6141 @@
+
+<!DOCTYPE html>
+
+<html itemscope="" itemtype="http://www.schema.org/Movie" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head prefix="og: http://ogp.me/ns# flixstertomatoes: http://ogp.me/ns/apps/flixstertomatoes#">
+
+<!--[if lt IE 9]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script>
+        
+        if (typeof console === "undefined" || typeof console.log === "undefined") {
+            console={};
+            console.log = function(msg){};
+            console.error = function(msg){};
+        }
+    </script>
+    <style>
+        .fontelloIcon:before {
+            visibility: hidden;
+        }
+        p {
+            color:black;
+        }
+        div {
+            color:black;
+        }
+        .menuHeader {
+            display:inline-block;
+        }
+        .menuHeader a {
+            max-width:205px;
+        }
+        .row-sameColumnHeight {
+            margin-left:-10px;
+            margin-right:-10px;
+        }
+        .hoverBubble {
+            display: none;
+        }
+        .hoverBubble .bubbleContent {
+            display: none;
+        }
+        #movies_sidebar, #mainColumn {
+            background-color:white;
+        }
+    </style>
+    <![endif]-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<meta content="VPPXtECgUUeuATBacnqnCm4ydGO99reF-xgNklSbNbc" name="google-site-verification"/>
+<meta content="034F16304017CA7DCF45D43850915323" name="msvalidate.01"/>
+<link href="http://d3biamo577v4eu.cloudfront.net/static/images/icons/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="http://d3biamo577v4eu.cloudfront.net/static/images/icons/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+
+<noscript>
+<iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-TW7ZFZ" style="display: none; visibility: hidden" width="0"></iframe>
+</noscript>
+
+<!-- End Google Tag Manager -->
+
+
+<title>Shrek 2 - Rotten Tomatoes</title>
+<link href="http://www.rottentomatoes.com/m/shrek_2/" itemprop="url" rel="canonical"/>
+<meta content="Critics Consensus: It may not be as fresh as the original, but topical humor and colorful secondary characters make Shrek 2 a winner in its own right." itemprop="description" name="description"/>
+<link href="android-app://net.flixster.android/flixster/movie?id=10043" rel="alternate"/>
+<meta content="326803741017" property="fb:app_id"/>
+<meta content="Shrek 2" property="og:title"/>
+<meta content="video.movie" property="og:type"/>
+<meta content="http://content9.flixster.com/movie/25/37/253795_800.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="1200" property="og:image:height"/>
+<meta content="http://www.rottentomatoes.com/m/shrek_2/" property="og:url"/>
+<meta content="Critics Consensus: It may not be as fresh as the original, but topical humor and colorful secondary characters make Shrek 2 a winner in its own right." property="og:description"/>
+<meta content="product" name="twitter:card">
+<meta content="@rottentomatoes" name="twitter:site">
+<meta content="Shrek 2" name="twitter:title">
+<meta content="Critics Consensus: It may not be as fresh as the original, but topical humor and colorful secondary characters make Shrek 2 a winner in its own right." name="twitter:description">
+<meta content="http://content9.flixster.com/movie/25/37/253795_800.jpg" name="twitter:image:src">
+<meta content="88% of critics liked it" name="twitter:data1">
+<meta content="TOMATOMETER" name="twitter:label1">
+<meta content="69% of users liked it" name="twitter:data2">
+<meta content="AUDIENCE" name="twitter:label2">
+<meta content="10043" name="movieID">
+<meta content="2004-05-19" property="video:release_date"/>
+<meta content="93" property="video:duration"/>
+<meta content="http://www.rottentomatoes.com/celebrity/conrad_vernon/" property="video:director"/>
+<meta content="http://www.rottentomatoes.com/celebrity/andrew_adamson/" property="video:director"/>
+<meta content="http://www.rottentomatoes.com/celebrity/kelly_asbury/" property="video:director"/>
+<meta content="http://www.rottentomatoes.com/celebrity/mike_myers/" property="video:actor"/>
+<meta content="http://www.rottentomatoes.com/celebrity/eddie_murphy/" property="video:actor"/>
+<meta content="http://www.rottentomatoes.com/celebrity/cameron_diaz/" property="video:actor"/>
+<meta content="http://www.rottentomatoes.com/celebrity/julie_andrews/" property="video:actor"/>
+<meta content="http://www.rottentomatoes.com/celebrity/antonio_banderas/" property="video:actor"/>
+<link href="http://d3biamo577v4eu.cloudfront.net/static/styles/movie/quotes.css" rel="stylesheet" type="text/css"/>
+<link href="//cdn.jsdelivr.net/jquery.slick/1.3.7/slick.css" rel="stylesheet" type="text/css"/>
+
+
+<link href="//d3biamo577v4eu.cloudfront.net/v/less/?f=/styles/rt_redesign.less&amp;f=/styles/movie.less&amp;f=/styles/ratingWidget.less&amp;f=/styles/hoverBubble.less" rel="stylesheet" type="text/css"/>
+
+</meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
+<body class="body ">
+
+<div id="emptyPlaceholder"></div>
+<div id="fb-root"></div>
+
+
+<div id="overlay" style="height:0px;"></div>
+
+<div class="body_main container">
+<div class="leaderboard_wrapper" id="top_leaderboard_wrapper">
+<div class="leaderboard_helper">
+<div id="leaderboard_top_ad">
+
+</div>
+</div>
+</div>
+<div class="head" id="head">
+<div class="modal fade" id="whatIsTomatometer">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h2 class="modal-title">What is the Tomatometer™?</h2>
+</div>
+<div class="modal-body">
+<p>
+                    The Tomatometer rating – based on the published opinions of hundreds of film and
+                    television critics – is a trusted measurement of movie and TV programming quality
+                    for millions of moviegoers. It represents the percentage of professional critic reviews
+                    that are positive for a given film or television show.
+                </p>
+<div class="row-sameColumnHeight noSpacing" style="margin:20px 0">
+<div class="col-xs-18" style="vertical-align:bottom">
+<div class="title">
+<h3>
+<span style="background-color:white">From the Critics</span>
+</h3>
+</div>
+</div>
+<div class="col-xs-6" style="vertical-align:bottom">
+<h3 class="noSpacing center">From RT Users Like You!</h3>
+</div>
+</div>
+<div class="row-sameColumnHeight noSpacing">
+<div class="col-xs-18">
+<div class="col-xs-8 center">
+<span class="icon huge fresh"></span>
+<p class="noSpacing bold">Fresh</p>
+<p>The Tomatometer is 60% or higher.</p>
+</div>
+<div class="col-xs-8 center">
+<span class="icon huge rotten"></span>
+<p class="noSpacing bold">Rotten</p>
+<p>The Tomatometer is 59% or lower.</p>
+</div>
+<div class="col-xs-8 center">
+<span class="icon huge certified"></span>
+<p class="noSpacing bold">Certified Fresh</p>
+<p>The Tomatometer is 75% or higher, with 40 reviews (movies) or 20 reviews (TV). At least 5 reviews from Top Critics.</p>
+</div>
+</div>
+<div class="col-xs-6 center">
+<span class="icon huge popcorn"></span>
+<p class="noSpacing bold">Audience Score</p>
+<p>Percentage of users who rate a movie or TV show positively.</p>
+</div>
+</div>
+<div class="clickForMore" style="margin-bottom:0">
+<a class="unstyled articleLink" href="/about/">Learn More <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="signup">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h4 class="modal-title">Sign up for Rotten Tomatoes</h4>
+</div>
+<div class="modal-body">
+<p class="text-center">
+<img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/>
+</p>
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-6 text-right">
+<i class="glyphicon glyphicon-star"></i>
+</div>
+<div class="col-sm-18">
+<p>
+<strong>Rate movies &amp; TV</strong> and see your friends' ratings
+                            </p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 text-right">
+<i class="glyphicon glyphicon-thumbs-up"></i>
+</div>
+<div class="col-sm-18">
+<p>
+<strong>Get recommendations</strong> personalized for you
+                            </p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 text-right">
+<i class="glyphicon glyphicon-comment"></i>
+</div>
+<div class="col-sm-18">
+<p>
+<strong>Join the discussion</strong> with other movie buffs
+                            </p>
+</div>
+</div>
+<br/>
+<p class="text-center">
+<small>
+                            By clicking “Sign up”, I agree to the
+                            <a href="/terms/" target="_blank">Terms of Service</a>
+                            and <a href="/privacy/">Privacy Policy</a>.
+                        </small>
+</p>
+<p class="text-center">
+<a class="btn btn-primary-fb btn-lg" href="javascript:FB.login();"> <i class="fontelloIcon icon-facebook-squared"></i> Sign up with Facebook
+                        </a><br/> <small>or <a data-dismiss="modal" data-target="#signup_email" data-toggle="modal" href="#signup_email">sign up with email</a></small>
+</p>
+<br/>
+<p class="text-center">
+<small>Already have an account? <a data-dismiss="modal" data-target="#login" data-toggle="modal" href="#login">Log in here</a></small>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="signup_email">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h4 class="modal-title">Sign up with Email</h4>
+</div>
+<div class="modal-body">
+<p class="text-center">
+<img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/>
+</p>
+<p class="text-center">
+<small>Already have an account? <a data-dismiss="modal" data-target="#login" data-toggle="modal" href="#login">Log in here</a></small>
+</p>
+
+<form action="https://www.rottentomatoes.com/user/account/action/register/" class="form-horizontal" method="POST" role="form">
+<input name="invite" type="hidden" value=""/> <input name="v" type="hidden" value=""/> <input name="login_redirect" type="hidden" value="http://www.rottentomatoes.com/m/shrek_2/"/>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_first_name">First Name</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_first_name" name="register_first_name" placeholder="first name"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_last_name">Last Name</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_last_name" name="register_last_name" placeholder="last name"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_email">Email</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_email" name="register_email" placeholder="e.g. johndoe@gmail.com" type="email" value=""/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_birthday_month">Birthday</label>
+<div class="col-sm-9">
+<select class="form-control" id="register_birthday_month" name="register_birthday_month">
+<option value="-1">Month</option>
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option>
+</select>
+</div>
+<div class="col-sm-4">
+<select class="form-control" id="register_birthday_day" name="register_birthday_day">
+<option value="0">Day</option>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+<option>11</option>
+<option>12</option>
+<option>13</option>
+<option>14</option>
+<option>15</option>
+<option>16</option>
+<option>17</option>
+<option>18</option>
+<option>19</option>
+<option>20</option>
+<option>21</option>
+<option>22</option>
+<option>23</option>
+<option>24</option>
+<option>25</option>
+<option>26</option>
+<option>27</option>
+<option>28</option>
+<option>29</option>
+<option>30</option>
+<option>31</option>
+</select>
+</div>
+<div class="col-sm-5">
+<select class="form-control" id="register_birthday_year" name="register_birthday_year">
+<option value="2015">Year</option>
+<option>2014</option>
+<option>2013</option>
+<option>2012</option>
+<option>2011</option>
+<option>2010</option>
+<option>2009</option>
+<option>2008</option>
+<option>2007</option>
+<option>2006</option>
+<option>2005</option>
+<option>2004</option>
+<option>2003</option>
+<option>2002</option>
+<option>2001</option>
+<option>2000</option>
+<option>1999</option>
+<option>1998</option>
+<option>1997</option>
+<option>1996</option>
+<option>1995</option>
+<option>1994</option>
+<option>1993</option>
+<option>1992</option>
+<option>1991</option>
+<option>1990</option>
+<option>1989</option>
+<option>1988</option>
+<option>1987</option>
+<option>1986</option>
+<option>1985</option>
+<option>1984</option>
+<option>1983</option>
+<option>1982</option>
+<option>1981</option>
+<option>1980</option>
+<option>1979</option>
+<option>1978</option>
+<option>1977</option>
+<option>1976</option>
+<option>1975</option>
+<option>1974</option>
+<option>1973</option>
+<option>1972</option>
+<option>1971</option>
+<option>1970</option>
+<option>1969</option>
+<option>1968</option>
+<option>1967</option>
+<option>1966</option>
+<option>1965</option>
+<option>1964</option>
+<option>1963</option>
+<option>1962</option>
+<option>1961</option>
+<option>1960</option>
+<option>1959</option>
+<option>1958</option>
+<option>1957</option>
+<option>1956</option>
+<option>1955</option>
+<option>1954</option>
+<option>1953</option>
+<option>1952</option>
+<option>1951</option>
+<option>1950</option>
+<option>1949</option>
+<option>1948</option>
+<option>1947</option>
+<option>1946</option>
+<option>1945</option>
+<option>1944</option>
+<option>1943</option>
+<option>1942</option>
+<option>1941</option>
+<option>1940</option>
+<option>1939</option>
+<option>1938</option>
+<option>1937</option>
+<option>1936</option>
+<option>1935</option>
+<option>1934</option>
+<option>1933</option>
+<option>1932</option>
+<option>1931</option>
+<option>1930</option>
+<option>1929</option>
+<option>1928</option>
+<option>1927</option>
+<option>1926</option>
+<option>1925</option>
+<option>1924</option>
+<option>1923</option>
+<option>1922</option>
+<option>1921</option>
+<option>1920</option>
+<option>1919</option>
+<option>1918</option>
+<option>1917</option>
+<option>1916</option>
+<option>1915</option>
+</select>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_password">Password</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_password" name="register_password" placeholder="At least 6 characters" type="password"/>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6" for="register_password_check">Confirm Password</label>
+<div class="col-sm-18">
+<input class="form-control" id="register_password_check" name="register_password_check" placeholder="Confirm password" type="password"/>
+</div>
+</div>
+<div id="recaptcha_widget" style="display: none">
+<div class="form-group">
+<label class="control-label col-sm-6" for="recaptcha_response_field"><span class="recaptcha_only_if_image">Type in the <br/>words <a href="javascript:Recaptcha.showhelp()"><i class="glyphicon glyphicon-question-sign"></i></a>:
+								</span></label>
+<div class="col-sm-18">
+<div id="recaptcha_image"></div>
+</div>
+</div>
+<div class="form-group">
+<label class="control-label col-sm-6"><span class="recaptcha_only_if_incorrect_sol" style="color: red">Incorrect please try again</span></label>
+<div class="col-sm-18">
+<div class="input-group">
+<input class="form-control" id="recaptcha_response_field" name="recaptcha_response_field" type="text"/> <span class="input-group-btn"><a class="btn btn-default" href="javascript:Recaptcha.reload()"><i class="glyphicon glyphicon-refresh"></i></a></span>
+</div>
+</div>
+</div>
+</div>
+<div class="form-group">
+<div class="col-sm-6"> </div>
+<div class="col-sm-18">
+<small>By clicking “Sign Up”, I agree to the <a href="/terms/" target="_blank">Terms of Service</a> and <a href="/privacy/" target="_blank">Privacy Policy</a></small>
+</div>
+</div>
+<div class="form-group">
+<div class="col-sm-6"> </div>
+<div class="col-sm-18">
+<button class="btn btn-primary-rt" type="submit">Sign Up</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="login">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<h4 class="modal-title">Log In to Rotten Tomatoes</h4>
+</div>
+<div class="modal-body">
+<p class="text-center"><img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/></p>
+<p>
+<a class="btn btn-primary-fb btn-lg fullWidth" href="javascript:void(0);" id="fbLoginButton"><i class="fontelloIcon icon-facebook-squared"></i> Log in with Facebook</a>
+</p>
+<p class="text-center">OR</p>
+<form action="https://www.rottentomatoes.com/user/account/login/" method="POST" role="form">
+<div class="form-group">
+<input class="form-control" name="login_username" placeholder="Username or Email" type="text">
+</input></div>
+<div class="form-group">
+<input class="form-control" name="login_password" placeholder="Password" type="password">
+</input></div>
+<div class="form-group">
+<button class="btn btn-default" type="submit">Log In</button>
+<p><small>
+<a href="/login/forgot_password/">Forgot your password?</a><br/>
+                            Don't have an account? <a data-dismiss="modal" data-target="#signup" data-toggle="modal" href="#signup">Sign up here</a>
+</small></p>
+</div>
+<input name="redirectUrl" type="hidden" value="http://www.rottentomatoes.com/m/shrek_2/"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header_main">
+<div class="navbar navbar-rt" role="navigation">
+<div class="navbar-header pull-right">
+<div class="header_links">
+<a data-target="#whatIsTomatometer" data-toggle="modal" id="header-whats-the-tomatometer">What's the Tomatometer?</a>
+<a href="/critics/" id="header-top-bar-critics">RT Critics</a>
+<a href="/newsletter/" id="header-top-bar-newsletter">Newsletter</a>
+<div id="headerUserSection" style="display: inline-block;">
+<a class="signupLink login" data-target="#signup" data-toggle="modal" href="#signup" id="header-top-bar-signup">SIGN UP</a>
+<a class="loginLink login" data-target="#login" data-toggle="modal" href="#" id="header-top-bar-login">LOG IN</a>
+<div class="userDropdown dropdown" style="display: none;">
+<a href="/user/id/"><img class="userThumb"/><span class="userName">Logged In</span> <span class="fontelloIcon icon-down-dir"></span></a>
+<ul class="dropdown-menu roundMenu">
+<li class="media userStats">
+<a class="pull-left" href="/user/id/">
+<img alt="" src="//static6.flixster.com/static/locker/images/actor.default.tmb.gif" width="40"/>
+</a>
+<div class="media-body">
+<div class="name">
+<a class="unstyled articleLink name" href="/user/id/">
+</a>
+</div>
+<div class="wts">
+<a class="unstyled articleLink stat" href="/user/id//wts">
+<span class="glyphicon glyphicon-plus" style="color:#0C89C8"></span>
+                                            0 Want To See
+                                        </a>
+</div>
+<div class="ratings">
+<a class="unstyled articleLink stat" href="/user/id//ratings">
+<span class="glyphicon glyphicon-star" style="color:#F18714"></span>
+                                            0 Ratings
+                                        </a>
+</div>
+<div class="friends">
+<a class="unstyled articleLink stat" href="user/id//friends">
+<span class="icon friends"></span>
+                                            0 friends
+                                        </a>
+</div>
+</div>
+</li>
+<li class="header-top-bar-item"><a class="articleLink" href="/user/" id="header-top-bar-profile" style="margin-bottom:-4px">Profile</a></li>
+<li class="header-top-bar-item"><a class="articleLink" href="/user/account/" id="header-top-bar-account" style="margin-bottom:-4px">Account</a></li>
+<li class="header-top-bar-item"><a class="articleLink" href="/logout/" id="header-top-bar-logout">Log Out</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-collapse row">
+<div class="col-xs-13">
+<div class="navbar-brand">
+<a href="/" id="header-rt-logo"> <img src="http://d3biamo577v4eu.cloudfront.net/static/images/logos/rtlogo.png" style="height: 50px;"/>
+</a>
+</div>
+<form action="/search/" method="get">
+<div class="navbar-searchbox">
+<div class="input-group" style="width: 100%">
+<input class="form-control" id="search-term" name="srch-term" placeholder="Search movies, TV, actors, more...." type="text">
+<div class="input-group-btn">
+<button class="btn btn-default searchBtn" style="height: 34px" type="submit">
+<em class="glyphicon glyphicon-search"></em>
+</button>
+</div>
+</input></div>
+</div>
+</form>
+</div>
+<div class="navbar-nav col-xs-11" id="menu">
+<ul class="list-inline">
+<li class="menuHeader center dropdown noSpacing">
+<a class="h2 white" href="/browse/" id="movieMenu" role="button">
+                            Movies<span class="fontelloIcon icon-down-dir"></span>
+</a>
+<div aria-labelledby="movieMenu" class="dropdown-menu" role="menu">
+<div class="row-sameColumnHeight">
+<div class="col-xs-5 subnav">
+<div class="innerSubnav">
+<h2 class="title">Movies in Theaters</h2>
+<ul class="list-unstyled" id="header-movies-in-theaters">
+<li>
+<a class="unstyled articleLink" href="/browse/opening/">Opening This Week</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/in-theaters/">Top Box Office</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/upcoming/">Coming Soon to Theaters</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/box-office/">Weekend Earnings</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/cf-in-theaters/">Certified Fresh Movies</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-5 subnav">
+<div class="innerSubnav">
+<a class="unstyled articleLink" href="/dvd/"><h2 class="title">On Dvd &amp; Streaming</h2></a>
+<ul class="list-unstyled" id="header-on-dvd-streaming">
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/?services=netflix_iw">Netflix Streaming</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/?services=itunes">iTunes</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/?services=amazon_prime;amazon">Amazon and Amazon Prime</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-top-rentals/">Top Rentals</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-new-releases/">New Releases</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-upcoming/">Coming Soon to DVD</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/cf-dvd-all/">Certified Fresh Movies</a>
+</li>
+<li>
+<a class="unstyled articleLink" href="/browse/dvd-all/">Browse All</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-3 subnav">
+<div class="innerSubnav">
+<h2 class="title">More</h2>
+<ul class="list-unstyled" id="header-movies-more">
+<li><a class="unstyled articleLink" href="/top/">Top Movies</a></li>
+<li><a class="unstyled articleLink" href="/trailers/">Trailers</a></li>
+<li><a class="unstyled articleLink" href="/photos/">Photos</a></li>
+<li><a class="unstyled articleLink" href="http://forum.rottentomatoes.com">Forums</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-11 subnav">
+<h2 class="title">Certified Fresh Picks</h2>
+<ul class="list-inline freshPicks" id="header-certified-fresh-picks">
+<li>
+<a class="unstyled articleLink cfpLinks" href="/m/american_sniper/">
+<p class="topText bold">In Theaters</p>
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="http://content8.flixster.com/movie/11/18/08/11180834_det.jpg"/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">73%</span>
+</div>
+<p class="title noSpacing">American Sniper</p>
+</a>
+</li>
+<li>
+<a class="unstyled articleLink cfpLinks" href="/m/selma/">
+<p class="topText bold">In Theaters</p>
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="http://content7.flixster.com/movie/11/18/14/11181437_det.jpg"/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">98%</span>
+</div>
+<p class="title noSpacing">Selma</p>
+</a>
+</li>
+<li>
+<a class="unstyled articleLink cfpLinks" href="/m/john_wick/">
+<p class="topText bold">On Dvd/Streaming</p>
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="http://content8.flixster.com/movie/11/18/08/11180842_det.jpg"/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">83%</span>
+</div>
+<p class="title noSpacing">John Wick</p>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="menuHeader center dropdown noSpacing dropdown-toggle">
+<a class="h2" href="/top-tv/" id="tvMenu"> TV<span class="fontelloIcon icon-down-dir"></span></a>
+<div aria-labelledby="tvMenu" class="dropdown-menu" role="menu">
+<div class="row-sameColumnHeight">
+<div class="col-xs-7 subnav">
+<div class="innerSubnav" id="header-tv-col1">
+<h2 class="title">
+        
+            
+            
+                New Television
+            
+        
+    </h2>
+<table class="movie_list tv_list" id="tv-list-1">
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table></div></div></div></div></li></ul></div></div></div></div></div></div></body></html>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12057">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">94%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/togetherness/s01/" id="tvPosterLink">Togetherness: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12090">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/fortitude/s01/" id="tvPosterLink">Fortitude: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7718">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/fresh-off-the-boat/s01/" id="tvPosterLink">Fresh Off the Boat: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12492">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">81%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/man-seeking-woman/s01/" id="tvPosterLink">Man Seeking Woman: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12053">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/eye-candy/s01/" id="tvPosterLink">Eye Candy: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12571">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">73%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/babylon/s01/" id="tvPosterLink">Babylon: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="8076">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">57%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/12-monkeys/s01/" id="tvPosterLink">12 Monkeys: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="13271">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">58%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/sons-of-liberty/s01/" id="tvPosterLink">Sons of Liberty: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7466">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">50%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/allegiance/s01/" id="tvPosterLink">Allegiance: Season 1</a>
+</td>
+
+
+<div class="clickForMore">
+<a class="unstyled articleLink" href="/browse/tv-list-1/" id="tv-list-1-view-all">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+
+
+<div class="col-xs-7 subnav">
+<div class="innerSubnav" id="header-tv-col2">
+<h2 class="title">
+        
+            
+            
+                New TV Episodes Tonight
+            
+        
+    </h2>
+<table class="movie_list tv_list" id="tv-list-2">
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7787">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table></div></div>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/jane-the-virgin/s01/" id="tvPosterLink">Jane the Virgin: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="6913">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/gotham/s01/" id="tvPosterLink">Gotham: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="6859">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">75%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/chasing-life/s01/" id="tvPosterLink">Chasing Life: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="12053">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/eye-candy/s01/" id="tvPosterLink">Eye Candy: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7034">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/sleepy-hollow/s02/" id="tvPosterLink">Sleepy Hollow: Season 2</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="6936">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">40%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/scorpion/s01/" id="tvPosterLink">Scorpion: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="7458">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">26%</span>
+</span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/state-of-affairs/s01/" id="tvPosterLink">State of Affairs: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="13311">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/the-fosters/s03/" id="tvPosterLink">The Fosters: Season 3</a>
+</td>
+
+<tr class="tv_show_tr tvTopListTitle" data-season-id="13205">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/the-originals/s03/" id="tvPosterLink">The Originals: Season 3</a>
+</td>
+
+
+<div class="clickForMore">
+<a class="unstyled articleLink" href="/browse/tv-list-2/" id="tv-list-2-view-all">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+
+
+<div class="col-xs-5 subnav">
+<div class="innerSubnav">
+<h2 class="title">More</h2>
+<ul class="list-unstyled" id="header-tv-more">
+<li><a class="unstyled articleLink" href="/tv/">Latest on TV</a></li>
+<li><a class="unstyled articleLink" href="/top-tv/">Top TV Shows</a></li>
+<li><a class="unstyled articleLink" href="/browse/tv-list-3/">Certified Fresh TV</a></li>
+</ul>
+<h2 class="title" style="margin-top: 20px">Episodic Reviews</h2>
+<ul class="list-unstyled" id="header-tv-episodic-reviews">
+<li><a href="/tv/gotham/s01/e01"> Gotham Season 1 </a></li>
+<li><a href="/tv/boardwalk-empire/s05/e01/"> Boardwalk Empire Season 5 </a></li>
+<li><a href="/tv/sons-of-anarchy/s07/e01/"> Sons of Anarchy Season 7 </a></li>
+<li><a href="/tv/game-of-thrones/s04/e01/"> Game of Thrones Season 4 </a></li>
+<li><a href="/tv/mad-men/s07/e01/"> Mad Men Season 7 </a></li>
+<li><a href="/tv/homeland/s04/e01/"> Homeland Season 4 </a></li>
+<li><a href="/tv/the-walking-dead/s05/e01/"> The Walking Dead Season 5 </a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-5 subnav freshPicks">
+<div class="innerSubnav">
+<h2 class="title">Certified Fresh Pick</h2>
+<ul class="list-unstyled" id="header-tv-certified-fresh">
+<li>
+<a class="unstyled articleLink cfpLinks" href="/tv/better-call-saul/s01/">
+<div style="height:200px;vertical-align:middle;margin-bottom:5px;">
+<img src="
+                                                                
+                                                                
+                                                                    http://content7.flixster.com/tv/14/35/143509_det.jpg
+                                                                
+                                                            "/>
+</div>
+<div class="movie_content_area">
+<span class="icon tiny certified"></span>
+<span class="tMeterScore">100%</span>
+</div>
+<p class="title noSpacing">Better Call Saul: Season 1</p>
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+<li class="menuHeader center dropdown noSpacing dropdown-toggle">
+<a class="h2" href="/news/" id="newsMenu">
+                            News<span class="fontelloIcon icon-down-dir"></span>
+</a>
+<div aria-labelledby="newsMenu" class="dropdown-menu" role="menu">
+<div class="row-sameColumnHeight noSpacing">
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-guides">
+<h2 class="title">Guides</h2>
+<div class="media menuHeadline">
+<div class="subnavcell pull-left">
+</div>
+<div class="media-body subnavcell">
+<h2 class="media-heading noSpacing">
+<a class="unstyled" data-pageheader="Guides" href="/hub/awards-tour-2015">Awards Tour 2015</a>
+</h2>
+</div>
+</div>
+<ul class="list-unstyled">
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/hobbit_headquarters">Hobbit Headquarters</a></li>
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/scare-central">Scare Central</a></li>
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/holiday-guide-2014">Holiday TV &amp; Movie Guide 2014</a></li>
+<li><a class="unstyled articleLink" data-pageheader="Guides" href="/hub/summer-movie-guide-2014">Summer Movie Guide 2014</a></li>
+</ul>
+<div class="clickForMore">
+<a class="unstyled articleLink" data-pageheader="Guides - Show All" href="/guides/">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-rtnews">
+<h2 class="title">RT News</h2>
+<ul class="redDot" style="margin-left: 10px">
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/m/the_spongebob_movie_sponge_out_of_water/news/1932728/box_office_guru_wrapup_spongebob_dethrones_american_sniper_with_strong_debut/">Box Office Guru Wrapup: <em>SpongeBob</em> Dethrones <em>American Sniper</em> With Strong Debut</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/news/1932504/2015_bafta_awards_winners/">2015 BAFTA Awards Winners</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/m/1016885-public_enemy/news/1932675/watch_tcms_31_days_of_oscar/">Watch TCM's 31 Days of Oscar</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/m/citizenfour/news/1932727/winners_of_the_67th_annual_directors_guild_of_america_awards/">Winners Of The 67th Annual Directors Guild Of America Awards</a>
+</li>
+<li style="line-height: 20px">
+<a class="articleLink unstyled" data-pageheader="" href="/news/1932726/2015_naacp_image_award_winners/">2015 NAACP Image Award Winners</a>
+</li>
+</ul>
+<div class="clickForMore" style="margin-bottom: 0">
+<a class="unstyled articleLink" data-pageheader="RT News - Show All" href="/news/?filter=rt">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-best-worst">
+<h2 class="title">Best and Worst</h2>
+<div class="media menuHeadline">
+<a class="pull-left" data-pageheader="Best and Worst" href="/guides/best-christmas-movies/">
+<img src="http://content7.flixster.com/site/10/25/47/10254737_ori.jpg" style="border:0px;"/>
+</a>
+<div class="media-body">
+<h2 class="media-heading">
+<a class="" data-pageheader="Best and Worst" href="/guides/best-christmas-movies/">Best Christmas Movies</a>
+</h2>
+</div>
+</div>
+<ul>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/holiday-movie-scorecard-2014/">Holiday Movie Scorecard 2014</a>
+</li>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/best-horror-movies/">Best Horror Movies</a>
+</li>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/worst_summer_movies/">Worst Summer Movies</a>
+</li>
+<li>
+<a class="unstyled articleLink" data-pageheader="Best and Worst" href="/guides/summer-movie-scorecard-2014/">Summer Movie Scorecard 2014</a>
+</li>
+</ul>
+<div class="clickForMore">
+<a class="unstyled articleLink" data-pageheader="Best and Worst - Show All" href="/guides/">View All <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+<div class="col-xs-6 subnav">
+<div class="innerSubnav" id="header-news-columns">
+<h2 class="title">Columns</h2>
+<ul class="list-unstyled">
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="24 Frames" href="/news/columns/24_frames">24 Frames</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Box Office Guru" href="/news/columns/box_office">Box Office Guru</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Critics Consensus" href="/news/columns/critics_consensus">Critics Consensus</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Five Favorite Films" href="/news/columns/five_favorite_films">Five Favorite Films</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Now Streaming" href="/news/columns/now_streaming">Now Streaming</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Parental Guidance" href="/news/columns/parental_guidance">Parental Guidance</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Red Carpet Roundup" href="/news/columns/red_carpet_round_up">Red Carpet Roundup</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="RT on DVD" href="/news/columns/rt_on_dvd">RT on DVD</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Total Recall" href="/news/columns/total_recall">Total Recall</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="TV Talk" href="/news/columns/tv_talk">TV Talk</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Video Interviews" href="/news/columns/video_interviews">Video Interviews</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Weekly Binge" href="/news/columns/weekly_binge">Weekly Binge</a></li>
+<li style="padding: 0"><a class="unstyled articleLink" data-pageheader="Weekly Ketchup" href="/news/columns/weekly_ketchup">Weekly Ketchup</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="h2 menuHeader center noSpacing" id="header-tickets-showtimes" style="border-radius: 5px">
+<a class="menuHeader" href="/showtimes/" id="ticketingMenu"> Tickets &amp; Showtimes </a>
+</li>
+
+
+
+
+<div class="trendingBar">
+<div class="fr">
+<ul class="list-inline social">
+<li class="header">Follow Us</li>
+<li><a class="unstyled trendingLink fontelloIcon icon-twitter white" href="http://twitter.com/rottentomatoes" id="header-twitter-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-facebook-squared white" href="http://www.facebook.com/rottentomatoes" id="header-facebook-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-gplus white" href="https://plus.google.com/+RottenTomatoes" id="header-google-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-youtube-play white" href="http://www.youtube.com/user/rottentomatoes" id="header-youtube-social-link" target="_blank"></a></li>
+<li><a class="unstyled trendingLink fontelloIcon icon-tumblr white" href="http://rottentomatoes.tumblr.com/" id="header-tumblr-social-link" target="_blank"></a></li>
+</ul>
+</div>
+<ul class="list-inline trendingEl">
+<li class="header">Trending on RT</li>
+<li>
+<a class="unstyled trendingLink" href="/tv/the-walking-dead/s05/e09/">
+                            The Walking Dead
+                        </a>
+</li>
+<li>
+<a class="unstyled trendingLink" href="/gallery/most-important-pizza-moments/">
+                            National Pizza Day
+                        </a>
+</li>
+<li>
+<a class="unstyled trendingLink" href="/m/straight_outta_compton/trailers/">
+                            Straight Outta Compton trailer
+                        </a>
+</li>
+<li>
+<a class="unstyled trendingLink" href="/tv/better-call-saul/s01/">
+                            Better Call Saul
+                        </a>
+</li>
+</ul>
+</div>
+
+
+<div class="leaderboard_wrapper" style="min-height:0; padding:0;">
+<div class="leaderboard_helper">
+<div id="below_header_ad" style="display:none; padding: 10px 0px;"></div>
+</div>
+</div>
+
+<div class="container">
+<div class="col mob col-left hidden-xs" id="movieListColumn">
+<div id="movies_sidebar">
+<ul class="nav nav-tabs">
+<li class="in-theaters-tab ">
+<a data-toggle="tab" href="#in-theaters">
+                In <br/>Theaters
+            </a>
+</li>
+<li class="on-dvd-tab active">
+<a data-toggle="tab" href="#on-dvd">
+                DVD &amp; Streaming
+            </a>
+</li>
+<li class="on-tv-tab ">
+<a data-toggle="tab" href="#on-tv">
+                TV <br/> Shows
+            </a>
+</li>
+</ul>
+<div class="tab-content" style="height:auto;">
+<div class="tab-pane fade " id="in-theaters">
+<style>
+.sidebarInTheaterOpening,.sidebarInTheaterTopBoxOffice,.sidebarInTheaterComingSoon { font-size:14px }
+</style>
+<h3 style="color:#787878">Opening</h3>
+<table class="movie_list opening">
+<tr class="sidebarInTheaterOpening" data-movie-id="771353298">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">80%</span>
+</span>
+</td></tr></table></div></div></div></div></div>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/kingsman_the_secret_service/" sub="hover" target="_top">Kingsman: The Secret Service</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771311953">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/fifty_shades_of_grey/" sub="hover" target="_top">Fifty Shades of Grey</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771372796">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">93%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/what_we_do_in_the_shadows/" sub="hover" target="_top">What We Do In The Shadows</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771387675">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">53%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_last_5_years/" sub="hover" target="_top">The Last 5 Years</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771380773">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">70%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_rewrite/" sub="hover" target="_top">The Rewrite</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771386199" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/old_fashioned/" sub="hover" target="_top">Old Fashioned</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771380481" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/gett_the_trial_of_viviane_amsalem/" sub="hover" target="_top">GETT: The Trial of Viviane Amsalem</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771391037" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">83%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/wyrmwood/" sub="hover" target="_top">Wyrmwood</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771404224" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">60%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/da_sweet_blood_of_jesus/" sub="hover" target="_top">Da Sweet Blood of Jesus</a></td>
+<td class="right_col right">Feb 13</td>
+
+<tr class="sidebarInTheaterOpening" data-movie-id="771366554" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/white_rabbit/" sub="hover" target="_top">White Rabbit</a></td>
+<td class="right_col right">Feb 13</td>
+
+
+<div class="showMore openingShortMore" data-show="sidebarInTheaterOpening">
+<a class="pull-right" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll openingMore">
+<a class="unstyled articleLink" href="/browse/opening/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+<h3 style="color:#787878">Top Box Office</h3>
+<table class="movie_list top_box_office">
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771361762">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">75%</span>
+</span>
+</td></tr></table>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_spongebob_movie_sponge_out_of_water/" sub="hover" target="_top">The SpongeBob Movie: Sponge Out of Water</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $55.4M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771357000">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">73%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/american_sniper/" sub="hover" target="_top">American Sniper</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $23.3M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771352387">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">22%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/jupiter_ascending_2014/" sub="hover" target="_top">Jupiter Ascending</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $18.4M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771247934">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">10%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/seventh_son/" sub="hover" target="_top">Seventh Son</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $7.2M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771355515">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">38%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/project_almanac/" sub="hover" target="_top">Project Almanac</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $5.2M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771366608">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">98%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/paddington_2014/" sub="hover" target="_top">Paddington</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $5.2M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771373844">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">33%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_wedding_ringer/" sub="hover" target="_top">The Wedding Ringer</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $4.7M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771372271">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_imitation_game/" sub="hover" target="_top">The Imitation Game</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $4.7M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771383833">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">37%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/black_or_white/" sub="hover" target="_top">Black or White</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $4.5M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771370937">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">13%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_boy_next_door_2015/" sub="hover" target="_top">The Boy Next Door</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $4.1M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771373945" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">10%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/taken_3/" sub="hover" target="_top">Taken 3</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $2.3M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771383243" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">98%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/selma/" sub="hover" target="_top">Selma</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $1.7M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771361913" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">10%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_loft/" sub="hover" target="_top">The Loft</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $1.4M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771372602" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">92%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/birdman_2014/" sub="hover" target="_top">Birdman</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $1.3M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771366367" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">80%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_theory_of_everything_2014/" sub="hover" target="_top">The Theory of Everything</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $1.0M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771373530" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/a_most_violent_year/" sub="hover" target="_top">A Most Violent Year</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $1.0M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771403070" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">18%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/strange_magic/" sub="hover" target="_top">Strange Magic</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $0.9M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771387088" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/still_alice/" sub="hover" target="_top">Still Alice</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $0.9M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771356920" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">72%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/into_the_woods_2014/" sub="hover" target="_top">Into the Woods</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $0.9M
+                    
+                </td>
+
+<tr class="sidebarInTheaterTopBoxOffice" data-movie-id="771371883" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">95%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/whiplash_2014/" sub="hover" target="_top">Whiplash</a>
+</td>
+<td class="right_col right">
+                    
+                        
+                        $0.8M
+                    
+                </td>
+
+
+<div class="showMore" data-show="sidebarInTheaterComingSoon">
+<a class="pull-right" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll topBoxOfficeMore">
+<a class="unstyled articleLink" href="/browse/in-theaters/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+<h3 style="color:#787878">Coming Soon</h3>
+<table class="movie_list comingSoon">
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771369273">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr></table>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/hot_tub_time_machine_2/" sub="hover" target="_top">Hot Tub Time Machine 2</a></td>
+<td class="right_col right">Feb 20</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771381399">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_duff/" sub="hover" target="_top">The DUFF</a></td>
+<td class="right_col right">Feb 20</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771360014">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/mcfarland_usa/" sub="hover" target="_top">McFarland USA</a></td>
+<td class="right_col right">Feb 20</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771379871">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">91%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/wild_tales/" sub="hover" target="_top">Wild Tales</a></td>
+<td class="right_col right">Feb 20</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771407670">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/gekijouban_naruto_the_last/" sub="hover" target="_top">Gekijouban Naruto: The Last</a></td>
+<td class="right_col right">Feb 20</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771321013" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/focus_2014/" sub="hover" target="_top">Focus</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771371933" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_lazarus_effect/" sub="hover" target="_top">The Lazarus Effect</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771380717" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">71%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/everly/" sub="hover" target="_top">Everly</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771321139" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">68%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/maps_to_the_stars/" sub="hover" target="_top">Maps to the Stars</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771374324" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">98%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/71_2015/" sub="hover" target="_top">'71</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771380369" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">63%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_salvation/" sub="hover" target="_top">The Salvation</a></td>
+<td class="right_col right">Feb 27</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771360372" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/chappie/" sub="hover" target="_top">Chappie</a></td>
+<td class="right_col right">Mar 06</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771369492" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/unfinished_business_2015/" sub="hover" target="_top">Unfinished Business</a></td>
+<td class="right_col right">Mar 06</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771386174" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_second_best_exotic_marigold_hotel/" sub="hover" target="_top">The Second Best Exotic Marigold Hotel</a></td>
+<td class="right_col right">Mar 06</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771363700" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/these_final_hours/" sub="hover" target="_top">These Final Hours</a></td>
+<td class="right_col right">Mar 06</td>
+
+<tr class="sidebarInTheaterComingSoon" data-movie-id="771270966" style="display:none;">
+<td class="left_col">
+<span class="tMeterIcon tiny noRating ">
+                    No Score Yet
+                </span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/cinderella_2013/" sub="hover" target="_top">Cinderella</a></td>
+<td class="right_col right">Mar 13</td>
+
+
+<div class="showMore" data-show="sidebarInTheaterComingSoon">
+<a class="pull-right" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll comingSoonMore" style="margin-bottom:5px">
+<a class="unstyled articleLink" href="/browse/upcoming/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+
+<div class="tab-pane fade active in" id="on-dvd">
+<style>
+.sidebarDvdTopRentals,.sidebarDvdComingSoon { font-size:14px }
+</style>
+<h3 style="color:#787878">Top Rentals</h3>
+<table class="movie_list top_rentals">
+<tr class="sidebarDvdTopRentals" data-movie-id="771311818">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">91%</span>
+</span>
+</td></tr></table></div>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/guardians_of_the_galaxy/" sub="hover" target="_top">Guardians of the Galaxy</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771360863">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">66%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/lucy_2014/" sub="hover" target="_top">Lucy</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771191433">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">21%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/teenage_mutant_ninja_turtles_2013/" sub="hover" target="_top">Teenage Mutant Ninja Turtles</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771354484">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">77%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/fury_2015/" sub="hover" target="_top">Fury</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771360861">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">88%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/gone_girl/" sub="hover" target="_top">Gone Girl</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771313085">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">61%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_equalizer_2013/" sub="hover" target="_top">The Equalizer</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771349837">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">63%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_maze_runner/" sub="hover" target="_top">The Maze Runner</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771373348">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">98%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/boyhood/" sub="hover" target="_top">Boyhood</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771380953">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">95%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/nightcrawler/" sub="hover" target="_top">Nightcrawler</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771386515">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">83%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/john_wick/" sub="hover" target="_top">John Wick</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771323152">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">82%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_book_of_life_2014/" sub="hover" target="_top">The Book of Life</a>
+</td>
+
+<tr class="sidebarDvdTopRentals" data-movie-id="771350092">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">75%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_boxtrolls/" sub="hover" target="_top">The Boxtrolls</a>
+</td>
+
+
+<div class="showAll topRentalsMore">
+<a class="unstyled articleLink" href="/browse/dvd-top-rentals/">
+        View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+<h3 style="color:#787878">New On DVD This Week</h3>
+<table class="movie_list new_release">
+<tr class="sidebarDvdComingSoon" data-movie-id="770909937">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">62%</span>
+</span>
+</td></tr></table>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/alexander_and_the_terrible_horrible_no_good_very_bad_day/" sub="hover" target="_top">Alexander and the Terrible, Horr...</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771364788">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">8%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/addicted_2014/" sub="hover" target="_top">Addicted</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771373588">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">81%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/predestination/" sub="hover" target="_top">Predestination</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771362833">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">74%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/rosewater/" sub="hover" target="_top">Rosewater</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771359639">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">77%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/kill_the_messenger_2015/" sub="hover" target="_top">Kill the Messenger</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771371920">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">69%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/laggies/" sub="hover" target="_top">Laggies</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771380333">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">93%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/force_majeure_2014/" sub="hover" target="_top">Force Majeure</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771362221">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">74%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/felony_2013/" sub="hover" target="_top">Felony</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771318427">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">17%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/tarzan_2013/" sub="hover" target="_top">Tarzan</a>
+</td>
+
+<tr class="sidebarDvdComingSoon" data-movie-id="771380698">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">29%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-pageheader="" href="/m/the_song/" sub="hover" target="_top">The Song</a>
+</td>
+
+
+<div class="showAll newReleaseMore" style="margin-bottom:10px">
+<a class="unstyled articleLink" href="/browse/dvd-new-releases/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+
+<div class="tab-pane fade " id="on-tv">
+<style>
+.tvList1,.tvList2,.tvList3 { font-size:14px }
+</style>
+<h3 style="color:#787878">New Television</h3>
+<table class="movie_list tv_list">
+<tr class="tv_show_tr tvList1" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table></div>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="12057">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">94%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/togetherness/s01/" id="tvPosterLink">Togetherness: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="12090">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/fortitude/s01/" id="tvPosterLink">Fortitude: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="7718">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">89%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/fresh-off-the-boat/s01/" id="tvPosterLink">Fresh Off the Boat: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="12492">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">81%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/man-seeking-woman/s01/" id="tvPosterLink">Man Seeking Woman: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="12053">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/eye-candy/s01/" id="tvPosterLink">Eye Candy: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="12571">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">73%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/babylon/s01/" id="tvPosterLink">Babylon: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="8076">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">57%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/12-monkeys/s01/" id="tvPosterLink">12 Monkeys: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="13271">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">58%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/sons-of-liberty/s01/" id="tvPosterLink">Sons of Liberty: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="7466">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">50%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/allegiance/s01/" id="tvPosterLink">Allegiance: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList1" data-season-id="8069">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny rotten" title="Rotten"></span>
+<span class="tMeterScore">36%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/backstrom/s01/" id="tvPosterLink">Backstrom: Season 1</a>
+</td>
+
+
+<div class="showMore tvList1More" data-show="tvList1">
+<a class="fr" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll openingMore">
+<a class="unstyled articleLink" href="/browse/tv-list-1/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+<br/><br/>
+<h3 style="color:#787878">New TV Episodes Tonight</h3>
+<table class="movie_list tv_list">
+<tr class="tv_show_tr tvList2" data-season-id="7787">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/jane-the-virgin/s01/" id="tvPosterLink">Jane the Virgin: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList2" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList2" data-season-id="6913">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">90%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/gotham/s01/" id="tvPosterLink">Gotham: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList2" data-season-id="6859">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">75%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/chasing-life/s01/" id="tvPosterLink">Chasing Life: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList2" data-season-id="12053">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/eye-candy/s01/" id="tvPosterLink">Eye Candy: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList2" data-season-id="7034">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny fresh" title="Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/sleepy-hollow/s02/" id="tvPosterLink">Sleepy Hollow: Season 2</a>
+</td>
+
+
+<div class="showMore tvList2More" data-show="tvList2">
+<a class="fr" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll openingMore">
+<a class="unstyled articleLink" href="/browse/tv-list-2/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+<br/><br/>
+<h3 style="color:#787878">Certified Fresh TV</h3>
+<table class="movie_list tv_list">
+<tr class="tv_show_tr tvList3" data-season-id="12580">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr></table>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/the-americans/s03/" id="tvPosterLink">The Americans: Season 3</a>
+</td>
+
+<tr class="tv_show_tr tvList3" data-season-id="7084">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">100%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/better-call-saul/s01/" id="tvPosterLink">Better Call Saul: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList3" data-season-id="7739">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">86%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/black-ish/s01/" id="tvPosterLink">black-ish: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList3" data-season-id="9403">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">79%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/downton-abbey/s05/" id="tvPosterLink">Downton Abbey: Season 5</a>
+</td>
+
+<tr class="tv_show_tr tvList3" data-season-id="7538">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">78%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/empire/s01/" id="tvPosterLink">Empire: Season 1</a>
+</td>
+
+<tr class="tv_show_tr tvList3" data-season-id="6914">
+<td class="left_col">
+<span class="tMeterIcon tiny">
+<span class="icon tiny certified" title="Certified Fresh"></span>
+<span class="tMeterScore">96%</span>
+</span>
+</td></tr>
+<td class="middle_col">
+<a class="" data-ga-event="" data-pageheader="" href="/tv/flash/s01/" id="tvPosterLink">The Flash: Season 1</a>
+</td>
+
+
+<div class="showMore tvList3More" data-show="tvList3">
+<a class="fr" href="javascript:void(0)">Show More</a>
+</div>
+<div class="showAll openingMore">
+<a class="unstyled articleLink" href="/browse/tv-list-3/">
+            View All<span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+
+
+
+
+
+
+<div class="col mob col-center-right" id="mainColumn">
+
+<h1 class="movie_title">
+<span itemprop="name">
+                Shrek 2
+                <span class="h3 subtle"> (2004)</span>
+</span>
+</h1>
+<div class="row" id="topSection">
+<div class="col-xs-7">
+<a class="trailer_play_action_button" data-trailer-url="/m/shrek_2/trailer/" data-video-id="10894941" id="poster_link">
+<img alt="Shrek 2" class="" height="251" itemprop="image" src="http://content9.flixster.com/movie/25/37/253795_det.jpg" style="width:100%; height:auto;" title="Shrek 2" width="180"/>
+<span class="play_button_big"></span>
+</a>
+</div>
+<div class="col-xs-17">
+<div>
+<div class="row-sameColumnHeight" id="scorePanel">
+<div class="col-xs-16 tmeterpanel">
+<ul class="pull-right" role="tablist">
+<li class="active pull-left critics-score">
+<a class="articleLink unstyled smaller gray" data-toggle="tab" href="#all-critics-numbers" role="tab">
+                    All Critics
+                </a>
+</li>
+<li class="pull-left"> | </li>
+<li class="pull-left critics-score">
+<a class="articleLink unstyled smaller gray" data-toggle="tab" href="#top-critics-numbers" role="tab">
+                    Top Critics
+                </a>
+</li></ul></div></div></div></div></div></div>
+
+<h3>TOMATOMETER <span class="glyphicon glyphicon-question-sign" data-placement="bottom" data-toggle="tooltip" rel="tooltip" title="The percentage of Approved Tomatometer Critics who have given this movie a positive review"></span></h3>
+<div class="tab-content">
+<div class="tab-pane active" id="all-critics-numbers" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+<meta content="All Critic Tomatometer" itemprop="name"/>
+<div class="row" style="margin-top:-10px">
+<div class="col-xs-12">
+<div class="tomato-left">
+<div class="meter">
+<a class="unstyled articleLink" href="#contentReviews" id="tomato_meter_link">
+<span class="meter-tomato icon big certified pull-left"></span>
+<span class="meter-value"><span itemprop="ratingValue">88</span>%</span>
+<meta content="100" itemprop="bestrating"/>
+<meta content="0" itemprop="worstrating"/>
+</a>
+</div>
+<div id="scoreStats">
+<div>
+<span class="subtle">Average Rating: </span>
+                            
+                                
+                                    7.7/10
+                                
+                                
+                            
+                        </div>
+<div>
+<span class="subtle">Reviews Counted: </span>
+<span itemprop="reviewCount ratingCount">232</span>
+</div>
+<div>
+<span class="subtle">Fresh: </span>
+                                205
+                        </div>
+<div>
+<span class="subtle">Rotten: </span>
+                                27
+                        </div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 tomato-info" style="padding-left:0">
+<div class="progress" style="margin-top:10px">
+<div class="progress-bar certified" style="width:88%;"></div>
+</div>
+<p class="critic_consensus">
+<span class="subtle">Critics Consensus:</span>
+                        It may not be as fresh as the original, but topical humor and colorful secondary characters make Shrek 2 a winner in its own right.
+                </p>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="top-critics-numbers" itemscope="" itemtype="http://schema.org/AggregateRating">
+<meta content="Top Critic Tomatometer" itemprop="name"/>
+<div class="row" style="margin-top:-10px">
+<div class="col-xs-12">
+<div class="tomato-left">
+<div class="meter">
+<a class="unstyled articleLink" href="#contentReviews" id="tomato_meter_link">
+<span class="meter-tomato icon big certified pull-left"></span>
+<span class="meter-value"><span itemprop="ratingValue">88</span>%</span>
+<meta content="100" itemprop="bestrating"/>
+<meta content="0" itemprop="worstrating"/>
+</a>
+</div>
+<div id="scoreStats">
+<div>
+<span class="subtle">Average Rating: </span>
+                            
+                                
+                                    7.4/10
+                                
+                                
+                            
+                        </div>
+<div>
+<span class="subtle">Reviews Counted: </span>
+<span itemprop="reviewCount ratingCount">48</span>
+</div>
+<div>
+<span class="subtle">Fresh: </span>
+                                42
+                        </div>
+<div>
+<span class="subtle">Rotten: </span>
+                                6
+                        </div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 tomato-info" style="padding-left:0">
+<div class="progress" style="margin-top:10px">
+<div class="progress-bar certified" style="width:88%;"></div>
+</div>
+<p class="critic_consensus">
+<span class="subtle">Critics Consensus:</span>
+                        It may not be as fresh as the original, but topical humor and colorful secondary characters make Shrek 2 a winner in its own right.
+                </p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-xs-8 audiencepanel">
+<h3>
+            AUDIENCE SCORE
+            <span class="glyphicon glyphicon-question-sign" data-placement="bottom" data-toggle="tooltip" rel="tooltip" title="The percentage of Rotten Tomatoes users who have rated this movie 3.5 stars or higher"></span>
+</h3>
+<div class="audience-score meter">
+<a class="unstyled articleLink" href="#audience_reviews">
+<div class="meter media" itemscope="" itemtype="http://schema.org/AggregateRating">
+<meta content="Audience Score" itemprop="name"/>
+<span class="meter-tomato icon big popcorn pull-left"></span>
+<div class="media-body">
+<span class="meter-value"><span itemprop="ratingValue">69</span>%</span>
+<div class="smaller bold" style="padding-left:5px">liked it</div>
+<meta content="100" itemprop="bestrating"/>
+<meta content="0" itemprop="worstrating"/>
+<meta content="34227455" itemprop="ratingcount"/>
+</div>
+</div>
+</a>
+</div>
+<div class="audience-info">
+<div>
+<span class="subtle">Average Rating:</span>
+                
+                    
+                        3.5/5
+                    
+                    
+                
+            </div>
+<div>
+<span class="subtle">
+                    User Ratings:
+                </span>
+                34,227,455
+            </div>
+</div>
+</div>
+
+<div class="media" id="movie_videos">
+<div class="inlineBlock" id="trailer_thumb">
+<h3 class="lineHeader"><span class="pull-left">Trailer</span></h3>
+<div style="position:relative">
+<a class="trailer_play_action_button video_unit" data-trailer-url="/m/shrek_2/trailer/" href="javascript:void(0)" id="mob_trailer">
+<span>
+<div class="trailer_thumb_img" style="background-image:url('http://content.internetvideoarchive.com/content/photos/9260/37193_005.jpg');">
+<h3 class="panel-heading">HD Video</h3>
+<span class="playButton fontelloIcon icon-play light-translucent white"></span>
+</div>
+</span>
+</a>
+</div>
+</div>
+<div class="inlineBlock small" id="pic_thumb">
+<h3 class="lineHeader"><span class="pull-left">Photos</span></h3>
+<div style="position:relative">
+<a class="mob_photos" href="/m/shrek_2/pictures/movie-45920/"><img src="http://content6.flixster.com/rtmovie/45/92/45920_tmb.jpg"/><div class="filter"></div></a>
+<a class="mob_photos" href="/m/shrek_2/pictures/movie-45606/"><img src="http://content8.flixster.com/rtmovie/45/60/45606_tmb.jpg"/><div class="filter"></div></a>
+<a class="mob_photos" href="/m/shrek_2/pictures/movie-45267/"><img src="http://content9.flixster.com/rtmovie/45/26/45267_tmb.jpg"/><div class="filter"></div></a>
+<a class="mob_photos" href="/m/shrek_2/pictures/movie-44901/"><img src="http://content7.flixster.com/rtmovie/44/90/44901_tmb.jpg"/><div class="filter"></div></a>
+<a class="mob_photos" href="/m/shrek_2/pictures/movie-44515/"><img src="http://content9.flixster.com/rtmovie/44/51/44515_tmb.jpg"/><div class="filter"></div></a>
+<a class="mob_photos" href="/m/shrek_2/pictures/movie-44097/"><img src="http://content7.flixster.com/rtmovie/44/09/44097_tmb.jpg"/><div class="filter"></div></a>
+</div>
+</div>
+</div>
+<div class="rating_widget large_rating_widget facebook_manager media" data-media-id="10043" data-type="movie" id="rating_widget">
+<h3 class="lineHeader"><span>ADD YOUR RATING</span></h3>
+<a class="pull-left" href="">
+<img alt="" class="media-object fl" src="//static6.flixster.com/static/locker/images/actor.default.tmb.gif" sub="img" width="50"/>
+</a>
+<div class="media-body">
+<div class="rating_buttons">
+<div class="rating_button"><input class="wts clear" type="button" value="+"/></div>
+<div class="rating_button"><input class="ni clear" type="button" value="-"/></div>
+<div class="rating_button"><input class="stars clear" type="button"/></div>
+</div>
+<div style="padding:5px">
+<textarea class="review clearfix" id="review_text" placeholder="Add a Review (Optional)" style="resize:both;"></textarea>
+</div>
+<div class="clearfix" style="height:20px;padding:0 5px">
+<div class="pull-left">
+<a class="edit_button subtle smaller fr articleLink" href="javascript:void(0);">Edit</a>
+<a class="post_button" href="javascript:void(0);"></a>
+<span class="status"></span>
+</div>
+<div class="pull-right fb-share_button on">
+<div class="fb-checkbox"></div>
+<div class="fb-logo"></div>
+<span class="fb-sharetext">
+                    Share on Facebook
+                </span>
+</div>
+<span class="socialMsg fr like_status small subtle" style="display:none;"></span>
+</div>
+</div>
+</div>
+
+
+
+
+<hr/>
+<div class="media">
+<div class="pull-right col-right hidden-xs">
+<p class="center subtle small" style="margin-top:10px;">ADVERTISEMENT</p>
+<div class="medrec_ad" id="medrec_top_ad"></div>
+
+</div>
+<div class="media-body">
+<div class="movie_info clearfix">
+<h2>Movie Info</h2>
+<p class="movie_synopsis" id="movieSynopsis">
+		
+		
+		
+		
+	    After battling a fire-breathing dragon and the evil Lord Farquaad to win the hand of Princess Fiona, Shrek now faces his greatest challenge: the in-laws. Shrek and Princess Fiona return from their honeymoon to find an invitation to visit Fiona's parents, the King and Queen of the Kingdom of Far, Far Away. With Donkey along for the ride, the newlyweds set off. All of the citizens of Far, Far Away turn out to greet their returning Princess, and her parents happily anticipate the homecoming of
+        
+            <span id="movieSynopsisRemaining" style="display: none;"> their daughter and her new Prince. But no one could have prepared them for the sight of their new son-in-law, not to mention how much their little girl had changed. Little did Shrek and Fiona know that their marriage had foiled all of her father's plans for her future--and his own. Now the King must enlist the help of a powerful Fairy Godmother, the handsome Prince Charming and that famed ogre killer 'Puss In Boots' to put right his version of "happily ever after."</span>
+<a href="javascript:void(0);" id="showMoreSynopsis">… More</a>
+
+</p>
+<div class="left_col">
+<dl class="dl-horizontal">
+<dt class="subtle">Rating:</dt>
+<dd itemprop="contentRating">PG (for some crude humor, a brief substance reference and some suggestive content)</dd>
+<dt class="subtle">Genre:</dt>
+<dd>
+<a class="a" href="/browse/dvd-all/?genres=2"><span itemprop="genre">Animation</span></a>
+                        , 
+                    
+                        <a class="a" href="/browse/dvd-all/?genres=11"><span itemprop="genre">Kids &amp; Family</span></a>
+                        , 
+                    
+                        <a class="a" href="/browse/dvd-all/?genres=14"><span itemprop="genre">Science Fiction &amp; Fantasy</span></a>
+                        , 
+                    
+                        <a class="a" href="/browse/dvd-all/?genres=6"><span itemprop="genre">Comedy</span></a>
+</dd>
+<dt class="subtle">Directed By:</dt>
+<dd itemprop="director" itemscope="" itemtype="http://schema.org/Person">
+<a class="a" href="/celebrity/conrad_vernon/" itemprop="url">
+<span itemprop="name">Conrad Vernon</span>
+</a>
+                        , 
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="a" href="/celebrity/andrew_adamson/" itemprop="url">
+<span itemprop="name">Andrew Adamson</span>
+</a>
+</dd>
+<dt class="subtle">Written By:</dt>
+<dd>
+<a class="a" href="/celebrity/joe_stillman/">Joe Stillman</a>
+                        , 
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="a" href="/celebrity/david_n_weiss/">David N. Weiss</a>
+                        , 
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="a" href="/celebrity/j_david_stern/">J. David Stern</a>
+                        , 
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="a" href="/celebrity/andrew_adamson/">Andrew Adamson</a>
+                        , 
+                    
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="a" href="/celebrity/j_david_stem/">J. David Stem</a>
+</dd>
+<dt class="subtle">In Theaters:</dt>
+<dd content="2004-05-19" itemprop="datePublished">
+                    May 19, 2004
+                     Wide
+                </dd>
+<dt class="subtle">On DVD:</dt>
+<dd>
+                    Nov 2, 2004
+                </dd>
+<dt class="subtle">Box Office:</dt>
+<dd>$436.5M</dd>
+<dt class="subtle">Runtime:</dt>
+<dd>
+<time datetime="P93M" itemprop="duration">
+                        1 hr. 33 min.
+                    </time>
+</dd>
+</dl>
+<div>
+<span itemprop="productionCompany">DreamWorks SKG</span>
+			
+			 - <a class="a" href="http://www.shrek2.com/" target="_blank">Official Site</a>
+</div>
+</div>
+</div>
+<hr/>
+<div id="watch-it-now" style="display:inline-block">
+<div>
+<h2>WATCH IT NOW</h2>
+<table class="movie_links">
+<tbody>
+<tr id="flixsterAffiliates">
+<td class="logo">
+<a class="buy" href="http://www.flixster.com/movie/shrek-2/?utm_source=RottenTomatoes&amp;utm_medium=MOB&amp;utm_content=buy&amp;utm_campaign=Affiliates&amp;movieid=10043" onclick="trackAffiliateEvent('flixster')">
+<i class="pull-left flixster"></i>
+</a>
+</td>
+<td class="price-col">
+<a class="buy" href="http://www.flixster.com/movie/shrek-2/?utm_source=RottenTomatoes&amp;utm_medium=MOB&amp;utm_content=buy&amp;utm_campaign=Affiliates&amp;movieid=10043&amp;redirect=/movie/shrek-2/2000065729/buy/&amp;csrfToken=" onclick="trackAffiliateEvent('flixster')" target="blank">Buy $9.99</a>
+<a class="rent" href="http://www.flixster.com/movie/shrek-2/?utm_source=RottenTomatoes&amp;utm_medium=MOB&amp;utm_content=rent&amp;utm_campaign=Affiliates&amp;movieid=10043&amp;redirect=/movie/shrek-2/2000060502/rent/&amp;csrfToken=" onclick="trackAffiliateEvent('flixster')" target="blank">Rent $2.99</a>
+</td>
+</tr>
+<tr id="vuduAffiliates">
+<td class="logo">
+<a class="buy" href="http://www.vudu.com/movies/#!content/398580/Shrek-2" onclick="trackAffiliateEvent('vudu')" target="blank">
+<i class="pull-left vudu"></i>
+</a>
+</td>
+<td class="price-col">
+<a class="buy" href="http://www.vudu.com/movies/#!content/398580/Shrek-2" onclick="trackAffiliateEvent('vudu')" target="blank">Buy $13.99</a>
+<a class="rent" href="http://www.vudu.com/movies/#!content/398580/Shrek-2" onclick="trackAffiliateEvent('vudu')" target="blank">Rent $2.99</a>
+</td>
+</tr>
+<tr id="targetAffiliates">
+<td class="logo">
+<a "buy"="" href="http://www.TargetTicket.com/movies/Shrek-2/467141/0" onclick="trackAffiliateEvent('target')" target="blank">
+<i class="pull-left target"></i>
+</a>
+</td>
+<td class="price-col">
+<a class="buy" href="http://www.TargetTicket.com/movies/Shrek-2/467141/0" onclick="trackAffiliateEvent('target')" target="blank">Buy $11.99</a>
+<a class="rent" href="http://www.TargetTicket.com/movies/Shrek-2/467141/0" onclick="trackAffiliateEvent('target')" target="blank">Rent $2.99</a>
+</td>
+</tr>
+<tr id="amazonAffiliates">
+<td class="logo">
+<a class="buy" href="http://www.amazon.com/gp/product/B00AEG677U/ref=atv_feed_catalog?tag=rottetomao_aiv_mv-20" onclick="trackAffiliateEvent('amazon')" target="blank"><i class="pull-left amazoninstant"></i></a>
+</td>
+<td class="price-col">
+<a class="buy" href="http://www.amazon.com/gp/product/B00AEG677U/ref=atv_feed_catalog?tag=rottetomao_aiv_mv-20" onclick="trackAffiliateEvent('amazon')" target="blank">Buy
+                                                $9.99</a>
+<a class="rent" href="http://www.amazon.com/gp/product/B00DVAE49O/ref=atv_feed_catalog?tag=rottetomao_aiv_mv-20" onclick="trackAffiliateEvent('amazon')" target="blank">Rent
+                                                $2.99</a>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="movie_links">
+<tbody>
+<tr id="itunesAffiliates">
+<td class="logo">
+<a "buy"="" href="https://itunes.apple.com/us/movie/shrek-2/id392515779?at=10l9IP&amp;ct=RT&amp;uo=5" onclick="trackAffiliateEvent('itunes')" target="blank">
+<i class="pull-left itunes"></i>
+</a>
+</td>
+<td class="price-col">
+<a class="buy" href="https://itunes.apple.com/us/movie/shrek-2/id392515779?at=10l9IP&amp;ct=RT&amp;uo=5" onclick="trackAffiliateEvent('itunes')" target="blank">Buy $9.99</a>
+<a class="rent" href="https://itunes.apple.com/us/movie/shrek-2/id392515779?at=10l9IP&amp;ct=RT&amp;uo=5" onclick="trackAffiliateEvent('itunes')" target="blank">Rent $2.99</a>
+</td>
+</tr>
+<tr id="netflixAffiliates">
+<td class="logo">
+<i class="pull-left netflix"></i>
+</td>
+<td class="price-col">
+<a class="netflix_link" href="https://movies.netflix.com/WiMovie/60034572" id="addMe" onclick="trackAffiliateEvent('netflix')" target="blank">Add to Queue</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<hr/>
+<div class="inlineBlock">
+<h2>Cast</h2>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/mike_myers/" itemprop="url">
+<img alt="Mike Myers" class="actorThumb medium media-object" height="50" itemprop="image" src="http://content6.flixster.com/rtactor/40/53/40532_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/mike_myers/" itemprop="url">
+<span itemprop="name">
+            Mike Myers
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Shrek</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/eddie_murphy/" itemprop="url">
+<img alt="Eddie Murphy" class="actorThumb medium media-object" height="50" itemprop="image" src="http://content9.flixster.com/rtactor/40/41/40419_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/eddie_murphy/" itemprop="url">
+<span itemprop="name">
+            Eddie Murphy
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Donkey</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/cameron_diaz/" itemprop="url">
+<img alt="Cameron Diaz" class="actorThumb medium media-object" height="50" itemprop="image" src="http://content9.flixster.com/rtactor/42/17/42179_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/cameron_diaz/" itemprop="url">
+<span itemprop="name">
+            Cameron Diaz
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Princess Fiona</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/julie_andrews/" itemprop="url">
+<img alt="Julie Andrews" class="actorThumb medium media-object" height="50" itemprop="image" src="http://content9.flixster.com/rtactor/40/31/40311_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/julie_andrews/" itemprop="url">
+<span itemprop="name">
+            Julie Andrews
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Queen Lillian</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/antonio_banderas/" itemprop="url">
+<img alt="Antonio Banderas" class="actorThumb medium media-object" height="50" itemprop="image" src="http://content8.flixster.com/rtactor/40/31/40318_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/antonio_banderas/" itemprop="url">
+<span itemprop="name">
+            Antonio Banderas
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Puss In Boots</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock " itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/john_cleese/" itemprop="url">
+<img alt="John Cleese" class="actorThumb medium media-object" height="50" itemprop="image" src="http://content6.flixster.com/rtactor/14/52/14528_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/john_cleese/" itemprop="url">
+<span itemprop="name">
+            John Cleese
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as King Harold</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/rupert_everett/" itemprop="url">
+<img alt="Rupert Everett" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content9.flixster.com/photo/41/65/75/4165759_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/rupert_everett/" itemprop="url">
+<span itemprop="name">
+            Rupert Everett
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Prince Charming</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/jennifer_saunders/" itemprop="url">
+<img alt="Jennifer Saunders" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content9.flixster.com/photo/31/88/72/3188723_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/jennifer_saunders/" itemprop="url">
+<span itemprop="name">
+            Jennifer Saunders
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Fairy Godmother</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/conrad_vernon/" itemprop="url">
+<img alt="Conrad Vernon" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content9.flixster.com/photo/89/31/88/8931887_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/conrad_vernon/" itemprop="url">
+<span itemprop="name">
+            Conrad Vernon
+            </span>
+</a>
+<span class="characters subtle smaller" title="Gingerbread Man/Cedric/Announcer/Muffin Man/ Mongo
+                    
+                    
+                
+                , 
+                
+                
+                    
+                        Gingerbread Man/Cedric/Announcer/Muffin Man/Mongo"><br/>as Gingerbread Man/Cedr...</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/latifa_ouaou/" itemprop="url">
+<img alt="Latifa Ouaou" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content8.flixster.com/photo/11/50/00/11500062_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/latifa_ouaou/" itemprop="url">
+<span itemprop="name">
+            Latifa Ouaou
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Doll/Jill</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/david_p_smith/" itemprop="url">
+<img alt="David P. Smith" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/david_p_smith/" itemprop="url">
+<span itemprop="name">
+            David P. Smith
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Herald/Man with Box</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/joan_rivers/" itemprop="url">
+<img alt="Joan Rivers" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content8.flixster.com/photo/50/27/65/5027650_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/joan_rivers/" itemprop="url">
+<span itemprop="name">
+            Joan Rivers
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Herself</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/alina_phelan/" itemprop="url">
+<img alt="Alina Phelan" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/alina_phelan/" itemprop="url">
+<span itemprop="name">
+            Alina Phelan
+            </span>
+</a>
+<span class="characters subtle smaller" title="Maiden No.1/Generic Female No.1"><br/>as Maiden No.1/Generic ...</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/erika_thomas/" itemprop="url">
+<img alt="Erika Thomas" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/erika_thomas/" itemprop="url">
+<span itemprop="name">
+            Erika Thomas
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Maiden No.2</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/aron_warner/" itemprop="url">
+<img alt="Aron Warner" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content9.flixster.com/photo/12/71/17/12711799_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/aron_warner/" itemprop="url">
+<span itemprop="name">
+            Aron Warner
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Wolf</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/wendy_bilanski/" itemprop="url">
+<img alt="Wendy Bilanski" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/wendy_bilanski/" itemprop="url">
+<span itemprop="name">
+            Wendy Bilanski
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Bar Frog</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/guillaume_aretos/" itemprop="url">
+<img alt="Guillaume Aretos" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/guillaume_aretos/" itemprop="url">
+<span itemprop="name">
+            Guillaume Aretos
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as receptionist</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/mark_moseley/" itemprop="url">
+<img alt="Mark Moseley" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content8.flixster.com/photo/11/55/43/11554326_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/mark_moseley/" itemprop="url">
+<span itemprop="name">
+            Mark Moseley
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Mirror/Dresser</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/christopher_knights/" itemprop="url">
+<img alt="Christopher Knights" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/christopher_knights/" itemprop="url">
+<span itemprop="name">
+            Christopher Knights
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Blind Mouse</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/cody_cameron/" itemprop="url">
+<img alt="Cody Cameron" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content7.flixster.com/photo/11/57/81/11578161_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/cody_cameron/" itemprop="url">
+<span itemprop="name">
+            Cody Cameron
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Pinocchio/Three Pigs</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/larry_king/" itemprop="url">
+<img alt="Larry King" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content8.flixster.com/photo/97/31/42/9731426_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/larry_king/" itemprop="url">
+<span itemprop="name">
+            Larry King
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Ugly Stepsister</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/kelly_cooney/" itemprop="url">
+<img alt="Kelly Cooney" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/kelly_cooney/" itemprop="url">
+<span itemprop="name">
+            Kelly Cooney
+            </span>
+</a>
+<span class="characters subtle smaller"><br/>as Fast Food Clerk</span>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/lisbeth_scott/" itemprop="url">
+<img alt="Lisbeth Scott" class="actorThumb medium media-object" height="50" itemprop="image" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/actor.default.tmb.gif" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/lisbeth_scott/" itemprop="url">
+<span itemprop="name">
+            Lisbeth Scott
+            </span>
+</a>
+</div>
+</div>
+<div class="cast-item media inlineBlock castRemaining" itemprop="actors" itemscope="" itemtype="http://schema.org/Person">
+<a class="pull-left" href="/celebrity/jonathan_ross/" itemprop="url">
+<img alt="Jonathan Ross" class="actorThumb medium media-object" height="50" id="mainImage" src="http://content8.flixster.com/photo/11/10/98/11109854_tmb.jpg" style="" width="50"/>
+</a>
+<div class="media-body">
+<a class="unstyled articleLink" href="/celebrity/jonathan_ross/" itemprop="url">
+<span itemprop="name">
+            Jonathan Ross
+            </span>
+</a>
+</div>
+</div>
+</div>
+<a class="unstyled articleLink" href="javascript:void(0);" id="showMoreCast">
+        Show More Cast <span class="caret"></span>
+</a>
+
+<hr/>
+<style>
+        #contentNews h5 { margin-bottom:0px;}
+        #contentNews .newsRow { margin-bottom:10px; float:left; width:50%; }
+    </style>
+<div id="contentNews" style="display:inline-block">
+<h2>Related News &amp; Features</h2>
+<ul class="redDot list-inline">
+<li style="margin:10px 0;width:48%">
+<a class="unstyled articleLink" data-pageheader="" href="/m/sex_tape_2014/news/1890247/cameron_diazs_10_best_movies/">Cameron Diaz's 10 Best Movies</a>
+<br/>
+<span class="subtle">– Rotten Tomatoes</span>
+</li>
+<li style="margin:10px 0;width:48%">
+<a class="unstyled articleLink" data-pageheader="" href="/m/shrek_3/news/1653672/shrek_films_to_end_at_five/"><i>Shrek</i> Films To End At Five?</a>
+<br/>
+<span class="subtle">– Rotten Tomatoes</span>
+</li>
+</ul>
+<div class="clickForMore">
+<a class="fr unstyled articleLink" href="/m/shrek_2/news/"><p>View All Shrek 2 News <span class="fontelloIcon icon-angle-right"></span></p></a>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="panel panel-rt panel-box dark" id="movie_videos">
+<h2 class="panel-heading"><i>Shrek 2</i> Videos</h2>
+<div class="panel-body content_body">
+<div class="clearfix" id="videoPanel">
+<a class="unstyled col-xs-8 trailer_play_action_button" data-trailer-url="/m/shrek_2/trailer/11204857/" data-video-id="11204857" href="/m/shrek_2/trailer/11204857/">
+<div class="videoItem translucent-container subPanel">
+<div class="bannerPic videoPic" style="background-image:url('http://content.internetvideoarchive.com/content/photos/702/68997_029.jpg')">
+<div class="sponsored-tag">
+<p class="sponsored-text">FEATURED</p>
+</div>
+<span class="playButton fontelloIcon icon-play light-translucent white"></span>
+</div>
+<div class="panel-rt bannerCaption">
+<div class="panel-body">
+<p class="title">Shrek 2 (Trailer 1)</p>
+<p class="detail">1 minutes 56 seconds</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="clickForMore">
+<a class="unstyled articleLink pull-right" href="/m/shrek_2/trailers/" style="color:#FFF">
+<p>
+                        View All Videos (2)
+                        <span class="fontelloIcon icon-angle-right"></span>
+</p>
+</a>
+</div>
+</div>
+</div>
+<div class="panel panel-rt panel-box " id="movie_photos">
+<h2 class="panel-heading">Photos</h2>
+<div class="panel-body content_body">
+<div class="photos_carousel">
+<div class="inlineBlock" style="position:relative">
+<a href="/m/shrek_2/pictures/">
+<img src="http://content6.flixster.com/rtmovie/42/61/42616_tmb.jpg"/>
+<div class="filter"></div>
+</a>
+</div>
+<div class="inlineBlock" style="position:relative">
+<a href="/m/shrek_2/pictures/">
+<img src="http://content9.flixster.com/rtmovie/42/04/42047_tmb.jpg"/>
+<div class="filter"></div>
+</a>
+</div>
+<div class="inlineBlock" style="position:relative">
+<a href="/m/shrek_2/pictures/">
+<img src="http://content6.flixster.com/rtmovie/41/44/41440_tmb.jpg"/>
+<div class="filter"></div>
+</a>
+</div>
+<div class="inlineBlock" style="position:relative">
+<a href="/m/shrek_2/pictures/">
+<img src="http://content6.flixster.com/rtmovie/40/78/40788_tmb.jpg"/>
+<div class="filter"></div>
+</a>
+</div>
+<div class="inlineBlock" style="position:relative">
+<a href="/m/shrek_2/pictures/">
+<img src="http://content9.flixster.com/rtmovie/40/08/40083_tmb.jpg"/>
+<div class="filter"></div>
+</a>
+</div>
+<div class="inlineBlock" style="position:relative">
+<a href="/m/shrek_2/pictures/">
+<img src="http://content7.flixster.com/rtmovie/39/32/39321_tmb.jpg"/>
+<div class="filter"></div>
+</a>
+</div>
+<div class="inlineBlock" style="position:relative">
+<a href="/m/shrek_2/pictures/">
+<img src="http://content9.flixster.com/rtmovie/38/48/38483_tmb.jpg"/>
+<div class="filter"></div>
+</a>
+</div>
+<div class="inlineBlock" style="position:relative">
+<a href="/m/shrek_2/pictures/">
+<img src="http://content9.flixster.com/rtmovie/37/57/37575_tmb.jpg"/>
+<div class="filter"></div>
+</a>
+</div>
+</div>
+<div class="clickForMore">
+<a class="unstyled articleLink pull-right" href="/m/shrek_2/pictures/">
+<p>
+                            View All Photos (33)
+                            <span class="fontelloIcon icon-angle-right"></span>
+</p>
+</a>
+</div>
+</div>
+</div>
+<div class="panel panel-rt panel-box " id="fb-friend-reviews-box">
+<h2 class="panel-heading">Friend Ratings</h2>
+<div class="panel-body content_body">
+<div align="center" style="background:#EEEEEE; padding:15px;">
+<p>No Friends? Inconceivable! Log in to see what your friends have to say.</p>
+<a class="button btn btn-primary-rt" data-dismiss="modal" data-target="#login" data-toggle="modal" href="#login" id="login-link">Login</a>
+</div>
+</div>
+</div>
+<style>
+.cl { clear: left; }
+.cr { clear: right; }
+#reviews {
+    width: 100%;
+    overflow: hidden;
+}
+</style>
+<div class="panel panel-rt panel-box " id="contentReviews">
+<h2 class="panel-heading">Critic Reviews for <em>Shrek 2</em></h2>
+<div class="panel-body content_body">
+<p id="criticHeaders">
+<a class="unstyled subtle articleLink small" href="/m/shrek_2/reviews/">All Critics (233)</a>
+
+                | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="small unstyled subtle articleLink" href="/m/shrek_2/reviews/?type=top_critics">Top Critics (48)</a>
+
+                
+                | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="small unstyled subtle articleLink" href="/m/shrek_2/reviews/?sort=fresh">Fresh (205)</a>
+
+                | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="small unstyled subtle articleLink" href="/m/shrek_2/reviews/?sort=rotten">Rotten (27)</a>
+
+                | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="small unstyled subtle articleLink" href="/m/shrek_2/reviews/?type=dvd">DVD (28)</a>
+</p>
+<div comp="HoverTip" id="reviews">
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The animation by which it stands or falls is as brilliant as ever and, though it wouldn't really be right to call it totally anti-Disney, it certainly trumps that institution for sharpness of focus, notably as far as the screenplay is concerned.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.standard.co.uk/goingout/film/shrek-hits-the-spot-7381360.html" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/derek-malcolm/">Derek Malcolm</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">This is London</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All hail the angriest rebel since James Dean. All right, he's green, pot-bellied, and has the social graces of a slug. But in terms of attitude? Peerless. 
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.thetimes.co.uk/tto/arts/film/article2428386.ece" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/james-christopher/">James Christopher</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Times [UK]</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go and see Shrek 2. You'll enjoy yourself thoroughly. Only the churlish could find any faults.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.newstatesman.com/node/148358" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/miranda-sawyer/">Miranda Sawyer</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">New Statesman</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 4/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donkey, with his endless asides and phenomenally thick skin, is as much of a pleasure as he was in the first film, but he has a challenger: Puss in Boots, voiced by Antonio Banderas.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.theage.com.au/articles/2004/06/16/1087244967191.html?from=storyrhs" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/philippa-hawker/">Philippa Hawker</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">The Age (Australia)</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Don't get me wrong. I'm not sulking. I liked Shrek 2. Honest. Kids will like Shrek 2. Most mums and dads will like Shrek 2. My problem is this: I didn't love it the way I loved Shrek.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.thesundaytimes.co.uk/sto/culture/article39014.ece" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/cosmo-landesman/">Cosmo Landesman</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Sunday Times (UK)</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small rotten" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 3/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="-1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There's no denying that Shrek 2 is fun, but it's fun without substance, and like the bubbles in the Fairy Godmother's potions, it evaporates quickly.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.toledoblade.com/Movies/2004/05/19/Movie-review-Shrek-2.html" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/nanciann-cherry/">Nanciann Cherry</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Toledo Blade</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 3.5/4"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It's a close call as to which one's better.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://jacksonville.com/tu-online/stories/051904/enm_15640253.shtml" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/matt-soergel/">Matt Soergel</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Florida Times-Union</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 3.5/4"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It's not often that a sequel is richer and deeper than the original creation, especially when we're talking about the offerings of Hollywood. But Shrek 2 is the exception.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.spokesmanreview.com/sections/entertai/movies/movie.asp?ID=cap3768" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/dan-webster/">Dan Webster</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Spokesman-Review (Washington)</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 4/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The characters are still charming, the animation really is spectacularly smooth and expressive, and the Looney Tunes-style humor and pop-culture in-jokes are as inventive and hilarious as before.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.newsreview.com/sacramento/shrek-2/content?oid=29381" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content6.flixster.com/critic/21/2104_tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/jim-lane/">Jim Lane</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Sacramento News &amp; Review</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 5/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shrek 2 is as much of a shriek as the original and if they keep putting out films as charming as this one, we'll all live happily ever after.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://yourmovies.com.au/movie/13480/shrek-2/review" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/kerry-bashford/">Kerry Bashford</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">MovieFIX</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Like the original, Shrek 2 remains exceptional value for money for all age groups and essential winter viewing.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://filmink.com.au/reviews/shrek-2-film/" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/chris-stead/">Chris Stead</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">FILMINK (Australia)</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small rotten"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="-1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There's no narrative, just half-hearted episodes punctuated by occasionally brilliant shtick.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://archive.spectator.co.uk/article/3rd-july-2004/46/earthbound-fairytale" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/mark-steyn/">Mark Steyn</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">The Spectator</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 3.5/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shrek 2 retains all the fun, artistry and pop stylings of Shrek.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.sbs.com.au/movies/movie/shrek-2" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>December 6, 2014</span>
+<meta content="2014-12-06" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/megan-spencer/">Megan Spencer</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">sbs.com.au</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble top_critic pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The movie is obvious, but consistently entertaining and animated in DreamWorks's "realistic" digitized style.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.newyorker.com/arts/reviews/film/shrek_2_vernon" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>November 25, 2013</span>
+<meta content="2013-11-25" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content7.flixster.com/critic/15/1597_tmb.gif"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/david-denby/">David Denby</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">New Yorker</div>
+<div class="small" style="color:#3A9425"><span class="glyphicon glyphicon-star"></span> Top Critic</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 4/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shrek 2 does not feel like a sequel. It's very funny, very fresh, and leaves one anxious for the next installment.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www2.metrotimes.com/archives/review.asp?rid=21381" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>November 25, 2013</span>
+<meta content="2013-11-25" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/dan-demaggio/">Dan DeMaggio</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Metro Times (Detroit, MI)</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 3.5/4"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If fall movies were this consistently clever, there would never be reason to hesitate before plunking down hard-earned bucks at the multiplex.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.people.com/people/article/0,,20150169,00.html" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>November 25, 2013</span>
+<meta content="2013-11-25" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/leah-rozen/">Leah Rozen</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">People Magazine</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh" data-placement="right" data-toggle="tooltip" rel="tooltip" title="Original Score: 4/5"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There's plenty of subtle satire and double entendres for young and old alike to savour.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.radiotimes.com/film/crnk7/shrek-2" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>November 25, 2013</span>
+<meta content="2013-11-25" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/alan-jones/">Alan Jones</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Radio Times</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A minor improvement on the original, and so a major triumph. Donkey bags the heartiest laughs, but Puss-In-Boots adds plenty of cream on top.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.totalfilm.com/reviews/cinema/shrek-2" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>November 25, 2013</span>
+<meta content="2013-11-25" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Total Film</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble pull-left cl" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shrek was no ordinary animated film, and Shrek 2 is, rarer still, proving every bit as cute, clever and funny as the original.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://www.screendaily.com/reviews/us-americas/animation/shrek-2/4018693.article" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>November 25, 2013</span>
+<meta content="2013-11-25" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://d3biamo577v4eu.cloudfront.net/static/images/redesign/user.none.tmb.jpg"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/jean-oppenheimer/">Jean Oppenheimer</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Screen International</div>
+</div>
+</div>
+</div>
+<div class="quote_bubble top_critic pull-right cr" itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+<div class="review_quote">
+<div class="media">
+<div class="pull-left" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<span class="media-img icon small fresh"></span>
+<meta content="1" itemprop="bestRating" name="bestRating"/>
+<meta content="-1" itemprop="worstRating" name="worstRating"/>
+<meta content="1" itemprop="ratingValue" name="ratingValue"/>
+</div>
+<div class="media-body">
+<p itemprop="reviewBody">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can an ogre live happily ever after? Can fairy tale characters be content with their fairy tale lives? Can an Oscar-winning animated success generate a successful sequel? To all these questions, Shrek 2 is happy to answer yes, yes and yes.
+
+
+                </p>
+<div class="pull-right smaller">
+<a class="a" href="http://articles.latimes.com/2004/may/18/entertainment/et-turan18" rel="nofollow" target="_blank">Full Review…</a>
+	
+	
+
+ | 
+                    <span>November 25, 2013</span>
+<meta content="2013-11-25" itemprop="datePublished"/>
+</div>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img class="critic_thumb media-img" height="50px" src="http://content8.flixster.com/critic/16/1614_tmb.gif"/>
+</div>
+<div class="media-body">
+<div itemprop="author">
+<a class="unstyled articleLink" href="/critic/kenneth-turan/">Kenneth Turan</a>
+</div>
+<div class="subtle small" itemprop="sourceOrganization">Los Angeles Times</div>
+<div class="small" style="color:#3A9425"><span class="glyphicon glyphicon-star"></span> Top Critic</div>
+</div>
+</div>
+</div>
+</div>
+<div class="view-all">
+<a class="view_all_critic_reviews" href="/m/shrek_2/reviews/">View All Critic Reviews (233) <span <="" class="fontelloIcon icon-angle-right" span=""></span></a>
+</div>
+</div>
+</div>
+<div class="panel panel-rt panel-box " id="audience_reviews">
+<h2 class="panel-heading">Audience Reviews for <em>Shrek 2</em></h2>
+<div class="panel-body content_body">
+<div>
+<div class="quote_bubble fl cl">
+<div class="review_quote" id="quoteBubble901318108_10043">
+<div class="media">
+<div class="media-body">
+<div class="starHeader">
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+                            
+                            ½
+                        </div>
+<p class="comment" style="line-height:1.25">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Making a sequel to Shrek was both a complete no-brainer and a cause for great concern. The first film was a huge hit, taking more than eight times its budget at the box office and winning over critics and audiences alike with its intelligent storytelling and witty script. But with the continued success of PIXAR, first with Monsters, Inc. and then Finding Nemo, you would have been within your rights to doubt that any sequel could compete.<br/><br/>Fortunately, Shrek 2 is a great second outing, thanks in part to the continued presence of Andrew Adamson behind the camera, as a co-writer now as well as co-director. The film may not be quite as edgy as its predecessor, perhaps due to Dreamworks head honcho Jeffrey Katzenberg wanting to play it safe to secure further outings. But the film is every bit as funny as the first one, if not slightly moreso, and continues to develop and deepen its unique fairytale world.<br/><br/>Making a sequel to any film can go one of two ways, depending on the attitude of the people behind it and the potential present in the characters. On the one hand, the film can repeat all the basic rhythms of the first film, either with the main character being replaced (so that the journey appears to be new) or by the stakes being raised (so that it feels like the action is more significant). Occasionally this approach works wonders - as on Evil Dead 2 - but often it results in tired, formulaic offerings, such as the many straight-to-video sequels produced by Disney.<br/><br/>On the other hand, the film can attempt to tell a new story, with the characters undergoing a new challenge and more characteristics of their universe being revealed. This approach is harder to get right, but when things come together the results regularly outclass their predecessors. The Empire Strikes Back, Mad Max 2: The Road Warrior and The Rescuers Down Under are all examples of this approach working well - and now we can add Shrek 2 to that list.<br/><br/>The basic principle that operates in Shrek 2 is the same one that operated in Shrek: taking familiar aspects of the fairy tale genre, and turning them on their heads with plenty of humour. But rather than simply create Lord Farquaad Mark II, the obstacles facing Shrek are different and perhaps more nuanced. Not only that, but Shrek is a slightly different person (or ogre), having married Fiona at the end of the first film.<br/><br/>Both of the main villains are as entertainingly subversive as Farquaad, or any characters from the first film. The Fairy Godmother (played brillaintly by Jennifer Saunders) is not a benevolent aid to our heroes, but a scheming, manipulative, power-hungry despot wanting to rule the kingdom through her son (not unlike Livia in I, Claudius). Magic is not the universal force for good that it is in Disney's Cinderella; the Fairy Godmother is more like her Mafia namesake, granting favours in return for power and influence.<br/><br/>As for Prince Charming, he anything but lips up to his name. While many of his Disney counterparts are painted as (occasionally bland) ideals of masculinity, Charming is vain, self-centred, effeminate and a total Mummy's boy. Rupert Everett's clipped yet world-weary delivery perfectly conveys the frustration of the character, whose ego and sense of entitlement take a severe blow over the running time.<br/><br/>As far as the story of Shrek 2 goes, it's a natural continuation of the first film in terms of theme and plot. Beneath all its fairy tale trappings and pop culture references, Shrek is a film about inner beauty, the hard work that goes into relationships, and why the rules of a given world aren't always fair. Bringing Fiona's parents into the mix is a logical decision, adding a new obstacle or source of prejudice with the twist of wanting acceptance from said source for the sake of those one loves.<br/><br/>Disney films often get accused of presenting a shallow view of what constitutes beauty; in The Little Mermaid, for instance, the female lead signs away her most distinctive features just so she can get a husband. Shrek 2 does the opposite, using a radical physical transformation to show how little such a transformation changes, and how little such a change matters. The filmakers deserve enormous credit for following through with this idea, and it resonates really strongly right up to the end.<br/><br/>It's arguable that because Shrek 2 has a more tongue-in-cheek, parodic sensibility, it can get away with such a heartwarming message purely by virtue of not looking or sounding like a Disney film. In reality, it earns the right to do this by developing the characters we love in a genuine and convincing way. Fiona has become so comfortable in her ogre self that it makes sense for her to scream when she first sees her human face in the mirror. Likewise, Shrek may still be bad-tempered and cantankerous, but he's more noble in the causes for which he fights, and a little more cunning in the fights that he chooses to pick.<br/><br/>What this means is that the increased amount of reference humour in Shrek 2 doesn't jar like it does in later Dreamworks efforts. There are some cracking reference gags here, whether it's Prince Charming's slow-motion hair flick (Heartbreakers), the wire rescue of our main characters (Mission: Impossible) or Donkey fearing that he will melt when it rains (The Wizard of Oz). And that's not to mention all the pops at brands like Starbucks, Baskin Robbins and Versace. But like the best work of Aardman, these touches or little sight gags take a back seat to the plot, and the film still works whatever age or however culture-literate you may be.<br/><br/>On top of everything else, Shrek 2 is really, really funny. Many of the best gags are those which are completely unexpected, such as Puss in Boots' hairball or Pinocchio's brief stint as a real boy. Others are the product of really good editing, such as the dinner table sequence (a nod to Rocky Horror) or the parallel conversations when Shrek first meets Fiona's parents. The big set-pieces are inventive and fast-paced, and the film is never afraid to take its characters down a peg or two by things not climaxing quite as we might expect.<br/><br/>The performances in Shrek are all extremely good. Mike Myers, Eddie Murphy and Cameron Diaz remain as convincing and enjoyable as before, with Adamson and his co-directors managing to focus the two male leads. Of the newcomers, Jennifer Saunders is very impressive and John Cleese is a very fine choice for King Harold. But of course, the show is stolen by Antonio Banderas, who ribs on his own work in The Mask of Zorro to make Puss in Boots truly unforgetable.<br/><br/>Shrek 2 is every bit as good as the original, and may even be slightly funnier in terms of the quantity and quality of its jokes. Despite being more rounded than its edgy predecessor, this is still a very intelligent offering, populated by interesting ideas and a host of compelling characters. In hindsight it's a shame that the series couldn't continue to progress in such a positive way after this instalment, but Shrek 2 remains a sterling effort, both in this context and on its own terms.
+
+
+                </p>
+<a class="more" href="javascript:void(0)">More</a>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img alt="Daniel Mumby" class="critic_thumb" height="50" src="//static6.flixster.com/static/locker/images/actor.default.tmb.gif" width="50"/>
+</div>
+<div class="media-body">
+            
+                
+                Daniel Mumby
+            
+            
+                <p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+</div>
+</div>
+</div>
+<div class="quote_bubble fr cr">
+<div class="review_quote" id="quoteBubble836515740_10043">
+<div class="media">
+<div class="media-body">
+<div class="starHeader">
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+                            
+                            ½
+                        </div>
+<p class="comment" style="line-height:1.25">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rarely a CGI-based sequel ever is seen. But Shrek 2 delivers in more ways than one. Fantastic layout and raunchy story with a blend of colorful cast-mates, Shrek 2 goes above and beyond the realm of CGI-films. 4.5/5
+
+
+                </p>
+<a class="more" href="javascript:void(0)">More</a>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img alt="Eugene Bernabe" class="critic_thumb" height="50" src="//graph.facebook.com/1442511448/picture" width="50"/>
+</div>
+<div class="media-body">
+<a class="unstyled articleLink" href="/user/id/836515740/">
+                        Eugene Bernabe
+                    </a>
+<p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+</div>
+</div>
+</div>
+<div class="quote_bubble fl cl">
+<div class="review_quote" id="quoteBubble459119238_10043">
+<div class="media">
+<div class="media-body">
+<div class="starHeader">
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+                            
+                            
+                            ½
+                        </div>
+<p class="comment" style="line-height:1.25">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As good as the first
+
+
+                </p>
+<a class="more" href="javascript:void(0)">More</a>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img alt="superclerk25" class="critic_thumb" height="50" src="//graph.facebook.com/758009288/picture" width="50"/>
+</div>
+<div class="media-body">
+<a class="unstyled articleLink" href="/user/id/459119238/">
+                        Jason Spencer
+                    </a>
+<p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+</div>
+</div>
+</div>
+<div class="quote_bubble fr cr">
+<div class="review_quote" id="quoteBubble803803220_10043">
+<div class="media">
+<div class="media-body">
+<div class="starHeader">
+<span class="glyphicon glyphicon-star"></span>
+<span class="glyphicon glyphicon-star"></span>
+                            
+                            
+                            
+                            ½
+                        </div>
+<p class="comment" style="line-height:1.25">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Original Shrek was brilliant.  It looked amazing, had a great storyline, and amazing dialogue and was loved by both kids and adults alike.  Shrek 2 really was not a grand sequel and paved the way for the even further stagnation provided by Shrek 3 and 4.
+
+
+                </p>
+<a class="more" href="javascript:void(0)">More</a>
+</div>
+</div>
+</div>
+<div class="review_source media">
+<div class="pull-left">
+<img alt="Colin Montgomery" class="critic_thumb" height="50" src="//graph.facebook.com/712836066/picture" width="50"/>
+</div>
+<div class="media-body">
+<a class="unstyled articleLink" href="/user/id/803803220/">
+                        Colin Montgomery
+                    </a>
+<p class="superreviewer small"><span class="glyphicon glyphicon-star"></span> Super Reviewer</p>
+</div>
+</div>
+</div>
+</div>
+<div class="view-all">
+<a class="" href="/m/shrek_2/reviews/?type=user">
+                            View All Audience Reviews <span class="fontelloIcon icon-angle-right"></span>
+</a>
+</div>
+</div>
+</div>
+
+<div class="panel panel-rt panel-box " id="quotesList">
+<h2 class="panel-heading"><em>Shrek 2</em> Quotes</h2>
+<div class="panel-body content_body">
+<div class="media">
+<div class="pull-right" style="width:300px;">
+<div class="medrec_ad" id="medrec_bottom_ad"></div>
+
+<br/>
+</div>
+<div class="media-body">
+<div class="quote_bubble fullWidth">
+<div class="review_quote media">
+<dl class="dl-horizontal quote">
+<dt class="bold quote_actor">Queen Lillian:</dt>
+<dd class="line">Harold!</dd>
+<dt class="bold quote_actor">Princess Fiona:</dt>
+<dd class="line">Shrek!</dd>
+<dt class="bold quote_actor">Shrek:</dt>
+<dd class="line">Fiona!</dd>
+<dt class="bold quote_actor">King Harold:</dt>
+<dd class="line">Fiona!</dd>
+<dt class="bold quote_actor">Princess Fiona:</dt>
+<dd class="line">Mom!</dd>
+<dt class="bold quote_actor">Queen Lillian:</dt>
+<dd class="line">Harold!</dd>
+<dt class="bold quote_actor">Donkey:</dt>
+<dd class="line">Donkey! </dd>
+</dl>
+<a class="more" href="javascript:void(0)">More</a>
+<div class="quoteFooter">
+                                – Submitted by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+
+<a class="a" href="/user/id/917026809/">Joe N</a> (6 months ago)
+                                
+                            </div>
+</div>
+</div>
+<div class="quote_bubble fullWidth">
+<div class="review_quote media">
+<dl class="dl-horizontal quote">
+<dt class="bold quote_actor">Pinocchio/Three Pigs:</dt>
+<dd class="line">Yep, he croaked.</dd>
+</dl>
+<a class="more" href="javascript:void(0)">More</a>
+<div class="quoteFooter">
+                                – Submitted by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+
+<a class="a" href="/user/id/927296362/">Matthew D</a> (9 months ago)
+                                
+                            </div>
+</div>
+</div>
+<div class="quote_bubble fullWidth">
+<div class="review_quote media">
+<dl class="dl-horizontal quote">
+<dt class="bold quote_actor">Puss In Boots:</dt>
+<dd class="line">Today, I repay my debt.</dd>
+</dl>
+<a class="more" href="javascript:void(0)">More</a>
+<div class="quoteFooter">
+                                – Submitted by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+
+<a class="a" href="/user/id/927296362/">Matthew D</a> (9 months ago)
+                                
+                            </div>
+</div>
+</div>
+<div class="quote_bubble fullWidth">
+<div class="review_quote media">
+<dl class="dl-horizontal quote">
+<dt class="bold quote_actor">Puss In Boots:</dt>
+<dd class="line">Hmm, you're still an ass to me.</dd>
+</dl>
+<a class="more" href="javascript:void(0)">More</a>
+<div class="quoteFooter">
+                                – Submitted by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+
+<a class="a" href="/user/id/927296362/">Matthew D</a> (9 months ago)
+                                
+                            </div>
+</div>
+</div>
+<div class="clickForMore" style="display:inline-block; width:100%">
+<a class="unstyled articleLink fr" href="/m/shrek_2/quotes/"><p>View All Quotes (34) <span class="fontelloIcon icon-angle-right"></span></p></a></div></div></div></div></div>
+
+
+
+
+
+
+<div class="panel panel-rt panel-box " id="discussionForum">
+<h2 class="panel-heading">Discussion Forum</h2>
+<div class="panel-body content_body">
+<div id="threadsPreview">
+<style>
+    th { font-size:14px; font-weight:bold; color:#787878 }
+</style>
+<div style="background:#EEEEEE; padding:15px; text-align:center;">
+<p>Discuss Shrek 2 on our Movie forum!</p>
+<form action="http://forum.rottentomatoes.com/forum/category/2/10043" method="post">
+<button class="btn btn-primary-rt" name="forum_name" type="submit" value="Shrek 2">
+<span>Go to Forum</span>
+</button>
+</form>
+</div>
+</div>
+<div class="view-all">
+<a href="http://forum.rottentomatoes.com/forum/category/2/10043">View All Posts <span class="fontelloIcon icon-angle-right"></span></a>
+</div>
+</div>
+</div>
+<div class="panel panel-rt panel-box " id="newsAndFeatures">
+<h2 class="panel-heading">News &amp; Features</h2>
+<div class="panel-body content_body">
+<div class="media-body">
+<div class="panel-body">
+<div class="col-xs-15">
+<div class="row">
+<div class="newsItem col-xs-12">
+<a class="unstyled articleLink" href="/gallery/24frames_epic_scifi/">
+<div class="bannerPic" style="background-image:url('http://content7.flixster.com/site/10/26/97/10269705_ori.jpg')"></div>
+<div class="panel bannerCaption">
+<div class="panel-body">
+<p class="noSpacing title">
+                    Epic Sci-Fi
+                </p>
+<p class="byline noSpacing">
+                    
+                                24 pictures of epic sci-fi flims
+                            
+                </p>
+</div>
+</div>
+</a>
+</div>
+<div class="newsItem col-xs-12">
+<a class="unstyled articleLink" href="/m/magic_mike_xxl/trailers/11222732">
+<div class="bannerPic" style="background-image:url('http://content7.flixster.com/site/10/26/97/10269725_ori.jpg')"></div>
+<div class="panel bannerCaption">
+<div class="panel-body">
+<p class="noSpacing title">
+                    Magic Mike XXL
+                </p>
+<p class="byline noSpacing">
+                    
+                                Channing Tatum strip dances in first trailer
+                            
+                </p>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="newsItem col-xs-12">
+<a class="unstyled articleLink" href="/tv/daredevil/news/1932696/marvels_daredevil_on_netflix_teaser_trailer/">
+<div class="bannerPic" style="background-image:url('http://content8.flixster.com/site/10/26/97/10269726_ori.jpg')"></div>
+<div class="panel bannerCaption">
+<div class="panel-body">
+<p class="noSpacing title">
+                    Daredevil
+                </p>
+<p class="byline noSpacing">
+                    
+                                Marvel/Netflix show gets first trailer
+                            
+                </p>
+</div>
+</div>
+</a>
+</div>
+<div class="newsItem col-xs-12">
+<a class="unstyled articleLink" href="/tv/the-man-in-the-high-castle/news/1932672/amazon_pilot_season_4_what_the_critics_think/">
+<div class="bannerPic" style="background-image:url('http://content9.flixster.com/site/10/26/96/10269687_ori.jpg')"></div>
+<div class="panel bannerCaption">
+<div class="panel-body">
+<p class="noSpacing title">
+                    Amazon Pilot Season 4
+                </p>
+<p class="byline noSpacing">
+                    
+                                Which shows deserve "Prime" status?
+                            
+                </p>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-xs-9 newsList">
+<h2>TOP HEADLINES</h2>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/zoolander/news/1932731/zoolander_2_to_film_this_spring/" target="_blank"><i>Zoolander 2</i> to Film This Spring</a>
+<br/>
+<a class="unstyled" href="/source-1647"><span class="subtle">– ScreenRant</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/american_sniper/news/1932730/bradley_cooper_adopting_orphan_x/" target="_blank">Bradley Cooper Adopting <i>Orphan X</i></a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/tv_editorial/news/1932729/grammy_ratings_drop_but_still_dwarf_competition/" target="_blank">Grammy Ratings Drop, But Still Dwarf Competition</a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/the_imitation_game/news/1932725/jennifer_lawrence_and_chris_pratt_are_sci-fi_passengers/" target="_blank">Jennifer Lawrence and Chris Pratt Are Sci-Fi <i>Passengers</i></a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/tv_editorial/news/1932724/the_legend_of_zelda_is_coming_to_netflix/" target="_blank"><i>The Legend of Zelda</i> Is Coming to Netflix</a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/miss_peregrines_home_for_peculiars/news/1932723/samuel_l_jackson_joins_miss_peregrines_home_for_peculiar_children/" target="_blank">Samuel L. Jackson Joins <i>Miss Peregrine's Home for Peculiar Children</i></a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/tv_editorial/news/1932722/abc_revives_battlebots/" target="_blank">ABC Revives <i>BattleBots</i></a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div>
+<div class="pull-left" style="color:red">• </div>
+<div class="media-body">
+<a class="unstyled articleLink" data-pageheader="" href="/m/rebel_without_a_cause/news/1932721/stewart_stern_1922-2015/" target="_blank">Stewart Stern: 1922-2015</a>
+<br/>
+<a class="unstyled" href="/source-466"><span class="subtle">– Variety</span></a>
+</div>
+</div>
+<div class="clickForMore">
+<a class="articleLink unstyled" href="/news/"><p>More News <span class="fontelloIcon icon-angle-right"></span></p></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img height="1" src="http://segs.btrll.com/v1/tpix/-/-/-/-/-/sid.6548936" width="1"/>
+
+<div class="modal fade" id="newTrailerModal" tabindex="-1">
+<div class="modal-dialog modal-lg">
+<div class="closebutton"><span class="glyphicon glyphicon-remove-circle lightGray"></span></div>
+<iframe id="videoPlayer" src="about:none"></iframe>
+</div>
+</div>
+
+
+
+
+<div class="sleaderboard_wrapper">
+<div id="leaderboard_bottom_ad">
+
+</div>
+</div>
+<style>#skin_ad { height:0px !important; }</style>
+<div id="skin_ad">
+
+</div>
+<div id="foot">
+<div class="row">
+<div class="col-xs-5 subnav">
+<ul class="unstyled">
+<li><a class="unstyled trendingLink" href="/help_desk/" id="footer-help">Help</a></li>
+<li><a class="unstyled trendingLink" href="/about/" id="footer-about">About Rotten Tomatoes</a></li>
+<li><a class="unstyled trendingLink" data-target="#whatIsTomatometer" data-toggle="modal" id="footer-tomatometer">What's the Tomatometer?</a></li>
+<li><a class="unstyled trendingLink" href="http://www.flixster.com/careers" id="footer-jobs">Jobs</a></li>
+</ul>
+</div>
+<div class="col-xs-4 subnav">
+<ul>
+<li><a class="unstyled trendingLink" href="/help_desk/critics/" id="footer-critics">Critic Submission</a></li>
+<li><a class="unstyled trendingLink" href="/press/" id="footer-press">Press</a></li>
+<li><a class="unstyled trendingLink" href="http://developer.rottentomatoes.com" id="footer-api">API</a></li>
+<li><a class="unstyled trendingLink" href="/help_desk/licensing/" id="footer-licensing">Licensing</a></li>
+</ul>
+</div>
+<div class="col-xs-7 subnav">
+<h2><span class="glyphicon glyphicon-envelope"></span>  JOIN THE NEWSLETTER</h2>
+<div style="margin:10px 0">
+                Get the freshest reviews, news, and more delivered right to your inbox!
+            </div>
+<form action="/promo/newsletter-signup-confirm" id="newsletterSignup" method="POST" target="_blank">
+<div class="input-group">
+<input class="form-control" name="email" placeholder="Enter your email address" type="text"/>
+<span class="input-group-btn">
+<button class="btn btn-primary-rt" id="footer-newsletter-join" type="button">Join</button>
+</span>
+</div>
+</form>
+</div>
+<div class="col-xs-8 subnav">
+<h2>Follow Us</h2>
+<div>
+<a class="unstyled trendingLink fontelloIcon icon-twitter footerIcon" href="http://twitter.com/rottentomatoes" id="footer-follow-us-twitter"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-facebook-squared footerIcon" href="http://www.facebook.com/rottentomatoes" id="footer-follow-us-facebook"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-gplus footerIcon" href="https://plus.google.com/+RottenTomatoes" id="footer-follow-us-google"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-youtube-play footerIcon" href="http://www.youtube.com/user/rottentomatoes" id="footer-follow-us-youtube"></a>   
+                <a class="unstyled trendingLink fontelloIcon icon-tumblr footerIcon" href="http://rottentomatoes.tumblr.com/" id="footer-follow-us-tumblr"></a>   
+            </div>
+</div>
+</div>
+<div class="subtle" style="padding:10px">
+<span class="easteregg">Copyright © Flixster, Inc. All rights reserved.</span>
+<a href="/copyright/" id="footer-copyright">Copyright Policy</a> |
+        <a href="/privacy/" id="footer-privacy">Privacy Policy</a> |
+        <a href="/terms/" id="footer-tos">Terms of Service</a> |
+        <a href="/privacy#id.6x3busrdhxyw" id="footer-ad-choices">Ad Choices</a> |        
+        <a href="/mobile/info/" id="footer-mobile">Mobile Apps</a>
+</div>
+</div>
+<div class="social-tools" id="social-tools">
+<a class="social-tools-facebook-like" href="javascript:void(0);" title="Facebook Like"></a>
+<a class="social-tools-facebook-share" href="javascript:void(0);" title="Facebook Share"></a>
+<a class="social-tools-twitter" href="javascript:void(0);" title="Twitter"></a>
+<a class="social-tools-pinterest" href="javascript:void(0);" title="Pinterest"></a>
+<a class="social-tools-googleplus" href="javascript:void(0);" title="Google+"></a>
+<a class="social-tools-stumbleupon" href="javascript:void(0);" title="StumbleUpon"></a>
+</div>
+
+
+
+<!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+
+
+<style>
+.flip {
+    transition:transform 0.25s;
+}
+.flip:hover {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    -ms-filter: flipv; /*IE*/
+    filter: flipv; /*IE*/
+    top: 1px; position: relative;
+}
+</style>

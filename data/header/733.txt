@@ -1,0 +1,24 @@
+Title: Local News | The Official Celine Dion Site
+Accept-Ranges: bytes
+Age: 85
+Cache-Control: public, max-age=900
+Content-Type: text/html; charset=utf-8
+Date: Mon, 09 Feb 2015 23:48:04 GMT
+ETag: "1423525600"
+Expires: Sun, 11 Mar 1984 12:00:00 GMT
+Last-Modified: Mon, 09 Feb 2015 23:46:40 +0000
+P3P: CP=HONK
+Server: 
+Vary: Cookie, Accept-Encoding
+Via: 1.1 varnish
+X-Created: Mon, 09 Feb 2015 23:46:42 GMT
+X-Req-Host: www.celinedion.com
+X-Req-Url: /ca/local-news
+X-Source-Host: drupallive
+X-V-I-TTL: 1200
+X-V-Outer: HIT
+X-V-TTL: 1115
+X-Varnish: 2212297130 2212286957
+Content-Length: 96276
+Connection: Close
+

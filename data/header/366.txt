@@ -1,0 +1,23 @@
+Title: Star Wars: Episode I The Phantom Menace - Wookieepedia, the Star Wars Wiki
+Server: Apache
+X-Content-Type-Options: nosniff
+Content-language: en
+X-Backend-Response-Time: 0.248
+ETag: "20150208234556-1423267875"
+Last-Modified: Sun, 08 Feb 2015 23:45:56 GMT
+Content-Type: text/html; charset=utf-8
+X-Cacheable: YES
+Content-Length: 307738
+Accept-Ranges: bytes
+Date: Mon, 09 Feb 2015 23:40:56 GMT
+Age: 78590
+Connection: close
+X-Served-By: ap-s42, cache-wk-sjc3161-WKSJC, cache-jfk1023-JFK
+X-Cache: ORIGIN, MISS, HIT
+X-Cache-Hits: ORIGIN, 0, 1
+X-Timer: S1423525256.739054,VS0,VE1
+Vary: Accept-Encoding,Cookie
+Set-Cookie: wikia_beacon_id=aqH8tgiET9; domain=.wikia.com; path=/; expires=Sat, 08 Aug 2015 23:40:56 GMT;
+Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+

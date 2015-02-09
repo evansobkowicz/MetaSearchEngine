@@ -1,0 +1,16 @@
+Title: ''The Avengers'' Was Originally Rated R
+Server: nginx/1.6.2
+Date: Mon, 09 Feb 2015 23:39:55 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+X-Powered-By: Express
+ETag: "642899104"
+X-TSM-Backend: express_tag_438
+Vary: Accept-Encoding
+X-Varnish: 1741486546
+Age: 0
+Via: 1.1 varnish
+X-Cache: MISS
+X-Device: blueiv
+

@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Cheshire Cat - Wikipedia, the free encyclopedia</title>
+<meta content="MediaWiki 1.25wmf14" name="generator"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cheshire_Cat" rel="alternate"/>
+<link href="/w/index.php?title=Cheshire_Cat&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Cheshire_Cat&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="/wiki/Cheshire_Cat" hreflang="x-default" rel="alternate"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="http://en.wikipedia.org/wiki/Cheshire_Cat" rel="canonical"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+
+
+
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf14/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Cheshire_Cat skin-vector action-view vector-animateLayout">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><span dir="auto">Cheshire Cat</span></h1>
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="hatnote">This article is about a character mainly associated with Alice's Adventures in Wonderland.  For other uses, see <a class="mw-disambig" href="/wiki/Cheshire_Cat_(disambiguation)" title="Cheshire Cat (disambiguation)">Cheshire Cat (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em;border-spacing: 2px 5px;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #DEDEE2; color: #000;">Cheshire Cat</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice</a></i> character</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Tennel_Cheshire_proof.png"><img alt="Tennel Cheshire proof.png" data-file-height="583" data-file-width="579" height="222" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tennel_Cheshire_proof.png/220px-Tennel_Cheshire_proof.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tennel_Cheshire_proof.png/330px-Tennel_Cheshire_proof.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tennel_Cheshire_proof.png/440px-Tennel_Cheshire_proof.png 2x" width="220"/></a>
+<div>The Cheshire cat as illustrator <a href="/wiki/John_Tenniel" title="John Tenniel">John Tenniel</a> envisioned it in the 1866 publication</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">First appearance</th>
+<td><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a></i></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Created by</th>
+<td><a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><a href="/wiki/Voice_acting" title="Voice acting">Voiced by</a></th>
+<td><a href="/wiki/Sterling_Holloway" title="Sterling Holloway">Sterling Holloway</a><br/>
+<a href="/wiki/Tony_Pope" title="Tony Pope">Tony Pope</a> (<a class="mw-redirect" href="/wiki/Disneyland_attractions" title="Disneyland attractions">Disneyland attractions</a>)<br/>
+<a href="/wiki/Jim_Cummings" title="Jim Cummings">Jim Cummings</a> (current)<br/>
+<a href="/wiki/Keith_David" title="Keith David">Keith David</a> (Once Upon A Time in Wonderland)</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #DEDEE2; color: #000;">Information</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Species</th>
+<td>Tabby <a href="/wiki/British_Shorthair" title="British Shorthair">British Shorthair</a> Cat</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Gender</th>
+<td>Male (the Queen of Hearts cries "off with <i>his</i> head" when the cat upsets the king)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Nationality</th>
+<td><a href="/wiki/Wonderland_(fictional_country)" title="Wonderland (fictional country)">Wonderland</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left">Quote</th>
+<td>"Most everyone's mad here"<br/>
+"You may have noticed that I'm not all there myself"</td>
+</tr>
+</table>
+<p>The <b>Cheshire Cat</b> (<span class="nowrap"><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ˈ/ primary stress follows">ˈ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/tʃ/ 'ch' in 'china'">tʃ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ɛ/ short 'e' in 'bed'">ɛ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ʃ/ 'sh' in 'shy'">ʃ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ər/ 'er' in 'finger'">ər</span></a></span><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span> or <span class="nowrap"><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ˈ/ primary stress follows">ˈ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/tʃ/ 'ch' in 'china'">tʃ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ɛ/ short 'e' in 'bed'">ɛ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ʃ/ 'sh' in 'shy'">ʃ</span></a></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span style="border-bottom:1px dotted" title="/ɪər/ 'ear' in 'beard'">ɪər</span></a></span><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>) is a <a class="mw-redirect" href="/wiki/List_of_fictional_cats" title="List of fictional cats">fictional cat</a> popularised by <a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a> in <i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a></i> and known for its distinctive mischievous grin. While most often celebrated in "Alice"-related contexts, the Cheshire Cat has transcended the context of literature and become enmeshed in popular culture, appearing in various forms of media, from political cartoons to television, as well as cross-disciplinary studies, from business to science. One of its distinguishing features is that from time to time its body disappears, the last thing visible being its iconic grin.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins"><span class="tocnumber">1</span> <span class="toctext">Origins</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Dairy_farming"><span class="tocnumber">1.1</span> <span class="toctext">Dairy farming</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Cheese_moulds"><span class="tocnumber">1.2</span> <span class="toctext">Cheese moulds</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Church_carvings"><span class="tocnumber">1.3</span> <span class="toctext">Church carvings</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Heraldic_lion"><span class="tocnumber">1.4</span> <span class="toctext">Heraldic lion</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Lewis_Carroll.27s_character"><span class="tocnumber">1.5</span> <span class="toctext">Lewis Carroll's character</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Screen_media_adaptations"><span class="tocnumber">2</span> <span class="toctext">Screen media adaptations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Film_adaptations"><span class="tocnumber">2.1</span> <span class="toctext">Film adaptations</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Disney.27s_1951_animated_film.2C_Alice_in_Wonderland"><span class="tocnumber">2.1.1</span> <span class="toctext">Disney's 1951 animated film, <i>Alice in Wonderland</i></span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Disney.27s_1999_TV_film.2C_Alice"><span class="tocnumber">2.1.2</span> <span class="toctext">Disney's 1999 TV film, <i>Alice</i></span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Tim_Burton_for_Disney.27s_2010_live-action_film.2C_Alice_in_Wonderland"><span class="tocnumber">2.1.3</span> <span class="toctext">Tim Burton for Disney's 2010 live-action film, <i>Alice in Wonderland</i></span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Cross-film_comparison"><span class="tocnumber">2.1.4</span> <span class="toctext">Cross-film comparison</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Television_adaptations"><span class="tocnumber">2.2</span> <span class="toctext">Television adaptations</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Video_game_adaptations"><span class="tocnumber">2.3</span> <span class="toctext">Video game adaptations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Print_media_adaptations"><span class="tocnumber">3</span> <span class="toctext">Print media adaptations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Novels"><span class="tocnumber">3.1</span> <span class="toctext">Novels</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#American_comics"><span class="tocnumber">3.2</span> <span class="toctext">American comics</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Anime_and_manga"><span class="tocnumber">3.3</span> <span class="toctext">Anime and manga</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Art"><span class="tocnumber">3.4</span> <span class="toctext">Art</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Other_major_appearances_and_cultural_references"><span class="tocnumber">3.5</span> <span class="toctext">Other major appearances and cultural references</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Other_media_and_cross-disciplinary_references"><span class="tocnumber">4</span> <span class="toctext">Other media and cross-disciplinary references</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#In_music"><span class="tocnumber">4.1</span> <span class="toctext">In music</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#In_business"><span class="tocnumber">4.2</span> <span class="toctext">In business</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#In_science"><span class="tocnumber">4.3</span> <span class="toctext">In science</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=1" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The origins of the Cheshire Cat begin in the 18th century. <i>A classical dictionary of the vulgar tongue</i> (1788) by <a href="/wiki/Francis_Grose" title="Francis Grose">Francis Grose</a> (The Second Edition, Corrected and Enlarged, London) contains the following entry: "CHESHIRE CAT. He grins like a Cheshire cat; said of any one who shows his teeth and gums in laughing."</p>
+<p>The phrase appears again in print in <a href="/wiki/John_Wolcot" title="John Wolcot">John Wolcot</a>'s pseudonymous <a href="/wiki/John_Wolcot" title="John Wolcot">Peter Pindar</a>'s <i>Pair of Lyric Epistles</i> (1792): "Lo, like a Cheshire cat our court will grin." The "Cheshire Cat" is also the name of a character in <a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a>'s famous novel, <a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a>.</p>
+<h3><span class="mw-headline" id="Dairy_farming">Dairy farming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=2" title="Edit section: Dairy farming">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A possible origin of the phrase "Grinning like a Cheshire Cat" is one favoured by the people of <a href="/wiki/Cheshire" title="Cheshire">Cheshire</a>, a county in England which boasts numerous dairy farms; hence the cats grin because of the abundance of milk and cream.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Cheese_moulds">Cheese moulds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=3" title="Edit section: Cheese moulds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i><a href="/wiki/Brewer%27s_Dictionary_of_Phrase_and_Fable" title="Brewer's Dictionary of Phrase and Fable">Brewer's Dictionary of Phrase and Fable</a></i> says <i>grinning like a Cheshire cat</i> is "an old <a href="/wiki/Simile" title="Simile">simile</a>, popularised by Lewis Carroll". According to <i>Brewer's Dictionary</i>, "The phrase has never been satisfactorily accounted for, but it has been said that cheese was formerly sold in Cheshire moulded like a cat that looked as though it was grinning".<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> The cheese was cut from the tail end, so that the last part eaten was the head of the smiling cat.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Sandstone_carving_of_%27Cheshire_Cat%27,_St_Wilfrid%27s_Church,_Grappenhall.jpg"><img alt="" class="thumbimage" data-file-height="140" data-file-width="293" height="96" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sandstone_carving_of_%27Cheshire_Cat%27%2C_St_Wilfrid%27s_Church%2C_Grappenhall.jpg/200px-Sandstone_carving_of_%27Cheshire_Cat%27%2C_St_Wilfrid%27s_Church%2C_Grappenhall.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/d/d0/Sandstone_carving_of_%27Cheshire_Cat%27%2C_St_Wilfrid%27s_Church%2C_Grappenhall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d0/Sandstone_carving_of_%27Cheshire_Cat%27%2C_St_Wilfrid%27s_Church%2C_Grappenhall.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sandstone_carving_of_%27Cheshire_Cat%27,_St_Wilfrid%27s_Church,_Grappenhall.jpg" title="Enlarge"></a></div>
+Grinning Cheshire Cat, <a href="/wiki/St_Wilfrid%27s_Church,_Grappenhall" title="St Wilfrid's Church, Grappenhall">St Wilfrid's Church</a>. <a href="/wiki/Grappenhall" title="Grappenhall">Grappenhall</a>, Cheshire</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Cheshire_cat_head.jpg"><img alt="" class="thumbimage" data-file-height="1107" data-file-width="1290" height="189" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Cheshire_cat_head.jpg/220px-Cheshire_cat_head.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Cheshire_cat_head.jpg/330px-Cheshire_cat_head.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Cheshire_cat_head.jpg/440px-Cheshire_cat_head.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Cheshire_cat_head.jpg" title="Enlarge"></a></div>
+The cat carving in St Nicolas Church, Cranleigh</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Church_carvings">Church carvings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=4" title="Edit section: Church carvings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are many reports that Carroll found inspiration for the name and expression of the Cheshire Cat in the 16th century sandstone carving of a grinning cat, on the west face of <a href="/wiki/St_Wilfrid%27s_Church,_Grappenhall" title="St Wilfrid's Church, Grappenhall">St. Wilfrid's Church</a> tower in <a href="/wiki/Grappenhall" title="Grappenhall">Grappenhall</a>, a village adjacent to his birthplace in <a href="/wiki/Daresbury" title="Daresbury">Daresbury</a>, Cheshire.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2014)">citation needed</span></a></i>]</sup></p>
+<p>Lewis Carroll's father, Reverend <a class="mw-redirect" href="/wiki/Charles_Dodgson_(priest)" title="Charles Dodgson (priest)">Charles Dodgson</a>, was Rector of Croft and Archdeacon of Richmond in North Yorkshire, England, from 1843 to 1868; Carroll lived here from 1843 to 1850.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Historians believe Lewis Carroll's Cheshire Cat in the book <i>Alice in Wonderland</i> was inspired by a carving in Croft church.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In 1992, members of the Lewis Carroll Society attributed it to a <a href="/wiki/Gargoyle" title="Gargoyle">gargoyle</a> found on a pillar in St. Nicolas Church, <a href="/wiki/Cranleigh" title="Cranleigh">Cranleigh</a>, where Carroll used to travel frequently when he lived in Guildford (though this is doubtful as he moved to Guildford some three years after <i>Alice's Adventures in Wonderland</i> had been published) and a carving in a church in the village of <a href="/wiki/Croft-on-Tees" title="Croft-on-Tees">Croft-on-Tees</a>, in the north east of England, where his father had been <a href="/wiki/Rector_(ecclesiastical)" title="Rector (ecclesiastical)">rector</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Carroll is believed<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a class="mw-redirect" href="/wiki/Wikipedia:Avoid_weasel_words" title="Wikipedia:Avoid weasel words"><span title="The material near this tag may use weasel words or too-vague attribution. (June 2013)">according to whom?</span></a></i>]</sup> to have visited <a href="/wiki/St_Christopher%27s_Church,_Pott_Shrigley" title="St Christopher's Church, Pott Shrigley">St. Christopher's church</a> in <a href="/wiki/Pott_Shrigley" title="Pott Shrigley">Pott Shrigley</a>, Cheshire, which has a stone sculpture most closely resembling the pictorial cat in the book.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2014)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Heraldic_lion">Heraldic lion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=5" title="Edit section: Heraldic lion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1853, <a href="/wiki/Samuel_Maunder" title="Samuel Maunder">Samuel Maunder</a> explains:</p>
+<dl>
+<dd>"This phrase owes its origin to the unhappy attempts of a sign painter of that country to represent a lion rampant, which was the crest of an influential family, on the sign-boards of many of the inns. The resemblance of these lions to cats caused them to be generally called by the more ignoble name. A similar case is to be found in the village of Charlton, between Pewsey and Devizes, Wiltshire. A public-house by the roadside is commonly known by the name of The Cat at Charlton. The sign of the house was originally a lion or tiger, or some such animal, the crest of the family of Sir Edward Poore."<sup class="reference" id="cite_ref-7"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></dd>
+</dl>
+<h3><span class="mw-headline" id="Lewis_Carroll.27s_character">Lewis Carroll's character</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=6" title="Edit section: Lewis Carroll's character">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Cheshire Cat is largely associated with the character of the same name in Lewis Carroll's novel, <a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a>. Alice first encounters the Cheshire Cat at <a href="/wiki/Duchess_(Alice%27s_Adventures_in_Wonderland)" title="Duchess (Alice's Adventures in Wonderland)">the Duchess</a>' house in her kitchen, and then later outside on the branches of a tree, where it appears and disappears at will, engaging Alice in amusing but sometimes vexing conversation. The cat sometimes raises philosophical points that annoy or baffle <a href="/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)" title="Alice (Alice's Adventures in Wonderland)">Alice</a>. It does, however, appear to cheer her up when it turns up suddenly at the <a href="/wiki/Queen_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Queen of Hearts (Alice's Adventures in Wonderland)">Queen of Hearts</a>' <a href="/wiki/Croquet" title="Croquet">croquet</a> field, and when sentenced to death baffles everyone by having made its head appear without its body, sparking a massive argument between the executioner and the <a href="/wiki/King_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="King of Hearts (Alice's Adventures in Wonderland)">King</a> and Queen of Hearts about whether something that does not have a body can indeed be <a href="/wiki/Decapitation" title="Decapitation">beheaded</a>.</p>
+<p>At one point, the cat disappears gradually until nothing is left but its grin, prompting Alice to remark that she has often seen a cat without a grin but never a grin without a cat.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Screen_media_adaptations">Screen media adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=7" title="Edit section: Screen media adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Cheshire Cat character has been re-depicted by other creators, as well as used as the inspiration for new characters, primarily in screen media (film, television, video games) and print media (literature, comics, art). Other non-media contexts that embrace the Cheshire Cat include music, business, and science.</p>
+<h3><span class="mw-headline" id="Film_adaptations">Film adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=8" title="Edit section: Film adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Disney.27s_1951_animated_film.2C_Alice_in_Wonderland">Disney's 1951 animated film, <i>Alice in Wonderland</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=9" title="Edit section: Disney's 1951 animated film, Alice in Wonderland">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the 1951 Disney animated film, <i><a href="/wiki/Alice_in_Wonderland_(1951_film)" title="Alice in Wonderland (1951 film)">Alice in Wonderland</a></i>, the Cheshire Cat is depicted as an intelligent yet mischievous character that sometimes helps Alice and sometimes gets her into trouble. He frequently sings the first verse of the <a href="/wiki/Jabberwocky" title="Jabberwocky">Jabberwocky</a> poem, "Twas brillig" and tells Alice that "Most everyone's mad here". The 1951 Disney interpretation of the Cheshire Cat is able to separate his body parts and rearrange them as he pleases. The animated character was voiced by <a href="/wiki/Sterling_Holloway" title="Sterling Holloway">Sterling Holloway</a> (<i><a href="/wiki/Alice_in_Wonderland_(1951_film)" title="Alice in Wonderland (1951 film)">Alice in Wonderland</a></i>) and <a href="/wiki/Jim_Cummings" title="Jim Cummings">Jim Cummings</a> (2004–present).</p>
+<h4><span class="mw-headline" id="Disney.27s_1999_TV_film.2C_Alice">Disney's 1999 TV film, <i>Alice</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=10" title="Edit section: Disney's 1999 TV film, Alice">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the <a href="/wiki/Alice_in_Wonderland_(1999_film)" title="Alice in Wonderland (1999 film)">1999 television adaptation</a> of Carroll's books, the Cheshire Cat is portrayed by <a href="/wiki/Whoopi_Goldberg" title="Whoopi Goldberg">Whoopi Goldberg</a>. She fully acts as an ally and friend to Alice, the latter defending the cat when she is threatened with execution.</p>
+<h4><span class="mw-headline" id="Tim_Burton_for_Disney.27s_2010_live-action_film.2C_Alice_in_Wonderland">Tim Burton for Disney's 2010 live-action film, <i>Alice in Wonderland</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=11" title="Edit section: Tim Burton for Disney's 2010 live-action film, Alice in Wonderland">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The Cheshire Cat appears in Walt Disney's 2010 <i><a href="/wiki/Alice_in_Wonderland_(2010_film)" title="Alice in Wonderland (2010 film)">Alice in Wonderland</a>,</i> directed by <a href="/wiki/Tim_Burton" title="Tim Burton">Tim Burton</a>. British actor <a href="/wiki/Stephen_Fry" title="Stephen Fry">Stephen Fry</a> voices the character. In the movie, Cheshire (as he is referred to by other Wonderland characters) first appears to Alice as she is walking alone in the forest. He helps her by binding the wound she suffered earlier by the <a href="/wiki/Bandersnatch" title="Bandersnatch">Bandersnatch</a> and taking her to <a href="/wiki/The_Hatter" title="The Hatter">The Hatter</a> and the <a href="/wiki/March_Hare" title="March Hare">March Hare</a>. He is later blamed by the Hatter for deserting during the Red Queen's attack where the White Queen's throne was usurped. The Cheshire Cat defends himself by saying that he did not leave, but merely turned invisible. However, as the plot moves along, he redeems himself by changing his form to resemble the Hatter during his execution and then evaporates as the axe is about to make contact, thus fooling everyone as the Hatter's hat floats up to the Queen's seat and Cheshire appears and winks.<sup class="reference" id="cite_ref-script_9-0"><a href="#cite_note-script-9"><span>[</span>9<span>]</span></a></sup> The character was voiced by <a href="/wiki/Stephen_Fry" title="Stephen Fry">Stephen Fry</a>.<sup class="reference" id="cite_ref-daily_cast_10-0"><a href="#cite_note-daily_cast-10"><span>[</span>10<span>]</span></a></sup> In the video game adaptation of the movie, Cheshire is a playable character who can not only turn himself invisible, but other objects around him as well.</p>
+<h4><span class="mw-headline" id="Cross-film_comparison">Cross-film comparison</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=12" title="Edit section: Cross-film comparison">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Each major film adaptation of Lewis Carroll's tale represents the Cheshire Cat character and his traits uniquely.</p>
+<table class="wikitable">
+<tr>
+<th>Screen Media Adaptation</th>
+<th style="width:15%;">Distribution Medium</th>
+<th>Cheshire Cat's Appearance</th>
+<th>Cheshire Cat's Behavior</th>
+<th>Image</th>
+</tr>
+<tr>
+<td><i><a href="/wiki/Alice_in_Wonderland_(1951_film)" title="Alice in Wonderland (1951 film)">Alice in Wonderland</a></i><br/>
+(1951 film)<sup class="reference" id="cite_ref-IMDB_1_11-0"><a href="#cite_note-IMDB_1-11"><span>[</span>11<span>]</span></a></sup></td>
+<td>Film (<i>Alice in Wonderland,</i> traditional animation by <a href="/wiki/Walt_Disney_Animation_Studios" title="Walt Disney Animation Studios">Walt Disney Studios</a>)<sup class="reference" id="cite_ref-IMDB_1_11-1"><a href="#cite_note-IMDB_1-11"><span>[</span>11<span>]</span></a></sup></td>
+<td>Thick build and a primarily pink coat with several horizontal purple stripes. Wide smile and piercing yellow eyes. Character always depicted in good lighting with strong visibility, unlike other adaptations which obscure or shadow him</td>
+<td>Mischievous, and takes pleasure in misdirecting Alice when she encounters him while lost. He often sings, and flaunts his "magic" qualities as he apparates about the forest canopy where he reclines. He is able to dislocate his head from his body (does so in jest), but is also capable of invisibility, as he frequently enters and exits the scene incomplete - with all parts faded away except for his grin or eyes.</td>
+<td><a class="image" href="/wiki/File:DisneyCheshireCat.jpg"><img alt="DisneyCheshireCat.jpg" data-file-height="320" data-file-width="389" height="165" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8e/DisneyCheshireCat.jpg/200px-DisneyCheshireCat.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8e/DisneyCheshireCat.jpg/300px-DisneyCheshireCat.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/8/8e/DisneyCheshireCat.jpg 2x" width="200"/></a></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Adventures_in_Wonderland" title="Adventures in Wonderland">Adventures in Wonderland</a></i><br/>
+(1991 TV show)<sup class="reference" id="cite_ref-IMDB_2_12-0"><a href="#cite_note-IMDB_2-12"><span>[</span>12<span>]</span></a></sup></td>
+<td>Televised broadcast (<i>Adventures in Wonderland,</i> TV series through 1995) <sup class="reference" id="cite_ref-IMDB_2_12-1"><a href="#cite_note-IMDB_2-12"><span>[</span>12<span>]</span></a></sup></td>
+<td>Closer resemblance to a tiger or lioness than a house cat, unlike most other adaptations. Coat has a white base with stripes painted in a violet accent color. Form bears a distinct look of <a href="/wiki/Animatronics" title="Animatronics">Animatronics</a> (appropriate for the production medium), and possesses human-like mouth features and facial structure</td>
+<td>A sarcastic and playful rendition of the character. In this adaptation, the Cheshire Cat has the ability to appear and disappear in any location. He is quick to play <a href="/wiki/Practical_joke" title="Practical joke">practical jokes</a> on other the characters in the show, however, sometimes he is kind and helpful.</td>
+<td></td>
+</tr>
+<tr>
+<td style="white-space:nowrap;"><i><a href="/wiki/Alice_in_Wonderland_(1999_film)" title="Alice in Wonderland (1999 film)">Alice in Wonderland</a></i><br/>
+(1999 made-for-TV movie)<sup class="reference" id="cite_ref-IMDB_4_13-0"><a href="#cite_note-IMDB_4-13"><span>[</span>13<span>]</span></a></sup></td>
+<td>Television Film<sup class="reference" id="cite_ref-IMDB_4_13-1"><a href="#cite_note-IMDB_4-13"><span>[</span>13<span>]</span></a></sup></td>
+<td>A fluffy grey cat with a human face and cat like features.</td>
+<td>A grinning cat who teaches Alice "the rules" of Wonderland. She was also one of the few characters who was nice to Alice. Her favorite pastime is appearing and disappearing.</td>
+<td></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Alice_in_Wonderland_(2010_film)" title="Alice in Wonderland (2010 film)">Alice in Wonderland</a></i><br/>
+(2010 film)<sup class="reference" id="cite_ref-IMDB_3_14-0"><a href="#cite_note-IMDB_3-14"><span>[</span>14<span>]</span></a></sup></td>
+<td>Film (<i>Alice in Wonderland,</i> live-action directed by <a href="/wiki/Tim_Burton" title="Tim Burton">Tim Burton</a>)<sup class="reference" id="cite_ref-IMDB_3_14-1"><a href="#cite_note-IMDB_3-14"><span>[</span>14<span>]</span></a></sup></td>
+<td>More slender build, with a round head and grey/green coat with several blue/black stripes. Has a deliberately creepy quality. Bright aqua eyes (with slit-shaped pupils) and prominent teeth that are jagged rather than uniform. Often more backlit than other adaptations, with only a faint, luminescent glow (self-generated) bringing his features into view.</td>
+<td>Disappearing and reappearing at his will, this rendition of the character is far creepier than the other versions. The cat plays a few jokes and toys with the other characters, but is helpful on a few occasions. He speaks in a slow and sinister manner.</td>
+<td><a class="image" href="/wiki/File:Cheshire_Cat_Tim_Burton.jpg"><img alt="Cheshire Cat Tim Burton.jpg" data-file-height="270" data-file-width="369" height="146" src="//upload.wikimedia.org/wikipedia/en/thumb/2/25/Cheshire_Cat_Tim_Burton.jpg/200px-Cheshire_Cat_Tim_Burton.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/25/Cheshire_Cat_Tim_Burton.jpg/300px-Cheshire_Cat_Tim_Burton.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/2/25/Cheshire_Cat_Tim_Burton.jpg 2x" width="200"/></a></td>
+</tr>
+</table>
+<p>In addition to the Cheshire Cat's appearances in films central to its <a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a> origins, the Cheshire Cat has been featured in other cinematic works:</p>
+<ul>
+<li>The late filmmaker <a href="/wiki/Chris_Marker" title="Chris Marker">Chris Marker</a> gave his monumental documentary on the New Left movement of 1967–1977, <i><a class="mw-redirect" href="/wiki/Le_fond_de_l%27air_est_rouge" title="Le fond de l'air est rouge">Le fond de l'air est rouge</a></i> (1977), the English title <i>Grin Without a Cat</i>. Like the original, it signifies that revolution was in the air but failed to take root. In the film, it is also stated: <i>a spearhead without a spear, a grin without a cat.</i></li>
+<li>The Disney version of the character can also be spotted during the final scene of the film <i><a href="/wiki/Who_Framed_Roger_Rabbit" title="Who Framed Roger Rabbit">Who Framed Roger Rabbit</a></i> (1988). The Cheshire Cat is heard singing the poem "<a href="/wiki/Jabberwocky" title="Jabberwocky">Jabberwocky</a>" before he materialises in front of Alice.</li>
+<li>The Cheshire Cat made non-speaking cameos in <i><a class="mw-redirect" href="/wiki/House_of_Mouse" title="House of Mouse">House of Mouse</a></i>.</li>
+</ul>
+<h3><span class="mw-headline" id="Television_adaptations">Television adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=13" title="Edit section: Television adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Cheshire Cat has been seen by television audiences in a broadcast spin-off:</p>
+<ul>
+<li>The Cheshire Cat appears in <i><a href="/wiki/Once_Upon_a_Time_in_Wonderland" title="Once Upon a Time in Wonderland">Once Upon a Time in Wonderland</a></i> (a spin-off of <i><a href="/wiki/Once_Upon_a_Time_(TV_series)" title="Once Upon a Time (TV series)">Once Upon a Time</a></i>) voiced by <a href="/wiki/Keith_David" title="Keith David">Keith David</a>.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> While looking for the Mad Hatter's house from the trees, Alice encounters the Cheshire Cat in giant form where the Red Queen had promised him that Alice would be good food for him. Both of them ended up engaging each other in combat until the Knave of Hearts arrived and threw a piece of one mushroom side into his mouth which shrank him back to normal size as the Cheshire Cat leaves.</li>
+</ul>
+<h3><span class="mw-headline" id="Video_game_adaptations">Video game adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=14" title="Edit section: Video game adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Cheshire Cat appears as an avatar character in several video games:</p>
+<ul>
+<li>The character Luka in video game <i><a href="/wiki/Bayonetta" title="Bayonetta">Bayonetta</a></i> is nicknamed "Cheshire" by the titular character, which is exhibited through his ability to appear or disappear at many locations throughout the game by use of a grappling hook.</li>
+<li>In the video games <i><a href="/wiki/American_McGee%27s_Alice" title="American McGee's Alice">American McGee's Alice</a></i> (2000); and the sequel <i><a href="/wiki/Alice:_Madness_Returns" title="Alice: Madness Returns">Alice: Madness Returns</a></i> (2011), <a class="mw-redirect" href="/wiki/List_of_characters_in_American_McGee%27s_Alice#The_Cheshire_Cat" title="List of characters in American McGee's Alice">the Cheshire Cat</a> is portrayed as an enigmatic, yet wise guide for Alice in the corrupted Wonderland. In keeping with the twisted tone of the game, the Cheshire Cat is mangy and emaciated in appearance. His voice was provided by <a href="/wiki/Roger_L._Jackson" title="Roger L. Jackson">Roger L. Jackson</a>, who also voiced the <a class="mw-redirect" href="/wiki/Mad_Hatter" title="Mad Hatter">Mad Hatter</a> and <a class="mw-redirect" href="/wiki/List_of_characters_in_American_McGee%27s_Alice#The_Jabberwock" title="List of characters in American McGee's Alice">The Jabberwock</a> in the game.</li>
+<li>In the Disney/Square Enix video game series <i><a class="mw-redirect" href="/wiki/Kingdom_Hearts_(series)" title="Kingdom Hearts (series)">Kingdom Hearts</a></i>, loosely based on the <i>Alice</i> books as a subsequent adventure, the Cheshire Cat offers Sora, Donald and Goofy clues to prove that the <a class="mw-redirect" href="/wiki/The_Heartless" title="The Heartless">Heartless</a> attempted to steal the Queen of Hearts' heart and not Alice, along with the blizzard spell.</li>
+<li>The Cheshire Cat appears in the game <i><a href="/wiki/Jazz_Jackrabbit_2" title="Jazz Jackrabbit 2">Jazz Jackrabbit 2</a></i> as an alternatively appearing and reappearing platform.</li>
+<li>In the <i>Alice in Wonderland</i> stage in <a href="/wiki/Disney%27s_Villains%27_Revenge" title="Disney's Villains' Revenge">Disney's Villains' Revenge</a> the grin of the Cheshire Cat appears in the maze as the player seeks out Alice's missing head.</li>
+<li>In <a href="/wiki/Kinect_Disneyland_Adventures" title="Kinect Disneyland Adventures">Kinect Disneyland Adventures</a> the Cheshire Cat briefly appears during the <a class="mw-redirect" href="/wiki/Alice_in_Wonderland" title="Alice in Wonderland">Alice in Wonderland</a> mini-game during the player's free fall down the rabbit hole.</li>
+</ul>
+<h2><span class="mw-headline" id="Print_media_adaptations">Print media adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=15" title="Edit section: Print media adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Novels">Novels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=16" title="Edit section: Novels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Cheshire cat has inspired other characters in the publishing world:</p>
+<ul>
+<li>Cheshire cats is the name given to the widespread <a href="/wiki/Genetic_engineering" title="Genetic engineering">genetically engineered</a> cats appearing in <a href="/wiki/Paolo_Bacigalupi" title="Paolo Bacigalupi">Paolo Bacigalupi</a>'s <a href="/wiki/Biopunk" title="Biopunk">biopunk</a> novel <i><a href="/wiki/The_Windup_Girl" title="The Windup Girl">The Windup Girl</a></i> (2009).</li>
+<li>In <a href="/wiki/Frank_Beddor" title="Frank Beddor">Frank Beddor</a>'s <i><a href="/wiki/The_Looking_Glass_Wars" title="The Looking Glass Wars">The Looking Glass Wars</a></i> series of novels, the Cat is Redd's top assassin. The Cat has butcher knife claws and can change from his true form to the form of a small black kitten. He initially has nine lives, but loses all but one by the end of the book.</li>
+<li>In the <i><a href="/wiki/Thursday_Next" title="Thursday Next">Thursday Next</a></i> series by <a href="/wiki/Jasper_Fforde" title="Jasper Fforde">Jasper Fforde</a>, the Cheshire Cat is an overseer in the Great Library, a library within the "book-world" which contains copies of every book ever written. However, due to "boundary changes", the Cat is renamed the "<a href="/wiki/Warrington" title="Warrington">Unitary Authority of Warrington</a> Cat".</li>
+</ul>
+<h3><span class="mw-headline" id="American_comics">American comics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=17" title="Edit section: American comics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Cheshire Cat can be spotted in several comics by major American publishers:</p>
+<ul>
+<li>In <a href="/wiki/DC_Comics" title="DC Comics">DC Comics</a>, the <a href="/wiki/New_Gods" title="New Gods">New Goddess</a> <a href="/wiki/Malice_Vundabar" title="Malice Vundabar">Malice Vundabar</a>, niece of the villain <a href="/wiki/Virman_Vundabar" title="Virman Vundabar">Virman Vundabar</a>, resembles Alice and controls a carnivorous creature called Chessure, that looks like nothing more than a grinning face. <a href="/wiki/Cheshire_(comics)" title="Cheshire (comics)">Cheshire</a> is also the codename of the human assassin Jade Nguyen, who has a daughter with the heroic archer Roy "<a href="/wiki/Speedy_(comics)" title="Speedy (comics)">Speedy</a>" Harper.</li>
+</ul>
+<ul>
+<li>In <a href="/wiki/Marvel_Comics" title="Marvel Comics">Marvel Comics</a>, Cheshire Cat is a foe of <a href="/wiki/Luke_Cage" title="Luke Cage">Luke Cage</a>. An ally of fellow Cage enemy Big Brother, Cheshire Cat is able to make himself invisible and teleport. His physical appearance and manner of speaking are both evocative of a classic <a class="mw-redirect" href="/wiki/Hep_cat" title="Hep cat">hep cat</a>, despite debuting in 1976.</li>
+</ul>
+<h3><span class="mw-headline" id="Anime_and_manga">Anime and manga</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=18" title="Edit section: Anime and manga">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Cheshire Cat character has been embraced by the world of Japanese comics (<a href="/wiki/Manga" title="Manga">Manga</a>) and animation (<a href="/wiki/Anime" title="Anime">Anime</a>), where several odes to the Cheshire Cat have been observed:</p>
+<ul>
+<li>The Cheshire Cat appears in the 1983 animated TV series <i><a href="/wiki/Fushigi_no_Kuni_no_Alice" title="Fushigi no Kuni no Alice">Fushigi no Kuni no Alice</a></i>. It is shown in one episode that he can lose his power to disappear if he sneezes, and that he needs blue flowers to restore it. Another Cheshire Cat appears as the cat of the Duchess but isn't magical.</li>
+<li>In <a class="mw-redirect" href="/wiki/CLAMP" title="CLAMP">CLAMP</a>'s <a class="mw-redirect" href="/wiki/Miyuki-Chan_in_Wonderland" title="Miyuki-Chan in Wonderland">Miyuki-Chan in Wonderland</a>, the Cheshire Cat appears as a catgirl.</li>
+<li>In the <i><a href="/wiki/Alice_in_the_Country_of_Hearts" title="Alice in the Country of Hearts">Alice in the Country of Hearts</a></i> or <i>Heart no Kuni no Alice</i> series of manga and anime, the Cheshire Cat appears as a catboy <a href="/wiki/Punk_fashion" title="Punk fashion">punk</a> called Boris Airay. He has <a href="/wiki/Tattoo" title="Tattoo">tattoos</a> and <a href="/wiki/Body_piercing" title="Body piercing">body piercings</a>, wears exposing outfits, a collar and chain, and a boa. He also has a fetish with weapons, especially guns. In the series, like many of the other characters, he falls in love with Alice.</li>
+</ul>
+<ul>
+<li>The villain Schrödinger, in the manga <i><a href="/wiki/Hellsing" title="Hellsing">Hellsing</a></i>, is described by his commanding officer, The Major, as the "<i>smiling cat of Wonderland</i>".</li>
+</ul>
+<ul>
+<li>In the anime and manga <i><a href="/wiki/Pandora_Hearts" title="Pandora Hearts">Pandora Hearts</a></i>, one of the main characters, Alice, had a pet cat that died, but returns 100 years later as a chain in a realm created by one of Alice's memories. He came to call himself the Cheshire Cat, and had a more human-like appearance, or a <a href="/wiki/Catgirl" title="Catgirl">catboy</a> look.</li>
+</ul>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:142px;"><a class="image" href="/wiki/File:Cheshire_Cat_McGee.jpg"><img alt="" class="thumbimage" data-file-height="600" data-file-width="318" height="264" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4b/Cheshire_Cat_McGee.jpg/140px-Cheshire_Cat_McGee.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4b/Cheshire_Cat_McGee.jpg/210px-Cheshire_Cat_McGee.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4b/Cheshire_Cat_McGee.jpg/280px-Cheshire_Cat_McGee.jpg 2x" width="140"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Cheshire_Cat_McGee.jpg" title="Enlarge"></a></div>
+The Cheshire Cat as depicted in <i><a href="/wiki/American_McGee%27s_Alice" title="American McGee's Alice">American McGee's Alice</a></i></div>
+</div>
+</div>
+<ul>
+<li>In the sixth episode of <i><a href="/wiki/Serial_Experiments_Lain" title="Serial Experiments Lain">Serial Experiments Lain</a></i>, Lain refers to a Wired user with an avatar consisting of disembodied, wide-grinning lips as a Cheshire Cat wannabe. Lain's friend, Alice, was named after the book's protagonist.</li>
+<li>The <a href="/wiki/Pok%C3%A9mon" title="Pokémon">Pokémon</a> character <a href="/wiki/Gengar" title="Gengar">Gengar</a> has the Cheshire Cat's mischievous smile.</li>
+</ul>
+<ul>
+<li>In the episode 'Haruhi in Wonderland' of the popular anime/manga <a href="/wiki/Ouran_High_School_Host_Club" title="Ouran High School Host Club">Ouran High School Host Club</a>, the twins Hikaru and Kaoru Hitachiin each dress up as the Cheshire Cat, allowing them to 'teleport' from one place to another. They keep up this charade until Haruhi tells them to come out. She cannot concentrate as they are making her dizzy.</li>
+</ul>
+<ul>
+<li>In the anime and manga <i><a href="/wiki/Project_ARMS" title="Project ARMS">Project ARMS</a></i> one of the Keith has the ARM of the Cheshire Cat, which allows him to instantaneously 'teleport' at will.</li>
+</ul>
+<ul>
+<li>The Cheshire Cat appears in the Kingdom Hearts Manga, fulfilling mostly the same role as in the game. Notable diversions, though, are that he gives Sora the power of magic in general-as opposed to just Blizzard-and an implication that he turned down Maleficent's offer that she made to her fellow Disney Villains.</li>
+</ul>
+<h3><span class="mw-headline" id="Art">Art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=19" title="Edit section: Art">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Cheshire Cat has transcended screens to be featured in fine art:</p>
+<ul>
+<li>An exhibit called <i>The Cheshire Cat</i> at the <a href="/wiki/Exploratorium" title="Exploratorium">Exploratorium</a> in San Francisco, created by Bob Miller in 1978, features a mirrored eyepiece that allows visitors to look at a picture of the Cheshire Cat's face with one eye, while the other eye sees a reflection of a white screen to the side.<sup class="reference" id="cite_ref-exploratorium_16-0"><a href="#cite_note-exploratorium-16"><span>[</span>16<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Other_major_appearances_and_cultural_references">Other major appearances and cultural references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=20" title="Edit section: Other major appearances and cultural references">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:TCMI_Cheshire_Cat_1.jpg"><img alt="" class="thumbimage" data-file-height="2912" data-file-width="4368" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TCMI_Cheshire_Cat_1.jpg/220px-TCMI_Cheshire_Cat_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TCMI_Cheshire_Cat_1.jpg/330px-TCMI_Cheshire_Cat_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TCMI_Cheshire_Cat_1.jpg/440px-TCMI_Cheshire_Cat_1.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:TCMI_Cheshire_Cat_1.jpg" title="Enlarge"></a></div>
+A cheshire cat stuffed toy from the <a class="mw-redirect" href="/wiki/Children%27s_Museum_of_Indianapolis" title="Children's Museum of Indianapolis">Children's Museum of Indianapolis</a></div>
+</div>
+</div>
+<ul>
+<li>Prior to the release of the 1951 <a href="/wiki/The_Walt_Disney_Company" title="The Walt Disney Company">Walt Disney</a> animated adaptation of the story, scholars observed few specific allusions to this character. <a href="/wiki/Martin_Gardner" title="Martin Gardner">Martin Gardner</a>, author of <i><a href="/wiki/The_Annotated_Alice" title="The Annotated Alice">The Annotated Alice</a></i>, wondered if <a href="/wiki/T._S._Eliot" title="T. S. Eliot">T. S. Eliot</a> had the Cheshire Cat in mind when writing <i>Morning at the Window</i> but notes no other significant allusions in the pre-war period.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>Images of and references to the Cheshire Cat cropped up more frequently in the 1960s and 1970s, along with more frequent references to Carroll's works in general. (<i>See generally</i> the lyrics to <i>White Rabbit</i> by the rock group <a href="/wiki/Jefferson_Airplane" title="Jefferson Airplane">Jefferson Airplane</a>).<sup class="reference" id="cite_ref-18"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup><sup class="reference" id="cite_ref-19"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> The Cheshire Cat appeared on <a class="mw-redirect" href="/wiki/LSD" title="LSD">LSD</a> blotters as well as in song lyrics and popular fiction.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup><sup class="reference" id="cite_ref-21"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Other_media_and_cross-disciplinary_references">Other media and cross-disciplinary references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=21" title="Edit section: Other media and cross-disciplinary references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="In_music">In music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=22" title="Edit section: In music">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Several musical references to the Cheshire cat can be found song <a href="/wiki/Lyrics" title="Lyrics">lyrics</a> and album titles:</p>
+<ul>
+<li><a href="/wiki/Pop_punk" title="Pop punk">Pop punk</a> band <a href="/wiki/Blink-182" title="Blink-182">Blink-182</a>'s debut studio album is called <i><a href="/wiki/Cheshire_Cat_(Blink-182_album)" title="Cheshire Cat (Blink-182 album)">Cheshire Cat</a></i> (1994)</li>
+<li><a href="/wiki/Hypnogaja" title="Hypnogaja">Hypnogaja</a>'s song "Looking glass" states that "There's a cat that smiles like the crescent moon".</li>
+<li><a class="mw-redirect" href="/wiki/Blood_on_the_Dance_Floor_(band)" title="Blood on the Dance Floor (band)">Blood On The Dance Floor</a>'s "Where's My Wonderland" song makes a reference to the Cheshire Cat's smile.</li>
+<li>The Cheshire Cat is part of the chorus of Victim Effect's song "Alice Alice".</li>
+<li>French singer <a href="/wiki/Nolwenn_Leroy" title="Nolwenn Leroy">Nolwenn Leroy</a> produced the album <i>Le Cheshire Cat et moi</i> in (2009)</li>
+<li><a href="/wiki/Radiohead" title="Radiohead">Radiohead</a>'s "Jigsaw Falling Into Place" contains the lyric "You've got a Cheshire cat grin".</li>
+<li>Though never mentioned by name, the Cheshire Cat is a central character in Vixy's "The Girl Who's Never Been".</li>
+<li>Stephan Nance's "Immunodeficiency" contains the lyric "Conspicuously grinning like the cat who's in the story life we've led".</li>
+<li><a href="/wiki/Cheshire_Cat_Smile" title="Cheshire Cat Smile">Cheshire Cat Smile</a> was released in 2006 by <a href="/wiki/Milburn_(band)" title="Milburn (band)">Milburn</a>.</li>
+<li><a href="/wiki/Taylor_Swift" title="Taylor Swift">Taylor Swift</a>'s "Wonderland" references the Cheshire Cat's green eyes "Didn't you flash your green eyes at me," as well as its smile "Didn't you calm my fears with the Cheshire cat smile."</li>
+</ul>
+<h3><span class="mw-headline" id="In_business">In business</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=23" title="Edit section: In business">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pubs in the United Kingdom bear the name of the Cheshire Cat:</p>
+<ul>
+<li>"The Cheshire Cat" is the name of two public houses in the county of <a href="/wiki/Cheshire" title="Cheshire">Cheshire</a>; one near <a href="/wiki/Stockport" title="Stockport">Stockport</a><sup class="reference" id="cite_ref-22"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> and another on the <a href="/wiki/A41_road" title="A41 road">A41</a> just south of <a href="/wiki/Chester" title="Chester">Chester</a>.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="In_science">In science</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=24" title="Edit section: In science">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The scientific community has embraced the Cheshire Cat as a <a href="/wiki/Metaphor" title="Metaphor">metaphor</a> to explain several scientific phenomena:</p>
+<ul>
+<li>The Cheshire Cat effect, as described by Sally Duensing and Bob Miller, is a <a href="/wiki/Binocular_rivalry" title="Binocular rivalry">binocular rivalry</a> which causes stationary objects seen in one eye to disappear from view when an object in motion crosses in front of the other eye.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup> Each eye sees two different views of the world, sends those images to the <a href="/wiki/Visual_cortex" title="Visual cortex">visual cortex</a> where they are combined, and creates a three-dimensional image. The Cheshire Cat effect occurs when one eye is fixated on a stationary object, while the other notices something moving. Since one eye is seeing a moving object, the brain will focus on it, causing parts of the stationary object to fade away from vision entirely.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>In another scientific context, catalytic <a class="mw-redirect" href="/wiki/RNAs" title="RNAs">RNAs</a> have been deemed Cheshire cats. This metaphor is used to describe the fading of the <a href="/wiki/Ribonucleotide" title="Ribonucleotide">ribonucleotide</a> construct, which leaves behind only a <i>smile</i> of only the <a href="/wiki/Mineral" title="Mineral">mineral</a> components of the <a href="/wiki/RNA" title="RNA">RNA</a><a class="mw-redirect" href="/wiki/Catalyst" title="Catalyst">catalyst</a>.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>Similarly, the Cheshire Cat has been used out of its traditional context to help define another scientific phenomenon: the "Cheshire Cat" escape strategy. When <a href="/wiki/Coccolithophore" title="Coccolithophore">Coccolithophore</a>—a successful ocean <a href="/wiki/Algae" title="Algae">algae</a>—is able to <a href="/wiki/Ploidy#Haploid_and_monoploid" title="Ploidy">resist the haploid phase</a> of its life cycle it escapes meiosis and its dominant diploid genes are passed on in a virus-free environment, freeing the host from the danger of infection during reproduction.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> The algae escape death (beheading) by means of disappearance (vanishing his head):</li>
+</ul>
+<blockquote>
+<p>"…[T]aken from Lewis Carroll, we liken this theory to the strategy used by the Cheshire Cat in Alice's Adventures in Wonderland of making its body invisible to make the sentence “off with his head” pronounced by the Queen of Hearts impossible to execute…CC dynamics, which rely to some extent on separation of the sexual processes of meiosis and fusion in time and/or space, release the host from short-term pathogen pressure, thus widening the scope for the host to evolve in other directions."</p>
+</blockquote>
+<ul>
+<li>Other gestures to the Cheshire Cat's tropes of disappearance and mystique have been seen in scientific literature coming from the field of Physics. "The Cheshire Cat" is a phenomenon in <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a> in which a particle and its property behave as if they are separated,<sup class="reference" id="cite_ref-28"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup> or when a particle separates from one of its physical properties.<sup class="reference" id="cite_ref-Morgan_29-0"><a href="#cite_note-Morgan-29"><span>[</span>29<span>]</span></a></sup> To prove that this is not just a theory, researchers used an <a class="mw-redirect" href="/wiki/Interferometer" title="Interferometer">interferometer</a> where neutron beams passed through silicon crystal. The crystal physically separated the neutrons and allowed them to go to two paths. Researchers reported "the system behaves as if the neutrons go through one beam path, while their magnetic moment travels along the other."<sup class="reference" id="cite_ref-Morgan_29-1"><a href="#cite_note-Morgan-29"><span>[</span>29<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>Similar to the term "quantum Cheshire Cat", in quantum mechanics, scientists have coined the term <a href="/wiki/Schr%C3%B6dinger%27s_cat" title="Schrödinger's cat">Schrödinger's cat</a>. In this quantum phenomenon, a cat is both alive and dead inside a box. This is known as a superposition, and again points to the separation between the Cheshire Cat and his grin.<sup class="reference" id="cite_ref-Morgan_29-2"><a href="#cite_note-Morgan-29"><span>[</span>29<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=25" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.merriam-webster.com/dictionary/cheshire%20cat" rel="nofollow">"Cheshire cat – Definition and More from the Free Merriam-Webster Dictionary"</a>. <i>merriam-webster.com</i>. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=Cheshire+cat+%E2%80%93+Definition+and+More+from+the+Free+Merriam-Webster+Dictionary&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fcheshire%2520cat&amp;rft.jtitle=merriam-webster.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">As stated in the <i>Annotated Alice</i></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">{{*<span class="citation book"><a href="/wiki/Martin_Gardner" title="Martin Gardner">Gardner, Martin</a> (1999). <a class="external text" href="http://books.google.com/?id=-blJhrfvouUC" rel="nofollow"><i>The Annotated Alice: Alice's adventures in Wonderland &amp; Through the looking glass</i></a>. W.W. Norton. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-393-04847-0" title="Special:BookSources/0-393-04847-0">0-393-04847-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.aufirst=Martin&amp;rft.au=Gardner%2C+Martin&amp;rft.aulast=Gardner&amp;rft.btitle=The+Annotated+Alice%3A+Alice%27s+adventures+in+Wonderland+%26+Through+the+looking+glass&amp;rft.date=1999&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D-blJhrfvouUC&amp;rft.isbn=0-393-04847-0&amp;rft.pub=W.W.+Norton&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span>}}</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation book">Clark, Ann (1979). <i>Lewis Carroll: A Biography</i>. London: J. M. Dent &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-460-04302-1" title="Special:BookSources/0-460-04302-1">0-460-04302-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.au=Clark%2C+Ann&amp;rft.aufirst=Ann&amp;rft.aulast=Clark&amp;rft.btitle=Lewis+Carroll%3A+A+Biography&amp;rft.date=1979&amp;rft.genre=book&amp;rft.isbn=0-460-04302-1&amp;rft.place=London&amp;rft.pub=J.+M.+Dent+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation book">Gardner, Martin (2000). <i>The Annotate Alice: The Definitive Edition</i>. New York / London: W.W. Norton and Company. p. 62. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-393-04847-0" title="Special:BookSources/0-393-04847-0">0-393-04847-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.aufirst=Martin&amp;rft.au=Gardner%2C+Martin&amp;rft.aulast=Gardner&amp;rft.btitle=The+Annotate+Alice%3A+The+Definitive+Edition&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-393-04847-0&amp;rft.pages=62&amp;rft.place=New+York+%2F+London&amp;rft.pub=W.W.+Norton+and+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation news">"Cheshire Cat found by fans of Lewis Carroll". <i>The Toronto Star</i> (Toronto ON). Reuters. 8 July 1992. p. C24.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=Cheshire+Cat+found+by+fans+of+Lewis+Carroll&amp;rft.date=8+July+1992&amp;rft.genre=article&amp;rft.jtitle=The+Toronto+Star&amp;rft.pages=C24&amp;rft.place=Toronto+ON&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="/wiki/Samuel_Maunder" title="Samuel Maunder">Samuel Maunder</a>, <i>The Treasury of Knowledge and Library Reference</i>, Edition 12 Publisher: Longman, Orme, Brown, Green, &amp; Longmans, 1853, <a class="external text" href="http://books.google.co.uk/books?id=EjY-AAAAIAAJ&amp;pg=PA396" rel="nofollow">page 396</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><i>Annotated Alice</i>; the statement "a grin without a cat" is a reference to mathematics dissociating itself completely from the natural world.</span></li>
+<li id="cite_note-script-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-script_9-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.joblo.com/scripts/Alice%20in%20Wonderland.pdf" rel="nofollow">"Alice in Wonderland – Glossary of Terms/Script (early draft)"</a> (PDF). <i>Walt Disney Pictures</i>. JoBlo.com. <a class="external text" href="http://www.webcitation.org/5uGcg7INk" rel="nofollow">Archived</a> from the original on November 15, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=Alice+in+Wonderland+%E2%80%93+Glossary+of+Terms%2FScript+%28early+draft%29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.joblo.com%2Fscripts%2FAlice%2520in%2520Wonderland.pdf&amp;rft.jtitle=Walt+Disney+Pictures&amp;rft.pub=JoBlo.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span>(early draft of the film script, first started February 2007)</span></li>
+<li id="cite_note-daily_cast-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-daily_cast_10-0">^</a></b></span> <span class="reference-text"><span class="citation news">Boshoff, Alison (February 20, 2010). <a class="external text" href="http://www.dailymail.co.uk/tvshowbiz/article-1252091/Alices-weird-wonderland-Why-scenes-row-Tim-Burtons-fantastical-film-disappear-cinemas-fast-Cheshire-Cat.html" rel="nofollow">"Alice's very weird wonderland: Why a behind-the-scenes row might see Tim Burton's most fantastical film yet disappear from cinemas as fast as the Cheshire Cat"</a>. <i><a href="/wiki/Daily_Mail" title="Daily Mail">Daily Mail</a></i> (London: <a class="mw-redirect" href="/wiki/Associated_Newspapers" title="Associated Newspapers">Associated Newspapers</a>). <a class="external text" href="http://www.webcitation.org/5uGU2R9mM" rel="nofollow">Archived</a> from the original on November 15, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">February 21,</span> 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=Alice%27s+very+weird+wonderland%3A+Why+a+behind-the-scenes+row+might+see+Tim+Burton%27s+most+fantastical+film+yet+disappear+from+cinemas+as+fast+as+the+Cheshire+Cat&amp;rft.au=Boshoff%2C+Alison&amp;rft.aufirst=Alison&amp;rft.aulast=Boshoff&amp;rft.date=February+20%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Ftvshowbiz%2Farticle-1252091%2FAlices-weird-wonderland-Why-scenes-row-Tim-Burtons-fantastical-film-disappear-cinemas-fast-Cheshire-Cat.html&amp;rft.jtitle=Daily+Mail&amp;rft.place=London&amp;rft.pub=Associated+Newspapers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-IMDB_1-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-IMDB_1_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IMDB_1_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.imdb.com/title/tt0043274/" rel="nofollow">"Alice in Wonderland (1951 film)"</a>. <i>IMBD</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 October</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=Alice+in+Wonderland+%281951+film%29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0043274%2F&amp;rft.jtitle=IMBD&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-IMDB_2-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-IMDB_2_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IMDB_2_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.imdb.com/title/tt0088473/" rel="nofollow">"Adventures in Wonderland (1991 TV show)"</a>. <i>IMDB</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 October</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=Adventures+in+Wonderland+%281991+TV+show%29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0088473%2F&amp;rft.jtitle=IMDB&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-IMDB_4-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-IMDB_4_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IMDB_4_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal"><a class="external text" href="http://www.imdb.com/title/tt0164993/" rel="nofollow">"Alice in Wonderland (TV Movie 1999)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 October</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.btitle=Alice+in+Wonderland+%28TV+Movie+1999%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0164993%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-IMDB_3-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-IMDB_3_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IMDB_3_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.imdb.com/title/tt1014759/" rel="nofollow">"Alice in Wonderland (2010 film)"</a>. <i>IMBD</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 October</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=Alice+in+Wonderland+%282010+film%29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1014759%2F&amp;rft.jtitle=IMBD&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a class="external free" href="http://tvline.com/2013/09/05/once-upon-a-time-in-wonderland-cheshire-cat-keith-david/" rel="nofollow">http://tvline.com/2013/09/05/once-upon-a-time-in-wonderland-cheshire-cat-keith-david/</a></span></li>
+<li id="cite_note-exploratorium-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-exploratorium_16-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.exploratorium.edu/snacks/cheshire_cat/index.html" rel="nofollow">"Exploratorium: Science Snacks: Cheshire Cat"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 March</span> 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.btitle=Exploratorium%3A+Science+Snacks%3A+Cheshire+Cat&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.exploratorium.edu%2Fsnacks%2Fcheshire_cat%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Martin_Gardner" title="Martin Gardner">Gardner, Martin</a> (1999). <a class="external text" href="http://books.google.com/?id=-blJhrfvouUC" rel="nofollow"><i>The Annotated Alice: Alice's adventures in Wonderland &amp; Through the looking glass</i></a>. W.W. Norton. p. 62. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-393-04847-0" title="Special:BookSources/0-393-04847-0">0-393-04847-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.aufirst=Martin&amp;rft.au=Gardner%2C+Martin&amp;rft.aulast=Gardner&amp;rft.btitle=The+Annotated+Alice%3A+Alice%27s+adventures+in+Wonderland+%26+Through+the+looking+glass&amp;rft.date=1999&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D-blJhrfvouUC&amp;rft.isbn=0-393-04847-0&amp;rft.pages=62&amp;rft.pub=W.W.+Norton&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation book">Brooker, Will (2004). <a class="external text" href="http://books.google.com/?id=ub11oqKaT5oC&amp;printsec=frontcover" rel="nofollow"><i>Alice' s Adventures: Lewis Carroll and Alice in Popular Culture</i></a>. London: Continuum. p. 81. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8264-1433-8" title="Special:BookSources/0-8264-1433-8">0-8264-1433-8</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.au=Brooker%2C+Will&amp;rft.aulast=Brooker%2C+Will&amp;rft.btitle=Alice%27+s+Adventures%3A+Lewis+Carroll+and+Alice+in+Popular+Culture&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3Dub11oqKaT5oC%26printsec%3Dfrontcover&amp;rft.isbn=0-8264-1433-8&amp;rft.pages=81&amp;rft.place=London&amp;rft.pub=Continuum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation journal">Roos, Michael (1984). "The Walrus and the Deacon: John Lennon's Debt to Lewis Carroll". <i>Journal of Popular Culture</i> <b>18</b> (1): 19. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1111%2Fj.0022-3840.1984.1801_19.x" rel="nofollow">10.1111/j.0022-3840.1984.1801_19.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=The+Walrus+and+the+Deacon%3A+John+Lennon%27s+Debt+to+Lewis+Carroll&amp;rft.aulast=Roos%2C+Michael&amp;rft.au=Roos%2C+Michael&amp;rft.date=1984&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.0022-3840.1984.1801_19.x&amp;rft.issue=1&amp;rft.jtitle=Journal+of+Popular+Culture&amp;rft.pages=19&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation journal">Vanessa St Clair (5 June 2001). <a class="external text" href="http://www.guardian.co.uk/world/2001/jun/05/gender.uk2" rel="nofollow">"A girl like Alice"</a>. <i>The Guardian</i> (UK).</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=A+girl+like+Alice&amp;rft.aulast=Vanessa+St+Clair&amp;rft.au=Vanessa+St+Clair&amp;rft.date=5+June+2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Fworld%2F2001%2Fjun%2F05%2Fgender.uk2&amp;rft.jtitle=The+Guardian&amp;rft.place=UK&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web">Real, Willi (2003). <a class="external text" href="http://www.heliweb.de/telic/bradcom.htm" rel="nofollow">"The Use of Literary Quotations and Allusions in: Ray Bradbury, Fahrenheit 451"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 July</span> 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.aufirst=Willi&amp;rft.aulast=Real&amp;rft.au=Real%2C+Willi&amp;rft.btitle=The+Use+of+Literary+Quotations+and+Allusions+in%3A+Ray+Bradbury%2C+Fahrenheit+451&amp;rft.date=2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.heliweb.de%2Ftelic%2Fbradcom.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.viewleeds.co.uk/pubsandbars/cheshire-cat-info-30364.html" rel="nofollow">"Cheshire Cat Stockport – Pub &amp; Bars Information , 150 Middlesex Road"</a>. Viewleeds.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.btitle=Cheshire+Cat+Stockport+%E2%80%93+Pub+%26+Bars+Information+%2C+150+Middlesex+Road&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.viewleeds.co.uk%2Fpubsandbars%2Fcheshire-cat-info-30364.html&amp;rft.pub=Viewleeds.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.vintageinn.co.uk/thecheshirecatchristleton/" rel="nofollow">"The Cheshire Cat in Christleton – Pub Home &amp; About Us"</a>. Vintageinn.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.btitle=The+Cheshire+Cat+in+Christleton+%E2%80%93+Pub+Home+%26+About+Us&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.vintageinn.co.uk%2Fthecheshirecatchristleton%2F&amp;rft.pub=Vintageinn.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation journal">Duensing, Sally; Miller, Bob (1979). "The Cheshire Cat effect". <i>Perception</i> <b>8</b> (3): 269–273. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1068%2Fp080269" rel="nofollow">10.1068/p080269</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=The+Cheshire+Cat+effect&amp;rft.au=Duensing%2C+Sally&amp;rft.aufirst=Sally&amp;rft.aulast=Duensing&amp;rft.au=Miller%2C+Bob&amp;rft.date=1979&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1068%2Fp080269&amp;rft.issue=3&amp;rft.jtitle=Perception&amp;rft.pages=269-273&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.exploratorium.edu/snacks/cheshire_cat/" rel="nofollow">"Cheshire Cat: Perception Science Project"</a>. <i>Exploratorium Science Snacks</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=Cheshire+Cat%3A+Perception+Science+Project&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.exploratorium.edu%2Fsnacks%2Fcheshire_cat%2F&amp;rft.jtitle=Exploratorium+Science+Snacks&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation journal">Yarus, Michael (1993). <a class="external text" href="http://www.fasebj.org/content/7/1/31.short" rel="nofollow">"How many catalytic RNAs? Ions and the Cheshire cat conjecture"</a>. <i>The FASEB Journal</i> <b>7</b> (1): 31–39<span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=How+many+catalytic+RNAs%3F+Ions+and+the+Cheshire+cat+conjecture&amp;rft.aufirst=Michael&amp;rft.aulast=Yarus&amp;rft.au=Yarus%2C+Michael&amp;rft.date=1993&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.fasebj.org%2Fcontent%2F7%2F1%2F31.short&amp;rft.issue=1&amp;rft.jtitle=The+FASEB+Journal&amp;rft.pages=31-39&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Frada, Miguel, et al. "The 'Cheshire Cat' escape strategy of the coccolithophore Emiliania huxleyi in response to viral infection." Proceedings of the National Academy of Sciences 105.41 (2008): 15944-15949. <a class="external free" href="http://www.pnas.org/content/105/41/15944.full" rel="nofollow">http://www.pnas.org/content/105/41/15944.full</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation journal"><a class="external text" href="http://www.nature.com/ncomms/2014/140729/ncomms5492/full/ncomms5492.html" rel="nofollow">"Observation of a quantum Cheshire Cat in a matter-wave interferometer experiment"</a>. <i>Nature Communications</i> <b>5</b>. 29 July 2014. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//dx.doi.org/10.1038%2Fncomms5492" rel="nofollow">10.1038/ncomms5492</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=Observation+of+a+quantum+Cheshire+Cat+in+a+matter-wave+interferometer+experiment&amp;rft.date=29+July+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fncomms%2F2014%2F140729%2Fncomms5492%2Ffull%2Fncomms5492.html&amp;rft_id=info%3Adoi%2F10.1038%2Fncomms5492&amp;rft.jtitle=Nature+Communications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Morgan-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Morgan_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Morgan_29-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Morgan_29-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Morgan, James. <a class="external text" href="http://www.bbc.com/news/science-environment-28543990" rel="nofollow">"<span style="padding-left:0.2em;">'</span>Quantum Cheshire Cat' becomes reality"</a>. <i>BBC News</i>. BBC<span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2014</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.atitle=%27Quantum+Cheshire+Cat%27+becomes+reality&amp;rft.aufirst=James&amp;rft.aulast=Morgan&amp;rft.au=Morgan%2C+James&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fscience-environment-28543990&amp;rft.jtitle=BBC+News&amp;rft.pub=BBC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=26" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation book">Brooker, Will (2004). <a class="external text" href="http://books.google.com/?id=ub11oqKaT5oC" rel="nofollow"><i>Alice' s Adventures: Lewis Carroll and Alice in Popular Culture</i></a>. London: Continuum. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8264-1433-8" title="Special:BookSources/0-8264-1433-8">0-8264-1433-8</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.au=Brooker%2C+Will&amp;rft.aulast=Brooker%2C+Will&amp;rft.btitle=Alice%27+s+Adventures%3A+Lewis+Carroll+and+Alice+in+Popular+Culture&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3Dub11oqKaT5oC&amp;rft.isbn=0-8264-1433-8&amp;rft.place=London&amp;rft.pub=Continuum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><span class="citation book"><a href="/wiki/Martin_Gardner" title="Martin Gardner">Gardner, Martin</a> (1999). <a class="external text" href="http://books.google.com/?id=-blJhrfvouUC" rel="nofollow"><i>The Annotated Alice: Alice's adventures in Wonderland &amp; Through the looking glass</i></a>. W.W. Norton. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-393-04847-0" title="Special:BookSources/0-393-04847-0">0-393-04847-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.aufirst=Martin&amp;rft.au=Gardner%2C+Martin&amp;rft.aulast=Gardner&amp;rft.btitle=The+Annotated+Alice%3A+Alice%27s+adventures+in+Wonderland+%26+Through+the+looking+glass&amp;rft.date=1999&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D-blJhrfvouUC&amp;rft.isbn=0-393-04847-0&amp;rft.pub=W.W.+Norton&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><span class="citation book">Silvey, Anita (2002). <a class="external text" href="http://books.google.com/?id=8GUNHGutszEC" rel="nofollow"><i>The essential guide to children's books and their creators</i></a>. Houghton Mifflin. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-618-19082-1" title="Special:BookSources/0-618-19082-1">0-618-19082-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACheshire+Cat&amp;rft.aufirst=Anita&amp;rft.aulast=Silvey&amp;rft.au=Silvey%2C+Anita&amp;rft.btitle=The+essential+guide+to+children%27s+books+and+their+creators&amp;rft.date=2002&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D8GUNHGutszEC&amp;rft.isbn=0-618-19082-1&amp;rft.pub=Houghton+Mifflin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cheshire_Cat&amp;action=edit&amp;section=27" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" data-file-height="355" data-file-width="300" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a class="extiw" href="//en.wikiquote.org/wiki/Special:Search/Cheshire_Cat" title="q:Special:Search/Cheshire Cat">Cheshire Cat</a></b></i></td>
+</tr>
+</table>
+<table class="mbox-small plainlinks" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="//commons.wikimedia.org/wiki/Category:Cheshire_Cat" title="commons:Category:Cheshire Cat">Cheshire Cat</a></b></i>.</td>
+</tr>
+</table>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a class="image" href="/wiki/File:Cheshire_Flag.svg"><img alt="Portal icon" class="noviewer thumbborder" data-file-height="361" data-file-width="601" height="19" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cheshire_Flag.svg/32px-Cheshire_Flag.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cheshire_Flag.svg/48px-Cheshire_Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cheshire_Flag.svg/64px-Cheshire_Flag.svg.png 2x" width="32"/></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Cheshire" title="Portal:Cheshire">Cheshire portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a class="external text" href="http://www.alice-in-wonderland.net/school/cheshire-cat.html" rel="nofollow">Cheshire Cat character description</a></li>
+<li><a class="external text" href="http://www.virtual-knutsford.co.uk/frameset.php?main=/archaeology/j_cheshirecat1.htm" rel="nofollow">An article on the Grappenhall carving</a></li>
+<li><a class="external text" href="http://www.bbc.co.uk/tees/features/tees_trail/tees_croft.shtml" rel="nofollow">BBC article about the Croft carving</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Alice" title="Template:Alice"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Alice" title="Template talk:Alice"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Alice&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a>'s <i><a href="/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)" title="Alice (Alice's Adventures in Wonderland)">Alice</a></i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland" title="Alice's Adventures in Wonderland">Alice's Adventures in Wonderland</a></i></li>
+<li><i><a href="/wiki/Through_the_Looking-Glass" title="Through the Looking-Glass">Through the Looking-Glass</a></i></li>
+<li><i><a href="/wiki/The_Nursery_%22Alice%22" title='The Nursery "Alice"'>The Nursery "Alice"</a></i></li>
+<li>"<a href="/wiki/The_Hunting_of_the_Snark" title="The Hunting of the Snark">The Hunting of the Snark</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Creators</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row">Authors</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lewis_Carroll" title="Lewis Carroll">Lewis Carroll</a></li>
+<li><a href="/wiki/A_New_Alice_in_the_Old_Wonderland" title="A New Alice in the Old Wonderland">Anna Matlack Richards</a></li>
+<li><a href="/wiki/Saki" title="Saki">Saki</a></li>
+<li><a href="/wiki/Gilbert_Adair" title="Gilbert Adair">Gilbert Adair</a></li>
+<li><a href="/wiki/Frank_Beddor" title="Frank Beddor">Frank Beddor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Illustrators</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Tenniel" title="John Tenniel">John Tenniel</a></li>
+<li><a href="/wiki/Arthur_Rackham" title="Arthur Rackham">Arthur Rackham</a></li>
+<li><a href="/wiki/Blanche_McManus" title="Blanche McManus">Blanche McManus</a></li>
+<li><a href="/wiki/Peter_Newell" title="Peter Newell">Peter Newell</a></li>
+<li><a href="/wiki/Fanny_Cory" title="Fanny Cory">Fanny Cory</a></li>
+<li><a href="/wiki/Bessie_Pease_Gutmann" title="Bessie Pease Gutmann">Bessie Pease Gutmann</a></li>
+<li><a href="/wiki/Charles_Robinson_(illustrator)" title="Charles Robinson (illustrator)">Charles Robinson</a></li>
+<li><a href="/wiki/Harry_Rountree" title="Harry Rountree">Harry Rountree</a></li>
+<li><a href="/wiki/Harry_Furniss" title="Harry Furniss">Harry Furniss</a></li>
+<li><a href="/wiki/Mabel_Lucie_Attwell" title="Mabel Lucie Attwell">Mabel Lucie Attwell</a></li>
+<li><a href="/wiki/Milo_Winter" title="Milo Winter">Milo Winter</a></li>
+<li><a href="/wiki/Oliver_Herford" title="Oliver Herford">Oliver Herford</a></li>
+<li><a href="/wiki/Uriel_Birnbaum" title="Uriel Birnbaum">Uriel Birnbaum</a></li>
+<li><a href="/wiki/Jessie_Willcox_Smith" title="Jessie Willcox Smith">Jessie Willcox Smith</a></li>
+<li><a href="/wiki/Charles_Folkard" title="Charles Folkard">Charles Folkard</a></li>
+<li><a href="/wiki/Mervyn_Peake" title="Mervyn Peake">Mervyn Peake</a></li>
+<li><a href="/wiki/Alex_Blum" title="Alex Blum">Alex Blum</a></li>
+<li><a href="/wiki/Leonard_Weisgard" title="Leonard Weisgard">Leonard Weisgard</a></li>
+<li><a href="/wiki/Walt_Disney" title="Walt Disney">Walt Disney</a></li>
+<li><a href="/wiki/Marjorie_Torrey" title="Marjorie Torrey">Marjorie Torrey</a></li>
+<li><a href="/wiki/Tove_Jansson" title="Tove Jansson">Tove Jansson</a></li>
+<li><a href="/wiki/Ralph_Steadman" title="Ralph Steadman">Ralph Steadman</a></li>
+<li><a href="/wiki/Frank_Bolle" title="Frank Bolle">Frank Bolle</a></li>
+<li><a href="/wiki/Charles_Blackman" title="Charles Blackman">Charles Blackman</a></li>
+<li><a href="/wiki/Barry_Moser" title="Barry Moser">Barry Moser</a></li>
+<li><a href="/wiki/Michael_Hague" title="Michael Hague">Michael Hague</a></li>
+<li><a href="/wiki/Anthony_Browne_(author)" title="Anthony Browne (author)">Anthony Browne</a></li>
+<li><a href="/wiki/Willy_Pogany" title="Willy Pogany">Willy Pogany</a></li>
+<li><a href="/wiki/Marie_Laurencin" title="Marie Laurencin">Marie Laurencin</a></li>
+<li><a href="/wiki/Salvador_Dal%C3%AD" title="Salvador Dalí">Salvador Dalí</a></li>
+<li><a class="mw-redirect" href="/wiki/Greg_Hildebrandt" title="Greg Hildebrandt">Greg Hildebrandt</a></li>
+<li><a href="/wiki/Gavin_O%27Keefe" title="Gavin O'Keefe">Gavin O'Keefe</a></li>
+<li><a href="/wiki/Tony_Ross" title="Tony Ross">Tony Ross</a></li>
+<li><a href="/wiki/Helen_Oxenbury" title="Helen Oxenbury">Helen Oxenbury</a></li>
+<li><a href="/wiki/Lisbeth_Zwerger" title="Lisbeth Zwerger">Lisbeth Zwerger</a></li>
+<li><a href="/wiki/Oleg_Lipchenko" title="Oleg Lipchenko">Oleg Lipchenko</a></li>
+<li><a href="/wiki/Franciszka_Themerson" title="Franciszka Themerson">Franciszka Themerson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Characters</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row"><i><a href="/wiki/List_of_minor_characters_in_the_Alice_series" title="List of minor characters in the Alice series">Alice's Adventures<br/>
+in Wonderland</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)" title="Alice (Alice's Adventures in Wonderland)">Alice</a></li>
+<li><a href="/wiki/White_Rabbit" title="White Rabbit">The White Rabbit</a></li>
+<li><a href="/wiki/Mouse_(Alice%27s_Adventures_in_Wonderland)" title="Mouse (Alice's Adventures in Wonderland)">The Mouse</a></li>
+<li><a href="/wiki/Dodo_(Alice%27s_Adventures_in_Wonderland)" title="Dodo (Alice's Adventures in Wonderland)">The Dodo</a></li>
+<li><a class="mw-redirect" href="/wiki/Duck_(Alice%27s_Adventures_in_Wonderland)" title="Duck (Alice's Adventures in Wonderland)">The Duck</a></li>
+<li><a class="mw-redirect" href="/wiki/Lory_(Alice%27s_Adventures_in_Wonderland)" title="Lory (Alice's Adventures in Wonderland)">The Lory</a></li>
+<li><a class="mw-redirect" href="/wiki/Eaglet_(Alice%27s_Adventures_in_Wonderland)" title="Eaglet (Alice's Adventures in Wonderland)">Eaglet</a></li>
+<li><a href="/wiki/Pat_(Alice%27s_Adventures_in_Wonderland)" title="Pat (Alice's Adventures in Wonderland)">Pat</a></li>
+<li><a href="/wiki/Bill_the_Lizard" title="Bill the Lizard">Bill the Lizard</a></li>
+<li><a href="/wiki/Puppy_(Alice%27s_Adventures_in_Wonderland)" title="Puppy (Alice's Adventures in Wonderland)">Puppy</a></li>
+<li><a href="/wiki/Caterpillar_(Alice%27s_Adventures_in_Wonderland)" title="Caterpillar (Alice's Adventures in Wonderland)">The Caterpillar</a></li>
+<li><a href="/wiki/Duchess_(Alice%27s_Adventures_in_Wonderland)" title="Duchess (Alice's Adventures in Wonderland)">The Duchess</a></li>
+<li><strong class="selflink">The Cheshire Cat</strong></li>
+<li><a href="/wiki/March_Hare" title="March Hare">The March Hare</a></li>
+<li><a href="/wiki/The_Hatter" title="The Hatter">The Hatter</a></li>
+<li><a href="/wiki/The_Dormouse" title="The Dormouse">The Dormouse</a></li>
+<li><a href="/wiki/Queen_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Queen of Hearts (Alice's Adventures in Wonderland)">The Queen of Hearts</a></li>
+<li><a href="/wiki/King_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="King of Hearts (Alice's Adventures in Wonderland)">The King of Hearts</a></li>
+<li><a href="/wiki/Knave_of_Hearts_(Alice%27s_Adventures_in_Wonderland)" title="Knave of Hearts (Alice's Adventures in Wonderland)">The Knave of Hearts</a></li>
+<li><a href="/wiki/Gryphon_(Alice%27s_Adventures_in_Wonderland)" title="Gryphon (Alice's Adventures in Wonderland)">The Gryphon</a></li>
+<li><a href="/wiki/Mock_Turtle" title="Mock Turtle">The Mock Turtle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><i><a href="/wiki/List_of_minor_characters_in_the_Alice_series" title="List of minor characters in the Alice series">Through the<br/>
+Looking-Glass</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)" title="Alice (Alice's Adventures in Wonderland)">Alice</a></li>
+<li><a href="/wiki/Red_Queen_(Through_the_Looking-Glass)" title="Red Queen (Through the Looking-Glass)">The Red Queen</a></li>
+<li><a href="/wiki/White_Queen_(Through_the_Looking-Glass)" title="White Queen (Through the Looking-Glass)">The White Queen</a></li>
+<li><a href="/wiki/Red_King_(Through_the_Looking-Glass)" title="Red King (Through the Looking-Glass)">The Red King</a></li>
+<li><a href="/wiki/White_King_(Through_the_Looking-Glass)" title="White King (Through the Looking-Glass)">The White King</a></li>
+<li><a href="/wiki/White_Knight_(Through_the_Looking-Glass)" title="White Knight (Through the Looking-Glass)">The White Knight</a></li>
+<li><a href="/wiki/Tweedledum_and_Tweedledee" title="Tweedledum and Tweedledee">Tweedledum and Tweedledee</a></li>
+<li><a href="/wiki/The_Sheep" title="The Sheep">The Sheep</a></li>
+<li><a href="/wiki/Humpty_Dumpty" title="Humpty Dumpty">Humpty Dumpty</a></li>
+<li><a href="/wiki/March_Hare" title="March Hare">Haigha</a></li>
+<li><a href="/wiki/The_Hatter" title="The Hatter">Hatta</a></li>
+<li><a href="/wiki/The_Lion_and_the_Unicorn" title="The Lion and the Unicorn">The Lion and the Unicorn</a></li>
+<li><a href="/wiki/Bandersnatch" title="Bandersnatch">Bandersnatch</a></li>
+<li><a href="/wiki/Jubjub_bird" title="Jubjub bird">Jubjub Bird</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Related topics</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alice_Liddell" title="Alice Liddell">Alice Liddell</a></li>
+<li><a href="/wiki/Alice%27s_Shop" title="Alice's Shop">Alice's Shop</a></li>
+<li><i><a href="/wiki/The_Annotated_Alice" title="The Annotated Alice">The Annotated Alice</a></i></li>
+<li><a href="/wiki/Wonderland_(fictional_country)" title="Wonderland (fictional country)">Wonderland</a></li>
+<li><a href="/wiki/Looking-Glass_Land" title="Looking-Glass Land">Looking-Glass Land</a></li>
+<li><a href="/wiki/Works_based_on_Alice_in_Wonderland" title="Works based on Alice in Wonderland">Works based on <i>Alice in Wonderland</i></a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Alice_in_Wonderland_(franchise)" title="Alice in Wonderland (franchise)">Disney franchise</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Translations_of_Alice%27s_Adventures_in_Wonderland" title="Translations of Alice's Adventures in Wonderland">Translations of <i>Alice's Adventures in Wonderland</i></a></li>
+<li><a href="/wiki/Translations_of_Through_the_Looking-Glass" title="Translations of Through the Looking-Glass">Translations of <i>Through the Looking-Glass</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Works_based_on_Alice_in_Wonderland" title="Works based on Alice in Wonderland">Adaptations</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row">Poems</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>"<a href="/wiki/All_in_the_golden_afternoon..." title="All in the golden afternoon...">All in the golden afternoon...</a>"</li>
+<li>"<a href="/wiki/How_Doth_the_Little_Crocodile" title="How Doth the Little Crocodile">How Doth the Little Crocodile</a>"</li>
+<li>"<a href="/wiki/The_Mouse%27s_Tale" title="The Mouse's Tale">The Mouse's Tale</a>"</li>
+<li>"<a href="/wiki/Twinkle,_Twinkle,_Little_Bat" title="Twinkle, Twinkle, Little Bat">Twinkle, Twinkle, Little Bat</a>"</li>
+<li>"<a href="/wiki/You_Are_Old,_Father_William" title="You Are Old, Father William">You Are Old, Father William</a>"</li>
+<li>"<a href="/wiki/%27Tis_the_Voice_of_the_Lobster" title="'Tis the Voice of the Lobster">'Tis the Voice of the Lobster</a>"</li>
+<li>"<a href="/wiki/Jabberwocky" title="Jabberwocky">Jabberwocky</a>"</li>
+<li>"<a href="/wiki/The_Walrus_and_the_Carpenter" title="The Walrus and the Carpenter">The Walrus and the Carpenter</a>"</li>
+<li>"<a href="/wiki/Haddocks%27_Eyes" title="Haddocks' Eyes">Haddocks' Eyes</a>"</li>
+<li>"<a class="mw-redirect" href="/wiki/They_told_me_you_had_been_to_her..." title="They told me you had been to her...">They told me you had been to her...</a>"</li>
+<li>"<a href="/wiki/The_Mock_Turtle%27s_Song" title="The Mock Turtle's Song">The Mock Turtle's Song</a>"</li>
+<li>"<a href="/wiki/The_Hunting_of_the_Snark" title="The Hunting of the Snark">The Hunting of the Snark</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Sequels</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/A_New_Alice_in_the_Old_Wonderland" title="A New Alice in the Old Wonderland">A New Alice in the Old Wonderland</a></i> (1895)</li>
+<li><i><a href="/wiki/New_Adventures_of_Alice" title="New Adventures of Alice">New Adventures of Alice</a></i> (1917)</li>
+<li><i><a href="/wiki/Alice_Through_the_Needle%27s_Eye" title="Alice Through the Needle's Eye">Alice Through the Needle's Eye</a></i> (1984)</li>
+<li><i><a href="/wiki/Automated_Alice" title="Automated Alice">Automated Alice</a></i> (1996)</li>
+<li><i><a href="/wiki/Wonderland_Revisited_and_the_Games_Alice_Played_There" title="Wonderland Revisited and the Games Alice Played There">Wonderland Revisited and the Games Alice Played There</a></i> (2009)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Retellings</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland_retold_in_words_of_one_syllable" title="Alice's Adventures in Wonderland retold in words of one syllable">Alice's Adventures in Wonderland retold in words of one syllable</a></i> (1905)</li>
+<li><i><a href="/wiki/Alice_in_Verse:_The_Lost_Rhymes_of_Wonderland" title="Alice in Verse: The Lost Rhymes of Wonderland">Alice in Verse: The Lost Rhymes of Wonderland</a></i> (2010)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Parodies</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Westminster_Alice" title="The Westminster Alice">The Westminster Alice</a></i> (1902)</li>
+<li><i><a href="/wiki/Clara_in_Blunderland" title="Clara in Blunderland">Clara in Blunderland</a></i> (1902)</li>
+<li><i><a href="/wiki/Lost_in_Blunderland" title="Lost in Blunderland">Lost in Blunderland</a></i> (1903)</li>
+<li><i><a href="/wiki/John_Bull%27s_Adventures_in_the_Fiscal_Wonderland" title="John Bull's Adventures in the Fiscal Wonderland">John Bull's Adventures in the Fiscal Wonderland</a></i> (1904)</li>
+<li><i><a href="/wiki/Alice_in_Blunderland:_An_Iridescent_Dream" title="Alice in Blunderland: An Iridescent Dream">Alice in Blunderland: An Iridescent Dream</a></i> (1904)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Imitations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Jean_Ingelow" title="Jean Ingelow">Mopsa the Fairy</a></i> (1869)</li>
+<li><i><a href="/wiki/Davy_and_the_Goblin" title="Davy and the Goblin">Davy and the Goblin</a></i> (1884)</li>
+<li><i><a href="/wiki/The_Admiral%27s_Caravan" title="The Admiral's Caravan">The Admiral's Caravan</a></i> (1891)</li>
+<li><i><a href="/wiki/Gladys_in_Grammarland" title="Gladys in Grammarland">Gladys in Grammarland</a></i> (1896)</li>
+<li><i><a href="/wiki/The_Magical_Monarch_of_Mo" title="The Magical Monarch of Mo">A New Wonderland</a></i> (1898)</li>
+<li><i><a href="/wiki/Rollo_in_Emblemland" title="Rollo in Emblemland">Rollo in Emblemland</a></i> (1902)</li>
+<li><i><a href="/wiki/The_Magic_World" title="The Magic World">Justnowland</a></i> (1912)</li>
+<li><i><a href="/wiki/Alice_in_Orchestralia" title="Alice in Orchestralia">Alice in Orchestralia</a></i> (1925)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Reimagining</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice_or_the_Last_Escapade" title="Alice or the Last Escapade">Alice or the Last Escapade</a></i> (1977)</li>
+<li><i><a href="/wiki/Adventures_in_Wonderland" title="Adventures in Wonderland">Adventures in Wonderland</a></i> (1991)</li>
+<li><i><a href="/wiki/The_Looking_Glass_Wars" title="The Looking Glass Wars">The Looking Glass Wars</a></i> (2006)</li>
+<li><i><a href="/wiki/Alice_(miniseries)" title="Alice (miniseries)">Alice</a></i> (2009)</li>
+<li><i><a href="/wiki/Malice_in_Wonderland_(2009_film)" title="Malice in Wonderland (2009 film)">Malice in Wonderland</a></i> (2009)</li>
+<li><a href="/wiki/Alice_in_Wonderland_(2010_film)" title="Alice in Wonderland (2010 film)"><i>Alice in Wonderland</i></a> (2010)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland:_Through_the_Looking_Glass" title="Alice in Wonderland: Through the Looking Glass">Alice in Wonderland: Through the Looking Glass</a></i> (2016)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Film</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alice_in_Wonderland_(1903_film)" title="Alice in Wonderland (1903 film)">1903</a></li>
+<li><a href="/wiki/Alice%27s_Adventures_in_Wonderland_(1910_film)" title="Alice's Adventures in Wonderland (1910 film)">1910</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1915_film)" title="Alice in Wonderland (1915 film)">1915</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1931_film)" title="Alice in Wonderland (1931 film)">1931</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1933_film)" title="Alice in Wonderland (1933 film)">1933</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1949_film)" title="Alice in Wonderland (1949 film)">1949</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1951_film)" title="Alice in Wonderland (1951 film)">1951</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1966_TV_play)" title="Alice in Wonderland (1966 TV play)">1966</a></li>
+<li><a href="/wiki/Alice%27s_Adventures_in_Wonderland_(1972_film)" title="Alice's Adventures in Wonderland (1972 film)">1972</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1976_film)" title="Alice in Wonderland (1976 film)">1976</a></li>
+<li><a href="/wiki/Alice_(1982_film)" title="Alice (1982 film)">1982</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1985_film)" title="Alice in Wonderland (1985 film)">1985</a></li>
+<li><a href="/wiki/Alice_Through_the_Looking_Glass_(1987_film)" title="Alice Through the Looking Glass (1987 film)">1987</a></li>
+<li><a href="/wiki/Alice_(1988_film)" title="Alice (1988 film)">1988 (Czech)</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1988_film)" title="Alice in Wonderland (1988 film)">1988 (Australian)</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1995_film)" title="Alice in Wonderland (1995 film)">1995</a></li>
+<li><a href="/wiki/Alice_in_Wonderland_(1999_film)" title="Alice in Wonderland (1999 film)">1999</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Stage</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice%27s_Adventures_in_Wonderland_(ballet)" title="Alice's Adventures in Wonderland (ballet)">Alice's Adventures in Wonderland</a></i> (ballet)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(musical)" title="Alice in Wonderland (musical)">Alice in Wonderland</a></i> (musical)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(opera)" title="Alice in Wonderland (opera)">Alice in Wonderland</a></i> (opera)</li>
+<li><i><a href="/wiki/Peter_and_Alice" title="Peter and Alice">Peter and Alice</a></i> (2013 play)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Television</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Fushigi_no_Kuni_no_Alice" title="Fushigi no Kuni no Alice">Fushigi no Kuni no Alice</a></i></li>
+<li><i><a href="/wiki/Once_Upon_a_Time_(TV_series)" title="Once Upon a Time (TV series)">Once Upon a Time</a></i></li>
+<li><i><a href="/wiki/Once_Upon_a_Time_in_Wonderland" title="Once Upon a Time in Wonderland">Once Upon a Time in Wonderland</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Literary</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice_in_the_Country_of_Hearts" title="Alice in the Country of Hearts">Alice in the Country of Hearts</a></i>
+<ul>
+<li><a href="/wiki/List_of_Alice_in_the_Country_of_Hearts_characters" title="List of Alice in the Country of Hearts characters">characters</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Miyuki-chan_in_Wonderland" title="Miyuki-chan in Wonderland">Miyuki-chan in Wonderland</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Video games</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Alice_no_Paint_Adventure" title="Alice no Paint Adventure">Alice no Paint Adventure</a></i> (1995)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(2000_video_game)" title="Alice in Wonderland (2000 video game)">Alice in Wonderland</a></i> (2000)</li>
+<li><i><a href="/wiki/American_McGee%27s_Alice" title="American McGee's Alice">American McGee's Alice</a></i> (2000)</li>
+<li><i><a href="/wiki/Alice_in_Wonderland_(2010_video_game)" title="Alice in Wonderland (2010 video game)">Alice in Wonderland</a></i> (2010)</li>
+<li><i><a href="/wiki/Alice:_Madness_Returns" title="Alice: Madness Returns">Alice: Madness Returns</a></i> (2011)</li>
+<li><i><a href="/wiki/Kingdom_Hearts" title="Kingdom Hearts">Kingdom Hearts</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Audio dramas</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Legend_of_the_Cybermen" title="Legend of the Cybermen">Legend of the Cybermen</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight: bold;">
+<div>
+<ul>
+<li><img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:Alice_in_Wonderland" title="Book:Alice in Wonderland">Book:Alice in Wonderland</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Alice_in_Wonderland" title="Category:Alice in Wonderland">Category:Alice in Wonderland</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Children%27s_literature" title="Portal:Children's literature">Portal:Children's literature</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1241
+CPU time usage: 0.505 seconds
+Real time usage: 0.620 seconds
+Preprocessor visited node count: 5641/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 132228/2097152 bytes
+Template argument size: 5995/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.143/10.000 seconds
+Lua memory usage: 4.15 MB/50 MB
+-->
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  465.062      1 - -total
+ 27.97%  130.074      1 - Template:Reflist
+ 11.40%   53.014      2 - Template:IPAc-en
+ 11.26%   52.361      4 - Template:Navbox
+  9.87%   45.918     11 - Template:Cite_web
+  9.74%   45.302      2 - Template:Nowrap
+  9.04%   42.041      1 - Template:Infobox_character
+  8.96%   41.648      1 - Template:Alice
+  8.15%   37.923      1 - Template:About
+  7.32%   34.044      1 - Template:Infobox
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:148730-0!*!0!!en!4!* and timestamp 20150131223801 and revision id 645002484
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Cheshire_Cat&amp;oldid=645002484">http://en.wikipedia.org/w/index.php?title=Cheshire_Cat&amp;oldid=645002484</a>"					</div>
+<div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lewis_Carroll_characters" title="Category:Lewis Carroll characters">Lewis Carroll characters</a></li><li><a href="/wiki/Category:Fictional_cats" title="Category:Fictional cats">Fictional cats</a></li><li><a href="/wiki/Category:Fictional_characters_who_can_turn_invisible" title="Category:Fictional characters who can turn invisible">Fictional characters who can turn invisible</a></li><li><a href="/wiki/Category:Cheshire" title="Category:Cheshire">Cheshire</a></li><li><a href="/wiki/Category:Disney%27s_Alice_in_Wonderland_characters" title="Category:Disney's Alice in Wonderland characters">Disney's Alice in Wonderland characters</a></li><li><a href="/wiki/Category:Kingdom_Hearts_characters" title="Category:Kingdom Hearts characters">Kingdom Hearts characters</a></li><li><a href="/wiki/Category:Fictional_characters_who_can_teleport" title="Category:Fictional characters who can teleport">Fictional characters who can teleport</a></li><li><a href="/wiki/Category:Fictional_characters_introduced_in_1865" title="Category:Fictional characters introduced in 1865">Fictional characters introduced in 1865</a></li><li><a href="/wiki/Category:Fantasy_creatures" title="Category:Fantasy creatures">Fantasy creatures</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_British_English_from_August_2011" title="Category:Use British English from August 2011">Use British English from August 2011</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2011" title="Category:Use dmy dates from August 2011">Use dmy dates from August 2011</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2014" title="Category:Articles with unsourced statements from October 2014">Articles with unsourced statements from October 2014</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_June_2013" title="Category:Articles with specifically marked weasel-worded phrases from June 2013">Articles with specifically marked weasel-worded phrases from June 2013</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cheshire+Cat&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Cheshire+Cat" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Cheshire_Cat" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Cheshire_Cat" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Cheshire_Cat">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Cheshire_Cat&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Cheshire_Cat&amp;action=history" title="Past versions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if one exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li>
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+<li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li>
+<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+<li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li>
+<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Cheshire_Cat" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li>
+<li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Cheshire_Cat" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
+<li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
+<li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=Cheshire_Cat&amp;oldid=645002484" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=Cheshire_Cat&amp;action=info" title="More information about this page">Page information</a></li>
+<li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q934013" title="Link to connected data repository item [g]">Wikidata item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cheshire_Cat&amp;id=645002484" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cheshire+Cat">Create a book</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Cheshire+Cat&amp;oldid=645002484&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="t-print"><a accesskey="p" href="/w/index.php?title=Cheshire_Cat&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/%C3%87e%C5%9Fir_pi%C5%9Fiyi_(Kerrolun_personaj%C4%B1)" hreflang="az" lang="az" title="Çeşir pişiyi (Kerrolun personajı) – Azerbaijani">Azərbaycanca</a></li>
+<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Gat_de_Cheshire" hreflang="ca" lang="ca" title="Gat de Cheshire – Catalan">Català</a></li>
+<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Cheshire_Cat" hreflang="de" lang="de" title="Cheshire Cat – German">Deutsch</a></li>
+<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Gato_de_Cheshire" hreflang="es" lang="es" title="Gato de Cheshire – Spanish">Español</a></li>
+<li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Cheshire_Katua" hreflang="eu" lang="eu" title="Cheshire Katua – Basque">Euskara</a></li>
+<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Chat_du_Cheshire" hreflang="fr" lang="fr" title="Chat du Cheshire – French">Français</a></li>
+<li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Gato_de_Cheshire" hreflang="gl" lang="gl" title="Gato de Cheshire – Galician">Galego</a></li>
+<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%B2%B4%EC%85%94_%EA%B3%A0%EC%96%91%EC%9D%B4" hreflang="ko" lang="ko" title="체셔 고양이 – Korean">한국어</a></li>
+<li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Cheshire_Cat" hreflang="id" lang="id" title="Cheshire Cat – Indonesian">Bahasa Indonesia</a></li>
+<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Gatto_del_Cheshire" hreflang="it" lang="it" title="Gatto del Cheshire – Italian">Italiano</a></li>
+<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%97%D7%AA%D7%95%D7%9C_%D7%A6%27%D7%A9%D7%99%D7%99%D7%A8" hreflang="he" lang="he" title="חתול צ'שייר – Hebrew">עברית</a></li>
+<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B7%E3%83%A3%E7%8C%AB" hreflang="ja" lang="ja" title="チェシャ猫 – Japanese">日本語</a></li>
+<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kot_z_Cheshire" hreflang="pl" lang="pl" title="Kot z Cheshire – Polish">Polski</a></li>
+<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Gato_de_Cheshire" hreflang="pt" lang="pt" title="Gato de Cheshire – Portuguese">Português</a></li>
+<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Motanul_Cheshire" hreflang="ro" lang="ro" title="Motanul Cheshire – Romanian">Română</a></li>
+<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%88%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%BE%D1%82" hreflang="ru" lang="ru" title="Чеширский Кот – Russian">Русский</a></li>
+<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%88%D0%B8%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D1%96%D1%82" hreflang="uk" lang="uk" title="Чеширський кіт – Ukrainian">Українська</a></li>
+<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%9F%B4%E9%83%A1%E7%8C%AB" hreflang="zh" lang="zh" title="柴郡猫 – Chinese">中文</a></li>
+<li class="uls-p-lang-dummy"><a href="#"></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" class="wbc-editpage" href="//www.wikidata.org/wiki/Q934013#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 31 January 2015, at 16:11.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Cheshire_Cat&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
+</li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf14/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+
+</body>
+</html>

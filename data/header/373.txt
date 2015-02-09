@@ -1,0 +1,13 @@
+Title: Alice in Wonderland - Awards - IMDb
+Date: Mon, 09 Feb 2015 23:41:04 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYks2mzYvdRPLOdcQTkd4Bz7iG7ftMZBHyxWB4Zlv8VGN6GhEKBq_1SuU0y6hrgJHYVWSEH1zNc%0D%0AUPBgpBxULaUXx9o7tmdJ68Lrsd4LtFyQ6pXCYYB63mo_mZjvKbN6yokjDWjq1Y7s6vmo1w7iJS2q%0D%0AJi5nP7DVd1S-MMiAsrw--x18ebV9meGxuR8REaM4Yt0_WLpnDOhf0kDAlSlCWxGWS7rHxdab5YfJ%0D%0AG3T1KEGgpkwTbkYyb-nPefkTyi_uEVKajw6CoZKxLf4X16E2tNvszw%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:12 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:12 GMT; Path=/
+Set-Cookie: session-id-time=1581205264; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:12 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

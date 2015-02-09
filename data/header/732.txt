@@ -1,0 +1,24 @@
+Title: Videos | The Official Celine Dion Site
+Accept-Ranges: bytes
+Age: 1062
+Cache-Control: public, max-age=900
+Content-Type: text/html; charset=utf-8
+Date: Mon, 09 Feb 2015 23:48:04 GMT
+ETag: "1423524624"
+Expires: Sun, 11 Mar 1984 12:00:00 GMT
+Last-Modified: Mon, 09 Feb 2015 23:30:24 +0000
+P3P: CP=HONK
+Server: 
+Vary: Cookie, Accept-Encoding
+Via: 1.1 varnish
+X-Created: Mon, 09 Feb 2015 23:30:25 GMT
+X-Req-Host: www.celinedion.com
+X-Req-Url: /ca/videos
+X-Source-Host: drupallive
+X-V-I-TTL: 1200
+X-V-Outer: HIT
+X-V-TTL: 138
+X-Varnish: 2212297104 2212178635
+Content-Length: 77949
+Connection: Close
+

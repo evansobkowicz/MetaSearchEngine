@@ -1,0 +1,11 @@
+Title: Disney THE LION KING | Official Site for Broadway Tickets | New York, NY
+Server: nginx
+Date: Mon, 09 Feb 2015 23:41:58 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Set-Cookie: CAKEPHP=fhuabg5cr39jj014udapnq8i66; expires=Wed, 18-Feb-2015 07:41:58 GMT; path=/
+X-Powered-By: PleskLin
+MS-Author-Via: DAV
+

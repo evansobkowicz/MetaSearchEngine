@@ -1,0 +1,20 @@
+Title: Björn Ulvaeus - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=3740; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sun, 08 Feb 2015 05:54:44 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1648351213 1646448052, 2475577679 2323795464
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:46:55 GMT
+Age: 116742
+Connection: close
+X-Cache: cp1068 hit (2), cp1065 frontend hit (30)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

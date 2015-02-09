@@ -1,0 +1,22 @@
+Title: Watch Mariah Carey''s Vocal Struggles in Tour Opener - The Hollywood Reporter
+Age: 0
+Cache-Control: public, s-maxage=1200, max-age=0
+Content-Location: http://www.hollywoodreporter.com/earshot/watch-mariah-careys-vocal-struggles-738223
+Content-Type: text/html; charset=utf-8
+Date: Mon, 09 Feb 2015 23:47:49 GMT
+Etag: "1423525640-1"
+Expires: Sun, 11 Mar 1984 12:00:00 GMT
+Server: nginx
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Cache-Hits: MISS
+X-Debug-Cookies: 
+X-Debug-Cookies2: 
+X-Debug-Log: Removed cookies
+X-Drupal-Cache: HIT
+X-NX-Host: www.hollywoodreporter.com
+X-Varnish: 511751744
+Transfer-Encoding: chunked
+Connection: close
+

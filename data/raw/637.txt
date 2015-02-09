@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" id="phx-wrapper"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" id="phx-wrapper"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" id="phx-wrapper"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" id="phx-wrapper"><!--<![endif]-->
+<head phx-view-meta="">
+<style type="text/css">
+    [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}
+    </style>
+<!--[if lt IE 9]>
+    <script>
+        window.location = '/unsupportedBrowser.html';
+    </script>
+    <![endif]-->
+
+<base href="/">
+<meta charset="utf-8"/>
+<meta content="!" name="fragment"/>
+<meta content="on" http-equiv="cleartype"/>
+<title></title>
+<meta content="True" name="HandheldFriendly"/>
+<meta content="320" name="MobileOptimized"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="no" name="apple-mobile-web-app-capable"/>
+<meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+<link href="/site/images/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="/site/images/apple-touch-icon-57x57-precomposed.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/site/images/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/site/images/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon" sizes="114x114"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="address=no" name="format-detection"/>
+<meta content="NtA82m_nY0RdVtIFdXEAhFcaqEr43II3Z2UEuVRe4vA" name="google-site-verification"/>
+<link href="/site/images/favicon.ico" rel="shortcut icon"/>
+<link href="http://purl.org/dc/terms/" rel="schema.dcterms"/>
+<!-- prevent browser with pinterest extension from showing hover -->
+<meta content="nohover" name="pinterest"/>
+<!-- build:style main -->
+<link href="/site/styles/main.min.css?v=2015-02-07-000929-c7b5f6e-007816" rel="stylesheet"/>
+<!-- /build -->
+<link href="/site/styles/print.min.css?v=2015-02-07-000929-c7b5f6e-007816" media="print" rel="stylesheet"/>
+<!-- Inject external style tags -->
+<link href="//servicesaetn-a.akamaihd.net/pdk5/pdk5.1.3/web/pdk/style/AETN-video.css" rel="stylesheet" type="text/css"/>
+<!-- end extCSS -->
+<link href="/feed" rel="alternate" title="RSS" type="application/rss+xml"/>
+<link href="//a.disquscdn.com" rel="dns-prefetch"/>
+<link href="//ads-static.saymedia.com" rel="dns-prefetch"/>
+<link href="//ads.saymedia.com" rel="dns-prefetch"/>
+<link href="//adserver.adtechus.com" rel="dns-prefetch"/>
+<link href="//ajax.googleapis.com" rel="dns-prefetch"/>
+<link href="//api.saymedia-content.com" rel="dns-prefetch"/>
+<link href="//b.scorecardresearch.com" rel="dns-prefetch"/>
+<link href="//beacon.orion.saymedia.com" rel="dns-prefetch"/>
+<link href="//disqus.com" rel="dns-prefetch"/>
+<link href="//edge.quantserve.com" rel="dns-prefetch"/>
+<link href="//sm.saymedia-content.com" rel="dns-prefetch"/>
+<link href="//theplatform.saymedia-content.com" rel="dns-prefetch"/>
+<link href="//loadr.exelator.com" rel="dns-prefetch"/>
+<link href="//pixel.quantserve.com" rel="dns-prefetch"/>
+<link href="//res.cloudinary.com" rel="dns-prefetch"/>
+<link href="//saywidgets.awe.sm" rel="dns-prefetch"/>
+<!-- tetrapak disable -->
+<!-- <link rel="dns-prefetch" href="//tetra.saymedia.com" /> -->
+<link href="//use.typekit.net" rel="dns-prefetch"/>
+<link href="//www.google-analytics.com" rel="dns-prefetch"/>
+<link href="//www.gstatic.com" rel="dns-prefetch"/>
+<link href="//ping.chartbeat.com" rel="dns-prefetch"/>
+<link href="//ct.buzzfeed.com" rel="dns-prefetch"/>
+<!-- static asset urls -->
+<link href="//a1.files.www.biography.com" rel="dns-prefetch"/>
+<link href="//a2.files.www.biography.com" rel="dns-prefetch"/>
+<link href="//a3.files.www.biography.com" rel="dns-prefetch"/>
+<link href="//a4.files.www.biography.com" rel="dns-prefetch"/>
+<link href="//a5.files.www.biography.com" rel="dns-prefetch"/>
+
+</base></head>
+<body ng-class="bodyClasses">
+<!--[if lt IE 7]>
+    <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+    <![endif]-->
+<!--[if lt IE 9]>
+    <script src="components/es5-shim/es5-shim.js"></script>
+    <script src="components/json3/lib/json3.min.js"></script>
+    <![endif]-->
+<!--[if IE 9]>
+    <script src="/components/xdomain/dist/0.5/xdomain.min.js" ></script>
+    <![endif]-->
+<div class="m-off-canvas--container" id="lyra-wrapper">
+<div class="m-off-canvas--menu m-off-canvas--effect-2" phx-off-canvas-nav=""></div>
+<div class="m-off-canvas--pusher">
+<div class="m-off-canvas--content">
+<div class="m-page-wrapper m-off-canvas--content-inner">
+<section phx-block-insertion="page-top"></section>
+<phx-coverlines></phx-coverlines>
+<phx-nav></phx-nav>
+<section class="m-page-container trackable click" phx-pages=""></section>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- Inject external script tags -->
+
+
+
+
+<!-- end extJS -->
+</body>
+</html>

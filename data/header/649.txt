@@ -1,0 +1,15 @@
+Title: Led Zeppelin Archives - Vinyl Tempest
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Pingback: http://vinyltempest.com/xmlrpc.php
+X-FW-Hash: 3xch6psmsj
+Server: Flywheel/3.1.18
+X-Cacheable: YES
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:46:16 GMT
+Connection: close
+X-Cache: MISS
+X-FW-Static: NO
+X-FW-Serve: TRUE
+X-FW-Type: VISIT
+

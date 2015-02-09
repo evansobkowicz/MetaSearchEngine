@@ -1,0 +1,20 @@
+Title: Jurassic Park (novel) - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=5326809; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sun, 08 Feb 2015 20:37:10 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 2567345192, 1628849247 1606603583
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:42:46 GMT
+Age: 14181
+Connection: close
+X-Cache: cp1053 miss (0), cp1066 frontend hit (19)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

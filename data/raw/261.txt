@@ -1,0 +1,1266 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<!--[if lte IE 8]>
+		<script src="/js/json2.min.js"></script>
+		<![endif]-->
+<link href="http://boardgamegeek.com/thread/1279351/free-geekgold-avatar" rel="canonical"/>
+<meta content="//cf.geekdo-static.com/images/geekfacebook.png" name="og:image"/>
+<meta content="27817827944" name="og:fb_admins"/>
+<meta content="205486880281" property="fb:page_id"/>
+<meta content="" name="description">
+<meta content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo" name="keywords">
+<meta content="text/html;charset=utf-8" http-equiv="content-type">
+<link href="//cf.geekdo-static.com/static/css_master2_54b3f7051f2be.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+					
+			.icon
+			{
+				background-image: url('//cf.geekdo-static.com/sprites/icons/tileicon_0_25.png');
+			}			
+			</style>
+<link href="//cf.geekdo-static.com/icons/appleicon.png" rel="apple-touch-icon"/>
+<link href="//cf.geekdo-static.com/icons/favicon.ico" rel="shortcut icon" type="image/ico"/>
+<link href="//cf.geekdo-static.com/icons/favicon.ico" rel="icon" type="image/ico"/>
+<link href="/game-opensearch.xml" rel="search" title="BGG Game Search" type="application/opensearchdescription+xml"/>
+<title>FREE GEEKGOLD FOR AN AVATAR!!! | BoardGameGeek | BoardGameGeek</title>
+
+</link></meta></meta></meta></head>
+<body class="yui-skin-sam">
+
+<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+
+<div id="container">
+<div id="maincontent">
+<table style="margin:10px 0;" width="100%">
+<tr>
+<td valign="top" width="120">
+<a href="/"><img class="fl" src="//cf.geekdo-static.com/images/geekdo/bgg_cornerlogo.png" style="width:120px; height:90px;"/></a>
+</td>
+<td style="padding-left:10px; width:90px;">
+<div class="menu_login">
+
+<form action="/login" method="post" style="padding:0; margin:0; margin-top:4px;">
+<input name="lasturl" type="hidden" value="/thread/1279351/free-geekgold-avatar">
+<div class="loginbox">
+<div>
+<input alt="Username" id="login_username" name="username" type="text">
+</input></div>
+<div>
+<input alt="Password" id="login_password" name="password" type="password">
+</input></div>
+<input type="submit" value="Sign in"><br>
+<a href="/register">Register</a>
+</br></input></div>
+</input></form>
+</div>
+</td>
+<td>
+<div id="header" style="width:550px; min-width:550px;">
+<div id="header_top">
+<div class="mainmenu">
+<ul class="mainmenutabs">
+<li class="js-tablist">
+<a class="selected" href="//boardgamegeek.com">
+<div class="fl">
+											Board Games
+									</div>
+<span><div class="arrow"><img class="icon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/></div></span>
+</a>
+<div class="dn">
+<div class="menutab-open" id="subdomain_links" style="width:370px;">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/recentadditions">Recent Additions</a></li>
+<li><a href="/wiki/page/Welcome_to_BoardGameGeek">Welcome</a></li>
+<li><a href="/wiki/page/Index">Wiki</a></li>
+</ul>
+<div class="clear"></div>
+<div class="submenu_header">Subdomains</div>
+<ul>
+<li><a href="/all">All</a></li>
+<li><a href="/abstracts">Abstract Games</a></li>
+<li><a href="/cgs">Customizable Games</a></li>
+<li><a href="/childrensgames">Children's Games</a></li>
+<li><a href="/familygames">Family Games</a></li>
+<li><a href="/partygames">Party Games</a></li>
+<li><a href="/strategygames">Strategy Games</a></li>
+<li><a href="/thematic">Thematic Games</a></li>
+<li><a href="/wargames">Wargames</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="js-tablist">
+<a href="//rpggeek.com/">
+<div class="fl">
+					RPGs
+				</div>
+</a>
+</li>
+<li class="js-tablist">
+<a href="//videogamegeek.com/">
+<div class="fl">
+											Video Games
+									</div>
+</a>
+</li>
+<li class="js-tablist" id="bggcon_label">
+<a href="/bggcon"><div class="fl"><span style="border: solid 1px orange; background:orange; border-radius:10px; padding:3px; color:blue;">Events</span></div></a>
+</li>
+<li class="js-tablist" id="logout_label">
+<a href="javascript://" id="geek-login">
+<div class="fl">
+					Login
+				</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="searchmenu" style="background-color:#1d265c;">
+<ul class="searchmenutabs">
+<li>
+<form action="/geeksearch.php" method="get">
+				SEARCH
+				<input id="action" name="action" type="hidden" value="search">
+<select name="objecttype" onchange="$('sitesearch').focus();">
+<option value="boardgame">Board Game</option>
+<option value="boardgameartist">Artists</option>
+<option value="boardgamedesigner">Designers</option>
+<option value="boardgamepublisher">Publishers</option>
+<option value="boardgameaccessory">Accessories</option>
+<option value="boardgamefamily">Families</option>
+<option value="article">Forums</option>
+<option value="geeklist">GeekLists</option>
+<option value="boardgamehonor">Honors</option>
+<option value="tag">Tags</option>
+<option value="wiki">Wiki</option>
+<option value="user">Users</option>
+<option value="boardgamepodcast">Podcast</option>
+<option value="boardgamepodcastepisode">Podcast Ep.</option>
+<option value="boardgameaccessory">Accessory</option>
+</select>
+<input autocapitalize="off" autocorrect="off" id="sitesearch" name="q" size="32" type="text">
+<input name="B1" type="submit" value="Go">
+</input></input></input></form>
+</li>
+<li>
+<a href="/advsearch/boardgame">Adv. Search</a>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menucontainer" style="background-color:#1d265c;">
+<ul class="submenutabs">
+<li class="js-tablist">
+<a href="#"><div class="fl">Browse</div><span><div class="arrow"><img class="icon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/></div></span></a>
+<div class="dn">
+<div class="menutab-open" id="browse_links" style="width:370px;">
+<div class="submenu_header">
+					Database 
+									</div>
+<ul>
+<li><a href="/browse/boardgame">Games (75193)</a></li> <li><a href="/browse/boardgamefamily">Families (2131)</a></li> <li><a href="/browse/boardgamecategory">Categories (84)</a></li> <li><a href="/browse/boardgamemechanic">Mechanics (51)</a></li> <li><a href="/browse/boardgameartist">Artists (11982)</a></li> <li><a href="/browse/boardgamedesigner">Designers (20910)</a></li> <li><a href="/browse/boardgamepublisher">Publishers (14997)</a></li> <li><a href="/browse/boardgameaccessory">Accessories (698)</a></li> <li><a href="/browse/boardgamehonor">Honors (2634)</a></li> <li><a href="/boardgame/random">Random Game</a></li>
+<li><a href="/gonecardboard">Gone Cardboard</a></li>
+</ul>
+<div class="clear"></div>
+<div class="submenu_header">User Submitted Content</div>
+<ul>
+<li><a href="/files/boardgame/all">Files </a></li>
+<li><a href="/images/boardgame/all?sort=recent">Images</a></li>
+<li><a href="/thread/browse/boardgame/0?sort=recent&amp;forumname=reviews">Reviews </a></li>
+<li><a href="/thread/browse/boardgame/0?sort=recent&amp;forumname=sessions">Session Reports </a></li>
+<li><a href="/videos/boardgame/all">Videos</a></li>
+<li><a href="/blogs">Blogs</a></li>
+</ul>
+<div class="clear"></div>
+<div class="submenu_header">Podcasts</div>
+<ul>
+<li><a href="/browse/boardgamepodcast">Podcasts </a></li>
+<li><a href="/browse/boardgamepodcastepisode">Podcast Episodes </a></li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</li>
+<li class="js-tablist">
+<a href="/forums/region/1/boardgamegeek"><div class="fl">Forums</div><span><div class="arrow"><img class="icon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/></div></span></a>
+<div class="dn">
+<div class="menutab-open" style="width:250px;">
+<ul>
+<li><a href="/forums/region/1/boardgamegeek">Forums</a></li>
+<li><a href="/thread/browse/region/1?sort=hot&amp;days=2">Hot</a></li>
+<li><a href="/thread/browse/region/1?sort=recent">Recent</a></li>
+<li><a href="/thread/browse/region/1?sort=active">Active</a></li>
+<li><a href="/forum/search/region/1">Search</a></li>
+<li><a href="/article/create/region/1">Post Thread</a></li>
+<li><a href="/wiki/page/Admins">Moderators</a></li>
+<li><a href="/thread/bookmarks">Bookmarks</a></li>
+<li><a href="/thread/subscriptions">Subscriptions</a></li>
+<li><a href="/community_rules">Rules</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="js-tablist">
+<a href="#"><div class="fl">GeekLists</div><span><div class="arrow"><img class="icon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/></div></span></a>
+<div class="dn">
+<div class="menutab-open" style="width:150px;">
+<ul>
+<li><a href="/geeklist/lists?sortby=hot&amp;interval=twodays">Hot</a></li>
+<li><a href="/geeklist/lists?sortby=date">Recent</a></li>
+<li><a href="/geeklist/lists?sortby=active">Active</a></li>
+<li><a href="/geeklist/favorites">Favorites</a></li>
+<li><a href="/geeklist/mylists">My GeekLists</a></li>
+<li><a href="/geeklist/new">Create New GeekList</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="js-tablist">
+<a href="#"><div class="fl">Bazaar</div><span><div class="arrow"><img class="icon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/></div></span></a>
+<div class="dn">
+<div class="menutab-open" style="width:150px;">
+<ul>
+<li><a href="/geekmarket">Geek Market</a></li>
+<li><a href="/geekauction.php3">Auctions</a></li>
+<li><a href="/trade">Trades</a></li>
+<li><a href="http://boardgamegeekstore.com">Geek Store</a></li>
+</ul>
+<div class="clear"></div>
+<div class="submenu_header">eBay</div>
+<ul>
+<li><a href="/geekbay/browse?sort=hot">Hot</a></li>
+<li><a href="/geekbay/browse?sort=endtime">Ending</a></li>
+<li><a href="/geekbay/browse?sort=recent">Recently Added</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="js-tablist">
+<a href="#"><div class="fl">Misc</div><span><div class="arrow"><img class="icon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/></div></span></a>
+<div class="dn">
+<div class="menutab-open" style="width:250px;">
+<ul>
+<li><a href="/guild/home">Guilds</a></li>
+<li><a href="/geekmod">GeekMod</a></li>
+<li><a href="/geekchat">GeekChat</a></li>
+<li><a href="/geekquestions">GeekQuestions</a></li>
+<li><a href="/stats.php">Stats</a></li>
+<li><a href="/users.php">Find Users</a></li>
+<li><a href="/recentadditions">RSS</a></li>
+<li><a href="/tags/cloud">Tag Cloud</a></li>
+<li><a href="/users?showavatar=1">Avatars</a></li>
+<li><a href="/forum/88/boardgamegeek/bgg-bugs">Bugs</a></li>
+<li><a href="/microbadges">Microbadges</a></li>
+<li><a href="/geekads/manager">Ad Manager</a></li>
+<li><a href="/geekexchange/browse">GeekExchange</a></li>
+<li><a href="/collection/current">GeekCurrent</a></li>
+</ul>
+<div class="clear"></div>
+<div class="submenu_header">Add to Database</div>
+<ul>
+<li><a href="/item/create/boardgame">Board Game</a></li>
+<li><a href="/item/create/boardgameaccessory">Accessory</a></li>
+<li><a href="/item/create/boardgameperson">Person</a></li>
+<li><a href="/item/create/boardgamepublisher">Publisher</a></li>
+<li><a href="/item/create/boardgamefamily">Family</a></li>
+<li><a href="/item/create/boardgamepodcast">Podcast</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="js-tablist">
+<a href="#"><div class="fl">Help</div><span><div class="arrow"><img class="icon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/></div></span></a>
+<div class="dn">
+<div class="menutab-open" style="width:125px;">
+<ul>
+<li><a href="/wiki/page/BoardGameGeek_FAQ">FAQ</a></li>
+<li><a href="/wiki/page/Guide_To_BoardGameGeek">Guide To BGG</a></li>
+<li><a href="/wiki/page/Glossary">Glossary</a></li>
+<li><a href="/wiki/page/Admins">Admins</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="clear-both"></div>
+</div>
+</td>
+<td width="100%">
+<div class="menu_noquickbar_top"></div>
+<div class="menu_noquickbar_bottom"></div>
+</td>
+</tr>
+</table>
+<table width="100%">
+<tr>
+<td valign="top" width="120"><div class="mb10" id="dfp-button"></div><div class="mb10" id="dfp-giftguide"></div><div id="simpleCarousel">
+<div class="bggstore_widget_controls">
+<div class="fl"><a href="javascript://" onclick="car.prev();">« Prev</a></div>
+<div class="fr"><a href="javascript://" onclick="car.next();">Next »</a></div>
+<div class="clear"></div>
+</div>
+<center>
+<div class="bggstore_widget_element">
+<a href="http://boardgamegeekstore.com" target="_blank"><img src="//cf.geekdo-static.com/images/bggstorewidgettitle.png"/></a>
+</div>
+</center>
+<div class="bggstore_slides">
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/friedemann-frieses-folders" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Falter-cover_1-US_small.jpg?v=1385961195"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/friedemann-frieses-folders" target="_blank">Friedemann Friese's Folders</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$15.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/hyperborea-promo-set" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Hyperborea_small.jpg?v=1421783434"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/hyperborea-promo-set" target="_blank">Hyperborea: Promo Set</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/ca-h-n-guns-second-edition-the-blackmailer" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2247748_md_small.png?v=1421700678"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/ca-h-n-guns-second-edition-the-blackmailer" target="_blank">Ca$h 'n Guns (second edition): The Blackmailer</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$2.50</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/mascarade-the-damned-usurper" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/mascarade_small.jpg?v=1421702613"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/mascarade-the-damned-usurper" target="_blank">Mascarade: The Damned &amp; Usurper</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/among-the-stars-wiss" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic1892414_md_small.jpg?v=1397542679"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/among-the-stars-wiss" target="_blank">Among the Stars: Wiss</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/village-customer-expansion-2" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/villager2_small.jpg?v=1416933048"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/village-customer-expansion-2" target="_blank">Village: Customer Expansion 2</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/seasons-crystal-titan-promo" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Seasons-Crystal_Titan_small.jpeg?v=1421785105"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/seasons-crystal-titan-promo" target="_blank">Seasons: Crystal Titan</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$2.50</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/seasons-orb-of-ragfield" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Seasons-Orb_of_Ragfield_small.jpeg?v=1421785532"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/seasons-orb-of-ragfield" target="_blank">Seasons: Orb of Ragfield</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$2.50</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/lords-of-xidit-bonus-titans-promo" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/titans_small.jpg?v=1421784746"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/lords-of-xidit-bonus-titans-promo" target="_blank">Lords of Xidit: Bonus Titans Promo</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/city-of-horror-lawn-mower" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic1451087_small.jpg?v=1421701314"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/city-of-horror-lawn-mower" target="_blank">City of Horror: Lawn Mower</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$2.50</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/tiny-epic-kingdoms-kickstarter-deluxe-content" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/TEK_small.jpg?v=1415389944"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/tiny-epic-kingdoms-kickstarter-deluxe-content" target="_blank">Tiny Epic Kingdoms: Kickstarter Deluxe Content</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$8.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/spurs-a-tale-in-the-old-west-pioneer-promo" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Spurs_-_Pioneer_small.jpeg?v=1421095361"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/spurs-a-tale-in-the-old-west-pioneer-promo" target="_blank">Spurs: A Tale in the Old West – Pioneer Promo</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/dungeon-bazar-merchant-tile" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2336122_md_small.jpg?v=1418154619"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/dungeon-bazar-merchant-tile" target="_blank">Dungeon Bazar: Merchant Tile</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/7-wonders-leaders-wil" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic1975896_md_small.jpg?v=1421700532"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/7-wonders-leaders-wil" target="_blank">7 Wonders: Leaders – Wil</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$2.50</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/polis-fight-for-the-hegemony-promotional-events" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2325531_small.jpg?v=1420662012"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/polis-fight-for-the-hegemony-promotional-events" target="_blank">Polis: Fight for the Hegemony – Promotional Events</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/bim-bum-bam" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2169479_small.jpg?v=1416934203"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/bim-bum-bam" target="_blank">Bim Bum Bam</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$8.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/heroes-wanted-gamer-promo-card" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2227391_md_small.png?v=1420662358"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/heroes-wanted-gamer-promo-card" target="_blank">Heroes Wanted: Gamer Promo Card</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$2.50</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/clash-of-cultures-civilizations-aztecs" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Clash_of_Cultures_small.jpg?v=1421096273"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/clash-of-cultures-civilizations-aztecs" target="_blank">Clash of Cultures: Civilizations – Aztecs</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/krosmaster-arena-yugo-promo-figure" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic1724681_md_small.jpg?v=1394912290"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/krosmaster-arena-yugo-promo-figure" target="_blank">Krosmaster: Arena - Yugo Promo Figure</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$10.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/the-next-great-american-game-dvd" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/One_Man_s_Quest_small.jpeg?v=1421097166"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/the-next-great-american-game-dvd" target="_blank">The Next Great American Game DVD</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$19.95</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/tuscany-expand-the-world-of-viticulture-replacement-stickers" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Tuscany_-_replacement_stickers_small.jpeg?v=1421096582"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/tuscany-expand-the-world-of-viticulture-replacement-stickers" target="_blank">Tuscany: Expand the World of Viticulture - Replacement Stickers</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$1.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/canopy-walk-goodie-set-ii" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2248038_md_small.jpg?v=1420662895"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/canopy-walk-goodie-set-ii" target="_blank">Canopy Walk: Goodie Set II</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/epic-resort-brewmaster" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2342223_md_small.png?v=1420661320"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/epic-resort-brewmaster" target="_blank">Epic Resort: Brewmaster</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/samurai-spirit-the-8th-boss" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2250684_md_small.jpg?v=1416938065"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/samurai-spirit-the-8th-boss" target="_blank">Samurai Spirit: The 8th Boss</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$2.50</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/counter-magazine-issue-67-january-2015" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Counter_Online_-_Issue_67-1_small.jpg?v=1421180281"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/counter-magazine-issue-67-january-2015" target="_blank">Counter Magazine Issue #67 - January 2015</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/ars-victor-first-wave-promo" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Ars_Victor_small.jpg?v=1421094945"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/ars-victor-first-wave-promo" target="_blank">Ars Victor: First Wave Promo</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/seasons-air-elemental" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Seasons-Air_Elemental_small.jpeg?v=1421786220"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/seasons-air-elemental" target="_blank">Seasons: Air Elemental</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$2.50</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/terra-mystica-bonus-card-shipping-value" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic1843355_md_small.jpg?v=1416933998"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/terra-mystica-bonus-card-shipping-value" target="_blank">Terra Mystica: Bonus Card Shipping Value</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/alien-uprising-scenario-promos" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/chad_small.jpg?v=1415388438"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/alien-uprising-scenario-promos" target="_blank">Alien Uprising: Scenario Promos</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/terror-in-meeple-city-rampage-the-space-cowboys" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic1821821_md_small.jpg?v=1421702901"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/terror-in-meeple-city-rampage-the-space-cowboys" target="_blank">Terror in Meeple City (Rampage): The Space Cowboys</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/lewis-clark-designer-promo-cards" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/lewisandclark_small.jpg?v=1421702108"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/lewis-clark-designer-promo-cards" target="_blank">Lewis &amp; Clark: Designer Promo Cards</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/the-walled-city-borderlands-mini-expansion" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2309487_md_small.png?v=1420661639"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/the-walled-city-borderlands-mini-expansion" target="_blank">The Walled City: Borderlands Mini-Expansion</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/heroes-wanted-kickstarter-promo-pack" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2309564_small.jpg?v=1420662247"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/heroes-wanted-kickstarter-promo-pack" target="_blank">Heroes Wanted: Kickstarter Promo Pack</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$7.50</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/village-customer-expansion" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic1308633_small.jpg?v=1416932842"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/village-customer-expansion" target="_blank">Village: Customer Expansion</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/among-the-stars-hythian" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Among_the_Stars__516c3222d10bc_small.jpeg?v=1370736245"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/among-the-stars-hythian" target="_blank">Among the Stars: Hythian</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/epic-resort-dungeon-master" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2342224_md_small.png?v=1420661438"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/epic-resort-dungeon-master" target="_blank">Epic Resort: Dungeon Master</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/three-kingdoms-redux" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic1981282_md_small.jpg?v=1421703504"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/three-kingdoms-redux" target="_blank">Three Kingdoms Redux</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$68.00</div>
+</center>
+</div>
+<div class="bggstore_widget_slide">
+<center>
+<div class="bggstore_widget_element"><a href="http://boardgamegeekstore.com/products/terror-in-meeple-city-rampage-meeple-stickers" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic1862040_lg_small.jpg?v=1421703138"/></a></div>
+<div class="bggstore_widget_element bggstore_widget_title"><a href="http://boardgamegeekstore.com/products/terror-in-meeple-city-rampage-meeple-stickers" target="_blank">Terror in Meeple City (Rampage): Meeple Stickers</a></div>
+<div class="bggstore_widget_element bggstore_widget_price">$5.00</div>
+</center>
+</div>
+</div>
+</div>
+<div class="status" id="status_hotitems"></div><div id="results_hotitems">
+<table class="moduletable hotitems" width="118px">
+<tr>
+<th>The Hotness</th>
+</tr>
+<tr>
+<td align="center" class="hotitems_header">
+<a class="selected" href="javascript://" onclick="MOD_Module_HotItems( {objecttype: 'thing',instanceid: 'hotitems'} );">Games</a><span class="bigpipe">|</span><a href="javascript://" onclick="MOD_Module_HotItems( {objecttype: 'person',instanceid: 'hotitems'} );">People</a><span class="bigpipe">|</span><a href="javascript://" onclick="MOD_Module_HotItems( {objecttype: 'company',instanceid: 'hotitems'																		} );">Company</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class="innermoduletable">
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/172818/above-and-below">Above and Below</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/140135/small-world-designer-edition">Small World Designer Edition</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/163602/xcom-board-game">XCOM: The Board Game</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/164153/star-wars-imperial-assault">Star Wars: Imperial Assault</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/160010/conan">Conan</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/150376/dead-winter-crossroads-game">Dead of Winter: A Crossroads Game</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/157969/sheriff-nottingham">Sheriff of Nottingham</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/139976/cthulhu-wars">Cthulhu Wars</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/111417/great-heartland-hauling-co">The Great Heartland Hauling Co.</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/155708/tiny-epic-defenders">Tiny Epic Defenders</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/132531/roll-galaxy">Roll for the Galaxy</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/172220/dungeons-dragons-temple-elemental-evil-board-game">Dungeons &amp; Dragons: Temple of Elemental Evil Board Game</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/124742/android-netrunner">Android: Netrunner</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/146791/shadows-brimstone-city-ancients">Shadows of Brimstone: City of the Ancients</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/120677/terra-mystica">Terra Mystica</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/96848/mage-knight-board-game">Mage Knight Board Game</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/161970/alchemists">Alchemists</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/121921/robinson-crusoe-adventure-cursed-island">Robinson Crusoe: Adventure on the Cursed Island</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/103885/star-wars-x-wing-miniatures-game">Star Wars: X-Wing Miniatures Game</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/12333/twilight-struggle">Twilight Struggle</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/146021/eldritch-horror">Eldritch Horror</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/147020/star-realms">Star Realms</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/143884/machi-koro">Machi Koro</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/154203/imperial-settlers">Imperial Settlers</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/43365/kansas-pacific">Kansas Pacific</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/148228/splendor">Splendor</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/77423/lord-rings-card-game">The Lord of the Rings: The Card Game</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/102794/caverna-cave-farmers">Caverna: The Cave Farmers</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/104162/descent-journeys-dark-second-edition">Descent: Journeys in the Dark (Second Edition)</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/163967/tiny-epic-galaxies">Tiny Epic Galaxies</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/157354/five-tribes">Five Tribes</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/113997/mysterium">Mysterium</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/166384/spyfall">Spyfall</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/152470/fief-france-1429">Fief: France 1429</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/159508/aquasphere">AquaSphere</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/163068/trickerion-legends-illusion">Trickerion: Legends of Illusion</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/68448/7-wonders">7 Wonders</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/155426/castles-mad-king-ludwig">Castles of Mad King Ludwig</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/162082/deus">Deus</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/146652/legendary-encounters-alien-deck-building-game">Legendary Encounters: An Alien Deck Building Game</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/140101/fantasy-frontier">Fantasy Frontier</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/155068/arcadia-quest">Arcadia Quest</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/145659/scoville">Scoville</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/39463/cosmic-encounter">Cosmic Encounter</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/31260/agricola">Agricola</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/72125/eclipse">Eclipse</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/129437/legendary-marvel-deck-building-game">Legendary: A Marvel Deck Building Game</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/155969/harbour">Harbour</a>
+</td>
+</tr>
+<tr bgcolor="#E5E5E5">
+<td>
+<a href="/boardgame/82222/xia-legends-drift-system">Xia: Legends of a Drift System</a>
+</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td>
+<a href="/boardgame/84876/castles-burgundy">The Castles of Burgundy</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div></td>
+<td style="padding-left:10px;" valign="top">
+<table width="100%">
+<tr>
+<td valign="top">
+<div id="main_content">
+<center>
+<div id="dfp-leaderboard" style="margin-bottom:10px;">
+
+</div>
+</center>
+<div class="header">
+<ul class="commands">
+<li><a href="/community_rules">Rules</a></li>
+<li class="divider"> </li>
+<li><a href="/subscriptions">Subscriptions</a></li>
+<li class="divider"> </li>
+<li><a href="/thread/bookmarks">Bookmarks</a></li>
+<li class="divider"> </li>
+<li><a href="/forum/search/region/1">Search</a></li>
+<li class="divider"> </li>
+<li><a href="/geekaccount.php?action=editaccount">Account</a></li>
+<li class="divider"> </li>
+<li><a href="/wiki/page/Admins">Moderators</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="header">
+<div class="center">
+<div class="left"><div class="recommend_block" id="recommendstatus_thread1279351">
+<div class="recommendbox_str">Recommend</div>
+<dl class="recommend">
+<dt class="recsbig"><a href="/login">2</a> </dt>
+<dd class="thumbdd"><a href="/login"> <img alt="Thumb up" class="icon " src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" title="Thumb up"/></a></dd>
+</dl>
+<dl class="recommend">
+<dt class="thumbsdown"></dt>
+<dd><a href="/login" onmouseout="return nd();" onmouseover="return overlib('Flag this thread', WRAP);"> <img alt="Hide" class="icon i_redsquarex" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title="Hide"/></a></dd>
+</dl>
+<div class="clear"></div>
+<div id="wrongforumstatus" style="font-size: 9px"></div></div>
+<div id="recsure_thread1279351" style="position:absolute;  z-index:2000;"></div></div>
+<div class="right">3 Posts</div>
+<div class="right"><div class="pager"></div></div>
+<h2><a href="/region/1">BoardGameGeek</a>» <a href="/forums/region/1/">Forums</a>			» <a href="/forum/1154019/boardgamegeek/boardgamegeek-community">BoardGameGeek Community</a> 			» <a href="/forum/1154020/boardgamegeek/boardgamegeek-community">BoardGameGeek Community</a> </h2>
+<h2>Subject: <a href="/thread/1279351/free-geekgold-avatar">FREE GEEKGOLD FOR AN AVATAR!!!</a> <a href="/rss/thread/1279351"><img alt="rss" class="icon i_silk_feed" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title=""/></a></h2>
+<div class="listcontainer">
+<ul class="commands">
+<li><a href="/article/create/region/1/262">New Thread</a></li>
+<li class="divider"> </li>
+<li><a href="/thread/printerfriendly/1279351">Printer Friendly</a></li>
+<li class="divider"> </li>
+<li>
+<span id="GSUB_results_thread_1279351_0_54d94521978ca">
+<a href="javascript://" onclick="GSUB_Subscribe( {objecttype:		'thread',objectid:		'1279351',exclude:			'0',parentex:		'',uniqid:			'54d94521978ca',subaction:		'subscribe',icon:				'',nopulldown:		''} );">Subscribe</a> <span class="geeksub_pulldown_arrow"><a href="javascript://" onclick="GSUB_Pulldown( {
+										objecttype:		'thread',
+										objectid:		'1279351',
+										showall:			'',
+										exclude:			'0',
+										label:			'',
+										uniqid:			'54d94521978ca'
+									 } );"><img alt="sub options" class="icon vam i_avatarmenu js-icon-mouseover" data-iconclass="i_avatarmenu" data-iconmouseoverclass="i_avatarmenu_over" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title=""/></a>
+</span>
+<span style="position:relative;">
+<span class="geeksub_pulldown" id="GSUB_pulldown_thread_1279351_54d94521978ca"></span>
+</span>
+</span>
+<span id="GSUB_status_thread_1279351_0_54d94521978ca"></span>
+</li>
+<li class="divider"> </li>
+<li>
+<a href="/thread/updatesub/bookmark/1279351/1">Bookmark</a>
+</li>
+<li class="divider"> </li>
+<li>
+<a href="javascript://" onclick="ShowParentRolls( { parent_objecttype: 'thread', parent_objectid:1279351 });">Thread Rolls</a>
+<div class="threadrolllog dn" id="thread_log_1279351"></div>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+<div id="tagstatus_0" style="position:absolute; margin: 2px 0 0 2px;  background-color:red; color:white;"></div>
+<table class="sf">
+<tr>
+<td align="right" class="sf">Your Tags:</td>
+<td class="sf">
+<a href="javascript://" onclick="GT_AddTag( 0 )">Add tags</a>
+<span id="yourtags_0">
+</span>
+<div id="tagentry_0" style="display:none;">
+<form id="tagform_0" onsubmit="GT_SaveTags( {
+													objecttype: 'thread',
+													objectid:	'1279351',
+													tagtype:		'user',
+													itemid:		'0'
+													} );
+													return false;" style="margin:1em;">
+				Tags (separate by space): <input autocomplete="OFF" class="sf" id="newtags_0" name="newtags" type="text">
+<input class="sf" type="submit" value="Add">
+<input class="sf" onclick="GT_CancelAddTag( 0 );" type="button" value="Cancel">
+</input></input></input></form>
+<div id="suggestions_0"></div>
+</div>
+</td>
+</tr>
+<tr>
+<td align="right">Popular Tags:</td>
+<td>
+<span id="poptags_0">
+</span> [<a href="/tags/thread/1279351/free-geekgold-avatar">View All</a>]</td>
+</tr>
+</table>
+</div>
+<div class="clear"></div>
+</div>
+<a name="17632858"></a>
+<div class="js-rollable article " data-objectid="17632858" data-objecttype="article" data-parent_objectid="1279351" data-parent_objecttype="thread" id="objcontainer_article17632858">
+<dl id="body_article17632858">
+<dd class="left"><div class="avatarblock js-avatar divcenter" data-urlusername="jtspecial" data-userid="55723" data-username="jtspecial">
+<div>THE JTSPECIAL-OID </div>
+<div class="username">(<a href="/user/jtspecial">jtspecial</a>)</div>
+<div class="location js-location">Denmark<br>Aarhus<br>Unwashed and somewhat slightly dazed...</br></br></div>
+<div>
+<table align="center">
+<tr>
+<td>
+<a class="js-avatar-flag" href="/users?country=Denmark"><img alt="flag" class="icon vam i_flag_denmark" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title=""/></a>
+</td>
+<td><a href="/geekmail/compose?touser=jtspecial"><img alt="msg" class="icon i_silk_email" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title=""/></a></td>
+<td><a class="js-showavatarmenu" href="javascript://"><img alt="tools" class="icon i_avatarmenu js-icon-mouseover" data-iconclass="i_avatarmenu" data-iconmouseoverclass="i_avatarmenu_over" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title=""/></a>
+</td>
+</tr>
+</table>
+<span class="js-avatarmenu" style="position:absolute; z-index:300;"></span>
+</div>
+<div>
+<a href="/user/jtspecial">
+<img alt="badge" class="supergeekbadge" data-overtexttype="badgeovertext" src="//cf.geekdo-static.com/tmpbadgeimage/badge_146d6312b96991f368475394d0f85b92.png" title="">
+</img></a>
+</div>
+<div><a href="/user/jtspecial">
+<img alt="Avatar" data-frz-src="//cf.geekdo-static.com/avatars/avatar_1153060841.jpg" data-overtexttype="avatarovertext" height="51" onerror="lzld(this)" onload="lzld(this)" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="64"/></a>
+</div>
+<div class="badgeyears">
+<a class="js_badgelink" href="/support" onmouseout="return nd();" onmouseover="GAV_ShowBadge( this ); return overlib( 'This user supports the website - Click for more info.', WRAP );">
+<span class="oddicon patron"></span><span class="oddicon year_07_band band" data-year="07"></span><span class="oddicon year_08_band band" data-year="08"></span><span class="oddicon year_09_band band" data-year="09"></span><span class="oddicon year_10_band band" data-year="10"></span><span class="oddicon year_11_band band" data-year="11"></span><span class="oddicon year_12_band band" data-year="12"></span><span class="oddicon year_13_band band" data-year="13"></span><span class="oddicon year_14_band band" data-year="14"></span><span class="oddicon year_15_num num last" data-year="15"></span> </a>
+</div>
+<div><a href="/microbadge/6127"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_6127_0.gif" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('Heroscape fan - General Jandar', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/6124"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_6124_0.gif" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('Heroscape fan - General Utgar', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/6125"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_6125_0.gif" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('Heroscape fan - General Ullar', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/6128"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_6128_0.gif" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('Heroscape fan - General Einar', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/6126"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_6126_0.gif" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('Heroscape fan - General Vydar', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a></div>
+</div></dd>
+<dd class="right">
+						Do you need GEEKGOLD for an Avatar, or do you have some to spare for a good cause?<br/>Follow the link, and all will be explained... <img alt="" border="0" src="//cf.geekdo-static.com/images/smile.gif"><br/><br/><a href="http://boardgamegeek.com/thread/1276800/league-extraordinary-heroscapers-christmas-charity" rel="nofollow" target="_blank">http://boardgamegeek.com/thread/1276800/league-extraordinary...</a><br/>
+</img></dd>
+</dl>
+<dl>
+<dd class="left"><div id="recommendstatus_article17632858">
+<dl class="recommend">
+<dt class="recs"><a href="/login">2</a> </dt>
+<dd class="thumbdd"><a href="/login"> <img alt="Thumb up" class="icon " src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" title="Thumb up"/></a></dd>
+<dt class="tippers"><a href="/login" style="color: #969600;"></a></dt>
+<dd><a href="/login"> <img alt="tip" class="icon i_coinsmall2" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title="GeekGold Tip"/></a></dd>
+<dt class="thumbsdown"></dt>
+<dd><a href="/login" onmouseout="return nd();" onmouseover="return overlib('Hide/Report this post', WRAP);"> <img alt="Hide" class="icon i_redsquarex" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title="Hide"/></a></dd>
+</dl>
+<div id="recsure_article17632858" style="position:absolute;  z-index:2000;"></div>
+</div></dd>
+<dd class="commands">
+<ul>
+<li id="objstatus_article17632858">
+</li>
+</ul>
+<ul class="information " id="controls_article17632858">
+<li><a href="/article/17632858#17632858"><img alt="" class="icon i_icon_minipost" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style=" height:9px;width:12px;" title=""/> Posted Wed Dec 3, 2014 8:30 pm</a></li>
+<li>
+<ul class="commands">
+<li class="js-addformroll" style="position: relative; display:inline; z-index:501;"></li>
+<li><a href="javascript://" onclick="QuickReply( 1279351, 17632858, 0 ); return false;">QuickReply</a></li>
+<li class="divider"> </li>
+<li><a href="javascript://" onclick="QuickReply( 1279351, 17632858, 1 ); return false;">QuickQuote</a></li>
+<li class="divider"> </li>
+<li><a href="/article/reply/17632858">Reply</a></li>
+<li class="divider"> </li>
+<li><a href="/article/quote/17632858">Quote</a></li>
+</ul>
+<div class="clear"></div>
+</li>
+</ul>
+<div class="clear"></div>
+</dd>
+</dl>
+<div class="clear"></div>
+<div id="quickreply_17632858"></div>
+<div class="rollsblock dn" id="rolls_wrapper_article_17632858">
+<ul class="horizontal_list title" onclick="cToggle('rollsblock_article_17632858');">
+<li class="title">[+] Dice rolls</li>
+</ul>
+<div class="dn" id="rollsblock_article_17632858">
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<a name="17646654"></a>
+<div class="js-rollable article " data-objectid="17646654" data-objecttype="article" data-parent_objectid="1279351" data-parent_objecttype="thread" id="objcontainer_article17646654">
+<dl id="body_article17646654">
+<dd class="left"><div class="avatarblock js-avatar divcenter" data-urlusername="freezenfire" data-userid="468487" data-username="FreezenFire">
+<div>Trevor Kindree</div>
+<div class="username">(<a href="/user/FreezenFire">FreezenFire</a>)</div>
+<div class="location js-location">Canada<br>Waterdown<br>Ontario</br></br></div>
+<div>
+<table align="center">
+<tr>
+<td>
+<a class="js-avatar-flag" href="/users?country=Canada"><img alt="flag" class="icon vam i_flag_canada" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title=""/></a>
+</td>
+<td><a href="/geekmail/compose?touser=FreezenFire"><img alt="msg" class="icon i_silk_email" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title=""/></a></td>
+<td><a class="js-showavatarmenu" href="javascript://"><img alt="tools" class="icon i_avatarmenu js-icon-mouseover" data-iconclass="i_avatarmenu" data-iconmouseoverclass="i_avatarmenu_over" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title=""/></a>
+</td>
+</tr>
+</table>
+<span class="js-avatarmenu" style="position:absolute; z-index:300;"></span>
+</div>
+<div>
+<a href="/user/FreezenFire">
+<img alt="badge" class="supergeekbadge" data-overtexttype="badgeovertext" src="//cf.geekdo-static.com/tmpbadgeimage/badge_01d5bb4bb89c5e0d4716a8835291dc23.png" title="">
+</img></a>
+</div>
+<div><a href="/user/FreezenFire">
+<img alt="Avatar" data-frz-src="//cf.geekdo-static.com/avatars/avatar_id33495.jpg" data-overtexttype="avatarovertext" height="64" onerror="lzld(this)" onload="lzld(this)" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="49"/></a>
+</div>
+<div class="badgeyears">
+<a class="js_badgelink" href="/support" onmouseout="return nd();" onmouseover="GAV_ShowBadge( this ); return overlib( 'This user supports the website - Click for more info.', WRAP );">
+<span class="oddicon patron"></span><span class="oddicon year_12_band band" data-year="12"></span><span class="oddicon year_13_band band" data-year="13"></span><span class="oddicon year_14_num num last" data-year="14"></span> </a>
+</div>
+<div><a href="/microbadge/2210"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_2210_0.gif" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('Parent of Two Girls', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/7686"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_7686_0.gif" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('Network Administrator', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/11708"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_11708_1.png" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('Native Canuck', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/13873"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_13873_1.png" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('Tim Hortons fan - Gimme my Timmies and no one gets hurt', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/25689"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_25689_0.png" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('Fan of the Secret Cabal podcast', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a></div>
+</div></dd>
+<dd class="right">
+						Hrmmmm... not reading the content, only the subject, leads me to commit to the following: <br/><br/><div><img border="0" onload="ImageResizer.resize(this);" src="/camo/ce4fe4a02ef7cbb60d45120a1ead0e9065d5346e/687474703a2f2f63696e656d61666c6169722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30382f697061642d6172742d776964652d415641544152322d34323078302e6a7067"/></div><br/><br/><div><img border="0" onload="ImageResizer.resize(this);" src="/camo/4e4b9dfe6523865a3339448241aa9581af9b04ca/687474703a2f2f74766d656469612e69676e2e636f6d2f74762f696d6167652f61727469636c652f3131302f313130323438362f6176617461722d7468652d6c6173742d61697262656e6465722d32303039303131323031353931313732325f36343077325f313237373736353837342e6a7067"/></div><br/><br/><div><img border="0" onload="ImageResizer.resize(this);" src="/camo/d28ae3629f39794a5f635506705c2faf6c019e5b/687474703a2f2f7777772e676f6f64686f7573656b656570696e672e636f6d2f636d2f676f6f64686f7573656b656570696e672f696d616765732f37372f67686b2d737461696e6275737465722d7461722d6d646e2e6a7067"/></div><br/>That last one might not be what you're looking for, but in case I'm reading the accent wrong... here, you can "'av-a-tar"<br/><br/><br/>..... .... .... my mom thinks I'm cool.
+		</dd>
+</dl>
+<dl>
+<dd class="left"><div id="recommendstatus_article17646654">
+<dl class="recommend">
+<dt class="recs"><a href="/login">3</a> </dt>
+<dd class="thumbdd"><a href="/login"> <img alt="Thumb up" class="icon " src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" title="Thumb up"/></a></dd>
+<dt class="tippers"><a href="/login" style="color: #969600;"></a></dt>
+<dd><a href="/login"> <img alt="tip" class="icon i_coinsmall2" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title="GeekGold Tip"/></a></dd>
+<dt class="thumbsdown"></dt>
+<dd><a href="/login" onmouseout="return nd();" onmouseover="return overlib('Hide/Report this post', WRAP);"> <img alt="Hide" class="icon i_redsquarex" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title="Hide"/></a></dd>
+</dl>
+<div id="recsure_article17646654" style="position:absolute;  z-index:2000;"></div>
+</div></dd>
+<dd class="commands">
+<ul>
+<li id="objstatus_article17646654">
+</li>
+</ul>
+<ul class="information " id="controls_article17646654">
+<li><a href="/article/17646654#17646654"><img alt="" class="icon i_icon_minipost" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style=" height:9px;width:12px;" title=""/> Posted Fri Dec 5, 2014 2:22 am</a></li>
+<li>
+<ul class="commands">
+<li class="js-addformroll" style="position: relative; display:inline; z-index:501;"></li>
+<li><a href="javascript://" onclick="QuickReply( 1279351, 17646654, 0 ); return false;">QuickReply</a></li>
+<li class="divider"> </li>
+<li><a href="javascript://" onclick="QuickReply( 1279351, 17646654, 1 ); return false;">QuickQuote</a></li>
+<li class="divider"> </li>
+<li><a href="/article/reply/17646654">Reply</a></li>
+<li class="divider"> </li>
+<li><a href="/article/quote/17646654">Quote</a></li>
+</ul>
+<div class="clear"></div>
+</li>
+</ul>
+<div class="clear"></div>
+</dd>
+</dl>
+<div class="clear"></div>
+<div id="quickreply_17646654"></div>
+<div class="rollsblock dn" id="rolls_wrapper_article_17646654">
+<ul class="horizontal_list title" onclick="cToggle('rollsblock_article_17646654');">
+<li class="title">[+] Dice rolls</li>
+</ul>
+<div class="dn" id="rollsblock_article_17646654">
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<a name="17675601"></a>
+<div class="js-rollable article " data-objectid="17675601" data-objecttype="article" data-parent_objectid="1279351" data-parent_objecttype="thread" id="objcontainer_article17675601">
+<dl id="body_article17675601">
+<dd class="left"><div class="avatarblock js-avatar divcenter" data-urlusername="xeen" data-userid="823496" data-username="XEEN">
+<div>Michael Black</div>
+<div class="username">(<a href="/user/XEEN">XEEN</a>)</div>
+<div class="location js-location"></div>
+<div>
+<table align="center">
+<tr>
+<td>
+</td>
+<td><a href="/geekmail/compose?touser=XEEN"><img alt="msg" class="icon i_silk_email" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title=""/></a></td>
+<td><a class="js-showavatarmenu" href="javascript://"><img alt="tools" class="icon i_avatarmenu js-icon-mouseover" data-iconclass="i_avatarmenu" data-iconmouseoverclass="i_avatarmenu_over" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title=""/></a>
+</td>
+</tr>
+</table>
+<span class="js-avatarmenu" style="position:absolute; z-index:300;"></span>
+</div>
+<div><a href="/user/XEEN">
+<img alt="Avatar" data-frz-src="//cf.geekdo-static.com/avatars/avatar_id63721.gif" data-overtexttype="avatarovertext" height="64" onerror="lzld(this)" onload="lzld(this)" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="64"/></a>
+</div>
+<div><a href="/microbadge/34282"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_34282_0.png" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('2015 &quot;100 games X 1 challenge&quot; participant', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/4362"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_4362_0.gif" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('PacMan fan', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/3287"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_3287_0.gif" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('Video Game Developer', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/21037"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_21037_0.png" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('DEATH RAY!', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a><a href="/microbadge/24769"><img alt="mb" class="mbimg" data-frz-src="//cf.geekdo-static.com/mbs/mb_24769_0.png" onerror="lzld(this)" onload="lzld(this)" onmouseout="return nd();" onmouseover="return overlib('my daughter destroys games in progress', WRAP );" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title=""/></a></div>
+</div></dd>
+<dd class="right">
+						I just noticed on IMDB.com they have entries for Avatar sequels "2", "3", and "4" with the last one scheduled for 2018.<br/><br/><img alt="gulp" src="//cf.geekdo-static.com/images/gulp.gif">
+</img></dd>
+</dl>
+<dl>
+<dd class="left"><div id="recommendstatus_article17675601">
+<dl class="recommend">
+<dt class="recs"><a href="/login">1</a> </dt>
+<dd class="thumbdd"><a href="/login"> <img alt="Thumb up" class="icon " src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" title="Thumb up"/></a></dd>
+<dt class="tippers"><a href="/login" style="color: #969600;"></a></dt>
+<dd><a href="/login"> <img alt="tip" class="icon i_coinsmall2" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title="GeekGold Tip"/></a></dd>
+<dt class="thumbsdown"></dt>
+<dd><a href="/login" onmouseout="return nd();" onmouseover="return overlib('Hide/Report this post', WRAP);"> <img alt="Hide" class="icon i_redsquarex" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title="Hide"/></a></dd>
+</dl>
+<div id="recsure_article17675601" style="position:absolute;  z-index:2000;"></div>
+</div></dd>
+<dd class="commands">
+<ul>
+<li id="objstatus_article17675601">
+</li>
+</ul>
+<ul class="information " id="controls_article17675601">
+<li>Last edited Mon Dec 8, 2014 8:27 pm (Total Number of Edits: 1)</li>
+<li><a href="/article/17675601#17675601"><img alt="" class="icon i_icon_minipost" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style=" height:9px;width:12px;" title=""/> Posted Mon Dec 8, 2014 8:27 pm</a></li>
+<li>
+<ul class="commands">
+<li class="js-addformroll" style="position: relative; display:inline; z-index:501;"></li>
+<li><a href="javascript://" onclick="QuickReply( 1279351, 17675601, 0 ); return false;">QuickReply</a></li>
+<li class="divider"> </li>
+<li><a href="javascript://" onclick="QuickReply( 1279351, 17675601, 1 ); return false;">QuickQuote</a></li>
+<li class="divider"> </li>
+<li><a href="/article/reply/17675601">Reply</a></li>
+<li class="divider"> </li>
+<li><a href="/article/quote/17675601">Quote</a></li>
+</ul>
+<div class="clear"></div>
+</li>
+</ul>
+<div class="clear"></div>
+</dd>
+</dl>
+<div class="clear"></div>
+<div id="quickreply_17675601"></div>
+<div class="rollsblock dn" id="rolls_wrapper_article_17675601">
+<ul class="horizontal_list title" onclick="cToggle('rollsblock_article_17675601');">
+<li class="title">[+] Dice rolls</li>
+</ul>
+<div class="dn" id="rollsblock_article_17675601">
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="pager"></div>
+</div>
+</td>
+<td style="padding-left:10px;" valign="top" width="160">
+<div id="dfp-skyscraper" style="position:relative;">
+
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<table align="center" style="margin-top:20px;" width="100%">
+<tr>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">
+<table>
+<tr>
+<td align="center" class="sf" colspan="3" valign="middle">
+<a href="/">Front Page</a>
+							| <a href="/wiki/page/Welcome_to_BoardGameGeek">Welcome</a>
+							| <a href="/contact">Contact</a>							
+							| <a href="/privacy">Privacy Policy</a>
+							| <a href="/terms">Terms of Service</a>							
+							| <a href="/geekads/buy">Advertise</a>
+							| <a href="/support">Support BGG</a>							
+							| <a href="/recentadditions">Feeds</a>
+<a href="/recentadditions"><img alt="RSS" class="icon i_silk_feed" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" style="" title=""/></a>
+<div class="smallerfont" style="margin-bottom:1em;">
+								Geekdo, BoardGameGeek, the Geekdo logo, and the BoardGameGeek logo are trademarks of BoardGameGeek, LLC.
+							</div>
+<div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<a href="/geekbay/block"></a>
+
+
+<!-- Quantcast Tag -->
+
+<noscript>
+<div style="display:none;">
+<img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-24_p-AKYmF5zs.gif" width="1"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<div id="geekextjs"></div>
+</body>
+</html>

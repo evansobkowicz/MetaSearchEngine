@@ -1,0 +1,292 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<title>The Sinking of the Titanic, 1912</title>
+<meta content="EyeWitness account of the sinking." name="description">
+<meta content="" name="keywords">
+
+<link href="css/article.css" rel="stylesheet" type="text/css">
+</link></meta></meta></head>
+<body bgcolor="#fdf6e6" link="#996633" onload="MM_preloadImages('images/menu11x.gif','images/menu2x.gif','images/menu14x.gif','images/menu8x.gif','images/menu9x.gif','images/menu1x.gif','images/menu4x.gif','images/menu3x.gif','images/menu5x.gif','images/menu6x.gif','images/menu13x.gif','images/menu12x.gif','images/menu10x.gif','images/menuhimx.gif','images/menu7x.gif','images/menu15x.gif','images.menu16x.gif')" vlink="#996633">
+<!-- start table top margin -->
+<table align="center" bgcolor="#D1D2B4" border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td align="left"><img alt="" border="0" src="images/boxtl4.gif"/></td>
+<td><img alt="" border="0" height="1" src="images/spacer.gif" width="1"/></td>
+<td align="right" valign="middle"><img alt="" border="0" src="images/boxtr4.gif"/></td>
+</tr></table>
+<!-- end table bottom margin -->
+<!-- start table middle -->
+<table bgcolor="#D1D2B4" border="0" cellpadding="5" cellspacing="0" width="100%"><tr><td align="left" valign="top"><a href="index.html"><img border="0" height="60" src="images/title6.jpg" width="360"/></a> </td>
+<td align="right" valign="top">
+<!-- Search Google -->
+<form action="http://www.google.com/custom" method="GET">
+<table bgcolor="#D1D2B4" border="0" cellpadding="0" cellspacing="0">
+<tr valign="top">
+<td>
+<input maxlength="255" name="q" size="15" type="text" value="">
+<input name="sa" type="submit" value="Search">
+<input name="domains" type="hidden" value="eyewitnesstohistory.com">
+<input checked="" name="sitesearch" type="hidden" value="eyewitnesstohistory.com">
+<input name="client" type="hidden" value="pub-5087200887836795">
+</input>
+<input name="forid" type="hidden" value="1">
+</input>
+<input name="ie" type="hidden" value="ISO-8859-1">
+</input>
+<input name="oe" type="hidden" value="ISO-8859-1">
+</input>
+<input name="cof" type="hidden" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1;">
+</input>
+<input name="hl" type="hidden" value="en">
+</input>
+</input></input></input></input></td>
+</tr>
+</table>
+</form>
+<!-- Search Google -->
+</td>
+</tr></table>
+<table bgcolor="#D1D2B4" border="0" cellpadding="0" cellspacing="2" width="100%"><tr><td valign="top">
+<div align="center">
+<!-- TribalFusion 728x90/468x60 VAR code -->
+
+
+<!-- TF 728x90/468x60 VAR code -->
+</div>
+</td></tr></table>
+<!-- end table middle -->
+<table bgcolor="#fffbea" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top"><img height="1" src="images/spacer.gif" width"1"=""/></td></tr></table>
+<table bgcolor="#e6dfc8" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td height="22" valign="bottom">
+<div align="center"><a href="awfrm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ancientworld','','images/menu11x.gif',1)"><img alt="Alexander defeats the Persians, Destruction of Pompeii" border="0" height="21" name="ancientworld" src="images/menu11.gif" width="89"/></a><a href="mefrm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('middleages','','images/menu2x.gif',1)"><img alt="The Crusades, The Black Death..." border="0" height="21" name="middleages" src="images/menu2.gif" width="152"/></a><a href="17frm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('17thcentury','','images/menu14x.gif',1)"><img alt="Salem Witch Trials" border="0" height="21" name="17thcentury" src="images/menu14.gif" width="81"/></a><a href="18frm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('18century','','images/menu8x.gif',1)"><img alt="Writing the Declaration of Independence, Battle of Lexington..." border="0" height="21" name="18century" src="images/menu8.gif" width="83"/></a><a href="19frm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('19century','','images/menu9x.gif',1)"><img alt="Escape from slavery, Death of President Garfield.." border="0" height="21" name="19century" src="images/menu9.gif" width="81"/></a><a href="cwfrm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('civilwar','','images/menu1x.gif',1)"><img alt="Battle of Gettysburg, Death of Lincoln..." border="0" height="21" name="civilwar" src="images/menu1.gif" width="56"/></a><a href="owfrm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('oldwest','','images/menu4x.gif',1)"><img alt="Custer's Last Stand, The Death of Billy the Kid..." border="0" height="21" name="oldwest" src="images/menu4.gif" width="59"/></a><a href="20frm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('20century','','images/menu3x.gif',1)"><img alt="San Francisco Earthquake, Sinking of the Titanic..." border="0" height="21" name="20century" src="images/menu3.gif" width="81"/></a></div>
+</td></tr>
+<tr><td height="22" valign="bottom">
+<div align="center"><a href="w1frm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('worldwar1','','images/menu5x.gif',1)"><img alt="Death of an air ace, Gas attack..." border="0" height="21" name="worldwar1" src="images/menu5.gif" width="74"/></a><a href="w2frm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('worldwar2','','images/menu6x.gif',1)"><img alt="Attack at Pearl Harbor, D-Day..." border="0" height="21" name="worldwar2" src="images/menu6.gif" width="77"/></a><a href="photofrm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('photoweek','','images/menu13x.gif',1)"><img alt="Freeze Frame of History" border="0" height="21" name="photoweek" src="images/menu13.gif" width="111"/></a><a href="snpfrm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('snapshots','','images/menu12x.gif',1)"><img alt="Photographic Gateways to History" border="0" height="21" name="snapshots" src="images/menu12.gif" width="70"/></a><a href="vofrm.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('voices','','images/menu10x.gif',1)"><img alt="Sounds from the past" border="0" height="21" name="voices" src="images/menu10.gif" width="49"/></a><a href="himmenu.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('him','','images/menuhimx.gif',1)"><img alt="Film Clips from the Past" border="0" height="21" name="him" src="images/menuhim.gif" width="108"/></a><a href="eyindx.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('index','','images/menu7x.gif',1)"><img alt="List of Contents" border="0" height="21" name="index" src="images/menu7.gif" width="42"/></a><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','images/menu16x.gif',1)"><img alt="Return to Home Page" border="0" name="home" src="images/menu16.gif"/></a></div>
+</td></tr></table>
+<!-- Start sidefiller -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="121">
+<img align="left" border="0" height="17" hspace="0" hvspace="0" src="images/sidefiller.gif" width="121">
+</img></td>
+<td valign="top" width="100%"><table background="images/hpshadow2.gif" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><img border="0&lt;/td" height="4" src="images/hpshadow2.gif" width="2"/></td></tr></table>
+</td></tr></table>
+<!-- End sidefiller -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<!-- Start Menu Column -->
+<td bgcolor="#e6dfc8" valign="top" width="104">
+<table bgcolor="#e6dfc8" border="0" cellpadding="4" cellspacing="0" width="104"><tr><td valign="top">
+<table align="center" bgcolor="#D1D2B4" border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td align="left"><img alt="" border="0" src="images/box3tl4.gif"/></td>
+<td><img alt="" border="0" height="1" src="images/spacer.gif" width="1"/></td>
+<td align="right" valign="middle"><img alt="" border="0" src="images/box3tr4.gif"/></td>
+</tr></table>
+<table bgcolor="#D1D2B4" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top">
+<div align="center"><a href="20frm.htm"><font color="#000000" face="arial,helvetica,geneva" size="1">20th Century</font></a></div>
+</td></tr></table>
+<table bgcolor="#f0ecd0" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<div align="center">
+<br><span class="menu">
+<a href="boxer.htm">A Prisoner of the Boxer Rebellion, 1900</a><br><br>
+<a href="galveston.htm">The Galveston Hurricane of 1900</a><br><br>
+<a href="farmwife.htm">Farm Wife, 1900</a><br><br>
+<a href="vicdeath.htm">The Death of Queen Victoria, 1901</a><br><br>
+<a href="mckinley.htm">The Assassination of President William McKinley, 1901</a><br><br>
+<a href="trwhitehouse.htm">The Roosevelts Move Into the White House, 1901</a><br><br>
+<a href="rfd.htm">Riding a Rural Free Delivery Route, 1903</a><br><br>
+<a href="wright.htm">First Flight, 1903</a><br><br>
+<a href="gibson.htm">The Gibson Girl</a><br><br>
+<a href="auto.htm">Early Adventures With The Automobile</a><br><br>
+<a href="immigrating.htm">Immigrating to America, 1905</a><br><br>
+<a href="sfeq.htm">The<br>San Francisco Earthquake, 1906</br></a><br><br>
+<a href="ford.htm">Henry Ford Changes the World, 1908</a><br><br>
+<a href="rooseveltwalk.htm">A Walk with President Roosevelt, 1908</a><br><br>
+<a href="hnintro.htm">Children At Work, 1908-1912</a><br><br>
+<a href="tr.htm">On Safari, 1909</a><br><br>
+<a href="hart.htm">Birth of the Hollywood Cowboy, 1911</a><br><br>
+<a href="scott.htm">Doomed Expedition to the South Pole, 1912</a><br><br>
+<a href="titanic.htm">Sinking of the Titanic, 1912</a><br><br>
+<a href="quimby.htm">1st Woman to Fly the English Channel, 1912</a><br><br>
+<a href="armenianmassacre.htm">The Massacre of the Armenians, 1915</a><br><br>
+<a href="bolshevik.htm">The Bolsheviks Storm the Winter Palace, 1917</a><br><br>
+<a href="nicholas.htm">The Execution of Tsar Nicholas II, 1918</a><br><br>
+<a href="wilsonstroke.htm">President Wilson Suffers a Stroke, 1919</a><br><br>
+<a href="gish.htm">Making Movies, 1920</a><br><br>
+<a href="tut.htm">Entering<br>King Tut's Tomb, 1922</br></a><br><br>
+<a href="coolidge.htm">Coolidge Becomes President, 1923</a><br><br>
+<a href="putsch.htm">Adolf Hitler Attempts a Coup, 1923</a><br><br>
+<a href="ac.htm">Air Conditioning Goes to the Movies, 1925</a><br><br>
+<a href="prohibition.htm">Prohibition, 1927</a><br><br>
+<a href="lindbergh.htm">Lindbergh Flies the Atlantic, 1927</a><br><br>
+<a href="baberuth.htm">Babe Ruth Hits His 60th Home Run, 1927</a><br><br>
+<a href="crash.htm">The Wall Street Crash, 1929</a><br><br>
+<a href="bonusarmy.htm">The Bonus Army Invades Washington, D.C., 1932</a><br><br>
+<a href="reichstagfire.htm">The Reichstag Fire, 1933</a><br><br>
+<a href="bonnieandclyde.htm">Shoot-out with Bonnie and Clyde, 1933</a><br><br>
+<a href="migrantmother.htm">Migrant Mother, 1936</a><br><br>
+<a href="guernica.htm">The Bombing of Guernica, 1937</a><br><br>
+<a href="nanking.htm">The Rape of Nanking, 1937</a><br><br>
+<a href="windsor.htm">Dining with the King and Queen of England, 1938</a><br><br>
+<a href="cbpintro.htm">Images Of War 1918-1971</a><br><br>
+<a href="fdrdeath.htm">The Death of President Franklin Roosevelt, 1945</a><br><br>
+<a href="tru.htm">Thoughts Of A President, 1945</a><br><br>
+<a href="robinson.htm">Jackie Robinson Breaks Baseball's Color Barrier, 1945</a><br><br>
+<a href="gandhi.htm">The Assassination of Gandhi, 1948</a><br><br>
+<a href="spytunnel.htm">The Russians Discover a Spy Tunnel in Berlin, 1956</a><br><br>
+<a href="hungarianrevolution.htm">The Hungarian Revolution, 1956</a><br><br>
+<a href="jfk.htm">The Assassination of President John F. Kennedy, 1963</a><br><br>
+<a href="apollo8.htm">First Voyage to the Moon, 1968</a><br><br>
+<a href="nixonelvis.htm">President Nixon Meets Elvis, 1970</a><br><br>
+<a href="agnew.htm">Payoff to the Vice President, 1971</a><br><br>
+<a href="nixon.htm">President Nixon Leaves the White House 1974</a><br><br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></span>
+</br></div>
+<p>
+</p></td></tr></table>
+<!-- start table top margin -->
+<table bgcolor="#D1D2B4" border="0" cellpadding="2" cellspacing="0" height="3" width="100%"><tr><td valign="top">
+</td></tr></table>
+<table align="center" bgcolor="#D1D2B4" border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td align="left"><img alt="" border="0" src="images/box3bl4.gif"/></td>
+<td><img alt="" border="0" height="1" src="images/spacer.gif" width="1"/></td>
+<td align="right" valign="middle"><img alt="" border="0" src="images/box3br4.gif"/></td>
+</tr></table>
+<p>
+</p></td></tr></table>
+</td>
+<!-- End Menu Column -->
+<!-- Start Article Column-->
+<td align="center" valign="top">
+<table border="0" cellpadding="10" cellspacing="0" width="82%"><tr><td>
+<p><div align="center"><span class="title">The Sinking of the <em>Titanic</em>, 1912</span></div>
+<br><div align="center"><span class="notes"><a href="pftitanic.htm">Printer Friendly Version &gt;&gt;&gt;</a></span>
+</div>
+<p>
+<!--Begin Article-->
+<span class="capital">O</span>n April 10, 1912, the <i>Titanic</i>, largest ship afloat, left Southampton, England on her maiden voyage to New York City. The White Star Line had spared no expense in assuring her luxury. A legend even before she sailed, her passengers were a mixture of the world's wealthiest basking in the elegance of first class accommodations and immigrants packed into steerage. 
+<p>
+<table align="right" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center"><img height="183" hspace="0" src="images/titanic1a.jpg" vspace="0" width="266"><br><span class="caption">The <i>Washington Post</i> announces the disaster</span></br></img></td>
+</tr>
+</table>She was touted as the safest ship ever built, so safe that she carried only 20 lifeboats - enough to provide accommodation for only half her 2,200 passengers and crew. This discrepancy rested on the belief that since the ship's construction made her "unsinkable," her lifeboats were necessary only to rescue survivors of other sinking ships. Additionally, lifeboats took up valuable deck space.
+<p>
+Four days into her journey, at 11:40 P.M. on the night of April 14, she struck an iceberg. Her fireman compared the sound of the impact to "the tearing of calico, nothing more." However, the collision was fatal and the icy water soon poured through the ship. 
+<p>
+It became obvious that many would not find safety in a lifeboat. Each passenger was issued a life jacket but life expectancy would be short when exposed to water four degrees below freezing. As the forward portion of the ship sank deeper, passengers scrambled to the stern. John Thayer witnessed the sinking from a lifeboat. "We could see groups of the almost fifteen hundred people still aboard, clinging in clusters or bunches, like swarming bees; only to fall in masses, pairs or singly, as the great after part of the ship, two hundred and fifty feet of it, rose into the sky, till it reached a sixty-five or seventy degree angle." The great ship slowly slid beneath the waters two hours and forty minutes after the collision
+<p>
+The next morning, the liner <i>Carpathia</i> rescued 705 survivors. One thousand five hundred twenty-two passengers and crew were lost. Subsequent inquiries attributed the high loss of life to an insufficient number of lifeboats and inadequate training in their use.
+<p>
+<span class="header">End of a Splendid Journey</span>
+<p>
+<span class="description">Elizabeth Shutes, aged 40, was governess to nineteen-year-old Margaret Graham who was traveling with her parents. As Shutes and her charge sit in their First Class cabin they feel a shudder travel through the ship. At first comforted by her belief in the safety of the ship, Elizabeth's composure is soon shattered by the realization of the imminent tragedy:</span>
+<p>
+<table align="left" border="0" cellpadding="0" cellspacing="0"><tr><td width="330">
+<div align="center"><span class="menu">ADVERTISMENT</span></div>
+<div align="center">
+<!-- TribalFusion 300x250 code -->
+
+
+<!-- TribalFusion 300x250 code -->
+</div>
+</td></tr></table><span class="narrative">"Suddenly a queer quivering ran under me, apparently the whole length of the ship. Startled by the very strangeness of the shivering motion, I sprang to the floor. With too perfect a trust in that mighty vessel I again lay down. Some one knocked at my door, and the voice of a friend said: 'Come quickly to my cabin; an iceberg has just passed our window; I know we have just struck one.' 
+<p>
+No confusion, no noise of any kind, one could believe no danger imminent. Our
+  stewardess came and said she could learn nothing. Looking out into the companionway
+  I saw heads appearing asking questions from half-closed doors. All sepulchrally
+  still, no excitement. I sat down again. My friend was by this time dressed;
+  still her daughter and I talked on, Margaret pretending to eat a sandwich.
+  Her hand shook so that the bread kept parting company from the chicken. Then
+  I saw she was frightened, and for the first time I was too, but why get dressed,
+  as no one had given the slightest hint of any possible danger? An officer's
+  cap passed the door. I asked: 'Is there an accident or danger of any kind?
+  'None, so far as I know', was his courteous answer, spoken quietly and most
+  kindly. This same officer then entered a cabin a little distance down the companionway
+  and, by this time distrustful of everything, I listened intently, and distinctly
+  heard, 'We can keep the water out for a while.' Then, and not until then, did
+  I realize the horror of an accident at sea. Now it was too late to dress; no
+  time for a waist, but a coat and skirt were soon on; slippers were quicker
+  than shoes; the stewardess put on our life-preservers, and we were just ready
+  when Mr Roebling came to tell us he would take us to our friend's mother, who
+  was waiting above ... 
+<p>
+<table align="right" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center"><img height="156" hspace="0" src="images/titanic3a.jpg" vspace="0" width="208"><br><span class="caption">Two lifeboats approach<br>the <i>Carpathia</i> April 15, 1912</br></span></br></img></td>
+</tr>
+</table>No laughing throng, but on either side [of the staircases] stand quietly, bravely, the stewards, all equipped with the white, ghostly life-preservers. Always the thing one tries not to see even crossing a ferry. Now only pale faces, each form strapped about with those white bars. So gruesome a scene. We passed on. The awful good-byes. The quiet look of hope in the brave men's eyes as the wives were put into the lifeboats. Nothing escaped one at this fearful moment. We left from the sun deck, seventy-five feet above the water. Mr Case and Mr Roebling, brave American men, saw us to the lifeboat, made no effort to save themselves, but stepped back on deck. Later they went to an honoured grave. 
+<p>
+Our lifeboat, with thirty-six in it, began lowering to the sea. This was done amid the greatest confusion. Rough seamen all giving different orders. No officer aboard. As only one side of the ropes worked, the lifeboat at one time was in such a position that it seemed we must capsize in mid-air. At last the ropes worked together, and we drew nearer and nearer the black, oily water. The first touch of our lifeboat on that black sea came to me as a last good-bye to life, and so we put off - a tiny boat on a great sea - rowed away from what had been a safe home for five days.
+<p>
+The first wish on the part of all was to stay near the <i>Titanic</i>. We all felt so much safer near the ship. Surely such a vessel could not sink. I thought the danger must be exaggerated, and we could all be taken aboard again. But surely the outline of that great, good ship was growing less. The bow of the boat was getting black. Light after light was disappearing, and now those rough seamen put to their oars and we were told to hunt under seats, any place, anywhere, for a lantern, a light of any kind. Every place was empty. There was no water - no stimulant of any kind. Not a biscuit - nothing to keep us alive had we drifted long...
+<p>
+Sitting by me in the lifeboat were a mother and daughter. The mother had left a husband on the <i>Titanic</i>, and the daughter a father <table align="left" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center"><img height="136" hspace="0" src="images/titanic4a.jpg" vspace="0" width="197"><br><span class="caption">Survivors on the deck<br>of the <i>Carpathia</i></br></span></br></img></td>
+</tr>
+</table>and husband, and while we were near the other boats those two stricken women would call out a name and ask, 'Are you there?' 'No,'would come back the awful answer, but these brave women never lost courage, forgot their own sorrow, telling me to sit close to them to keep warm... The life-preservers helped to keep us warm, but the night was bitter cold, and it grew colder and colder, and just before dawn, the coldest, darkest hour of all, no help seemed possible...
+<p>
+...The stars slowly disappeared, and in their place came the faint pink glow of another day. Then I heard, 'A light, a ship.' I could not, would not, look while there was a bit of doubt, but kept my eyes away. All night long I had heard, 'A light!' Each time it proved to be one of our other lifeboats, someone lighting a piece of paper, anything they could find to burn, and now I could not believe. Someone found a newspaper; it was lighted and held up. Then I looked and saw a ship. A ship bright with lights; strong and steady she waited, and we were to be saved. A straw hat was offered it would burn longer. That same ship that had come to save us might run us down. But no; she is still. The two, the ship and the dawn, came together, a living painting."</p></p></p></p></p></p></span>
+<p>
+<span class="references">References:</span>
+<br>
+   Elizabeth Shutes' account first appeared in: Gracie, Archibold, The Truth About the Titanic (1913), reprinted in: Foster, John Wilson (editor), The Titanic Reader (1999); Lord, Walter, A Night to Remember (1955); Davie, Michael, Titanic: The Death and Life of a Legend (1986).
+<p>
+<span class="citation">
+How To Cite This Article:
+<br>
+"The Sinking of the Titanic, 1912," EyeWitness to History www.eyewitnesstohistory.com (2000).
+</br></span>
+<p>
+<div align="center">
+<!--Google Ad-->
+
+
+<!--End Google Ad-->
+</div>
+</p></p></br></p></p></p></p></p></p></p></p></p></br></p></td></tr></table>
+</td>
+<!-- End Article Column-->
+<!-- Start Ad/Notes Column -->
+<td valign="top" width="120">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<!-- TribalFusion 160x600/120x600 JScript VAR code -->
+
+
+<!-- TribalFusion 160x600/120x600 JScript VAR code -->
+<!--Sidebar-->
+<!--1st text -->
+<table border="0" height="150"><tr><td valign="bottom">
+<span class="notes">Margaret Graham's father, William, founded the Dixie Cup Company. He was not on board the ship.</span>
+</td></tr></table>
+<!--2nd text -->
+<table border="0" height="150"><tr><td valign="bottom">
+<span class="notes">Elizabeth Shutes died in Utica, New York in 1949.</span>
+</td></tr></table>
+<!--end sidebar-->
+</td></tr></table>
+</td>
+<!-- End Ad/Notes Column -->
+</tr></table>
+<!--End Body of Page-->
+<!--begin bottom of page-->
+<!-- Start bottom sidefiller -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="121">
+<img align="left" border="0" height="17" hspace="0" hvspace="0" src="images/sidefillerb.gif" width="121">
+</img></td></tr></table>
+<!-- End bottom sidefiller -->
+<!-- Start bottom of page margin -->
+<table bgcolor="#e6dfc8" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="bottom">
+<div align="center"><span class="navigation"><a href="awfrm.htm">Ancient World</a> | <a href="mefrm.htm">Middle Ages/Renassiance</a> | <a href="17frm.htm">17th Century</a> | <a href="18frm.htm">18th Century</a> | <a href="19frm.htm">19th Century</a> | <a href="cwfrm.htm">Civil War</a> | <a href="owfrm.htm">Old West</a> | <a href="20frm.htm">20th Century</a></span></div></td></tr><tr><td><div align="center"><span class="navigation"><a href="w1frm.htm">World War One</a> | <a href="w2frm.htm">World War Two</a> | <a href="photofrm.htm">Photo of the Week</a> | <a href="snpfrm.htm">SnapShots</a> | <a href="vofrm.htm">Voices</a> | <a href="himmenu.htm">History in Motion</a>  | <a href="eyindx.htm">Index</a> |  <a href="index.html">Home</a></span></div></td></tr></table>
+<table bgcolor="#D1D2B4" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top">
+<div align="center">
+<font face="arial" size="-2">Copyright ©  Ibis Communications, Inc.</font></div><br>
+</br></td></tr></table>
+<table align="center" bgcolor="#D1D2B4" border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td align="left"><img alt="" border="0" src="images/boxbl4.gif"/></td>
+<td><img alt="" border="0" height="1" src="images/spacer.gif" width="1"/></td>
+<td align="right" valign="middle"><img alt="" border="0" src="images/boxbr4.gif"/></td>
+</tr></table>
+<!-- End start bottom of page margin -->
+
+
+</body>
+</html>

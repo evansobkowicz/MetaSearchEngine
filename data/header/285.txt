@@ -1,0 +1,10 @@
+Title: The Sinking of the Titanic, 1912
+Date: Mon, 09 Feb 2015 23:39:36 GMT
+Server: Apache
+Last-Modified: Tue, 04 Sep 2012 10:18:31 GMT
+ETag: "6dbf-4c8dd94770bc0"
+Accept-Ranges: bytes
+Content-Length: 28095
+Connection: close
+Content-Type: text/html
+

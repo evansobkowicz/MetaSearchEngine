@@ -1,0 +1,25 @@
+Title: Elvis Presley (@ElvisPresley) | Twitter
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+connection: close
+content-length: 249974
+content-security-policy: default-src https:; connect-src https:; font-src https: data:; frame-src https: twitter:; frame-ancestors https:; img-src https: data:; media-src https:; object-src https:; script-src 'unsafe-inline' 'unsafe-eval' https:; style-src 'unsafe-inline' https:; report-uri https://twitter.com/i/csp_report?a=NVQWGYLXFVZXO2LGOQ%3D%3D%3D%3D%3D%3D&ro=false;
+content-type: text/html;charset=utf-8
+date: Mon, 09 Feb 2015 23:44:54 UTC
+expires: Tue, 31 Mar 1981 05:00:00 GMT
+last-modified: Mon, 09 Feb 2015 23:44:54 GMT
+ms: A
+pragma: no-cache
+server: tsa_b
+set-cookie: _twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFk%252Bu3BLAToMY3NyZl9p%250AZCIlZGE2NjI3MzlkYjc3MTRmNjFlNjhhMjI3MDI5OThhMmI6B2lkIiU3ODFj%250ANTE0NmJlZTkxOTFjZTkzY2NlOTVkZWQ2MDkyZA%253D%253D--1a45409f7ddc957b383726d4c803508d68b42b94; Path=/; Domain=.twitter.com; Secure; HTTPOnly
+set-cookie: guest_id=v1%3A142352549435909544; Domain=.twitter.com; Path=/; Expires=Wed, 08-Feb-2017 23:44:54 UTC
+status: 200 OK
+strict-transport-security: max-age=631138519
+x-connection-hash: 6fa47dc7c9275697246aaaf65fd427ae
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-response-time: 88
+x-transaction: bc5a01c1c22c6d48
+x-twitter-response-tags: BouncerCompliant
+x-ua-compatible: IE=edge,chrome=1
+x-xss-protection: 1; mode=block
+

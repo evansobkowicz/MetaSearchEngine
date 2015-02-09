@@ -1,0 +1,24 @@
+Title: ''Spider-Man'' Franchise: Amy Pascal''s Exit From Sony Pictures Might Affect The Future Of Spidey Universe--Report
+Server: Apache/2.2.15 (CentOS)
+X-Origin: web1
+X-Powered-By: PHP/5.3.28
+X-Drupal-Cache: MISS
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Mon, 09 Feb 2015 23:16:35 GMT
+Cache-Control: public, max-age=1800
+ETag: "1423523795-1"
+Content-Language: en
+Link: </spider-man-franchise-amy-pascals-exit-sony-pictures-might-affect-future-spidey-universe-report>; rel="canonical",<http://au.ibtimes.com/node/1419102>; rel="shortlink"
+X-Generator: Drupal 7 (http://drupal.org)
+Content-Type: text/html; charset=utf-8
+X-UA-Device: pc-player
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:43:43 GMT
+X-Varnish: 295522297 295408086
+Age: 1584
+Via: 1.1 varnish
+Connection: close
+X-Varnish-Cache: HIT
+Vary: Cookie,Accept-Encoding, User-Agent
+X-GeoIP: US
+

@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Batplane - Wikipedia, the free encyclopedia</title>
+<meta content="MediaWiki 1.25wmf15" name="generator"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Batplane" rel="alternate"/>
+<link href="/w/index.php?title=Batplane&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Batplane&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="/wiki/Batplane" hreflang="x-default" rel="alternate"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="http://en.wikipedia.org/wiki/Batplane" rel="canonical"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+
+
+
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Batplane skin-vector action-view vector-animateLayout">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><span dir="auto">Batplane</span></h1>
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox" style="width:22em;width: 24em; background: #f2f9ff;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background: #99c2ff;">Batplane</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Batplane_1939.jpg"><img alt="" data-file-height="185" data-file-width="250" height="185" src="//upload.wikimedia.org/wikipedia/en/a/a2/Batplane_1939.jpg" width="250"/></a>
+<div><small>The Bat-gyro. (<i>Detective Comics</i> No. 31)</small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #99c2ff;">Publication information</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;"><a href="/wiki/Category:Comics_publishing_companies" title="Category:Comics publishing companies">Publisher</a></th>
+<td><a href="/wiki/DC_Comics" title="DC Comics">DC Comics</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;"><a href="/wiki/First_appearance" title="First appearance">First appearance</a></th>
+<td><i><a href="/wiki/Detective_Comics" title="Detective Comics">Detective Comics</a></i> #31 (September <a href="/wiki/1939_in_comics" title="1939 in comics">1939</a>)</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background: #99c2ff;">In story information</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;">Type</th>
+<td>Vehicle</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;width: 40%;">Element of stories featuring</th>
+<td><a href="/wiki/Batman" title="Batman">Batman</a><br/>
+<a href="/wiki/Robin_(comics)" title="Robin (comics)">Robin</a></td>
+</tr>
+</table>
+<p>The <b>Batplane</b>, later known as the <b>Batwing</b>, is the fictional <a href="/wiki/Aircraft" title="Aircraft">aircraft</a> for the <a href="/wiki/Comic_book" title="Comic book">comic book</a> <a href="/wiki/Superhero" title="Superhero">superhero</a> <a href="/wiki/Batman" title="Batman">Batman</a>. The vehicle was introduced in "Batman Versus The Vampire, I", published in <i><a href="/wiki/Detective_Comics" title="Detective Comics">Detective Comics</a></i> #31 in 1939, a story which saw Batman travel to <a href="/wiki/Continental_Europe" title="Continental Europe">continental Europe</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> In this issue it was referred to as the "Batgyro", and according to <a href="/wiki/Les_Daniels" title="Les Daniels">Les Daniels</a> was "apparently inspired by <a href="/wiki/Igor_Sikorsky" title="Igor Sikorsky">Igor Sikorsky</a>'s first successful helicopter flight" of the same year. Initially based upon either an <a href="/wiki/Autogyro" title="Autogyro">autogyro</a> or <a href="/wiki/Helicopter" title="Helicopter">helicopter</a>, with a rotor, the Batgyro featured a bat motif at the front. The writers gave the Batgyro the ability to be "parked" in the air by Batman, hovering in such a way as to maintain its position and allow Batman to return.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup class="reference" id="cite_ref-dc-ency_3-0"><a href="#cite_note-dc-ency-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>The Batgyro was soon replaced by the Batplane, which debuted in <i>Batman</i> #1, and initially featured a machine gun.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> The vehicle was now based on a <a class="mw-redirect" href="/wiki/Fixed_wing" title="Fixed wing">fixed wing</a> airplane rather than a helicopter, with a propeller at the front, although a bat motif was still attached to the nose-cone. The Batplane has undergone constant revision since its first appearance, and has even been depicted as having the capability to traverse underwater.<sup class="reference" id="cite_ref-Daniels_1995._p78_5-0"><a href="#cite_note-Daniels_1995._p78-5"><span>[</span>5<span>]</span></a></sup> With the launch of the <a href="/wiki/Tim_Burton" title="Tim Burton">Tim Burton</a> directed <i><a href="/wiki/Batman_(1989_film)" title="Batman (1989 film)">Batman</a></i> film of 1989, the Batplane became known as the Batwing, a name which was carried over into the comics. The 2012 film <i><a href="/wiki/The_Dark_Knight_Rises" title="The Dark Knight Rises">The Dark Knight Rises</a></i> adapted the Batplane to film once again.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Batplane_III"><span class="tocnumber">1.1</span> <span class="toctext">Batplane III</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#In_other_media"><span class="tocnumber">2</span> <span class="toctext">In other media</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Live-action_films"><span class="tocnumber">2.1</span> <span class="toctext">Live-action films</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Animation"><span class="tocnumber">2.2</span> <span class="toctext">Animation</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Other_appearances"><span class="tocnumber">2.3</span> <span class="toctext">Other appearances</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batplane&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Batman once maintained aircraft in his original <a href="/wiki/Batcave" title="Batcave">Batcave</a>. However, launching these planes so close to <a href="/wiki/Wayne_Manor" title="Wayne Manor">Wayne Manor</a>'s neighboring estates threatened to compromise Batman's secret identity. The Caped Crusader now "borrows" specially-modified jets and helicopters from <a href="/wiki/Wayne_Enterprises#Wayne_Aerospace" title="Wayne Enterprises">Wayne Aerospace's</a> business and military contracts.</p>
+<p><b>Batplane I</b><sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> and the Bat-Rocket favored Batman's signature look over sleek <a href="/wiki/Aerodynamics" title="Aerodynamics">aerodynamics</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Batplane_1950.jpg"><img alt="" class="thumbimage" data-file-height="209" data-file-width="250" height="184" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0a/Batplane_1950.jpg/220px-Batplane_1950.jpg" srcset="//upload.wikimedia.org/wikipedia/en/0/0a/Batplane_1950.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/0/0a/Batplane_1950.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Batplane_1950.jpg" title="Enlarge"></a></div>
+The origin of Batplane II.</div>
+</div>
+</div>
+<p><b>Batplane II</b><sup class="reference" id="cite_ref-ourworld_7-0"><a href="#cite_note-ourworld-7"><span>[</span>7<span>]</span></a></sup><sup class="reference" id="cite_ref-ourworld_7-1"><a href="#cite_note-ourworld-7"><span>[</span>7<span>]</span></a></sup> was a retooled Wayne Aeropsace W4 <i>Wraith</i> fighter that married style with substance. In terms of design, it shares features with the Grumman <a class="mw-redirect" href="/wiki/F9F_Cougar" title="F9F Cougar">F9F Cougar</a> and McDonnell <a class="mw-redirect" href="/wiki/F-101" title="F-101">F-101</a> Voodoo. When the Batplane is stolen and triplicated by smugglers in <i>Batman</i> #61, Batman and Robin upgrade the Batplane to jet propulsion, adding at least "100 miles per hour" to its maximum speed.<sup class="reference" id="cite_ref-Daniels_1995._p78_5-1"><a href="#cite_note-Daniels_1995._p78-5"><span>[</span>5<span>]</span></a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Batplane_III">Batplane III</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batplane&amp;action=edit&amp;section=2" title="Edit section: Batplane III">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Batplane III</b> is a modified Wayne Aerospace <i>SlipStream</i> (<a href="/wiki/United_States_dollar" title="United States dollar">$</a>46 million sans "extras"). It is detailed to resemble a standard mid-size corporate jet during take-offs and landings. Some of its features and capabilities are as follows:</p>
+<ul>
+<li>At cruising <a href="/wiki/Altitude" title="Altitude">altitude</a> (35,000-45,000 ft.), telescoping wings retract. Exterior sections of tail and nose-cone envelop cockpit and cabin fuselage for higher altitude pressurization.</li>
+</ul>
+<ul>
+<li>Gaining further altitude (45,000-55,000 ft.) delta fins in the tail and snub winglets elongate to increase efficiency and stability as speeds approach <a class="mw-redirect" href="/wiki/Supersonic" title="Supersonic">supersonic</a>.</li>
+</ul>
+<ul>
+<li>At ceiling altitudes (55,000-60,000 ft.) "smart" paint on exterior radar-shielding ceramics responds to dropping air pressure and temperature, thus camouflaging the Batplane's exterior to stealthy black.</li>
+</ul>
+<ul>
+<li><a href="/wiki/Avionics" title="Avionics">Avionics</a> include ergonomic "at-a-glance" viewing levels for all electronics and multifunction displays. The breakaway <a href="/wiki/Aircraft_canopy" title="Aircraft canopy">canopy</a> allows for pilot/co-pilot emergency ejection. The reinforced <a class="mw-redirect" href="/wiki/Acrylic_glass" title="Acrylic glass">acrylic glass</a> canopy windows polarize at stealth altitude.</li>
+</ul>
+<p>The aircraft's specifications are:<sup class="reference" id="cite_ref-9"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<dl>
+<dd>Height: 14.5 ft.</dd>
+<dd>Length: 57.7 ft.</dd>
+<dd>Wingspan: 47.6 ft. - The wings are protected by a <a href="/wiki/Bleed_air" title="Bleed air">bleed-air</a> anti-icing system.</dd>
+<dd>Altitude Ceiling: 60,000 ft.</dd>
+<dd>Maximum Speed: 4,400 mph</dd>
+<dd>Range: 2,486 n m</dd>
+<dd>Take-Off Distance: 5,230 ft.</dd>
+<dd>Landing Distance: 2,984 ft.</dd>
+<dd>Payload: 2,670 lb.</dd>
+<dd>Refueling Time: 7.8 minutes</dd>
+</dl>
+<h2><span class="mw-headline" id="In_other_media">In other media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batplane&amp;action=edit&amp;section=3" title="Edit section: In other media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Live-action_films">Live-action films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batplane&amp;action=edit&amp;section=4" title="Edit section: Live-action films">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a class="image" href="/wiki/File:Bat-wing3.jpg"><img alt="" class="thumbimage" data-file-height="613" data-file-width="497" height="222" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bat-wing3.jpg/180px-Bat-wing3.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bat-wing3.jpg/270px-Bat-wing3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bat-wing3.jpg/360px-Bat-wing3.jpg 2x" width="180"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Bat-wing3.jpg" title="Enlarge"></a></div>
+"The Bat" in the set of <i><a href="/wiki/The_Dark_Knight_Rises" title="The Dark Knight Rises">The Dark Knight Rises</a></i> in June 2011</div>
+</div>
+</div>
+<p>The Batwing appears in the movies <i><a href="/wiki/Batman_(1989_film)" title="Batman (1989 film)">Batman</a></i>, used to combat <a href="/wiki/Joker_(comics)" title="Joker (comics)">the Joker</a>. When the Joker launches a deadly Smilex gas attack through balloons, Batman came in the Batwing and destroyed the balloons, angering Joker. Batman then fired off several missiles and two miniguns, killing many henchmen but missing Joker, who in turn shot it down with one bullet from his long barreled revolver. After this, it was rebuilt and upgraded by the events of <i><a href="/wiki/Batman_Forever" title="Batman Forever">Batman Forever</a></i> to combat <a href="/wiki/Riddler" title="Riddler">the Riddler</a>. As demonstrated when Riddler shot him down with a powerful green laser, the Batwing actually has an ejection pod which also doubles as a mini sub. Both models of the plane are roughly bat-shaped. In the comic book adaptation of the <i>Batman Forever</i>, the Batwing actually folds up into the Batboat.</p>
+<p>An entirely new version of the Batwing appears in the film <i><a href="/wiki/The_Dark_Knight_Rises" title="The Dark Knight Rises">The Dark Knight Rises</a></i> referred to simply as the <b>Bat</b>. It is an unconventional, lightweight <a class="mw-redirect" href="/wiki/Volantor" title="Volantor">volantor</a>-like craft with a ventrally mounted rotor. Developed by <a href="/wiki/Lucius_Fox" title="Lucius Fox">Lucius Fox</a>, the Bat was originally intended for close-quarters urban military operations but instead becomes Batman's new primary vehicle. Fox notes that the Bat's autopilot function does not work but suggests that Bruce might be capable of fixing it. The vehicle is armed with machine guns, cannons and a variation of the EMP device he used chasing Bane's men. Batman first uses the Bat to escape pursuing police officers after being cornered in a dark alley. Immediately after, he uses it to rescue <a href="/wiki/Catwoman" title="Catwoman">Selina Kyle</a> from <a href="/wiki/Bane_(comics)" title="Bane (comics)">Bane</a>'s henchmen. Later in the film's climax, Batman uses the Bat in the fight to retake Gotham City from Bane and he uses the Bat to haul a fusion bomb away from <a href="/wiki/Gotham_City" title="Gotham City">Gotham City</a> where it detonates over the ocean and presumably kills him. Later, while completing work on the Bat, Fox discovers that Wayne had fixed the autopilot function months before and may have escaped before the bomb detonated. In designing the Bat, Nathan Crowley approached it as if it were an actual military project, emphasising the need for it to "fit into the same family" as the <a href="/wiki/Batmobile" title="Batmobile">Tumbler</a> and the <a href="/wiki/Batcycle" title="Batcycle">Batpod</a>. The final version of the Bat takes its design cues from the <a href="/wiki/Harrier_Jump_Jet" title="Harrier Jump Jet">Harrier Jump Jet</a>, <a href="/wiki/Bell_Boeing_V-22_Osprey" title="Bell Boeing V-22 Osprey">Bell Boeing V-22 Osprey</a> and the <a href="/wiki/Boeing_AH-64_Apache" title="Boeing AH-64 Apache">Boeing AH-64 Apache</a>.<sup class="reference" id="cite_ref-ProductionNotes_11-0"><a href="#cite_note-ProductionNotes-11"><span>[</span>11<span>]</span></a></sup> Chris Corbould described the Bat's size and shape as presenting a major challenge for filming given <a href="/wiki/Christopher_Nolan" title="Christopher Nolan">Christopher Nolan</a>'s emphasis on practical effects over <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">computer-generated imagery</a>. In order to make the Bat "fly", it was variously supported by wires, suspended from cranes and helicopters, and mounted on a purpose-built vehicle with hydraulic controls to simulate movement.<sup class="reference" id="cite_ref-ProductionNotes_11-1"><a href="#cite_note-ProductionNotes-11"><span>[</span>11<span>]</span></a></sup><sup class="reference" id="cite_ref-Design3_12-0"><a href="#cite_note-Design3-12"><span>[</span>12<span>]</span></a></sup><sup class="reference" id="cite_ref-Design6_13-0"><a href="#cite_note-Design6-13"><span>[</span>13<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Animation">Animation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batplane&amp;action=edit&amp;section=5" title="Edit section: Animation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Batplane has appeared in the <a href="/wiki/Super_Friends" title="Super Friends">Super Friends</a> cartoon series, where it was revealed to be a <a href="/wiki/Jet_aircraft" title="Jet aircraft">jet</a>, and it was most often referred to as the <b>Batjet</b>, except for in season one. The Batwing also appears in <i><a href="/wiki/Batman:_The_Animated_Series" title="Batman: The Animated Series">Batman: The Animated Series</a></i>, shaped like a stylized bat with very long wings that jut out past the "head" of the plane. The Batplane in <i><a href="/wiki/The_New_Batman_Adventures" title="The New Batman Adventures">The New Batman Adventures</a></i> takes on a smaller, sleeker design shaped like a rocket with a curved wing on each side which also appeared in <i><a href="/wiki/Justice_League" title="Justice League">Justice League</a></i> and <i><a href="/wiki/Justice_League_Unlimited" title="Justice League Unlimited">Justice League Unlimited</a></i>. In <i><a href="/wiki/Batman_Beyond" title="Batman Beyond">Batman Beyond</a></i>, flying cars are commonplace and thus the Batmobile used by <a href="/wiki/Batman_(Terry_McGinnis)" title="Batman (Terry McGinnis)">Terry McGinnis</a> doubles as a plane. The classic Bat-Plane appears frequently in <i><a href="/wiki/Batman:_The_Brave_and_the_Bold" title="Batman: The Brave and the Bold">Batman: The Brave and the Bold</a></i>.</p>
+<p>In <a href="/wiki/The_Batman_(TV_series)" title="The Batman (TV series)"><i>The Batman</i></a>, the Batwing is created in the episode "Thunder" to defeat <a href="/wiki/Maxie_Zeus" title="Maxie Zeus">Maxie Zeus</a>. In the episode "Artifacts", <a href="/wiki/Dick_Grayson" title="Dick Grayson">Nightwing</a> uses it to save a plane and crashes it on <a href="/wiki/Mr._Freeze" title="Mr. Freeze">Freeze</a>.</p>
+<p>The Batwing briefly appeared in the <i><a href="/wiki/Young_Justice_(TV_series)" title="Young Justice (TV series)">Young Justice</a></i> episode "Revelation", where Batman used it to help combat a giant plant monster created by the <a href="/wiki/Injustice_League" title="Injustice League">Injustice League</a>.The Batwing is later seen again in the episode "Coldhearted",where Batman is using it to fly to the flying fortresses and is also comunicating with the team.</p>
+<h3><span class="mw-headline" id="Other_appearances">Other appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batplane&amp;action=edit&amp;section=6" title="Edit section: Other appearances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Lego" title="Lego">Lego</a>'s <a href="/wiki/Lego_Batman" title="Lego Batman">Lego Batman</a> line includes one set which features an incarnation of the Batplane, though it goes by the name of "The Batwing" (7782-The Batwing: The Joker's Aerial Assault). The set is featured alongside the <a href="/wiki/Joker_(comics)" title="Joker (comics)">Joker's</a> helicopter.</p>
+<p>A vehicle largely reminiscent of the one seen on screen in the 1989 Batman film is also seen in <i><a class="mw-redirect" href="/wiki/Batman:_Revenge_(The_Batman_LEGO_Film)" title="Batman: Revenge (The Batman LEGO Film)">Batman: Revenge</a></i> (2003).</p>
+<p>In the Batman-themed <a href="/wiki/Motion_simulator" title="Motion simulator">motion simulator</a> ride <a class="mw-redirect" href="/wiki/Batman_Adventure_%E2%80%93_The_Ride_2" title="Batman Adventure – The Ride 2">Batman Adventure – The Ride 2</a> in <a href="/wiki/Warner_Bros._Movie_World" title="Warner Bros. Movie World">Warner Bros. Movie World</a>, riders seemingly follow the Batplane in pursuit of <a href="/wiki/Joker_(comics)" title="Joker (comics)">the Joker</a>, <a class="mw-redirect" href="/wiki/Mr_Freeze" title="Mr Freeze">Mr Freeze</a>, and <a href="/wiki/Catwoman" title="Catwoman">Catwoman</a>.</p>
+<p>At <a href="/wiki/Six_Flags_America" title="Six Flags America">Six Flags America</a>, there is a roller coaster named "Batwing" and themed after Batman's personal flight vehicle. As riders enter the station, announcements are played welcoming them to test pilot Wayne Enterprise's newest vehicle. Batman then interrupts and explains that he needs help saving Gotham City from the Joker. Guests then board the train and ride the ride.</p>
+<p>In the video game <i><a href="/wiki/Batman:_Arkham_Asylum" title="Batman: Arkham Asylum">Batman: Arkham Asylum</a></i>, a Batplane-like vehicle can be seen hanging from the ceiling and covered by a tarp inside the hidden <a href="/wiki/Batcave" title="Batcave">Batcave</a> under Arkham Island. Later in the game, Batman remotely pilots the Batplane to his location and has it drop off one of his gadgets, the Line Launcher. At the end of the game, Batman calls it again to leave for Gotham and apprehend <a href="/wiki/Two-Face" title="Two-Face">Two-Face</a>. When unlocked, the character trophy is called 'Batwing'.</p>
+<p>The Batwing makes a brief cameo in <i><a href="/wiki/Batman:_Arkham_City" title="Batman: Arkham City">Batman: Arkham City</a></i>, dropping off Batman's <a href="/wiki/Batsuit" title="Batsuit">Batsuit</a> in the beginning of the game. It also makes a cameo in the Batcave DLC.</p>
+<p>The Batwing has a more important role in the prequel <i><a href="/wiki/Batman:_Arkham_Origins" title="Batman: Arkham Origins">Batman: Arkham Origins</a></i>, where Batman is able to get to a section of Gotham City quicker. However, in certain areas he needs to dismantle enemy towers that block the summoning.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batplane&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Batboat" title="Batboat">Batboat</a></li>
+<li><a href="/wiki/Batcopter" title="Batcopter">Batcopter</a></li>
+<li><a href="/wiki/Batcycle" title="Batcycle">Batcycle</a></li>
+<li><a href="/wiki/Batmobile" title="Batmobile">Batmobile</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batplane&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/Gardner_Fox" title="Gardner Fox">Fox, Gardner</a> &amp; <a href="/wiki/Bob_Kane" title="Bob Kane">Kane, Bob</a> (w); <a href="/wiki/Sheldon_Moldoff" title="Sheldon Moldoff">Moldoff, Sheldon</a> &amp; <a href="/wiki/Bob_Kane" title="Bob Kane">Kane, Bob</a> (a). "Batman Versus The Vampire, I", <i>Detective Comics</i> #31, <a href="/wiki/DC_Comics" title="DC Comics">DC Comics</a>, September 1939.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/Les_Daniels" title="Les Daniels">Daneils, Les</a>, <i>Sixty Years of the World's Favorite Comic Book Heroes</i>.<a href="/wiki/Virgin_Books" title="Virgin Books">Virgin Books</a>, 1995. p78.</span></li>
+<li id="cite_note-dc-ency-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-dc-ency_3-0">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFJimenez2008"><a href="/wiki/Phil_Jimenez" title="Phil Jimenez">Jimenez, Phil</a> (2008), "Bat Plane", in Dougall, Alastair, <i>The DC Comics Encyclopedia</i>, London: <a href="/wiki/Dorling_Kindersley" title="Dorling Kindersley">Dorling Kindersley</a>, pp. 34–35, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7566-4119-5" title="Special:BookSources/0-7566-4119-5">0-7566-4119-5</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABatplane&amp;rft.atitle=Bat+Plane&amp;rft.aufirst=Phil&amp;rft.au=Jimenez%2C+Phil&amp;rft.aulast=Jimenez&amp;rft.btitle=The+DC+Comics+Encyclopedia&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.isbn=0-7566-4119-5&amp;rft.pages=34-35&amp;rft.place=London&amp;rft.pub=Dorling+Kindersley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Bill_Finger" title="Bill Finger">Finger, Bill</a> (w), <a href="/wiki/Bob_Kane" title="Bob Kane">Kane, Bob</a> &amp; <a href="/wiki/Jerry_Robinson" title="Jerry Robinson">Robinson, Jerry</a> (a). "The Giants of Hugo Strange", <i><a href="/wiki/Batman" title="Batman">Batman</a> #1, <a href="/wiki/DC_Comics" title="DC Comics">DC Comics</a>, Spring 1940.</i></span></li>
+<li id="cite_note-Daniels_1995._p78-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Daniels_1995._p78_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Daniels_1995._p78_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/Les_Daniels" title="Les Daniels">Daniels, Les</a>, <i>Sixty Years of the World's Favorite Comic Book Heroes</i>.<a href="/wiki/Virgin_Books" title="Virgin Books">Virgin Books</a>, 1995. p78.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external autonumber" href="http://web.Archive.org/web/20020805124302/http://Ourworld.CS.com/argentprime/batman.htm" rel="nofollow">[1]</a></span></li>
+<li id="cite_note-ourworld-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-ourworld_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ourworld_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external autonumber" href="http://web.Archive.org/web/20020817173659/http://Ourworld.CS.com/argentprime/batman2.htm" rel="nofollow">[2]</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="/wiki/David_Vern_Reed" title="David Vern Reed">Reed, David Vern</a> (w); <a href="/wiki/Dick_Sprang" title="Dick Sprang">Sprang, Dick</a> (p); <a href="/wiki/Charles_Paris" title="Charles Paris">Paris, Charles</a> (i). "The Birth of Batplane II!", <i>Batman</i> #61, <a href="/wiki/DC_Comics" title="DC Comics">DC Comics</a>, October–November 1950.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.gambitmag.com/2014/03/batman-ultimate-guide-dark-knight-archived/" rel="nofollow">BATMAN: THE ULTIMATE GUIDE TO THE DARK KNIGHT</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Batman: The Ultimate Guide to the Dark Knight: <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/078947865X">ISBN 0-7894-7865-X</a></span></li>
+<li id="cite_note-ProductionNotes-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-ProductionNotes_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ProductionNotes_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.thedarkknightrises.com/downloads/TDKR_productionNotes.pdf" rel="nofollow">"The Dark Knight Rises Production Notes"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 5,</span> 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABatplane&amp;rft.btitle=The+Dark+Knight+Rises+Production+Notes&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.thedarkknightrises.com%2Fdownloads%2FTDKR_productionNotes.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Design3-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Design3_12-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.mtv.com/news/articles/1669053/dark-knight-rises-batwing-photos.jhtml" rel="nofollow">"<span style="padding-left:0.2em;">'</span>Dark Knight Rises': Batwing First Look!"</a>. MTV. August 15, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">February 25,</span> 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABatplane&amp;rft.btitle=%27Dark+Knight+Rises%27%3A+Batwing+First+Look%21&amp;rft.date=August+15%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1669053%2Fdark-knight-rises-batwing-photos.jhtml&amp;rft.pub=MTV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Design6-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Design6_13-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="http://www.superherohype.com/news/articles/171133-new-images-of-the-bat-in-the-dark-knight-rises" rel="nofollow">"New Images of The Bat in The Dark Knight Rises"</a>. <a class="mw-redirect" href="/wiki/Superhero_Hype!" title="Superhero Hype!">Superhero Hype!</a>. June 14, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">June 23,</span> 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABatplane&amp;rft.btitle=New+Images+of+The+Bat+in+The+Dark+Knight+Rises&amp;rft.date=June+14%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.superherohype.com%2Fnews%2Farticles%2F171133-new-images-of-the-bat-in-the-dark-knight-rises&amp;rft.pub=Superhero+Hype%21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Batplane&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.actionfigureinsider.com/phpBB2/viewtopic.php?t=4349&amp;sid=8f7baa30e43623bf063bfc5108f42490" rel="nofollow">Action Figure Insider :: View topic - Which Batplane is the best?</a></li>
+<li><a class="external text" href="http://www.rasalghul.co.uk/comics_details.php?id=4072" rel="nofollow">Batman: Collected Issues of the Dark Knight - Batman #203</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" since March 2014">dead link</span></a></i>]</span></sup></li>
+<li><a class="external text" href="http://www.batmanytb.com/bios/gadgets/batplanebio.php" rel="nofollow">Batman: Yesterday, Today, &amp; Beyond</a></li>
+<li><a class="external text" href="http://ourworlds.topcities.com/batman/batplane/history-batplane.html" rel="nofollow">History of the Batplane</a></li>
+<li><a class="external text" href="http://ourworlds.topcities.com/batman/batplane/elseworlds-batplane.html" rel="nofollow">A History of Other Batplanes - The Elseworlds</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Batman" title="Template:Batman"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Batman" title="Template talk:Batman"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Batman&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Batman" title="Batman">Batman</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Creators</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bob_Kane" title="Bob Kane">Bob Kane</a></li>
+<li><a href="/wiki/Bill_Finger" title="Bill Finger">Bill Finger</a></li>
+<li><a href="/wiki/List_of_Batman_creators" title="List of Batman creators">Other writers and artists</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Batman_Incorporated" title="Batman Incorporated">Batman<br/>
+family</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row">By secret identity</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Batgirl" title="Batgirl">Batgirl</a></li>
+<li><a href="/wiki/Batman" title="Batman">Batman</a></li>
+<li><a href="/wiki/Batwing_(DC_Comics)" title="Batwing (DC Comics)">Batwing</a></li>
+<li><a href="/wiki/Batwoman" title="Batwoman">Batwoman</a></li>
+<li><a href="/wiki/Bluebird_(DC_Comics)" title="Bluebird (DC Comics)">Bluebird</a></li>
+<li><a href="/wiki/Catwoman" title="Catwoman">Catwoman</a></li>
+<li><a href="/wiki/Flamebird#New_52" title="Flamebird">Hawkfire</a></li>
+<li><a href="/wiki/Huntress_(comics)" title="Huntress (comics)">Huntress</a></li>
+<li><a href="/wiki/Knight_(comics)" title="Knight (comics)">Knight</a></li>
+<li><a href="/wiki/Nightwing" title="Nightwing">Nightwing</a></li>
+<li><a href="/wiki/Red_Hood#Jason_Todd" title="Red Hood">Red Hood</a></li>
+<li><a href="/wiki/Red_Robin_(comics)" title="Red Robin (comics)">Red Robin</a></li>
+<li><a href="/wiki/Robin_(comics)" title="Robin (comics)">Robin</a></li>
+<li><a href="/wiki/Stephanie_Brown_(comics)#The_Spoiler" title="Stephanie Brown (comics)">Spoiler</a></li>
+<li><a href="/wiki/Squire_(comics)" title="Squire (comics)">Squire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">By real name</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Huntress_(Helena_Bertinelli)" title="Huntress (Helena Bertinelli)">Helena Bertinelli</a></li>
+<li><a href="/wiki/Stephanie_Brown_(comics)" title="Stephanie Brown (comics)">Stephanie Brown</a></li>
+<li><a href="/wiki/Cassandra_Cain" title="Cassandra Cain">Cassandra Cain</a></li>
+<li><a href="/wiki/Tim_Drake" title="Tim Drake">Tim Drake</a></li>
+<li><a href="/wiki/Batwing_(DC_Comics)" title="Batwing (DC Comics)">Luke Fox</a></li>
+<li><a href="/wiki/Barbara_Gordon" title="Barbara Gordon">Barbara Gordon</a></li>
+<li><a href="/wiki/Dick_Grayson" title="Dick Grayson">Dick Grayson</a></li>
+<li><a href="/wiki/Squire_(comics)" title="Squire (comics)">Beryl Hutchinson</a></li>
+<li><a href="/wiki/Bette_Kane" title="Bette Kane">Bette Kane</a></li>
+<li><a href="/wiki/Batwoman" title="Batwoman">Katherine Kane</a></li>
+<li><a href="/wiki/Catwoman" title="Catwoman">Selina Kyle</a></li>
+<li><a href="/wiki/Batman_(Terry_McGinnis)" title="Batman (Terry McGinnis)">Terry McGinnis</a></li>
+<li><a href="/wiki/Bluebird_(DC_Comics)" title="Bluebird (DC Comics)">Harper Row</a></li>
+<li><a href="/wiki/Knight_(comics)" title="Knight (comics)">Cyril Sheldrake</a></li>
+<li><a href="/wiki/Jason_Todd" title="Jason Todd">Jason Todd</a></li>
+<li><a href="/wiki/Azrael_(comics)#Jean-Paul_Valley" title="Azrael (comics)">Jean-Paul Valley</a></li>
+<li><a href="/wiki/Batman" title="Batman">Bruce Wayne</a></li>
+<li><a href="/wiki/Damian_Wayne" title="Damian Wayne">Damian Wayne</a></li>
+<li><a href="/wiki/Huntress_(Helena_Wayne)" title="Huntress (Helena Wayne)">Helena Wayne</a></li>
+<li><a href="/wiki/Batwing_(DC_Comics)" title="Batwing (DC Comics)">David Zavimbe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/List_of_Batman_supporting_characters" title="List of Batman supporting characters">Supporting<br/>
+characters</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ace_the_Bat-Hound" title="Ace the Bat-Hound">Ace/Titus</a></li>
+<li><a href="/wiki/Harold_Allnut" title="Harold Allnut">Harold Allnut</a></li>
+<li><a href="/wiki/Azrael_(comics)" title="Azrael (comics)">Azrael</a></li>
+<li><a href="/wiki/Bat_Cow" title="Bat Cow">Bat Cow</a></li>
+<li><a href="/wiki/Crispus_Allen" title="Crispus Allen">Crispus Allen</a></li>
+<li><a href="/wiki/Jason_Bard" title="Jason Bard">Jason Bard</a></li>
+<li><a href="/wiki/Bat-Mite" title="Bat-Mite">Bat-Mite</a></li>
+<li><a href="/wiki/Harvey_Bullock_(comics)" title="Harvey Bullock (comics)">Harvey Bullock</a></li>
+<li><a href="/wiki/Sarah_Essen_Gordon" title="Sarah Essen Gordon">Sarah Essen</a></li>
+<li><a href="/wiki/Lucius_Fox" title="Lucius Fox">Lucius Fox</a></li>
+<li><a href="/wiki/James_Gordon_(comics)" title="James Gordon (comics)">Jim Gordon</a></li>
+<li><a href="/wiki/List_of_mayors_of_Gotham_City" title="List of mayors of Gotham City">Mayors of Gotham City</a>
+<ul>
+<li><a href="/wiki/Hamilton_Hill_(comics)" title="Hamilton Hill (comics)">Hamilton Hill</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Renee_Montoya" title="Renee Montoya">Renee Montoya</a></li>
+<li><a href="/wiki/Professor_Carter_Nichols" title="Professor Carter Nichols">Professor Carter Nichols</a></li>
+<li><a href="/wiki/Barbara_Gordon" title="Barbara Gordon">Oracle</a></li>
+<li><a href="/wiki/Alfred_Pennyworth" title="Alfred Pennyworth">Alfred Pennyworth</a></li>
+<li><a href="/wiki/Maggie_Sawyer" title="Maggie Sawyer">Maggie Sawyer</a></li>
+<li><a href="/wiki/Superman" title="Superman">Superman</a></li>
+<li><a href="/wiki/Leslie_Thompkins" title="Leslie Thompkins">Leslie Thompkins</a></li>
+<li><a href="/wiki/Vicki_Vale" title="Vicki Vale">Vicki Vale</a></li>
+<li><a href="/wiki/Martha_Wayne" title="Martha Wayne">Martha Wayne</a></li>
+<li><a href="/wiki/Thomas_Wayne" title="Thomas Wayne">Thomas Wayne</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/List_of_Batman_Family_adversaries" title="List of Batman Family adversaries">Villains</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anarky" title="Anarky">Anarky</a></li>
+<li><a href="/wiki/Bane_(comics)" title="Bane (comics)">Bane</a></li>
+<li><a href="/wiki/Black_Mask_(comics)" title="Black Mask (comics)">Black Mask</a></li>
+<li><a href="/wiki/Blockbuster_(DC_Comics)" title="Blockbuster (DC Comics)">Blockbuster</a></li>
+<li><a href="/wiki/Calendar_Man" title="Calendar Man">Calendar Man</a></li>
+<li><a href="/wiki/Catman_(comics)" title="Catman (comics)">Catman</a></li>
+<li><a href="/wiki/Catwoman" title="Catwoman">Catwoman</a></li>
+<li><a href="/wiki/Clayface" title="Clayface">Clayface</a></li>
+<li><a href="/wiki/Cluemaster" title="Cluemaster">Cluemaster</a></li>
+<li><a href="/wiki/Deadshot" title="Deadshot">Deadshot</a></li>
+<li><a href="/wiki/Deathstroke" title="Deathstroke">Deathstroke</a></li>
+<li><a href="/wiki/Carmine_Falcone" title="Carmine Falcone">Carmine Falcone</a></li>
+<li><a href="/wiki/Firefly_(DC_Comics)" title="Firefly (DC Comics)">Firefly</a></li>
+<li><a href="/wiki/Harley_Quinn" title="Harley Quinn">Harley Quinn</a></li>
+<li><a href="/wiki/Hugo_Strange" title="Hugo Strange">Hugo Strange</a></li>
+<li><a href="/wiki/Hush_(comics)" title="Hush (comics)">Hush</a></li>
+<li><a href="/wiki/Joe_Chill" title="Joe Chill">Joe Chill</a></li>
+<li><a href="/wiki/Joker_(comics)" title="Joker (comics)">The Joker</a></li>
+<li><a href="/wiki/Duela_Dent" title="Duela Dent">Joker's Daughter</a></li>
+<li><a href="/wiki/Killer_Croc" title="Killer Croc">Killer Croc</a></li>
+<li><a href="/wiki/Killer_Moth" title="Killer Moth">Killer Moth</a></li>
+<li><a href="/wiki/Lady_Shiva" title="Lady Shiva">Lady Shiva</a></li>
+<li><a href="/wiki/League_of_Assassins" title="League of Assassins">The League of Assassins</a></li>
+<li><a href="/wiki/Mad_Hatter_(comics)" title="Mad Hatter (comics)">Mad Hatter</a></li>
+<li><a href="/wiki/Man-Bat" title="Man-Bat">Man-Bat</a></li>
+<li><a href="/wiki/Mr._Freeze" title="Mr. Freeze">Mr. Freeze</a></li>
+<li><a href="/wiki/Penguin_(comics)" title="Penguin (comics)">The Penguin</a></li>
+<li><a href="/wiki/Poison_Ivy_(comics)" title="Poison Ivy (comics)">Poison Ivy</a></li>
+<li><a href="/wiki/Professor_Pyg" title="Professor Pyg">Professor Pyg</a></li>
+<li><a href="/wiki/Ra%27s_al_Ghul" title="Ra's al Ghul">Ra's al Ghul</a></li>
+<li><a href="/wiki/Red_Hood" title="Red Hood">Red Hood</a></li>
+<li><a href="/wiki/Riddler" title="Riddler">The Riddler</a></li>
+<li><a href="/wiki/Scarecrow_(DC_Comics)" title="Scarecrow (DC Comics)">Scarecrow</a></li>
+<li><a href="/wiki/Talia_al_Ghul" title="Talia al Ghul">Talia al Ghul</a></li>
+<li><a href="/wiki/Tweedledum_and_Tweedledee_(comics)" title="Tweedledum and Tweedledee (comics)">Tweedledum and Tweedledee</a></li>
+<li><a href="/wiki/Two-Face" title="Two-Face">Two-Face</a></li>
+<li><a href="/wiki/Ventriloquist_(comics)" title="Ventriloquist (comics)">Ventriloquist</a></li>
+<li><a href="/wiki/Maxie_Zeus" title="Maxie Zeus">Maxie Zeus</a></li>
+<li><a href="/wiki/Victor_Zsasz" title="Victor Zsasz">Victor Zsasz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/List_of_locations_of_the_DC_Universe" title="List of locations of the DC Universe">Locations</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bl%C3%BCdhaven" title="Blüdhaven">Blüdhaven</a></li>
+<li><a href="/wiki/Gotham_City" title="Gotham City">Gotham City</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Ace_Chemicals" title="Ace Chemicals">Ace Chemicals</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Arkham_Asylum" title="Arkham Asylum">Arkham Asylum</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Batcave" title="Batcave">Batcave</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Blackgate_Penitentiary" title="Blackgate Penitentiary">Blackgate Penitentiary</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Gotham_City_Police_Department" title="Gotham City Police Department">Gotham City Police Department</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Haly%27s_Circus" title="Haly's Circus">Haly's Circus</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Iceberg_Lounge" title="Iceberg Lounge">Iceberg Lounge</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Wayne_Enterprises" title="Wayne Enterprises">Wayne Enterprises</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Wayne_Manor" title="Wayne Manor">Wayne Manor</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Lazarus_Pit" title="Lazarus Pit">Lazarus Pit</a></li>
+<li><a href="/wiki/Santa_Prisca_(DC_Comics)" title="Santa Prisca (DC Comics)">Santa Prisca</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Equipment</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Batarang" title="Batarang">Batarang</a></li>
+<li><a href="/wiki/Batcomputer" title="Batcomputer">Batcomputer</a></li>
+<li><a href="/wiki/Batsuit" title="Batsuit">Batsuit</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Batman%27s_utility_belt" title="Batman's utility belt">Utility Belt</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Bat-Signal" title="Bat-Signal">Bat-Signal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Vehicles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Batboat" title="Batboat">Batboat</a></li>
+<li><a href="/wiki/Batcopter" title="Batcopter">Batcopter</a></li>
+<li><a href="/wiki/Batcycle" title="Batcycle">Batcycle</a></li>
+<li><a href="/wiki/Batmobile" title="Batmobile">Batmobile</a></li>
+<li><strong class="selflink">Batplane</strong></li>
+<li><a href="/wiki/Redbird_(comics)" title="Redbird (comics)">Redbird</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/List_of_Batman_comics" title="List of Batman comics">Publications</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Batman_(comic_book)" title="Batman (comic book)">Batman</a></i></li>
+<li><i><a href="/wiki/Batman_and_Robin_(comic_book)" title="Batman and Robin (comic book)">Batman and Robin</a></i></li>
+<li><i><a href="/wiki/Batman_Eternal" title="Batman Eternal">Batman Eternal</a></i></li>
+<li><i><a href="/wiki/Superman/Batman" title="Superman/Batman">Batman/Superman</a></i></li>
+<li><i><a href="/wiki/Detective_Comics" title="Detective Comics">Detective Comics</a></i></li>
+<li><i><a href="/wiki/Batman:_Legends_of_the_Dark_Knight" title="Batman: Legends of the Dark Knight">Legends of the Dark Knight</a></i></li>
+<li><i><a href="/wiki/Red_Hood_and_the_Outlaws" title="Red Hood and the Outlaws">Red Hood and the Outlaws</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">In other media</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Batman_franchise_media" title="Batman franchise media">Batman in other media</a></li>
+<li><a href="/wiki/Robin_in_other_media" title="Robin in other media">Robin in other media</a></li>
+<li><a href="/wiki/Joker_in_other_media" title="Joker in other media">Joker in other media</a></li>
+<li><a href="/wiki/Barbara_Gordon_in_other_media" title="Barbara Gordon in other media">Barbara Gordon in other media</a></li>
+<li><a href="/wiki/Bane_in_other_media" title="Bane in other media">Bane in other media</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Miscellanea</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alternative_versions_of_Batman" title="Alternative versions of Batman">Alternative versions of Batman</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Batman_(Earth-Two)" title="Batman (Earth-Two)">Earth-Two</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Alternative_versions_of_Robin" title="Alternative versions of Robin">Alternative versions of Robin</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Robin_(Earth-Two)" title="Robin (Earth-Two)">Earth-Two</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Alternative_versions_of_Joker" title="Alternative versions of Joker">Alternative versions of Joker</a></li>
+<li><a href="/wiki/Alternative_versions_of_Barbara_Gordon" title="Alternative versions of Barbara Gordon">Alternative versions of Barbara Gordon</a></li>
+<li><a href="/wiki/The_Bat_Whispers" title="The Bat Whispers">The Bat Whispers</a></li>
+<li><a href="/wiki/Zorro" title="Zorro">Zorro</a></li>
+<li><a href="/wiki/Dark_Knight_(nickname)" title="Dark Knight (nickname)">Dark Knight (nickname)</a></li>
+<li><a href="/wiki/Homosexuality_in_the_Batman_franchise" title="Homosexuality in the Batman franchise">Homosexuality in the Batman franchise</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1212
+CPU time usage: 0.277 seconds
+Real time usage: 0.355 seconds
+Preprocessor visited node count: 1496/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43685/2097152 bytes
+Template argument size: 2024/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.064/10.000 seconds
+Lua memory usage: 2.27 MB/50 MB
+-->
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  229.042      1 - -total
+ 31.03%   71.083      1 - Template:Infobox_comics_elements
+ 27.02%   61.896      1 - Template:Reflist
+ 20.70%   47.411      1 - Template:Infobox
+ 20.53%   47.018      1 - Template:Dead_link
+ 17.76%   40.687      1 - Template:Fix
+ 15.99%   36.617      2 - Template:Category_handler
+ 14.72%   33.707      1 - Template:Batman
+ 12.25%   28.054      2 - Template:Navbox
+ 11.57%   26.492      1 - Template:Citation
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6710254-0!*!0!!en!4!* and timestamp 20150202190117 and revision id 634324163
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Batplane&amp;oldid=634324163">http://en.wikipedia.org/w/index.php?title=Batplane&amp;oldid=634324163</a>"					</div>
+<div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Batman_vehicles" title="Category:Batman vehicles">Batman vehicles</a></li><li><a href="/wiki/Category:Fictional_aircraft" title="Category:Fictional aircraft">Fictional aircraft</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Comics_infobox_image_less_alt_text" title="Category:Comics infobox image less alt text">Comics infobox image less alt text</a></li><li><a href="/wiki/Category:Prop_pop" title="Category:Prop pop">Prop pop</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_March_2014" title="Category:Articles with dead external links from March 2014">Articles with dead external links from March 2014</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Batplane&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Batplane" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Batplane" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Batplane" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Batplane">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Batplane&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Batplane&amp;action=history" title="Past versions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if one exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li>
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+<li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li>
+<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+<li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li>
+<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Batplane" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li>
+<li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Batplane" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
+<li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
+<li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=Batplane&amp;oldid=634324163" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=Batplane&amp;action=info" title="More information about this page">Page information</a></li>
+<li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q720706" title="Link to connected data repository item [g]">Wikidata item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Batplane&amp;id=634324163" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Batplane">Create a book</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Batplane&amp;oldid=634324163&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="t-print"><a accesskey="p" href="/w/index.php?title=Batplane&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Batplane" hreflang="es" lang="es" title="Batplane – Spanish">Español</a></li>
+<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Batwing_(Batman)" hreflang="fr" lang="fr" title="Batwing (Batman) – French">Français</a></li>
+<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Batplane" hreflang="pl" lang="pl" title="Batplane – Polish">Polski</a></li>
+<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Batplane" hreflang="simple" lang="simple" title="Batplane – Simple English">Simple English</a></li>
+<li class="uls-p-lang-dummy"><a href="#"></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" class="wbc-editpage" href="//www.wikidata.org/wiki/Q720706#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 18 November 2014, at 03:37.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Batplane&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
+</li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+
+</body>
+</html>

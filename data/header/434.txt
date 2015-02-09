@@ -1,0 +1,17 @@
+Title: Behind the Scenes: ‘Monkeying Out’ with the Tumble Monkeys at ‘Festival of the Lion King’ «  Disney Parks Blog 
+Set-Cookie: _lononce_id=8e0f124ad0ac3083e77c019cabc93c02%7C1425944532%7C4acab215a5a35824390614841f3486b6f6b50981; expires=Mon, 09-Mar-2015 23:42:12 GMT; path=/blog/
+X-Pingback: http://disneyparks.disney.go.com/blog/xmlrpc.php
+X-Environment: production
+X-Instance: 0
+X-Version: 11.2.0.0
+Cache-Control: max-age=300, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Content-Length: 46955
+Accept-Ranges: bytes
+Date: Mon, 09 Feb 2015 23:42:12 GMT
+Age: 0
+Connection: close
+x-Cache: uncached
+X-Mickey: Mickey Mouse!
+X-Donald: Donald Duck!
+

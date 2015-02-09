@@ -1,0 +1,906 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+
+<html dir="ltr" lang="en" version="HTML+RDFa 1.1" xmlns:c="http://s.opencalais.com/1/pred/" xmlns:cat="http://s.opencalais.com/1/type/cat/" xmlns:cgeo="http://s.opencalais.com/1/type/er/Geo/" xmlns:cld="http://s.opencalais.com/1/linkeddata/pred/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:entity="http://s.opencalais.com/1/type/em/e/" xmlns:eventfact="http://s.opencalais.com/1/type/em/r/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:lid="http://s.opencalais.com/1/type/lid/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:resolved="http://s.opencalais.com/1/type/er/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:sys="http://s.opencalais.com/1/type/sys/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta charset="utf-8"/>
+<title>New Pink Floyd Album 'The Endless River' Out in October: Report | Billboard</title>
+<meta content="David Gilmour's wife Polly Samson took to Twitter this morning to leak news of a new Pink Floyd album &quot;based on 1994 sessions&quot; that acts as keyboardist Richard Wright's &quot;swansong.&quot;" name="description"/>
+<meta content="index" name="robots"/>
+<meta content="http://www.billboard.com/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" property="og:url"/>
+<meta content="Billboard" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="Pink Floyd may be releasing a new record this fall, according to guitarist David Gilmour's wife Polly Samson, who tweeted (and possibly leaked?) the news earlier this morning." property="og:description"/>
+<meta content="http://www.billboard.com/files/stylus/1251869-pink-floyd-reunions-617-409.jpg" property="og:image"/>
+<meta content="New Pink Floyd Album 'The Endless River' Out in October: Report" property="og:title"/>
+<meta content="New Pink Floyd Album 'The Endless River' Out in October: Report" property="twitter:title"/>
+<meta content="summary_large_image" property="twitter:card"/>
+<meta content="Pink Floyd may be releasing a new record this fall, according to guitarist David Gilmour's wife Polly Samson, who tweeted (and possibly leaked?) the news earlier this morning.Btw Pink Floyd album..." property="twitter:description"/>
+<meta content="http://www.billboard.com/files/styles/article_cover/public/stylus/1251869-pink-floyd-reunions-617-409.jpg" property="twitter:image"/>
+<meta content="New Pink Floyd Album 'The Endless River' Out in October: Report" property="dcterms.title"/>
+<meta content="2014-07-05T17:46-04:00" property="dcterms.date"/>
+<meta content="http://www.billboard.com/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" property="dcterms.identifier"/>
+<meta content="und" property="dcterms.language"/>
+<meta content="aflanagan" property="dcterms.creator"/>
+<meta content="Text" property="dcterms.type"/>
+<meta content="text/html" property="dcterms.format"/>
+<link href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed-retina.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<meta content="Record Labels,Retail,News,News" name="sailthru.tags"/>
+<link href="http://www.billboard.com/files/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<link href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed-phone.png" rel="apple-touch-icon-precomposed"/>
+<meta content="2014-07-05T17:46:33-04:00" name="sailthru.date"/>
+<link href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<meta content="Drupal 7 (http://drupal.org)" name="generator"/>
+
+<link href="http://m.billboard.com/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" media="only screen and (max-width: 640px)" rel="alternate"/>
+<link href="http://www.billboard.com/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" rel="canonical"/>
+<link href="http://www.billboard.com/node/6150283" rel="shortlink"/>
+<meta about="/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" content="New Pink Floyd Album &amp;#039;The Endless River&amp;#039; Out in October: Report" property="dc:title"/>
+<meta about="/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" content="0" datatype="xsd:integer" property="sioc:num_replies"/>
+<link href="http://www.billboard.com/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.billboard.com/files/css/css_H2Ds0Szmus79ZU6G0Gv8be7ZJhXfUee6g7XMh6DqVAQ.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.billboard.com/files/css/css_E1GbE9U8jKVKU5trvPZf1jSZzJkgPeiY-cuqKkwlzmU.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.billboard.com/files/css/css_elJ_e1R3q7wVZlKr4ax37CeahaRPbqrOccq0Jn2mwik.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://www.billboard.com/files/css/css_FRQpstQ8OED9VvjfiyKU8ZYdKVo5xcI-392bBfmcYdM.css" media="print" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if lte IE 6]>
+  <link rel="stylesheet" href="http://universal-ie6-css.googlecode.com/files/ie6.1.1.css" media="screen, projection">
+  <![endif]-->
+<!--[if IE 8]><meta http-equiv="X-UA-Compatible" content="IE=7" /><![endif]-->
+<!-- Begin comScore Tag -->
+
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=7395269&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+<!-- Begin Legolas Tag -->
+
+<!-- End Legolas Tag -->
+
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-6150283 node-type-article" data-behavior="billboard">
+<div id="fb-root"></div>
+
+<!-- Google Tag Manager -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-MD3ZLS" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+
+<!-- End Google Tag Manager -->
+<div class="bbcom" data-behavior="bbcom" id="bb">
+<div class="breaking_news_bar" data-behavior="breaking_news_bar">
+<div class="c">
+<div class="region region-alert">
+<div class="block block-user-alert" id="block-user-alert-user-alert">
+<div class="content">
+<div class="user-alert" id="user-alert-6465541">
+<i>2015 Grammy Awards:</i> <b><a href="http://www.billboard.com/grammys/2015">See Our Full Post-Show Coverage With Winners, Photos, Video &amp; More</a></b>
+<style type="text/css">
+     .breaking_news_bar {
+        background: #7BD148;
+     }
+   </style>
+</div>
+<ul class="news_bar_actions">
+<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.billboard.com/grammys/2015"><i class="icon fb">Facebook</i></a>
+</li>
+<li><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.billboard.com%2Fgrammys%2F2015&amp;counturl=http%3A%2F%2Fwww.billboard.com%2Fgrammys%2F2015&amp;via=billboard&amp;text=2015+Grammy+Awards%3A+See+Our+Full+Post-Show+Coverage+With+Winners%2C+Photos%2C+Video+%26+More"><i class="icon tw">Twitter</i></a></li>
+<li><a class="close" href="#" rel="6465541"><i class="icon close">Close</i></a></li>
+<li class="clearfix"></li>
+</ul>
+<div class="clearfix"></div>
+
+</div> <!-- /.content -->
+</div> <!-- /.block -->
+</div>
+</div>
+</div>
+<div class="upper_black_nav">
+<div class="c">
+<div class="region region-upper-navigation">
+<div class="block block-menu tertiary-menu" id="block-menu-menu-secondary-menu">
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/photos" onclick="_gaq.push(['_trackEvent','TopNavigation','Photos']);" title="Photos">Photos</a></li>
+<li class="leaf"><a href="/articles/lists" onclick="_gaq.push(['_trackEvent','TopNavigation','Lists']);">Lists</a></li>
+<li class="leaf"><a href="/articles/reviews" onclick="_gaq.push(['_trackEvent','TopNavigation','Reviews']);" title="Reviews">Reviews</a></li>
+<li class="leaf"><a href="/artists/top-100" onclick="_gaq.push(['_trackEvent','TopNavigation','Top-100-Artists']);" title="Top 100 Artists">Artists</a></li>
+<li class="leaf"><a href="/search/site/podcast?f%2525255B0%2525255D=ss_bb_type%3Aarticle" onclick="_gaq.push(['_trackEvent','TopNavigation','Podcasts']);" title="Podcasts">Podcasts</a></li>
+<li class="leaf"><a href="/articles/columns/pop-shop" onclick="_gaq.push(['_trackEvent','TopNavigation','Pop-Shop']);" title="Pop-Shop">Pop-Shop</a></li>
+<li class="leaf"><a href="/articles/columns/the-juice" onclick="_gaq.push(['_trackEvent','TopNavigation','The-Juice']);" title="The Juice">The Juice</a></li>
+<li class="leaf"><a href="/articles/columns/chart-beat" onclick="_gaq.push(['_trackEvent','TopNavigation','Chart-Beat']);" title="Chart Beat">Chart Beat</a></li>
+<li class="last leaf promoted-red"><a class="promoted-red" href="http://www.billboard.com/grammys/2015" onclick="_gaq.push(['_trackEvent','TopNavigation','Grammys2015']);">Grammys 2015</a></li>
+</ul> </div> <!-- /.content -->
+</div> <!-- /.block -->
+</div>
+</div>
+</div>
+<header id="header" role="banner"><div class="section clearfix">
+<div class="region" id="logo">
+<a href="/" onclick="_gaq.push(['_trackEvent','TopNavigation','Main-Logo']);" rel="home" title="Billboard.com">Billboard</a>
+</div>
+<div class="region region-header">
+<div class="block block-billboard-blocks" id="block-billboard-blocks-bb-followus">
+<div class="content">
+<div class="item-list"><ul class="follow-us"><li class="first"><a class="genericon genericon-facebook-alt" href="http://www.facebook.com/Billboard" onclick="_gaq.push(['_trackEvent','Social','Facebook']);" target="_blank"></a></li>
+<li><a class="genericon genericon-twitter" href="http://twitter.com/billboard" onclick="_gaq.push(['_trackEvent','Social','Twitter']);" target="_blank"></a></li>
+<li><a class="genericon genericon-googleplus-alt" href="https://plus.google.com/+Billboard" onclick="_gaq.push(['_trackEvent','Social','Google+']);" target="_blank"></a></li>
+<li><a class="genericon genericon-pinterest" href="https://www.pinterest.com/billboard/" onclick="_gaq.push(['_trackEvent','Social','Pinterest']);" target="_blank"></a></li>
+<li><a class="genericon genericon-instagram" href="http://instagram.com/billboard" onclick="_gaq.push(['_trackEvent','Social','Instagram']);" target="_blank"></a></li>
+<li class="last"><a class="genericon genericon-tumblr" href="http://billboard.tumblr.com/" onclick="_gaq.push(['_trackEvent','Social','Tumblr']);" target="_blank"></a></li>
+</ul></div> </div> <!-- /.content -->
+</div> <!-- /.block -->
+<div class="block block-billboard-blocks" id="block-billboard-blocks-top-cover-art-image">
+<div class="content">
+<div class="top-cover-image">
+<div class="top-links">
+<ul>
+<li><a href="/newsletters">Newsletters</a></li>
+<li><a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS01">Subscribe Now &amp; Save</a></li>
+</ul>
+</div>
+<div class="top-cover-image">
+<a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS01" onclick="_gaq.push(['_trackEvent','Header','Subscribe-Image']);" target="_blank" title="Subscribe To Billboard"><img alt="Billboard Magazine" src="http://www.billboard.com/files/styles/top_cover/public/media/power-100-issue-bb4-2015-billboard-225.jpg" typeof="foaf:Image"/></a> </div>
+<div class="clearfix"></div>
+</div>
+</div> <!-- /.content -->
+</div> <!-- /.block -->
+</div>
+<div class="clearfix"></div>
+</div></header> <!-- /.section, /#header -->
+<nav id="navigation" role="navigation"><div class="section links clearfix">
+<div class="region region-navigation">
+<div class="block block-system block-menu" id="block-system-main-menu">
+<div class="content">
+<ul class="menu"><li class="first expanded"><div><a class="active active" href="/articles" onclick="_gaq.push(['_trackEvent','MainNavigation','News']);" title="Billboard News">News</a><ul class="menu"><li class="first leaf"><a href="/articles/columns/pop-shop" onclick="_gaq.push(['_trackEvent','3rdLandingPageMenu','Style']);" title="Pop-Shop">Pop</a></li>
+<li class="leaf"><a class="_gaq.push(['_trackEvent','MainNavigation','The-Juice']);" href="/articles/columns/the-juice" title="R&amp;B/Hip-Hop">R&amp;B/Hip-Hop</a></li>
+<li class="leaf"><a href="/articles/columns/the-615" onclick="_gaq.push(['_trackEvent','MainNavigation','615']);" title="Country">Country</a></li>
+<li class="leaf"><a href="/articles/columns/code" onclick="_gaq.push(['_trackEvent','MainNavigation','Code']);" title="EDM News">EDM</a></li>
+<li class="leaf"><a href="/articles/columns/latin-notas" onclick="_gaq.push(['_trackEvent','MainNavigation','Latin-Notas']);" title="Latin Music News">Latin</a></li>
+<li class="leaf"><a href="/articles/columns/k-town" onclick="_gaq.push(['_trackEvent','MainNavigation','K-Town']);" title="K-Pop News">K-Pop</a></li>
+<li class="leaf"><a href="http://www.pretareporter.com" onclick="_gaq.push(['_trackEvent','MainNavigation','Fashion/Style']);" title="Fashion/Style News">Fashion/Style</a></li>
+<li class="last leaf"><a href="/articles/columns/music-festivals" onclick="_gaq.push(['_trackEvent','MainNavigation','Music-Festivals']);">Music Festivals</a></li>
+</ul></div></li>
+<li class="leaf"><a href="/charts/hot-100" onclick="_gaq.push(['_trackEvent','MainNavigation','Hot-100']);" title="Hot 100">Hot 100</a></li>
+<li class="leaf"><a href="/charts/billboard-200" onclick="_gaq.push(['_trackEvent','MainNavigation','Billboard-200']);" title="Billboard 200">Billboard 200</a></li>
+<li class="expanded"><div><a href="/charts" onclick="_gaq.push(['_trackEvent','MainNavigation','All-Charts']);" title="All Charts">Charts</a><ul class="menu"><li class="first leaf"><a href="http://www.billboard.com/charts/year-end" onclick="_gaq.push(['_trackEvent','MainNavigation','YearEndCharts2014']);" title="Year End Charts">Year-End 2014</a></li>
+<li class="leaf"><a href="/charts/artist-100" onclick="_gaq.push(['_trackEvent','MainNavigation','Artist-100-Chart']);" title="Billboard Artist 100">Artist 100</a></li>
+<li class="leaf"><a href="http://realtime.billboard.com/?chart=trending140" onclick="_gaq.push(['_trackEvent','MainNavigation','Trending-140-Chart']);" title="Billboard Twitter Trending 140 Chart">Trending 140</a></li>
+<li class="leaf"><a href="http://realtime.billboard.com/?chart=emergingartists" onclick="_gaq.push(['_trackEvent','MainNavigation','Emerging-Artists-Chart']);" title="Billboard Twitter Emerging Artists">Emerging Artists</a></li>
+<li class="leaf"><a href="/charts/holiday-albums" onclick="_gaq.push(['_trackEvent','MainNavigation','HolidayAlbums']);">Holiday Albums</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-rbhip-hop" onclick="_gaq.push(['_trackEvent','MainNavigation','RB-Hip-Hop-Chart']);" title="R&amp;B/Hip-Hop Chart">R&amp;B/Hip-Hop</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-pop" onclick="_gaq.push(['_trackEvent','MainNavigation','Pop-Chart']);" title="Pop Chart">Pop</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-danceelectronic" onclick="_gaq.push(['_trackEvent','MainNavigation','Dance-Electronic-Chart']);" title="Dance/Electronic Chart">Dance/Electronic</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-country" onclick="_gaq.push(['_trackEvent','MainNavigation','Country-Chart']);" title="Country Chart">Country</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-rock" onclick="_gaq.push(['_trackEvent','MainNavigation','Rock-Chart']);" title="Rock Chart">Rock</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-latin" onclick="_gaq.push(['_trackEvent','MainNavigation','Latin-Chart']);" title="Latin Chart">Latin</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-breaking-and-entering" onclick="_gaq.push(['_trackEvent','MainNavigation','Breaking-and-Entering-Chart']);" title="Breaking and Entering Chart">Breaking and Entering</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-christiangospel" onclick="_gaq.push(['_trackEvent','MainNavigation','Christian-Gospel-Chart']);" title="Christian/Gospel Chart">Christian/Gospel</a></li>
+<li class="last leaf"><a href="/charts#id-chart-category-additional-genres" onclick="_gaq.push(['_trackEvent','MainNavigation','Additional-Genres']);" title="Additional Genres">Additional Genres</a></li>
+</ul></div></li>
+<li class="leaf"><a href="/videos" onclick="_gaq.push(['_trackEvent','MainNavigation','Videos']);">Videos</a></li>
+<li class="leaf"><a href="/biz" onclick="_gaq.push(['_trackEvent','MainNavigation','Biz']);" title="Music Business News">Business</a></li>
+<li class="last leaf"><a href="http://www.pretareporter.com" onclick="_gaq.push(['_trackEvent','MainNavigation','Style']);">Style</a></li>
+</ul> </div> <!-- /.content -->
+</div> <!-- /.block -->
+<div class="block block-search" id="block-search-form">
+<div class="content">
+<form accept-charset="UTF-8" action="/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" id="search-block-form" method="post"><div><div class="container-inline">
+<h2 class="element-invisible">Search form</h2>
+<div class="form-item form-type-textfield form-item-search-block-form">
+<label class="element-invisible" for="edit-search-block-form--2">Search </label>
+<input class="form-text" id="edit-search-block-form--2" maxlength="128" name="search_block_form" placeholder="Search Billboard" size="0" type="text" value=""/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="form-submit" id="edit-submit" name="op" type="submit" value="Search"/></div><input name="form_build_id" type="hidden" value="form-avjZ3kK4pEl9LkqF1OUR2qI_a9Jm3RmfpaOLcePhIt0"/>
+<input name="form_id" type="hidden" value="search_block_form"/>
+</div>
+</div></form> </div> <!-- /.content -->
+</div> <!-- /.block -->
+</div>
+<div class="clearfix"></div>
+</div></nav> <!-- /.section, /#navigation -->
+<div id="content-header"><div class="section clearfix">
+<div class="region region-content-header">
+<div class="block block-dfp" id="block-dfp-t">
+<div class="content">
+<div class="dfp-tag-wrapper" id="dfp-ad-t-wrapper">
+<div class="dfp-tag-wrapper" id="dfp-ad-t">
+
+</div>
+</div> </div> <!-- /.content -->
+</div> <!-- /.block -->
+<div class="block block-views" id="block-views-pushdown-promo-block">
+<div class="content">
+<div class="view view-pushdown-promo view-id-pushdown_promo view-display-id-block view-dom-id-f0cccecbdcaf250215ee14a4ca5ba4c9">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-title"> <span class="field-content">THE 57TH GRAMMY AWARDS</span> </div>
+<div class="views-field views-field-field-promo-items"> <div class="field-content"><div class="item-list"><ul><li class="first">
+<article class="promo node-promo_item" id="node-6465566">
+<div class="content-wrapper">
+<div class="content-image">
+<a href="http://www.billboard.com/articles/events/grammys-2015/6465551/grammys-2015-winners-57th-annual" title="WINNERS LIST">
+<div class="field field-name-field-flashbox-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="Pharrell Williams" height="149" src="http://www.billboard.com/files/styles/promo_225/public/media/pharrell-grammys-show-2015-billboard-650.jpg" typeof="foaf:Image" width="225"/></div></div></div> </a>
+</div>
+<div class="content">
+<header>
+<h1><a href="http://www.billboard.com/articles/events/grammys-2015/6465551/grammys-2015-winners-57th-annual" title="WINNERS LIST">WINNERS LIST</a></h1>
+</header>
+</div> <!-- /.content -->
+<div class="clearfix"></div>
+</div>
+</article> <!-- /.node -->
+</li>
+<li>
+<article class="promo node-promo_item" id="node-6465575">
+<div class="content-wrapper">
+<div class="content-image">
+<a href="http://www.billboard.com/photos/6465246/grammy-awards-2015-red-carpet-photos" title="RED CARPET PHOTOS!">
+<div class="field field-name-field-flashbox-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="Haim" height="149" src="http://www.billboard.com/files/styles/promo_225/public/media/haim-grammys-2015-billboard-650.jpg" typeof="foaf:Image" width="225"/></div></div></div> </a>
+</div>
+<div class="content">
+<header>
+<h1><a href="http://www.billboard.com/photos/6465246/grammy-awards-2015-red-carpet-photos" title="RED CARPET PHOTOS!">RED CARPET PHOTOS!</a></h1>
+</header>
+</div> <!-- /.content -->
+<div class="clearfix"></div>
+</div>
+</article> <!-- /.node -->
+</li>
+<li>
+<article class="promo node-promo_item" id="node-6465736">
+<div class="content-wrapper">
+<div class="content-image">
+<a href="http://www.billboard.com/articles/events/grammys-2015/6465674/who-is-beck-grammy-2015-album-of-the-year-beyonce-morning-phase" title="WHO IS BECK?">
+<div class="field field-name-field-flashbox-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="Beck" height="149" src="http://www.billboard.com/files/styles/promo_225/public/media/beck-2014-press-650x430.jpg" typeof="foaf:Image" width="225"/></div></div></div> </a>
+</div>
+<div class="content">
+<header>
+<h1><a href="http://www.billboard.com/articles/events/grammys-2015/6465674/who-is-beck-grammy-2015-album-of-the-year-beyonce-morning-phase" title="WHO IS BECK?">WHO IS BECK?</a></h1>
+</header>
+</div> <!-- /.content -->
+<div class="clearfix"></div>
+</div>
+</article> <!-- /.node -->
+</li>
+<li class="last">
+<article class="promo node-promo_item" id="node-6465723">
+<div class="content-wrapper">
+<div class="content-image">
+<a href="http://www.billboard.com/photos/6458432/grammy-awards-2015-winners-show-performances" title="WINNER &amp; PERFORMANCE PIX!">
+<div class="field field-name-field-flashbox-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img alt="Kristen Wiig " height="149" src="http://www.billboard.com/files/styles/promo_225/public/media/kristen-wiig-sia-grammys-performance-2015-billboard-650.jpg" typeof="foaf:Image" width="225"/></div></div></div> </a>
+</div>
+<div class="content">
+<header>
+<h1><a href="http://www.billboard.com/photos/6458432/grammy-awards-2015-winners-show-performances" title="WINNER &amp; PERFORMANCE PIX!">WINNER &amp; PERFORMANCE PIX!</a></h1>
+</header>
+</div> <!-- /.content -->
+<div class="clearfix"></div>
+</div>
+</article> <!-- /.node -->
+</li>
+</ul></div></div> </div> </div>
+</div>
+<div class="view-footer">
+<div class="view view-pushdown-promo view-id-pushdown_promo view-display-id-block_news view-dom-id-a92faf2aa90bb550932e31463ea28e23">
+<div class="view-header">
+<!--smart_paging_autop_filter--><!--smart_paging_filter-->Latest news     </div>
+<div class="view-content">
+<!-- start scroll -->
+<div class="view view-pushdown_promo"><div class="view-content view-content-pushdown_promo"><div><ul id="views-ticker-liScroll-pushdown_promo"><li class="views-liScroll-item views-liScroll-item-pushdown_promo"><span class="views-liScroll-tick-field">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/articles/events/grammys-2015/6465752/ledisi-responds-beyonce-selma">Grammys 2015: Ledisi Responds to Beyonce Performing Her 'Selma' Track</a></span> </div></span></li><li class="views-liScroll-item views-liScroll-item-pushdown_promo"><span class="views-liScroll-tick-field">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/articles/events/grammys-2015/6465747/kim-kardashian-kanye-west-grammys-good-time-twitter">Kim Kardashian &amp; Kanye West Had a Great Time at the Grammys, Says Kim Kardashian</a></span> </div></span></li><li class="views-liScroll-item views-liScroll-item-pushdown_promo"><span class="views-liScroll-tick-field">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/articles/events/grammys-2015/6465738/beck-grammys-album-year-pr-firm-nasty-little-man">Grammy Win Spurs Nasty Tweets Between Beck's PR Firm &amp; Epic Records President</a></span> </div></span></li><li class="views-liScroll-item views-liScroll-item-pushdown_promo"><span class="views-liScroll-tick-field">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/articles/events/grammys-2015/6465730/beck-lowest-selling-grammy-album-year-since-2008">Beck Has the Lowest-Selling Grammy Album of the Year Since 2008</a></span> </div></span></li><li class="views-liScroll-item views-liScroll-item-pushdown_promo"><span class="views-liScroll-tick-field">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/articles/events/grammys-2015/6465740/grammys-by-label-majors-sweep-indies-strong">Grammy Breakdown By Label: Majors Sweep, Indies Have Strong Collective Showing</a></span> </div></span></li><li class="views-liScroll-item views-liScroll-item-pushdown_promo"><span class="views-liScroll-tick-field">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/articles/6465739/kanye-west-beck-grammys-rant">Op-Ed: Why Beck Was the Wrong Target for Kanye West's Grammy Rant</a></span> </div></span></li><li class="views-liScroll-item views-liScroll-item-pushdown_promo"><span class="views-liScroll-tick-field">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/articles/events/grammys-2015/6465689/grammys-2015-heres-what-happened-at-the-parties">Grammys 2015: Here's What Happened at the Parties</a></span> </div></span></li><li class="views-liScroll-item views-liScroll-item-pushdown_promo"><span class="views-liScroll-tick-field">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/articles/events/grammys-2015/6465734/grammy-awards-ratings-2015-57th-annual">Grammy Awards Pull in 25.3 Million Viewers</a></span> </div></span></li><li class="views-liScroll-item views-liScroll-item-pushdown_promo"><span class="views-liScroll-tick-field">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/articles/events/grammys-2015/6465729/hozier-interview-grammy-2015-red-carpet-video">Watch Hozier Talk Next Single, Haim Love in Grammys Red Carpet Interview </a></span> </div></span></li><li class="views-liScroll-item views-liScroll-item-pushdown_promo"><span class="views-liScroll-tick-field">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/articles/6465732/grammys-2015-taylor-swift-makes-up-kanye-west-diplo">Grammys 2015: Taylor Swift Makes Up With Kanye West and Diplo at Ceremony</a></span> </div></span></li></ul></div></div></div>
+<!-- end scroll -->
+</div>
+</div> </div>
+</div> </div> <!-- /.content -->
+</div> <!-- /.block -->
+</div>
+</div></div> <!-- /.section, /#content-header -->
+<article class="cols cols_2x article">
+<header class="section_header">
+<h1 class="title" id="page-title">New Pink Floyd Album 'The Endless River' Out in October: Report</h1>
+<ul class="categories header_meta header_meta_categories"><li><a href="/articles">Articles</a></li><li class="last_element"><a href="/tag/news-6">News</a></li></ul> <p><i>By <a href="/author/devon-maloney-6253" rel="author">Devon Maloney</a>, N.Y.<a class="tw" href="http://twitter.com/dynamofire" target="_blank"></a></i> <time> | July 05, 2014 5:46 PM EDT</time></p>
+</header>
+<div class="tabs"></div>
+<div id="main-wrapper"><div class="clearfix" id="main">
+<div class="col col_1" role="main"><div class="section">
+<div class="region region-content">
+<div class="block block-system" id="block-system-main">
+<div class="content">
+<div about="/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" class="node node-article bbcom clearfix" data-behavior="infographic" id="node-6150283" typeof="sioc:Item foaf:Document">
+<div class="article-hero">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.billboard.com/files/styles/promo_650/public/stylus/1251869-pink-floyd-reunions-617-409.jpg"><img alt="Pink Floyd Mulling More Reissues After Expanded 'Wall' Releases" height="409" src="http://www.billboard.com/files/styles/promo_650/public/stylus/1251869-pink-floyd-reunions-617-409.jpg" typeof="foaf:Image" width="617"/></div></div></div> <div class="social-actions">
+<a class="pin-it-button" count-layout="none" href="http://pinterest.com/pin/create/button/?media=http%3A//www.billboard.com/files/stylus/1251869-pink-floyd-reunions-617-409.jpg&amp;url=http%3A//www.billboard.com/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It"/></a> </div>
+</div>
+<div class="social social_vert" data-behavior="sticky_social_links">
+<ul class="with_buttons">
+<li>
+<span class="ib fb">6.942 k</span>
+<div class="fb-like" data-href="http://www.billboard.com/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" data-layout="button_count" data-send="false" data-show-faces="true" data-width="300"></div> </li>
+<li>
+<span class="ib tw">540</span>
+<div class="tweetbutton-tweet tweetbutton"><a class="twitter-share-button" data-count="none" data-counturl="http://www.billboard.com/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" data-lang="en" data-related=":" data-size="medium" data-text="New Pink Floyd Album 'The Endless River' Out in October: Report" data-url="http://www.billboard.com/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" data-via="billboard" href="https://twitter.com/share"></a></div> </li>
+<li>
+<span class="ib gplus">25</span>
+<div class="g-plusone-wrapper"><div class="g-plusone" data-annotation="none" data-href="http://www.billboard.com/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" data-size="medium"></div></div> </li>
+</ul>
+<ul>
+<li class="sep">
+<div class="pw-widget pw-size-medium" pw:copypaste="false" pw:url="http://www.billboard.com/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october">
+<a class="pw-button-post"></a>
+</div>
+</li>
+<li class="sep">
+<a class="cmt ib active" data-behavior="scroll_to" href="/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october#disqus_thread"></a> </li>
+</ul>
+<div class="cleaner"></div>
+</div>
+<div class="article_content fix_image">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Pink Floyd may be releasing a new record this fall, according to guitarist David Gilmour's wife Polly Samson, who tweeted (and possibly leaked?) the news earlier this morning.</p>
+<blockquote class="twitter-tweet" lang="en" xml:lang="en"><p>Btw Pink Floyd album out in October is called "The Endless River". Based on 1994 sessions is Rick Wright's swansong and very beautiful.</p>
+<p>— Polly Samson (@PollySamson) <a href="https://twitter.com/PollySamson/statuses/485411029573439488">July 5, 2014</a></p></blockquote>
+<p><a href="http://consequenceofsound.net/2014/07/pink-floyd-to-release-new-album-the-endless-river-in-october/" target="_blank">Consequence of Sound reports</a> that touring vocalist Durga McBroom-Hudson, who sang backup with the band throughout the 1980s and 1990s, <a href="https://www.facebook.com/photo.php?fbid=10152553989649784&amp;set=a.163231639783.116471.575559783&amp;type=1" target="_blank">provided further proof on her Facebook page</a> later in the day, posting a photo from a recording session, confirming that the record will consist of "all unreleased material," and adding:</p>
+<blockquote class="module module_pull_quote"><p><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F6150283%2Fnew-pink-floyd-album-endless-river-out-in-october&amp;counturl=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F6150283%2Fnew-pink-floyd-album-endless-river-out-in-october&amp;via=billboard&amp;text=%22The+recording+did+start+during+%27The+Division+Bell%27+sessions+%28and+yes%2C+it+was+the+side+project..." target="_blank">"The recording did start during 'The Division Bell' sessions (and yes, it was the side project originally titled "The Big Spliff" that [Floyd drummer] Nick Mason spoke about). Which is why there are Richard Wright tracks on it. But David and Nick have gone in and done a lot more since then. It was originally to be a completely instrumental recording, but I came in last December and sang on a few tracks. David then expanded on my backing vocals and has done a lead on at least one of them. That's the song you see being worked on in the photo."<br/><i class="ib tw_blue">Tweet this</i></a></p></blockquote>
+<p style="text-align: center;"><a href="http://www.billboard.com/articles/review/1552399/pink-floyd-the-dark-side-of-the-moon-at-40-classic-track-by-track-review" target="_blank"><strong>Pink Floyd, 'The Dark Side of the Moon' At 40: Classic Track-By-Track Review</strong></a></p>
+<p>The band's longtime engineer Andy Jackson also confirmed the album's release <a href="http://www.floydianslip.com/news/2014/07/details-new-pink-floyd-album/" target="_blank">via fan site Floydian Slip</a>; while the band's current label home, Warner, has yet to confirm the release, Gilmour's manager hinted to the site that a proper announcement would come this monday (July 7). Billboard has reached out to the label and will update as the story progresses.</p>
+<p>If the reports are true, "The Endless River" would come just in time to celebrate the 20th anniversary of the band's final album, 1994's "The Division Bell"; the "new" material would have been recorded around the same time. Gilmour currently has a solo album in the works; no word on whether Roger Waters will have been included, but his last appearance on a Floyd record was in 1983 with "The Final Cut," and he <a href="http://www.billboard.com/biz/articles/news/legal-and-management/5793025/the-outspoken-roger-waters-talks-new-album-the-wall" target="_blank">reportedly has a new solo album</a> in the works.</p>
+<p style="text-align: center;"><a href="http://www.billboard.com/biz/articles/news/touring/1084516/roger-waters-talks-chart-topping-the-wall-tour-in-billboard-cover" target="_blank"><strong>Roger Waters, The 'Wall' Tour: The Billboard Cover Story</strong></a></p>
+<p>Keyboardist Rick Wright -- whose membership in Pink Floyd fluctuated over the years, thanks to a brief exit in 1979 stemming from clashes with Waters while recording "The Wall," a stint as a live session musician while the band toured that album, and an official reentry into the band by the time "Division Bell" was released -- died at 65 of cancer in 2008. </p>
+</div></div></div><div class="field-collection-container clearfix"><div class="field field-name-field-infographic-collection field-type-field-collection field-label-hidden"><div class="field-items"></div></div></div> </div> <!-- /.content -->
+<div class="paginator">
+<p>
+<a class="prt print" href="#print">Print</a>
+</p>
+</div>
+</div> <!-- /.node -->
+</div> <!-- /.content -->
+</div> <!-- /.block -->
+<div class="block block-multiblock" id="block-multiblock-14">
+<div class="content">
+<!-- ================================================ -->
+<!-- GRAVITY PLUGIN -->
+<!-- ================================================ -->
+<div id="grv-personalization-16"></div>
+
+<!-- ================================================ -->
+<!-- END // GRAVITY PLUGIN -->
+<!-- ================================================ -->
+</div> <!-- /.content -->
+</div> <!-- /.block -->
+<div class="block block-disqus" id="block-disqus-disqus-comments">
+<div class="content">
+<div id="disqus_thread"><noscript><p><a href="http://billboardcom.disqus.com/?url=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F6150283%2Fnew-pink-floyd-album-endless-river-out-in-october">View the discussion thread.</a></p></noscript></div> </div> <!-- /.content -->
+</div> <!-- /.block -->
+</div>
+</div></div> <!-- /.section, /#content -->
+<aside class="col col_2 side_rail" id="sidebar-second" role="complementary"><div class="section">
+<div class="region region-sidebar-second">
+<div class="block block-multiblock" id="block-multiblock-16">
+<div class="content">
+<style>
+.promocontainer {
+background: #000;
+text-align: center;
+}
+
+.promocontainer #promoheader {
+	background:#000;
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	width: 100%;
+	height: auto;
+	line-height: 60px;
+}
+.promocontainer img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	width:310px;
+	height:155px;
+}
+
+#featurearea {
+	margin:0 0 30px 0;
+}
+
+p.promotext { 
+	color:#fff;
+	font-size:18px;
+	line-height: 24px;
+	padding:10px;
+}
+
+.promocontainer #promolink {
+	
+}
+
+.promocontainer #promolink a {
+	background: #1cace2;
+	padding: 15px;
+	color:#fff;
+	margin: 10px 0 0 0;
+}
+
+.promocontainer ul {
+	list-style-type: circle !important;
+
+}
+
+.promocontainer li {
+	text-align:left;
+	border-top: 1px solid #444;
+	padding:16px 20px;
+	font-size: 14px;
+	color: #ffffff;
+}
+.promocontainer li a {
+	font-size: 14px;
+	color: #ffffff;
+}
+</style>
+<div class="promocontainer">
+<div id="promoheader">
+<span>
+<a href="http://www.billboard.com/grammys/2015">2015 Grammys
+</a>
+</span>
+</div>
+<div id="featurearea">
+<a href="http://www.billboard.com/photos/6415041/greatest-grammy-moments-of-all-time-photos"><img alt="Grammy Moments" src="http://www.billboard.com/files/styles/promo_650/public/media/grammys-adele-2015-billboard-310x155.jpg"/></a>
+<p class="promotext"><a href="http://www.billboard.com/photos/6415041/greatest-grammy-moments-of-all-time-photos?i=540703">The 50 Greatest Grammy Moments</a></p>
+<span id="promolink">
+<a href="http://www.billboard.com/grammys/2015">
+				Grammy News, Video &amp; Photos ›</a>
+</span>
+</div>
+<ul>
+<li>
+<a 6458432="" grammy-awards-2015-winners-show-performances"="" http:="" photos="" style="font-size:14px; color: #fff;" www.billboard.com="">Grammy Awards 2015: Photos of the Winners, Performances &amp; More!
+				</a>
+</li>
+<li>
+<a href="http://www.billboard.com/articles/events/grammys-2015/6465551/grammys-2015-winners-57th-annual" style="font-size:14px; color: #fff;">Grammys 2015: And the Winners Are ...</a>
+</li>
+<li>
+<a href="http://www.billboard.com/articles/events/grammys-2015/6465607/best-memes-grammys-2015-iggy-azalea-rihanna-beyonce" style="font-size:14px; color: #fff;">Best Memes of Grammys 2015: Iggy Azalea, Rihanna &amp; More</a>
+</li>
+</ul>
+</div> </div> <!-- /.content -->
+</div> <!-- /.block -->
+<div class="block block-dfp" id="block-dfp-m1">
+<div class="content">
+<div class="dfp-tag-wrapper" id="dfp-ad-m1-wrapper">
+<div class="dfp-tag-wrapper" id="dfp-ad-m1">
+
+</div>
+</div> </div> <!-- /.content -->
+</div> <!-- /.block -->
+<div class="block module module_newsletter"><div><p><span>Sign up for<br> our daily newsletter.</br></span></p><div class="block block-bb-sailthru" id="block-bb-sailthru-bbcom-sailthru-subscribe">
+<div class="content">
+<form accept-charset="UTF-8" action="/articles/news/6150283/new-pink-floyd-album-endless-river-out-in-october" id="bb-sailthru-subscribe-block" method="post"><div><div class="form-wrapper" id="sailthru_block_messages"></div><div class="form-item form-type-textfield form-item-email">
+<label for="edit-email">Email <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-text required" id="edit-email" maxlength="128" name="email" placeholder="Enter your email address" size="60" type="text" value=""/>
+</div>
+<input class="form-submit" id="edit-submit--2" name="op" type="submit" value="Sign Up"/><input name="form_build_id" type="hidden" value="form-eBTuojFPU9_NxhpgxGgCK1HP8_VYiYWa4e-RPxiFsfg"/>
+<input name="form_id" type="hidden" value="bb_sailthru_subscribe_block"/>
+</div></form> </div> <!-- /.content -->
+</div> <!-- /.block -->
+</div></div><div class="block block-dfp" id="block-dfp-m2">
+<div class="content">
+<div class="dfp-tag-wrapper" id="dfp-ad-m2-wrapper">
+<div class="dfp-tag-wrapper" id="dfp-ad-m2">
+
+</div>
+</div> </div> <!-- /.content -->
+</div> <!-- /.block -->
+<div class="block block-billboard-blocks" id="block-billboard-blocks-sidebar-promo">
+<div class="content">
+<style>
+.promocontainer {
+background: #000;
+text-align: center;
+}
+
+.promocontainer #promoheader {
+	background:#000;
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	width: 100%;
+	height: auto;
+	line-height: 60px;
+}
+.promocontainer img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	width:310px;
+	height:155px;
+}
+
+#featurearea {
+	margin:0 0 30px 0;
+}
+
+p.promotext{ 
+	color:#fff;
+	font-size:18px;
+	line-height: 24px;
+	padding:10px;
+}
+
+.promocontainer #promolink {
+	
+}
+
+.promocontainer #promolink a {
+	background: #1cace2;
+	padding: 15px;
+	color:#fff;
+	margin: 10px 0 0 0;
+}
+
+.promocontainer ul {
+	list-style-type: circle !important;
+
+}
+
+.promocontainer li {
+	text-align:left;
+	border-top: 1px solid #444;
+	padding:16px 20px;
+	font-size: 14px;
+	color: #ffffff;
+}
+.promocontainer li a {
+	font-size: 14px;
+	color: #ffffff;
+}
+</style>
+<div class="promocontainer">
+<div id="promoheader"><span>2015 Grammys</span></div>
+<div id="featurearea">
+<a href="http://www.billboard.com/articles/events/grammys-2015/6465674/who-is-beck-grammy-2015-album-of-the-year-beyonce-morning-phase"><img alt="Who is Beck" src="http://www.billboard.com/files/styles/promo_650/public/media/grammys-2015-billboard-310x155.jpg"/></a>
+<p class="promotext"><a href="http://www.billboard.com/articles/events/grammys-2015/6465674/who-is-beck-grammy-2015-album-of-the-year-beyonce-morning-phase">Who Is Beck?</a></p>
+<span id="promolink">
+<a href="http://www.billboard.com/grammys/2015">
+				FULL GRAMMY COVERAGE ›</a>
+</span>
+</div>
+<ul>
+<li>
+<a 6465246="" grammy-awards-2015-red-carpet-photos"="" http:="" photos="" style="font-size: 14px; color: #fff; href=" www.billboard.com="">Grammy Awards 2015: Red Carpet Photos!
+				</a>
+</li>
+<li>
+<a 6465582="" articles="" events="" grammys-2015="" http:="" style="font-size: 14px; color: #fff; href=" watch-acdc-rock-highway-to-hell-at-the-2015-grammys-with-chris"="" www.billboard.com="">Watch AC/DC Rock 'Highway to Hell' at the 2015 Grammys With Chris Slade on Drums
+				</a>
+</li>
+<li>
+<a 6465690="" articles="" events="" grammys-2015="" https:="" kanye-west-beck-beyonce-grammys-rant"="" style="font-size: 14px; color: #fff; href=" www.billboard.com="">Kanye West After the Grammys: Beck 'Should've Given His Award to Beyonce'
+				</a>
+</li>
+</ul>
+</div> </div> <!-- /.content -->
+</div> <!-- /.block -->
+<div class="block block-multiblock" id="block-multiblock-18">
+<div class="content">
+<style>
+.promocontainer {
+background: #000;
+text-align: center;
+}
+
+.promocontainer #promoheader {
+	background:#444;
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	width: 100%;
+	height: auto;
+	line-height: 60px;
+}
+.promocontainer img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto; 
+	width:310px;
+	height:155px;
+}
+
+#featurearea {
+	margin:0 0 30px 0;
+}
+
+p.promotext{ 
+	color:#fff;
+	font-size:18px;
+	line-height: 24px;
+	padding:10px;
+}
+
+.promocontainer #promolink {
+	
+}
+
+.promocontainer #promolink a {
+	background: #1cace2;
+	padding: 15px;
+	color:#fff;
+	margin: 10px 0 0 0;
+}
+
+.promocontainer ul {
+	list-style-type: circle !important;
+
+}
+
+.promocontainer li {
+	text-align:left;
+	border-top: 1px solid #444;
+	padding:16px 20px;
+	font-size: 14px;
+	color: #ffffff;
+}
+
+.promocontainer li a {
+	font-size: 14px;
+	color: #ffffff;
+}
+</style>
+<div class="promocontainer">
+<div id="promoheader"><span></span></div>
+<div id="featurearea">
+<!--<a href="http://www.billboard.com/so-you-know-you-cant-dance"><img src="http://www.billboard.com/files/media/icantdance-310x90.jpg" alt="So You Know You Can't Dance"></a>-->
+<p class="promotext">So You Know You Can't Dance</p>
+<span id="promolink">
+<a href="http://www.billboard.com/so-you-know-you-cant-dance">
+				Can't Dance? Here's How!
+			</a>
+</span>
+</div>
+<ul>
+<li>
+<a href="http://www.billboard.com/video/so-you-know-you-cant-dance-maddie-ziegler-teaches-sias-chandelier-routine-6443550?auto=true" style="font-size: 14px; color: #fff;">Maddie Ziegler Teaches Sia's "Chandelier"</a>
+</li>
+<li>
+<a href="http://www.billboard.com/video/so-you-know-you-cant-dance-sisqo-teaches-a-list-routine-6429441?auto=true" style="font-size: 14px; color: #fff;">Sisqo Teaches 'A-List' Routine</a>
+</li>
+<li>
+<a href="http://www.billboard.com/video/so-you-know-you-cant-dance-episode-2-tinashe-teaches-the-whip-6398454?auto=true" style="font-size: 14px; color: #fff;">Tinashe Teaches 'The Whip'
+				</a>
+</li>
+</ul>
+</div> </div> <!-- /.content -->
+</div> <!-- /.block -->
+</div>
+</div></aside> <!-- /.section, /#sidebar-second -->
+<div class="cleaner"></div>
+</div></div> <!-- /#main, /#main-wrapper -->
+</article>
+<div id="footer-top" role="contentinfo"><div class="section">
+<div class="region region-footer-top">
+<section class="block block-billboard-blocks" id="block-billboard-blocks-news-features">
+<h2>News and Features</h2>
+<div class="content">
+<div class="sitewide-news-features">
+<div class="view-gallery" data-behavior="listing_clicks">
+<div class="view-content">
+<article class="promo node-listicle" id="node-1538839">
+<div class="content-wrapper">
+<div class="content-image">
+<a href="/articles/list/1538839/top-50-love-songs-of-all-time"><img alt="Top 50 Love Songs of All Time" src="http://www.billboard.com/files/styles/promo_225/public/media/valentines-home-page-flash-box-650-new_0.jpg" typeof="foaf:Image"/></a> </div>
+<div class="content">
+<header>
+<div class="category">Chart Beat</div>
+<h1><a href="/articles/list/1538839/top-50-love-songs-of-all-time" title="Top 50 Love Songs of All Time">Top 50 Love Songs of All Time</a></h1>
+</header>
+</div> <!-- /.content -->
+<div class="clearfix"></div>
+</div>
+</article> <!-- /.node -->
+<article class="promo node-listicle" id="node-506152">
+<div class="content-wrapper">
+<div class="content-image">
+<a href="/articles/list/506152/top-30-breakup-songs-heartbreak-hits"><img alt="Heartbreak Hits: Top 30 Breakup Songs" src="http://www.billboard.com/files/styles/promo_225/public/media/broken-hearts-650.jpg" typeof="foaf:Image"/></a> </div>
+<div class="content">
+<header>
+<div class="category">List</div>
+<h1><a href="/articles/list/506152/top-30-breakup-songs-heartbreak-hits" title="Heartbreak Hits: Top 30 Breakup Songs">Heartbreak Hits: Top 30 Breakup Songs</a></h1>
+</header>
+</div> <!-- /.content -->
+<div class="clearfix"></div>
+</div>
+</article> <!-- /.node -->
+<article class="promo node-listicle" id="node-5922814">
+<div class="content-wrapper">
+<div class="content-image">
+<a href="/articles/list/5922814/top-50-movie-songs-of-all-time"><img alt="Top 50 Movie Songs Of All Time" src="http://www.billboard.com/files/styles/promo_225/public/media/movie-collage-soundtracks-650.jpg" typeof="foaf:Image"/></a> </div>
+<div class="content">
+<header>
+<div class="category">Chart Beat</div>
+<h1><a href="/articles/list/5922814/top-50-movie-songs-of-all-time" title="Top 50 Movie Songs Of All Time">Top 50 Movie Songs Of All Time</a></h1>
+</header>
+</div> <!-- /.content -->
+<div class="clearfix"></div>
+</div>
+</article> <!-- /.node -->
+<article class="promo node-photo_gallery" id="node-6429426">
+<div class="content-wrapper">
+<div class="content-image">
+<a href="/photos/6429426/music-photos-of-2015-january"><img alt="Music Photos of 2015: January" src="http://www.billboard.com/files/styles/promo_225/public/media/neil-young-late-night-jimmy-fallon-feb-2015-billboard-650.jpg" typeof="foaf:Image"/></a> </div>
+<div class="content">
+<header>
+<div class="category">Photos</div>
+<h1><a href="/photos/6429426/music-photos-of-2015-january" title="Music Photos of 2015: January">Music Photos of 2015: January</a></h1>
+</header>
+</div> <!-- /.content -->
+<div class="clearfix"></div>
+</div>
+</article> <!-- /.node -->
+</div>
+</div>
+</div>
+</div> <!-- /.content -->
+</section> <!-- /.block -->
+<div class="block block-dfp" id="block-dfp-a">
+<div class="content">
+<div class="dfp-tag-wrapper" id="dfp-ad-a-wrapper">
+<div class="dfp-tag-wrapper" id="dfp-ad-a">
+
+</div>
+</div> </div> <!-- /.content -->
+</div> <!-- /.block -->
+</div>
+</div>
+</div></div><!-- /.section, /#footer-top -->
+<footer id="footer" role="contentinfo"><div class="section">
+<div class="region region-footer">
+<div class="block block-billboard-blocks" id="block-billboard-blocks-cover-art-image">
+<div class="content">
+<a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS04" onclick="_gaq.push(['_trackEvent','Footer','Subscribe-Image']);" target="_blank" title="Subscribe To Billboard"><img alt="Billboard Magazine" src="http://www.billboard.com/files/styles/magazine_cover/public/media/power-100-issue-bb4-2015-billboard-225.jpg" typeof="foaf:Image"/></a> </div> <!-- /.content -->
+</div> <!-- /.block -->
+<section class="block block-billboard-blocks footer-magazine" id="block-billboard-blocks-footer-subscribe">
+<h2>Magazine</h2>
+<div class="content">
+<ul>
+<li>
+<a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=landing" onclick="_gaq.push(['_trackEvent', 'Footer', 'Customer-Service']);" title="Customer Service">Customer Service</a>
+<br/>
+<a class="subscribe" href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS03" onclick="_gaq.push(['_trackEvent', 'Footer', 'Subscribe-Bottom-Left']);" title="Subscribe">Subscribe</a>
+<br/>
+<a class="buy" href="http://shop.billboard.com/" onclick="_gaq.push(['_trackEvent', 'Footer', 'Buy-This-Issue']);" title="Buy this issue">Buy this issue</a>
+</li>
+</ul>
+</div> <!-- /.content -->
+</section> <!-- /.block -->
+<section class="block block-billboard-blocks" id="block-billboard-blocks-footer-industry">
+<h2>Billboard biz</h2>
+<div class="content">
+<div class="billboard_blocks" id="block-billboard_blocks_1">
+<div class="footer_industry">
+<p>The online extension of Billboard magazine, www.billboard.com/biz is the essential online destination for the music business.</p>
+<a href="/biz" onclick="_gaq.push(['_trackEvent', 'Footer', 'Biz-Learn-More']);" title="Learn more">Learn more</a>
+</div>
+</div>
+</div> <!-- /.content -->
+</section> <!-- /.block -->
+<section class="block block-menu" id="block-menu-menu-explore-billboard">
+<h2>Explore Billboard</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/articles/news/467859/about-us" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','About-Billboard']);" title="About Billboard">About Billboard</a></li>
+<li class="leaf"><a href="http://shop.billboard.com/" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','Shop']);" title="Shop">Shop</a></li>
+<li class="leaf"><a href="/archive/article" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','News-Archive']);" title="News Archive">News Archive</a></li>
+<li class="leaf"><a href="/photos" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','Photos-Archive']);" title="Photos Archive">Photos Archive</a></li>
+<li class="leaf"><a href="/archive/video_item" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','Videos-Archive']);" title="Videos Archive">Videos Archive</a></li>
+<li class="leaf"><a href="http://www.billboard.com/magazine-archive">Magazine Archive</a></li>
+<li class="last leaf"><a href="/archive/charts">Charts Archive</a></li>
+</ul> </div> <!-- /.content -->
+</section> <!-- /.block -->
+<section class="block block-menu" id="block-menu-menu-informations">
+<h2>Information</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="http://m.billboard.com/" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','Mobile']);" title="Mobile">Mobile</a></li>
+<li class="leaf"><a href="http://www.billboardevents.com/">Billboard Events</a></li>
+<li class="leaf"><a href="/articles/news/468196/contact-us" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','contact-us']);" title="Contact Us">Contact Us</a></li>
+<li class="leaf"><a href="/sitemap" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','sitemap']);" title="Sitemap">Sitemap</a></li>
+<li class="leaf"><a href="/faq" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','faq']);" title="FAQ">FAQ</a></li>
+<li class="leaf"><a href="https://docs.google.com/spreadsheet/viewform?formkey=dDZ1RmJPWndBRmc0cThUOEMwMXhLMXc6MQ#gid=0" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','Feedback']);" title="Feedback">Feedback</a></li>
+<li class="last leaf"><a href="http://www.metrolyrics.com/" target="_blank">Lyrics</a></li>
+</ul> </div> <!-- /.content -->
+</section> <!-- /.block -->
+<section class="block block-menu" id="block-menu-menu-sharing-billboard">
+<h2>Sharing Billboard</h2>
+<div class="content">
+<ul class="menu"><li class="first leaf"><a class="fb" href="http://www.facebook.com/Billboard" onclick="_gaq.push(['_trackEvent','Footer','SharingBillboard','Facebook']);" target="_blank" title="Facebook">Facebook</a></li>
+<li class="leaf"><a class="tw" href="https://twitter.com/billboard" onclick="_gaq.push(['_trackEvent','Footer','SharingBillboard','Twitter']);" target="_blank" title="Twitter">Twitter</a></li>
+<li class="leaf"><a class="gplus" href="https://plus.google.com/+Billboard/posts" onclick="_gaq.push(['_trackEvent','Footer','SharingBillboard','GooglePlus']);" target="_blank" title="Google+">Google+</a></li>
+<li class="leaf"><a class="yt" href="http://youtube.com/billboard" onclick="_gaq.push(['_trackEvent','Footer','SharingBillboard','YouTube']);" target="_blank" title="YouTube">YouTube</a></li>
+<li class="leaf"><a class="ig" href="http://instagram.com/billboard" onclick="_gaq.push(['_trackEvent','Footer','SharingBillboard','Instagram']);" target="_blank" title="Instagram">Instagram</a></li>
+<li class="leaf"><a class="tb" href="http://billboard.tumblr.com/" onclick="_gaq.push(['_trackEvent','Footer','SharingBillboard','Tumblr']);" target="_blank" title="Tumblr">Tumblr</a></li>
+<li class="leaf"><a class="pi" href="http://pintrest.com/billboard" onclick="_gaq.push(['_trackEvent','Footer','SharingBillboard','Pinterest']);" target="_blank" title="Pinterest">Pinterest</a></li>
+<li class="leaf"><a class="sp" href="http://open.spotify.com/app/billboard" onclick="_gaq.push(['_trackEvent','Footer','SharingBillboard','Spotify']);" target="_blank" title="Spotify">Spotify</a></li>
+<li class="leaf"><a class="nsl com" href="/newsletters" onclick="_gaq.push(['_trackEvent','Footer','SharingBillboard','Newsletter']);">Newsletter</a></li>
+<li class="last leaf"><a class="nsl biz" href="/biz/newsletters" onclick="_gaq.push(['_trackEvent','Footer','SharingBillboard','Newsletter']);" title="Newsletter">Newsletter</a></li>
+</ul> </div> <!-- /.content -->
+</section> <!-- /.block -->
+<div class="block block-imageblock footer-logo" id="block-imageblock-2">
+<div class="content">
+<div class="block-image">
+<img alt="Billboard" class="imageblock-image" src="http://www.billboard.com/files/imageblock/logo_footer.png" typeof="foaf:Image"/> </div>
+<div class="block-body">
+<!--smart_paging_autop_filter--><!--smart_paging_filter--><p style="margin-top: 20px;"><a href="http://www.sonicbids.com" target="_blank" title="Sonicbids Gigs"><img alt="Sonicbids - bands apply to play gigs" class="media-element file-media-original" height="30" src="http://www.billboard.com/files/media/logo_sonicbids.png" style="float: right;" title="Sonicbids Gigs" typeof="foaf:Image" width="120"/></a><a href="http://www.backstage.com/" target="_blank" title="Backstage Casting"><img alt="Backstage Casting for Actors" class="media-element file-media-original" height="30" src="http://www.billboard.com/files/media/logo_backstage.png" style="float: right;" title="Backstage Casting" typeof="foaf:Image" width="145"/></a></p> </div>
+</div> <!-- /.content -->
+</div> <!-- /.block -->
+<div class="block block-menu" id="block-menu-menu-footer-links">
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/terms-of-use" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','Terms-Of-Use']);" title="Terms of Use">Terms of Use</a></li>
+<li class="leaf"><a href="/privacy-policy" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','Privacy-Policy']);" title="Privacy Policy">Privacy Policy    </a></li>
+<li class="last leaf"><a class="item-advertising" href="http://advertising.billboard.com/" onclick="_gaq.push(['_trackEvent','Footer','ExploreBillboard','Advertising']);" style="color:#1cace2 !important;" title="Advertising">     Advertising</a></li>
+</ul> </div> <!-- /.content -->
+</div> <!-- /.block -->
+<div class="block block-dfp" id="block-dfp-o1">
+<div class="content">
+<div class="dfp-tag-wrapper" id="dfp-ad-o1-wrapper">
+<div class="dfp-tag-wrapper" id="dfp-ad-o1">
+
+</div>
+</div> </div> <!-- /.content -->
+</div> <!-- /.block -->
+</div>
+<div id="copy">© 2015 Billboard. All Rights Reserved.</div>
+</div></footer> <!-- /.section, /#footer -->
+</body></html> <!-- /#bb --> <div class="region region-page-bottom">
+ </div>
+
+
+
+
+
+
+
+
+ 
+
+

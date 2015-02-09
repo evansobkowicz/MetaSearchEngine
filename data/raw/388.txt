@@ -1,0 +1,359 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html class="no-js" dir="ltr" version="XHTML+RDFa 1.0" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Schools" property="article:section"/>
+<meta content="116541048368485" property="article:publisher"/>
+<meta content="Bedford-katonah, New York Patch" property="og:site_name"/>
+<meta content="http://patch.com/new-york/bedford/harvey-school-students-perform-alice-wonderland" property="og:url"/>
+<meta content="459719980707802" property="fb:app_id"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="2015-02-08T19:21:57-07:00" property="article:modified_time"/>
+<meta content="2015-02-08T12:59:09-07:00" property="article:published_time"/>
+<meta content="http://cdn.patch.com/users/21821499/2015/02/T800x600/20150254d7bda96b38b.jpg" property="og:image"/>
+<meta content="http://cdn.patch.com/users/21821499/2015/02/T800x600/20150254d7bd8ace658.jpg" property="og:image"/>
+<meta content="http://cdn.patch.com/users/21821499/2015/02/T800x600/20150254d7bdc93491d.jpg" property="og:image"/>
+<meta content="http://cdn.patch.com/users/21821499/2015/02/T800x600/20150254d7bdd9e6f6b.jpg" property="og:image"/>
+<meta content="Harvey School Students Perform 'Alice in Wonderland'" property="og:title"/>
+<link href="http://cdn.patch.com/users/21821499/2015/02/T800x600/20150254d7bd8ace658.jpg" rel="image_src"/>
+<meta content="The show was presented at the Lasdon Theater of the Katonah-based school’s Walker Center for the Arts." property="og:description"/>
+<title>Harvey School Students Perform 'Alice in Wonderland' | Bedford-Katonah, NY Patch</title>
+<link href="http://patch.com/sites/all/themes/patch/3.1.4.237/css/style.css" rel="stylesheet" type="text/css"/>
+<!-- Browser Compatibility and Mobile device handling -->
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+<!-- Icons -->
+<link href="http://cdn.patch.com/assets/layout/favicon.ico" rel="shortcut icon"/>
+<link href="http://cdn.patch.com/assets/layout/apple-touch-icon-152-precomposed.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="http://cdn.patch.com/assets/layout/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="http://cdn.patch.com/assets/layout/apple-touch-icon-120-precomposed.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="http://cdn.patch.com/assets/layout/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="http://cdn.patch.com/assets/layout/apple-touch-icon-76-precomposed.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="http://cdn.patch.com/assets/layout/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="http://cdn.patch.com/assets/layout/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="http://cdn.patch.com/assets/layout/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon"/>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700" rel="stylesheet" type="text/css"/>
+<!--  Sanitization of URL to remove any user emails.  Required for DFP compliance -->
+
+</head>
+<body class="desktop local">
+<div class="ym" id="ym_926650617073180568"></div>
+
+<!--
+    <script type="text/javascript" src="http://static.yieldmo.com/ym.m2.js"></script>
+-->
+<div id="wrapper"></div><div id="page-wrapper">
+<a name="top"></a><div class="public" id="page"><div class="header-container"><div class="nav-main-container navbar navbar-fixed-top" id="slide-nav" role="navigation"><div class="region region-nav-geography"><div class="block block-client-ads-dfp" id="block-client-ads-dfp-client-ad-dfp-config"><div class="content">
+
+
+</div></div><div class="block block-client-navigation" id="block-client-navigation-client-navigation-geography"><div class="content"><div class="container"><div class="navbar-header">
+<button class="navbar-toggle" data-target="#nav-main" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span></button><div class="navbar-brand">
+<span class="site-name">
+<a href="/new-york/bedford" title="Bedford-Katonah Patch">Bedford-Katonah</a></span>
+<span class="site-logo">
+<a href="/new-york/bedford" title="Bedford-Katonah Patch">Patch</a></span>
+<span class="breadcrumb-divider breadcrumb-pipe"></span>
+<a class="breadcrumb breadcrumb-region dropdown-toggle" data-toggle="dropdown" href="#" id="nav-findyourpatch" title="Find Your Patch">
+<span class="patch-icon icon-patch-location"></span> Find Your Patch
+<span class="caret"></span></a><div class="dropdown-menu dropdown-menu-border full-width" id="dropdown-find-your-patch" role="menu"><div class="dropdown-menu-inner"><div class="row"><div class="col-fav col-sm-6 col-lg-4 clearfix"><div class="block-title">
+<span class="header">My Favorites
+<span class="remaining-favs"></span></span></div><ul class="menu" id="favourites"><li class="nav">
+<a class="add-favourite" data-alias="new-york/bedford" data-name="Bedford-Katonah">
+<span class="patch-icon icon-patch-view-all"></span> Add to Favorites</a></li></ul></div><div class="col-recent col-sm-6 col-lg-4"><div class="block-title">
+<span class="header">Recently Visited</span></div><ul class="menu" data-alias="new-york/bedford" data-name="Bedford-Katonah" id="recents"></ul></div><div class="col-browse col-sm-12 col-lg-4 clearfix"><div class="block-title">
+<span class="header">Find Your Community</span></div><div class="widget-search">
+<input autocomplete="off" class="form-control form-text community_search" id="community_search" placeholder="Find your Patch by name or zipcode..." type="text"/><div id="spinner-placeholder"> </div><div class="autocomplete-results" id="autocomplete-results"></div>
+<span class="patch-icon icon-patch-search"></span><div class="left"></div><div class="right"></div></div><p class="help-inline">Find your Patch by name or zipcode.</p><ul class="menu"><li>
+<a href="http://corp.patch.com/browse" title="Browse Patches by State">
+<span class="patch-icon icon-patch-search"></span> Browse Patches by State</a></li></ul></div><div class="col-nearby col-sm-6 col-md-6 col-lg-4"><div class="block-title">
+<span class="header">Nearby Patches</span></div><ul class="menu menu-nearby"><li>
+<a href="/new-york/chappaqua" title="Chappaqua-Mount Kisco Patch">
+<span class="patch-icon icon-patch-location"></span> Chappaqua-Mount Kisco</a></li><li>
+<a href="/connecticut/ridgefield" title="Ridgefield Patch">
+<span class="patch-icon icon-patch-location"></span> Ridgefield</a></li><li>
+<a href="/connecticut/newcanaan" title="New Canaan Patch">
+<span class="patch-icon icon-patch-location"></span> New Canaan</a></li><li>
+<a href="/connecticut/wilton" title="Wilton Patch">
+<span class="patch-icon icon-patch-location"></span> Wilton</a></li><li>
+<a href="/new-york/yorktown-somers" title="Yorktown-Somers Patch">
+<span class="patch-icon icon-patch-location"></span> Yorktown-Somers</a></li><li>
+<a href="/connecticut/stamford" title="Stamford Patch">
+<span class="patch-icon icon-patch-location"></span> Stamford</a></li><li>
+<a href="/connecticut/greenwich" title="Greenwich Patch">
+<span class="patch-icon icon-patch-location"></span> Greenwich</a></li><li>
+<a href="/new-york/southeast" title="Southeast-Brewster Patch">
+<span class="patch-icon icon-patch-location"></span> Southeast-Brewster</a></li></ul></div><div class="col-regional col-sm-6 col-md-6 col-lg-4"><div class="block-title">
+<span class="header">State Edition</span></div><ul class="menu"><li>
+<a href="/new-york" title="New York Patch">
+<span class="patch-icon icon-patch-location"></span> New York</a></li><li>
+<a href="http://corp.patch.com/states/new-york" title="Browse All Patches Within New York">
+<span class="patch-icon icon-patch-location"></span> Browse All Patches Within New York</a></li></ul></div><div class="col-national col-sm-6 col-md-6 col-lg-4"><div class="block-title">
+<span class="header">National Edition</span></div><ul class="menu"><li>
+<a class="active" href="/" title="Best of Patch Nationwide">
+<span class="patch-icon icon-patch-fav"></span> Best of Patch Nationwide</a></li><li>
+<a href="http://corp.patch.com/about" title="About Patch">
+<span class="patch-icon icon-patch-about"></span> About Patch</a></li></ul></div></div></div></div></div><div class="navbar-right"><ul class="nav navbar-nav navbar-social pull-right"><li>
+<a class="link-social" href="http://contribute.patch.com" id="link-publish" rel="nofollow" target="_blank" title="Publish to Patch">
+<span class="patch-icon icon-patch-create-article"></span></a></li></ul>
+<span class="breadcrumb-divider breadcrumb-pipe pull-right"></span><div class="widget-weather-container"><div class="widget-weather"><div class="content"><div class="date">
+<span class="date-val">09</span>
+<span class="month-val">Feb</span>
+<span class="year-val">2015</span></div>
+<canvas class="patch-weather-icon cloudy" data-skycon="cloudy" height="128" id="patch-weather-icon" width="128"></canvas><div class="temperature">
+<span class="text">22°</span>
+<span class="summary">Overcast</span></div></div></div></div></div></div></div></div></div></div><div class="region region-nav-primary"><div class="block block-client-navigation" id="block-client-navigation-client-navigation-primary"><div class="content"><div id="slidemenu"><div class="nav-primary"><div class="container"><div class="navbar-brand visible-xs">
+<span class="site-logo">
+<a href="/new-york/bedford" title="Patch">Patch</a></span></div><ul class="nav navbar-nav nav-styled"><li>
+<a href="/new-york/bedford" id="primarynav-home" title="Bedford-Katonah Patch">
+<span class="patch-icon icon-patch-home"></span> Home</a></li><li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="primarynav-topic" title="Topics For Articles In Bedford-Katonah">
+<span class="patch-icon icon-patch-my-contributions"></span> All Topics
+<span class="patch-icon icon-patch-chevron-right"></span>Schools
+<span class="caret"></span></a><ul class="dropdown-menu dropdown-menu-border full-width" id="dropdown-menu-topics" role="menu"><li><ul class="menu dropdown-menu-inner dropdown-menu-inner-topics"><li class="col-topic">
+<a href="/new-york/bedford/around-town" role="menuitem" title="Around Town">
+<span class="taxonomy taxonomy-category"></span> Around Town</a></li><li class="col-topic">
+<a href="/new-york/bedford/arts-entertainment" role="menuitem" title="Arts &amp; Entertainment">
+<span class="taxonomy taxonomy-category"></span> Arts &amp; Entertainment</a></li><li class="col-topic">
+<a href="/new-york/bedford/backtoschool" role="menuitem" title="Back To School">
+<span class="taxonomy taxonomy-category"></span> Back To School</a></li><li class="col-topic">
+<a href="/new-york/bedford/bulletinboard" role="menuitem" title="Bulletin Board">
+<span class="taxonomy taxonomy-category"></span> Bulletin Board</a></li><li class="col-topic">
+<a href="/new-york/bedford/business" role="menuitem" title="Business">
+<span class="taxonomy taxonomy-category"></span> Business</a></li><li class="col-topic">
+<a href="/new-york/bedford/classifieds" role="menuitem" title="Classifieds">
+<span class="taxonomy taxonomy-category"></span> Classifieds</a></li><li class="col-topic">
+<a href="/new-york/bedford/going-green" role="menuitem" title="Going Green">
+<span class="taxonomy taxonomy-category"></span> Going Green</a></li><li class="col-topic">
+<a href="/new-york/bedford/good-news" role="menuitem" title="Good News">
+<span class="taxonomy taxonomy-category"></span> Good News</a></li><li class="col-topic">
+<a href="/new-york/bedford/holidays" role="menuitem" title="Holidays">
+<span class="taxonomy taxonomy-category"></span> Holidays</a></li><li class="col-topic">
+<a href="/new-york/bedford/jobs" role="menuitem" title="Jobs">
+<span class="taxonomy taxonomy-category"></span> Jobs</a></li><li class="col-topic">
+<a href="/new-york/bedford/lifestyle" role="menuitem" title="Lifestyle">
+<span class="taxonomy taxonomy-category"></span> Lifestyle</a></li><li class="col-topic">
+<a href="/new-york/bedford/obituaries" role="menuitem" title="Obituaries">
+<span class="taxonomy taxonomy-category"></span> Obituaries</a></li><li class="col-topic">
+<a href="/new-york/bedford/opinion" role="menuitem" title="Opinion">
+<span class="taxonomy taxonomy-category"></span> Opinion</a></li><li class="col-topic">
+<a href="/new-york/bedford/police-fire" role="menuitem" title="Police &amp; Fire">
+<span class="taxonomy taxonomy-category"></span> Police &amp; Fire</a></li><li class="col-topic">
+<a href="/new-york/bedford/politics" role="menuitem" title="Politics">
+<span class="taxonomy taxonomy-category"></span> Politics</a></li><li class="col-topic">
+<a href="/new-york/bedford/real-estate" role="menuitem" title="Real Estate">
+<span class="taxonomy taxonomy-category"></span> Real Estate</a></li><li class="col-topic">
+<a href="/new-york/bedford/schools" role="menuitem" title="Schools">
+<span class="taxonomy taxonomy-category"></span> Schools</a></li><li class="col-topic">
+<a href="/new-york/bedford/small-business-voices" role="menuitem" title="Small Business Voices">
+<span class="taxonomy taxonomy-category"></span> Small Business Voices</a></li><li class="col-topic">
+<a href="/new-york/bedford/sports" role="menuitem" title="Sports">
+<span class="taxonomy taxonomy-category"></span> Sports</a></li></ul></li></ul></li></ul></div></div></div>
+
+</div></div></div></div></div><div id="page-content"><div class="billboard-container container" id="widget-billboard"></div><div class="widget-top-container container" id="widget-container"><div class="ad-leaderboard-container" id="ad-leaderboard"><div class="region region-ad-leaderboard"><div class="block block-client-ads-dfp" id="block-client-ads-dfp-client-ad-dfp-lb"><div class="content"><div class="client-ad" id="client_ad_dfp_lb"></div></div></div></div></div><div class="widget-row"><div id="widget-left"><div class="region region-widget-left"><div class="block block-client-widget-weather" id="block-client-widget-weather-client-widget-weather"><div class="content"><div class="widget-weather"><div class="content"><div class="date">
+<span class="date-val">09</span>
+<span class="month-val">Feb</span>
+<span class="year-val">2015</span></div>
+<canvas class="patch-weather-icon cloudy" data-skycon="cloudy" height="128" id="patch-weather-icon" width="128"></canvas><div class="temperature">
+<span class="text">22°</span>
+<span class="summary">Overcast</span></div></div></div></div></div></div></div><div id="widget-right"></div></div></div><div id="nav-secondary"></div><div class="content-main-container-border container"><div class="content-wrapper"><div class="content-main-container col-custom"><div class="region region-content"><div class="block block-system" id="block-system-main"><div class="content"><div about="/node/24741923" class="node node-article clearfix" id="node-24741923" typeof=""><div class="article full content"><div class="article-title-container"><h1 class="article-title">Harvey School Students Perform 'Alice in Wonderland'</h1><h2 class="article-deck">The show was presented at the Lasdon Theater of the Katonah-based school’s Walker Center for the Arts.</h2></div><div class="article-meta clearfix"><div class="article-meta-content">
+<span class="article-shared"> By
+<a class="article-author" href="/users/alfred-branchb2f40412e3a68c8e0949b28477a71255b18f82dc63549462f789a23576fa998d" title="View Alfred Branch’s Profile">
+<span class="article-author-name">Alfred Branch</span> (Patch Staff)</a> </span>
+<span class="article-updated meta-separator">
+<span class="patch-icon icon-patch-clock"></span>February 8, 2015 at 7:21pm</span>
+<span class="meta-sharing meta-separator">
+<a class="addthis_button_compact">
+<span class="patch-icon icon-patch-add-this"></span></a></span>
+<span class="article-mod">
+<a href="http://contribute.patch.com/moderation/24741923" rel="nofollow" target="_blank">
+<span class="patch-icon icon-patch-p"></span></a></span></div><div id="ad_logo_top_container"><div class="client-ad" id="client_ad_dfp_logo_top"></div></div></div><div class="article-image"><div class="article-thumbnails" id="article-thumbnails"></div><div class="cycle-slideshow" data-cycle-auto-height="container" data-cycle-caption="#article-image-caption" data-cycle-caption-template="{{imageCaption}}" data-cycle-loader="wait" data-cycle-pager="#article-thumbnails" data-cycle-pager-template="&lt;a href='#'&gt;&lt;div class='thumbnail-container'&gt;
+&lt;img src='{{src}}' alt='' /&gt;&lt;/div&gt;&lt;/a&gt;" data-cycle-timeout="0" data-pause-on-hover="true" data-speed="1000"><div class="cycle-prev"></div><div class="cycle-next"></div>
+<img alt="Harvey School Students Perform 'Alice in Wonderland'" src="http://cdn.patch.com/users/21821499/2015/02/T800x600/20150254d7bd8ace658.jpg"/>
+<img alt="Harvey School Students Perform 'Alice in Wonderland'" src="http://cdn.patch.com/users/21821499/2015/02/T800x600/20150254d7bda96b38b.jpg"/>
+<img alt="Harvey School Students Perform 'Alice in Wonderland'" src="http://cdn.patch.com/users/21821499/2015/02/T800x600/20150254d7bdc93491d.jpg"/>
+<img alt="Harvey School Students Perform 'Alice in Wonderland'" src="http://cdn.patch.com/users/21821499/2015/02/T800x600/20150254d7bdd9e6f6b.jpg"/></div></div><div class="article-body clearfix" id="article-body"><p>Middle school students of The Harvey School presented a lively and colorful production of Alice in Wonderland, Thursday, Feb. 5 in the Lasdon Theater of the school’s Walker Center for the Arts.</p><p>Above are some photos from the show, featuring a number of students from the local area.</p><p>Photo 1: From left, Elizabeth Mahony of South Salem (Alice One), Alexander Zelkas of Chappaqua (The Cheshire Cat), Katie Ketner of Ridgefield (Sister)</p><p>Photo 2: From left, Zoe Lewis of White Plains (Alice Three) and Jane Kelleran of Katonah (The White Queen)</p><p>Photo 3: Alexander Zelkas of Chappaqua (The Cheshire Cat), Nadine Rattner of Waccabuc (Tweedledee), Pierson Husted of Armonk (The White Rabbit), Lexi Wierdsma of Katonah (Alice Two), Mitchell Gilman of Katonah (Tweedledum), and others [left to right, background (faces showing), Harrison Class of Danbury; Hayden Carillo of Somers; Zoe Lewis of White Plains; Joseph DiGrandi of Bethel; Sophia Scarsella of Briarcliff Manor ; Jane Kelleran of Katonah ; Maya Mehrara of Chappaqua; and Jeannie Fink of Yorktown Heights].</p><p>Photo 4: Katie Ketner of Ridgefield (Sister) and Alexander Zelkas of Chappaqua (The Cheshire Cat)</p><p><i>Photo credit: John Brooks</i></p><div class="article-more"><div><div class="btn-group btn-group-lg" id="btn-group-share"><div class="btn placeholder">Share</div>
+<a class="btn addthis_button_facebook" id="addthis_button_facebook">
+<span class="patch-icon icon-patch-facebook"></span></a>
+<a class="btn addthis_button_twitter" id="addthis_button_twitter">
+<span class="patch-icon icon-patch-twitter"></span></a>
+<a class="btn addthis_button_google_plusone_share" id="addthis_button_google_plus">
+<span class="patch-icon icon-patch-google-plus"></span></a>
+<a class="btn addthis_button_compact" id="addthis_button_add_this">
+<span class="patch-icon icon-patch-add-this"></span></a></div></div><div class="btn-group btn-group-lg" id="btn-group-comments">
+<a class="btn" href="#comments" id="btn_comment_now" title="View Comments for “Harvey School Students Perform 'Alice in Wonderland'”">
+<span class="patch-icon icon-patch-round-megaphone"></span> Comment Now</a></div>
+
+
+</div></div></div></div></div></div><div class="block block-client-ads-dfp" id="block-client-ads-dfp-client-ad-dfp-logo"><div class="content"><div class="client-ad" id="client_ad_dfp_logo"></div></div></div><div class="block block-client-ads-taboola" id="block-client-ads-taboola-client-ad-taboola-slot-1"><div class="content"><div class="taboola" id="taboola1"></div><div class="taboola" id="taboola-below-article-text-links"></div>
+
+
+</div></div><div class="block block-client-comment-disqus" id="block-client-comment-disqus-client-comment-disqus"><div class="content">
+<a name="comments"></a><div id="disqus_thread"></div>
+
+
+</div></div></div></div><div class="sidebar-container" id="sidebar"><div class="region region-sidebar"><div class="block block-client-ads-dfp" id="block-client-ads-dfp-client-ad-dfp-slot-1"><div class="content"><div class="client-ad" id="client_ad_dfp_slot_1"></div></div></div><div class="block block-client-ads-dfp" id="block-client-ads-dfp-client-ad-dfp-slot-2"><div class="content"><div class="client-ad" id="client_ad_dfp_slot_2"></div></div></div><div class="block block-client-article-trending" id="block-client-article-trending-client-article-trending-nat"><div class="content"><div class="block-title">
+<span class="header">Trending
+<span class="em">Patch</span></span></div></div></div></div></div></div></div></div></div></div></body></html><div class="widget-trending" id="trending-across-patch"><div class="trending-item-outer"><div class="trending-item">
+<a href="/massachusetts/wakefield/recent-record-breaking-snowstorms-lead-one-bostons-snowiest-winters-ever-0" title="Recent Record-Breaking Snowstorms Lead to One of Boston's Snowiest Winters Ever">
+<span class="count">1</span>
+<span class="text">Recent Record-Breaking Snowstorms Lead to One of Boston's Snowiest Winters Ever</span></a></div></div><div class="trending-item-outer"><div class="trending-item">
+<a href="/illinois/bolingbrook/wife-killer-drew-peterson-tried-put-hit-prosecutor-who-put-him-away-0" title="Wife-Killer Drew Peterson Tried to Put Hit on Prosecutor Who Put Him Away">
+<span class="count">2</span>
+<span class="text">Wife-Killer Drew Peterson Tried to Put Hit on Prosecutor Who Put Him Away</span></a></div></div><div class="trending-item-outer"><div class="trending-item">
+<a href="/maryland/bethesda-chevychase/bethesda-gas-prices-bounce-upward-how-high-will-they-go" title="Gas Prices Bounce Upward: How High Will They Go?">
+<span class="count">3</span>
+<span class="text">Gas Prices Bounce Upward: How High Will They Go?</span></a></div></div><div class="trending-item-outer"><div class="trending-item">
+<a href="/florida/sarasota/deputies-man-listed-drug-dealer-job-arrest-report-0" title="Deputies: Man Listed 'Drug Dealer' As Job on Arrest Report">
+<span class="count">4</span>
+<span class="text">Deputies: Man Listed 'Drug Dealer' As Job on Arrest Report</span></a></div></div><div class="trending-item-outer"><div class="trending-item">
+<a href="/new-jersey/manchester-nj/ocean-county-teens-tweets-about-bombing-jews-not-criminal-prosecutor" title="No Charges For Ocean County Teen Who Posted Pictures Dressed As Hitler, Threatened Jews With Bombing">
+<span class="count">5</span>
+<span class="text">No Charges For Ocean County Teen Who Posted Pictures Dressed As Hitler, Threatened Jews With Bombing</span></a></div></div></div><div class="block block-client-ads-dfp" id="block-client-ads-dfp-client-ad-dfp-slot-3"><div class="content"><div class="client-ad" id="client_ad_dfp_slot_3"></div></div></div><div class="block block-client-article-topstories" id="block-client-article-topstories-client-article-topstories-reg"><div class="content"><div class="block-title">
+<span class="header">Top News
+<span class="em">New York</span></span></div><div class="row page-container" id="New York"><div class="tile-outer"><div class="article tile micro">
+<span class="article-title">
+<a href="/new-york/halfhollowhills/driver-escapes-suv-blaze-melville" title="Driver Escapes SUV Blaze in Melville"> Driver Escapes SUV Blaze in Melville </a></span><div class="article-image">
+<a href="/new-york/halfhollowhills/driver-escapes-suv-blaze-melville" title="Driver Escapes SUV Blaze in Melville">
+<img alt="Driver Escapes SUV Blaze in Melville" class="invisifade" data-src="http://cdn.patch.com/users/37540/stock/T200x150/20150254d783ef4c16b.png" src=""/><noscript>
+<img alt="Driver Escapes SUV Blaze in Melville" src="http://cdn.patch.com/users/37540/stock/T200x150/20150254d783ef4c16b.png"/></noscript></a></div><div class="article-body"> The incident occurred Saturday afternoon, police say.</div></div></div><div class="tile-outer"><div class="article tile micro">
+<span class="article-title">
+<a href="/new-york/tarrytown/tappan-zee-bridge-featured-cover-president-obamas-budget-document" title="Tappan Zee Bridge Featured on Cover of President Obama's Budget Document"> Tappan Zee Bridge Featured on Cover of President Obama's Budget Document </a></span><div class="article-image">
+<a href="/new-york/tarrytown/tappan-zee-bridge-featured-cover-president-obamas-budget-document" title="Tappan Zee Bridge Featured on Cover of President Obama's Budget Document">
+<img alt="Tappan Zee Bridge Featured on Cover of President Obama's Budget Document" class="invisifade" data-src="http://cdn.patch.com/users/21821499/2015/02/T200x150/20150254d5164348e7d.jpg" src=""/><noscript>
+<img alt="Tappan Zee Bridge Featured on Cover of President Obama's Budget Document" src="http://cdn.patch.com/users/21821499/2015/02/T200x150/20150254d5164348e7d.jpg"/></noscript></a></div><div class="article-body"> One of President Obama's key priorities is modernizing much of the nation's infrastructure.</div></div></div><div class="tile-outer"><div class="article tile micro">
+<span class="article-title">
+<a href="/new-york/glencove/scam-elderly-victims-targeted-glen-cove-homes" title="Cops: Distraction Burglars Steal $50K From Elderly Glen Cove Couple"> Cops: Distraction Burglars Steal $50K From Elderly Glen Cove Couple </a></span><div class="article-image">
+<a href="/new-york/glencove/scam-elderly-victims-targeted-glen-cove-homes" title="Cops: Distraction Burglars Steal $50K From Elderly Glen Cove Couple">
+<img alt="Cops: Distraction Burglars Steal $50K From Elderly Glen Cove Couple" class="invisifade" data-src="http://cdn.patch.com/users/37540/2015/02/T200x150/20150254d1848a9145a.png" src=""/><noscript>
+<img alt="Cops: Distraction Burglars Steal $50K From Elderly Glen Cove Couple" src="http://cdn.patch.com/users/37540/2015/02/T200x150/20150254d1848a9145a.png"/></noscript></a></div><div class="article-body"> Two local couples scammed on Tuesday, police say.</div></div></div><div class="tile-outer"><div class="article tile micro">
+<span class="article-title">
+<a href="/new-york/huntington/police-huntington-man-crashes-car-breaks-home-kills-cat-menaces-drivers-kitchen-knife" title="Police: Huntington Man Crashes Car, Breaks Into Home, Kills Cat, Menaces Drivers With Kitchen Knife, Robs Students"> Police: Huntington Man Crashes Car, Breaks Into Home, Kills Cat, Menaces Drivers With Kitchen Knife, Robs Students </a></span><div class="article-image">
+<a href="/new-york/huntington/police-huntington-man-crashes-car-breaks-home-kills-cat-menaces-drivers-kitchen-knife" title="Police: Huntington Man Crashes Car, Breaks Into Home, Kills Cat, Menaces Drivers With Kitchen Knife, Robs Students">
+<img alt="Police: Huntington Man Crashes Car, Breaks Into Home, Kills Cat, Menaces Drivers With Kitchen Knife, Robs Students" class="invisifade" data-src="http://cdn.patch.com/users/5713/stock/T200x150/20150254d36a2fdb1ab.jpg" src=""/><noscript>
+<img alt="Police: Huntington Man Crashes Car, Breaks Into Home, Kills Cat, Menaces Drivers With Kitchen Knife, Robs Students" src="http://cdn.patch.com/users/5713/stock/T200x150/20150254d36a2fdb1ab.jpg"/></noscript></a></div><div class="article-body"> Nicholas Patrikis faces multiple charges after alleged crime spree in Oyster Bay Cove.</div></div></div><div class="tile-outer"><div class="article tile micro">
+<span class="article-title">
+<a href="/new-york/sachem/police-2-dead-apparent-carbon-monoxide-poisoning-holbrook-auto-detailing-shop-0" title="Police: 2 Dead From Apparent Carbon Monoxide Poisoning at Holbrook Auto Detailing Shop"> Police: 2 Dead From Apparent Carbon Monoxide Poisoning at Holbrook Auto Detailing Shop </a></span><div class="article-image">
+<a href="/new-york/sachem/police-2-dead-apparent-carbon-monoxide-poisoning-holbrook-auto-detailing-shop-0" title="Police: 2 Dead From Apparent Carbon Monoxide Poisoning at Holbrook Auto Detailing Shop">
+<img alt="Police: 2 Dead From Apparent Carbon Monoxide Poisoning at Holbrook Auto Detailing Shop" class="invisifade" data-src="http://cdn.patch.com/users/5713/stock/T200x150/20150254d4c30c4aad6.png" src=""/><noscript>
+<img alt="Police: 2 Dead From Apparent Carbon Monoxide Poisoning at Holbrook Auto Detailing Shop" src="http://cdn.patch.com/users/5713/stock/T200x150/20150254d4c30c4aad6.png"/></noscript></a></div><div class="article-body"> Two men found dead Thursday evening, police say.</div></div></div></div></div></div><div class="block block-client-ads-dfp" id="block-client-ads-dfp-client-ad-dfp-slot-4"><div class="content"><div class="client-ad" id="client_ad_dfp_slot_4"></div></div></div><div class="block block-client-article-topstories" id="block-client-article-topstories-client-article-topstories-nat"><div class="content"><div class="block-title">
+<span class="header">Top News
+<span class="em">USA</span></span></div><div class="row page-container" id="USA"><div class="tile-outer"><div class="article tile micro">
+<span class="article-title">
+<a href="/illinois/oaklawn/jackie-robinson-west-should-be-stripped-us-champion-title-las-vegas-coach" title="Jackie Robinson West Should Be Stripped of U.S. Champion Title: Las Vegas Coach"> Jackie Robinson West Should Be Stripped of U.S. Champion Title: Las Vegas Coach </a></span><div class="article-image">
+<a href="/illinois/oaklawn/jackie-robinson-west-should-be-stripped-us-champion-title-las-vegas-coach" title="Jackie Robinson West Should Be Stripped of U.S. Champion Title: Las Vegas Coach">
+<img alt="Jackie Robinson West Should Be Stripped of U.S. Champion Title: Las Vegas Coach" class="invisifade" data-src="http://cdn.patch.com/users/26955/2015/02/T200x150/20150254d90783ae4af.jpg" src=""/><noscript>
+<img alt="Jackie Robinson West Should Be Stripped of U.S. Champion Title: Las Vegas Coach" src="http://cdn.patch.com/users/26955/2015/02/T200x150/20150254d90783ae4af.jpg"/></noscript></a></div><div class="article-body"> "The whole nation was deceived," says coach of the team that lost the U.S. series to Jackie Robinson West. "We need to make things right."</div></div></div><div class="tile-outer"><div class="article tile micro">
+<span class="article-title">
+<a href="/maryland/bethesda-chevychase/bethesda-gas-prices-bounce-upward-how-high-will-they-go" title="Gas Prices Bounce Upward: How High Will They Go?"> Gas Prices Bounce Upward: How High Will They Go? </a></span><div class="article-image">
+<a href="/maryland/bethesda-chevychase/bethesda-gas-prices-bounce-upward-how-high-will-they-go" title="Gas Prices Bounce Upward: How High Will They Go?">
+<img alt="Gas Prices Bounce Upward: How High Will They Go?" class="invisifade" data-src="http://cdn.patch.com/users/714975/2015/02/T200x150/20150254d9037d9fe67.jpg" src=""/><noscript>
+<img alt="Gas Prices Bounce Upward: How High Will They Go?" src="http://cdn.patch.com/users/714975/2015/02/T200x150/20150254d9037d9fe67.jpg"/></noscript></a></div><div class="article-body"> Here are the cheapest gas prices in our area.</div></div></div><div class="tile-outer"><div class="article tile micro">
+<span class="article-title">
+<a href="/maryland/towson/after-dui-charge-michael-phelps-return-pool-0" title="After DUI Charge, Michael Phelps to Return to Competitive Swimming"> After DUI Charge, Michael Phelps to Return to Competitive Swimming </a></span><div class="article-image">
+<a href="/maryland/towson/after-dui-charge-michael-phelps-return-pool-0" title="After DUI Charge, Michael Phelps to Return to Competitive Swimming">
+<img alt="After DUI Charge, Michael Phelps to Return to Competitive Swimming" class="invisifade" data-src="http://cdn.patch.com/users/57041/2015/02/T200x150/20150254d6504bee06d.png" src=""/><noscript>
+<img alt="After DUI Charge, Michael Phelps to Return to Competitive Swimming" src="http://cdn.patch.com/users/57041/2015/02/T200x150/20150254d6504bee06d.png"/></noscript></a></div><div class="article-body"> Towson Olympian will dive back into competition this spring after six-month suspension.</div></div></div><div class="tile-outer"><div class="article tile micro">
+<span class="article-title">
+<a href="/massachusetts/wakefield/recent-record-breaking-snowstorms-lead-one-bostons-snowiest-winters-ever-0" title="Recent Record-Breaking Snowstorms Lead to One of Boston's Snowiest Winters Ever"> Recent Record-Breaking Snowstorms Lead to One of Boston's Snowiest Winters Ever </a></span><div class="article-image">
+<a href="/massachusetts/wakefield/recent-record-breaking-snowstorms-lead-one-bostons-snowiest-winters-ever-0" title="Recent Record-Breaking Snowstorms Lead to One of Boston's Snowiest Winters Ever">
+<img alt="Recent Record-Breaking Snowstorms Lead to One of Boston's Snowiest Winters Ever" class="invisifade" data-src="http://cdn.patch.com/users/22831684/stock/T200x150/20150254d932b1141bb.jpg" src=""/><noscript>
+<img alt="Recent Record-Breaking Snowstorms Lead to One of Boston's Snowiest Winters Ever" src="http://cdn.patch.com/users/22831684/stock/T200x150/20150254d932b1141bb.jpg"/></noscript></a></div><div class="article-body"> More than six feet of snow has fallen on Boston since Jan. 27, breaking the city’s record for snowiest 40-day period in just 17 days.</div></div></div><div class="tile-outer"><div class="article tile micro">
+<span class="article-title">
+<a href="/new-jersey/mahwah/watch-possible-murder-suicide-bergen-county-0" title="UPDATE: Baby Found Alive, Healthy After Parents Die In Possible Murder-Suicide"> UPDATE: Baby Found Alive, Healthy After Parents Die In Possible Murder-Suicide </a></span><div class="article-image">
+<a href="/new-jersey/mahwah/watch-possible-murder-suicide-bergen-county-0" title="UPDATE: Baby Found Alive, Healthy After Parents Die In Possible Murder-Suicide">
+<img alt="UPDATE: Baby Found Alive, Healthy After Parents Die In Possible Murder-Suicide" class="invisifade" data-src="http://cdn.patch.com/users/65079/2015/02/T200x150/20150254d760f7394f2.jpg" src=""/><noscript>
+<img alt="UPDATE: Baby Found Alive, Healthy After Parents Die In Possible Murder-Suicide" src="http://cdn.patch.com/users/65079/2015/02/T200x150/20150254d760f7394f2.jpg"/></noscript></a></div><div class="article-body"> Husband's parents found victims and baby, whose mother often bragged about the child on Facebook. "Augie is getting so big," one wrote.</div></div></div></div></div></div><div class="block block-client-ads-dfp" id="block-client-ads-dfp-client-ad-dfp-slot-5"><div class="content"><div class="client-ad" id="client_ad_dfp_slot_5"></div></div></div><div id="footer"><div class="region region-footer"><div class="block block-client-footer" id="block-client-footer-client-footer"><div class="content"><div aria-hidden="true" aria-labelledby="newsletterComingSoon" class="modal fade" id="newsletterModal" role="dialog" tabindex="-1"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><p>
+<button class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span>
+<span class="sr-only">Close</span></button></p></div><div class="modal-body"><iframe src="http://link.patch.com/join/3-0-subscribe?list=US_NY_BEDFORD_KATONAH_32"></iframe></div></div></div></div><div class="footer-container"><div class="footer-primary-container container"><div class="footer-topic-container-inner"><ul class="menu dropdown-menu-inner-topics dropdown-menu-inner"><li class="col-header col-xs-12"><div class="block-title">
+<span class="header">Topics</span></div></li><li class="col-topic">
+<a href="/new-york/bedford/around-town" role="menuitem" title="Around Town">
+<span class="taxonomy taxonomy-category"></span> Around Town</a></li><li class="col-topic">
+<a href="/new-york/bedford/arts-entertainment" role="menuitem" title="Arts &amp; Entertainment">
+<span class="taxonomy taxonomy-category"></span> Arts &amp; Entertainment</a></li><li class="col-topic">
+<a href="/new-york/bedford/backtoschool" role="menuitem" title="Back To School">
+<span class="taxonomy taxonomy-category"></span> Back To School</a></li><li class="col-topic">
+<a href="/new-york/bedford/bulletinboard" role="menuitem" title="Bulletin Board">
+<span class="taxonomy taxonomy-category"></span> Bulletin Board</a></li><li class="col-topic">
+<a href="/new-york/bedford/business" role="menuitem" title="Business">
+<span class="taxonomy taxonomy-category"></span> Business</a></li><li class="col-topic">
+<a href="/new-york/bedford/classifieds" role="menuitem" title="Classifieds">
+<span class="taxonomy taxonomy-category"></span> Classifieds</a></li><li class="col-topic">
+<a href="/new-york/bedford/going-green" role="menuitem" title="Going Green">
+<span class="taxonomy taxonomy-category"></span> Going Green</a></li><li class="col-topic">
+<a href="/new-york/bedford/good-news" role="menuitem" title="Good News">
+<span class="taxonomy taxonomy-category"></span> Good News</a></li><li class="col-topic">
+<a href="/new-york/bedford/holidays" role="menuitem" title="Holidays">
+<span class="taxonomy taxonomy-category"></span> Holidays</a></li><li class="col-topic">
+<a href="/new-york/bedford/jobs" role="menuitem" title="Jobs">
+<span class="taxonomy taxonomy-category"></span> Jobs</a></li><li class="col-topic">
+<a href="/new-york/bedford/lifestyle" role="menuitem" title="Lifestyle">
+<span class="taxonomy taxonomy-category"></span> Lifestyle</a></li><li class="col-topic">
+<a href="/new-york/bedford/obituaries" role="menuitem" title="Obituaries">
+<span class="taxonomy taxonomy-category"></span> Obituaries</a></li><li class="col-topic">
+<a href="/new-york/bedford/opinion" role="menuitem" title="Opinion">
+<span class="taxonomy taxonomy-category"></span> Opinion</a></li><li class="col-topic">
+<a href="/new-york/bedford/police-fire" role="menuitem" title="Police &amp; Fire">
+<span class="taxonomy taxonomy-category"></span> Police &amp; Fire</a></li><li class="col-topic">
+<a href="/new-york/bedford/politics" role="menuitem" title="Politics">
+<span class="taxonomy taxonomy-category"></span> Politics</a></li><li class="col-topic">
+<a href="/new-york/bedford/real-estate" role="menuitem" title="Real Estate">
+<span class="taxonomy taxonomy-category"></span> Real Estate</a></li><li class="col-topic">
+<a href="/new-york/bedford/schools" role="menuitem" title="Schools">
+<span class="taxonomy taxonomy-category"></span> Schools</a></li><li class="col-topic">
+<a href="/new-york/bedford/small-business-voices" role="menuitem" title="Small Business Voices">
+<span class="taxonomy taxonomy-category"></span> Small Business Voices</a></li><li class="col-topic">
+<a href="/new-york/bedford/sports" role="menuitem" title="Sports">
+<span class="taxonomy taxonomy-category"></span> Sports</a></li></ul></div><div class="footer-primary-container-inner"><div class="footer-content col-xs-12"><div class="block-title">
+<span class="header">About Patch</span></div><p>Patch is a community-specific news, information and engagement network driven by passionate and experienced media professionals. Patch is run by professional editors and salespeople. We hope that our sites will strengthen communities and improve the lives of their residents, but we can't do it without you. We've built Patch so that you have plenty of opportunities to comment on stories, share your opinions and add events to the community calendar. So get to it!</p></div></div><div class="footer-primary-container-inner" id="footer-stay-connected"><ul class="footer-social"><li>
+<a class="link-social" data-toggle="modal" href="#newsletterModal" title="Subscribe To The Bedford-Katonah Patch Email Newsletter">
+<span class="patch-icon icon-patch-news"></span></a></li><li>
+<a class="link-social" href="mailto:Bedford@Patch.com" title="Contact Bedford-Katonah Patch At Bedford@Patch.com">
+<span class="patch-icon icon-patch-mail"></span></a></li><li>
+<a class="link-social" href="https://facebook.com/pages/Bedford-Katonah-Patch/113820738640106" rel="nofollow" target="_blank" title="Like Bedford-Katonah Patch On Facebook">
+<span class="patch-icon icon-patch-facebook"></span></a></li><li>
+<a class="link-social" href="https://twitter.com/bedkatonahpatch" rel="nofollow" target="_blank" title="Follow Bedford-Katonah Patch On Twitter">
+<span class="patch-icon icon-patch-twitter"></span></a></li></ul></div><div class="footer-primary-container-inner"><div class="col-footer col-brand">
+<a class="footer-logo patch-icon icon-patch-patch" href="http://patch.com"><span></span></a></div><div class="col-footer col-corporate">
+<span class="header">Corporate Info</span><ul class="menu"><li>
+<a href="http://corp.patch.com/about" title="About Patch">About Patch</a></li><li>
+<a href="http://corp.patch.com/careers-volunteering" title="Careers &amp; Volunteering">Careers &amp; Volunteering</a></li></ul></div><div class="col-footer col-partnerships">
+<span class="header">Partnerships</span><ul class="menu"><li>
+<a href="http://corp.patch.com/advertise-with-us" title="Advertise With Patch">Advertise</a></li><li>
+<a href="https://patch.zendesk.com/hc/en-us/sections/200008123-Business-Directory" title="Patch for Businesses">Patch for Businesses</a></li><li>
+<a href="http://corp.patch.com/what-people-are-saying" title="What People Are Saying">What People Are Saying</a></li></ul></div><div class="col-footer col-support">
+<span class="header">Support</span><ul class="menu"><li>
+<a href="https://patch.zendesk.com/hc/en-us/categories/200003713-Frequently-Asked-Questions-and-How-To-s" title="Frequently Asked Questions and How-To's">FAQs</a></li><li>
+<a href="http://corp.patch.com/contact-us" title="Contact Us">Contact Us</a></li><li>
+<a href="http://cdn.patch.com/assets/sales/Patch%20Ad%20Specs.pdf" rel="nofollow" target="_blank" title="About Our Advertisements">About our Ads</a></li></ul></div></div></div><div class="footer-secondary-container container"><div class="footer-secondary-container-inner"><div class="row footer-copyright text-center"><div class="col-xs-12">
+<span class="header visible-xs">Copyright</span>
+<span class="footer-text">© 2015 Patch Media. All Rights Reserved.</span><ul class="menu"><li>
+<a href="http://aol.com/" rel="nofollow" target="_blank" title="Patch Network"><strong>Patch Network</strong></a></li><li>
+<a href="http://corp.patch.com/terms" title="Terms of Use">Terms of Use</a></li><li>
+<a href="http://corp.patch.com/privacy" title="Privacy Policy">Privacy Policy</a></li></ul></div></div></div></div></div></div></div><div class="block block-client-ops-alexa" id="block-client-ops-alexa-client-ops-alexa"><div class="content">
+
+<noscript>
+<img alt="" height="1" src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qKjWj1a0Sn00GK" style="display:none" width="1"/></noscript></div></div><div class="block block-client-ops-chartbeat" id="block-client-ops-chartbeat-client-ops-chartbeat"><div class="content">
+
+
+</div></div><div class="block block-client-ops-google-analytics" id="block-client-ops-google-analytics-client-ops-google-analytics"><div class="content">
+
+</div></div><div class="block block-client-ops-moat" id="block-client-ops-moat-client-ops-moat"><div class="content">
+
+</div></div></div></div> 
+
+
+
+<!--  Add disqus scripts to get comment counts in a all article pages -->
+
+
+<div class="ym" id="ym_926651499093368731"></div>
+
+
+

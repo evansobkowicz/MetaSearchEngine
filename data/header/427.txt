@@ -1,0 +1,14 @@
+Title: Broadway Show Tickets
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Length: 33833
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 4.0.30319
+X-AspNetMvc-Version: 4.0
+Set-Cookie: __RequestVerificationToken=tYP0Ttxc94-Xqm5QmfDTO_VbnLW0MuHhHuYxLoG1Na21Kr4MH3XdW24qak1zfB9OwIT5XjEA3TmJf2EeXCysyBnDnbz8oGL2LLdJJpNJy6V7x_e_9n_Vhm1CjZnC9p8caTsvOw2; path=/; HttpOnly
+Date: Mon, 09 Feb 2015 23:42:01 GMT
+Connection: close
+

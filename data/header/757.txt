@@ -1,0 +1,20 @@
+Title: Brian Jones - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=81456; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sun, 08 Feb 2015 23:31:54 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1531904394 1531070308, 1277229213 1167131178
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:48:35 GMT
+Age: 87347
+Connection: close
+X-Cache: cp1052 hit (9), cp1055 frontend hit (88)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

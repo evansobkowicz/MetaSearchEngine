@@ -1,0 +1,16 @@
+Title: Amazon.com: The Dark Knight Rises [Blu-ray]: Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway, Tom Hardy, Marion Cotillard, Joseph Gordon-Levitt, Morgan Freeman, Christopher Nolan: Movies & TV
+Date: Mon, 09 Feb 2015 23:41:37 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 0WDCJE9D8N9XEJJWET9B
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: dvd_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: gZzGSH1BMjQ59qWDyqFF6AXGvMQ8d5kAzz19AZBbqFaewnEFbrmgVY2bbpTay+U/
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+

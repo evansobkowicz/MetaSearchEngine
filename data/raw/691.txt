@@ -1,0 +1,43 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>International ABBA Fan Club: Home</title>
+<link href="/styles/main.css?nocache" rel="stylesheet" type="text/css"/>
+<link href="/styles/menu.css?nocache" rel="stylesheet">
+
+
+
+
+</link></meta></head>
+<body>
+<div id="Omhulsel">
+
+
+
+<div id="Content">
+<!-- CONTENT START -->
+<!--
+<center><table border=0 cellspacing=0 cellpadding=3><tr>
+ <td><img src="/greeting/xmaswish2010.jpg" border=0 alt="Christmas wish"></td>
+ <td valign="middle" class="smalltext">Merry Christmas & a Happy New Year!</td>
+</tr></table></center>
+-->
+<h1>Welcome to the Official International ABBA Fan Club</h1>
+<p>The Fan Club offers so much more than just a magazine; it opens up doors to concerts and premieres for you,
+you can win rare promo and signed items, and every now and then there are special gifts for all members.
+To find out more and see how to join <a class="link" href="/fanclub">here</a>.</p>
+<!--
+<p>The Fan Club is more than just a magazine.
+Our members get to attend premieres, concerts and other happenings, and they can win rare promos and autographs, and sometimes there are special gifts for all with the magazine.
+Want to know more or become a member? <a class="link" href="/fanclub">Read&nbsp;more<a>.</p>
+-->
+<hr width="80%">
+<h2 align="center">News Headlines</h2>
+
+<p><a class="link" href="/cgi-bin/news/show_news.pl">Read more news</a></p>
+<!-- CONTENT END -->
+</hr></div> <!-- Content -->
+</div> <!-- omhulsel -->
+</body></html>

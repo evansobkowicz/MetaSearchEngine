@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+
+<!--[if IE 8]><html class="ie8"><![endif]-->
+<!--[if IE 9]><html class="ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="user-scalable=yes, width=device-width, initial-scale=1.0, maximum-scale=1" name="viewport">
+<title>Gift Idea: A New Rolling Stones Picture Book. The Bad News? It Costs $10,000 | Geeks and Beats Podcast</title>
+<!--[if lt IE 9]>
+	<script src="http://www.geeksandbeats.com/wp-content/themes/voice/js/html5.js"></script>
+<![endif]-->
+<!-- Push notifications for this website enabled by Roost. Support for Safari, Firefox, and Chrome Browser Push. (v 2.2.0) - http://goroost.com/ -->
+<link href="http://www.geeksandbeats.com/feed/" rel="alternate" title="Geeks and Beats Podcast » Feed" type="application/rss+xml"/>
+<link href="http://www.geeksandbeats.com/comments/feed/" rel="alternate" title="Geeks and Beats Podcast » Comments Feed" type="application/rss+xml"/>
+<link href="http://www.geeksandbeats.com/2014/11/gift-idea-a-new-rolling-stones-picture-book-the-bad-news-it-costs-10000/feed/" rel="alternate" title="Geeks and Beats Podcast » Gift Idea: A New Rolling Stones Picture Book. The Bad News? It Costs $10,000 Comments Feed" type="application/rss+xml"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/thinktwit/thinktwit.css?ver=4.1" id="thinktwit-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/dw-question-answer/inc/templates/default/assets/css/style.css?ver=1598476" id="dwqa-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/meks-flexible-shortcodes/css/font-awesome/css/font-awesome.min.css?ver=1.2.4" id="mks_shortcodes_fntawsm_css-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/meks-flexible-shortcodes/css/simple-line/simple-line-icons.css?ver=1.2.4" id="mks_shortcodes_simple_line_icons-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/meks-flexible-shortcodes/css/style.css?ver=1.2.4" id="mks_shortcodes_css-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.6.0&amp;ver=4.1" id="rs-plugin-settings-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="rs-plugin-settings-inline-css" type="text/css">
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.68" id="wp-polls-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Roboto%3A400&amp;subset=latin%2Clatin-ext&amp;ver=1.2" id="vce_font_0-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Condensed%3A400&amp;subset=latin%2Clatin-ext&amp;ver=1.2" id="vce_font_1-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/themes/voice/style.css?ver=1.2" id="vce_style-css" media="screen, print" rel="stylesheet" type="text/css"/>
+<style id="vce_style-inline-css" type="text/css">
+body {background-color:#ffffff;}body,.mks_author_widget h3,.site-description,.meta-category a,textarea {font-family: 'Roboto';font-weight: 400;}h1,h2,h3,h4,h5,h6,blockquote,.vce-post-link,.site-title,.site-title a,.main-box-title,.comment-reply-title,.entry-title a,.vce-single .entry-headline p,.vce-prev-next-link,.author-title,.mks_pullquote,.widget_rss ul li .rsswidget {font-family: 'Roboto Condensed';font-weight: 400;}.main-navigation a,.sidr a{font-family: 'Roboto';font-weight: 400;}.vce-single .entry-content,.vce-single .entry-headline,.vce-single .entry-footer {width: 600px;}.vce-page .entry-content,.vce-page .entry-title-page {width: 600px;}.vce-sid-none .vce-single .entry-content,.vce-sid-none .vce-single .entry-headline,.vce-sid-none .vce-single .entry-footer {width: 1090px;}.vce-sid-none .vce-page .entry-content,.vce-sid-none .vce-page .entry-title-page,.error404 .entry-content {width: 1090px;}body, button, input, select, textarea{color: #444444;}h1,h2,h3,h4,h5,h6,.entry-title a,.prev-next-nav a{color: #000000;}a,.entry-title a:hover,.vce-prev-next-link:hover,.vce-author-links a:hover,.required,.error404 h4,.prev-next-nav a:hover{color: #cc0000;}.vce-square,.vce-main-content .mejs-controls .mejs-time-rail .mejs-time-current,button,input[type="button"],input[type="reset"],input[type="submit"],.vce-button,.pagination-wapper a,#vce-pagination .next.page-numbers,#vce-pagination .prev.page-numbers,#vce-pagination .page-numbers,#vce-pagination .page-numbers.current,.vce-link-pages a,#vce-pagination a,.vce-load-more a,.vce-slider-pagination .owl-nav > div,.comment-reply-link:hover,.vce-featured-section a,.vce-lay-g .vce-featured-info .meta-category a,.vce-404-menu a,.vce-post.sticky .meta-image:before,#vce-pagination .page-numbers:hover{background-color: #cc0000;}#vce-pagination .page-numbers{background: transparent;color: #cc0000;border: 1px solid #cc0000;}#vce-pagination .page-numbers.current{border: 1px solid #cc0000;}.widget_categories .cat-item:before,.widget_categories .cat-item .count{background: #cc0000;}.comment-reply-link{border: 1px solid #cc0000; }.entry-meta div, .entry-meta div a,.comment-metadata a,.meta-category span,.meta-author-wrapped,.wp-caption .wp-caption-text,.widget_rss .rss-date,.sidebar cite,.site-footer cite,.sidebar .vce-posts-wrap .entry-meta div, .sidebar .vce-posts-wrap .entry-meta div a, .sidebar .vce-posts-wrap .fn, .sidebar .vce-posts-wrap .fn a,.site-footer .vce-posts-wrap .entry-meta div, .site-footer .vce-posts-wrap .entry-meta div a, .site-footer .vce-posts-wrap .fn, .site-footer .vce-posts-wrap .fn a{color: #9b9b9b; }.main-box-title, .comment-reply-title, .main-box-head{background: #ffffff;color: #232323;}.sidebar .widget .widget-title a{color: #232323;}.main-box,.comment-respond,.prev-next-nav{background: #ffffff;}.vce-post,ul.comment-list > li.comment,.main-box-single,.ie8 .vce-single,#disqus_thread,.vce-author-card,.vce-author-card .vce-content-outside{background: #ffffff;}.mks_tabs.horizontal .mks_tab_nav_item.active{border-bottom: 1px solid #ffffff; }.mks_tabs.horizontal .mks_tab_item,.mks_tabs.vertical .mks_tab_nav_item.active,.mks_tabs.horizontal .mks_tab_nav_item.active{background: #ffffff;}.mks_tabs.vertical .mks_tab_nav_item.active{border-right: 1px solid #ffffff; }#vce-pagination, .vce-slider-pagination .owl-controls,.vce-content-outside{background: #f3f3f3;}.sidebar .widget-title{background: #ffffff; color: #232323; }.sidebar .widget{background: #ffffff; }.sidebar .widget,.sidebar .widget li a,.sidebar .mks_author_widget h3 a,.sidebar .mks_author_widget h3,.sidebar .vce-search-form .vce-search-input, .sidebar .vce-search-form .vce-search-input:focus{color: #444444; }.sidebar .widget li a:hover,.sidebar .widget a,.widget_nav_menu li.menu-item-has-children:hover:after,.widget_pages li.page_item_has_children:hover:after{color: #cc0000; }.sidebar .tagcloud a {border: 1px solid #cc0000; }.sidebar .mks_author_link,.sidebar .tagcloud a:hover, .sidebar .mks_themeforest_widget .more,.sidebar button,.sidebar input[type="button"],.sidebar input[type="reset"],.sidebar input[type="submit"],.sidebar .vce-button{background-color: #cc0000; }.sidebar .mks_author_widget .mks_autor_link_wrap, .sidebar .mks_themeforest_widget .mks_read_more{background: #ffffff; }.sidebar #wp-calendar caption,.sidebar .recentcomments,.sidebar .post-date,.sidebar #wp-calendar tbody{color: rgba(68,68,68,0.7); }.site-footer{background: #5b5b5b; }.site-footer .widget-title{color: #ffffff; }.site-footer,.site-footer .widget,.site-footer .widget li a,.site-footer .mks_author_widget h3 a,.site-footer .mks_author_widget h3,.site-footer .vce-search-form .vce-search-input, .site-footer .vce-search-form .vce-search-input:focus{color: #f9f9f9; }.site-footer .widget li a:hover,.site-footer .widget a,.site-info a{color: #cc0000; }.site-footer .tagcloud a {border: 1px solid #cc0000; }.site-footer .mks_author_link, .site-footer .mks_themeforest_widget .more,.site-footer button,.site-footer input[type="button"],.site-footer input[type="reset"],.site-footer input[type="submit"],.site-footer .vce-button,.site-footer .tagcloud a:hover{background-color: #cc0000; }.site-footer #wp-calendar caption,.site-footer .recentcomments,.site-footer .post-date,.site-footer #wp-calendar tbody,.site-footer .site-info{color: rgba(249,249,249,0.7); }.top-header{background: #3a3a3a; }.top-header,.top-header a{color: #ffffff; }.header-1-wrapper{height: 120px;padding-top: 15px;}.header-2-wrapper,.header-3-wrapper{height: 120px;}.header-2-wrapper .site-branding,.header-3-wrapper .site-branding{top: 15px;left: 0px;}.site-title a, .site-title a:hover{color: #232323;}.site-description{color: #aaaaaa;}.main-header{background-color: #ffffff;}.header-bottom-wrapper{background: #fcfcfc;}.vce-header-ads{margin: 15px 0;}.header-3-wrapper .nav-menu > li > a{padding: 50px 15px;}.header-sticky,.sidr{background: rgba(252,252,252,0.95);}.ie8 .header-sticky{background: #ffffff;}.main-navigation a,.nav-menu .vce-mega-menu > .sub-menu > li > a,.sidr li a,.vce-menu-parent{color: #4a4a4a;}.nav-menu > li:hover > a, .nav-menu > .current_page_item > a, .nav-menu > .current-menu-item > a, .nav-menu > .current-menu-ancestor > a, .main-navigation a.vce-item-selected,.main-navigation ul ul li:hover > a,.nav-menu ul .current-menu-item a,.nav-menu ul .current_page_item a,.vce-menu-parent:hover,.sidr li a:hover{color: #cc0000;}.nav-menu > li:hover > a, .nav-menu > .current_page_item > a, .nav-menu > .current-menu-item > a, .nav-menu > .current-menu-ancestor > a, .main-navigation a.vce-item-selected,.main-navigation ul ul,.header-sticky .nav-menu > .current_page_item:hover > a, .header-sticky .nav-menu > .current-menu-item:hover > a, .header-sticky .nav-menu > .current-menu-ancestor:hover > a, .header-sticky .main-navigation a.vce-item-selected:hover{background-color: #ffffff;}.search-header-wrap ul{border-top: 2px solid #cc0000;}.vce-border-top .main-box-title{border-top: 2px solid #cc0000;}.tagcloud a:hover,.sidebar .widget .mks_author_link,.sidebar .widget.mks_themeforest_widget .more,.site-footer .widget .mks_author_link,.site-footer .widget.mks_themeforest_widget .more{color: #FFF;}a.category-0{ color: ;}body.category-0 .main-box-title, .main-box-title.cat-0 { border-top: 2px solid ;}.widget_categories li.cat-item-0 .count { background: ;}.widget_categories li.cat-item-0:before { background:;}.vce-featured-section .category-0{ background: ;}.vce-lay-g .vce-featured-info .meta-category a.category-0{ background-color: ;}
+</style>
+<link href="http://www.geeksandbeats.com/wp-content/themes/voice/css/responsive.css?ver=1.2" id="vce_responsive-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/meks-easy-ads-widget/css/style.css?ver=1.1.5" id="meks-ads-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/meks-smart-author-widget/css/style.css?ver=1.0.4" id="meks-author-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/meks-smart-social-widget/css/style.css?ver=1.2.2" id="meks-social-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/timeline-twitter-feed/res/css/timeline-twitter-feed-frontend.css?ver=1.1" id="timeline-twitter-feed-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.geeksandbeats.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+<link href="http://www.geeksandbeats.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://www.geeksandbeats.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="http://www.geeksandbeats.com/2014/11/net-neutrality-back-in-dc-spotlight/" rel="prev" title="Net neutrality back in DC spotlight"/>
+<link href="http://www.geeksandbeats.com/2014/11/scientists-find-a-new-frog-name-it-after-ozzy/" rel="next" title="Scientists Find a New Frog, Name it After Ozzy"/>
+<meta content="WordPress 4.1" name="generator"/>
+<link href="http://www.geeksandbeats.com/2014/11/gift-idea-a-new-rolling-stones-picture-book-the-bad-news-it-costs-10000/" rel="canonical"/>
+<link href="http://www.geeksandbeats.com/?p=225734" rel="shortlink"/>
+
+<link href="http://www.geeksandbeats.com/wp-content/plugins/widgets-on-pages/wop.css" id="wop-css" media="all" rel="stylesheet" type="text/css"/><style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 23px;
+	line-height: 25px;
+	height: 25px;
+	background: #b60101;
+	border: 1px solid #fff;
+}
+</style>
+<style type="text/css">
+
+
+
+                #yith-topbar-countdown.topbar-countdown-container{
+
+                    
+                                            background-color: #b60101;
+                    
+                    
+                    background-repeat:repeat;
+                    background-position:top left;
+                    background-attachment:scroll;
+                }
+
+                #yith-topbar-countdown .countdown_slogan{
+                    color: #ffffff;
+font-size: 22px;
+font-family: 'Bitter';
+font-weight: 400;
+font-style: normal;
+                }
+
+                #yith-topbar-countdown .countdown_information .countdown .num {color: #b8cad1;
+font-size: 32px;
+font-family: 'Bitter';
+font-weight: 700;
+font-style: normal;
+}
+
+                #yith-topbar-countdown .countdown_information .countdown_slogan strong{
+                    color: #eeee22;
+font-size: 18px;
+font-family: 'Bitter';
+font-weight: 700;
+font-style: normal;
+                }
+
+                #yith-topbar-countdown .countdown_information .message,
+                #yith-topbar-countdown .countdown_information .countdown-label{
+                    color: #ffffff;
+font-size: 18px;
+font-family: 'Bitter';
+font-weight: 400;
+font-style: normal;
+                }
+
+                #yith-topbar-countdown .countdown_button {
+
+                                            background-color: #aa2929;
+                    
+                    color: #FFFFFF;
+font-size: 18px;
+font-family: 'Bitter';
+font-weight: 400;
+font-style: normal;
+                }
+
+                #yith-topbar-countdown .countdown_button a{color: #FFFFFF;
+font-size: 18px;
+font-family: 'Bitter';
+font-weight: 400;
+font-style: normal;
+}
+
+                #yith-topbar-countdown .countdown_button:hover {
+                                            background-color: #821919;
+                                    }
+
+            </style>
+<!-- Jetpack Open Graph Tags -->
+<meta content="article" property="og:type"/>
+<meta content="Gift Idea: A New Rolling Stones Picture Book. The Bad News? It Costs $10,000" property="og:title"/>
+<meta content="http://www.geeksandbeats.com/2014/11/gift-idea-a-new-rolling-stones-picture-book-the-bad-news-it-costs-10000/" property="og:url"/>
+<meta content="Only members of The Rolling Stones can afford this collection of photos, of The Rolling Stones." property="og:description"/>
+<meta content="2014-11-19T05:00:03+00:00" property="article:published_time"/>
+<meta content="2014-11-19T01:57:36+00:00" property="article:modified_time"/>
+<meta content="http://www.geeksandbeats.com/author/alan/" property="article:author"/>
+<meta content="Geeks and Beats Podcast" property="og:site_name"/>
+<meta content="http://www.geeksandbeats.com/wp-content/uploads/2014/11/3323_the_rolling_stones.jpg" property="og:image"/>
+<meta content="@jetpack" name="twitter:site"/>
+<meta content="http://www.geeksandbeats.com/wp-content/uploads/2014/11/3323_the_rolling_stones.jpg?w=640" name="twitter:image:src"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<link href="http://www.geeksandbeats.com/wp-content/uploads/2014/06/favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="http://www.geeksandbeats.com/wp-content/uploads/2014/12/apple-touch-icon.png" rel="apple-touch-icon"/><meta content="#ffffff" name="msapplication-TileColor"><meta content="http://www.geeksandbeats.com/wp-content/uploads/2014/12/Metro-Icon-144x144.png" name="msapplication-TileImage"/><style type="text/css">.sidebar .widget {background: #ffffff;} .header-sticky .site-title img{ max-height: 40px; } .main-header, .main-box-title, .comment-reply-title, .main-box, .comment-respond, .vce-post, .sidebar .widget-title, .sidebar .widget, ul.comment-list > li.comment, .main-box-head, .header-sticky, #disqus_thread, .vce-author-card{ -moz-box-shadow: 0 0px 0px 0 rgba(0,0,0,0.1); box-shadow: 0 0px 0px 0 rgba(0,0,0,0.1); } .main-box-title, .comment-reply-title{ font-size: 3em!important; } .widget widget_knrauthorlistwidget { font-size:50px; font-weight:400; } .widget > ul, .widget > div, .widget p, .widget > form{ padding: 0px; } p { margin-bottom: 10px; } h1.entry-title.entry-title-page { display:none; } h2.entry-title a { color: #c60000!important; } h2.entry-title a:hover { color: #000000!important; } .mks_progress_bar{ margin: 0 0 0px; } h4 { font-size: 25px; line-height: 35px; margin-bottom: 0px; } .vce-lay-d .entry-title{ /* margin-bottom: 60px; */ font-size: 1.3em; line-height: 100%; } .vce-gallery-big{ height: 100%; overflow: hidden; position: relative; } .cat-117 .main-box-title { display:none; } .main-box-title.cat-121 { display:none; } .widget li{ border-bottom: 0px solid rgba(0,0,0,0.07); padding: 0px 20px 10px; } ul.aligncenter { text-align:center; } .sidebar .widget-title { font-size:30px; } .fa-music:before { content: "\f130"; padding-left:8px } blockquote:before, q:before { content: "\f10d"; } .mks_accordion_content, .mks_toggle_content{ padding: 20px 20px 20px 0px; }</style> </meta></meta></head>
+<body class="single single-post postid-225734 single-format-standard unknown vce-sid-right">
+<div id="vce-main">
+<header class="main-header" id="header">
+<div class="container header-1-wrapper header-main-area">
+<div class="vce-res-nav">
+<a class="vce-responsive-nav" href="#sidr-main"><i class="fa fa-bars"></i></a>
+</div>
+<div class="site-branding">
+<span class="site-title">
+<a class="has-logo" href="http://www.geeksandbeats.com/" title="Geeks and Beats Podcast"><img alt="Geeks and Beats Podcast" src="http://www.geeksandbeats.com/wp-content/uploads/2013/08/logo-large.png"/></a>
+</span>
+</div></div>
+<div class="header-bottom-wrapper">
+<div class="container">
+<nav class="main-navigation" id="site-navigation" role="navigation">
+<ul class="nav-menu" id="vce_main_navigation_menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260397" id="menu-item-260397"><a href="http://www.geeksandbeats.com/subscribe/">Subscribe</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260403 vce-cat-97" id="menu-item-260403"><a href="http://www.geeksandbeats.com/category/podcast/">Episodes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260399 vce-mega-cat vce-cat-439" id="menu-item-260399"><a data-mega_cat_id="439" href="http://www.geeksandbeats.com/category/interviews/">Interviews</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260402" id="menu-item-260402"><a href="http://www.geeksandbeats.com/staff/">Meet the Geeks</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260401" id="menu-item-260401"><a href="http://www.geeksandbeats.com/donate/">Support the Show</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260398 vce-mega-menu" id="menu-item-260398"><a href="http://www.geeksandbeats.com/swag/">Swag Store</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260396" id="menu-item-260396"><a href="http://www.geeksandbeats.com/contact/">Contact</a></li>
+<li class="search-header-wrap"><a class="search_header" href="javascript:void(0)"><i class="fa fa-search"></i></a><ul class="search-header-form-ul"><li><form action="http://www.geeksandbeats.com/" class="search-header-form" method="get">
+<input class="search-input" name="s" onblur="(this.value == '') &amp;&amp; (this.value = 'Type here to search...')" onfocus="(this.value == 'Type here to search...') &amp;&amp; (this.value = '')" placeholder="Type here to search..." size="20" type="text" value="Type here to search..."/>
+</form></li></ul></li></ul></nav> </div>
+</div></header>
+<div id="main-wrapper">
+<div class="container site-content" id="content">
+<div class="vce-main-content" id="primary">
+<main class="main-box main-box-single" id="main">
+<article class="post-225734 post type-post status-publish format-standard has-post-thumbnail hentry category-artists tag-charlie-watts tag-keith-richards tag-mick-jagger tag-photography tag-photos tag-ronnie-wood tag-stones tag-the-rolling-stones vce-single" id="post-225734">
+<header class="entry-header">
+<span class="meta-category"><a class="category-661" href="http://www.geeksandbeats.com/category/beats/artists/">Artists</a></span>
+<h1 class="entry-title">Gift Idea: A New Rolling Stones Picture Book. The Bad News? It Costs $10,000</h1>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">November 19, 2014</span></div><div class="meta-item author"><span class="vcard author"><span class="fn">by <a href="http://www.geeksandbeats.com/author/alan/">Alan Cross</a></span></span></div><div class="meta-item comments"><a href="http://www.geeksandbeats.com/2014/11/gift-idea-a-new-rolling-stones-picture-book-the-bad-news-it-costs-10000/#comments" title="Comment on Gift Idea: A New Rolling Stones Picture Book. The Bad News? It Costs $10,000">1 Comment</a></div><div class="meta-item views">134,243 Views</div><div class="meta-item rtime">1 min read</div></div>
+</header>
+<div class="meta-image">
+<img alt="3323_the_rolling_stones" class="attachment-vce-lay-a wp-post-image" height="660" src="http://www.geeksandbeats.com/wp-content/uploads/2014/11/3323_the_rolling_stones-810x660.jpg" width="810"/>
+</div>
+<div class="meta-author">
+<img alt="" class="avatar avatar-100 wp-user-avatar wp-user-avatar-100 photo avatar-default" height="100" src="http://1.gravatar.com/avatar/5083decc00c83b4aacfcfdb5dbc7bde4?s=100&amp;d=http%3A%2F%2Fwww.geeksandbeats.com%2Fwp-content%2Fuploads%2F2014%2F12%2Fapple-touch-icon-115x115.png&amp;r=G" width="100"/> <div class="meta-author-wrapped">by <span class="vcard author"><span class="fn"><a href="http://www.geeksandbeats.com/author/alan/">Alan Cross</a></span></span></div>
+</div>
+<div class="entry-headline">
+<p>Only members of The Rolling Stones can afford this collection of photos, of The Rolling Stones.</p>
+</div>
+<div class="entry-content">
+<p>The Stones are one of the most-photographed bands of all time, attracting some of the best photographers in the world. Ethan Russell. Jim Marshall. Anton Corbijn. Annie Leibovitz</p>
+<p>There’s now a 518-page collection of the best of those shots taken from about 1965 to 1992. And as with all things Stones, it ain’t cheap.</p>
+<p><a href="http://i0.wp.com/ajournalofmusicalthings.com/wp-content/uploads/rolling_stones_su_gb_signpage001_02616_1410221638_id_845217.jpg"><img alt="rolling_stones_su_gb_signpage001_02616_1410221638_id_845217" class="alignnone wp-image-63744" height="485" src="http://i0.wp.com/ajournalofmusicalthings.com/wp-content/uploads/rolling_stones_su_gb_signpage001_02616_1410221638_id_845217.jpg?resize=485%2C485" width="485"/></a></p>
+<p>The “basic” version of the book runs $150 USD while limited editions go for $5,000 (“sumo-sized” with foldouts and silk-screened printed chapter folder) and $10,000 (six “Art Editions,”limited to just 75 copies) The publisher is <a href="http://www.taschen.com/pages/en/catalogue/photography/all/02616/facts.rolling_stones.htm" target="_blank">Taschen</a>, no strangers to high-end photo books.</p>
+<p><a href="http://i2.wp.com/ajournalofmusicalthings.com/wp-content/uploads/Rolling-Stones-Mick-and-cat.jpg"><img alt="Rolling Stones  - Mick and cat" class="alignnone wp-image-63743" height="321" src="http://i2.wp.com/ajournalofmusicalthings.com/wp-content/uploads/Rolling-Stones-Mick-and-cat.jpg?resize=486%2C321" width="486"/></a></p>
+<p> </p>
+<p><a href="http://www.billboard.com/articles/news/6319765/exclusive-sneak-peek-rolling-stones-photo-book?utm_source=Sailthru&amp;utm_medium=email&amp;utm_term=biz_breakingnews&amp;utm_campaign=Breaking%20News" target="_blank">More samples at Billboard</a>.</p>
+<p> </p>
+</div>
+<footer class="entry-footer">
+<div class="meta-tags">
+<a href="http://www.geeksandbeats.com/tag/charlie-watts/" rel="tag">Charlie Watts</a> <a href="http://www.geeksandbeats.com/tag/keith-richards/" rel="tag">Keith Richards</a> <a href="http://www.geeksandbeats.com/tag/mick-jagger/" rel="tag">Mick Jagger</a> <a href="http://www.geeksandbeats.com/tag/photography/" rel="tag">photography</a> <a href="http://www.geeksandbeats.com/tag/photos/" rel="tag">Photos</a> <a href="http://www.geeksandbeats.com/tag/ronnie-wood/" rel="tag">Ronnie Wood</a> <a href="http://www.geeksandbeats.com/tag/stones/" rel="tag">Stones</a> <a href="http://www.geeksandbeats.com/tag/the-rolling-stones/" rel="tag">The Rolling Stones</a> </div>
+</footer>
+<div class="vce-share-bar">
+<ul class="vce-share-items">
+<li><a class="fa fa-facebook" data-url="http://www.facebook.com/sharer.php?u=http://www.geeksandbeats.com/2014/11/gift-idea-a-new-rolling-stones-picture-book-the-bad-news-it-costs-10000/&amp;t=Gift Idea: A New Rolling Stones Picture Book. The Bad News? It Costs $10,000" href="javascript:void(0);"></a></li><li><a class="fa fa-twitter" data-url="http://twitter.com/intent/tweet?url=http://www.geeksandbeats.com/2014/11/gift-idea-a-new-rolling-stones-picture-book-the-bad-news-it-costs-10000/&amp;text=Gift Idea: A New Rolling Stones Picture Book. The Bad News? It Costs $10,000" href="javascript:void(0);"></a></li> </ul>
+</div>
+</article>
+<nav class="prev-next-nav">
+<div class="vce-prev-link">
+<a href="http://www.geeksandbeats.com/2014/11/net-neutrality-back-in-dc-spotlight/" rel="prev"><span class="img-wrp"><img alt="president-obama-on-net-neutrality" class="attachment-vce-lay-b wp-post-image" height="195" src="http://www.geeksandbeats.com/wp-content/uploads/2014/11/president-obama-on-net-neutrality-375x195.jpg" width="375"/><span class="vce-pn-ico"><i class="fa fa fa-chevron-left"></i></span></span><span class="vce-prev-next-link">Net neutrality back in DC spotlight</span></a> </div>
+<div class="vce-next-link">
+<a href="http://www.geeksandbeats.com/2014/11/scientists-find-a-new-frog-name-it-after-ozzy/" rel="next"><span class="img-wrp"><img alt="ozzy-osbourne41" class="attachment-vce-lay-b wp-post-image" height="195" src="http://www.geeksandbeats.com/wp-content/uploads/2014/11/ozzy-osbourne41-375x195.jpg" width="375"/><span class="vce-pn-ico"><i class="fa fa fa-chevron-right"></i></span></span><span class="vce-prev-next-link">Scientists Find a New Frog, Name it After Ozzy</span></a> </div>
+</nav>
+</main>
+<section class="main-box mbt-border-top author-box">
+<h3 class="main-box-title">About the author</h3>
+<div class="main-box-inside">
+<div class="data-image">
+<img alt="" class="avatar avatar-112 wp-user-avatar wp-user-avatar-112 photo avatar-default" height="112" src="http://1.gravatar.com/avatar/5083decc00c83b4aacfcfdb5dbc7bde4?s=112&amp;d=http%3A%2F%2Fwww.geeksandbeats.com%2Fwp-content%2Fuploads%2F2014%2F12%2Fapple-touch-icon-115x115.png&amp;r=G" width="112"/> </div>
+<div class="data-content">
+<h4 class="author-title">Alan Cross</h4>
+<div class="data-entry-content">
+<p>Alan Cross is an internationally known broadcaster, interviewer, writer, consultant, blogger and speaker. In his 30+ years in the music business, Alan has interviewed the biggest names in rock, from David Bowie and U2 to Pearl Jam and the Foo Fighters. He’s also known as a musicologist and documentarian through programs like The Ongoing History of New Music.</p>
+</div>
+</div>
+</div>
+<div class="vce-content-outside">
+<div class="data-links">
+<a class="vce-author-link vce-button" href="http://www.geeksandbeats.com/author/alan/">View all posts</a>
+</div>
+<div class="vce-author-links">
+<a class="fa fa-link vce-author-website" href="http://www.ajournalofmusicalthings.com" target="_blank"></a>
+</div>
+</div>
+</section>
+<div class="main-box vce-related-box">
+<h3 class="main-box-title">You may also like</h3>
+<div class="main-box-inside">
+<article class="post-225916 post type-post status-publish format-audio has-post-thumbnail hentry category-podcast tag-ozzyhell tag-aliens tag-carol-law tag-churyumov-gerasimenko-67p tag-conspiracy-theory tag-courtney-love tag-delores-oriordan tag-dendropsophus-ozzyi tag-doctor-who tag-foo-fighters tag-giller-prize tag-helen-maidiotis tag-kevin-sussman tag-leon-theremin tag-marriage tag-ozzy-osbourne tag-pedro-peloso tag-philae tag-sean-michaels tag-sir-ozzy tag-steve-feek tag-stuart-bloom tag-the-big-bang-theory tag-the-rolling-stones tag-theremin tag-us-conductors vce-post vce-lay-d">
+<div class="meta-image">
+<a href="http://www.geeksandbeats.com/2014/11/s03e81/" title="Big Bat Theory">
+<img alt="S03E81 Album Art" class="attachment-vce-lay-d wp-post-image" height="100" src="http://www.geeksandbeats.com/wp-content/uploads/2014/11/S03E81-Album-Art-145x100.jpg" width="145"/> <span class="vce-format-icon">
+<i class="fa fa-music"></i>
+</span>
+</a>
+</div>
+<header class="entry-header">
+<h2 class="entry-title"><a href="http://www.geeksandbeats.com/2014/11/s03e81/" title="Big Bat Theory">Big Bat Theory</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article> <article class="post-210573 post type-post status-publish format-standard has-post-thumbnail hentry category-apps tag-apps tag-canada tag-facebook tag-instagram tag-photography tag-social-networking vce-post vce-lay-d">
+<div class="meta-image">
+<a href="http://www.geeksandbeats.com/2014/11/oh-snap-ads-coming-to-canadian-instagram-streams/" title="Oh Snap! Ads coming to Canadian Instagram Streams">
+<img alt="instagram-duckface" class="attachment-vce-lay-d wp-post-image" height="100" src="http://www.geeksandbeats.com/wp-content/uploads/2014/11/instagram-duckface-145x100.jpg" width="145"/> </a>
+</div>
+<header class="entry-header">
+<h2 class="entry-title"><a href="http://www.geeksandbeats.com/2014/11/oh-snap-ads-coming-to-canadian-instagram-streams/" title="Oh Snap! Ads coming to Canadian Instagram Streams">Oh Snap! Ads coming to Canadian Instagram Streams</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article> <article class="post-85641 post type-post status-publish format-standard has-post-thumbnail hentry category-podcast tag-robertoapadron-2 tag-app tag-band-t-shirts tag-charlotte-ramone tag-darpa tag-farts tag-ipad tag-lady-gaga tag-mick-jagger tag-patrick-charles tag-pentagon tag-shannon-simpson tag-the-beatles tag-the-ramones tag-tommy-ramone tag-van-halen tag-world-cup vce-post vce-lay-d">
+<div class="meta-image">
+<a href="http://www.geeksandbeats.com/2014/07/s02e66/" title="24 Hours To Go">
+<img alt="S02E66 Album Art" class="attachment-vce-lay-d wp-post-image" height="100" src="http://www.geeksandbeats.com/wp-content/uploads/2014/07/S02E66-Album-Art-145x100.jpg" width="145"/> </a>
+</div>
+<header class="entry-header">
+<h2 class="entry-title"><a href="http://www.geeksandbeats.com/2014/07/s02e66/" title="24 Hours To Go">24 Hours To Go</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article> <article class="post-85655 post type-post status-publish format-standard has-post-thumbnail hentry category-music-history tag-asssyriology tag-keith-richards tag-mick-jagger tag-open-culture tag-university-of-california vce-post vce-lay-d">
+<div class="meta-image">
+<a href="http://www.geeksandbeats.com/2014/07/listen-to-the-oldest-song-in-the-world/" title="Listen to the Oldest Song in the World">
+<img alt="6a00d83451c29169e200e54f840c668834-800wi" class="attachment-vce-lay-d wp-post-image" height="100" src="http://www.geeksandbeats.com/wp-content/uploads/2014/07/6a00d83451c29169e200e54f840c668834-800wi-145x100.gif" width="145"/> </a>
+</div>
+<header class="entry-header">
+<h2 class="entry-title"><a href="http://www.geeksandbeats.com/2014/07/listen-to-the-oldest-song-in-the-world/" title="Listen to the Oldest Song in the World">Listen to the Oldest Song in the World</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article> <article class="post-85658 post type-post status-publish format-standard has-post-thumbnail hentry category-artists tag-brazil tag-curse tag-germany tag-mick-jagger tag-world-cup vce-post vce-lay-d">
+<div class="meta-image">
+<a href="http://www.geeksandbeats.com/2014/07/wanna-know-why-brazil-lost-to-germany-its-mick-jaggers-fault/" title="Wanna Know Why Brazil Lost to Germany? It’s Mick Jagger’s Fault.">
+<img alt="england-world-cup-mick-jagger" class="attachment-vce-lay-d wp-post-image" height="100" src="http://www.geeksandbeats.com/wp-content/uploads/2014/07/england-world-cup-mick-jagger-145x100.jpg" width="145"/> </a>
+</div>
+<header class="entry-header">
+<h2 class="entry-title"><a href="http://www.geeksandbeats.com/2014/07/wanna-know-why-brazil-lost-to-germany-its-mick-jaggers-fault/" title="Wanna Know Why Brazil Lost to Germany? It’s Mick Jagger’s Fault.">Wanna Know Why Brazil Lost to Germany? It’s Mick Jagger’s Fault.</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article> <article class="post-83058 post type-post status-publish format-standard has-post-thumbnail hentry category-podcast tag-brazil tag-cmdr-chris-hadfield tag-compuserve tag-david-bowie tag-facebook tag-mick-jagger tag-nasa tag-psychology tag-soccer tag-space-oddity tag-world-cup vce-post vce-lay-d">
+<div class="meta-image">
+<a href="http://www.geeksandbeats.com/2014/07/s02e64/" title="Belted Onion">
+<img alt="S02E64 Album Art" class="attachment-vce-lay-d wp-post-image" height="100" src="http://www.geeksandbeats.com/wp-content/uploads/2014/07/S02E64-Album-Art-145x100.jpg" width="145"/> </a>
+</div>
+<header class="entry-header">
+<h2 class="entry-title"><a href="http://www.geeksandbeats.com/2014/07/s02e64/" title="Belted Onion">Belted Onion</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article>
+</div>
+</div>
+<div class="comments-main" id="comments">
+<div class="comments-holder main-box">
+<h3 class="comment-title main-box-title">1 Comment</h3>
+<div class="main-box-inside content-inside">
+<ul class="comment-list">
+<li class="social-facebook-like even thread-even depth-1" id="comment-73438">
+<article class="comment-body" id="div-comment-73438">
+<footer class="comment-meta">
+<div class="comment-author vcard">
+<img alt="" class="avatar avatar-75 photo social-facebook-like" height="75" src="https://graph.facebook.com/679099049/picture" width="75"/> <b class="fn"><a class="url" href="https://facebook.com/profile.php?id=679099049" rel="external nofollow">Mike Cleaver</a></b> <span class="says">says:</span> </div><!-- .comment-author -->
+<div class="comment-metadata">
+<a href="http://www.geeksandbeats.com/2014/11/gift-idea-a-new-rolling-stones-picture-book-the-bad-news-it-costs-10000/#comment-73438">
+<time datetime="2014-11-22T11:03:35+00:00">
+								November 22, 2014 at 11:03 am							</time>
+</a>
+</div><!-- .comment-metadata -->
+</footer><!-- .comment-meta -->
+<div class="comment-content">
+<p><a href="https://facebook.com/profile.php?id=679099049" target="_blank">Mike Cleaver</a> liked this on Facebook.</p>
+</div><!-- .comment-content -->
+<div class="reply"><a aria-label="Reply to Mike Cleaver" class="comment-reply-link" href="/2014/11/gift-idea-a-new-rolling-stones-picture-book-the-bad-news-it-costs-10000/?replytocom=73438#respond" onclick='return addComment.moveForm( "div-comment-73438", "73438", "respond", "225734" )'>Reply</a></div> </article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!--END comment-list-->
+</div>
+<div class="navigation">
+</div>
+</div><!--END comments holder -->
+</div>
+<div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Comment <small><a href="/2014/11/gift-idea-a-new-rolling-stones-picture-book-the-bad-news-it-costs-10000/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">X</a></small></h3>
+<form action="http://www.geeksandbeats.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate="">
+<p class="comment-form-author"><label for="author">Name<span class="required"> *</span></label> <input aria-required="true" id="author" name="author" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email<span class="required"> *</span></label> <input aria-required="true" id="email" name="email" size="30" type="text" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label><input id="url" name="url" size="30" type="text" value=""/></p>
+<p class="comment-form-comment"><label for="comment">Comment</label><textarea aria-required="true" cols="45" id="comment" name="comment" rows="8"></textarea></p> <p class="form-submit">
+<input class="submit" id="submit" name="submit" type="submit" value="Post Comment"/>
+<input id="comment_post_ID" name="comment_post_ID" type="hidden" value="225734"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="6a42e100f7"/></p><p class="comment-subscription-form"><input id="subscribe_comments" name="subscribe_comments" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/> <label class="subscribe-label" for="subscribe_comments" id="subscribe-label">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input id="subscribe_blog" name="subscribe_blog" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/> <label class="subscribe-label" for="subscribe_blog" id="subscribe-blog-label">Notify me of new posts by email.</label></p><p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="147"/></p> </form>
+</div><!-- #respond -->
+</div>
+<aside class="sidebar right" id="sidebar">
+<div class="widget widget_text" id="text-16"> <div class="textwidget"><!-- CastRoller Claim Code eebbe7bcc80261b --><img class="aligncenter" src="http://www.geeksandbeats.com/wp-content/uploads/2014/08/headshot_alanmichael.jpg"><h5 style="color:black; line-height: 20px;"><p align="justify"><em>Geeks &amp; Beats</em> is The World's Most Popular Podcast™ from radio legend Alan Cross and TV's Michael Hainsworth. </p></h5><h3 align="center">New episodes Wednesdays!</h3>
+<p align="center">
+<a href="https://itunes.apple.com/ca/podcast/geeks-and-beats/id612365881?mt=2"><img class="aligncenter" src="http://www.geeksandbeats.com/wp-content/uploads/2014/06/Available_Black.png"/></a><p align="center"><a href="http://www.stitcher.com/podcast/geeks-beats?refid=stpr" target="_blank"><img class="aligncenter" src="http://www.geeksandbeats.com/wp-content/uploads/2014/08/stitcher_logo_white-_bg-2-470x260.jpg"/></a></p><p align="center">
+<a class="mks_button mks_button_medium squared" href="http://www.geeksandbeats.com/category/podcast/feed/" style="color: #FFFFFF; background-color: #c60000">Episode RSS Feed</a></p>
+<a class="roost-prompt-wp" href="#">Receive Desktop Notifications</a>
+<a href="http://www.patreon.com/geeksandbeats"><img class="aligncenter" src="http://www.geeksandbeats.com/wp-content/uploads/2015/01/Patreon-Donation.png"/></a></p></img></div>
+</div><div class="widget FeedburnerEmailWidget" id="feedburneremailwidget-3"><h4 class="widget-title"></h4><form action="http://feedburner.google.com/fb/a/mailverify" id="feedburner_email_widget_sbef" method="post" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=geeksandbeats&amp;loc=en_US', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true;" target="popupwindow"><label><h5>We can email you the latest episodes.</h5></label><input id="feedburner_email_widget_sbef_email" name="email" type="text"/><input name="uri" type="hidden" value="geeksandbeats"/><input name="loc" type="hidden" value="en_US"/><label><p></p></label><input id="feedburner_email_widget_sbef_submit" type="submit" value="Subscribe"/></form></div><div class="widget widget_text" id="text-24"><h4 class="widget-title">Listen on the Bell Media Radio Network</h4> <div class="textwidget"><center>
+<img alt="NewsTalk 1010 CFRB" class="aligncenter size-full" src="http://www.geeksandbeats.com/wp-content/uploads/2014/10/NewsTalk-1010.jpg" width="140"/>
+<h4>Fridays 10PM<br/>
+Saturdays 9PM</h4>
+<img alt="580 CFRA" class="aligncenter size-full" src="http://www.geeksandbeats.com/wp-content/uploads/2014/10/CFRA_AM-e1412972071562.png" width="140"/>
+<h4>Sundays 7PM</h4>
+<img alt="AM 800 CKLW" class="aligncenter size-full wp-image-179028" height="46" src="http://www.geeksandbeats.com/wp-content/uploads/2014/09/AM-800-CKLW.png" width="140"/>
+<h4>Coming Soon!</h4>
+<img alt="NewsTalk 1290 CJBK" class="aligncenter size-full wp-image-179031" height="103" src="http://www.geeksandbeats.com/wp-content/uploads/2013/02/NewsTalk-1290-CJBK1.png" width="140"/>
+<h4 style="text-align: center;">Tuesdays 10PM<br/>
+Saturdays 4PM</h4>
+<img alt="CJAD 800 AM" class="aligncenter size-full wp-image-179030" height="142" src="http://www.geeksandbeats.com/wp-content/uploads/2013/02/CJAD-800-AM1.png" width="140"/>
+<h4>Sundays 4PM</h4>
+<img alt="AM 1150" class="aligncenter size-full wp-image-179029" height="58" src="http://www.geeksandbeats.com/wp-content/uploads/2013/02/AM-11501-e1411569915330.png" width="140"/>
+<h4>Coming Soon!</h4></center></div>
+</div><div class="widget widget_text" id="text-23"> <div class="textwidget"><h5 style="margin-top: -15px;">You, too, can co-produce an episode of The World's Most Popular Podcast with Alan Cross &amp; Michael Hainsworth! It's just like a big shot Hollywood production: you just <a href="http://www.geeksandbeats.com/donate">open your wallet</a>.</h5></div>
+</div><div class="vce-sticky"><div class="widget widget_text" id="text-22"> <div class="textwidget"><h4 style="text-align:center">Got a question about music? Life? That suspicious rash?</h4><h3 style="text-align:center">Ask Alan Anything!</h3><h4 style="text-align:center">Call <a href="Skype:lessernerds">(323) 319-NERD</a></h4></div>
+</div></div></aside>
+</div>
+<footer class="site-footer" id="footer">
+<div class="container">
+<div class="container-fix">
+<div class="bit-3">
+<div class="widget widget_text" id="text-20"><h4 class="widget-title">The Geeks &amp; Beats Podcast would like to thank…</h4> <div class="textwidget"><img class="aligncenter" src="http://www.geeksandbeats.com/wp-content/uploads/2013/08/NSF_Logo.png"/></div>
+</div> </div>
+<div class="bit-3">
+<div class="widget widget_text" id="text-26"><h4 class="widget-title">Hosting For Season 2 Provided By</h4> <div class="textwidget"><img class="aligncenter" src="http://www.geeksandbeats.com/wp-content/uploads/2013/08/goatmods.png"/></div>
+</div> </div>
+<div class="bit-3">
+<div class="widget widget_text" id="text-15"><h4 class="widget-title">Geeks &amp; Beats Is Made Possible by Funding from Listeners Like You.</h4> <div class="textwidget"><h1 style="color:white!important;text-align:center;"><a href="http://www.geeksandbeats.com/donate">Thank You</a></h1><p>Support the show. All the cool kids are doing it.</p>
+<a href="/donate" style="color:#fff;">It's less than a coffee a month.</a></div>
+</div> </div>
+</div>
+</div>
+<div class="container-full site-info">
+<div class="container">
+<div class="vce-wrap-center">
+<p><strong>DISCLAIMER:</strong> The views expressed on Geeks &amp; Beats are those of the participants alone and do not necessarily reflect the views of their employers.</p> </div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<a href="javascript:void(0)" id="back-top"><i class="fa fa-angle-up"></i></a>
+
+
+
+<div style="display:none">
+<div class="grofile-hash-map-5083decc00c83b4aacfcfdb5dbc7bde4">
+</div>
+<div class="grofile-hash-map-de8f3ecd29fd57682b6bbe9ab9698532">
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

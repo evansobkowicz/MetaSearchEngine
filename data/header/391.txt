@@ -1,0 +1,10 @@
+Title: Lenny''s Alice in Wonderland site
+Date: Mon, 09 Feb 2015 23:41:23 GMT
+Server: Apache
+Set-Cookie: phpbb2mysql_data=a%3A2%3A%7Bs%3A11%3A%22autologinid%22%3Bs%3A0%3A%22%22%3Bs%3A6%3A%22userid%22%3Bi%3A-1%3B%7D; expires=Tue, 09-Feb-2016 23:41:23 GMT; path=/
+Set-Cookie: phpbb2mysql_sid=9db03a5b3697fcb6f0c6be86fe67b86f; path=/
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+

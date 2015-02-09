@@ -1,0 +1,13 @@
+Title: Toy Story 3 - Awards - IMDb
+Date: Mon, 09 Feb 2015 23:40:20 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYhIgcpWPQP6Mkmd3tcNszC6ngrJ_W-ZJQD9svg4TALrLaGyOut3MsNEnAcq4414InYU6GxNCZH%0D%0AEQXj0O392k_-Gk8CT6AXVIPv8azzgd61KBmMI0LQ5eivSy95cEgVh1buoAn7OMjQ7x1qadBSFrVO%0D%0Aq7hwswcB8ZM0bEnDNQ8gtzihz9aFubM6lC2rH5WZv9SH40MfPaHJQLUHxBBpThCMSOHA5XpMOYFg%0D%0Al5pkNeIkJDkbPyJCEMk4QcNc1uMzfzIX3r6z7UhPQSZRudCEj_JvWA%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:54:27 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:54:27 GMT; Path=/
+Set-Cookie: session-id-time=1581205220; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:54:27 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

@@ -1,0 +1,325 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--[if IE 6]><html lang="en" id="ie6"><![endif]-->
+<!--[if IE 7]><html lang="en" id="ie7"><![endif]-->
+<!--[if IE 8]><html lang="en" id="ie8"><![endif]-->
+<!--[if IE 9]><html lang="en" id="ie9"><![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8) | !(IE 9) ]><!-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="eb0d8e1aa4eb537544309f38a61737e55fe86393" name="avgthreatlabs-verification"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="Coast To Coast AM - September 20, 2014 Fame &amp; The Beatles | Alternative" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="http://beforeitsnews.com/alternative/2014/09/coast-to-coast-am-september-20-2014-fame-the-beatles-3032710.html" property="og:url"/>
+<meta content="Before It's News | Alternative News | UFO | Beyond Science | True News| Prophecy News | People Powered News" property="og:site_name"/>
+<meta content="Coast To Coast AM – September 20, 2014 Fame &amp; The Beatles Welcome to the new Coast to Coast AM radio show. George Knapp hosts coming directly to you from Las Vegas, NV. Topics of interest in this broadcast are as follows, Honey Booboo’s mom and..." property="og:description"/>
+<meta content="200262433452128" property="fb:app_id"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@beforeitsnews" name="twitter:site"/> <meta content="http://beforeitsnews.com/contributor/upload/125858/images/1402636363(1).jpg" property="og:image"/>
+<meta content="http://fondosdeestrellasdelrock.com/wp-content/uploads/images/d2/the-beatles.jpg" property="og:image"/>
+<link href="/static/css/global-bin-rev-84.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css/story-bin-rev-84.css" rel="stylesheet" type="text/css"/>
+<link href="http://b4in.net/css-dashboard/jquery-ui.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css/responsive-bin-rev-84.css" rel="stylesheet" type="text/css"/>
+
+
+
+
+<title>Coast To Coast AM - September 20, 2014 Fame &amp; The Beatles | Alternative</title>
+</meta></head>
+<body>
+<span id="admin_tab"></span>
+<div>
+<div id="wrapper">
+<div id="header">
+<div id="logo"><a href="/" id="mainlogo"><img alt="logo" border="0" height="40" src="/img/b4in/logo.png"/></a></div>
+<div id="user_status"></div>
+</div>
+<div id="topinfo_wrapper">
+<div class="fixed-enabled" id="menu">
+<div id="menu_center">
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target=".header-main-menu" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<ul>
+<li class="home-link"><a href="/" id="mainlogo"><img alt="logo" border="0" height="40" src="/img/b4in/home-128.png"><span>Home</span></img></a></li>
+<li><a href="/home/featuredlist/featured.html">Featured</a></li>
+<li><a href="/home/featuredlist/top_alternative.html">Alternative</a></li></ul></div></div></div></div></div></div></body></html>
+<li id="userlogin-button"><a href="#" style="padding: 9px 10px;"><img src="/img/b4in/user_login.png" style="height: 16px;"/></a></li>
+
+
+<ul id="header-main-menu">
+<li><a href="/home/featuredlist/top_space.html">Space</a></li>
+<li><a href="/home/featuredlist/top_sci_tech.html">Sci-tech</a></li>
+<li><a href="/home/featuredlist/top_money.html">Money</a></li>
+<li><a href="/home/featuredlist/top_politics.html">Politics</a></li>
+<li><a href="/home/featuredlist/top_health.html">Health</a></li>
+<li><a href="/home/featuredlist/top_global.html">Global</a></li>
+<li><a href="/home/featuredlist/top_spirituality.html">Spirituality</a></li>
+<li><a href="/home/featuredlist/top_self_sufficiency.html">Self-Sufficiency</a></li>
+<li><a href="/home/featuredlist/top_unexplained.html">Unexplained</a></li>
+<li><a href="/home/featuredlist/top_lifestyle.html">Lifestyle</a></li>
+<li><a href="/classic/">Classic Home</a></li>
+</ul>
+<div id="searchbar"><form action="/googlesearch/" id="cse-search-box"><input name="cx" type="hidden" value="partner-pub-7268876088039072:3vmk3c-6lgg"/><input name="cof" type="hidden" value="FORID:10"/><input name="ie" type="hidden" value="UTF-8"/><input autocomplete="off" id="q" name="q" size="30" type="text"/><input id="sa" name="sa" onclick="javascript:if ($('#q').val() == '') {
+                                            $('#q').focus();
+                                            alert('Please, input query text!');
+                                            return false;
+                                        }" type="submit" value=""/></form></div>
+
+
+<div class="clear"></div>
+<div id="topstyle_box">
+<!--/* Top Ad */-->
+<div class="ads729_90" id="topstyle_box_ads"></div>
+
+<!--/* End Top Ad */-->
+<div id="topstyle_box_info">
+<div id="got_a_news_story">
+<img height="88" id="submitnews-img" src="/img/b4in/got-a-news-story.png" width="118">
+<img id="submitnews" src="http://image.b4in.net/b4in/upload-news.png">
+</img></img></div>
+<table id="stats"><tbody>
+<tr><td>Visitors Now:</td><td><span id="chartbeat_site"></span></td></tr>
+<tr><td>Total Visits:</td><td><span id="visit_count"></span></td></tr>
+<tr><td>Total Stories:</td><td><span id="story_count"></span></td></tr>
+</tbody></table>
+</div>
+</div>
+<div class="clear"></div>
+<div id="navbar">
+<ul id="breadcrumbs"><li class="crumbs"><a href="/">HOME</a></li>
+<li class="crumbs" id="crumbs"><a href="/alternative">Alternative</a></li> </ul>
+<div id="edit_delete"></div>
+<div id="date"></div>
+
+</div>
+<div class="clear"></div>
+
+<div class="story_wrapper" id="story_wrapper">
+<div id="story_column">
+<div id="infobar">
+<div id="profile_pic"><img alt="Profile image" class="" id="profile_image" src="/contributor/upload/125858/profile/a660b063d669236aa2ba197f25766e0f687808fb.jpeg" style="margin-top: -5px; "/></div>
+<div id="profile_info">
+<div id="like_contributor"><span id="like_contributor_count"></span></div>
+<div id="like_story"><span id="like_story_count"></span></div>
+<div id="attribution">By <span class="authors_name" id="pen_name">JayWill</span><span id="roles"></span><br/><a href="/contributor/pages/125/858/bio.html" id="profile_href">Contributor profile</a> | <a href="/contributor/pages/125/858/stories.html" id="stories_href">More stories</a><br><div id="subscribenewsletter"></div></br></div>
+</div>
+<div id="viewcounters">
+<table border="0" cellpadding="0" cellspacing="0" style="width:160px; margin: 0px; padding: 0px; line-height: 12px;">
+<tr><td align="center" colspan="2" height="8"><strong>Story Views<br/><br/></strong></td></tr>
+<tr><td align="left" width="110">Now:</td><td align="left"><span id="chartbeat_count"></span></td></tr>
+<tr><td align="left">Last Hour:</td><td align="left"><span id="counter_hour"></span></td></tr>
+<tr><td align="left">Last 24 Hours:</td><td align="left"><span id="counter_day"></span></td></tr>
+<tr><td align="left">Total:</td><td align="left"><span id="counter_total"></span></td></tr>
+</table>
+</div>
+<div id="badges"><div id="featured_contributor_story"></div></div>
+</div>
+<div id="headline"><h1>Coast To Coast AM – September 20, 2014 Fame &amp; The Beatles</h1></div>
+<div id="create_date">Sunday, September 21, 2014 8:50</div>
+<div id="disclaimer"></div>
+<div id="story_toolbar">
+<div id="fact_meter"><span id="fact_percent"></span>% of readers think this story is Fact.  Add your two cents.<br/><div class="fiction_unselected" id="fiction"></div><div id="scale"></div><div class="fact_unselected" id="fact"></div></div></div>
+<input id="author_id" name="author_id" type="hidden" value="125858"/>
+<input id="story_id" name="story_id" type="hidden" value="3032710"/>
+<input id="category_id" name="category_id" type="hidden" value="27"/>
+<input id="story_tsp" name="story_tsp" type="hidden" value="1411314609">
+<div id="contributor_stories"></div>
+<!--INFOLINKS_ON-->
+<div id="story_ad_top"><div id="story_unseen_ad"><a href="http://unseen.is/beforeitsnews" target="_blank">Get FREE private and secure Email and Messaging click now!</a></div></div>
+<p class="top_clarifying_the_truth_social_share">
+<span id="top_clarifying_facebook_share_button"></span>
+<span id="top_clarifying_tweet_share_button"></span>
+<span id="top_clarifying_google_share_button"></span>
+<span id="top_clarifying_pinterest_share_button"></span>
+</p>
+<div id="body">
+<p class="nd_single"><a href="http://beforeitsnews.com/alternative/2014/09/coast-to-coast-am-september-20-2014-fame-the-beatles-3032710.html">(Before It's News)</a> <h1><span style="font-size:0.9em">Coast To Coast AM – September 20, 2014 Fame &amp; The Beatles</span></h1>
+<p><img alt="" src="/contributor/upload/125858/images/1402636363(1).jpg" style="height:428px;width:500px"/></p>
+<p> </p>
+<p>
+Welcome to the new Coast to Coast AM radio show. George Knapp hosts coming directly to you from Las Vegas, NV. Topics of interest in this broadcast are as follows, Honey Booboo’s mom and dad splits up, Kardashians, George explores the up and downs of celebrityhood, Investigative reporter Maggie Jessup interviewed, ” Fame is the most powerful force in our society”, Fame run amok, Beatlemaina, Fame, celebrity, are they all what there cracked up to be?</p>
+<p>
+ <br/>
+ <br/>
+Coast to Coast AM airs on more than 560 stations in the U.S., as well as Canada, Mexico and Guam, and is heard by nearly three million weekly listeners. With hosts George Noory, George Knapp (weekend), and guest weekend hosts, it is the most listened to overnight radio program in North America.</p>
+<p> </p>
+<p>
+ <br/>
+A media phenomenon, Coast to Coast AM deals with UFOs, strange occurrences, life after death, and other unexplained (and often inexplicable) phenomena. Coast to Coast AM is overnight talk radio with daytime ratings.</p>
+<p> </p>
+<p>
+<iframe frameborder="0" height="360" src="//www.youtube.com/embed/nxjmoVp_rTM" width="640"></iframe></p>
+<p> </p>
+<p> </p>
+<p><img src="http://fondosdeestrellasdelrock.com/wp-content/uploads/images/d2/the-beatles.jpg"/></p>
+</p></div>
+<!--INFOLINKS_OFF-->
+<div id="story-pagenavi-bar"></div>
+<div style="clear:both"></div>
+<p class="bottom_clarifying_the_truth_social_share">
+<span id="bottom_clarifying_facebook_share_button"></span>
+<span id="bottom_clarifying_tweet_share_button"></span>
+<span id="bottom_clarifying_google_share_button"></span>
+<span id="bottom_clarifying_pinterest_share_button"></span>
+</p>
+<div class="social_page_in_story">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fb4itsnews&amp;width=604&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=200262433452128" style="border:none; overflow:hidden; width:604px; height:290px;"></iframe>
+</div>
+<div class="ads729_90" id="story_ad_bottom" style="margin-top:20px;"></div>
+
+<div id="author_stories"></div>
+<div style="clear:both;padding-top:15px;">
+<div class="ads300_250" id="ad_300x250_story_left_1" style="padding-left:10px;width: 300px; height: 250px; float:left;"></div>
+
+<div class="ads300_250" id="ad_300x250_story_left_2" style="padding-right:10px; width: 300px; height: 250px; float:right;"></div>
+
+</div>
+<p class="subdm_social_share">
+<span id="facebook_share_sdm_button"></span>
+<span id="tweet_share_sdm_button"></span>
+<span id="goolge_share_sdm_button"></span>
+</p>
+<img alt="Report abuse" height="66" id="report_abuse" src="http://image.b4in.net/report_abuse.png" width="65"/>
+<div style="clear:both; padding-top:15px;"></div>
+<div class="clear" id="related_stories">Related Stories</div>
+<div id="category_stories">
+<ul><li class="related_story"><a href="/alternative/2014/09/scottish-referendum-from-jim-stone-3032708.html" title="Scottish Referendum —- from Jim Stone"> Scottish Referendum —- from Jim Stone</a></li><li class="related_story"><a href="/alternative/2014/09/hilarion-via-marlene-swetlishoff-peace-in-this-world-is-created-one-consciousness-at-a-time-3032706.html" title="Hilarion via Marlene Swetlishoff: Peace in This World Is Created One Consciousness at a Time"> Hilarion via Marlene Swetlishoff: Peace in This World Is Created One Consciousness at a Time</a></li><li class="related_story"><a href="/alternative/2014/09/interviewing-the-dead-albert-einstein-about-free-will-3032704.html" title="Interviewing the dead Albert Einstein about free will"> Interviewing the dead Albert Einstein about free will</a></li><li class="related_story"><a href="/alternative/2014/09/now-we-come-to-vaccines-and-depopulation-experiments-2-3032702.html" title="Now we come to vaccines and depopulation experiments"> Now we come to vaccines and depopulation experiments</a></li><li class="related_story"><a href="/alternative/2014/09/shocker-comparing-deaths-from-medical-drugs-vitamins-all-us-wars-7-3032700.html" title="Shocker: Comparing deaths from medical drugs, vitamins, all US wars"> Shocker: Comparing deaths from medical drugs, vitamins, all US wars</a></li><li class="related_story"><a href="/alternative/2014/09/episode-51-sunday-wire-scots-get-a-whiff-of-freedom-host-patrick-henningsen-with-derek-nisbet-3032698.html" title="Episode #51 – SUNDAY WIRE: ‘Scots Get a Whiff of Freedom’, Host Patrick Henningsen with Derek Nisbet"> Episode #51 – SUNDAY WIRE: ‘Scots Get a Whiff of Freedom’, Host Patrick Henningsen with Derek Nisbet</a></li><li class="related_story"><a href="/alternative/2014/09/the-cdc-admits-the-usa-is-on-the-verge-of-a-major-ebola-outbreak-3032696.html" title="The CDC Admits The USA Is On The Verge Of A Major Ebola Outbreak"> The CDC Admits The USA Is On The Verge Of A Major Ebola Outbreak</a></li><li class="related_story"><a href="/alternative/2014/09/entertainment-line-up-for-6th-annual-taste-of-conejooct-9th-3032694.html" title="Entertainment Line-up for 6th Annual Taste of Conejo–Oct. 9th"> Entertainment Line-up for 6th Annual Taste of Conejo–Oct. 9th</a></li><li class="related_story"><a href="/alternative/2014/09/facing-the-nation-with-your-head-up-your-ass-3032692.html" title="Facing the Nation with your head up your ass"> Facing the Nation with your head up your ass</a></li><li class="related_story"><a href="/alternative/2014/09/paranormal-you-welcome-back-4-3032690.html" title="Paranormal You: welcome back"> Paranormal You: welcome back</a></li></ul>
+</div>
+<div id="twitter-follow">
+
+
+</div>
+<div id="comments">
+<div id="b4in_comments_body"><!-- Jump Link -->
+<a href="comments" id="comments" style="visibility:hidden"></a>
+<!-- Comments -->
+<div id="respond">
+<h2>Comments</h2>
+<div class="cancel-comment-reply"><img src="/images/story/cross.png"/> <a href="/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Click here to cancel reply.</a></div>
+<form action="/core/ajax/comment/add_comment.php" id="commentform" method="post">
+<div class="wpn_comment_heading textarea_heading">Your Comments</div>
+<div class="wpn_field" style="margin:0;"><textarea id="comment_text" name="comment_text" rows="10" tabindex="4"></textarea></div>
+<div class="wpn_comment_submit">
+<img align="bottom" alt="Processing comment" height="24" id="comment_submiting" src="/images/misc/loading.gif" style="display:none; position: relative; top: 9px;" width="24"/>
+<div id="wp_emoticons" style="float:left">
+<a href="javascript:grin(':?:')"><img alt="Question   " src="/images/smilies/icon_question.gif" title="Question"/></a>
+<a href="javascript:grin(':razz:')"><img alt="Razz  " src="/images/smilies/icon_razz.gif" title="Razz"/></a>
+<a href="javascript:grin(':sad:')"><img alt="Sad   " src="/images/smilies/icon_sad.gif" title="Sad"/></a>
+<a href="javascript:grin(':evil:')"><img alt="Evil  " src="/images/smilies/icon_evil.gif" title="Evil"/></a>
+<a href="javascript:grin(':!:')"><img alt="Exclaim  " src="/images/smilies/icon_exclaim.gif" title="Exclaim"/></a>
+<a href="javascript:grin(':smile:')"><img alt="Smile  " src="/images/smilies/icon_smile.gif" title="Smile"/></a>
+<a href="javascript:grin(':oops:')"><img alt="Redface  " src="/images/smilies/icon_redface.gif" title="Redface"/></a>
+<a href="javascript:grin(':grin:')"><img alt="Biggrin  " src="/images/smilies/icon_biggrin.gif" title="Biggrin"/></a>
+<a href="javascript:grin(':eek:')"><img alt="Surprised  " src="/images/smilies/icon_surprised.gif" title="Surprised"/></a>
+<a href="javascript:grin(':shock:')"><img alt="Eek   " src="/images/smilies/icon_eek.gif" title="Eek"/></a>
+<a href="javascript:grin(':???:')"><img alt="Confused   " src="/images/smilies/icon_confused.gif" title="Confused"/></a>
+<a href="javascript:grin(':cool:')"><img alt="Cool  " src="/images/smilies/icon_cool.gif" title="Cool"/></a>
+<a href="javascript:grin(':lol:')"><img alt="LOL   " src="/images/smilies/icon_lol.gif" title="LOL"/></a>
+<a href="javascript:grin(':mad:')"><img alt="Mad   " src="/images/smilies/icon_mad.gif" title="Mad"/></a>
+<a href="javascript:grin(':twisted:')"><img alt="Twisted  " src="/images/smilies/icon_twisted.gif" title="Twisted"/></a>
+<a href="javascript:grin(':roll:')"><img alt="Rolleyes   " src="/images/smilies/icon_rolleyes.gif" title="Rolleyes"/></a>
+<a href="javascript:grin(':wink:')"><img alt="Wink  " src="/images/smilies/icon_wink.gif" title="Wink"/></a>
+<a href="javascript:grin(':idea:')"><img alt="Idea  " src="/images/smilies/icon_idea.gif" title="Idea"/></a>
+<a href="javascript:grin(':arrow:')"><img alt="Arrow  " src="/images/smilies/icon_arrow.gif" title="Arrow"/></a>
+<a href="javascript:grin(':neutral:')"><img alt="Neutral  " src="/images/smilies/icon_neutral.gif" title="Neutral"/></a>
+<a href="javascript:grin(':cry:')"><img alt="Cry   " src="/images/smilies/icon_cry.gif" title="Cry"/></a>
+<a href="javascript:grin(':mrgreen:')"><img alt="Mr. Green  " src="/images/smilies/icon_mrgreen.gif" title="Mr. Green"/></a>
+</div>
+<input id="comment_submit" name="submit" tabindex="5" type="button" value="Submit"/><input id="comment_post_ID" name="comment_post_ID" type="hidden" value="3032710"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</div>
+<input id="comment_category_id" name="comment_category_id" type="hidden" value=""/>
+</form>
+</div>
+<br/>
+<!-- If comments are open, but there are no comments. -->
+</div>
+</div>
+</input></div>
+<div id="tile_column">
+<div class="ad_300x250" id="ad_300x250_story_right_1"></div>
+
+<div class="right_stories">
+<img alt="Top Stories" height="35" src="http://image.b4in.net/top_stories.gif" width="295"/>
+<span id="top_headlines"></span>
+</div>
+<div class="ad_300x250" id="ad_300x250_story_right_2"></div>
+
+<div class="right_stories"><img alt="Recent Stories" height="35" src="http://image.b4in.net/related_stories.gif" width="295"/>
+<span id="recent_stories"> </span>
+</div>
+<div class="ad_300x250" id="ad_300x250_story_right_3"></div>
+
+<div id="stripmall"></div>
+</div>
+<div id="tower_column">
+<div id="floating_ad"></div>
+
+</div>
+</div>
+
+<div class="clear"></div>
+<div id="footer">
+<a href="/about/">About</a> | <a href="/advertise/">Advertise With Us</a> | <a href="/faq/">FAQ</a> | <a href="/contact/">Contact</a> | <a href="/editorial/">Editorial Guidelines</a> | <a href="/privacy/">Privacy</a> | <a href="/terms/">Terms of Service</a> | <a href="/copyright/">Copyright Notification</a> | <a href="/subscribe/">RSS Subscribe</a> | <a href="/widgets/">Widgets</a><br><br>
+Portions copyright © 2013 Before It's News Inc., All Rights Reserved.<br>Before It's News® is a registered Service Mark of Before It's News Inc..<br>
+</br></br></br></br></div>
+<div style="visibility: hidden;"><p><a href="/notyet/notyet.html" id="lightbox" name="lightbox">Register</a></p></div>
+<div style="visibility: hidden;"><p><a href="/contribute/newsletter/subscribe.html" id="lightbox_newsletter" name="lightbox_newsletter">Newsletter</a></p></div>
+<div style="visibility:hidden;"><a href="/bottom_send_mail/email.php" id="lightbox_email_send" title="Email this story">Email this story</a></div>
+<div style="visibility:hidden;"><a href="/bottom_float/email.html" id="lightbox_email" title="Email this story">Email this story</a></div>
+<div id="social_bottom_float">
+<div id="sbf_share_this_story">
+<div class="bf_title">Share This Story:</div>
+<div class="bf_tools">
+<div id="bf_social_print"><img alt="Print this story" class="bf_icon" height="20" id="bf_social_print_icon" src="http://image.b4in.net/print.png" width="20"/></div>
+<div id="bf_social_email"><img alt="Email this story" class="bf_icon" height="20" id="bf_social_email_icon" src="http://image.b4in.net/mail.png" width="20"/></div>
+<div id="bf_social_fbshare"></div>
+<div id="bf_social_twitter"></div>
+<div id="bf_social_digg"></div>
+<div id="bf_social_reddit"></div>
+<div id="bf_social_stumbleupon"></div>
+<div id="bf_social_tumblr"></div>
+<div id="bf_social_send_special_email">
+<span style="margin-left: 10px;">GET ALERTS:</span>
+<input class="share_boxes_input_edit" id="subscribe_user_email" onfocus="this.value=''" type="text" value="Enter email">
+<input class="mail-sign-up" onclick="QuickSubscribeUser();" type="button" value="Sign Up"/>
+<img id="loading" src="/img/wait.gif" style="display: none;"/>
+</input></div>
+</div>
+</div>
+</div>
+<div class="tooltipContent" id="likeContributorMessage"></div>
+<div class="tooltipContent" id="likeStoryMessage"></div>
+<div class="tooltipContent" id="authorMessage"></div>
+<div class="tooltipContent" id="subscribenewsletterMessage"></div>
+<div style="display:none; clear: both">
+<div id="ban_reason">
+<p id="ban_reason_message">If you really want to ban this commenter, please write down the reason:</p>
+<textarea cols="200" id="ban_reason_content" rows="25" style="height: 200px; width: 550px"></textarea>
+</div>
+<div id="bin_alert"></div>
+<div id="turn_off_float_story">If you really want to disable all recommended stories, click on OK button. After that, you will be redirect to your options page.</div>
+</div>
+
+
+<a href="https://plus.google.com/114194264383773800712" rel="publisher"></a>
+<style type="text/css">
+	.fixedPanel {
+	top: inherit !important;
+	bottom: 35px !important;
+	}
+</style>
+<div id="adiply_single_page"></div>
+
+

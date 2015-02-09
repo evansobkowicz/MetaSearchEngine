@@ -1,0 +1,20 @@
+Title: Mariah Carey albums discography - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=2419014; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 09 Feb 2015 17:55:39 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1617488132 1603104964, 2266178029 2249715055
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:47:44 GMT
+Age: 20515
+Connection: close
+X-Cache: cp1052 hit (10), cp1053 frontend hit (4)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

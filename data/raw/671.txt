@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Almost Queen" name="Description"/>
+<meta content="Almost Queen" name="Abstract"/>
+<meta content="Almost Queen Brian May Freddie Mercury John Deacon " name="Keywords"/>
+<meta content="index,follow" name="Robots"/>
+<title>ALMOST QUEEN | Promotional Photos</title>
+<link href="../common/css/layout.css" rel="stylesheet" type="text/css"/>
+<link href="../common/css/fonts.css" rel="stylesheet" type="text/css"/>
+</head>
+<body bgcolor="#000000">
+<div id="maincontainer">
+<!-- TOP_BEGIN -->
+<div id="topsection">
+<a href="../">
+<img src="../common/images/aq_top_banner_text.jpg"/></a>
+</div>
+<!-- TOP_END -->
+<!-- MAIN_CONTENT_BEGIN -->
+<div id="contentwrapper" style="background-color:#000000">
+<div id="contentcolumn">
+<div class="innertube" id="main_content">
+<p>
+<!-- CONTENT_GOES_HERE -->Click on a photo to download a hi-res version:</p>
+<p>Photo credit: Christopher Appoldt<br/>
+<br/>
+<a href="Almost_Queen-Queen_II_Album_Photo-hires.jpg" target="_blank"><img alt="Almost Queen" height="350" src="Almost_Queen-Queen_II_Album_Photo-WebMed.jpg" width="350"/></a><a href="Almost_Queen-Queen_II_Album_Photo_Only-hires.jpg" target="_blank"><img alt="Almost Queen" height="350" src="Almost_Queen-Queen_II_Album_Photo_Only-WebMed.jpg" width="350"/></a></p>
+<p><a href="Almost_Queen_Type_Logo.jpg" target="_blank"><img alt="Almost Queen" height="83" src="Almost_Queen_Type_Logo_sm.jpg" width="500"/></a></p>
+<p><a href="Almost_Queen-The_Game_Album_Photo-hires.jpg" target="_blank"><img alt="Almost Queen - The Game" height="350" src="Almost_Queen-The_Game_Album_Photo-WebMed.jpg" width="500"/></a></p>
+<p><a href="Almost_Queen-The_Game_Album_Cover-hires.jpg" target="_blank"><img alt="Almost Queen - The Game Album Cover" height="500" src="Almost_Queen-The_Game_Album_Cover-WebMed.jpg" width="500"/></a></p>
+<p><a href="AQ_logo_on_wht.jpg" target="_blank"><img alt="Almost Queen" height="150" src="AQ_logo_on_wht_sm.jpg" width="250"/></a> <a href="AQ_logo_on_blk.jpg" target="_blank"><img alt="Almost Queen" height="150" src="AQ_logo_on_blk_sm.jpg" width="250"/></a><br/>
+</p>
+</div>
+</div>
+</div>
+<!-- MAIN_CONTENT_END -->
+<!-- LEFT_COL_BEGIN -->
+<div id="leftcolumn"><a href="../in_concert"><img alt="In Concert" src="../common/images/in_concert_sm.gif"/></a>
+<a href="../band"><img alt="Band" src="../common/images/band_sm.gif"/></a>
+<a href="../gallery"><img alt="Gallery" src="../common/images/gallery_sm.gif"/></a>
+<a href="../video"><img alt="Video" src="../common/images/video_sm.gif"/></a>
+<a href="../reviews"><img alt="Reviews" border="0" src="../common/images/reviews_sm.gif"/></a>
+<a href="../store"><img alt="Store" src="../common/images/store_sm.gif"/></a>
+<a href="../contact"><img alt="Contact" src="../common/images/contact_sm.gif"/></a>
+<a href="../links"><img alt="Links" border="0" src="../common/images/links_sm.gif"/></a>
+<div class="innertube" style="padding:5px"><form action="../email.php3" class="emaillist" id="subscriberForm" method="get" name="subscriberForm" onsubmit="return validate_email(emailaddress, 'Please enter a valid email address.')"><div style="margin-bottom:2px">Submit your email address<br/>to join our email list<br/></div>
+<input id="emailaddress" name="emailaddress" size="20" style="font-size: 12px;" type="text"/>
+<input alt="submit" name="submit" src="../common/images/sign_up.gif" style="margin-top:2px " type="image" value="submit"/>
+</form>
+</div>
+</div>
+<!-- LEFT_COL_END -->
+<!-- FOOTER_BEGIN -->
+<div id="footer">
+<div class="innertube">
+<a href="http://www.facebook.com/almostqueen" target="_blank"><img alt="facebook" src="../common/images/facebook_logo.jpg" style="margin-right: 20px;"/></a><a href="http://www.youtube.com/almostqueenny" target="_blank"><img alt="youtube" src="../common/images/youtube_logo.jpg"/></a>
+<br/> <span style="display: block; text-align: right; padding-bottom:5px; padding-right:5px;">©2010 almostqueen.com</span>
+</div>
+<!-- FOOTER_END -->
+</div>
+</div>
+
+</body>
+</html>

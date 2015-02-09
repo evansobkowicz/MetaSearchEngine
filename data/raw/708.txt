@@ -1,0 +1,1629 @@
+<!DOCTYPE html>
+
+<html class="notie">
+<head>
+<title>Pink Floyd: The Endless River</title>
+
+<meta content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" name="viewport">
+<meta content="Pink Floyd: The Endless River" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="Pink Floyd: The Endless River jazz article by Nenad Georgievski, published on November 15, 2014 at All About Jazz. Find more Extended Analysis articles" name="description">
+<meta content="Pink Floyd: The Endless River jazz article by Nenad Georgievski, published on November 15, 2014 at All About Jazz. Find more Extended Analysis articles" property="og:description">
+<meta content="http://www.allaboutjazz.com/pink-floyd-the-endless-river-by-nenad-georgievski.php" property="og:url"/>
+<meta content="http://www.allaboutjazz.com/coverart/large/pink_floyd_endless_river.jpg" property="og:image"/>
+<meta content="All About Jazz" property="og:site_name"/>
+<meta content="228288063973092" property="fb:app_id"/>
+<meta content="Pink Floyd: The Endless River, jazz, downloads, music, photos, reviews, videos" name="keywords">
+<meta content="vdVYRrD6+14xwXQ4frtYjD5bryEjWeWmwq1+zhGFdQE=" name="verify-v1">
+<meta content="rnXpWB97jNLNoR6a-HU10ETNxOWWAQ4tKC1heJEtc6Q" name="google-site-verification">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<link href="http://www.allaboutjazz.com/icon/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="http://www.allaboutjazz.com/compressor.php?params=css/aaj-2014/v1.css" media="all" rel="stylesheet"/>
+<link href="http://www.allaboutjazz.com/css2/fonts.css" media="all" rel="stylesheet" type="text/css"/>
+<!--Scripts will go here-->
+
+
+
+<!--[if lt IE 9]>
+<script>
+    document.execCommand("BackgroundImageCache", false, true);
+</script>
+<![endif]-->
+
+
+</link></meta></meta></meta></meta></meta></meta></meta></head><body class="articles" itemscope="" itemtype="http://schema.org/Article">
+
+
+<link href="http://www.allaboutjazz.com/fancybox/jquery.fancybox.css?v=2.1.5" media="screen" rel="stylesheet" type="text/css"/>
+
+<div id="navdiv">
+<div id="navbar-main">
+<div class="section">
+<ul class="nav navbar clearfix" id="newstyle">
+<li class="li-first"><a href="http://www.allaboutjazz.com/php/article_center.php" title="Recent Jazz Articles and Archive">Articles</a></li>
+<li><a href="http://news.allaboutjazz.com" title="Read Today's Jazz News">News</a></li>
+<li><a href="http://media.allaboutjazz.com/" title="Download Thousands of Free MP3s">Downloads</a></li>
+<li><a href="http://musicians.allaboutjazz.com/" title="Jazz Musician Database">Musicians</a></li>
+<li><a href="http://photos.allaboutjazz.com" title="Jazz Image Gallery">Gallery</a></li>
+<li class="li-last"><a href="http://www.jazznearyou.com" title="View Local Events, Venue Listings and More!">Events</a></li>
+<!-- <li class="li-last"><a href="http://www.allaboutjazz.com/shop.php" title="Music, Home Audio, and more!">Shop</a></li> -->
+<li class="nav-right hide-639 li-last" id="nav-follow">
+<a href="#" title="Follow us, read Jazz Near You RSS feeds, and use calendar widgets"><i class="lnk-follow"></i><span class="hide-1400">Follow Us</span><b id="b_follow"></b></a>
+<div class="sub" id="social">
+<ul>
+<li>
+<a href="http://twitter.com/AllAboutJazz" target="_blank" title="Visit All About Jazz on Twitter"><i class="ico26 m-twit"></i> Twitter</a>
+</li>
+<li>
+<a href="http://www.facebook.com/pages/All-About-Jazz/205278926154165" target="_blank" title="Visit All About Jazz on Facebook"><i class="ico26 m-fcb"></i> Facebook</a>
+</li>
+<li>
+<a href="http://plus.google.com/+Allaboutjazz" target="_blank" title="All About Jazz on Google"><i class="ico26 m-google"></i> Google +</a>
+</li>
+<li>
+<a href="http://pinterest.com/allaboutjazz/jazz-photography/" target="_blank" title="Visit All About Jazz on Pinterest"><i class="ico26 m-pin"></i> Pinterest</a>
+</li>
+<li>
+<a href="http://www.allaboutjazz.com/php/live/rss.php" title="Subscribe to the All About Jazz RSS Feeds"><i class="ico26 m-rss"></i> RSS</a>
+</li>
+<li>
+<a href="http://www.allaboutjazz.com/php/live/index.php" title="Use the All About Jazz Content Widgets on Your Website or blog"><i class="ico26 m-widget"></i> Widgets</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+
+</div> <!-- /section -->
+</div> <!-- /navbar-main -->
+</div> <!-- /navdiv --> <div class="section-h" id="featured-one">
+<div class="section">
+<div class="logo-container" id="logo-aaj">
+<h2><a href="http://www.allaboutjazz.com" title="All About Jazz">Jazz Musician Database</a></h2>
+</div>
+<div class="nav-top">
+<ul class="nav">
+<li class="hide-740">
+<a href="#">MORE</a>
+<div class="sub" style="z-index:1000;">
+<div>
+<ul>
+<li><a href="/php/article_center.php?type=featured" title="Featured Jazz articles">Featured</a></li>
+<li><a href="/php/top_articles.php?t=read" title="Popular Jazz articles">Popular</a></li>
+<li><a href="/php/top_articles.php" title="Recommended Jazz articles">Recommended</a></li>
+<li class="last-txt"><a href="/php/future_articles.php" title="Future Jazz articles">Future</a></li>
+<!-- <li class="last-txt"><a title="All About Jazz Magazine" href="http://issuu.com/allaboutjazz">Magazine</a></li> -->
+</ul>
+</div>
+</div>
+</li>
+
+<div id="status-load">
+<img alt="Loading User Status" height="5" src="http://www.allaboutjazz.com/icon/049.gif" width="40"/> <span>Loading...</span>
+</div>
+<li class="authorization"><a href="http://www.allaboutjazz.com/php/signup.php" onclick="signin(1); return false;" title="Sign up and get a free local concert calendar newsletter plus much more!">Join</a></li>
+<li class="login authorization"><a href="http://www.allaboutjazz.com/php/login.php" onclick="signin(0); return false;">Sign In</a></li>
+<form action="#" id="logoutform" method="post" name="logoutform"><input name="logout" type="hidden" value="logout"/></form> </ul>
+</div>
+<p class="breadcrumbs_line">
+<a class="btn_searchCrumb" href="javascript:void(0);" rel="#search_overlay" title="Search All About Jazz"><i class="lnk-search"></i><span>Search</span></a><a href="http://www.allaboutjazz.com" title="All About Jazz">Home</a> » <a href="/php/article_center.php" title="Article Center">Articles</a> » <a href="/php/article_center.php?in_type=96">Extended Analysis</a>
+</p></div>
+</div> <div class="section-b" id="overlap">
+<div class="section">
+<style>			
+#footer-page {
+    background: none repeat scroll 0 0 #fff;
+    position: relative;
+    z-index: 201;
+}
+#bigbottom_adv {
+    z-index: 200;
+}
+
+			</style>
+<div class="prime-content-container col-system-outer clearfix">
+<div class="col-system-inner">
+<div class="col-1-wrap">
+<div class="col-1 is-inline-ad">
+<div class="recommend article-top clearfix">
+<div class="f-left">
+<a class="cur-num btn-life" href="/php/top_articles.php" title="Top recommended jazz articles"><span id="reccount_container_49056">36</span></a>
+<span id="rec_container_49056">
+<a aid="49056" atype="article" class="rec-but btn-gold" href="javascript:void(0);" title="Recommend article “Pink Floyd: The Endless River”">Recommend It!</a>
+</span>
+<meta content="Recommends:36" itemprop="interactionCount"/>
+</div>
+
+<div class="addthis_sharing_toolbox"></div>
+<div class="f-right">
+<a class="btn-life" href="http://www.allaboutjazz.com/artistry-of-a-boundless-nature-an-interview-with-duane-eubanks-duane-eubanks-by-nicholas-f-mondello.php" title="Read previously published article">« Prev</a>
+<a class="btn-life" href="http://www.allaboutjazz.com/cat-house-cat-conner-cat-tales-records-review-by-jack-bowers.php" title="Read next published article">Next »</a>
+</div>
+</div>
+<div class="hide-740 leaderboard_ad">
+<!-- Leaderboard_Top -->
+<div id="div-gpt-ad-1420041696178-0" style="width:728px; height:90px;">
+
+</div>
+</div>
+<h1 itemprop="headline">
+			 
+        	Pink Floyd: The Endless River		</h1>
+<div class="meta">
+		By
+	<div id="author">
+<a href="/php/profile.php?id=2138"><strong>NENAD GEORGIEVSKI</strong></a>,
+	</div>
+	Published: <time datetime="2014-11-15 00:05:13" itemprop="datePublished">November 15, 2014</time> | <a href="/php/top_articles.php?t=read" title="Top read articles and album reviews">21,780 views</a>
+<meta content="Views:21,780" itemprop="interactionCount"/>
+<div class="overlay_photo_gallery">
+<a href="javascript:void(0);" id="photostrip" style="visibility: hidden;" title="View related photos"><i></i>View related photos</a>
+
+</div>
+</div>
+<span class="trigger">
+<b class="rating"></b><b class="rating"></b><b class="rating"></b><b class="rating"></b>
+</span>
+<span class="tooltip">How we rate: our writers tend to review music they like within their preferred genres.<u></u></span>
+<br/><br/>
+<img alt="Pink Floyd: Pink Floyd: The Endless River" class="f-right" itemprop="image" src="http://www.allaboutjazz.com/coverart/large/pink_floyd_endless_river.jpg" title="Pink Floyd: Pink Floyd: The Endless River" width="200"/>
+<div class="margin-bottom-20" itemprop="text">In the past several months the world of music has been shaking with sudden announcements and surprising releases by various artists. When Pink Floyd announced that it will be releasing its 15th studio album it seemed like the Earth stopped rotating for a moment. After all, its band members quietly retired this seminal band from active music making and in the past 20 years concentrated more on archival releases and reissues, and turned their attention more on solo records or writing books and hobbies. 20 years after the band's beautiful and contemplative <em>Division Bell </em> (EMI, 1994) there comes a record which opens a new chapter and probably closes the story of Pink Floyd. <br/><br/>At the time, one of the ideas that the band members had with <em>Division Bell </em>was to make a double album where one part would feature regular songs and the other, ambient compositions (with a working title <em>The Big Spliff</em>), but that idea was put to a side. Based on 20 hours of unearthed meandering improvisations between guitarist David Gilmour, the late Richard Wright on keyboards and drummer Nick Mason, or the core of the band, later rerecorded and new material added which was eventually shaped into the four movements of <em>Endless River</em>. Actually, <em>Endless River</em> is a single continuous musical piece having many distinctive sections, where each either segues into or introduces the next section. The album as a whole is a progression consisting of many chapters. <br/><br/>The album was produced by old and new collaborators of both Pink Floyd and David Gilmour's solo projects like engineer Andy Jackson, Youth, Phil Manzanera along with David Gilmour. Guitarist extraordinaire of Roxy Music fame, Phil Manzanera, worked with Pink Floyd on the first post-Roger Waters record <em>Momentary Lapse of Reason</em> (EMI, 1987) where he co- wrote "One Slip" and he co-produced Gilmour's solo record <em>On an Island</em> (EMI, 2006). On the other hand, producer Youth is a member of the ambient house band The Orb which at the start of the '90s was called the rave generation's Pink Floyd, among other things, due to its kaleidoscopic music. It was Youth who produced the brilliant Orb record with David Gilmour <em>Metallic Spheres</em> (Columbia, 2010), but these two bands and institutions go back way back together in the past. Apart from the circulation of underground Orb remixes of Pink Floyd material (which ironically weren't done by the Orb), Orb sampled Gilmour's guitar for a track from its debut, <em>The Orb's Adventures beyond the Ultraworld</em> (Big Life, 1991). Also, Pink Floyd's bassist and participant in this project (and a son in law to Richard Wright) Guy Pratt, has worked previously with Orb. On the other hand, Andy Jackson, not only was the engineer for the last two Floyd records but he also worked on the remastering of the bonus material from the Immersion box sets. <br/><br/>Recorded during the sessions for <em>Division Bell, </em> this record feels like a distant sister to it. It also relates to the Richard Wright's solo record <em>Broken China</em> (EMI, 1996). Much like these records so is <em>Endless River</em> partially influenced by the ambient sound which in its many disguises was dominantly popular in the first half of the '90s on the British scene. Back then, it was championed by the likes of Orb, KLF, Aphex Twin or Mixmaster Morris, and that reflects on both records. And Pink Floyd's music has always had that cinematic feel to its music. <em>Endless River</em> is in a way, a loose homage to the very concept of soundtrack music. On the one hand, they cut loose from the expectations of doing a song based album and they have turned to the cosmic roamings they were known for in the pre-Dark Side of the Moon era. <br/><br/>But this record falls in a category of its own. It is simultaneously a series of explorations in sound, often fascinating and full of transcendent moments. These 18 vignettes offer soundscapes that are respectively evocative and most of the time, serene and warm. But regardless of the time distance of the sessions and the improvised basis for this record, the band could not escape from its past. While the overall sound evokes the '90s warm and cinematic ambiences, the band occasionally nods at the past through its evocative sounds. Pink Floyd has produced such a strong and immediately recognizable artistic blueprint that has become a source of inspiration and imitation ever since. <br/><br/>"Things left Unsaid" bears a little resemblance to "Shine on You Crazy Diamond" with its slow paced keyboards while the following "It's What We Do" also evokes "Welcome to the Machine." All throughout, the touch of Wright's keyboards not only paints beautiful pictures but also shows how his distinctive keyboards were crucial to the band's sound as much as Gilmour's guitars and Mason's pace on the drums. "It's What We Do" blossoms beautifully with Gilmour's chiming guitar bravuras at its most lyrical over the gentle keyboard touches. But not everything here is serene and slow paced. Gilmour rips his guitar with a series of dark solos over Mason's rollicking drums and that sense of uneasiness is carried over to "Skins." "Anisina" is a riveting piece of music much in the same manner as "Us and Them" is, with its slow waltz tempo. "Allons-y (1)" and "Allons-y (2)" are two up-tempo tracks driven by a tempo similar to "Run Like Hell." <br/><br/>"Autumn 68" is one of the standout tracks. It employs an archived recording of Richard Wright's organ playing at the Royal Albert Hall dated from 1968. The sound of his organ is so uniquely evocative and recognizable that it makes this piece of music sound like an aural hypnosis. It probably is a reference to Wright's track "Summer '68" from <em>Atom Heart Mother </em> (EMI, 1970). <br/><br/>"Talking Hawking" has a memorable piano hook augmented by a beautiful interplay of the lap steel and the guitar, and somewhere in the background, the voice of scientist Steven Hawking can be heard giving a lecture on the state of humanity. The ending song, "Louder than Words" was written by Gilmour's wife, Polly Samson and it perfectly sums up the dynamic, turbulent but highly creative career of this seminal band. The turbulent story of Pink Floyd consists of many chapters that only adds to the band's legendary status. <br/><br/><em>Endless River</em> is a record that will cause many debates and will be compared to other past achievements from the band's oeuvre. But it is a very good record on its own merits and it provides a glimpse of might have happened if the band continued to work together in the '90s under the banner of Pink Floyd. <em>Endless River</em> is the band's swansong and with it, it ends on a high note. </div>
+<p>Track Listing: Things Left Unsaid, It's What We Do, Ebb and Flow, Sum, Skins,
+Unsung,
+Anisina, The Lost Art of Conversation, On Noodle Street, Night
+Light,
+Allons-y (1), Autumn '68, Allons-y (2), Talkin' Hawkin, Calling,
+Eyes to
+Pearls, Surfacing, Louder than Words.
+</p>
+<p>Personnel: David Gilmour: guitars, vocals, keyboards, piano, EMS VCS 3, bass
+guitar (2,4,7), voice samples;
+Nick Mason : drums, percussions, voice samples; Richard Wright:
+Hammond organ, Farfisa organ, pipe organ, piano, Rhodes piano,
+keyboards, synthesiser, vibraphone, voice samples; Guy Pratt: bass
+guitar (9,14); Bob Ezrin: bass guitar (11,13,18), additional
+keyboards
+(1); Andy Jackson: bass guitar (5,16), effects (15); Jon Carin:
+synthesisers (9,11,13), percussion loop (11,13); Damon Iddins:
+additional keyboards (4,12); Anthony Moore: keyboards ("Calling");
+Gilad Atzmon: tenor saxophone (7), clarinet (7); Chantal Leverton:
+viola (18); Victoria Lyon: violin (18); Helen Nash: cello (18);
+Honor
+Watson: violin (18); Durga McBroom: backing vocals (14,17,18);
+Louise
+Marshal: backing vocals (18); Sarah Brown: backing vocals (18);
+Stephen Hawking: voice sample (14).
+</p>
+<p>Record Label: Parlophone</p>
+<p>Style: <a href="/php/review_center.php?in_genre=10" title="More reviews in Fusion/Progressive Rock category">Fusion/Progressive Rock</a> </p>
+<div id="testanchor"></div>
+
+<div class="hide-740 leaderboard_ad">
+<!-- Leaderboard_Bottom -->
+<div id="div-gpt-ad-1420041662835-0" style="width:728px; height:90px;">
+
+</div>
+</div>
+<div class="feat-cont-box hide-768 margin-bottom" id="shop-box">
+<h2>Shop Jazz</h2>
+<ul class="menu-h-d clearfix">
+<li><a href="http://www.amazon.com/b?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;linkCode=ur2&amp;node=34&amp;site-redirect=&amp;tag=alabja00-20" target="_blank" title="Shop at Amazon.">Amazon</a><img alt="Shop for Jazz at Amazon" height="1" src="http://www.assoc-amazon.com/e/ir?t=alabja00-20&amp;l=ur2&amp;o=1" width="1"/></li>
+<li><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=12&amp;at=1l3v8FS" target="itunes_store" title="Shop at iTunes">iTunes</a></li>
+<li><a href="http://www.cduniverse.com/browsecat.asp?style=music&amp;cat=59&amp;mode=recent&amp;frm=lk_aaj" target="_blank" title="Shop at CD Universe">CD Universe</a></li>
+<li><a href="https://www.cdbaby.com/style/jazz/from/aaj" target="_blank" title="Shop at CD Baby">CD Baby</a></li>
+</ul>
+</div>
+<!--
+<i class="ico ico24 amazon24"></i>
+<i class="ico ico24 itunes24"></i>
+<i class="ico ico24 cduniverse24"></i>
+<i class="ico ico24 cdbaby24"></i> 
+--><div class="feat-cont-box related-block hide-640 margin-bottom" itemscope="" itemtype="http://schema.org/accountablePerson">
+<div class="f-right">
+<div class="btn-30112">
+<a class="m_follow btn-life" href="javascript:void(0);" mid="30112" onclick="signin(0); return false;" title="Follow Pink Floyd at All About Jazz">+ Follow</a>
+</div>
+</div>
+<h2><span itemprop="name"><a href="http://musicians.allaboutjazz.com/pinkfloyd" itemprop="url" title="View Pink Floyd's All About Jazz profile">Pink Floyd</a></span> Related</h2>
+<div class="tabgroup" id="mtabs">
+<ul class="tabs">
+<li><a class="cur" href="#"><u><i>Photos</i></u></a></li>
+<li><a href="#"><u><i>Videos</i></u></a></li>
+<li><a href="#"><u><i>Articles</i></u></a></li>
+<li><a href="#"><u><i>Discography</i></u></a></li>
+</ul>
+<div class="content">
+<div class="cont-wrap cur clearfix">
+<ul class="thumbs a-gallery">
+<li><a class="thumb" href="http://photos.allaboutjazz.com/gallery_image.php?id=145305" title="pink floyd"><img alt="pink floyd - All About Jazz photo gallery" src="http://www.allaboutjazz.com//media/thumb/e/b/b/5ba9d78b19ef39c3271de77a879b7.jpg"/></a></li>
+<li><a class="thumb" href="http://photos.allaboutjazz.com/gallery_image.php?id=145304" title="pink floyd"><img alt="pink floyd - All About Jazz photo gallery" src="http://www.allaboutjazz.com//media/thumb/0/5/0/815eb4b843fff48b71c2b45d108af.jpg"/></a></li>
+<li><a class="thumb" href="http://photos.allaboutjazz.com/gallery_image.php?id=145303" title="pink floyd"><img alt="pink floyd - All About Jazz photo gallery" src="http://www.allaboutjazz.com//media/thumb/4/7/e/d50616487a67fb98d723aef6adcc6.jpg"/></a></li>
+<li><a class="thumb" href="http://photos.allaboutjazz.com/gallery_image.php?id=145302" title="pink floyd"><img alt="pink floyd - All About Jazz photo gallery" src="http://www.allaboutjazz.com//media/thumb/8/3/2/ea42a5563bc419d82752d0f0eeaa6.jpg"/></a></li>
+<li><a class="thumb" href="http://photos.allaboutjazz.com/gallery_image.php?id=145301" title="pink floyd"><img alt="pink floyd - All About Jazz photo gallery" src="http://www.allaboutjazz.com//media/thumb/c/8/8/60443206d035e1ba02075eb93058a.jpg"/></a></li>
+</ul>
+<div class="f-right gray-text"><a href="http://photos.allaboutjazz.com/?tag=Pink Floyd" title="View more Pink Floyd photos">View All</a> | <a href="http://photos.allaboutjazz.com/gallery_upload.php?musician=30112">Upload</a></div>
+<div class="m-links">
+<a href="http://www.pinkfloyd.com/" target="_blank" title="Pink Floyd - Website"><span class="m-web"></span></a>
+<a href="https://www.facebook.com/pinkfloyd" target="_blank" title="Pink Floyd on Facebook"><span class="m-fcb"></span></a>
+<a href="https://twitter.com/PinkFloyd" target="_blank" title="Pink Floyd on Twitter"><span class="m-twit"></span></a>
+<a href="http://youtube.com/results?search_query=Pink Floyd" target="_blank" title="Pink Floyd on Youtube"><span class="m-tube"></span></a>
+<a href="http://en.wikipedia.org/wiki/Pink_Floyd" target="_blank" title="Pink Floyd in Wikipedia"><span class="m-wikki"></span></a>
+</div>
+</div>
+<div class="cont-wrap clearfix">
+<iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/uwumke98koo" width="640"></iframe> </div>
+<div class="cont-wrap clearfix">
+<h4>Book Reviews</h4>
+<ul>
+<li>
+<a href="http://www.allaboutjazz.com/rock-covers-pink-floyd-by-nenad-georgievski.php" title=" articles and reviews: “Rock Covers”">Rock Covers</a>
+</li>
+</ul>
+<div class="divider"></div>
+<h4>Extended Analysis</h4>
+<ul>
+<li>
+<a href="http://www.allaboutjazz.com/pink-floyd-the-endless-river-by-nenad-georgievski.php" title=" articles and reviews: “Pink Floyd: The Endless River”">Pink Floyd: The Endless River</a>
+</li>
+</ul>
+<div class="divider"></div>
+<h4>Book Reviews</h4>
+<ul>
+<li>
+<a href="http://www.allaboutjazz.com/roger-waters-the-man-behind-the-wall-pink-floyd-by-nenad-georgievski.php" title=" articles and reviews: “Roger Waters: The Man Behind the Wall”">Roger Waters: The Man Behind the Wall</a>
+</li>
+</ul>
+<div class="divider"></div>
+<a class="callout-link" href="http://www.allaboutjazz.com/php/article_center.php?in_artist=Pink%20Floyd" title="More articles about Pink Floyd">More articles about Pink Floyd <span class="icon icon-arrow-right-dark"></span></a>
+</div>
+<div class="cont-wrap clearfix">
+<ul class="list-data thumb-list" id="discography_ul">
+<li class="clearfix">
+<span class="coverart-blank coverart-90">
+<i class="thumb-img-90" id="d_coverurl242013" style="background: url('http://www.allaboutjazz.com/coverart/large/pink_floyd_endless_river.jpg') no-repeat;"></i>
+</span>
+<em id="d_title242013">The Endless River</em>
+<br/><span id="d_label242013">Parlophone</span>
+<br/><span id="d_year242013">2014</span>
+</li>
+<li class="clearfix odd-list-item">
+<span class="coverart-blank coverart-90">
+<i class="thumb-img-90" id="d_coverurl242354" style="background: url('http://www.allaboutjazz.com/coverart/large/MI0003237394.jpg') no-repeat;"></i>
+</span>
+<em id="d_title242354">The Division Bell</em>
+<br/><span id="d_label242354">Capitol Records</span>
+<br/><span id="d_year242354">1994</span>
+</li>
+<li class="clearfix">
+<span class="coverart-blank coverart-90">
+<i class="thumb-img-90" id="d_coverurl242359" style="background: url('http://www.allaboutjazz.com/coverart/large/MI0003237425.jpg') no-repeat;"></i>
+</span>
+<em id="d_title242359">A Momentary Lapse of Reason</em>
+<br/><span id="d_label242359">Capitol Records</span>
+<br/><span id="d_year242359">1987</span>
+</li>
+<li class="clearfix odd-list-item">
+<span class="coverart-blank coverart-90">
+<i class="thumb-img-90" id="d_coverurl242349" style="background: url('http://www.allaboutjazz.com/coverart/large/MI0003237403.jpg') no-repeat;"></i>
+</span>
+<em id="d_title242349">The Wall</em>
+<br/><span id="d_label242349">Capitol Records</span>
+<br/><span id="d_year242349">1979</span>
+</li>
+<li class="clearfix">
+<span class="coverart-blank coverart-90">
+<i class="thumb-img-90" id="d_coverurl242351" style="background: url('http://www.allaboutjazz.com/coverart/large/MI0003237396.jpg') no-repeat;"></i>
+</span>
+<em id="d_title242351">Animals</em>
+<br/><span id="d_label242351">Capitol Records</span>
+<br/><span id="d_year242351">1977</span>
+</li>
+<li class="clearfix odd-list-item">
+<span class="coverart-blank coverart-90">
+<i class="thumb-img-90" id="d_coverurl242348" style="background: url('http://www.allaboutjazz.com/coverart/large/WishYouWereHere-300.jpg') no-repeat;"></i>
+</span>
+<em id="d_title242348">Wish You Were Here</em>
+<br/><span id="d_label242348">Capitol Records</span>
+<br/><span id="d_year242348">1975</span>
+</li>
+<li class="clearfix">
+<span class="coverart-blank coverart-90">
+<i class="thumb-img-90" id="d_coverurl242347" style="background: url('http://www.allaboutjazz.com/coverart/large/DarkSideOfTheMoon.jpg') no-repeat;"></i>
+</span>
+<em id="d_title242347">Dark Side of the Moon</em>
+<br/><span id="d_label242347">Capitol/EMI</span>
+<br/><span id="d_year242347">1973</span>
+</li>
+</ul>
+<a class="callout-link" href="http://musicians.allaboutjazz.com/discography/pinkfloyd" title="View discography by Pink Floyd">View More Albums <span class="icon icon-arrow-right-dark"></span></a>
+</div>
+</div>
+</div>
+<!-- Show videos if no musician is specified and there's a video tag value -->
+</div>
+<div class="feat-cont-box related-block hide-480" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<h2><a href="/php/profile.php?id=2138" itemprop="url" title="View Nenad Georgievski All About Jazz profile">About <span itemprop="name">Nenad Georgievski</span></a></h2>
+<div class="tabgroup">
+<ul class="tabs" id="index_advertise_ul">
+<li><a class="cur" href="#"><u><i>Meet the Author</i></u></a></li>
+<li><a href="#"><u><i>Recent Articles</i></u></a></li>
+</ul>
+<div class="content">
+<div class="cont-wrap clearfix cur">
+<a href="/php/profile.php?id=2138"><img alt="Nenad Georgievski" class="f-right margin-bottom-20" itemprop="image" src="http://www.allaboutjazz.com/photos/profile/fotka.jpg" width="100"/></a>
+<p class="strong-h4">
+				Published since 2004									</p>
+<p class="b-80" itemprop="description"><em>For as long I can remember music has been a focal point in my life. </em></p>
+<p class="m-links">
+<a href="https://www.facebook.com/nenad.georgievski" target="_blank" title="Visit me at Facebook"><span class="m-fcb"></span></a>
+</p>
+</div>
+<div class="cont-wrap clearfix">
+<h4>Record Label Profiles</h4>
+<p><a href="/passion-and-authenticity-are-fundamental-for-real-world-records-amanda-jones-by-nenad-georgievski.php">Real World Records: Passion and Authenticity are Fundamental</a></p>
+<div class="divider"></div>
+<h4>Book Reviews</h4>
+<p><a href="/rock-covers-pink-floyd-by-nenad-georgievski.php">Rock Covers</a></p>
+<div class="divider"></div>
+<h4>Book Reviews</h4>
+<p><a href="/on-tour-with-leonard-cohen-leonard-cohen-by-nenad-georgievski.php">On Tour With Leonard Cohen</a></p>
+<div class="divider"></div>
+<h4>CD/LP/Track Review</h4>
+<p><a href="/live-in-london-leonard-cohen-columbia-records-review-by-nenad-georgievski.php">Live in London</a></p>
+<div class="divider"></div>
+<h4>CD/LP/Track Review</h4>
+<p><a href="/fourth-world-vol-1-possible-musics-jon-hassell-glitterbeat-review-by-nenad-georgievski.php">Fourth World Vol. 1: Possible Musics</a></p>
+<div class="divider"></div>
+<a class="callout-link" href="http://www.allaboutjazz.com/php/contributor_articles.php?id=2138">More articles by Nenad Georgievski <span class="icon icon-arrow-right-dark"></span></a>
+</div>
+</div>
+</div>
+</div>
+<div id="disqus_thread"></div>
+
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a class="dsq-brlink" href="http://disqus.com">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+</div>
+<div class="col-2">
+
+<div class="tabgroup review cc hide-1024">
+<ul class="tabs">
+<li><a class="cur" href="#"><u><i>Popular</i></u></a></li>
+<li><a href="#"><u><i>Recent</i></u></a></li>
+<li><a href="#"><u><i>Random</i></u></a></li>
+</ul>
+<div class="content small-txt">
+<div class="cont-wrap cur">
+<ul class="list tab-list">
+<li>
+<img alt="Take Five With Noah Haidu" src="http://www.allaboutjazz.com/photos/profile/musician/noahhaidu100x100_2015b.jpg"/>
+					
+				Take Five With...<br/><a href="/take-five-with-noah-haidu-noah-haidu-by-noah-haidu.php" title="Take Five With Noah Haidu">Take Five With Noah Haidu</a></li>
+<li>
+<img alt="Warren Haynes: The Timeline of Sco-Mule and Beyond" src="http://www.allaboutjazz.com/photos/2010/Warren+Haynes100x100b.jpg"/>
+					
+				Interviews<br/><a href="/warren-haynes-the-timeline-of-sco-mule-and-beyond-govt-mule-by-doug-collette.php" title="Warren Haynes: The Timeline of Sco-Mule and Beyond">Warren Haynes: The Timeline...</a></li>
+<li>
+<img alt="Spandau Ballet SiriusXM Artist Confidential" src="http://www.allaboutjazz.com/photos/2010/spandauballet100x100.jpg"/>
+					
+				Live Reviews<br/><a href="/spandau-ballet-siriusxm-artist-confidential-by-christine-connallon.php" title="Spandau Ballet SiriusXM Artist Confidential">Spandau Ballet SiriusXM...</a></li>
+<li>
+<img alt="John Coltrane: Exploring the Mystery of A Love Supreme, Part 2" src="http://www.allaboutjazz.com/photos/profile/musician/john-coltrane-757011.jpeg"/>
+					
+				Book Excerpts<br/><a href="/john-coltrane-exploring-the-mystery-of-a-love-supreme-part-2-john-coltrane-by-k-shackelford.php" title="John Coltrane: Exploring the Mystery of A Love Supreme, Part 2">John Coltrane: Exploring the...</a></li>
+<li>
+<img alt="Working the Rhythm Section: Tom Lawton, Lee Smith, and Dan Monaghan" src="http://www.allaboutjazz.com/photos/2010/tom_lawton100x100b.jpg"/>
+					
+				Interviews<br/><a href="/working-the-rhythm-section-tom-lawton-lee-smith-and-dan-monaghan-tom-lawton-by-victor-l-schermer.php" title="Working the Rhythm Section: Tom Lawton, Lee Smith, and Dan Monaghan">Working the Rhythm Section:...</a></li>
+<li>
+<img alt="Zhenya Strigalev's Smiling Organizm:  Robin Goodie" src="http://www.allaboutjazz.com/coverart/small/ZhenyaStrigalev_260115.jpg"/>
+					
+				Zhenya Strigalev's Smiling...<br/><a href="/zhenya-strigalevs-smiling-organizm-robin-goodie-by-phil-barnes.php" title="Zhenya Strigalev's Smiling Organizm:  Robin Goodie">Zhenya Strigalev's Smiling...</a></li>
+<li>
+<img alt="Eddie Gomez: The Call of the Wild" src="http://www.allaboutjazz.com/photos/2010/eddiegomez100x100_2015_color.jpg"/>
+					
+				Interviews<br/><a href="/eddie-gomez-the-call-of-the-wild-eddie-gomez-by-robin-arends.php" title="Eddie Gomez: The Call of the Wild">Eddie Gomez: The Call of the...</a></li>
+</ul>
+</div>
+<div class="cont-wrap">
+<ul class="list tab-list">
+<li>
+<img alt="The Basement Tapes Raw: The Bootleg Series Vol. 11" src="http://www.allaboutjazz.com/coverart/small/dylanbandbasementtapesraw_dc.jpg"/>
+								Bob Dylan<br/><a href="/the-basement-tapes-raw-the-bootleg-series-vol-11-by-doug-collette.php" title="The Basement Tapes Raw: The Bootleg Series Vol. 11">The Basement Tapes Raw: The...</a></li>
+<li>
+<img alt="Vijay Iyer Trio: Break Stuff" src="http://www.allaboutjazz.com/coverart/small/IyerBreakStuff_allaboutjazz_ka.jpg"/>
+								Vijay Iyer Trio<br/><a href="/vijay-iyer-trio-break-stuff-by-john-kelman.php" title="Vijay Iyer Trio: Break Stuff">Vijay Iyer Trio: Break Stuff</a></li>
+<li>
+<img alt="Zhenya Strigalev's Smiling Organizm:  Robin Goodie" src="http://www.allaboutjazz.com/coverart/small/ZhenyaStrigalev_260115.jpg"/>
+								Zhenya Strigalev's Smiling...<br/><a href="/zhenya-strigalevs-smiling-organizm-robin-goodie-by-phil-barnes.php" title="Zhenya Strigalev's Smiling Organizm:  Robin Goodie">Zhenya Strigalev's Smiling...</a></li>
+<li>
+<img alt="Kenny Wheeler: Songs for Quintet" src="http://www.allaboutjazz.com/coverart/small/kenny_wheeler_songs_for_quintet_ip.jpg"/>
+								Kenny Wheeler<br/><a href="/kenny-wheeler-songs-for-quintet-by-john-kelman.php" title="Kenny Wheeler: Songs for Quintet">Kenny Wheeler: Songs for...</a></li>
+<li>
+<img alt="Gov't Mule Featuring John Scofield: Sco-Mule" src="http://www.allaboutjazz.com/coverart/small/govtmule_johnscofied_sco-mule.jpg"/>
+								Gov't Mule Featuring John...<br/><a href="/govt-mule-featuring-john-scofield-sco-mule-by-john-kelman.php" title="Gov't Mule Featuring John Scofield: Sco-Mule">Gov't Mule Featuring John...</a></li>
+<li>
+<img alt="Miles Davis: Olympia â Mar 20, 1960" src="http://www.allaboutjazz.com/coverart/small/milesdavis_olympia1960_cmb.jpg"/>
+								Miles Davis<br/><a href="/miles-davis-olympia--mar-20-1960-by-c-michael-bailey.php" title="Miles Davis: Olympia â Mar 20, 1960">Miles Davis: Olympia – Mar...</a></li>
+<li>
+<img alt="Rudresh Mahanthappa: Bird Calls" src="http://www.allaboutjazz.com/coverart/small/Mahanthappa-Bird-Calls-CD.jpg"/>
+								Rudresh Mahanthappa<br/><a href="/rudresh-mahanthappa-bird-calls-by-victor-l-schermer.php" title="Rudresh Mahanthappa: Bird Calls">Rudresh Mahanthappa: Bird...</a></li>
+</ul>
+</div>
+<div class="cont-wrap">
+<div id="randomtab">
+<ul class="list tab-list">
+<li><img alt="Free Range Music" src="http://www.allaboutjazz.com/coverart/small/composersberlin.jpg"/>Hazel Leach<br/><a href="/free-range-music-by-jack-bowers.php" title="Free Range Music">Free Range Music</a></li>
+<li><img alt="Tyler Blanton: Gotham" src="http://www.allaboutjazz.com/coverart/small/tylerblanton_gotham_dm.jpg"/>Tyler Blanton<br/><a href="/gotham-by-dave-wayne.php" title="Tyler Blanton: Gotham">Tyler Blanton: Gotham</a></li>
+<li><img alt="Eric Revis: In Memory Of Things Yet Seen" src="http://www.allaboutjazz.com/coverart/small/Screen-Shot-2014-02-04-at-8.09.09-PM.jpg"/>Eric Revis<br/><a href="/eric-revis-in-memory-of-things-yet-seen-by-henning-bolte.php" title="Eric Revis: In Memory Of Things Yet Seen">Eric Revis: In Memory Of...</a></li>
+<li><img alt="Le Tricycle: Le Tricycle" src="http://www.allaboutjazz.com/coverart/small/LeTricycle_080214.jpg"/>Le Tricycle<br/><a href="/le-tricycle-le-tricycle-by-phil-barnes.php" title="Le Tricycle: Le Tricycle">Le Tricycle: Le Tricycle</a></li>
+<li><img alt="Misha Tsiganov: The Artistry Of The Standard" src="http://www.allaboutjazz.com/coverart/small/1367.jpg"/>Misha Tsiganov<br/><a href="/misha-tsiganov-the-artistry-of-the-standard-by-dan-bilawsky.php" title="Misha Tsiganov: The Artistry Of The Standard">Misha Tsiganov: The Artistry...</a></li>
+<li><img alt="Jack Bruce: Silver Rails" src="http://www.allaboutjazz.com/coverart/small/jackbrucesilverrails.jpg"/>Jack Bruce<br/><a href="/silver-rails-by-phillip-woolever.php" title="Jack Bruce: Silver Rails">Jack Bruce: Silver Rails</a></li>
+<li><img alt="David Bach: Otherworld" src="http://www.allaboutjazz.com/coverart/small/41XEisGjW7L._.jpg"/>David Bach Trio<br/><a href="/david-bach-otherworld-by-geannine-reid.php" title="David Bach: Otherworld">David Bach: Otherworld</a></li>
+</ul>
+</div>
+<a class="reload" href="javascript:void(0);" id="reload_random" title="Show more random articles"><span class="reload-ico"></span></a>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="sbar_item_wrap">
+<div class="b-300 h-250-fixed" id="ad-top">
+<iframe allowfullscreen="" frameborder="0" height="230" src="https://www.youtube.com/embed/LCIq0x5_ic4" width="300"></iframe> <a class="f-right gray-text" href="http://media.allaboutjazz.com/jazzvideos.php" title="View more jazz videos">view more videos</a>
+</div>
+</div>
+<div class="sbar_item_wrap hide-1024">
+<div class="b-300">
+
+
+<!-- <span class="gray-text"><a href="http://news.allaboutjazz.com/support-all-about-jazz-through-amazon.php">Support All About Jazz Through Amazon</a></span> -->
+</div> </div>
+</div>
+<div class="row">
+<div class="sbar_item_wrap">
+<div class="b-300 h-250-fixed hide-480" id="ad-middle">
+<!-- 300x250_Right_Middle -->
+<div id="div-gpt-ad-1420041542225-0" style="width:300px; height:250px;">
+
+</div>
+</div>
+</div>
+<div class="sbar_item_wrap hide-1024">
+<div class="sbar-content-box b-300">
+<div class="pad-20">
+<h3><a href="http://www.allaboutjazz.com/php/showcase.php" title="All About Jazz Showcase Release">Showcase</a></h3>
+<div class="cont-section clearfix">
+<!-- begin showcase profile -->
+<a href="http://www.allaboutjazz.com/php/showcase.php?id=1200"><img alt="" class="f-left" height="90" src="http://www.allaboutjazz.com/coverart/medium/vocalese_cd_laguppl2.jpg" width="90"/></a>
+<h4><a href="http://www.allaboutjazz.com/php/showcase.php?id=1200">Vocalese</a></h4>
+<a href="http://musicians.allaboutjazz.com/angelicamatveeva">Angelica Matveeva</a>
+<!-- <a href="" class="add-link">Buy Now</a> -->
+</div>
+<div class="cont-section clearfix">
+<!-- begin showcase profile -->
+<a href="http://www.allaboutjazz.com/php/showcase.php?id=1197"><img alt="" class="f-left" height="90" src="http://cdbaby.name/e/m/emiliavancini3.jpg" width="90"/></a>
+<h4><a href="http://www.allaboutjazz.com/php/showcase.php?id=1197">Whatever possessed me</a></h4>
+<a href="http://musicians.allaboutjazz.com/emiliavancini">Emilia Vancini</a>
+<!-- <a href="" class="add-link">Buy Now</a> -->
+</div>
+<div class="cont-section clearfix">
+<!-- begin showcase profile -->
+<a href="http://www.allaboutjazz.com/php/showcase.php?id=1199"><img alt="" class="f-left" height="90" src="http://www.allaboutjazz.com/coverart/medium/61gnkQ1hEgL._SY355_.jpg" width="90"/></a>
+<h4><a href="http://www.allaboutjazz.com/php/showcase.php?id=1199">Constellations</a></h4>
+<a href="http://musicians.allaboutjazz.com/karllatham">Karl Latham</a>
+<!-- <a href="" class="add-link">Buy Now</a> -->
+</div>
+<div class="cont-section clearfix">
+<!-- begin showcase profile -->
+<a href="http://www.allaboutjazz.com/php/showcase.php?id=1198"><img alt="" class="f-left" height="90" src="http://www.allaboutjazz.com/coverart/medium/manukatche_liveinconcert.jpg" width="90"/></a>
+<h4><a href="http://www.allaboutjazz.com/php/showcase.php?id=1198">Live in concert</a></h4>
+<a href="http://musicians.allaboutjazz.com/manukatche">Manu Katche</a>
+<!-- <a href="" class="add-link">Buy Now</a> -->
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="sbar_item_wrap hide-1024">
+<div class="b-300 hide-1024" id="ad-halfpage">
+<!-- 300x600_Half_Page -->
+<div id="div-gpt-ad-1420041637056-0" style="width:300px; height:600px;">
+
+</div>
+</div>
+</div>
+<!-- <div class="sbar_item_wrap"> 
+			        </div> -->
+</div>
+<div class="row">
+<div class="sbar_item_wrap hide-1024">
+<div class="b-300 h-250-fixed hide-1024" id="ad-bottom">
+<!-- 300x250_Right_Bottom -->
+<div id="div-gpt-ad-1420041059048-0" style="width:300px; height:250px;">
+
+</div>
+</div>
+</div>
+<div class="sbar_item_wrap">
+<!-- -->
+</div>
+</div>
+</div>
+</div>
+</div><!-- prime-content-container -->
+</div><!-- section -->
+</div><!-- section-b -->
+<!-- Editorial comments and other private information -->
+<div class="section-b hide-740" id="bigbottom_adv">
+<a class="bigbottom_adv_link" href="http://bit.ly/1zo8SlD" target="_blank" title="Count Basie Theatre">
+<img src="http://www.allaboutjazz.com/images/ads/JazzBannerFeb2015.jpg" width="100%"/>
+</a>
+<span class="captiontext">Sponsor: <a href="http://bit.ly/1zo8SlD" target="_blank">Count Basie Theatre</a></span>
+</div>
+<!-- Footer -->
+<div class="section-b" id="footer-page">
+<div class="section">
+<div class="b-40 f-left">
+<div class="pad-30">
+<i class="footer-logo aaj_footer_logo"></i>
+<p class="cc">Our mission is to inform jazz fans and alert them to local concerts, while improving audience attendance and building active jazz communities in nearly 250 cities worldwide.</p>
+</div>
+</div><!-- /primary -->
+<div class="b-20 f-left hide-740">
+<div class="pad-30">
+<h4>Community →</h4>
+<ul class="link-list">
+<li><a href="http://www.allaboutjazz.com/php/article.php?id=298">About Us</a></li>
+<li><a href="http://www.allaboutjazz.com/php/article.php?id=45574">Join Us</a></li>
+<li><a href="http://www.allaboutjazz.com/php/article.php?id=29379">Pitch In!</a></li>
+<li><a href="http://www.allaboutjazz.com/php/contributor_center.php">Staff Directory</a></li>
+<li><a href="http://forums.allaboutjazz.com">Forum</a></li>
+<li><a href="http://forums.allaboutjazz.com/forumdisplay.php?49-For-Musicians-and-Presenters">Support Forum</a></li>
+</ul>
+</div>
+</div>
+<div class="b-20 f-left hide-740">
+<div class="pad-30">
+<h4>Services →</h4>
+<ul class="link-list">
+<li><a href="http://musicians.allaboutjazz.com/toolkit.php">Musician Toolkit</a></li>
+<li><a href="http://www.jazznearyou.com/event_edit.php">Add Event</a></li>
+<li><a href="http://www.jazznearyou.com/guide_center.php">Add Business</a></li>
+<li><a href="http://www.jazznearyou.com/channels.php">Event Syndication</a></li>
+<li><a href="http://www.allaboutjazz.com/php/live/index.php">Widgets</a></li>
+<li><a href="http://www.allaboutjazz.com/php/live/rss.php">Feeds</a></li>
+</ul>
+</div>
+</div>
+<div class="b-20 f-left hide-740">
+<div class="pad-30">
+<h4>Get in touch →</h4>
+<ul class="link-list">
+<li><a href="http://www.allaboutjazz.com/php/advertising/index.php">Advertise</a></li>
+<li><a href="http://www.allaboutjazz.com/php/submit_suggestion.php">Make Suggestion</a></li>
+<li><a href="http://www.allaboutjazz.com/php/tech_support.php">Report Bug</a></li>
+<li><a href="http://www.jazznearyou.com/faq.php">FAQ</a></li>
+<li><a href="http://www.surveymonkey.com/s/T68BBP8">Take Survey</a></li>
+</ul>
+</div>
+</div>
+</div><!-- /row -->
+<div class="section clearfix">
+<div class="pad-30">
+<ul class="jny-social f-left">
+<li>
+<a href="https://twitter.com/AllAboutJazz" title="Twitter">
+<span class="icon-social-new icon-twitter"></span>
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/allaboutjazz" title="Facebook">
+<span class="icon-social-new icon-facebook"></span>
+</a>
+</li>
+<li>
+<a href="http://www.allaboutjazz.com/shop.php" title="Shop music and more at the All About Jazz store">
+<span class="icon-social-new icon-shop"></span>
+</a>
+</li>
+</ul>
+<p class="f-right">© 2014 <a href="http://www.allaboutjazz.com">All About Jazz</a> | <a href="http://www.allaboutjazz.com/privacy.php">Privacy Policy</a></p>
+</div>
+</div>
+</div><!-- /footer --> 
+<div class="overlay_wrap" id="login-box">
+<div class="overlay_body">
+<div class="overlay_tabs clearfix">
+<ul>
+<li><a class="strong-h4" href="#1" id="a_signin">Member Sign in</a></li>
+<li><a class="strong-h4" href="#2" id="a_signup">Member Sign up</a></li>
+<li><a class="strong-h4" href="#3" id="a_reset">Reset your password</a></li>
+</ul>
+</div>
+<div id="panes">
+<div>
+<form action="#" class="form_theme2014 clearfix" id="authForm" method="POST">
+<!--<span class="error form-validation" id="badlogin_err"></span>-->
+<div class="form_item">
+<div class="b-50 f-left">
+<label>Email address</label>
+<p class="error form-validation" id="email_err"></p>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="login_email" maxlength="255" name="email" size="40" type="TEXT" value=""/>
+</div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>Password</label>
+<p class="error form-validation" id="pswd_err"></p>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="login_pswd" maxlength="255" name="pswd" size="40" type="PASSWORD" value=""/>
+</div>
+</div>
+<div class="form_item">
+<div class="b-50 f-right">
+<input id="bsubmit" type="submit" value="Sign in"/>
+</div>
+</div>
+</form>
+</div>
+<div>
+<form action="#" class="form_theme2014 clearfix" id="signupform" method="POST">
+<div class="form_item">
+<div class="b-50 f-left">
+<label>First name <u>and</u> Last name</label>
+<p class="error form-validation" id="signupname_err"></p>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="input_name" maxlength="255" name="name" size="30" type="TEXT" value=""/>
+</div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>First name or username</label>
+<p class="error form-validation" id="signupsalutation_err"></p>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="input_salutation" maxlength="255" name="salutation" size="15" type="TEXT" value=""/>
+</div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>Email address<span class="trigger"><i></i></span><span class="tooltip">It will remain <a href="http://www.allaboutjazz.com/privacy.php" target="_blank" title="All About Jazz Privacy Policy">private</a><u></u></span></label>
+<p class="error form-validation" id="signupemail_err"></p>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="input_email" maxlength="255" name="email" size="30" type="TEXT" value=""/>
+</div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label for="country_subd">Country</label>
+</div>
+<div class="b-50 f-right input_wrap">
+<select id="country_subd" name="country_subd"><option value="al">Albania
+<option value="dz">Algeria
+<option value="ad">Andorra
+<option value="ao">Angola
+<option value="ai">Anguilla
+<option value="ag">Antigua / Barbuda
+<option value="ar">Argentina
+<option value="am">Armenia
+<option value="aw">Aruba
+<option value="au">Australia
+<option value="at">Austria
+<option value="az">Azerbaijan
+<option value="bs">Bahamas
+<option value="bh">Bahrain
+<option value="bd">Bangladesh
+<option value="bb">Barbados
+<option value="by">Belarus
+<option value="be">Belgium
+<option value="bz">Belize
+<option value="bj">Benin
+<option value="bm">Bermuda
+<option value="bt">Bhutan
+<option value="bo">Bolivia
+<option value="ba">Bosnia / Herzegowina
+<option value="bw">Botswana
+<option value="br">Brazil
+<option value="bn">Brunei Darussalam
+<option value="bg">Bulgaria
+<option value="bf">Burkina Faso
+<option value="bi">Burundi
+<option value="kh">Cambodia
+<option value="cm">Cameroon
+<option value="ca">Canada
+<option value="cv">Cape Verde
+<option value="ky">Cayman Islands
+<option value="cf">Central African Republic
+<option value="cl">Chile
+<option value="cn">China
+<option value="co">Colombia
+<option value="cg">Congo
+<option value="cr">Costa Rica
+<option value="hr">Croatia
+<option value="cu">Cuba
+<option value="cy">Cyprus
+<option value="cz">Czech Republic
+<option value="dk">Denmark
+<option value="dj">Djibouti
+<option value="do">Dominican Republic
+<option value="ec">Ecuador
+<option value="eg">Egypt
+<option value="sv">El Salvador
+<option value="gq">Equatorial Guinea
+<option value="ee">Estonia
+<option value="et">Ethiopia
+<option value="fj">Fiji
+<option value="fi">Finland
+<option value="fr">France
+<option value="pf">French Polynesia
+<option value="de">Germany
+<option value="gh">Ghana
+<option value="gi">Gibraltar
+<option value="gr">Greece
+<option value="gd">Grenada
+<option value="gp">Guadeloupe
+<option value="gt">Guatemala
+<option value="gy">Guyana
+<option value="ht">Haiti
+<option value="hn">Honduras
+<option value="hk">Hong Kong
+<option value="hu">Hungary
+<option value="is">Iceland
+<option value="in">India
+<option value="id">Indonesia
+<option value="ir">Iran (Islamic Republic of)
+<option value="iq">Iraq
+<option value="ie">Ireland
+<option value="il">Israel
+<option value="it">Italy
+<option value="jm">Jamaica
+<option value="jp">Japan
+<option value="je">Jersey
+<option value="kz">Kazakhstan
+<option value="ke">Kenya
+<option value="kw">Kuwait
+<option value="kg">Kyrgyzstan
+<option value="la">Lao People's Democratic Republic
+<option value="lv">Latvia
+<option value="lb">Lebanon
+<option value="li">Liechtenstein
+<option value="lt">Lithuania
+<option value="lu">Luxembourg
+<option value="mo">Macau
+<option value="mk">Macedonia
+<option value="mg">Madagascar
+<option value="mw">Malawi
+<option value="my">Malaysia
+<option value="ml">Mali
+<option value="mt">Malta
+<option value="mq">Martinique
+<option value="mr">Mauritania
+<option value="mu">Mauritius
+<option value="yt">Mayotte
+<option value="mx">Mexico
+<option value="fm">Micronesia (Federated States of)
+<option value="md">Moldova, Republic of
+<option value="mc">Monaco
+<option value="mn">Mongolia
+<option value="me">Montenegro
+<option value="ma">Morocco
+<option value="mz">Mozambique
+<option value="na">Namibia
+<option value="np">Nepal
+<option value="nl">Netherlands
+<option value="an">Netherlands Antilles
+<option value="nc">New Caledonia
+<option value="nz">New Zealand
+<option value="ni">Nicaragua
+<option value="ng">Nigeria
+<option value="kp">North Korea
+<option value="no">Norway
+<option value="om">Oman
+<option value="pk">Pakistan
+<option value="pa">Panama
+<option value="py">Paraguay
+<option value="pe">Peru
+<option value="ph">Philippines
+<option value="pl">Poland
+<option value="pt">Portugal
+<option value="pr">Puerto Rico
+<option value="qa">Qatar
+<option value="ro">Romania
+<option value="ru">Russian Federation
+<option value="rw">Rwanda
+<option value="ws">Samoa
+<option value="sm">San Marino
+<option value="sa">Saudi Arabia
+<option value="sn">Senegal
+<option value="rs">Serbia, Republic of
+<option value="sc">Seychelles
+<option value="sg">Singapore
+<option value="sk">Slovakia
+<option value="si">Slovenia
+<option value="so">Somalia
+<option value="za">South Africa
+<option value="kr">South Korea
+<option value="es">Spain
+<option value="lk">Sri Lanka
+<option value="sd">Sudan
+<option value="sz">Swaziland
+<option value="se">Sweden
+<option value="ch">Switzerland
+<option value="sy">Syrian Arab Republic
+<option value="tw">Taiwan, Province of China
+<option value="tj">Tajikistan
+<option value="tz">Tanzania, United Republic of
+<option value="th">Thailand
+<option value="tg">Togo
+<option value="tt">Trinidad / Tobago
+<option value="tn">Tunisia
+<option value="tr">Turkey
+<option value="tm">Turkmenistan
+<option value="tv">Tuvalu
+<option value="ug">Uganda
+<option value="ua">Ukraine
+<option value="ae">United Arab Emirates
+<option value="gb">United Kingdom
+<option selected="" value="us">United States
+<option value="uy">Uruguay
+<option value="uz">Uzbekistan
+<option value="va">Vatican City State (Holy See)
+<option value="ve">Venezuela
+<option value="vn">Viet Nam
+<option value="vg">Virgin Islands (British)
+<option value="vi">Virgin Islands (U.S.)
+<option value="ye">Yemen
+<option value="yu">Yugoslavia
+<option value="zr">Zaire
+<option value="zw">Zimbabwe
+</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</div>
+</div>
+<div class="form_item" id="p_state">
+<div class="b-50 f-left">
+<label for="state_subd">State</label>
+</div>
+<div class="b-50 f-right input_wrap">
+<select id="state_subd" name="state_subd"><option value="al">Alabama
+<option value="ak">Alaska
+<option value="az">Arizona
+<option value="ar">Arkansas
+<option value="ca">California
+<option value="co">Colorado
+<option value="ct">Connecticut
+<option value="de">Delaware
+<option value="dc">District Of Columbia
+<option value="fl">Florida
+<option value="ga">Georgia
+<option value="hi">Hawaii
+<option value="id">Idaho
+<option value="il">Illinois
+<option value="in">Indiana
+<option value="ia">Iowa
+<option value="ks">Kansas
+<option value="ky">Kentucky
+<option value="la">Louisiana
+<option value="me">Maine
+<option value="md">Maryland
+<option value="ma">Massachusetts
+<option value="mi">Michigan
+<option value="mn">Minnesota
+<option value="ms">Mississippi
+<option value="mo">Missouri
+<option value="mt">Montana
+<option value="ne">Nebraska
+<option value="nv">Nevada
+<option value="nh">New Hampshire
+<option value="nj">New Jersey
+<option value="nm">New Mexico
+<option selected="" value="ny">New York
+<option value="nc">North Carolina
+<option value="nd">North Dakota
+<option value="oh">Ohio
+<option value="ok">Oklahoma
+<option value="or">Oregon
+<option value="pa">Pennsylvania
+<option value="ri">Rhode Island
+<option value="sc">South Carolina
+<option value="sd">South Dakota
+<option value="tn">Tennessee
+<option value="tx">Texas
+<option value="ut">Utah
+<option value="vt">Vermont
+<option value="va">Virginia
+<option value="wa">Washington
+<option value="wv">West Virginia
+<option value="wi">Wisconsin
+<option value="wy">Wyoming
+</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</div>
+</div>
+<div class="form_item" id="p_city">
+<div class="b-50 f-left">
+<label for="city_subd">City</label>
+</div>
+<div class="b-50 f-right input_wrap">
+<select id="city_subd" name="city_subd"><option value=""><option value="albany">Albany
+<option value="beacon">Beacon
+<option value="buffalo">Buffalo
+<option value="nyc">New York City
+<option value="poughkeepsie">Poughkeepsie
+<option value="rochester">Rochester
+<option value="syracuse">Syracuse
+</option></option></option></option></option></option></option></option></select>
+</div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>Password<span class="trigger"><i></i></span><span class="tooltip">Enter 6+ characters<u></u></span></label>
+<p class="error form-validation" id="signuppswd1_err"></p>
+</div>
+<div class="b-50 f-right input_wrap">
+<input autocomplete="off" id="input_pswd1" maxlength="255" name="pswd1" size="8" type="PASSWORD" value=""><input autocomplete="off" id="input_pswd2" maxlength="255" name="pswd2" size="8" type="PASSWORD" value=""> <span class="meta-small">Enter it twice.</span>
+</input></input></div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>Subscribe<span class="trigger"><i></i></span><span class="tooltip">You will receive one local jazz events calendar email every Thursday<u></u></span></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<input checked="checked" id="send_calendar_mail" name="send_calendar_mail" type="checkbox"><span class="meta-small">To the weekly jazz events calendar</span>
+</input></div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>Verification code</label>
+<p class="error form-validation" id="signupcaptcha_err"></p>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="input_captcha" maxlength="10" name="imgpass" size="10" type="TEXT"/> <span class="meta-small">Enter the numbers in the graphic</span><br/><img alt="Enter the code in this picture" id="captcha_img" src="http://www.allaboutjazz.com/php/imgpass.php">
+</img></div>
+</div>
+<div class="form_item">
+<div class="b-50 f-right">
+<input id="signup" type="submit" value="Submit"/>
+</div>
+</div>
+</form>
+</div>
+<div>
+<form action="#" class="form_theme2014 clearfix" id="resetPass" method="POST" onsubmit="resetpass(); return false;">
+<div class="form_item">
+<div class="b-50 f-left">
+<label>Email address</label>
+<p class="error form-validation" id="emailfound_err"></p>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="email_found" maxlength="255" name="email" size="40" type="TEXT" value=""/></div></div></form></div></div></div></div></body></html>
+
+
+<div class="form_item">
+<div class="b-50 f-right">
+<input type="submit" value="Reset Password Now"/>
+</div>
+</div>
+
+
+
+
+
+<div class="overlay_wrap" id="loggedin" style="z-index:10000;">
+<div class="overlay_body">
+<h2 class="current" id="msg_txt">Log in</h2>
+		One moment, you will be redirected shortly.     
+	</div>
+</div>
+<div class="overlay_wrap" id="search_overlay">
+<div class="overlay_body">
+<div class="overlay_tabs clearfix" id="ul_seach">
+<ul>
+<li><a class="strong-h4">Article</a></li>
+<li><a class="strong-h4">Birthdays</a></li>
+<li><a class="strong-h4">Contributor</a></li>
+<li><a class="strong-h4">Fact</a></li>
+<li><a class="strong-h4">Musician</a></li>
+<li><a class="strong-h4">Timeline</a></li>
+</ul>
+</div>
+<div id="search_tabs">
+<div>
+<form action="/php/article_center.php" class="form_theme2014 clearfix" method="get">
+<div class="form_item">
+<div class="b-50 f-left">
+<label>by <strong>musician</strong></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="aajsearch_artist" name="in_artist" size="30" type="text" value=""/>
+</div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>by <strong>title</strong></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<input name="in_album" size="30" type="text" value=""/>
+</div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>by <strong>record label</strong></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="aajsearch_label" name="in_label" size="30" type="text" value="">
+</input></div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>by <strong>author</strong></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="aajsearch_author" name="in_author" size="30" type="text" value="">
+</input></div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>by <strong>type</strong></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<select name="in_type"><option value="0">
+<option value="85">AAJ PRO
+<option value="74">African Jazz
+<option value="169">Afrobeat Diaries
+<option value="1">Airplay 101
+<option value="107">All About Jazz: South Africa
+<option value="3">Artist Profiles
+<option value="4">Ask Ken
+<option value="140">Audio High Product Profile
+<option value="111">Audio Reviews
+<option value="136">Back Roads Beat
+<option value="83">Bailey's Bundles
+<option value="184">Behind the Lens With...
+<option value="6">Berklee Buzz
+<option value="79">Best of / Year End
+<option value="145">Big Band Caravan
+<option value="125">Big Band in the Sky
+<option value="7">Big Band Report
+<option value="134">Big Jazz Nerd
+<option value="160">Bill Anschell's Notes from the Lobby
+<option value="8">Biographies
+<option value="126">Book Excerpts
+<option value="9">Book Reviews
+<option value="72">Building a Jazz Library
+<option value="163">Built to Sound
+<option value="120">Call and Response
+<option value="11">Call to Listen
+<option value="189">Catching Up With
+<option value="100">CD/LP/Track Review
+<option value="71">Compare &amp; Contrast
+<option value="138">Confessions of a Piano Player
+<option value="89">Contemporary Vibes
+<option value="133">Contributor News
+<option value="157">Cool Vic Files
+<option value="191">Cymbalism
+<option value="158">Dan's Den
+<option value="112">Digital Music
+<option value="116">Discography
+<option value="81">District Jazz
+<option value="110">Download Reviews
+<option value="216">Drummer to Drummer
+<option value="68">DVD/Video/Film Reviews
+<option value="96">Extended Analysis
+<option value="21">Eye and Ear
+<option value="205">First Impressions
+<option value="22">First Steps
+<option value="23">First Time I Saw...
+<option value="177">Forgotten Finds
+<option value="198">Fre-Formation
+<option value="149">From Far and Wide
+<option value="24">From the Hip
+<option value="25">From the Inside Out
+<option value="144">Future Jazz
+<option value="181">Future Theory, Future Practice
+<option value="26">Gateway Grooves
+<option value="27">General Articles
+<option value="28">Genius Guide to Jazz
+<option value="174">Gnome Notes
+<option value="220">Guitarist's Rendezvous
+<option value="197">Hardly Strictly Jazz
+<option value="95">Highly Opinionated
+<option value="108">History of Jazz Timeline
+<option value="211">Hobson's Choice
+<option value="206">Ideas and Sounds
+<option value="30">Improvise!
+<option value="31">In 10
+<option value="137">In the Artist's Own Words
+<option value="117">In the Studio
+<option value="32">Interviews
+<option value="119">Jazz and the Net
+<option value="148">Jazz Art
+<option value="170">Jazz Biofiles
+<option value="131">Jazz Ed
+<option value="207">Jazz Emerges
+<option value="156">Jazz Fiction
+<option value="33">Jazz From The Vinyl Junkyard
+<option value="102">Jazz Humor
+<option value="190">Jazz in the Aquarian Age
+<option value="93">Jazz Journal
+<option value="193">Jazz on the 90th Floor 
+<option value="58">Jazz Poetry
+<option value="118">Jazz Primer
+<option value="175">Jazz That Scratches, Swings and Pops
+<option value="34">Jazz Uncorked
+<option value="202">Jazz Wench
+<option value="35">Jazzin' Around Europe
+<option value="168">JazzLife UK
+<option value="36">Jazzology 300
+<option value="37">Journey into Jazz
+<option value="38">LA Jazzin
+<option value="40">Late Night Thoughts on Jazz
+<option value="42">Latin American Sketches
+<option value="113">Letter to the Editor
+<option value="43">Liner Notes
+<option value="130">Listen To This!
+<option value="52">Live From New York
+<option value="186">Live From Philadelphia
+<option value="19">Live Reviews
+<option value="44">London Calling
+<option value="196">Lost Masters
+<option value="46">Making a Jazz CD
+<option value="155">Making Music
+<option value="103">Meet the Staff
+<option value="82">Megaphone
+<option value="210">Mentoring the Millennials
+<option value="47">Mighty Like the Blues
+<option value="146">Misterioso
+<option value="176">Mixed Tape
+<option value="161">Mr. P.C.'s Guide to Jazz Etiquette...
+<option value="84">Multiple Reviews
+<option value="127">Muse From the Front
+<option value="153">Music and the Creative Spirit
+<option value="48">Music Biz 101
+<option value="49">Music Theory
+<option value="50">Musings In Cb
+<option value="97">Must Hear Review
+<option value="214">My Blue Note Obsession
+<option value="45">New &amp; Noteworthy
+<option value="51">New York Beat
+<option value="80">Nite &amp; Disk
+<option value="104">Nordic Sounds
+<option value="115">Not For Sale
+<option value="204">Notes From The Coast
+<option value="165">Old, New, Borrowed and Blue
+<option value="188">On and Off the Grid
+<option value="182">On the Road With...
+<option value="65">One LP
+<option value="54">Open Ears
+<option value="55">Opinion/Editorial
+<option value="56">Out-of-Print
+<option value="132">Podcast
+<option value="147">Previews
+<option value="139">Product Reviews
+<option value="178">Race and Jazz
+<option value="106">Readers Write Back
+<option value="59">Reassessing
+<option value="39">Record Label Profiles
+<option value="219">Rediscovery
+<option value="212">Rethinking Jazz Cultures
+<option value="60">Rhythm In Every Guise
+<option value="98">Roads Less Travelled
+<option value="203">Scumbles
+<option value="77">Shrinktunes
+<option value="101">Straight From The Vault
+<option value="185">Stretch Movement
+<option value="122">Swing Set
+<option value="141">Take Five With...
+<option value="183">Talkin' Blues
+<option value="217">Talking 2 Musicians
+<option value="209">Tell Me More
+<option value="162">The Art and Science of Jazz
+<option value="167">The Art Of The Artist To Fan Relationship
+<option value="218">The Big Question
+<option value="172">The Business of Jazz
+<option value="213">The Club Car
+<option value="135">The Cool Vic Files
+<option value="194">The Doorman's Diary
+<option value="179">The Frozen Freeloader
+<option value="88">The Low End
+<option value="195">The Moment's Energy
+<option value="201">The Mort Report
+<option value="215">The Vinyl Post
+<option value="187">The Write Stuff
+<option value="166">Unsung Heroes
+<option value="128">Video Feature
+<option value="142">Vinyl Vibe
+<option value="199">We Travel the Spaceways
+<option value="69">Website News
+<option value="143">What is Jazz?
+<option value="208">Where Legends Lived
+<option value="70">Wide Open Jazz and Beyond
+<option value="171">Working Out to Jazz
+</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</div>
+</div>
+<div class="form_item form_item_last">
+<div class="b-50 f-right">
+<input type="submit" value="Go!">
+</input></div>
+</div>
+</form>
+</div>
+<div>
+<form action="/php/birthday.php" class="form_theme2014 clearfix" method="get">
+<div class="form_item">
+<div class="b-50 f-left">
+<label>by <strong>name</strong></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<input name="name" size="18" type="text" value="">
+</input></div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>or by <strong>month and day</strong></label>
+</div>
+<div class="b-50 f-right input_wrap fields-compact">
+<select name="birth_month">
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option>
+</select>
+<select name="birth_day">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+</div>
+</div>
+<div class="form_item form_item_last">
+<div class="b-50 f-right">
+<input type="submit" value="Go!">
+</input></div>
+</div>
+</form>
+</div>
+<div>
+<form action="/php/contributor_center.php" class="form_theme2014 clearfix" method="get">
+<div class="form_item">
+<div class="b-50 f-left">
+<label>by <strong>name</strong></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="aajsearch_contribname" name="in_name" size="30" type="text" value="">
+<input id="input_contribname_id" name="membername_id" type="hidden" value=""/>
+</input></div>
+</div>
+<div class="form_item form_item_last">
+<div class="b-50 f-right">
+<input type="submit" value="Go!">
+</input></div>
+</div>
+</form>
+</div>
+<div>
+<form action="http://www.allaboutjazz.com/php/facts.php" class="form_theme2014 clearfix" method="post">
+<div class="form_item">
+<div class="b-50 f-left">
+<label>by <strong>month</strong> and <strong>day</strong></label>
+</div>
+<div class="b-50 f-right input_wrap fields-compact">
+<select name="month">
+<option value="01">January<option selected="" value="02">February<option value="03">March<option value="04">April<option value="05">May<option value="06">June<option value="07">July<option value="08">August<option value="09">September<option value="10">October<option value="11">November<option value="12">December							</option></option></option></option></option></option></option></option></option></option></option></option></select>
+<select name="day">
+<option value="01">1<option value="02">2<option value="03">3<option value="04">4<option value="05">5<option value="06">6<option value="07">7<option value="08">8<option selected="" value="09">9<option value="10">10<option value="11">11<option value="12">12<option value="13">13<option value="14">14<option value="15">15<option value="16">16<option value="17">17<option value="18">18<option value="19">19<option value="20">20<option value="21">21<option value="22">22<option value="23">23<option value="24">24<option value="25">25<option value="26">26<option value="27">27<option value="28">28<option value="29">29<option value="30">30<option value="31">31							</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</div>
+</div>
+<div class="form_item form_item_last">
+<div class="b-50 f-right">
+<input type="submit" value="Go!">
+</input></div>
+</div>
+</form>
+</div>
+<div>
+<form action="http://musicians.allaboutjazz.com/index.php" class="form_theme2014 clearfix" method="post">
+<div class="form_item">
+<div class="b-50 f-left">
+<label>by <strong>name</strong></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<input id="aajsearch_musician" name="in_name" type="text" value="">
+</input></div>
+</div>
+<div class="form_item">
+<div class="b-50 f-left">
+<label>or by <strong>instrument</strong></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<select name="in_instr"><option value="0">
+<option value="1">accordion
+<option value="3">arranger
+<option value="136">author
+<option value="4">bass
+<option value="5">bass, acoustic
+<option value="7">bass, electric
+<option value="122">band/orchestra
+<option value="9">banjo
+<option value="127">bandoneon
+<option value="11">bongos
+<option value="124">bassoon
+<option value="12">clarinet
+<option value="138">clarinet, bass
+<option value="17">cello
+<option value="19">clave
+<option value="21">composer/conductor
+<option value="22">congas
+<option value="23">cornet
+<option value="25">cymbal
+<option value="26">drums
+<option value="27">drum programming
+<option value="121">drums, steel
+<option value="30">digital transfer
+<option value="133">Electronics
+<option value="31">engineer
+<option value="32">english horn
+<option value="134">euphonium
+<option value="33">flute
+<option value="35">Fender Rhodes
+<option value="36">flugelhorn
+<option value="37">french horn
+<option value="38">guitar
+<option value="39">guitar, 8-string
+<option value="40">guitar, 12-string
+<option value="110">guitar, acoustic
+<option value="41">guitar, cello
+<option value="120">guitar, electric
+<option value="44">guitar, slide
+<option value="45">guitar, steel
+<option value="49">harmonica
+<option value="119">h'arpeggione
+<option value="50">harp
+<option value="52">keyboard
+<option value="137">kora
+<option value="131">koto
+<option value="135">live sampling
+<option value="130">lute
+<option value="123">lyricist
+<option value="53">mandolin
+<option value="57">melodica
+<option value="132">multi-instrumentalist
+<option value="60">organ, Hammond B3
+<option value="62">oboe
+<option value="128">oud
+<option value="64">piano
+<option value="65">piano, electric
+<option value="125">pandeiro
+<option value="67">percussion
+<option value="69">piccolo
+<option value="70">producer
+<option value="71">programming
+<option value="72">reeds
+<option value="73">saxophone
+<option value="74">sax, alto
+<option value="75">sax, baritone
+<option value="76">sax, soprano
+<option value="77">sax, sopranino
+<option value="78">sax, tenor
+<option value="79">samples/effects
+<option value="80">sequencing
+<option value="82">sitar
+<option value="139">sousaphone
+<option value="85">synthesizer
+<option value="86">trumpet
+<option value="87">trumpet, bass
+<option value="88">trumpet, piccolo
+<option value="89">tumpet, soprano
+<option value="90">tablas
+<option value="93">trombone
+<option value="95">tuba
+<option value="96">turntable
+<option value="129">ukulele
+<option value="99">vocalist
+<option value="101">various
+<option value="102">vibraphone
+<option value="103">viola
+<option value="104">violin
+</option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></option></select>
+</div>
+</div>
+<div class="form_item form_item_last">
+<div class="b-50 f-right">
+<input type="submit" value="Go!">
+</input></div>
+</div>
+</form>
+</div>
+<div>
+<form class="form_theme2014" method="get" name="jumpto">
+<div class="form_item">
+<div class="b-50 f-left">
+<label><strong>select a year</strong></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<select name="url" onchange="return jump(this);">
+<option value="/php/timeline.php">---</option>
+<option value="/php/article.php?id=1969">Roots of Jazz</option>
+<option value="/php/timeline_year.php?pg=1">1895</option>
+<option value="/php/timeline_year.php?pg=2">1896</option>
+<option value="/php/timeline_year.php?pg=3">1897</option>
+<option value="/php/timeline_year.php?pg=4">1898</option>
+<option value="/php/timeline_year.php?pg=5">1899</option>
+<option value="/php/timeline_year.php?pg=6">1900</option>
+<option value="/php/timeline_year.php?pg=7">1901</option>
+<option value="/php/timeline_year.php?pg=8">1902</option>
+<option value="/php/timeline_year.php?pg=9">1903</option>
+<option value="/php/timeline_year.php?pg=10">1904</option>
+<option value="/php/timeline_year.php?pg=11">1905</option>
+<option value="/php/timeline_year.php?pg=12">1906</option>
+<option value="/php/timeline_year.php?pg=13">1907</option>
+<option value="/php/timeline_year.php?pg=14">1908</option>
+<option value="/php/timeline_year.php?pg=15">1909</option>
+<option value="/php/timeline_year.php?pg=16">1910</option>
+<option value="/php/timeline_year.php?pg=17">1911</option>
+<option value="/php/timeline_year.php?pg=18">1912</option>
+<option value="/php/timeline_year.php?pg=19">1913</option>
+<option value="/php/timeline_year.php?pg=20">1914</option>
+<option value="/php/timeline_year.php?pg=21">1915</option>
+<option value="/php/timeline_year.php?pg=22">1916</option>
+<option value="/php/timeline_year.php?pg=23">1917</option>
+<option value="/php/timeline_year.php?pg=24">1918</option>
+<option value="/php/timeline_year.php?pg=25">1919</option>
+<option value="/php/timeline_year.php?pg=26">1920</option>
+<option value="/php/timeline_year.php?pg=27">1921</option>
+<option value="/php/timeline_year.php?pg=28">1922</option>
+<option value="/php/timeline_year.php?pg=29">1923</option>
+<option value="/php/timeline_year.php?pg=30">1924</option>
+<option value="/php/timeline_year.php?pg=31">1925</option>
+<option value="/php/timeline_year.php?pg=32">1926</option>
+<option value="/php/timeline_year.php?pg=33">1927</option>
+<option value="/php/timeline_year.php?pg=34">1928</option>
+<option value="/php/timeline_year.php?pg=35">1929</option>
+<option value="/php/timeline_year.php?pg=36">1930</option>
+<option value="/php/timeline_year.php?pg=37">1931</option>
+<option value="/php/timeline_year.php?pg=38">1932</option>
+<option value="/php/timeline_year.php?pg=39">1933</option>
+<option value="/php/timeline_year.php?pg=40">1934</option>
+<option value="/php/timeline_year.php?pg=41">1935</option>
+<option value="/php/timeline_year.php?pg=42">1936</option>
+<option value="/php/timeline_year.php?pg=43">1937</option>
+<option value="/php/timeline_year.php?pg=44">1938</option>
+<option value="/php/timeline_year.php?pg=45">1939</option>
+<option value="/php/timeline_year.php?pg=46">1940</option>
+<option value="/php/timeline_year.php?pg=47">1941</option>
+<option value="/php/timeline_year.php?pg=48">1942</option>
+<option value="/php/timeline_year.php?pg=49">1943</option>
+<option value="/php/timeline_year.php?pg=50">1944</option>
+<option value="/php/timeline_year.php?pg=51">1945</option>
+<option value="/php/timeline_year.php?pg=52">1946</option>
+<option value="/php/timeline_year.php?pg=53">1947</option>
+<option value="/php/timeline_year.php?pg=54">1948</option>
+<option value="/php/timeline_year.php?pg=55">1949</option>
+<option value="/php/timeline_year.php?pg=56">1950</option>
+<option value="/php/timeline_year.php?pg=57">1951</option>
+<option value="/php/timeline_year.php?pg=58">1952</option>
+<option value="/php/timeline_year.php?pg=59">1953</option>
+<option value="/php/timeline_year.php?pg=60">1954</option>
+<option value="/php/timeline_year.php?pg=61">1955</option>
+<option value="/php/timeline_year.php?pg=62">1956</option>
+<option value="/php/timeline_year.php?pg=63">1957</option>
+<option value="/php/timeline_year.php?pg=64">1958</option>
+<option value="/php/timeline_year.php?pg=65">1959</option>
+<option value="/php/timeline_year.php?pg=66">1960</option>
+<option value="/php/timeline_year.php?pg=67">1961</option>
+<option value="/php/timeline_year.php?pg=68">1962</option>
+<option value="/php/timeline_year.php?pg=69">1963</option>
+<option value="/php/timeline_year.php?pg=70">1964</option>
+<option value="/php/timeline_year.php?pg=71">1965</option>
+<option value="/php/timeline_year.php?pg=72">1966</option>
+<option value="/php/timeline_year.php?pg=73">1967</option>
+<option value="/php/timeline_year.php?pg=74">1968</option>
+<option value="/php/timeline_year.php?pg=75">1969</option>
+<option value="/php/timeline_year.php?pg=76">1970</option>
+<option value="/php/timeline_year.php?pg=77">1971</option>
+<option value="/php/timeline_year.php?pg=78">1972</option>
+<option value="/php/timeline_year.php?pg=79">1973</option>
+<option value="/php/timeline_year.php?pg=80">1974</option>
+<option value="/php/timeline_year.php?pg=81">1975</option>
+<option value="/php/timeline_year.php?pg=82">1976</option>
+<option value="/php/timeline_year.php?pg=83">1977</option>
+<option value="/php/timeline_year.php?pg=84">1978</option>
+<option value="/php/timeline_year.php?pg=85">1979</option>
+<option value="/php/timeline_year.php?pg=86">1980</option>
+<option value="/php/timeline_year.php?pg=87">1981</option>
+<option value="/php/timeline_year.php?pg=88">1982</option>
+<option value="/php/timeline_year.php?pg=89">1983</option>
+<option value="/php/timeline_year.php?pg=90">1984</option>
+<option value="/php/timeline_year.php?pg=91">1985</option>
+<option value="/php/timeline_year.php?pg=92">1986</option>
+<option value="/php/timeline_year.php?pg=93">1987</option>
+<option value="/php/timeline_year.php?pg=94">1988</option>
+<option value="/php/timeline_year.php?pg=95">1989</option>
+<option value="/php/timeline_year.php?pg=96">1990</option>
+</select>
+</div>
+</div>
+</form>
+<div class="divider"></div>
+<form action="http://www.allaboutjazz.com/php/timeline_search.php" class="form_theme2014" method="get">
+<div class="form_item">
+<div class="b-50 f-left">
+<label>or search by <strong>keyword</strong></label>
+</div>
+<div class="b-50 f-right input_wrap">
+<input name="keyword" size="30" type="text"/>
+</div>
+</div>
+<div class="form_item form_item_last">
+<div class="b-50 f-right">
+<input type="submit" value="Go!">
+</input></div>
+</div>
+</form>
+</div>
+</div>
+<br/>or search site <strong>with Google</strong>
+<gcse:searchbox-only newwindow="true" queryparametername="q" resultsurl="http://www.allaboutjazz.com/googlesearch.php"></gcse:searchbox-only>
+</div>
+</div>
+<!-- Quantcast Tag: Added by M. Ricci on March 16, 2013 -->
+
+<noscript>
+<div class="hidden">
+<img alt="Quantcast" height="1" src="//pixel.quantserve.com/pixel/p-91s5la8d2Pp-g.gif" width="1"/>
+</div>
+</noscript>
+<!-- End Quantcast tag --> <div id="recommended_article_block" style="display:none;">
+<a class="handle2" href="http://www.allaboutjazz.com/php/article.php?id=49043" id="aclick"></a>
+<div class="rec_article_wrap clearfix">
+<p><a href="http://www.allaboutjazz.com/php/article.php?id=49043"><img src="http://www.allaboutjazz.com/coverart/medium/luminosity-cover.jpg"/></a>
+<strong>Prevous Extended Analysis Article</strong></p>
+<h4><a href="http://www.allaboutjazz.com/php/article.php?id=49043">Graham Collier: Luminosity</a></h4>
+</div>
+</div>
+
+
+
+

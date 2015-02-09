@@ -1,0 +1,17 @@
+Title: Alice in Wonderland, Lincoln, New Orleans, Lunar New Year - ABC News
+Server: Apache-Coyote/1.1
+X-UA-Compatible: IE=edge,chrome=1
+Content-Type: text/html;charset=utf-8
+X-VG-WebCache: 163
+Cache-Control: max-age=60
+Content-Length: 71772
+Accept-Ranges: bytes
+Date: Mon, 09 Feb 2015 23:41:17 GMT
+X-Varnish: 2389021748
+Age: 0
+Via: 1.1 varnish
+Connection: close
+From: n7nwswc03.starwave.com
+X-Cache: MISS
+Vary: User-Agent
+

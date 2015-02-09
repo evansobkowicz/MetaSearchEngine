@@ -1,0 +1,13 @@
+Title: Jurassic Park (1993) - IMDb
+Date: Mon, 09 Feb 2015 23:42:37 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYmrY-U5NDebTtUvu1q_J-dZLkEi6PxkKsuaQwcAWuqJgTANZOPdlKfud1x61ARZhHfmNqY8owO%0D%0AmIiCgeiO_rUiGyKPSZICKAfJsiqv5trmfyhPTCxwcX_gw5PS8cYqGX0On6WGA2FiWVIgpcp0mCso%0D%0ADk2qAbelcfN2ge2V9ToNw-l9puen5I-S2loJyCDg8C0X0Uv_5InPRRtmjApKc7pTczvhC-rtHbWc%0D%0A8FcKmHURWGaal-FbbHgnRnlC4QOeJGrTDLYz-mEahcgFC7lH6SlzIQ%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:45 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:45 GMT; Path=/
+Set-Cookie: session-id-time=1581205357; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:45 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

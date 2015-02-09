@@ -1,0 +1,20 @@
+Title: Prince Michael Jackson I - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=23533238; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Thu, 05 Feb 2015 21:40:50 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 2719341213 2718769993, 2092020017 1695395888
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 23:45:33 GMT
+Age: 352725
+Connection: close
+X-Cache: cp1066 hit (6), cp1068 frontend hit (244)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

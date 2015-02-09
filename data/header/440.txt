@@ -1,0 +1,13 @@
+Title: Shrek 2 (2004) - Trivia - IMDb
+Date: Mon, 09 Feb 2015 23:42:21 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYlQUDv4aWVKhabaWX-TZnK71MvBaqeIdusujoMTolT5k98tbfKNlmRv2dUAkV5Bvtcpwox-ghO%0D%0AKIi4Oapc1d4CFJUwsmCP8zMHj0SPN2K7zlNmklTHwi02m5eEgh1CZNMS_IKlPk4tcz9VVaZcxXIx%0D%0AM3A7noIsqeTb9yw33MTcwO__LiV7bEh3fT2kujSutfjXBtYHJlAJWDFZkaC1KFHQPmFEGXTpT2ow%0D%0AbQT1rk62qwrRuc6uPtQJ3FXE6MZZhpCg5sPwn6j54aGntjw5E3J9gw%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:28 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:28 GMT; Path=/
+Set-Cookie: session-id-time=1581205341; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:56:28 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+

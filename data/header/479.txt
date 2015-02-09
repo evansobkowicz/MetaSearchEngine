@@ -1,0 +1,20 @@
+Title: The Amazing Spider man 3: Andrew Garfield is Back?! | moviepilot.com
+Server: nginx/1.4.1
+Content-Type: text/html; charset=utf-8
+Pragma: no-cache
+Cache-Control: no-cache
+X-Debug-Device: pc
+ETag: W/"yPwxIZjmgI0HaYDdVkTgxA=="
+X-Beresp-status: 200
+X-UA-Device: pc
+Content-Length: 188843
+Accept-Ranges: bytes
+Date: Mon, 09 Feb 2015 23:42:55 GMT
+Via: 1.1 varnish
+Age: 1516
+Connection: close
+X-Served-By: cache-jfk1023-JFK
+X-Cache: HIT
+X-Cache-Hits: 1
+Vary: Accept-Encoding, User-Agent
+

@@ -1,0 +1,14 @@
+Title: The Lion King (1994) - Plot Summary - IMDb
+Date: Mon, 09 Feb 2015 23:41:51 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYm2f7MV7C8sWNPklIu4sUpWv2bEhDLgNoco-UFhCDBrZajqYCCkhGPTeDzGh3rQnC92y7F3aZW%0D%0Av08aOxgl1B1Sy4_Li1izgNmYXQJJm-Fegj6P5NxgYFcY-eLIkB6eIfR2vMKSkgfUYKZVsbMWL1MJ%0D%0A42t1C5ahhnaVDOV662W9Xy-6_f0WkNuS1IFND8dThu6kJs2jAD91chOIlpL2zSPWzbxXblVokRMN%0D%0AfOnqBr-AUKcx6_JVvR28W-1KMhz_MXiKpz6umRCz1cJRPVm6Ul8Unw%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:58 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:58 GMT; Path=/
+Set-Cookie: session-id-time=1581205311; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 02:55:58 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Connection: close
+Transfer-Encoding: chunked
+

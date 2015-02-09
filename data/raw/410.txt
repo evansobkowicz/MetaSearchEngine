@@ -1,0 +1,950 @@
+<!DOCTYPE doctype html>
+
+<html class="" id="" itemscope="" lang="en" xmlns:hx="http://purl.org/NET/hinclude">
+<head>
+<title>Big Daddy and Hit Girl in The Dark Knight Rises - Battles - Comic Vine</title>
+<meta content="Bane has control of Gotham. Batman is in the Pit, the cops are imprisoned underground, and insane criminals control the law. Big Daddy and Hit Girl ge" name="description">
+<meta charset="utf-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="Comic Vine" name="application-name"/>
+<meta content="#26292B" name="msapplication-TileColor"/>
+<meta content="http://static.comicvine.com/bundles/comicvinesite/images//win8pin.png" name="msapplication-TileImage"/>
+<meta content="noUser" name="userAuthState"/>
+<meta content="http://static.comicvine.com/js/modals.json" name="modal-cdn-url">
+<meta content="no" name="js-sort-filter-text">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="http://static.comicvine.com" itemprop="cdnHost">
+<link href="http://static.comicvine.com/bundles/phoenixsite/images/core/loose/favicon-cv.ico" rel="shortcut icon"/>
+<link href="http://static.comicvine.com/bundles/phoenixsite/images/core/loose/apple-touch-icon-precomposed-cv.png" rel="apple-touch-icon icon-precomposed"/>
+<meta content="1019" id="site-id-meta" itemprop="site-id" name="site-id-meta">
+<meta content="b462d962-c26a-4839-802b-6dfe4b5e01fa" id="view-guid-meta" itemprop="view-guid" name="view-guid-meta">
+<meta class="js-post-render-tracking-consumer " content='{"service":"dart","client":"xfp","deferred":true,"load_in_head":"gpt","single_request":true,"disable_initial_load":true,"enable_callback":true,"enable_collapse_empty_divs":true,"enable_guilt":false,"enable_beanstock":false,"script":"\/\/www.googletagservices.com\/tag\/js\/gpt.js","unit_name":"\/8264\/aw-comicvine","target_params":{"firstpg":"0","env":"dev","session":"f","user":"anon"},"mapped_units":{"leader_top":{"size":[[970,66],[728,90]],"target":{"pos":"top"}},"mpu_top":{"size":[[300,250]],"target":{"pos":"top"}},"mpu_bottom":{"size":[[300,250]],"target":{"pos":"bottom"}},"leader_bottom":{"size":[[728,90],[970,66]],"target":{"pos":"bottom"}},"companion_ad":{"size":[[1,1]]}},"region":"us"}' id="ad-settings" itemprop="ad-settings"/>
+<meta content='{"id":"ZN_2blDunpjsAsUSyx","script":"\/\/zn_2bldunpjsasusyx-cbs.siteintercept.qualtrics.com\/WRSiteInterceptEngine\/"}' id="qualtrics-settings" itemprop="qualtrics-settings"/>
+<meta content="http://static.comicvine.com/bundles/comicvinesite/images//logo.png" property="og:image"/>
+<meta content="/bundles/phoenixsite/js/libs/zeroclipboard/ZeroClipboard.swf?076cc87a1db1e7b0f428f6246ac3b0d1" id="ZeroClipBoardSwf" itemprop="ZeroClipBoardSwf" name="ZeroClipBoardSwf">
+<meta content="http://static.comicvine.com/bundles/comicvinesite/css/wysiwyg_white-df765b9d1445a738ff87021779c46994.css" itemprop="richTextEditorCSS">
+<meta content="10.15.69.143" itemprop="notifications-host">
+
+
+
+
+<link href="http://static.comicvine.com/bundles/comicvinesite/css/comicvine_white-df765b9d1445a738ff87021779c46994.css" id="skin-color" rel="stylesheet">
+
+<style>
+/* Fix to display score selection on user reviews */
+.js-score-input.score.score-0 {
+display: inline-block !important;
+}
+
+.inboxNotification .header-avatar__image { width: 30px; }
+
+/* Christmas Eve patch! Promo selectors incorrect after latest updates, anchor styles breaking */
+
+.promo-strip a {
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+
+</style>
+</link></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
+<body class="default skin-no col-2-template-fluid " id="forums">
+<section class="message-success" id="message-block" style="display: none">
+</section>
+<div id="site-main">
+<div id="masthead"><div id="nav-info"><div class="container"><div class="header"><a class="header-logo header-section" href="/">ComicVine.com</a><div class="header-promotion header-section header-section--border"><div class="header-promotion__wrapper"><span class="header-promo"><a class="header-promo__item andre" href="/upgrade/">Become a member</a></span></div></div><form action="/search/" class="search header-search header-section header-section--border" id="siteSearch" method="get"><fieldset class="icon icon-search"><input autocomplete="off" class="ready header-search__input" id="search-main" name="q" placeholder="Search, click 'options' for advanced features" type="text" value=""/><div class="header-search__toggle dropnav" id="search-toggle"><a href="#" rel="nofollow">Options <i class="icon icon-cog"></i></a><div class="header-search__filters search-filters default double dropnav-menu bordered" id="search-filters"><strong><i class="icon icon-exclamation-sign"></i> New feature</strong><p>You can now filter search results with text. Example: <strong>"person: john"</strong> will search only person pages for "john".</p><dl class="filters"><dt class="search-group-wiki">Wiki</dt><dd class="search-group-wiki"><ul><li><label><input checked="" name="indices[]" type="checkbox" value="arc">
+                    Arcs
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="character">
+                    Characters
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="company">
+                    Companies
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="concept">
+                    Concepts
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="episode">
+                    Episodes
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="issue">
+                    Issues
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="location">
+                    Locations
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="movie">
+                    Movies
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="person">
+                    People
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="series">
+                    Series
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="team">
+                    Teams
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="theme">
+                    Themes
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="thing">
+                    Things
+                  </input></label></li><li><label><input checked="" name="indices[]" type="checkbox" value="volume">
+                    Volumes
+                  </input></label></li></ul></dd><dt class="search-group-editorial">Editorial</dt><dd class="search-group-editorial"><ul><li><label><input name="indices[]" type="checkbox" value="article">
+                        Articles
+                      </input></label></li><li><label><input name="indices[]" type="checkbox" value="podcast">
+                        Podcasts
+                      </input></label></li><li><label><input name="indices[]" type="checkbox" value="review">
+                        Reviews
+                      </input></label></li><li><label><input name="indices[]" type="checkbox" value="video">
+                        Videos
+                      </input></label></li></ul></dd><dt class="search-group-editorial">Community</dt><dd class="search-group-editorial"><ul><li><label><input name="indices[]" type="checkbox" value="user">
+                      Users
+                    </input></label></li></ul></dd></dl><div class="search-group-toggle"><a class="checkall" rel="nofollow">Check All</a><a class="uncheck" rel="nofollow">Uncheck All</a><a class="wikionly" rel="nofollow">Wiki Only</a></div></div></div></fieldset></form><div class="header-auth header-section header-section--border"><a class="header-auth__login" href="https://auth.comicvine.com/login/">Login</a><a class="header-auth__join" href="https://auth.comicvine.com/signup/">Join</a></div><div class="header-themes header-section"><div class="header-skinSwitch" id="skin-switch"><a class="skin-switch-btn white tipsy " data-rel-url="http://static.comicvine.com/bundles/comicvinesite/css/comicvine_white-df765b9d1445a738ff87021779c46994.css" data-richtexteditortheme="wysiwyg_white" data-richtexteditortheme-url="http://static.comicvine.com/bundles/comicvinesite/css/wysiwyg_white-df765b9d1445a738ff87021779c46994.css" href="#" rel="nofollow" title="Light Theme">A</a><a class="skin-switch-btn black tipsy " data-rel-url="http://static.comicvine.com/bundles/comicvinesite/css/comicvine_black-df765b9d1445a738ff87021779c46994.css" data-richtexteditortheme="wysiwyg_black" data-richtexteditortheme-url="http://static.comicvine.com/bundles/comicvinesite/css/wysiwyg_black-df765b9d1445a738ff87021779c46994.css" href="#" rel="nofollow" title="Dark Theme">A</a></div></div></div></div></div><section id="nav-main-hold"><nav class="container" id="nav-main"><ul><li><a href="/news/">News</a></li><li><a href="/previews/">Previews</a></li><li class="dropnav"><a href="/issues/">Wiki</a><dl class="dropnav-menu double col2 left"><dd><a href="/characters/">Characters</a></dd><dd><a href="/story-arcs/">Story Arcs</a></dd><dd><a href="/teams/">Teams</a></dd><dd><a href="/creators/">Creators</a></dd><dd><a href="/publishers/">Publishers</a></dd><dd><a href="/things/">Things</a></dd><dd><a href="/concepts/">Concepts</a></dd><dd><a href="/locations/">Locations</a></dd><dd><a href="/issues/">Issues</a></dd><dd><a href="/volumes/">Volumes</a></dd><dd><a href="/movies/">Movies</a></dd><dd><a href="/series/">Series</a></dd><dd><a href="/episodes/">Episodes</a></dd></dl></li><li><a href="/new-comics/">New Comics</a></li><li class="dropnav"><a href="/reviews/">Reviews</a><dl class="dropnav-menu triple left reviews"><dt><a href="/reviews/">Latest Reviews</a></dt><dd><a href="/reviews/the-walking-dead-episode-509-what-happened-and-wha/1900-3871/"><div class="imgboxart"><img alt="The Walking Dead Episode #509 - &quot;What Happened and What's Going On&quot;" src="http://static.comicvine.com/uploads/square_tiny/3/39001/4381458-twcover.jpg"/></div><h4>The Walking Dead Episode #509 - "What Happened and What's Going On"</h4><span class="score score-5"></span><p>The group has suffered a major loss, but a new location may offer them some hope.</p></a></dd><dd><a href="/reviews/constantine-episode-112-angels-and-ministers-of-gr/1900-3870/"><div class="imgboxart"><img alt='Constantine Episode #112 "Angels and Ministers of Grace"' src="http://static.comicvine.com/uploads/square_tiny/6/67663/4369976-1583664310-const.jpg"/></div><h4>Constantine Episode #112 "Angels and Ministers of Grace"</h4><span class="score score-4"></span><p>When John heads to a local hospital to investigate a mysterious attack, he enlists an unwitting Manny  to help him. Meanwhile, a health scare causes Zed to question the source of her visions.</p></a></dd><dd><a href="/reviews/kingsman-the-secret-service/1900-3865/"><div class="imgboxart"><img alt="Kingsman: The Secret Service" src="http://static.comicvine.com/uploads/square_tiny/3/39001/4373284-kingsman.jpg"/></div><h4>Kingsman: The Secret Service</h4><span class="score score-4"></span><p>The director of 'X-Men: First Class' and 'Kick-Ass' takes on the spy genre!</p></a></dd></dl></li><li><a href="/videos/">Videos</a></li><li class="dropnav dropdown"><a class="dropdown-toggle icon icon-caret-down" data-toggle="dropdown" href="#" rel="nofollow"></a><a href="/podcasts/">
+            Podcasts </a><dl class="dropnav-menu double left"><dd><a href="/podcasts/comic-vine-podcast/">
+            Comic Vine Podcast
+                      </a></dd><dd><a href="/podcasts/supermassive/">
+            The Invincibly Super Massive Comic Book Podcast of Stuff
+                      </a></dd><dd><a href="/podcasts/the-endless-promo/">
+            The Endless Promo
+                      </a></dd></dl></li><li class="dropnav"><a href="/users">Users</a><dl class="dropnav-menu double col2 left"><dd><a href="/users">Top Users</a></dd><dd><a href="/users/activity">Activity Feed</a></dd><dd><a href="/lists/">User Lists</a></dd><dd><a href="/users?filter=mods">Moderators</a></dd><dd><a href="/community/">Community Promos</a></dd></dl></li><li><a href="/help/">Help</a></li><li class="dropnav dropdown"><a class="dropdown-toggle icon icon-caret-down" data-toggle="dropdown" href="#"></a><a href="/forums/">Forums</a><dl class="dropnav-menu triple col2 right"><!-- PhoenixSiteBundle:Core:headerGeneralBoards_anon|N|15:45:01 --><dd><a href="/forums/gen-discussion-1/">
+      Gen. Discussion
+    </a></dd><dd><a href="/forums/bug-reporting-2/">
+      Bug Reporting
+    </a></dd><dd><a href="/forums/deletecombine-pages-3/">
+      Delete/Combine Pages
+    </a></dd><dd><a href="/forums/artist-show-off-4/">
+      Artist Show-Off
+    </a></dd><dd><a href="/forums/off-topic-5/">
+      Off-Topic
+    </a></dd><dd><a href="/forums/contests-6/">
+      Contests
+    </a></dd><dd><a href="/forums/battles-7/">
+      Battles
+    </a></dd><dd><a href="/forums/fan-fic-8/">
+      Fan-Fic
+    </a></dd><dd><a href="/forums/rpg-9/">
+      RPG
+    </a></dd><dd><a href="/forums/comic-book-preview-1988/">
+      Comic Book Preview
+    </a></dd><dd><a href="/forums/api-developers-2334/">
+      API Developers
+    </a></dd><dd><a href="/forums/editing-tools-2761/">
+      Editing &amp; Tools
+    </a></dd><dd><a href="/forums/podcast-3091/">
+      Podcast
+    </a></dd><dd><a href="/forums/quests-3626/">
+      Quests
+    </a></dd><!-- /PhoenixSiteBundle:Core:headerGeneralBoards_anon --><!-- PhoenixSiteBundle:Core:headerWikiBoards|N|15:45:01 --><dt>Popular wiki forums</dt><dd><a href="/superman/4005-1807/forums/">
+      Superman
+    </a></dd><dd><a href="/x-men/4060-3173/forums/">
+      X-Men
+    </a></dd><dd><a href="/batman/4005-1699/forums/">
+      Batman
+    </a></dd><dd><a href="/wonder-woman/4005-2048/forums/">
+      Wonder Woman
+    </a></dd><dd><a href="/thor/4005-2268/forums/">
+      Thor
+    </a></dd><dd><a href="/daredevil/4005-24694/forums/">
+      Daredevil
+    </a></dd><dd><a href="/spider-man/4005-1443/forums/">
+      Spider-Man
+    </a></dd><dd><a href="/marvel/4010-31/forums/">
+      Marvel
+    </a></dd><dd><a href="/fantastic-four/4060-3804/forums/">
+      Fantastic Four
+    </a></dd><dd><a href="/john-stewart/4005-10451/forums/">
+      John Stewart
+    </a></dd><!-- /PhoenixSiteBundle:Core:headerWikiBoards --></dl></li></ul></nav></section></div>
+<div id="mantle_skin">
+<div id="wrapper">
+<div class="nav-mobile">
+<a class="btn-mobile btn-mobile-nav" id="js-btn-mobile-nav"><i class="icon icon-reorder"></i></a>
+<a class="btn-mobile btn-mobile-search" id="js-btn-mobile-search"><i class="icon icon-search"></i></a>
+<a class="logo-site" href="/"></a>
+</div>
+<div class="mapped-ad mapped-leader_top mapped-leader_top-dart" id="leader_top-wrap"><div class="ad-wrap ad-wrap-leader_top" id="leader_top"></div></div>
+<section class="container-fluid forum-above-grid">
+<ul class="breadcrumbs breadcrumbs--forum">
+<li><a href="/">Comic Vine</a></li>
+<li><a href="/forums/">Forums</a></li>
+<li><a href="/forums/battles-7/">Battles</a></li>
+</ul>
+<h1 class="header-border">
+        Big Daddy and Hit Girl in The Dark Knight Rises
+    </h1>
+</section>
+<div id="site" role="main">
+<div class="container-fluid " id="forum-content">
+<div class="primary-content span8">
+<div class="forum-bar">
+</div><section class="js-forum-messages forum-messages ">
+<div class="message neutral js-message" id="js-message-1">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/black_of_shadow/" data-user-slug="black_of_shadow">
+<a class="avatar " href="/profile/black_of_shadow/">
+<img src="http://static.comicvine.com/uploads/square_avatar/11119/111194436/4163439-photo.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/black_of_shadow/">Black_Of_Shadow</a></dt>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/black_of_shadow/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 311</li>
+<li><span>Wiki Points:</span> 0</li>
+<li><span>Followed by:</span> 1</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13282150" name="js-message-13282150">#1</a> 
+      Edited by <a class="message-user" data-user-profile="/profile/black_of_shadow/" data-user-slug="black_of_shadow" href="/profile/black_of_shadow/">Black_Of_Shadow</a>
+      (311 posts)
+    - <time>2 months, 27 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/black_of_shadow/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style="">Bane has control of Gotham. Batman is in the Pit, the cops are imprisoned underground, and insane criminals control the law. Big Daddy and Hit Girl get 24 hours prep, and then they infiltrate with as much gear and equipment as they can carry. They know they have to find the nuke and that Lucius can disarm it, and the police are trapped underground. Can they save the day and take down Bane and the League of Shadows?</p><figure data-align="left" data-embed-type="image" data-img-src="http://static.comicvine.com/uploads/original/11119/111194436/4216957-4189635-1.jpg" data-ratio="1.483771251932" data-ref-id="1300-4216957" data-resize-url="" data-resized="" data-size="medium" data-width="647" style="width: 647px"><a class="fluid-height" data-ref-id="1300-4216957" href="http://static.comicvine.com/uploads/original/11119/111194436/4216957-4189635-1.jpg" style="padding-bottom:148.4%"><img src="http://static.comicvine.com/uploads/ignore_jpg_scale_medium/11119/111194436/4216957-4189635-1.jpg"/></a></figure><figure data-align="right" data-embed-type="image" data-img-src="http://static.comicvine.com/uploads/original/11119/111194436/4216962-thedarkknightrises_poster.jpg" data-ratio="1.4797687861272" data-ref-id="1300-4216962" data-resize-url="" data-resized="" data-size="medium" data-width="1384" style="width: 1384px"><a class="fluid-height" data-ref-id="1300-4216962" href="http://static.comicvine.com/uploads/original/11119/111194436/4216962-thedarkknightrises_poster.jpg" style="padding-bottom:148.0%"><img src="http://static.comicvine.com/uploads/ignore_jpg_scale_medium/11119/111194436/4216962-thedarkknightrises_poster.jpg"/></a></figure><p style=""> </p><p style=""> </p><p style=""> </p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-3">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/leo-343/" data-user-slug="leo-343">
+<a class="avatar " href="/profile/leo-343/">
+<img src="http://static.comicvine.com/uploads/square_avatar/11117/111171443/4329305-jolly+roger.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/leo-343/">Leo-343</a></dt>
+<dd class="icon icon-cloud online">Online</dd>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/leo-343/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 8302</li>
+<li><span>Wiki Points:</span> 0</li>
+<li><span>Followed by:</span> 35</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13282394" name="js-message-13282394">#3</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/leo-343/" data-user-slug="leo-343" href="/profile/leo-343/">Leo-343</a>
+      (8302 posts)
+    - <time>2 months, 27 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/leo-343/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style=""> Ehh... It's possible. They both lose if they confront Bane purely h2h which I doubt they'll do, they'll probably just shoot him. </p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+<span class="bug online"><i class="icon icon-cloud"></i> Online</span>
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-4">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/hatemalingsia/" data-user-slug="hatemalingsia">
+<a class="avatar " href="/profile/hatemalingsia/">
+<img src="http://static.comicvine.com/uploads/square_avatar/0/1/1-male-good-large.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/hatemalingsia/">hatemalingsia</a></dt>
+<dd class="icon icon-cloud online">Online</dd>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/hatemalingsia/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 6529</li>
+<li><span>Wiki Points:</span> 0</li>
+<li><span>Followed by:</span> 19</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13282433" name="js-message-13282433">#4</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/hatemalingsia/" data-user-slug="hatemalingsia" href="/profile/hatemalingsia/">hatemalingsia</a>
+      (6529 posts)
+    - <time>2 months, 27 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/hatemalingsia/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style="">Yes. Although I don't know if they can save the city or not since they don't have that batcopter or whatever it's called.</p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+<span class="bug online"><i class="icon icon-cloud"></i> Online</span>
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-6">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/black_of_shadow/" data-user-slug="black_of_shadow">
+<a class="avatar " href="/profile/black_of_shadow/">
+<img src="http://static.comicvine.com/uploads/square_avatar/11119/111194436/4163439-photo.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/black_of_shadow/">Black_Of_Shadow</a></dt>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/black_of_shadow/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 311</li>
+<li><span>Wiki Points:</span> 0</li>
+<li><span>Followed by:</span> 1</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13283418" name="js-message-13283418">#6</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/black_of_shadow/" data-user-slug="black_of_shadow" href="/profile/black_of_shadow/">Black_Of_Shadow</a>
+      (311 posts)
+    - <time>2 months, 26 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/black_of_shadow/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style=""><span data-message-user="reply"><a data-embed-type="mention" data-user-slug="hatemalingsia" href="/profile/hatemalingsia/">@hatemalingsia</a>: </span> They do have a jetpack.</p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-7">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/zaied/" data-user-slug="zaied">
+<a class="avatar " href="/profile/zaied/">
+<img src="http://static.comicvine.com/uploads/square_avatar/11115/111158489/4339801-6689922168-photo.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/zaied/">zaied</a></dt>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/zaied/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 2029</li>
+<li><span>Wiki Points:</span> 0</li>
+<li><span>Followed by:</span> 9</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13283424" name="js-message-13283424">#7</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/zaied/" data-user-slug="zaied" href="/profile/zaied/">zaied</a>
+      (2029 posts)
+    - <time>2 months, 26 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/zaied/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style="">There will be a lot more casualties since I don't think they'd be able to devise a good enough plan to save the cops, disarm the bomb, beat Bane, etc.</p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-8">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/reaverlation/" data-user-slug="reaverlation">
+<a class="avatar " href="/profile/reaverlation/">
+<img src="http://static.comicvine.com/uploads/square_avatar/11111/111113402/4200922-879674-primevsion13-2.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/reaverlation/">reaverlation</a></dt>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/reaverlation/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 17502</li>
+<li><span>Wiki Points:</span> 0</li>
+<li><span>Followed by:</span> 74</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13283469" name="js-message-13283469">#8</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/reaverlation/" data-user-slug="reaverlation" href="/profile/reaverlation/">reaverlation</a>
+      (17502 posts)
+    - <time>2 months, 26 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/reaverlation/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style="">Lol no</p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-9">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/adaptablekiller777/" data-user-slug="adaptablekiller777">
+<a class="avatar " href="/profile/adaptablekiller777/">
+<img src="http://static.comicvine.com/uploads/square_avatar/11120/111201843/4265930-befunky_4216542-0%2Buncx2013028_dc11-0.jpg.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/adaptablekiller777/">adaptablekiller777</a></dt>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/adaptablekiller777/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 67</li>
+<li><span>Wiki Points:</span> 0</li>
+<li><span>Followed by:</span> 1</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13283519" name="js-message-13283519">#9</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/adaptablekiller777/" data-user-slug="adaptablekiller777" href="/profile/adaptablekiller777/">adaptablekiller777</a>
+      (67 posts)
+    - <time>2 months, 26 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/adaptablekiller777/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style="">No.</p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-10">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/darth-revan/" data-user-slug="darth-revan">
+<a class="avatar " href="/profile/darth-revan/">
+<img src="http://static.comicvine.com/uploads/square_avatar/11118/111184265/4235442-2389904-master_chief_in_halo_4_wide.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/darth-revan/">Darth-Revan</a></dt>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/darth-revan/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 670</li>
+<li><span>Wiki Points:</span> 0</li>
+<li><span>Followed by:</span> 4</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13283892" name="js-message-13283892">#10</a> 
+      Edited by <a class="message-user" data-user-profile="/profile/darth-revan/" data-user-slug="darth-revan" href="/profile/darth-revan/">Darth-Revan</a>
+      (670 posts)
+    - <time>2 months, 26 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/darth-revan/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <div data-embed-type="message-quote"> </div><div data-embed-type="message-quote"><a data-embed-type="mention" data-user-slug="reaverlation" href="/profile/reaverlation/">@reaverlation</a> said: <div data-embed-type="message-quote-content"><p style="">Lol no</p></div></div><div data-embed-type="message-quote"><a data-embed-type="mention" data-user-slug="adaptablekiller777" href="/profile/adaptablekiller777/">@adaptablekiller777</a> said: <div data-embed-type="message-quote-content"><p style="">No.</p></div></div><div data-embed-type="message-quote"><a data-embed-type="mention" data-user-slug="zaied" href="/profile/zaied/">@zaied</a> said: <div data-embed-type="message-quote-content"><p style="">There will be a lot more casualties since I don't think they'd be able to devise a good enough plan to save the cops, disarm the bomb, beat Bane, etc.</p></div></div><p style="">What was "the great plan" of Batman?, Freeing the cops with his Batcopter?, Big Daddy and Hit Girl can do the same with their explosives.</p><p style="">What was the other "big plan"?, What the cops run in a straight line like idiots against the guys armed with guns? praying that the mercenaries of Bane had very poor marksmanship?</p><div data-embed-type="video" data-height="100%" data-src="http://www.youtube.com/watch?v=gCEo7SCvYH4" data-width="100%"><iframe allowfullscreen="" frameborder="0" height="100%" mozallowfullscreen="" scrolling="no" src="//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FgCEo7SCvYH4%3Fwmode%3Dopaque%26feature%3Doembed&amp;wmode=opaque&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgCEo7SCvYH4&amp;image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FgCEo7SCvYH4%2Fhqdefault.jpg&amp;key=6efca6e5ad9640f180f14146a0bc1392&amp;type=text%2Fhtml&amp;schema=youtube" webkitallowfullscreen="" width="100%"></iframe></div><p style="">I'm sure than Big Daddy and Hit Girl would make a much better plan.</p><p style="">They sure would defeat the army of Bane. I'm not sure if they would stop the pump though.</p><p style=""> </p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-12">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/monsterstomp/" data-user-slug="monsterstomp">
+<a class="avatar " href="/profile/monsterstomp/">
+<img src="http://static.comicvine.com/uploads/square_avatar/13/132956/4352720-3658625-john%2Bconstantine%2Bby%2Btim%2Bbradstreet.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/monsterstomp/">MonsterStomp</a></dt>
+<dd class="icon icon-cloud online">Online</dd>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/monsterstomp/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 21612</li>
+<li><span>Wiki Points:</span> 361</li>
+<li><span>Followed by:</span> 164</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13284011" name="js-message-13284011">#12</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/monsterstomp/" data-user-slug="monsterstomp" href="/profile/monsterstomp/">MonsterStomp</a>
+      (21612 posts)
+    - <time>2 months, 26 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/monsterstomp/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style="">They'll need to track and disarm or somehow get rid of the bomb. So, no. The city is doomed.</p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+<span class="bug online"><i class="icon icon-cloud"></i> Online</span>
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-13">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/darth-revan/" data-user-slug="darth-revan">
+<a class="avatar " href="/profile/darth-revan/">
+<img src="http://static.comicvine.com/uploads/square_avatar/11118/111184265/4235442-2389904-master_chief_in_halo_4_wide.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/darth-revan/">Darth-Revan</a></dt>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/darth-revan/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 670</li>
+<li><span>Wiki Points:</span> 0</li>
+<li><span>Followed by:</span> 4</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13284059" name="js-message-13284059">#13</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/darth-revan/" data-user-slug="darth-revan" href="/profile/darth-revan/">Darth-Revan</a>
+      (670 posts)
+    - <time>2 months, 26 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/darth-revan/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <div data-embed-type="message-quote"><div><a data-embed-type="mention" data-user-slug="monsterstomp" href="/profile/monsterstomp/">@monsterstomp</a> said:</div><div data-embed-type="message-quote-content"><p style=""><strong>They'll need to track</strong> and disarm or somehow get rid of the bomb. So, no. The city is doomed.</p></div></div><p style="">Actually Gordon did already even that before Batman returned.</p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-14">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/monsterstomp/" data-user-slug="monsterstomp">
+<a class="avatar " href="/profile/monsterstomp/">
+<img src="http://static.comicvine.com/uploads/square_avatar/13/132956/4352720-3658625-john%2Bconstantine%2Bby%2Btim%2Bbradstreet.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/monsterstomp/">MonsterStomp</a></dt>
+<dd class="icon icon-cloud online">Online</dd>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/monsterstomp/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 21612</li>
+<li><span>Wiki Points:</span> 361</li>
+<li><span>Followed by:</span> 164</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13284064" name="js-message-13284064">#14</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/monsterstomp/" data-user-slug="monsterstomp" href="/profile/monsterstomp/">MonsterStomp</a>
+      (21612 posts)
+    - <time>2 months, 26 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/monsterstomp/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style=""><span data-message-user="reply"><a data-embed-type="mention" data-user-slug="darth-revan" href="/profile/darth-revan/">@darth-revan</a>: </span>Oh. </p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+<span class="bug online"><i class="icon icon-cloud"></i> Online</span>
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-17">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/dark-nihilus/" data-user-slug="dark-nihilus">
+<a class="avatar " href="/profile/dark-nihilus/">
+<img src="http://static.comicvine.com/uploads/square_avatar/11118/111184640/4025124-images.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/dark-nihilus/">Dark-Nihilus</a></dt>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/dark-nihilus/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 490</li>
+<li><span>Wiki Points:</span> 0</li>
+<li><span>Followed by:</span> 4</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13290058" name="js-message-13290058">#17</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/dark-nihilus/" data-user-slug="dark-nihilus" href="/profile/dark-nihilus/">Dark-Nihilus</a>
+      (490 posts)
+    - <time>2 months, 25 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/dark-nihilus/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style="">They kill Bane easily enough but i think Talia would blow the bomb before they got to it.</p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-18">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/ultrastarkiller/" data-user-slug="ultrastarkiller">
+<a class="avatar " href="/profile/ultrastarkiller/">
+<img src="http://static.comicvine.com/uploads/square_avatar/12/123390/4365311-1+aaa.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/ultrastarkiller/">ULTRAstarkiller</a></dt>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/ultrastarkiller/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 6810</li>
+<li><span>Wiki Points:</span> 234</li>
+<li><span>Followed by:</span> 73</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 18</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13290143" name="js-message-13290143">#18</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/ultrastarkiller/" data-user-slug="ultrastarkiller" href="/profile/ultrastarkiller/">ULTRAstarkiller</a>
+      (6810 posts)
+    - <time>2 months, 25 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/ultrastarkiller/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style="">They die with the city.</p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+</div>
+</div>
+</div>
+</div>
+<div class="message neutral js-message" id="js-message-19">
+<div class="avatar-user js-avatar-user" data-user-profile="/profile/black_of_shadow/" data-user-slug="black_of_shadow">
+<a class="avatar " href="/profile/black_of_shadow/">
+<img src="http://static.comicvine.com/uploads/square_avatar/11119/111194436/4163439-photo.jpg"/>
+</a>
+<div class="avatar-user-actions">
+<dl class="avatar-user-info">
+<dt><a href="/profile/black_of_shadow/">Black_Of_Shadow</a></dt>
+<dd><a class="follow btn-toggle btn btn-mini btn-inverse" data-toggle-value="Unfollow" href="/profile/black_of_shadow/toggle-follow/" rel="nofollow">Follow</a></dd>
+</dl>
+<ul class="avatar-user-level">
+<li><span>Forum Posts:</span> 311</li>
+<li><span>Wiki Points:</span> 0</li>
+<li><span>Followed by:</span> 1</li>
+<li><span>Reviews:</span> 0 <span>Lists:</span> 0</li>
+</ul>
+</div>
+</div>
+<div class="message-wrap">
+<div class="message-inner">
+<div class="message-title">
+<a href="/forums/battles-7/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191/?page=1#js-message-13326136" name="js-message-13326136">#19</a> 
+      Posted by <a class="message-user" data-user-profile="/profile/black_of_shadow/" data-user-slug="black_of_shadow" href="/profile/black_of_shadow/">Black_Of_Shadow</a>
+      (311 posts)
+    - <time>2 months, 20 days ago</time>
+ - <a class="js-ajax-button-loader" data-ajax-href="/api/user/black_of_shadow/bio/" data-show-hide-button="yes" data-show-hide-container-class="bio">Show Bio</a>
+</div>
+<div class="message-breadcrumb">
+</div>
+<div class="message-content">
+<article class="content-body message-body js-message-body typography-format"> <p style="">Bump</p>
+</article>
+</div>
+<div class="message-options">
+</div>
+<div class="message-notification-line">
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="forum-bar">
+<ul class="breadcrumbs breadcrumbs--forum breadcrumbs--bottom">
+<li><a href="/">Comic Vine</a></li>
+<li><a href="/forums/">Forums</a></li>
+<li><a href="/forums/battles-7/">Battles</a></li>
+</ul>
+<div class="dropdown pull-left">
+<span class="btn btn-mini" data-toggle="dropdown">
+          Quick Navigation <i class="icon icon-caret-down"></i>
+</span>
+<ul class="dropdown-menu dropnav-menu pull-bottom pull-left arrow--bottom">
+<li class="dropnav-list__item "><a href="/forums/gen-discussion-1/">Gen. Discussion</a></li>
+<li class="dropnav-list__item "><a href="/forums/bug-reporting-2/">Bug Reporting</a></li>
+<li class="dropnav-list__item "><a href="/forums/deletecombine-pages-3/">Delete/Combine Pages</a></li>
+<li class="dropnav-list__item "><a href="/forums/artist-show-off-4/">Artist Show-Off</a></li>
+<li class="dropnav-list__item "><a href="/forums/off-topic-5/">Off-Topic</a></li>
+<li class="dropnav-list__item "><a href="/forums/contests-6/">Contests</a></li>
+<li class="dropnav-list__item on"><a href="/forums/battles-7/">Battles</a></li>
+<li class="dropnav-list__item "><a href="/forums/fan-fic-8/">Fan-Fic</a></li>
+<li class="dropnav-list__item "><a href="/forums/rpg-9/">RPG</a></li>
+<li class="dropnav-list__item "><a href="/forums/comic-book-preview-1988/">Comic Book Preview</a></li>
+<li class="dropnav-list__item "><a href="/forums/api-developers-2334/">API Developers</a></li>
+<li class="dropnav-list__item "><a href="/forums/editing-tools-2761/">Editing &amp; Tools</a></li>
+<li class="dropnav-list__item "><a href="/forums/podcast-3091/">Podcast</a></li>
+<li class="dropnav-list__item "><a href="/forums/quests-3626/">Quests</a></li>
+</ul>
+</div>
+<a class="is-jump-link" href="#forums" rel="nofollow">Jump to Top <i class="icon icon-double-angle-up"></i></a>
+</div> <div class="forum-bar">
+<span class="message-login"><i class="icon icon-exclamation-sign"></i> Please <a href="https://auth.comicvine.com/login/">Log In</a> to post.</span>
+</div>
+<div class="container--locked">
+<div class="YAD-ccc268d6-28cb-3b2f-be7f-e274d2ea96e0 YAD--module"></div>
+
+<div class="YAD-54f92de9-0a09-3f34-b2c9-b77c2e91ff59 YAD--beacon"></div>
+
+</div>
+</div>
+<aside class="secondary-content hide-mobile span4">
+<div class="mapped-ad mapped-mpu_top mapped-mpu_top-dart" id="mpu_top-wrap"><div class="ad-wrap ad-wrap-mpu_top" id="mpu_top"></div></div> <div class="forum-aside board-list hide-mobile">
+<h3 class="header-border">Forums</h3>
+<form action="/forums/search/" class="forum-aside-search" method="get">
+<input class="fluid-width" name="forum_search[q]" placeholder="Search the forums" type="text">
+<input class="btn btn-mini btn-primary" type="submit" value="Search"/>
+</input></form>
+<h4 class="header-border">Main boards</h4>
+<ul>
+<li class=""><a href="/forums/gen-discussion-1/">Gen. Discussion</a></li>
+<li class=""><a href="/forums/bug-reporting-2/">Bug Reporting</a></li>
+<li class=""><a href="/forums/deletecombine-pages-3/">Delete/Combine Pages</a></li>
+<li class=""><a href="/forums/artist-show-off-4/">Artist Show-Off</a></li>
+<li class=""><a href="/forums/off-topic-5/">Off-Topic</a></li>
+<li class=""><a href="/forums/contests-6/">Contests</a></li>
+<li class="on"><a href="/forums/battles-7/">Battles</a></li>
+<li class=""><a href="/forums/fan-fic-8/">Fan-Fic</a></li>
+<li class=""><a href="/forums/rpg-9/">RPG</a></li>
+<li class=""><a href="/forums/comic-book-preview-1988/">Comic Book Preview</a></li>
+<li class=""><a href="/forums/api-developers-2334/">API Developers</a></li>
+<li class=""><a href="/forums/editing-tools-2761/">Editing &amp; Tools</a></li>
+<li class=""><a href="/forums/podcast-3091/">Podcast</a></li>
+<li class=""><a href="/forums/quests-3626/">Quests</a></li>
+</ul>
+<h4 class="header-border">Popular wiki boards</h4>
+<ul>
+<li class=""><a href="/superman/4005-1807/forums/">Superman</a></li>
+<li class=""><a href="/x-men/4060-3173/forums/">X-Men</a></li>
+<li class=""><a href="/batman/4005-1699/forums/">Batman</a></li>
+<li class=""><a href="/wonder-woman/4005-2048/forums/">Wonder Woman</a></li>
+<li class=""><a href="/thor/4005-2268/forums/">Thor</a></li>
+<li class=""><a href="/daredevil/4005-24694/forums/">Daredevil</a></li>
+<li class=""><a href="/spider-man/4005-1443/forums/">Spider-Man</a></li>
+<li class=""><a href="/marvel/4010-31/forums/">Marvel</a></li>
+<li class=""><a href="/fantastic-four/4060-3804/forums/">Fantastic Four</a></li>
+<li class=""><a href="/john-stewart/4005-10451/forums/">John Stewart</a></li>
+</ul>
+</div>
+<div class="forum-aside top-posters">
+<h3 class="header-border">Top posters</h3>
+<ul class="top-users">
+<li>
+<a href="/profile/dondave/">
+<div class="avatar"><img src="http://static.comicvine.com/uploads/square_mini/13/132594/4201068-1122442164-42010.jpg"/></div>
+        dondave
+        <span>30490 posts</span>
+</a>
+</li>
+<li>
+<a href="/profile/wolverine08/">
+<div class="avatar"><img src="http://static.comicvine.com/uploads/square_mini/11111/111119363/4375459-tam+2.jpg"/></div>
+        Wolverine08
+        <span>21211 posts</span>
+</a>
+</li>
+<li>
+<a href="/profile/jashro44/">
+<div class="avatar"><img src="http://static.comicvine.com/uploads/square_mini/8/80103/2945884-mannonametpb_02.jpg"/></div>
+        jashro44
+        <span>17739 posts</span>
+</a>
+</li>
+<li>
+<a href="/profile/reaverlation/">
+<div class="avatar"><img src="http://static.comicvine.com/uploads/square_mini/11111/111113402/4200922-879674-primevsion13-2.jpg"/></div>
+        reaverlation
+        <span>16698 posts</span>
+</a>
+</li>
+<li>
+<a href="/profile/princearagorn1/">
+<div class="avatar"><img src="http://static.comicvine.com/uploads/square_mini/0/1/1-male-good-large.jpg"/></div>
+        PrinceAragorn1
+        <span>14448 posts</span>
+</a>
+</li>
+<li>
+<a href="/profile/i_like_swords/">
+<div class="avatar"><img src="http://static.comicvine.com/uploads/square_mini/11111/111114474/4286043-ulic2+-+edited.jpg"/></div>
+        i_like_swords
+        <span>13836 posts</span>
+</a>
+</li>
+<li>
+<a href="/profile/pokergeist/">
+<div class="avatar"><img src="http://static.comicvine.com/uploads/square_mini/12/123441/3719411-untitled-1.jpg"/></div>
+        Pokergeist
+        <span>13502 posts</span>
+</a>
+</li>
+<li>
+<a href="/profile/lukehero/">
+<div class="avatar"><img src="http://static.comicvine.com/uploads/square_mini/11114/111144184/4251681-0645492840-spide.jpg"/></div>
+        lukehero
+        <span>12942 posts</span>
+</a>
+</li>
+<li>
+<a href="/profile/frozen/">
+<div class="avatar"><img src="http://static.comicvine.com/uploads/square_mini/10/105634/4376696-cool+spartan+1.jpg"/></div>
+        Frozen
+        <span>11892 posts</span>
+</a>
+</li>
+<li>
+<a href="/profile/kingant27/">
+<div class="avatar"><img src="http://static.comicvine.com/uploads/square_mini/11114/111142086/4322358-do+%282%29.jpg"/></div>
+        Kingant27
+        <span>10960 posts</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="mapped-ad mapped-mpu_bottom mapped-mpu_bottom-dart" id="mpu_bottom-wrap"><div class="ad-wrap ad-wrap-mpu_bottom" id="mpu_bottom"></div></div> </aside>
+</div>
+</div>
+<div class="mapped-ad mapped-leader_bottom mapped-leader_bottom-dart" id="leader_bottom-wrap"><div class="ad-wrap ad-wrap-leader_bottom" id="leader_bottom"></div></div>
+</div>
+<footer class="mastfooter" role="complimentary">
+<div class="container row">
+<a class="logo-gamespot" href="http://www.gamespot.com">Gamespot.com</a>
+<p>© 2015 CBS Interactive Inc. All rights reserved.</p>
+</div>
+<div class="container row">
+<a href="http://www.cbsinteractive.com/advertise/">Advertise</a>
+<a href="/api">API</a>
+<a href="http://legalterms.cbsinteractive.com/terms-of-use">Terms of Use</a>
+<a href="http://legalterms.cbsinteractive.com/privacy">Privacy Policy</a>
+<a href="http://legalterms.cbsinteractive.com/adchoice">Ad Choice</a>
+<a href="/help/">Help</a>
+</div>
+<div class="container row">
+<a href="http://facebook.com/ComicVineFans">
+<i class="icon icon-facebook-sign"></i> facebook.com/ComicVineFans
+      </a>
+<a href="http://twitter.com/comicvine">
+<i class="icon icon-twitter"></i> twitter.com/comicvine
+      </a>
+<a href="http://youtube.com/ComicVineVideos">
+<i class="icon icon-play"></i> youtube.com/ComicVineVideos
+      </a>
+<a href="/feeds" title="RSS Feeds">
+<i class="icon icon-rss"></i> RSS
+      </a>
+</div>
+</footer>
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="filmstrip filmstrip-with-ads is-hidden" id="js-filmstrip" itemscope=""><meta class="js-post-render-tracking-consumer image_view-tracking-settings" content='{"pageParams":{"siteid":"1019","ptid":"6643","onid":null,"ednm":"{edition}","ursuid":"{ursuid}","regSilo":"16","viewguid":"{guid}","rsid":"cbsicomicvinesite","prodtypid":"8"},"cleargifSrc":"http:\/\/dw.cbsi.com\/clear\/c.gif?ptid=6643&amp;ednm=%7Bedition%7D&amp;ursuid=%7Bursuid%7D&amp;regSilo=16&amp;viewguid=%7Bguid%7D&amp;rsid=cbsicomicvinesite&amp;prodtypid=8&amp;sid=1019&amp;ts=1423525304"}' data-tracking-service="dw" id="image_view-tracking-dw" itemprop="image_view-tracking-dw"/><meta class="js-post-render-tracking-consumer image_view-tracking-settings" content='{"custom":{"PageType":{"index":"1","name":"PageType","value":"6643","scope":"3"},"User Type":{"index":"2","name":"User Type","value":"{gaUserType}","scope":"1"},"Subscription Type":{"index":"1","name":"Subscription Type","value":"{gaSubscriptionType}","scope":"1"}},"account":"UA-22577913-11"}' data-tracking-service="ga" id="image_view-tracking-ga" itemprop="image_view-tracking-ga"/><meta class="js-post-render-tracking-consumer image_view-tracking-settings" content="[]" data-tracking-service="om" id="image_view-tracking-om" itemprop="image_view-tracking-om"/><meta class="js-post-render-tracking-consumer page-event-ad-settings" content='{"page_event_name":"image_view","mapped_units":{"overlay_mpu_top":{"size":[[300,250]],"target":{"pos":"top","ptype":"image_viewer"},"on_event":"image_view"},"overlay_leader_top":{"size":[[970,66],[728,90]],"target":{"pos":"top","ptype":"image_viewer"},"on_event":"image_view"}}}' id="image_view-ad-settings" itemprop="page-event-ad-settings"/><div class="image-mask" id="js-image-mask"></div><div class="image-viewer-ad image-viewer-leader" id="js-image-ad-leader"><div class="mapped-ad mapped-overlay_leader_top mapped-overlay_leader_top-dart" id="overlay_leader_top-wrap"><div class="ad-wrap ad-wrap-overlay_leader_top" data-ad-event="image_view" id="overlay_leader_top"></div></div></div><span class="image-control image-close" id="js-image-close" title="Close Viewer"><i class="icon icon-remove"></i></span><div class="image-pane" id="js-image-pane"><h3 class="image-title" id="js-image-title"></h3><img alt="" id="imageSource" src=""/><div class="image-commands-tip image-commands-tip-hide" id="js-image-commands-tip"><p>Use your keyboard!</p><ul class="keyboard light"><li><i class="icon icon-arrow-left"></i></li><li><i class="icon icon-arrow-right"></i></li><li><i class="icon icon-arrow-up"></i></li><li><i class="icon icon-arrow-down"></i></li><li>ESC</li></ul></div><span class="image-control image-prev hidden" id="js-image-prev" title="Previous Image"><i class="icon icon-caret-left"></i></span><span class="image-control image-next hidden" id="js-image-next" title="Next Image"><i class="icon icon-caret-right"></i></span></div><div class="image-comments" id="js-side-column"><div class="image-viewer-ad image-viewer-mpu" id="js-image-ad-mpu"><div class="mapped-ad mapped-overlay_mpu_top mapped-overlay_mpu_top-dart" id="overlay_mpu_top-wrap"><div class="ad-wrap ad-wrap-overlay_mpu_top" data-ad-event="image_view" id="overlay_mpu_top"></div></div></div><ul><li class="upload" id="imageInfo"></li><li class="box login-alert"><p><a href="https://auth.comicvine.com/login/">Log in</a> to comment</p></li></ul><ul class="scroll" id="imageComments"></ul></div><div class="image-strip"><a class="image-view-film" href="" id="js-image-view-film"><span class="caret-message" id="js-btn-message"></span><i class="icon icon-caret-up" id="js-btn-icon"></i></a><div class="number"></div><ul id="js-image-strip"><li id="js-image-strip-load-more"><a class="more-images" href="#"></a></li></ul></div></div>
+
+<!-- BEG: base custom_js -->
+<!-- END: base custom_js -->
+<meta class="js-post-render-tracking-consumer tracking-settings" content='{"pageParams":{"siteid":"1019","ptid":"6643","onid":null,"ednm":"{edition}","ursuid":"{ursuid}","regSilo":"16","viewguid":"{guid}","rsid":"cbsicomicvinesite","prodtypid":"8"},"cleargifSrc":"http:\/\/dw.cbsi.com\/clear\/c.gif?ptid=6643&amp;ednm=%7Bedition%7D&amp;ursuid=%7Bursuid%7D&amp;regSilo=16&amp;viewguid=%7Bguid%7D&amp;rsid=cbsicomicvinesite&amp;prodtypid=8&amp;sid=1019&amp;ts=1423525304"}' data-tracking-service="dw" id="tracking-dw" itemprop="tracking-dw"/>
+<meta class="js-post-render-tracking-consumer tracking-settings" content='{"custom":{"PageType":{"index":"1","name":"PageType","value":"6643","scope":"3"},"User Type":{"index":"2","name":"User Type","value":"{gaUserType}","scope":"1"},"Subscription Type":{"index":"1","name":"Subscription Type","value":"{gaSubscriptionType}","scope":"1"}},"account":"UA-22577913-11"}' data-tracking-service="ga" id="tracking-ga" itemprop="tracking-ga"/>
+<meta class="js-post-render-tracking-consumer tracking-settings" content='{"brand":"Comicvine","sid":"comicvine","rsids":"cbsicomicvinesite,cbsicbsiall","user_status":"{userStatus}","urs_id":"{ursuid}","edition":"{edition}","site_type":"{siteType}","anon_id":"{xclgfbrowser}","url":"D=g","user_agent":"D=User-Agent","page_type_id":"6643","page_name":"comicvine:\/forums\/battles-7\/big-daddy-and-hit-girl-in-the-dark-knight-rises-1619191\/","view_guid":"{guid}","ab_test":"{abTestLabel}","marketing_cloud_id":"10D31225525FF5790A490D4D@AdobeOrg","channel":"Forums","hierarchy":"Forums|Forum|Thread","page_type":"forum_thread"}' data-tracking-service="om" id="tracking-om" itemprop="tracking-om"/>
+
+<meta content='{"messageTopic":{"vote":"event25","postReply":"event26"}}' name="trackingEventsLookup"/>
+<noscript>
+<img alt="" class="visuallyhidden" src="http://dw.cbsi.com/clear/c.gif?ptid=6643&amp;ednm=%7Bedition%7D&amp;ursuid=%7Bursuid%7D&amp;regSilo=16&amp;viewguid=%7Bguid%7D&amp;rsid=cbsicomicvinesite&amp;prodtypid=8&amp;sid=1019&amp;ts=1423525304">
+</img></noscript>
+
+<!-- Begin BlueKai Tag --><iframe frameborder="0" height="0" name="__bkframe" src="javascript:void(0)" style="height:0; width:0; display:none;" width="0"></iframe><!-- End BlueKai Tag --><meta content='{"siteId":5830,"pageParams":{"anon_id":"{anon_id}","site":"cbsicomicvinesite","path":"aw-comicvine","ptype":"6643","game":"","franchise":"","genre":"","con":"","collection":""}}' name="bluekaiParams"/>
+</body>
+</html>

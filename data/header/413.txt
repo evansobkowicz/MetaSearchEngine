@@ -1,0 +1,19 @@
+Title: The Dark Knight Rises | Facebook
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+X-Frame-Options: DENY
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=15552000; preload
+P3P: CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Set-Cookie: datr=ukXZVMB9VuVwNiOvQ-fjnWJw; expires=Wed, 08-Feb-2017 23:41:46 GMT; Max-Age=63072000; path=/; domain=.facebook.com; httponly
+Set-Cookie: reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fthedarkknightrises; path=/; domain=.facebook.com
+Set-Cookie: reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fthedarkknightrises; path=/; domain=.facebook.com
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: aDwO4iCOLN/4RA/c0NrvPbsflxWhJChbCtLIfcSWfu8OGUaQx1u8JTox/qSxk9BEwfQZ7F5jcl011N9a6l1yHQ==
+Date: Mon, 09 Feb 2015 23:41:46 GMT
+Connection: close
+
