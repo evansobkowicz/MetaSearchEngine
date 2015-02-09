@@ -24,12 +24,12 @@ class Spider:
             return -1
         html = response.read().decode('utf-8', errors='ignore')
         soup = BeautifulSoup(html)
-        if soup.html.head is not None and soup.html.head.title is not None:
+        if (soup.html is not None) and (soup.html.head is not None) and (soup.html.head.title is not None):
             title = soup.html.head.title.get_text()
         else:
             title = ""
         [x.extract() for x in soup.findAll('script')]
-        if soup.html.body is not None:
+        if (soup.html is not None) and (soup.html.body is not None):
             body = soup.html.body.get_text()
         else:
             body = ""
