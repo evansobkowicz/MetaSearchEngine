@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>A Tale of Two Cities - Wikiquote</title>
+<meta content="MediaWiki 1.25wmf15" name="generator"/>
+<link href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit" rel="alternate" title="Edit" type="application/x-wiki"/>
+<link href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit" rel="edit" title="Edit"/>
+<link href="//bits.wikimedia.org/favicon/wikiquote.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikiquote (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikiquote.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="/wiki/A_Tale_of_Two_Cities" hreflang="x-default" rel="alternate"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikiquote Atom feed" type="application/atom+xml"/>
+<link href="http://en.wikiquote.org/wiki/A_Tale_of_Two_Cities" rel="canonical"/>
+<link href="//bits.wikimedia.org/en.wikiquote.org/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="//bits.wikimedia.org/en.wikiquote.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwikiquote:resourceloader:filter:minify-css:7:6c499dd570e388858133a903e02b5d9f */</style>
+
+
+
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-A_Tale_of_Two_Cities skin-vector action-view vector-animateLayout">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><span dir="auto"><i>A Tale of Two Cities</i></span></h1>
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikiquote</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="thumb tright">
+<div class="thumbinner" style="width:246px;"><a class="image" href="/wiki/File:Charles_Dickens-_A_Tale_of_Two_Cities-With_Illustrations_by_H_K_Browne,_1859.jpg"><img alt="" class="thumbimage" data-file-height="2330" data-file-width="2699" height="211" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Charles_Dickens-_A_Tale_of_Two_Cities-With_Illustrations_by_H_K_Browne%2C_1859.jpg/244px-Charles_Dickens-_A_Tale_of_Two_Cities-With_Illustrations_by_H_K_Browne%2C_1859.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Charles_Dickens-_A_Tale_of_Two_Cities-With_Illustrations_by_H_K_Browne%2C_1859.jpg/366px-Charles_Dickens-_A_Tale_of_Two_Cities-With_Illustrations_by_H_K_Browne%2C_1859.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Charles_Dickens-_A_Tale_of_Two_Cities-With_Illustrations_by_H_K_Browne%2C_1859.jpg/488px-Charles_Dickens-_A_Tale_of_Two_Cities-With_Illustrations_by_H_K_Browne%2C_1859.jpg 2x" width="244"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Charles_Dickens-_A_Tale_of_Two_Cities-With_Illustrations_by_H_K_Browne,_1859.jpg" title="Enlarge"></a></div>
+It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair…</div>
+</div>
+</div>
+<p><i><b><a class="extiw" href="//en.wikipedia.org/wiki/A_Tale_of_Two_Cities" title="w:A Tale of Two Cities">A Tale of Two Cities</a></b></i> (1859) is a historical novel by <a href="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a>. The plot centres on the years leading up to the <a class="extiw" href="//en.wikipedia.org/wiki/French_Revolution" title="w:French Revolution">French Revolution</a> and culminates in the <a class="extiw" href="//en.wikipedia.org/wiki/Jacobin_Club" title="w:Jacobin Club">Jacobin</a> <a class="extiw" href="//en.wikipedia.org/wiki/Reign_of_Terror" title="w:Reign of Terror">Reign of Terror</a>. Set in London and Paris, it tells the story of two men, <a class="extiw" href="//en.wikipedia.org/wiki/Charles_Darnay" title="w:Charles Darnay">Charles Darnay</a> and <a class="extiw" href="//en.wikipedia.org/wiki/Sydney_Carton" title="w:Sydney Carton">Sydney Carton</a>, who look similar but are very different in traits.</p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Book_I_-_Recalled_to_Life"><span class="tocnumber">1</span> <span class="toctext">Book I - Recalled to Life</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Chapter_I_-_The_Period"><span class="tocnumber">1.1</span> <span class="toctext">Chapter I - The Period</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Chapter_II_-_The_Mail"><span class="tocnumber">1.2</span> <span class="toctext">Chapter II - The Mail</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Chapter_III_-_The_Night_Shadows"><span class="tocnumber">1.3</span> <span class="toctext">Chapter III - The Night Shadows</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Chapter_V_-_The_Wine-shop"><span class="tocnumber">1.4</span> <span class="toctext">Chapter V - The Wine-shop</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Chapter_VI_-_The_Shoemaker"><span class="tocnumber">1.5</span> <span class="toctext">Chapter VI - The Shoemaker</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Book_II_The_Golden_Thread"><span class="tocnumber">2</span> <span class="toctext">Book II The Golden Thread</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Chapter_V_-_The_Jackal"><span class="tocnumber">2.1</span> <span class="toctext">Chapter V - The Jackal</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Chapter_IX_-_The_Gorgon.27s_Head"><span class="tocnumber">2.2</span> <span class="toctext">Chapter IX - The Gorgon's Head</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Chapter_XXI_-_Echoing_Footsteps"><span class="tocnumber">2.3</span> <span class="toctext">Chapter XXI - Echoing Footsteps</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Book_III_-_The_Track_of_a_Storm"><span class="tocnumber">3</span> <span class="toctext">Book III - The Track of a Storm</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Chapter_V_-_The_Wood-Sawyer"><span class="tocnumber">3.1</span> <span class="toctext">Chapter V - The Wood-Sawyer</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Chapter_X_-_The_Substance_of_the_Shadow"><span class="tocnumber">3.2</span> <span class="toctext">Chapter X - The Substance of the Shadow</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Chapter_XII_-_Darkness"><span class="tocnumber">3.3</span> <span class="toctext">Chapter XII - Darkness</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Chapter_XV_-_The_Footsteps_Die_Out_For_Ever"><span class="tocnumber">3.4</span> <span class="toctext">Chapter XV - The Footsteps Die Out For Ever</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Book_I_-_Recalled_to_Life">Book I - Recalled to Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=1" title="Edit section: Book I - Recalled to Life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Chapter_I_-_The_Period">Chapter I - The Period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=2" title="Edit section: Chapter I - The Period">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way – in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.
+<ul>
+<li>Note: The opening paragraph of the novel. The two cities referred to were London and Paris during the turmoil of the French Revolution. For the oppressed citizens of 18th-century France, the revolution’s proclamation of the rights of man was indeed a “spring of hope.” But for those of the ancien régime, or the outgoing political system, it was a “winter of despair,” leading to death and destruction.</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Chapter_II_-_The_Mail">Chapter II - The Mail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=3" title="Edit section: Chapter II - The Mail">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>The Dover mail was in its usual genial position that the guard suspected the passengers, the passengers suspected one another and the guard, they all suspected everybody else, and the coachman was sure of nothing but the horses; as to which cattle he could with a clear conscience have taken his oath on the two Testaments that they were not fit for the journey.</li>
+</ul>
+<ul>
+<li>Keep where you are because, if I should make a mistake, it could never be set right in your lifetime.
+<ul>
+<li>Said by a guard</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>For I'm the devil at quick mistakes, and when I make one it takes the form of Lead.</li>
+</ul>
+<ul>
+<li>"What did you make of it, Tom?"<br/>
+"Nothing at all, Joe."<br/>
+"That's a coincidence, too, for I made the same of it myself."
+<ul>
+<li>Said in response to a mysterious message that was heard : "Recalled to Life".</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Chapter_III_-_The_Night_Shadows">Chapter III - The Night Shadows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=4" title="Edit section: Chapter III - The Night Shadows">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><b>A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other. A solemn consideration, when I enter a great city by night, that every one of those darkly clustered houses encloses its own secret; that every room in every one of them encloses its own secret; that every beating heart in the hundreds of thousands of breasts there, is, in some of its imaginings, a secret to the heart nearest it!</b> Something of the awfulness, even of Death itself, is referable to this. No more can I turn the leaves of this dear book that I loved, and vainly hope in time to read it all. No more can I look into the depths of this unfathomable water, wherein, as momentary lights glanced into it, I have had glimpses of buried treasure and other things submerged. It was appointed that the book should shut with a spring, for ever and for ever, when I had read but a page. It was appointed that the water should be locked in an eternal frost, when the light was playing on its surface, and I stood in ignorance on the shore. <b>My friend is dead, my neighbour is dead, my love, the darling of my soul, is dead; it is the inexorable consolidation and perpetuation of the secret that was always in that individuality, and which I shall carry in mine to my life's end. In any of the burial-places of this city through which I pass, is there a sleeper more inscrutable than its busy inhabitants are, in their innermost personality, to me, or than I am to them?</b></li>
+</ul>
+<h3><span class="mw-headline" id="Chapter_V_-_The_Wine-shop">Chapter V - The Wine-shop</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=5" title="Edit section: Chapter V - The Wine-shop">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>"The time was to come, when that wine too would be spilled on the street-stones, and when the stain of it would be red upon many there!."</li>
+</ul>
+<h3><span class="mw-headline" id="Chapter_VI_-_The_Shoemaker">Chapter VI - The Shoemaker</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=6" title="Edit section: Chapter VI - The Shoemaker">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>“If you hear my voice — I don’t know that it is so, but I hope it is — if you hear in my voice any resemblance to a voice that once was sweet music in your ears, weep for it, weep for it! If you touch, in touching my hair, anything that recalls a beloved head that lay on your breast when you were young and free, weep for it, weep for it! If, when I hint to you of a Home that is before us, where I will be true to you with all my duty and with all my faithful service, I bring back the remembrance of a home long desolate, while your poor heart pined away, weep for it, weep for it!”</li>
+</ul>
+<h2><span class="mw-headline" id="Book_II_The_Golden_Thread">Book II The Golden Thread</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=7" title="Edit section: Book II The Golden Thread">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Chapter_V_-_The_Jackal">Chapter V - The Jackal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=8" title="Edit section: Chapter V - The Jackal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Sadly, sadly, the sun rose; it rose upon no sadder sight than the man of good abilities and good emotions, incapable of their directed exercise, incapable of his own help and his own happiness, sensible of the blight on him, and resigning himself to let it eat him away.</li>
+</ul>
+<h3><span class="mw-headline" id="Chapter_IX_-_The_Gorgon.27s_Head">Chapter IX - The Gorgon's Head</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=9" title="Edit section: Chapter IX - The Gorgon's Head">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Repression is the only lasting philosophy.</li>
+</ul>
+<h3><span class="mw-headline" id="Chapter_XXI_-_Echoing_Footsteps">Chapter XXI - Echoing Footsteps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=10" title="Edit section: Chapter XXI - Echoing Footsteps">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Deep ditch, single drawbridge, massive stone walls, eight great towers, cannon, muskets, fire and smoke. One drawbridge down! “Work, comrades all, work! Work, Jacques One, Jacques Two, Jacques One Thousand, Jacques Two Thousand; in the name of all the angels or the devils — which you prefer — work!”</li>
+</ul>
+<h2><span class="mw-headline" id="Book_III_-_The_Track_of_a_Storm">Book III - The Track of a Storm</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=11" title="Edit section: Book III - The Track of a Storm">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Chapter_V_-_The_Wood-Sawyer">Chapter V - The Wood-Sawyer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=12" title="Edit section: Chapter V - The Wood-Sawyer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Liberty, equality, fraternity, or death; — the last, much the easiest to bestow, O Guillotine!</li>
+</ul>
+<h3><span class="mw-headline" id="Chapter_X_-_The_Substance_of_the_Shadow">Chapter X - The Substance of the Shadow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=13" title="Edit section: Chapter X - The Substance of the Shadow">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>"I, Alexander Manette, unfortunate physician, native of Beauvais, and afterwards resident in Paris, write this melancholy paper in my doleful cell in the Bastille, during the last month of the year 1767. I write it at stolen intervals, under every difficulty. I design to secrete it in the wall of the chimney, where I have slowly and laboriously made a place of concealment for it is. Some pitying hand may find it there, when I and my sorrows are dust."</li>
+</ul>
+<h3><span class="mw-headline" id="Chapter_XII_-_Darkness">Chapter XII - Darkness</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=14" title="Edit section: Chapter XII - Darkness">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Defarge, a weak minority interposed a few words for the memory of the compassionate wife of the Marquis; but only elicited from his own wife a repetition of her last reply. "Tell the Wind and the Fire where to stop; not me!"</li>
+</ul>
+<h3><span class="mw-headline" id="Chapter_XV_-_The_Footsteps_Die_Out_For_Ever">Chapter XV - The Footsteps Die Out For Ever</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=15" title="Edit section: Chapter XV - The Footsteps Die Out For Ever">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:146px;"><a class="image" href="/wiki/File:CC_No_06_A_Tale_of_Two_Cities.jpg"><img alt="" class="thumbimage" data-file-height="599" data-file-width="452" height="191" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CC_No_06_A_Tale_of_Two_Cities.jpg/144px-CC_No_06_A_Tale_of_Two_Cities.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CC_No_06_A_Tale_of_Two_Cities.jpg/216px-CC_No_06_A_Tale_of_Two_Cities.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CC_No_06_A_Tale_of_Two_Cities.jpg/288px-CC_No_06_A_Tale_of_Two_Cities.jpg 2x" width="144"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:CC_No_06_A_Tale_of_Two_Cities.jpg" title="Enlarge"></a></div>
+I see a beautiful city and a brilliant people rising from this abyss, and, in their struggles to be truly free, in their triumphs and defeats, through long years to come, I see the evil of this time and of the previous time of which this is the natural birth, gradually making expiation for itself and wearing out.</div>
+</div>
+</div>
+<ul>
+<li>Do you think that it will seem long to me, while I wait for her in the better land where I trust both you and I will be mercifully sheltered?</li>
+</ul>
+<ul>
+<li>I see a beautiful city and a brilliant people rising from this abyss, and, in their struggles to be truly free, in their triumphs and defeats, through long years to come, I see the evil of this time and of the previous time of which this is the natural birth, gradually making expiation for itself and wearing out.</li>
+</ul>
+<ul>
+<li>I see the lives for which I lay down my life, peaceful, useful, prosperous and happy, in that England which I shall see no more.</li>
+</ul>
+<ul>
+<li>I see that I hold a sanctuary in their hearts, and in the hearts of their descendants, generations hence. I see her, an old woman, weeping for me on the anniversary of this day. I see her and her husband, their course done, lying side by side in their last earthly bed, and I know that each was not more honoured and held sacred in the other's soul, than I was in the souls of both.</li>
+</ul>
+<ul>
+<li>I see that child who lay upon her bosom and who bore my name, a man winning his way up in that path of life which once was mine. I see him winning it so well, that my name is made illustrious there by the light of his. I see the blots I threw upon it, faded away. I see him, foremost of just judges and honoured men, bringing a boy of my name, with a forehead that I know and golden hair, to this place— then fair to look upon, with not a trace of this day's disfigurement— and I hear him tell the child my story, with a tender and a faltering voice.</li>
+</ul>
+<ul>
+<li>Crush humanity out of shape once more, under similar hammers, and it will twist itself into the same tortured forms. Sow the same seed of rapacious license and oppression over again, and it will surely yield the same fruit according to its kind.</li>
+</ul>
+<ul>
+<li><b>It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.</b></li>
+</ul>
+<dl>
+<dd>Note: These closing lines bring Dickens' motif of doubles into the story one last time. Dickens' uses the literary device <i>anaphora</i>, which is the repetition of a word or phrase over many lines (doubles), many times throughout A Tale of Two Cities. "It is a far, far better..." is repeated twice in these parting lines, as "It was the ____ of times, it was the epoch of _____," etc. is repeated in the opening lines. This motif of doubles makes up the entire plot of the novel: the two main characters, Darnay and Carton are doubles of each other; London and Paris are the 'two cities' to which the title refers. The very last thoughts attributed to Carton, in their poetic use of repetition, register this faith as a calm and soothing certainty: that both the name of Sydney Carton and of France will be reborn into glory and made "illustrious."</dd>
+</dl>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 250px; padding: 4px; spacing: 0px; text-align: left; float: right;">
+<div style="float: left;">
+<div class="floatnone"><a class="image" href="/wiki/File:Wikipedia-logo-v2.svg" title="Wikipedia"><img alt="Wikipedia" data-file-height="94" data-file-width="103" height="46" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/50px-Wikipedia-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/75px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/100px-Wikipedia-logo-v2.svg.png 2x" width="50"/></a></div>
+</div>
+<div style="margin-left: 60px;"><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> has an article about:
+<div style="margin-left: 10px;"><i><b><a class="extiw" href="//en.wikipedia.org/wiki/A_Tale_of_Two_Cities" title="wikipedia:A Tale of Two Cities">A Tale of Two Cities</a></b></i></div>
+</div>
+</div>
+<div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 250px; padding: 4px; spacing: 0px; text-align: left; float: right;">
+<div style="float: left;">
+<div class="floatnone"><a class="image" href="/wiki/File:Wikisource-logo.png" title="Wikisource"><img alt="Wikisource" data-file-height="431" data-file-width="409" height="53" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/50px-Wikisource-logo.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/75px-Wikisource-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/100px-Wikisource-logo.png 2x" width="50"/></a></div>
+</div>
+<div style="margin-left: 60px;"><a class="extiw" href="//en.wikipedia.org/wiki/Wikisource" title="w:Wikisource">Wikisource</a> has original text related to:
+<div style="margin-left: 10px;"><i><b><a class="extiw" href="//en.wikisource.org/wiki/A_Tale_of_Two_Cities" title="wikisource:A Tale of Two Cities">A Tale of Two Cities</a></b></i></div>
+</div>
+</div>
+<ul>
+<li><a class="external text" href="http://www.gutenberg.org/etext/98" rel="nofollow">Free eBook of <i>A Tale of Two Cities</i></a> at <a class="extiw" href="//en.wikipedia.org/wiki/Project_Gutenberg" title="w:Project Gutenberg">Project Gutenberg</a></li>
+<li><a class="external text" href="http://taleoftwocities.publicliterature.org" rel="nofollow"><i>A Tale of Two Cities</i>, full text and audio</a></li>
+<li><a class="external text" href="http://librivox.org/a-tale-of-two-cities-by-charles-dickens/" rel="nofollow"><i>Complete audio book at Librivox Project</i></a>.</li>
+<li><a class="external text" href="http://www.bookrags.com/notes/ttc/index.htm" rel="nofollow"><i>A Tale of Two Cities Book Notes Summary</i></a>.</li>
+<li><a class="external text" href="http://www.gresham.ac.uk/event.asp?PageId=45&amp;EventId=611" rel="nofollow">'Dickens: A Tale of Two Cities' by Dr. Tony Williams, a lecture at Gresham College (3 July 2007)</a></li>
+<li><a class="external text" href="http://www.shmoop.com/tale-of-two-cities/quotes.html" rel="nofollow">A Tale of Two Cities quotes</a> analyzed; study guide with themes, character analyses, literary devices, teacher resources</li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1182
+CPU time usage: 0.106 seconds
+Real time usage: 0.137 seconds
+Preprocessor visited node count: 1676/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8024/2097152 bytes
+Template argument size: 4874/2097152 bytes
+Highest expansion depth: 27/40
+Expensive parser function count: 0/500
+-->
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   66.293      1 - -total
+ 84.05%   55.719      1 - Template:Italic_title
+ 73.35%   48.625      1 - Template:Str_find
+ 67.85%   44.978      1 - Template:Str_find/logic
+ 41.30%   27.377     99 - Template:Str_left
+ 15.58%   10.328      1 - Template:Str_len
+ 12.94%    8.581      3 - Template:Str_len/core
+  7.62%    5.050      1 - Template:Wikipedia
+  4.33%    2.868      1 - Template:Wikisource
+  4.17%    2.766      1 - Template:Str_≤_len
+-->
+<!-- Saved in parser cache with key enwikiquote:pcache:idhash:70-0!*!0!!en!4!* and timestamp 20150127190248 and revision id 1828839
+ -->
+<noscript><img alt="" height="1" src="//en.wikiquote.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikiquote.org/w/index.php?title=A_Tale_of_Two_Cities&amp;oldid=1828839">http://en.wikiquote.org/w/index.php?title=A_Tale_of_Two_Cities&amp;oldid=1828839</a>"					</div>
+<div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Novels" title="Category:Novels">Novels</a></li><li><a href="/wiki/Category:Charles_Dickens_books" title="Category:Charles Dickens books">Charles Dickens books</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=A+Tale+of+Two+Cities&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=A+Tale+of+Two+Cities" title="You are encouraged to log in; however, it is not mandatory [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/A_Tale_of_Two_Cities" title="View the content page [c]">Page</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:A_Tale_of_Two_Cities" title="Discussion about the content page [t]">Discussion</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/A_Tale_of_Two_Cities">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search" title="Search Wikiquote [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search the pages for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main Page</a></li>
+<li id="n-portal"><a href="/wiki/Wikiquote:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+<li id="n-Village-pump"><a href="/wiki/Wikiquote:Village_pump">Village pump</a></li>
+<li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li>
+<li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random page [x]">Random page</a></li>
+<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikiquote.org&amp;uselang=en" title="Support us">Donate</a></li>
+<li id="n-Contact-Wikiquote"><a href="/wiki/Wikiquote:Contact_us">Contact Wikiquote</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-Wikiquote_links-label" class="portal" id="p-Wikiquote_links" role="navigation">
+<h3 id="p-Wikiquote_links-label">Wikiquote links</h3>
+<div class="body">
+<ul>
+<li id="n-People"><a href="/wiki/List_of_people_by_name">People</a></li>
+<li id="n-Literary-works"><a href="/wiki/List_of_literary_works">Literary works</a></li>
+<li id="n-Proverbs"><a href="/wiki/Category:Proverbs">Proverbs</a></li>
+<li id="n-Films"><a href="/wiki/List_of_films">Films</a></li>
+<li id="n-TV-shows"><a href="/wiki/List_of_television_shows">TV shows</a></li>
+<li id="n-Themes"><a href="/wiki/Category:Themes">Themes</a></li>
+<li id="n-Categories"><a href="/wiki/Category:Categories">Categories</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/A_Tale_of_Two_Cities" title="A list of all wiki pages that link here [j]">What links here</a></li>
+<li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/A_Tale_of_Two_Cities" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
+<li id="t-upload"><a accesskey="u" href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Upload files [u]">Upload file</a></li>
+<li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
+<li id="t-print"><a accesskey="p" href="/w/index.php?title=A_Tale_of_Two_Cities&amp;printable=yes" rel="alternate" title="Printable version of this page [p]">Printable version</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;oldid=1828839" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=info" title="More information about this page">Page information</a></li>
+<li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q308918" title="Link to connected data repository item [g]">Wikidata item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=A_Tale_of_Two_Cities&amp;id=1828839" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">In other languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-simple"><a href="//simple.wikiquote.org/wiki/A_Tale_of_Two_Cities" hreflang="simple" lang="simple" title="A Tale of Two Cities – Simple English">Simple English</a></li>
+<li class="uls-p-lang-dummy"><a href="#"></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" class="wbc-editpage" href="//www.wikidata.org/wiki/Q308918#sitelinks-wikiquote" text="Edit links" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 23 December 2014, at 09:36.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikiquote:About" title="Wikiquote:About">About Wikiquote</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikiquote:General_disclaimer" title="Wikiquote:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikiquote.org/w/index.php?title=A_Tale_of_Two_Cities&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
+</li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+
+</body>
+</html>

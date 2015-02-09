@@ -1,0 +1,663 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<!--[if IE]><![endif]--><!--Empty IE conditional comment to improve site performance-->
+<html lang="en">
+<head>
+<!-- 13 -->
+
+
+<title>SparkNotes: The Little Prince: Context</title>
+<meta content="A short Antoine de Saint-Exupéry biography describes  Antoine de Saint-Exupéry's life, times, and work. Also explains the historical and literary context that influenced The Little Prince." name="description"/>
+<meta content="Antoine de Saint-Exupéry Biography, Antoine de Saint-Exupéry short biography, Antoine de Saint-Exupéry brief biography, Antoine de Saint-Exupéry life biography, Antoine de Saint-Exupéry death, literary context, historical context, Antoine de Saint-Exupéry The Little Prince" name="keywords"/>
+<link href="http://img.sparknotes.com/images/new_global/new_favicon.ico" rel="shortcut icon"/>
+<link href="http://img.sparknotes.com/css/2013/styles.css" rel="stylesheet"/>
+<link href="http://img.sparknotes.com/css/2013/large-screens.css" rel="stylesheet"/>
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE8.css" /><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE.css" /><![endif]-->
+
+
+
+
+
+</head>
+<body class="study-guides blue-background">
+<div id="fb-root"></div>
+ 
+<header>
+<link href="http://img.sparknotes.com/css/gigya.css" rel="stylesheet"/>
+<div class="short-light-grey-gradient">
+<div class="clearfix centered-width masthead">
+<div class="col-1-3">
+<div class="utility navigation">
+<div id="placeholder">
+
+</div>
+										 
+				</div>
+</div>
+<div class="col-1-3 center logo">
+<h2 class="is-centered"><a class="logo hide-text" href="http://www.sparknotes.com/">SparkNotes</a></h2>
+</div>
+<div class="col-1-3 last">
+<navigation>
+<div id="user-links-wrapper">
+<div class="login" id="login-dialog" style="display:none;">
+<form action="https://www.sparknotes.com/login" id="loginform" method="POST">
+<input class="jsClearOnFocus" id="email" name="email" placeholder="email" type="text">
+<input class="jsClearOnFocus" id="password" name="password" type="password" value="password">
+<input checked="checked" id="remember_me" name="remember_me" type="checkbox">
+<label for="remember_me"> Remember me</label>
+<input class="turquoise-gradient" id="login" name="submit" type="submit" value="Log in">
+<input name="uri" type="hidden" value="http://www.sparknotes.com/">
+<input id="referer" name="referer" type="hidden" value="http://www.sparknotes.com/">
+</input></input></input></input></input></input></form>
+</div>
+
+
+
+
+
+</div>
+</navigation>
+<div class="ui-widget search small-search">
+<form action="http://www.sparknotes.com/search" class="clearfix search" id="searchform" method="get">
+<fieldset>
+<input class="search_field inner-shadow grey-text" id="search-sparknotes" name="q" placeholder="By keyword" type="text" value=""/>
+<input type="submit" value="Go"/>
+<!--      						<input name="searchbg" value="" class="searchbg" type="hidden" />
+      						
+      						<input name="template" value="default" type="hidden" />
+      						
+      						<input type="hidden" name="output" value="xml_no_dtd" />
+      						
+      						<input type="hidden" name="oe" value="UTF-8"/>
+      						
+      						<input type="hidden" name="ie" value="UTF-8" />
+      						
+      						<input type="hidden" name="client" value="default_frontend" />
+      						
+      						<input type="hidden" name="proxystylesheet" value="default_frontend" />
+      						
+      						<input type="hidden" name="site" value="SparkNotes" /> -->
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</div>
+<!-- Begin comScore Tag -->
+
+<noscript>
+<img alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035001&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+<a class="hide-text hide-text-accessibility" href="#startcontent">Skip over navigation</a>
+<div class="dark-grey-background">
+<div class="clearfix no-columns center centered-width top-nav-container">
+<navigation>
+<ul class="clearfix is-inline is-centered top-nav" id="menu">
+<li id="sparknotes-tab"><a class="semi-bold light-text" href="http://www.sparknotes.com/sparknotes/">SparkNotes</a>
+<div class="clearfix dropdown text-color dropdown-sparknotes dark-drop-shadow">
+<div class="col-1-8">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/"><strong>SparkNotes Main</strong></a></h5></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/"><strong>Video SparkNotes</strong></a></li>
+<li><a href="http://www.sparknotes.com/shakespeare/"><strong>Shakespeare SparkNotes</strong></a></li>
+<li><a href="http://www.sparknotes.com/lit/index_title.html"><strong>Titles A-Z</strong></a></li>
+<li>
+<ul class="clearfix margin-0 alpha">
+<li><a href="http://www.sparknotes.com/lit/index_a.html">A</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_b.html">B</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_c.html">C</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_d.html">D</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_e.html">E</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_f.html">F</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_g.html">G</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_h.html">H</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_i.html">I</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_j.html">J</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_k.html">K</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_l.html">L</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_m.html">M</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_n.html">N</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_o.html">O</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_p.html">P</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_r.html">R</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_s.html">S</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_t.html">T</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_u.html">U</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_v.html">V</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_w.html">W</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_y.html">Y</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="http://www.sparknotes.com/lit/index_author.html"><strong>Authors A-Z</strong></a></li>
+<li>
+<ul class="clearfix margin-0 alpha">
+<li><a href="http://www.sparknotes.com/lit/index_author_a.html">A</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_b.html">B</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_c.html">C</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_d.html">D</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_e.html">E</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_f.html">F</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_g.html">G</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_h.html">H</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_i.html">I</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_j.html">J</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_k.html">K</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_l.html">L</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_m.html">M</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_n.html">N</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_o.html">O</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_p.html">P</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_r.html">R</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_s.html">S</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_t.html">T</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_u.html">U</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_v.html">V</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_w.html">W</a></li>
+<li><a href="http://www.sparknotes.com/lit/index_author_y.html">Y</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-1-4">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Top SparkNotes</a></h5></li>
+<li><a class="main" href="http://www.sparknotes.com/lit/mocking/">To Kill a Mockingbird</a></li>
+<li><a href="http://www.sparknotes.com/lit/gatsby/">The Great Gatsby</a></li>
+<li><a href="http://www.sparknotes.com/lit/flies/">Lord of the Flies</a></li>
+<li><a href="http://www.sparknotes.com/lit/huckfinn">Adventures of Huck Finn</a></li>
+<li><a href="http://www.sparknotes.com/lit/catcher/">The Catcher in the Rye</a></li>
+<li><a href="http://www.sparknotes.com/lit/1984">1984</a></li>
+<li><a href="http://www.sparknotes.com/lit/451">Fahrenheit 451</a></li>
+<li><a href="http://www.sparknotes.com/lit/scarlet">The Scarlet Letter</a></li>
+<li><a href="http://www.sparknotes.com/lit/grapesofwrath">The Grapes of Wrath</a></li>
+<li><a href="http://www.sparknotes.com/lit/bravenew">Brave New World</a></li>
+<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/"><strong>See all →</strong></a></li>
+</ul>
+</div>
+<div class="col-1-4">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/video/">Top Video SparkNotes</a></h5></li>
+<li><a class="main" href="http://www.sparknotes.com/sparknotes/video/1984">1984</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/hamlet">Hamlet</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/romeojuliet">Romeo and Juliet</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/mocking">To Kill A Mockingbird</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/othello">Othello</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/macbeth">Macbeth</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/scarlet">The Scarlet Letter</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/flies">Lord of the Flies</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/frankenstein">Frankenstein</a></li>
+<li><a href="http://www.sparknotes.com/sparknotes/video/gatsby">The Great Gatsby</a></li>
+<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/video/"><strong>See all →</strong></a></li>
+</ul>
+</div>
+<div class="col-1-8 last">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Other Subjects</a></h5></li>
+<li><a class="main" href="http://www.sparknotes.com/biology/">Biology</a></li>
+<li><a href="http://www.sparknotes.com/biography/">Biography</a></li>
+<li><a href="http://www.sparknotes.com/chemistry/">Chemistry</a></li>
+<li><a href="http://www.sparknotes.com/cs/">Computer Science</a></li>
+<li><a href="http://www.sparknotes.com/drama/">Drama</a></li>
+<li><a href="http://www.sparknotes.com/economics/">Economics</a></li>
+<li><a href="http://www.sparknotes.com/film/">Film</a></li>
+<li><a href="http://www.sparknotes.com/history/">History</a></li>
+<li><a href="http://www.sparknotes.com/lit/">Literature</a></li>
+<li><a href="http://www.sparknotes.com/math/">Math</a></li>
+<li><a href="http://www.sparknotes.com/philosophy/">Philosophy</a></li>
+<li><a href="http://www.sparknotes.com/physics/">Physics</a></li>
+<li><a href="http://www.sparknotes.com/poetry/">Poetry</a></li>
+<li><a href="http://www.sparknotes.com/psychology/">Psychology</a></li>
+<li><a href="http://www.sparknotes.com/sociology/">Sociology</a></li>
+<li><a href="http://www.sparknotes.com/us-government-and-politics/">U.S. Government</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li id="no-fear"><a class="semi-bold light-text" href="http://nfs.sparknotes.com/">No Fear</a>
+<div class="clearfix dropdown dropdown-no-fear text-color dark-drop-shadow">
+</div>
+</li>
+<li id="test-prep"><a class="semi-bold light-text" href="http://www.sparknotes.com/testprep/">Test Prep</a>
+<div class="clearfix dropdown dropdown-test-prep text-color dark-drop-shadow centered-width">
+<div class="col-1-4">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/">Test Prep Main</a></h5></li>
+<li><a href="http://www.sparknotes.com/testprep/newsat/">SAT</a></li>
+<li><a href="http://www.sparknotes.com/testprep/act/">ACT</a></li>
+<li><a href="http://www.sparknotes.com/testprep/gre/">GRE</a></li>
+</ul>
+</div>
+<div class="col-1-4 last">
+<ul>
+<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/newsat/">SAT Subject Tests</a></h5></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/biology/">SAT Biology</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/chemistry/">SAT Chemistry</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/history/">SAT History</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/math1c/">SAT Math Level 1</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/math2c/">SAT Math Level 2</a></li>
+<li><a href="http://www.sparknotes.com/testprep/books/sat2/physics/">SAT Physics</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li id="video"><a class="semi-bold light-text" href="http://www.sparknotes.com/video/">Video</a>
+<div class="clearfix dropdown dropdown-video text-color border-dark-grey">
+</div>
+</li>
+<li id="sparklife"><a class="semi-bold light-text" href="http://community.sparknotes.com/">SparkLife</a>
+<div class="clearfix dropdown dropdown-sparklife text-color dark-drop-shadow">
+</div>
+</li>
+<li id="mindhut"><a class="semi-bold light-text" href="http://www.sparknotes.com/mindhut">The Mindhut</a>
+<div class="clearfix dropdown dropdown-mindhut text-color dark-drop-shadow">
+</div>
+</li>
+</ul>
+</navigation>
+</div>
+</div>
+<a class="hide-text hide-text-accessibility" id="startcontent"></a><!-- For accesibility -->
+</header>
+
+<div id="ad-skin-bg">
+<div id="ad-skin-img">
+<div class="inner-content blue-background">
+<div class="center no-columns top-ad">
+<div class="is-centered ad-container">
+
+</div>
+</div>
+<div class="clearfix breadcrumbs">
+<ul class="clearfix is-inline semi-bold">
+<li class="margin-0">
+<a href="http://www.sparknotes.com">Home</a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/sparknotes/">SparkNotes </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/lit/">Literature Study Guides </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/lit/littleprince/">The Little Prince </a> <span class="link-color">→</span> Context    	</li>
+</ul>
+</div>
+<div class="clearfix interior">
+<div class="col-small-left">
+<div class="light-blue-background border-blue left-menu">
+<h2>Contents</h2>
+<ul>
+<h4 class="semi-bold">General Info</h4>
+<li class="active">Context</li>
+<li><a href="http://www.sparknotes.com/lit/littleprince/summary.html">Plot Overview</a></li>
+<li><a href="http://www.sparknotes.com/lit/littleprince/characters.html">Character List</a></li>
+<li><a href="http://www.sparknotes.com/lit/littleprince/canalysis.html">Analysis of Major Characters</a></li>
+<li><a href="http://www.sparknotes.com/lit/littleprince/themes.html">Themes, Motifs &amp; Symbols</a></li>
+<h4 class="semi-bold">Summary &amp; Analysis</h4><li><a href="http://www.sparknotes.com/lit/littleprince/section1.rhtml">Chapters I–III</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section2.rhtml">Chapters IV–VI</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section3.rhtml">Chapters VII–IX</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section4.rhtml">Chapters X–XII</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section5.rhtml">Chapters XIII–XV</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section6.rhtml">Chapters XVI–XX</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section7.rhtml">Chapters XXI–XXIII</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section8.rhtml">Chapters XXIV–XXV</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section9.rhtml">Chapters XXVI–XXVII</a></li>
+<h4 class="semi-bold">Study Tools</h4>
+<li><a href="http://www.sparknotes.com/lit/littleprince/quotes.html">Important Quotations Explained</a></li>
+<li><a href="http://www.sparknotes.com/lit/littleprince/facts.html">Key Facts</a></li>
+<li><a href="http://www.sparknotes.com/lit/littleprince/study.html">Study Questions &amp; Essay Topics</a></li>
+<li><a href="http://www.sparknotes.com/lit/littleprince/quiz.html">Quiz</a></li>
+<li><a href="http://www.sparknotes.com/lit/littleprince/bibliography.html">Suggestions for Further Reading</a></li>
+<li><a href="http://www.sparknotes.com/lit/littleprince/citing.html">How to Cite This SparkNote</a></li>
+</ul>
+</div>
+<div id="leftAd">
+
+</div>
+</div>
+<div class="col-mid">
+<div class="white-background border-blue content">
+<h1 class="title padding-btm-0">The Little Prince</h1><h2 class="author">Antoine de Saint-Exupéry</h2>
+<div class="clearfix next-previous center"><a class="left arrow-nav previous text-color" href="http://www.sparknotes.com/lit/littleprince/" title="previous">←</a><div class="next-title text-color is-centered">Context</div><a class="right arrow-nav next text-color" href="http://www.sparknotes.com/lit/littleprince/summary.html" title="next">→</a></div><div class="tooltip dark-grey-background"><h3 class="semi-bold">Table of Contents</h3></div><div class="tooltip dark-grey-background"><h3 class="semi-bold">Plot Overview</h3></div><div class="clearfix">
+<h5 class="right">
+</h5>
+<div style="clear:both;"></div>
+</div>
+<div class="studyGuideText" id="context">
+<p>Born in Lyons, France, in 1900, Antoine
+de Saint-Exupéry considered himself a pilot above all else. For twenty
+years, he flew everything from cartography missions to commercial
+airlines, and flying occupied a significant place in his philosophical
+essays and fantasy writings. The theme of aviation was often Saint-Exupéry’s
+launching point for more abstract discussions on issues like the
+search for wisdom and the meaning of life.</p>
+<div class="floatingad"></div>
+<p>	Saint-Exupéry began writing <i>The Little Prince</i> during
+World War II, after Germany’s invasion of France had forced him
+to give up aviation and flee to New York. In addition to his torturous
+thoughts of the war in Europe, having to leave his homeland and
+no longer being able to fly planes affected Saint-Exupéry deeply.
+The novel’s nostalgia for childhood indicates both Saint-Exupéry’s
+homesick desire to return to France and his hope of returning to
+a time of peace. This wartime stress undoubtedly contributed to
+the sense of urgency in Saint-Exupéry’s message of love and compassion.</p>
+<p>	In its glorification of childlike innocence, <i>The
+Little Prince</i> is also an indictment of the spiritual decay
+Saint-Exupéry perceived in humanity. In 1943,
+he wrote, “For centuries, humanity has been descending an immense
+staircase whose top is hidden in the clouds and whose lowest steps
+are lost in a dark abyss. We could have ascended the staircase;
+instead we chose to descend it. Spiritual decay is terrible. . .
+. There is one problem and only one in the world: to revive in people
+some sense of spiritual meaning. . . .” By celebrating a worldview
+unsullied by the drab restrictions of adulthood, the novel attempts
+to revive a sense of spirituality in the world.</p>
+<p>	Some of the story of <i>The Little Prince</i> uses
+events taken from Saint-Exupéry’s own life. If the novel’s surreal
+fairy tale feels strangely real and personal, this effect is achieved,
+at least in part, by the fact that Saint-Exupéry was drawing from
+his own experiences. In <i>Wind, Sand and Stars,</i> his 1939 account
+of his aviation adventures, he recollects a crash landing he was
+forced to make in the Sahara desert. In his wanderings across the
+desert, Saint-Exupéry had a number of hallucinations, including
+an encounter with a fennec, a type of desert sand fox that bears
+a striking resemblance to the fox depicted in <i>The Little
+Prince</i>.</p>
+<p>Saint-Exupéry may have seen himself in his characters
+of both the narrator and the little prince. Like his narrator, Saint-Exupéry was
+a pilot, crashed in the Sahara, and experienced there a kind of mystical
+revelation. The prince, however, represents aspects of Saint-Exupéry
+as well, and he very definitely embodies Saint-Exupéry’s philosophy
+and aspirations. The prince’s relationship with the rose could be
+a reflection of Saint-Exupéry’s relationship with his wife, and
+the prince is also an explorer and traveler of the skies—it is one
+of the first things that the prince and the narrator share in common.
+Seen in this light, <i>The Little Prince</i> can be read
+as a metaphor of the process of introspection itself, wherein two
+halves of the same person meet and learn from each other.</p>
+<p>Although <i>The Little Prince</i> was undoubtedly
+influenced by the tenor of World War II, Saint-Exupéry aims for
+a general, apolitical analysis of human nature. The prevalence of
+symbols of death and evil in <i>The Little Prince</i> are
+often interpreted as references to Nazi Germany, but the book’s
+universally applicable fairy-tale symbols and the emblems of World
+War II make an awkward match. <i>The Little Prince</i> builds
+on a long tradition of French parables and fantasy literature, most
+notably expressed in Voltaire’s <i>Candide. </i>Like Voltaire,
+Saint-Exupéry urges his readers to participate actively in the reading
+process, using their imaginations to assign deeper meaning to deceptively
+simple prose and poetry. Saint-Exupéry and his novel were certainly
+affected by the historical events of the time, but <i>The Little
+Prince</i> aspires to be a universal and timeless allegory
+about the importance of innocence and love. Indeed, since it was
+first published, <i>The Little Prince</i> has become one
+of the most widely translated books in the history of French literature.</p>
+</div>
+<div class="clearFloats"></div>
+<div class="clearfix">
+<div class="right"> </div>
+<div style="clear:both;"></div>
+</div>
+<!-- psst!  did you know theres no quiz on this page? -->
+</div>
+<div class="white-background border-blue more-help interior">
+<h3>More Help</h3>
+<div class="more-help-interior">
+<ul class="clearfix is-inline" id="more-help-carousel">
+<li class="center">
+<a class="is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634925&amp;prid=1586634925" target="_blank">
+<img src="http://img.sparknotes.com/images/more_help/lit_guide_book.jpg">
+</img></a>
+<h5><a class="text-color is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634925&amp;prid=1586634925" target="_blank">Buy the print The Little Prince SparkNote on BN.com</a></h5>
+</li>
+<li class="center">
+<a class="is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=2940000053003" target="_blank">
+<img src="http://img.sparknotes.com/images/more_help/moreHelp_ebook.png">
+</img></a>
+<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=2940000053003" target="_blank">Buy the ebook of this SparkNote on BN.com</a></h5>
+</li>
+<li class="center">
+<a class="is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=9781411493414" target="_blank">
+<img src="http://img.sparknotes.com/images/more_help/moreHelp_pdf.png">
+</img></a>
+<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=9781411493414" target="_blank">Download the PDF of this SparkNote on BN.com</a></h5>
+</li>
+<li class="center">
+<a class="is-centered" href="http://www.barnesandnoble.com/w/little-prince-antoine-de-saint-exupery/1100090265?ean=9780156012195" target="_blank">
+<img src="http://img.sparknotes.com/content/cover/9780156012195.jpg">
+</img></a>
+<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/little-prince-antoine-de-saint-exupery/1100090265?ean=9780156012195" target="_blank">Order The Little Prince at BN.com</a></h5>
+</li>
+</ul>
+<a class="arrow" href="javascript: void(0)" id="carousel_prev">Previous</a>
+<a class="arrow" href="javascript: void(0)" id="carousel_next">Next</a>
+
+</div>
+</div>
+<div class="light-blue-background border-blue content">
+<div class="containerUGC">
+<div class="header clearfix">
+<h2 class="left"><a class="text-color" href="/lit/littleprince/notes">Readers' Notes<br/>
+<span>Most Helpful Readers' Notes (5 total)</span>
+</a></h2>
+<a class="right semi-bold blue-block-link" href="javascript:void(0);" onclick="addNoteInternal('littleprince', 'lit')">Add a note   →</a>
+</div>
+<div class="white-background noteContainer border-light-blue clearfix">
+<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/994">Small error</a></h6>
+<h3>by <a class="semi-bold" href="/account/SpenseBasse">SpenseBasse</a>, December 11, 2013</h3>
+<p class="noteExcerpt"><p>For the character description of the little prince, it states he identified the narrator's drawing of a boa eating a snake.  It was, however, a drawing of a boa eating an elephant.  Just wanted to note this to avoid confusion</p>
+</p>
+<div class="clearfix">
+<p class="left">
+<a class="text-color border-0" href="/lit/littleprince/notes/994"><span class="commentIcon"></span>0 Comments</a></p>
+<p class="right">
+<strong>3</strong> out of 
+	<strong>3</strong> people found this helpful
+    	</p>
+</div>
+</div>
+<div class="white-background noteContainer border-light-blue clearfix">
+<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/1186">Baobabs</a></h6>
+<h3>by <a class="semi-bold" href="/account/monkey_munchkin">monkey_munchkin</a>, February 18, 2014</h3>
+<p class="noteExcerpt"><p>The baobabs could also be symbolic for negative feelings that a person has towards themselves or someone or something else. If these "ugly" feelings are not uprooted, they manifest an individual's mind.</p>
+</p>
+<div class="clearfix">
+<p class="left">
+<a class="text-color border-0" href="/lit/littleprince/notes/1186"><span class="commentIcon"></span>1 Comments</a></p>
+<p class="right">
+<strong>1</strong> out of 
+	<strong>1</strong> people found this helpful
+    	</p>
+</div>
+</div>
+<div class="white-background noteContainer border-light-blue clearfix">
+<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/1189">Climax</a></h6>
+<h3>by <a class="semi-bold" href="/account/krazykenz02">krazykenz02</a>, February 19, 2014</h3>
+<p class="noteExcerpt"><p>The climax is way off. The climax is when the little prince meets the snake on the old wall.</p>
+</p>
+<div class="clearfix">
+<p class="left">
+<a class="text-color border-0" href="/lit/littleprince/notes/1189"><span class="commentIcon"></span>0 Comments</a></p>
+<p class="right">
+<strong>1</strong> out of 
+	<strong>2</strong> people found this helpful
+    	</p>
+</div>
+</div>
+<h5 class="center"><a href="/lit/littleprince/notes">See all 5 readers' notes   →</a></h5>
+</div>
+</div>
+</div>
+<div class="col-1-3 last">
+<div class="border-blue white-background lit-guides-social">
+<h3>Follow Us</h3>
+<div class="fb-like" data-href="https://www.facebook.com/SPARKNOTES" data-send="false" data-show-faces="true" data-width="270"></div>
+<a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/SparkNotes">Follow @SparkNotes</a>
+
+</div><div class="white-background border-blue blog-feature">
+<h3 class="sparklife-logo-home"><a class="hide-text" href="http://community.sparknotes.com/">SparkLife</a></h3>
+<h2>Take a Study Break!</h2>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaygift15study.gif	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide">Things we want more than a date this V Day</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/benbarnesstudy.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges">Ben Barnes spoke to us and revealed his secret nerdy habit (it's a WHOPPER!)</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaycustomstudy.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts">We made Valentines for everyone who thinks love is just a shout into the void but yells anyway</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/horscrstudy.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be">We want to know: what would YOUR horcrux be?</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/litval15study.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes">The best imaginary Valentines you could hope for...</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media ">
+<a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/tv2015study.jpg	"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why">Get out your sitting pants, these awesome TV shows are back SOON!</a></h4>
+</div>
+</div>
+<h3 class="geekOut border-top-blue"><a class="hide-text" href="http://www.sparknotes.com/mindhut">The MindHut</a></h3>
+<h2>Take a Study Break!</h2>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/grosssodaz0_Slidemhthumbcar.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition">The Sparkitors review GROSS SODAS</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/lyriczzznewthumbnewlyrcsz.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science">Pop lyrics explained by SCIENCE!</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/OldTechBigMoney2_Slidemhcar.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today">You'll never believe how much this computer is worth</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/docwhomtsdocseussmhcar.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers">Doctor Who meets Dr. Seuss</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/WeirdAnimalPoops0_Slidethumbzzz.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop">This post is 100% about weird animal poop</a></h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media mindhut">
+<a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/couldanotsuckkkked.jpg"/></a>
+<div class="media-text">
+<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help">The Last Airbender could have rocked if they'd just done THIS</a></h4>
+</div>
+</div>
+</div>
+<!-- todo: include GlobalTemplatePlugin/modules/project_templates/templates/_bookBlogPosts.php here -->
+<div class="light-grey-white-background border-blue padding-15 margin-btm-30">
+<h3 class="bnBookBlog">
+<a class="hide-text" href="http://www.barnesandnoble.com/blog/">From the B&amp;N; Book Blog</a>
+</h3>
+<div class="clearfix media sidebar-media">
+<a href="">
+<a class="fixed-media" href="http://bit.ly/1C0XZ91"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AlexCrow_LargeWide.jpg"/></a>
+</a>
+<div class="media-text">
+<h4 class="semi-bold">
+<a href="http://bit.ly/1C0XZ91">7 Totally Weird, Totally Awesome YA Novels</a> </h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media">
+<a href="">
+<a class="fixed-media" href="http://bit.ly/1vqrLVr"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AAnarrators_LargeWide.jpg"/></a>
+</a>
+<div class="media-text">
+<h4 class="semi-bold">
+<a href="http://bit.ly/1vqrLVr">8 Great YA Novels with African American Narrators</a> </h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media">
+<a href="">
+<a class="fixed-media" href="http://bit.ly/1zxaolZ"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_GroundhogDay_LargeWide.jpg"/></a>
+</a>
+<div class="media-text">
+<h4 class="semi-bold">
+<a href="http://bit.ly/1zxaolZ">5 Time-Looping Tales Perfect for Groundhog Day</a> </h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media">
+<a href="">
+<a class="fixed-media" href="http://bit.ly/1LEwN5z"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_readermultitasking_LargeWide.jpg"/></a>
+</a>
+<div class="media-text">
+<h4 class="semi-bold">
+<a href="http://bit.ly/1LEwN5z">Dos and Dont’s of Multitasking While Reading</a> </h4>
+</div>
+</div>
+<div class="clearfix media sidebar-media">
+<a href="">
+<a class="fixed-media" href="http://bit.ly/1BPyJA6"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_litladyjan27_LargeWide.jpg"/></a>
+</a>
+<div class="media-text">
+<h4 class="semi-bold">
+<a href="http://bit.ly/1BPyJA6">How to Get Your Parents to Read Your Favorite Book</a> </h4>
+</div>
+</div>
+</div>
+<div class="center">
+<div class="is-centered border-grey">
+
+
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<footer>
+<div class="dark-grey-background">
+<div class="clearfix center centered-width footer">
+<h6 class="semi-bold">When your books and teachers don't make sense, we do.</h6>
+<navigation>
+<ul class="clearfix is-inline is-centered semi-bold">
+<li class="first"><a href="http://www.sparknotes.com/contact/">Contact Us</a></li>
+<li><a href="http://www.sparknotes.com/legal/">Legal</a></li>
+<li><a href="http://www.sparknotes.com/about/">About</a></li>
+<li><a href="http://www.sparknotes.com/sitemap/">Sitemap</a></li>
+<li><a href="http://www.sparknotes.com/mobile-apps/">Mobile Apps</a></li>
+<li><a href="http://www.sparknotes.com/advertisers/">Advertise</a></li>
+<li><a class="hide-text small-facebook" href="http://www.facebook.com/SPARKNOTES">Facebook</a></li>
+<li><a class="hide-text small-twitter" href="https://twitter.com/SparkNotes">Twitter</a></li>
+</ul>
+<p class="is-centered">SparkNotes is brought to you by <a href="http://www.barnesandnoble.com/">B&amp;N</a>. Visit B&amp;N to buy and rent <a href="http://www.barnesandnoble.com/textbooks/index.asp">textbooks</a>, and check out our award-winning tablets and ereaders, including <a href="http://www.barnesandnoble.com/u/samsung-galaxy-tab-4-nook-tablet/379004262">Samsung Galaxy Tab 4 NOOK</a> and <a href="http://www.barnesandnoble.com/u/nook-glowlight-ereader/379004122">NOOK GlowLight</a>.</p>
+</navigation>
+<p class="is-centered small">© 2015 <a class="light-grey" href="http://www.sparknotes.com/">SparkNotes LLC</a>, All Rights Reserved</p>
+</div>
+</div>
+</footer>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+
+<noscript>
+<div>
+<img alt="" height="1" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704167h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1"/>
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+</div>
+
+
+
+
+</div>
+</body>
+</html>

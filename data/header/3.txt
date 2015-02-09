@@ -1,0 +1,20 @@
+Title: A Tale of Two Cities (1980 film) - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=43493723; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 09 Feb 2015 04:07:43 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1449240365 1437447784, 2243185554 2239991610
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Mon, 09 Feb 2015 19:43:50 GMT
+Age: 9915
+Connection: close
+X-Cache: cp1054 hit (6), cp1053 frontend hit (1)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+

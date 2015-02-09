@@ -1,0 +1,15 @@
+Title: A Tale of Two Cities - Kindle edition by Charles Dickens. Literature & Fiction Kindle eBooks @ Amazon.com.
+Date: Mon, 09 Feb 2015 19:43:54 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 0QYR7JTN9G1HCZ885531
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: ebooks_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: i9M9nohFkb4G9UWZKk8ayX1SK5cDIbggfCaJIrwiuNAxjjCtrvju34Re71XtodIj
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html; charset=ISO-8859-1
+Transfer-Encoding: chunked
+

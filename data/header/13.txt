@@ -1,0 +1,17 @@
+Title: 
+	A Tale of Two Cities at a Glance
+
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Akamai-Transformed: 9 129231 0 pmb=mRUM,1
+Date: Mon, 09 Feb 2015 19:43:57 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: ASP.NET_SessionId=onn4cxj5jxpwoqwtgvk1h00a; path=/; HttpOnly
+

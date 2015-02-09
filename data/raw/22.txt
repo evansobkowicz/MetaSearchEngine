@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>The Little Prince (1974 film) - Wikipedia, the free encyclopedia</title>
+<meta content="MediaWiki 1.25wmf15" name="generator"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/The_Little_Prince_(1974_film)" rel="alternate"/>
+<link href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="/wiki/The_Little_Prince_(1974_film)" hreflang="x-default" rel="alternate"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="http://en.wikipedia.org/wiki/The_Little_Prince_(1974_film)" rel="canonical"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" rel="stylesheet"/>
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+
+
+
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Little_Prince_1974_film skin-vector action-view vector-animateLayout">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><span dir="auto"><i>The Little Prince</i> (1974 film)</span></h1>
+<div class="mw-body-content" id="bodyContent">
+<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><table class="infobox vevent" style="width:22em;font-size:90%;">
+<tr>
+<th class="summary" colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:110%;font-style:italic;">The Little Prince</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:LittlePrinceLP.jpg"><img alt="LittlePrinceLP.jpg" class="thumbborder" data-file-height="223" data-file-width="225" height="218" src="//upload.wikimedia.org/wikipedia/en/thumb/2/27/LittlePrinceLP.jpg/220px-LittlePrinceLP.jpg" srcset="//upload.wikimedia.org/wikipedia/en/2/27/LittlePrinceLP.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/2/27/LittlePrinceLP.jpg 2x" width="220"/></a>
+<div style="font-size:95%;padding:0.35em 0.35em 0.25em;line-height:1.25em;">Theatrical release poster by <a href="/wiki/Richard_Amsel" title="Richard Amsel">Richard Amsel</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">Directed by</th>
+<td style="line-height:1.3em;"><a href="/wiki/Stanley_Donen" title="Stanley Donen">Stanley Donen</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">Produced by</th>
+<td style="line-height:1.3em;">Stanley Donen</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">Screenplay by</th>
+<td style="line-height:1.3em;"><a href="/wiki/Alan_Jay_Lerner" title="Alan Jay Lerner">Alan Jay Lerner</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">Based on</th>
+<td style="line-height:1.3em;"><i><a href="/wiki/The_Little_Prince" title="The Little Prince">The Little Prince</a></i><br/>
+by <a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry" title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">Starring</th>
+<td style="line-height:1.3em;"><a href="/wiki/Richard_Kiley" title="Richard Kiley">Richard Kiley</a><br/>
+Steven Warner<br/>
+<a href="/wiki/Bob_Fosse" title="Bob Fosse">Bob Fosse</a><br/>
+<a href="/wiki/Gene_Wilder" title="Gene Wilder">Gene Wilder</a><br/>
+<a href="/wiki/Donna_McKechnie" title="Donna McKechnie">Donna McKechnie</a><br/>
+<a href="/wiki/Joss_Ackland" title="Joss Ackland">Joss Ackland</a><br/>
+<a href="/wiki/Victor_Spinetti" title="Victor Spinetti">Victor Spinetti</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">Music by</th>
+<td style="line-height:1.3em;"><a href="/wiki/Frederick_Loewe" title="Frederick Loewe">Frederick Loewe</a> (score)<br/>
+<a href="/wiki/Alan_Jay_Lerner" title="Alan Jay Lerner">Alan Jay Lerner</a> (lyrics)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">Cinematography</th>
+<td style="line-height:1.3em;"><a href="/wiki/Christopher_Challis" title="Christopher Challis">Christopher Challis</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">Edited by</th>
+<td style="line-height:1.3em;">Peter Boita<br/>
+George Hively</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">Distributed by</th>
+<td style="line-height:1.3em;"><a href="/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">
+<div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Release dates</div>
+</th>
+<td style="line-height:1.3em;">
+<div class="plainlist">
+<ul>
+<li>November 7, 1974<span style="display:none"> (<span class="bday dtstart published updated">1974-11-07</span>)</span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">
+<div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Running time</div>
+</th>
+<td style="line-height:1.3em;">88 minutes</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">Country</th>
+<td style="line-height:1.3em;">United States<br/>
+United Kingdom</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;white-space:nowrap;padding-right:0.65em;">Language</th>
+<td style="line-height:1.3em;">English</td>
+</tr>
+</table>
+<p><i><b>The Little Prince</b></i> is a 1974 American–British <a href="/wiki/Fantasy_film" title="Fantasy film">fantasy</a>-<a href="/wiki/Musical_film" title="Musical film">musical film</a> with screenplay and lyrics by <a href="/wiki/Alan_Jay_Lerner" title="Alan Jay Lerner">Alan Jay Lerner</a>, music by <a href="/wiki/Frederick_Loewe" title="Frederick Loewe">Frederick Loewe</a>. It was both directed and produced by <a href="/wiki/Stanley_Donen" title="Stanley Donen">Stanley Donen</a> and based on the 1943 classic children-adult's novella, <a class="extiw" href="//fr.wikipedia.org/wiki/Le_Petit_Prince" title="fr:Le Petit Prince"><i>Le Petit Prince</i></a> (<i><a href="/wiki/The_Little_Prince" title="The Little Prince">The Little Prince</a></i>), by the writer, poet and pioneering aviator Count <a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry" title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</a>, who disappeared near the end of the <a class="mw-redirect" href="/wiki/Second_World_War" title="Second World War">Second World War</a> some 15 months after his fable was first published.</p>
+<p>The film and its music were unsuccessful at the box office but became somewhat popular after its theatrical run, and has been released for sale on various media.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Plot"><span class="tocnumber">2</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Cast"><span class="tocnumber">3</span> <span class="toctext">Cast</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Musical_numbers"><span class="tocnumber">4</span> <span class="toctext">Musical numbers</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Production"><span class="tocnumber">5</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Soundtrack"><span class="tocnumber">6</span> <span class="toctext">Soundtrack</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The original <i><a href="/wiki/The_Little_Prince" title="The Little Prince">Little Prince</a></i> <a href="/wiki/Novella" title="Novella">novella</a> was first published in 1943, and is the most famous work of the French aristocrat, writer, poet and pioneering aviator <a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry" title="Antoine de Saint-Exupéry">Count Antoine de Saint-Exupéry</a> (1900–1944). It is a poetic tale self-illustrated in watercolours in which a pilot stranded in the desert meets a young prince fallen to Earth from a tiny <a href="/wiki/Asteroid" title="Asteroid">asteroid</a>. The story is philosophical and includes societal criticism, remarking on the strangeness of the adult world.</p>
+<p>Though ostensibly a <a href="/wiki/Children%27s_literature" title="Children's literature">children's book</a>, <i>The Little Prince</i> makes several profound and idealistic observations about life and human nature. For example, Saint-Exupéry tells of a <a href="/wiki/Fox" title="Fox">fox</a> meeting the young prince during his travels on Earth. The story's essence is contained in the lines uttered by the fox to the little prince: <i>On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.</i> ("One sees clearly only with the heart. What is essential is invisible to the eye.")<sup class="reference" id="cite_ref-Galembert_3-0"><a href="#cite_note-Galembert-3"><span>[</span>3<span>]</span></a></sup> Other key thematic messages are articulated by The Fox, such as: "You become responsible, forever, for what you have tamed" and "It is the time you have devoted to your rose that makes your rose so important." The Fox's messages are arguably the most famous because of their nature of dealing with relationships.</p>
+<p>Antoine de Saint-Exupéry wrote and illustrated <i>The Little Prince</i> in New York City and Asharoken, N.Y. in mid-to-late 1942 while exiled in the United States after the <a class="mw-redirect" href="/wiki/Fall_of_France" title="Fall of France">Fall of France</a>, with the manuscript being completed in October.<sup class="reference" id="cite_ref-FOOTNOTESchiff2006379_4-0"><a href="#cite_note-FOOTNOTESchiff2006379-4"><span>[</span>4<span>]</span></a></sup> It would be first published in early 1943 in both English and French, but only in the U.S. It would later appear in his native homeland of France posthumously, after the <a href="/wiki/Western_Front_(World_War_II)#Liberation_of_France" title="Western Front (World War II)">liberation of Paris</a>,<sup class="reference" id="cite_ref-lepetitprincenet-gallimard_5-0"><a href="#cite_note-lepetitprincenet-gallimard-5"><span>[</span>5<span>]</span></a></sup> as all of Saint-Exupéry's works had been banned in Nazi-occupied France. Since first being published the novella has been adapted to various media over the decades, including <a class="mw-redirect" href="/wiki/Audio_recording" title="Audio recording">audio recordings</a>, <a href="/wiki/Theatre" title="Theatre">stage</a>, <a href="/wiki/Ballet" title="Ballet">ballet</a>, and <a href="/wiki/Opera" title="Opera">operatic</a> works.</p>
+<p>The fantasy-musical film adaptation of <i>The Little Prince</i> was directed and produced by <a href="/wiki/Stanley_Donen" title="Stanley Donen">Stanley Donen</a>, and stars Steven Warner in the title role, with <a href="/wiki/Richard_Kiley" title="Richard Kiley">Richard Kiley</a> as the aviator, titled as The Pilot. Additional cast members included <a href="/wiki/Bob_Fosse" title="Bob Fosse">Bob Fosse</a> (who <a class="mw-redirect" href="/wiki/Choreographed" title="Choreographed">choreographed</a> his own dance sequence) as The Snake, <a href="/wiki/Gene_Wilder" title="Gene Wilder">Gene Wilder</a> as The Fox, <a href="/wiki/Donna_McKechnie" title="Donna McKechnie">Donna McKechnie</a> as the petulant, vain Rose, <a href="/wiki/Joss_Ackland" title="Joss Ackland">Joss Ackland</a> as The King, and <a href="/wiki/Victor_Spinetti" title="Victor Spinetti">Victor Spinetti</a> as The Historian. The film's desert sequences were shot on location in <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a>. In real life, The Fox's character is believed to be based on one of Saint-Exupéry's lovers, Sylvia Hamilton Reinhardt, with The Rose being attributed to the author's wife, the <a href="/wiki/Consuelo_de_Saint_Exup%C3%A9ry" title="Consuelo de Saint Exupéry">Countess Consuelo de Saint Exupéry</a>.</p>
+<p>The production is notable chiefly in that it marked the third last collaboration of composer <a href="/wiki/Frederick_Loewe" title="Frederick Loewe">Frederick Loewe</a> and lyricist <a href="/wiki/Alan_Jay_Lerner" title="Alan Jay Lerner">Alan Jay Lerner</a>, and was their final musical. The music's creative team were dissatisfied with the film's Hollywood treatment, with Loewe refusing to visit London to supervise the arrangement and recording of the score.</p>
+<p>The film became one of the creative team's last collaborations—they would later reunite to write extra songs for a stage version of <i><a href="/wiki/Gigi_(1958_film)" title="Gigi (1958 film)">Gigi</a></i>.</p>
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit&amp;section=2" title="Edit section: Plot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Based in the 1943 classic <a href="/wiki/The_Little_Prince" title="The Little Prince">book of the same name</a> by <a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry" title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</a>, the <a href="/wiki/Fable" title="Fable">fable</a> tells the story of an <a href="/wiki/Aviation" title="Aviation">aviator</a> (played by <a href="/wiki/Richard_Kiley" title="Richard Kiley">Richard Kiley</a>) forced to make an emergency landing in the <a class="mw-redirect" href="/wiki/Sahara_Desert" title="Sahara Desert">Sahara Desert</a>. There he is befriended by a young boy, the Little Prince, who had descended to Earth from <a href="/wiki/Asteroid" title="Asteroid">Asteroid</a> B-612. In the days that follow, The Pilot hears about his past and various journeys throughout the <a class="mw-redirect" href="/wiki/Solar_system" title="Solar system">solar system</a>.</p>
+<p>As he travels through space, the Little Prince encounters several strange grown-ups on different planetoids, all with a skewed or curious way of looking at life. But it is not until he finally reaches Earth, that the Little Prince learns his most important life lessons of all, mainly from The Fox (<a href="/wiki/Gene_Wilder" title="Gene Wilder">Gene Wilder</a>), and The Snake (<a href="/wiki/Bob_Fosse" title="Bob Fosse">Bob Fosse</a>). Before the Little Prince dies, he shares those lessons with The Pilot.</p>
+<h2><span class="mw-headline" id="Cast">Cast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit&amp;section=3" title="Edit section: Cast">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Richard_Kiley" title="Richard Kiley">Richard Kiley</a> as The Pilot</li>
+<li><a class="new" href="/w/index.php?title=Steven_Warner&amp;action=edit&amp;redlink=1" title="Steven Warner (page does not exist)">Steven Warner</a> as The Little Prince</li>
+<li><a href="/wiki/Bob_Fosse" title="Bob Fosse">Bob Fosse</a> as The Snake</li>
+<li><a href="/wiki/Gene_Wilder" title="Gene Wilder">Gene Wilder</a> as The Fox</li>
+<li><a href="/wiki/Donna_McKechnie" title="Donna McKechnie">Donna McKechnie</a> as The Rose</li>
+<li><a href="/wiki/Joss_Ackland" title="Joss Ackland">Joss Ackland</a> as The King</li>
+<li><a href="/wiki/Graham_Crowden" title="Graham Crowden">Graham Crowden</a> as The General</li>
+<li><a href="/wiki/Victor_Spinetti" title="Victor Spinetti">Victor Spinetti</a> as The Historian</li>
+<li><a href="/wiki/Clive_Revill" title="Clive Revill">Clive Revill</a> as The Businessman</li>
+</ul>
+<p><a href="/wiki/Richard_Burton" title="Richard Burton">Richard Burton</a> was actively pursued for the role of The Pilot. Burton had had a huge success on <a href="/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> with <a href="/wiki/Lerner_and_Loewe" title="Lerner and Loewe">Lerner and Loewe</a>'s musical production <i><a href="/wiki/Camelot_(musical)" title="Camelot (musical)">Camelot</a></i>,but turned down the role in Little Prince.</p>
+<h2><span class="mw-headline" id="Musical_numbers">Musical numbers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit&amp;section=4" title="Edit section: Musical numbers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This is an incomplete listing of musical numbers in the film adaptation:<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<ol>
+<li>"I Need Air (It's A Hat)" - The Pilot, Chorus</li>
+<li>"I'm on Your Side" - The Pilot</li>
+<li>"Be Happy" - The Rose</li>
+<li>"You're a Child" - The King and The Businessman</li>
+<li>"I Never Met a Rose" - The Pilot</li>
+<li>"Why is the Desert" - The Pilot and The Little Prince</li>
+<li>"A Snake in the Grass" - The Snake</li>
+<li>"Closer and Closer and Closer" - The Fox and The Little Prince</li>
+<li>"Little Prince" - The Pilot</li>
+<li>"Finale - The Little Prince" - Chorus</li>
+</ol>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit&amp;section=5" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The film was shot on location in <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a>.</p>
+<p>In 1973, Lerner and Loewe recorded the score at the <a class="mw-redirect" href="/wiki/Palm_Springs_Desert_Museum" title="Palm Springs Desert Museum">Palm Springs Desert Museum</a>, with Lerner on vocals and Loewe at the piano. It included "Matters of Consequence", which was cut from the film. It is one of only a few existing recordings of the duo performing together.</p>
+<p>The film had production design by <a href="/wiki/John_Barry_(set_designer)" title="John Barry (set designer)">John Barry</a> (not to be confused with composer <a href="/wiki/John_Barry_(composer)" title="John Barry (composer)">John Barry</a>, who later composed a failed musical-adaptation of <i>The Little Prince</i> for <a href="/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a>).</p>
+<h2><span class="mw-headline" id="Soundtrack">Soundtrack</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit&amp;section=6" title="Edit section: Soundtrack">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <a href="/wiki/Soundtrack_album" title="Soundtrack album">soundtrack album</a> was released by <a href="/wiki/ABC_Records" title="ABC Records">ABC Records</a>. It is available in <a href="/wiki/Compact_disc" title="Compact disc">CD</a> format on the <a href="/wiki/Decca_Records" title="Decca Records">Decca Records</a> label.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_The_Little_Prince_adaptations" title="List of The Little Prince adaptations">List of <i>The Little Prince</i> adaptations</a>, a listing of <i>The Little Prince</i> story adapted into various media.</li>
+<li><a href="/wiki/The_Little_Prince_(play)" title="The Little Prince (play)"><i>The Little Prince</i> (play)</a>, a theatrical adaptation</li>
+<li><a href="/wiki/The_Little_Prince_(opera)" title="The Little Prince (opera)"><i>The Little Prince</i> (opera)</a>, an opera in two acts by Rachel Portman to an English libretto by Nicholas Wright</li>
+<li><a href="/wiki/The_Adventures_of_the_Little_Prince_(TV_series)" title="The Adventures of the Little Prince (TV series)"><i>The Adventures of The Little Prince</i> (TV series)</a>, an anime series</li>
+<li><i><a href="/wiki/The_Little_Prince_and_the_Aviator" title="The Little Prince and the Aviator">The Little Prince and the Aviator</a></i>, a 1981 musical theatre adaptation</li>
+<li><a href="/wiki/Category:Antoine_de_Saint-Exup%C3%A9ry" title="Category:Antoine de Saint-Exupéry">Antoine de Saint-Exupéry category listing of articles</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Citations</b></p>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Block, Geoffrey. "Loewe, Frederick." In <i>Grove Music Online</i>. <i>Oxford Music Online</i>, Oxford University Press. Accessed August 4, 2009.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Winn, Steven. "<a class="external text" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/04/27/PKLA105TEK.DTL&amp;feed=rss.entertainment#ixzz0NB1aZgfn" rel="nofollow">Little Prince' Opera Comes To Berkeley</a>" <i>San Francisco Chronicle</i>. April 27, 2008. p.N–20. Accessed August 4, 2009.</span></li>
+<li id="cite_note-Galembert-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Galembert_3-0">^</a></b></span> <span class="reference-text">Galembert, Laurent de Bodin de (2000) <a class="external text" href="http://nitescence.free.fr/maitrise.pdf" rel="nofollow"><i>Idée, Idéalisme et Idéologie Dons les Oeuvres Choisies de Saint Exupéry</i> (thèse)</a>, Université Paris IV, 29 Juin 2000, p.13. <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(French)</span></span></li>
+<li id="cite_note-FOOTNOTESchiff2006379-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESchiff2006379_4-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSchiff2006">Schiff (2006)</a>, p. 379.</span></li>
+<li id="cite_note-lepetitprincenet-gallimard-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-lepetitprincenet-gallimard_5-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.lepetitprince.net/sub_1945/1945gallimard-E.html" rel="nofollow">"Le Petit Prince - 1945 - Gallimard."</a> <i>lepetitprince.net</i>. Retrieved: 26 October 2011. Note: although Saint-Exupéry's French publisher (at the time of his death) lists <i>Le Petit Prince</i> as being published in 1946, that apparently is a legalistic interpretation possibly designed to allow for an extra year of the novella's copyright protection period, and is based on Gallimard's explanation that sales of the book started only in 1946. Other sources, such as this one, depict the first Librairie Gallimard printing of 12,250 copies as occurring on 30 November 1945.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.imdb.com/title/tt0071762/soundtrack" rel="nofollow">The Little Prince</a>, IMDB website listing.</span></li>
+</ol>
+</div>
+<p><b>Bibliography</b></p>
+<ul>
+<li><a href="/wiki/Stacy_Schiff" title="Stacy Schiff">Schiff, Stacy</a> (1994) <a class="external text" href="http://books.google.ca/books?id=2G4Q_GNpCUMC" rel="nofollow"><i>Saint-Exupéry: A Biography</i></a>, (1994) Pimlico; (1996) Da Capo; (2006) Henry Holt, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780679403104">ISBN 978-0-679-40310-4</a>, <a class="internal mw-magiclink-isbn" href="/wiki/Special:BookSources/9780805079135">ISBN 978-0-8050-7913-5</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.imdb.com/title/tt0071762/" rel="nofollow"><i>The Little Prince</i></a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+<li><a class="external text" href="http://www.allmovie.com/movie/v29587" rel="nofollow"><i>The Little Prince</i></a> at <a href="/wiki/AllMovie" title="AllMovie">AllMovie</a></li>
+<li><a class="external text" href="http://www.bluedalmatian.bluegrasswest.com/blue_dal/public_html/little_prince.htm/" rel="nofollow">Lerner &amp; Loewe recording</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Stanley_Donen" title="Template:Stanley Donen"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Stanley_Donen" title="Template talk:Stanley Donen"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Stanley_Donen&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Films directed by <a href="/wiki/Stanley_Donen" title="Stanley Donen">Stanley Donen</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/On_the_Town_(film)" title="On the Town (film)">On the Town</a></i> (1949)</li>
+<li><i><a href="/wiki/Royal_Wedding" title="Royal Wedding">Royal Wedding</a></i> (1951)</li>
+<li><i><a href="/wiki/Love_Is_Better_Than_Ever" title="Love Is Better Than Ever">Love Is Better Than Ever</a></i> (1952)</li>
+<li><i><a href="/wiki/Singin%27_in_the_Rain" title="Singin' in the Rain">Singin' in the Rain</a></i> (1952)</li>
+<li><i><a href="/wiki/Fearless_Fagan" title="Fearless Fagan">Fearless Fagan</a></i> (1952)</li>
+<li><i><a href="/wiki/Give_a_Girl_a_Break" title="Give a Girl a Break">Give a Girl a Break</a></i> (1953)</li>
+<li><i><a href="/wiki/Seven_Brides_for_Seven_Brothers" title="Seven Brides for Seven Brothers">Seven Brides for Seven Brothers</a></i> (1954)</li>
+<li><i><a href="/wiki/Deep_in_My_Heart_(1954_film)" title="Deep in My Heart (1954 film)">Deep in My Heart</a></i> (1954)</li>
+<li><i><a href="/wiki/It%27s_Always_Fair_Weather" title="It's Always Fair Weather">It's Always Fair Weather</a></i> (1955)</li>
+<li><i><a href="/wiki/Funny_Face" title="Funny Face">Funny Face</a></i> (1957)</li>
+<li><i><a href="/wiki/The_Pajama_Game_(film)" title="The Pajama Game (film)">The Pajama Game</a></i> (1957)</li>
+<li><i><a href="/wiki/Kiss_Them_for_Me_(film)" title="Kiss Them for Me (film)">Kiss Them for Me</a></i> (1957)</li>
+<li><i><a href="/wiki/Indiscreet_(1958_film)" title="Indiscreet (1958 film)">Indiscreet</a></i> (1958)</li>
+<li><i><a href="/wiki/Damn_Yankees_(film)" title="Damn Yankees (film)">Damn Yankees</a></i> (1958)</li>
+<li><i><a href="/wiki/Once_More,_with_Feeling!" title="Once More, with Feeling!">Once More, with Feeling!</a></i> (1960)</li>
+<li><i><a href="/wiki/Surprise_Package_(film)" title="Surprise Package (film)">Surprise Package</a></i> (1960)</li>
+<li><i><a href="/wiki/The_Grass_Is_Greener" title="The Grass Is Greener">The Grass Is Greener</a></i> (1960)</li>
+<li><i><a href="/wiki/Charade_(1963_film)" title="Charade (1963 film)">Charade</a></i> (1963)</li>
+<li><i><a href="/wiki/Arabesque_(1966_film)" title="Arabesque (1966 film)">Arabesque</a></i> (1966)</li>
+<li><i><a href="/wiki/Two_for_the_Road_(film)" title="Two for the Road (film)">Two for the Road</a></i> (1967)</li>
+<li><i><a href="/wiki/Bedazzled_(1967_film)" title="Bedazzled (1967 film)">Bedazzled</a></i> (1967)</li>
+<li><i><a href="/wiki/Staircase_(film)" title="Staircase (film)">Staircase</a></i> (1969)</li>
+<li><i><strong class="selflink">The Little Prince</strong></i> (1974)</li>
+<li><i><a href="/wiki/Lucky_Lady" title="Lucky Lady">Lucky Lady</a></i> (1975)</li>
+<li><i><a href="/wiki/Movie_Movie" title="Movie Movie">Movie Movie</a></i> (1978)</li>
+<li><i><a href="/wiki/Saturn_3" title="Saturn 3">Saturn 3</a></i> (1980)</li>
+<li><i><a href="/wiki/Blame_It_on_Rio" title="Blame It on Rio">Blame It on Rio</a></i> (1984)</li>
+<li><i><a href="/wiki/Love_Letters_(1999_film)" title="Love Letters (1999 film)">Love Letters</a></i> (1999)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lerner_and_Loewe" title="Template:Lerner and Loewe"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lerner_and_Loewe" title="Template talk:Lerner and Loewe"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lerner_and_Loewe&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Lerner_and_Loewe" title="Lerner and Loewe">Lerner and Loewe</a> <a href="/wiki/Musical_theatre" title="Musical theatre">musicals</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Theatre</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/What%27s_Up%3F_(musical)" title="What's Up? (musical)">What's Up?</a></i></li>
+<li><i><a href="/wiki/The_Day_Before_Spring" title="The Day Before Spring">The Day Before Spring</a></i></li>
+<li><i><a href="/wiki/Brigadoon" title="Brigadoon">Brigadoon</a></i></li>
+<li><i><a href="/wiki/Camelot_(musical)" title="Camelot (musical)">Camelot</a></i></li>
+<li><i><a href="/wiki/Gigi_(musical)" title="Gigi (musical)">Gigi</a></i></li>
+<li><i><a href="/wiki/My_Fair_Lady" title="My Fair Lady">My Fair Lady</a></i></li>
+<li><i><a href="/wiki/Paint_Your_Wagon_(musical)" title="Paint Your Wagon (musical)">Paint Your Wagon</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Film</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Brigadoon_(film)" title="Brigadoon (film)">Brigadoon</a></i></li>
+<li><i><a href="/wiki/Gigi_(1958_film)" title="Gigi (1958 film)">Gigi</a></i></li>
+<li><i><a href="/wiki/My_Fair_Lady_(film)" title="My Fair Lady (film)">My Fair Lady</a></i></li>
+<li><i><a href="/wiki/Camelot_(film)" title="Camelot (film)">Camelot</a></i></li>
+<li><i><a href="/wiki/Paint_Your_Wagon_(film)" title="Paint Your Wagon (film)">Paint Your Wagon</a></i></li>
+<li><i><strong class="selflink">The Little Prince</strong></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Antoine_de_Saint-Exup%C3%A9ry" title="Template:Antoine de Saint-Exupéry"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Antoine_de_Saint-Exup%C3%A9ry" title="Template talk:Antoine de Saint-Exupéry"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Antoine_de_Saint-Exup%C3%A9ry&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry" title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry" title="Antoine de Saint-Exupéry">Life</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry" title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</a></li>
+<li><a href="/wiki/Aeroposta_Argentina" title="Aeroposta Argentina">Aeroposta Argentina (airline)</a></li>
+<li><a href="/wiki/A%C3%A9ropostale_(aviation)" title="Aéropostale (aviation)">Aéropostale (airline)</a></li>
+<li><a href="/wiki/Delamater-Bevin_Mansion" title="Delamater-Bevin Mansion">Bevin Mansion</a></li>
+<li><a class="mw-redirect" href="/wiki/Campeche,_Santa_Catarina" title="Campeche, Santa Catarina">Campeche (Florianópolis), Brazil</a></li>
+<li><a href="/wiki/Carqueiranne" title="Carqueiranne">Carqueiranne</a></li>
+<li><a href="/wiki/Charles_De_Koninck" title="Charles De Koninck">De Koninck, Charles</a></li>
+<li><a href="/wiki/Didier_Daurat" title="Didier Daurat">Didier Daurat</a></li>
+<li><a href="/wiki/Fernand_Holweck" title="Fernand Holweck">Holweck, Fernand</a></li>
+<li><a href="/wiki/Jean_Isra%C3%ABl" title="Jean Israël">Israël, Jean</a></li>
+<li><a href="/wiki/Northwest_African_Photographic_Reconnaissance_Wing" title="Northwest African Photographic Reconnaissance Wing">Northwest African Photographic Reconnaissance Wing</a></li>
+<li><a href="/wiki/Opp%C3%A8de" title="Oppède">Oppède</a></li>
+<li><a href="/wiki/Consuelo_de_Saint_Exup%C3%A9ry" title="Consuelo de Saint Exupéry">Saint Exupéry, Consuelo de</a> (wife)</li>
+<li><a class="extiw" href="//fr.wikipedia.org/wiki/Marie-Madeleine_de_Saint_Exup%C3%A9ry" title="fr:Marie-Madeleine de Saint Exupéry">Saint Exupéry, Marie-Madeleine de</a> (sister)</li>
+<li><a href="/wiki/Patrick_de_Saint-Exup%C3%A9ry" title="Patrick de Saint-Exupéry">Saint-Exupéry, Patrick de</a> (cousin)</li>
+<li><a class="extiw" href="//fr.wikipedia.org/wiki/Simone_de_Saint-Exup%C3%A9ry" title="fr:Simone de Saint-Exupéry">Saint-Exupéry, Simone de</a> (sister)</li>
+<li><a href="/wiki/Tarfaya" title="Tarfaya">Tarfaya</a></li>
+<li><a href="/wiki/Wadi_El_Natrun" title="Wadi El Natrun">Wadi El Natrun</a></li>
+<li><a href="/wiki/L%C3%A9on_Werth" title="Léon Werth">Werth, Léon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry#Literary_works" title="Antoine de Saint-Exupéry">Works</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/A_Sense_of_Life" title="A Sense of Life">A Sense of Life</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Carnets" title="fr:Carnets">Carnets</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Courrier_sud" title="fr:Courrier sud">Courrier sud</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/%C3%89crits_de_guerre" title="fr:Écrits de guerre">Écrits de guerre, 1939–1944</a></i></li>
+<li><i><a href="/wiki/Flight_to_Arras" title="Flight to Arras">Flight to Arras</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/L%27Aviateur" title="fr:L'Aviateur">L'Aviateur</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Le_Petit_Prince" title="fr:Le Petit Prince">Le Petit Prince</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Lettres_%C3%A0_l%27inconnue" title="fr:Lettres à l'inconnue">Lettres à l'inconnue</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Lettres_%C3%A0_sa_m%C3%A8re" title="fr:Lettres à sa mère">Lettres à sa mère</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Lettre_%C3%A0_un_otage" title="fr:Lettre à un otage">Lettre à un otage</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Lettres_%C3%A0_une_jeune_fille" title="fr:Lettres à une jeune fille">Lettres à une jeune fille</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Lettres_de_jeunesse" title="fr:Lettres de jeunesse">Lettres de jeunesse, 1923–1931</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Manon,_danseuse" title="fr:Manon, danseuse">Manon, danseuse</a></i></li>
+<li><a href="/wiki/Night_Flight_(novel)" title="Night Flight (novel)"><i>Night Flight</i> (novel)</a></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Pilote_de_guerre" title="fr:Pilote de guerre">Pilote de guerre</a></i></li>
+<li><a href="/wiki/The_Aviator_(short_story)" title="The Aviator (short story)"><i>The Aviator</i> (short story)</a></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Terre_des_hommes" title="fr:Terre des hommes">Terre des hommes</a></i></li>
+<li><i><a href="/wiki/The_Little_Prince" title="The Little Prince">The Little Prince</a></i></li>
+<li><i><a class="extiw" href="//fr.wikipedia.org/wiki/Vol_de_nuit" title="fr:Vol de nuit">Vol de nuit</a></i></li>
+<li><i><a href="/wiki/Wind,_Sand_and_Stars" title="Wind, Sand and Stars">Wind, Sand and Stars</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/List_of_The_Little_Prince_adaptations" title="List of The Little Prince adaptations">Adaptations</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/The_Adventures_of_the_Little_Prince_(TV_series)" title="The Adventures of the Little Prince (TV series)"><i>Adventures of the Little Prince</i> (TV series)</a></li>
+<li><a href="/wiki/List_of_The_Little_Prince_adaptations" title="List of The Little Prince adaptations">List of The Little Prince adaptations</a></li>
+<li><a href="/wiki/Night_Flight_(1933_film)" title="Night Flight (1933 film)"><i>Night Flight</i> (1933 film)</a></li>
+<li><strong class="selflink"><i>The Little Prince</i> (1974 film)</strong></li>
+<li><a href="/wiki/The_Little_Prince_(2015_film)" title="The Little Prince (2015 film)"><i>The Little Prince</i> (2015 film)</a></li>
+<li><a href="/wiki/The_Little_Prince_(opera)" title="The Little Prince (opera)"><i>The Little Prince</i> (opera)</a></li>
+<li><a href="/wiki/The_Little_Prince_(play)" title="The Little Prince (play)"><i>The Little Prince</i> (play)</a></li>
+<li><i><a href="/wiki/The_Little_Prince_and_the_Aviator" title="The Little Prince and the Aviator">The Little Prince and the Aviator</a></i></li>
+<li><a href="/wiki/R.U.R.U.R." title="R.U.R.U.R.">R.U.R.U.R.</a></li>
+<li><i><a href="/wiki/The_Adventures_of_the_Little_Prince_(TV_series)" title="The Adventures of the Little Prince (TV series)">The Adventures of the Little Prince</a></i></li>
+<li><i><a href="/wiki/Volo_di_notte" title="Volo di notte">Volo di notte</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row"><a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry#Honours_and_legacy" title="Antoine de Saint-Exupéry">Tributes</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2578_Saint-Exup%C3%A9ry" title="2578 Saint-Exupéry">2578 Saint-Exupéry</a></li>
+<li><a href="/wiki/46610_Besixdouze" title="46610 Besixdouze">46610 Besixdouze</a></li>
+<li><a href="/wiki/45_Eugenia" title="45 Eugenia">45 Eugenia</a></li>
+<li><a href="/wiki/Aguja_Saint_Exupery" title="Aguja Saint Exupery">Aguja Saint Exupery</a></li>
+<li><a href="/wiki/Antoine_de_Saint_Exup%C3%A9ry_Airport" title="Antoine de Saint Exupéry Airport">Antoine de Saint Exupéry Airport, Argentina</a></li>
+<li><a href="/wiki/B612_Foundation" title="B612 Foundation">B612 Foundation</a></li>
+<li><a href="/wiki/Gare_de_Lyon_Saint-Exup%C3%A9ry" title="Gare de Lyon Saint-Exupéry">Gare de Lyon Saint-Exupéry</a></li>
+<li><a class="mw-redirect" href="/wiki/Lyon-Saint_Exup%C3%A9ry_Airport" title="Lyon-Saint Exupéry Airport">Lyon-Saint Exupéry Airport</a></li>
+<li><a href="/wiki/Petit-Prince_(moon)" title="Petit-Prince (moon)">Petit-Prince (moon)</a></li>
+<li><a href="/wiki/Place_Bellecour" title="Place Bellecour">Place Bellecour, Lyon, France</a></li>
+<li><a href="/wiki/Gabrielle_Roy" title="Gabrielle Roy">Roy, Gabrielle</a></li>
+<li><i><a href="/wiki/Saint-Ex" title="Saint-Ex">Saint-Ex</a></i> (biopic)</li>
+<li><a href="/wiki/Terre_des_hommes" title="Terre des hommes">Terre des hommes</a></li>
+<li><i><a href="/wiki/Wings_of_Courage" title="Wings of Courage">Wings of Courage</a></i> (biopic)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:The_Little_Prince" title="Template:The Little Prince"><span style=";;background:none transparent;border:none;" title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:The_Little_Prince" title="Template talk:The Little Prince"><span style=";;background:none transparent;border:none;" title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:The_Little_Prince&amp;action=edit"><span style=";;background:none transparent;border:none;" title="Edit this template">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry" title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</a>'s <i><a href="/wiki/The_Little_Prince" title="The Little Prince">The Little Prince</a></i> (1943)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Screen</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><strong class="selflink">The Little Prince</strong></i> (1974 film)</li>
+<li><i><a href="/wiki/The_Adventures_of_the_Little_Prince_(TV_series)" title="The Adventures of the Little Prince (TV series)">The Adventures of the Little Prince</a></i> (1978 TV series)</li>
+<li><i><a href="/wiki/The_Little_Prince_(2010_TV_series)" title="The Little Prince (2010 TV series)">The Little Prince</a></i> (2010 TV series)</li>
+<li><i><a href="/wiki/The_Little_Prince_(2015_film)" title="The Little Prince (2015 film)">The Little Prince</a></i> (2015 film)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Stage</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Little_Prince_and_the_Aviator" title="The Little Prince and the Aviator">The Little Prince and the Aviator</a></i> (1981 musical)</li>
+<li><i><a href="/wiki/The_Little_Prince_(play)" title="The Little Prince (play)">The Little Prince</a></i> (2000 play)</li>
+<li><i><a href="/wiki/The_Little_Prince_(opera)" title="The Little Prince (opera)">The Little Prince</a></i> (2003 opera)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Video game</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Little_King%27s_Story" title="Little King's Story">Little King's Story</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Related</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_The_Little_Prince_adaptations" title="List of The Little Prince adaptations">Adaptations</a></li>
+<li><i><a href="/wiki/Eloise_at_the_Plaza" title="Eloise at the Plaza">Eloise at the Plaza</a></i></li>
+<li><i><a href="/wiki/Picture_Claire" title="Picture Claire">Picture Claire</a></i></li>
+<li><a href="/wiki/Little_Prince_(sculpture)" title="Little Prince (sculpture)"><i>Little Prince</i> (sculpture)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1252
+CPU time usage: 0.197 seconds
+Real time usage: 0.259 seconds
+Preprocessor visited node count: 1059/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 48758/2097152 bytes
+Template argument size: 1321/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 1/500
+Lua time usage: 0.045/10.000 seconds
+Lua memory usage: 1.55 MB/50 MB
+-->
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  165.036      1 - -total
+ 36.77%   60.688      1 - Template:Infobox_film
+ 34.39%   56.750      1 - Template:Infobox
+ 21.11%   34.842      1 - Template:Reflist
+ 15.98%   26.372      1 - Template:Fr-icon
+ 14.17%   23.387      1 - Template:Language_icon
+ 13.86%   22.866      1 - Template:IMDb_title
+ 13.38%   22.078      4 - Template:Navbox
+ 10.74%   17.732      1 - Template:Category_handler
+  9.99%   16.493      1 - Template:Film_date
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1937414-0!*!0!!en!4!* and timestamp 20150209144519 and revision id 636759640
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Little_Prince_(1974_film)&amp;oldid=636759640">http://en.wikipedia.org/w/index.php?title=The_Little_Prince_(1974_film)&amp;oldid=636759640</a>"					</div>
+<div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1974_films" title="Category:1974 films">1974 films</a></li><li><a href="/wiki/Category:English-language_films" title="Category:English-language films">English-language films</a></li><li><a href="/wiki/Category:1970s_musical_films" title="Category:1970s musical films">1970s musical films</a></li><li><a href="/wiki/Category:American_children%27s_films" title="Category:American children's films">American children's films</a></li><li><a href="/wiki/Category:American_musical_films" title="Category:American musical films">American musical films</a></li><li><a href="/wiki/Category:American_science_fiction_films" title="Category:American science fiction films">American science fiction films</a></li><li><a href="/wiki/Category:British_science_fiction_films" title="Category:British science fiction films">British science fiction films</a></li><li><a href="/wiki/Category:Elstree_Studios_films" title="Category:Elstree Studios films">Elstree Studios films</a></li><li><a href="/wiki/Category:Films_directed_by_Stanley_Donen" title="Category:Films directed by Stanley Donen">Films directed by Stanley Donen</a></li><li><a href="/wiki/Category:Aviation_films" title="Category:Aviation films">Aviation films</a></li><li><a href="/wiki/Category:Films_based_on_novels" title="Category:Films based on novels">Films based on novels</a></li><li><a href="/wiki/Category:Films_set_in_Africa" title="Category:Films set in Africa">Films set in Africa</a></li><li><a href="/wiki/Category:Films_shot_in_Tunisia" title="Category:Films shot in Tunisia">Films shot in Tunisia</a></li><li><a href="/wiki/Category:Musical_fantasy_films" title="Category:Musical fantasy films">Musical fantasy films</a></li><li><a href="/wiki/Category:Paramount_Pictures_films" title="Category:Paramount Pictures films">Paramount Pictures films</a></li><li><a href="/wiki/Category:Adaptations_of_works_by_Antoine_de_Saint-Exup%C3%A9ry" title="Category:Adaptations of works by Antoine de Saint-Exupéry">Adaptations of works by Antoine de Saint-Exupéry</a></li><li><a href="/wiki/Category:British_musical_films" title="Category:British musical films">British musical films</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li><li><a href="/wiki/Category:All_film_articles_using_the_film_date_template" title="Category:All film articles using the film date template">All film articles using the film date template</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Little+Prince+%281974+film%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Little+Prince+%281974+film%29" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/The_Little_Prince_(1974_film)" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:The_Little_Prince_(1974_film)" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/The_Little_Prince_(1974_film)">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=history" title="Past versions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if one exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li>
+<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+<li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li>
+<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+<li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li>
+<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/The_Little_Prince_(1974_film)" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li>
+<li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/The_Little_Prince_(1974_film)" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
+<li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
+<li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;oldid=636759640" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-info"><a href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;action=info" title="More information about this page">Page information</a></li>
+<li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q1199280" title="Link to connected data repository item [g]">Wikidata item</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Little_Prince_%281974_film%29&amp;id=636759640" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Little+Prince+%281974+film%29">Create a book</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Little+Prince+%281974+film%29&amp;oldid=636759640&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="t-print"><a accesskey="p" href="/w/index.php?title=The_Little_Prince_(1974_film)&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
+</ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/The_Little_Prince" hreflang="ca" lang="ca" title="The Little Prince – Catalan">Català</a></li>
+<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Der_kleine_Prinz_(1974)" hreflang="de" lang="de" title="Der kleine Prinz (1974) – German">Deutsch</a></li>
+<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/El_principito_(pel%C3%ADcula)" hreflang="es" lang="es" title="El principito (película) – Spanish">Español</a></li>
+<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B2%D8%AF%D9%87_%DA%A9%D9%88%DA%86%D9%88%D9%84%D9%88_(%D9%81%DB%8C%D9%84%D9%85_%DB%B1%DB%B9%DB%B7%DB%B4_%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" hreflang="fa" lang="fa" title="شازده کوچولو (فیلم ۱۹۷۴ میلادی) – Persian">فارسی</a></li>
+<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Le_Petit_Prince_(film,_1974)" hreflang="fr" lang="fr" title="Le Petit Prince (film, 1974) – French">Français</a></li>
+<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Il_piccolo_principe_(film)" hreflang="it" lang="it" title="Il piccolo principe (film) – Italian">Italiano</a></li>
+<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/The_Little_Prince" hreflang="nl" lang="nl" title="The Little Prince – Dutch">Nederlands</a></li>
+<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E6%98%9F%E3%81%AE%E7%8E%8B%E5%AD%90%E3%81%95%E3%81%BE_(1974%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)" hreflang="ja" lang="ja" title="星の王子さま (1974年の映画) – Japanese">日本語</a></li>
+<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ma%C5%82y_Ksi%C4%85%C5%BC%C4%99_(film)" hreflang="pl" lang="pl" title="Mały Książę (film) – Polish">Polski</a></li>
+<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/The_Little_Prince_(filme)" hreflang="pt" lang="pt" title="The Little Prince (filme) – Portuguese">Português</a></li>
+<li class="uls-p-lang-dummy"><a href="#"></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" class="wbc-editpage" href="//www.wikidata.org/wiki/Q1199280#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last modified on 5 December 2014, at 14:42.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=The_Little_Prince_(1974_film)&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
+</li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</div>
+
+
+
+
+</body>
+</html>

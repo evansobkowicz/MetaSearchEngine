@@ -1,0 +1,15 @@
+Title: The Little Prince » The official Website – News, Games, TV Shows, Community, Biography…
+Date: Mon, 09 Feb 2015 19:44:01 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://www.thelittleprince.com/xmlrpc.php
+Set-Cookie: wptouch-pro-cache-state=desktop; expires=Mon, 09-Feb-2015 20:44:02 GMT; path=/
+Set-Cookie: PHPSESSID=j3d9jomelhe0eemb2301lq94a4; path=/
+X-Powered-By: PleskLin
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+

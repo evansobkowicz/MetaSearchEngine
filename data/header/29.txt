@@ -1,0 +1,12 @@
+Title: The Little Prince by Antoine De Saint-Exupery - Writer''s Edit
+Server: nginx
+Date: Mon, 09 Feb 2015 19:44:09 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 50032
+Connection: close
+Vary: Accept-Encoding
+Last-Modified: Mon, 09 Feb 2015 18:57:28 GMT
+Vary: Accept-Encoding,Cookie
+ngpass_ngall: 1
+Accept-Ranges: bytes
+
