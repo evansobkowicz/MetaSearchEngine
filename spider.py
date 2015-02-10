@@ -22,7 +22,7 @@ class Spider:
         # Read and parse the response using BeautifulSoup
         html = response.read().decode('utf-8', errors='ignore')
         soup = BeautifulSoup(html)
-        [x.extract() for x in soup.findAll('script')] # Strip all script tags
+        [x.extract() for x in soup.findAll('script', 'iframe', 'style', 'link')] # Strip all unneeded tags
 
         # Get Title, with error handling for no head, and no title
         if (soup.html is not None) and (soup.html.head is not None) and (soup.html.head.title is not None):
