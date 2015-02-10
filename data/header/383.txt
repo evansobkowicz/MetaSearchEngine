@@ -1,9 +1,0 @@
-Title: Alice in Wonderland – Ben Curtis Jones
-Date: Mon, 09 Feb 2015 23:41:13 GMT
-Server: Apache
-X-Pingback: http://bencurtisjones.com/xmlrpc.php
-Link: <http://bencurtisjones.com/?p=1658>; rel=shortlink
-Connection: close
-Transfer-Encoding: chunked
-Content-Type: text/html; charset=UTF-8
-

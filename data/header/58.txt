@@ -1,17 +1,20 @@
-Title: The One Ring Explained. (Lord of the Rings Mythology Part 2) - YouTube
-Date: Mon, 09 Feb 2015 20:42:45 GMT
-Server: gwiseguy/2.0
+Title: And Then There Were None - Wikipedia, the free encyclopedia
+Server: Apache
 X-Content-Type-Options: nosniff
-Expires: Tue, 27 Apr 1971 19:44:06 EST
-Content-Type: text/html; charset=utf-8
-Cache-Control: no-cache
-P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
-Set-Cookie: VISITOR_INFO1_LIVE=wN5ZRccfQpM; expires=Sun, 11-Oct-2015 08:35:45 GMT; path=/; domain=.youtube.com
-Set-Cookie: YSC=MUE3FhQTJsg; path=/; domain=.youtube.com; HttpOnly
-Alternate-Protocol: 443:quic,p=0.02
-Accept-Ranges: none
-Vary: Accept-Encoding
+X-Analytics: page_id=18949410; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sat, 31 Jan 2015 22:31:41 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 2629905101 2603720766, 2327749514 1768242930
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Tue, 10 Feb 2015 15:03:02 GMT
+Age: 501663
 Connection: close
+X-Cache: cp1066 hit (2), cp1053 frontend hit (387)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

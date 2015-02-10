@@ -1,660 +1,1161 @@
 <!DOCTYPE html>
 
-<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+<html class="desktop">
 <head>
-<meta charset="utf-8">
-<title>The Little Prince by Antoine De Saint-Exupery - Writer's Edit</title>
-<link href="http://149.47.131.252/~writers3/wp-content/uploads/2014/09/WritersEditFavicon01.jpg" rel="icon" type="image/x-icon"/>
-<!--iOS/android/handheld specific -->
-<link href="apple-touch-icon.png" rel="apple-touch-icon">
-<meta content="width=device-width, initial-scale=1.0" name="viewport">
-<meta content="yes" name="apple-mobile-web-app-capable">
-<meta content="black" name="apple-mobile-web-app-status-bar-style">
-<link href="http://www.writersedit.com/wp-content/themes/metro/style.css" media="all" rel="stylesheet" type="text/css"/> <!-- hardcoded, loads parent-theme style.css, not child-theme style.css -->
-<link href="http://www.writersedit.com/xmlrpc.php" rel="pingback"/>
+<meta content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" name="google-site-verification"/>
+<title>The Little Prince Quotes by Antoine de Saint-Exupéry</title>
+<meta content="515 quotes from The Little Prince: ‘And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essentia..." name="description">
+<meta content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=" name="verify-v1">
+<meta content="app-id=355833469" name="apple-itunes-app">
+
+<link href="http://s.gr-assets.com/assets/goodreads-caa570cd2b08f001438bb5ac5fe5e7c2.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<meta content="authenticity_token" name="csrf-param"/>
+<meta content="yMtzda2ZdrScPDW9BJfKk6EgI0auGw+u3hU/APaL01wWBiEVAyWrUgJZZPk6uU8Q/bvbEgZ2A3rpmBfmoJw+4w==" name="csrf-token"/>
+<meta content="0HSWNEFZDH11AZCVDTW3" name="request-id"/>
+<link href="http://www.goodreads.com/work/quotes/2180358-le-petit-prince" rel="canonical"/>
+<!--[if lte IE 6]>
+    <link href="http://s.gr-assets.com/assets/ie6-cc52aa7387334f5af5c4030b6967aeae.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+//<![CDATA[
+
+      try {
+        document.execCommand("BackgroundImageCache", false, true);
+      }
+      catch(err) {}
+
+//]]>
+</script>  <![endif]-->
 <!--[if lt IE 9]>
-	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-<!--start fonts-->
-<link href="http://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet" type="text/css">
-<style type="text/css">
-#header_area, .headline_area h1, .headline_area h2, h1, h2, h3, h4, h5, h6, .sidebar h3, #footer_setup h3, .total-comments, .flex-caption .slidertitle, .title, .main-navigation li a, .secondary-navigation a, #tabber ul.tabs li a, #tabber .inside li div.info .entry-title, #gallery-slider-header span, .category-head { font-family: 'Raleway', Arial, sans-serif!important; }
-</style>
-<link href="http://fonts.googleapis.com/css?family=Raleway:400,400italic,700,700italic" rel="stylesheet" type="text/css">
-<style type="text/css">
-body {font-family: 'Raleway', sans-serif;}
-</style>
-<!--end fonts-->
+    <link href="http://s.gr-assets.com/assets/ie-359aa440eb656520ac599b277282c9da.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+<!--[if lt IE 8]>
+    <link href="http://s.gr-assets.com/assets/common_images_ie-7e02aa56087d0ffa4d957885fe28af2c.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+<!--[if gte IE 8]><!-->
+<link href="http://s.gr-assets.com/assets/common_images-f3d5973863608a51d0a0cdb6ac9ab82e.css" media="screen" rel="stylesheet" type="text/css"/>
+<!--<![endif]-->
 
 
 
-<!--start slider-->
-<!--end slider-->
-<style type="text/css">
-		body {
-			background-color:#D6E1E6;
-			}
-				body {
-		background-image: url(http://www.writersedit.com/wp-content/themes/metro/images/pattern1.png);
-		}
-			
-				.secondary-navigation a:hover, #navigation ul li li:hover > a, .popular-posts li:hover, .category-head-odd, .currenttext, .pagination a:hover, #commentform input#submit, .flex-control-nav li a:hover, .flex-control-nav li .active {
-			background:#444444;
-			}
-			a:hover, #single-post-wrapper a, .title a:hover, #navigation ul li a:hover {
-			color:#444444;
-			}
-			.currenttext, .pagination a:hover, .secondary-navigation ul li a:hover { border-color:#444444; }
-					.category-head-even{
-			background:#858282;
-			}
-	
-				body {
-		font-family: 'Raleway', Arial, sans-serif;
-		}
-		
-		
-	@import url(http://fonts.googleapis.com/css?family=Raleway:400,300);
 
-/* Fixes the width of the PopupAlly Plugin, subscribe form at the bottom of the post */
-
-#popup-embedded-box-sxzw-1.popupally-outer-embedded-sxzw-1 {
-width: 100% !important;
-margin: 50px auto 5px !important;
-}
-
-/* Remove top navigation bar */
-
-.main-navigation {
-display: none;
-}
-
-/* Change container colour to white & add shadow */
-
-.main-container {
-background-color: white;
-box-shadow: 0px 0px 20px #808080;
-}
-
-/* Position logo */
-
-#header {
-text-align: center;
-margin: 5px 0 -25px 0;
-}
-
-#header h1, #header h2 {
-float: none;
-}
-
-/* Change colour of & center menu */
-
-.secondary-navigation {
-background-color: #444444;
-overflow:visible;
-}
-
-#navigation {
-/* text-align: center; */
-margin-left:10%;
-}
-
-#navigation ul {
-float: none;
-}
-
-/* Wrap menu around container */
-
-.secondary-navigation {
-width: 111.2%;
-margin-left: -53px;
-}
-
-/* changes category headings from bold to not bold */
-
-.category-head {
-font-weight: normal;
-}
-
-/* amends all sub-headers font-sizes */
-
-h2 {
-font-size: 18px;
-}
-
-h3 {
-font-size: 16px;
-}
-
-h4 {
-font-size: 14px;
-}
-
-h5 {
-font-size: 12px;
-}
-
-h6 {
-font-size: 10px;
-}
-
-/* makes content links more distinctive from content */
-
-.post-content a {
-text-decoration: underline !important;
-}
-
-/* makes images caption more distinctive */
-
-.wp-caption-text {
-font-size: 12px;
-font-style: italic;
-width:90%;
-}
-
-/* removes bullet points from feed on jobs page */
-
-li.feed-item {
-list-style-type: none;
-}
-
-/*Fixes images on WooCommerce Product Pages */
-
-.woocommerce div.product div.images img, .woocommerce #content div.product div.images img, .woocommerce-page div.product div.images img, .woocommerce-page #content div.product div.images img {
-margin-bottom:20px;
-}
-
-.last {
-margin-left:0px;
-}
-
-/* Updates Author Bio font colour */
-
-.ts-fab-list li a {
-color: white !important;
-}
-
-/* Removes comment box from pages */
-
-#comments {
-display: none;
-}
-
-/* Limits 'Related Posts' div height */
-
-.post-small-related {
-max-height: 90px;
-overflow: hidden;
-}
-
-/* Removes date from 'popular posts' widget in sidebar */
-
-#tabber .inside li .meta {
-display: none;
-}
-
-/* changes footer colours */
-
-footer {
-background-color: transparent;
-}
-</style>
-<!-- Start Easy Tynt -->
-<!-- BEGIN Tynt Script -->
-
-<!-- END Tynt Script -->
-<!-- End Easy Tynt -->
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<link href="http://www.writersedit.com/little-prince-antoine-de-saint-exupery/" rel="canonical"/>
-<meta content="en_US" property="og:locale"/>
-<meta content="article" property="og:type"/>
-<meta content="The Little Prince by Antoine De Saint-Exupery - Writer's Edit" property="og:title"/>
-<meta content="Writer Kristie Minshall discovers The Little Prince, a little later in life." property="og:description"/>
-<meta content="http://www.writersedit.com/little-prince-antoine-de-saint-exupery/" property="og:url"/>
-<meta content="Writer's Edit" property="og:site_name"/>
-<meta content="book review" property="article:tag"/>
-<meta content="books" property="article:tag"/>
-<meta content="children's literature" property="article:tag"/>
-<meta content="creative writing" property="article:tag"/>
-<meta content="fiction" property="article:tag"/>
-<meta content="inspiration" property="article:tag"/>
-<meta content="literature" property="article:tag"/>
-<meta content="the little prince" property="article:tag"/>
-<meta content="writers" property="article:tag"/>
-<meta content="Book Reviews" property="article:section"/>
-<meta content="2013-12-20T09:00:00+00:00" property="article:published_time"/>
-<meta content="2013-12-18T17:34:18+00:00" property="article:modified_time"/>
-<meta content="2013-12-18T17:34:18+00:00" property="og:updated_time"/>
-<meta content="http://www.writersedit.com/wp-content/uploads/2013/12/the-little-prince.jpg" property="og:image"/>
-<!-- / Yoast WordPress SEO plugin. -->
-<link href="http://www.writersedit.com/feed/" rel="alternate" title="Writer's Edit » Feed" type="application/rss+xml"/>
-<link href="http://www.writersedit.com/comments/feed/" rel="alternate" title="Writer's Edit » Comments Feed" type="application/rss+xml"/>
-<link href="http://www.writersedit.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="http://www.writersedit.com/wp-content/plugins/fancier-author-box/css/ts-fab.css?ver=1.0" id="ts_fab_css-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="//www.writersedit.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.2.11" id="woocommerce-layout-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="//www.writersedit.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.2.11" id="woocommerce-smallscreen-css" media="only screen and (max-width: 768px)" rel="stylesheet" type="text/css"/>
-<link href="//www.writersedit.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.2.11" id="woocommerce-general-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="http://www.writersedit.com/wp-content/plugins/wp-spam-fighter/css/wpsf.css?ver=0.4" id="wpsf_wpsf-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/opensearch.xml" rel="search" title="Goodreads" type="application/opensearchdescription+xml">
 
 
-
-<link href="http://www.writersedit.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
-<link href="http://www.writersedit.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
-<!--Theme by MyThemeShop.com-->
-<link href="http://www.writersedit.com/?p=1224" rel="shortlink"/>
-<div style="-moz-border-radius: 10px; border-radius: 10px; border:1px solid #999999; position: fixed; z-index:99999; width: 70px; background-color:#FFFFFF; display:block; margin: 50%; right: 500px; margin-top: 50px;">
-<div style="width:68px;margin: auto; padding:0 0 5px 0; text-align:center;">
-<span style="padding-top:5px; display:block;"><g:plusone size="tall"></g:plusone></span><span style="padding-top:5px; display:block;"><a class="twitter-share-button" data-count="vertical" href="http://twitter.com/share"></a></span><span style="padding-top:5px; display:block;"><div id="fb-root"></div>
-
-<div class="fb-like" data-layout="box_count" data-send="false" data-show-faces="false" data-width="55"></div></span><span style="padding-top:5px; display:block;"></span></div>
-</div>
-</link></link></meta></meta></meta></link></meta></head>
-<body class="single single-post postid-1224 single-format-standard main cat-2-id" id="blog">
-<div class="main-navigation">
-<nav id="navigation">
-<ul class="menu">
-<li class="home-tab home-padding"><a href="http://www.writersedit.com">Home</a></li>
-<li class="page_item page-item-1153 page_item_has_children"><a href="http://www.writersedit.com/us/">About Us</a>
-<ul class="children">
-<li class="page_item page-item-59"><a href="http://www.writersedit.com/us/contact-us/">Contact Us</a></li>
-<li class="page_item page-item-1615"><a href="http://www.writersedit.com/us/faqs/">FAQS</a></li>
-<li class="page_item page-item-1656"><a href="http://www.writersedit.com/us/meet-team/">Meet The Team</a></li>
-<li class="page_item page-item-64"><a href="http://www.writersedit.com/us/write-for-us/">Write For Us</a></li>
-</ul>
-</li>
-<li class="page_item page-item-4262"><a href="http://www.writersedit.com/cart/">Cart</a></li>
-<li class="page_item page-item-4263"><a href="http://www.writersedit.com/checkout/">Checkout</a></li>
-<li class="page_item page-item-3725"><a href="http://www.writersedit.com/make-kindling-pozible-6-steps/">Make Kindling Pozible in 6 steps…</a></li>
-<li class="page_item page-item-4264"><a href="http://www.writersedit.com/my-account/">My Account</a></li>
-<li class="page_item page-item-4765"><a href="http://www.writersedit.com/gram/">On the ‘gram</a></li>
-<li class="page_item page-item-4716"><a href="http://www.writersedit.com/opportunities/">Opportunities</a></li>
-<li class="page_item page-item-2165"><a href="http://www.writersedit.com/penned/">Penned Magazine 2</a></li>
-<li class="page_item page-item-2533 page_item_has_children"><a href="http://www.writersedit.com/publications/">Publications</a>
-<ul class="children">
-<li class="page_item page-item-2522"><a href="http://www.writersedit.com/publications/anthology-kindling/">Anthology: Kindling</a></li>
-<li class="page_item page-item-3755"><a href="http://www.writersedit.com/publications/ambassadors/">Kindling Ambassadors</a></li>
-<li class="page_item page-item-3506"><a href="http://www.writersedit.com/publications/penned-magazine/">Penned Magazine</a></li>
-</ul>
-</li>
-<li class="page_item page-item-4276"><a href="http://www.writersedit.com/services/">Services</a></li>
-<li class="page_item page-item-3944"><a href="http://www.writersedit.com/privacy-policy/">Writer’s Edit Privacy Policy</a></li>
-<li class="page_item page-item-3949"><a href="http://www.writersedit.com/terms/">Writer’s Edit Terms of Service</a></li>
-<li class="page_item page-item-293"><a href="http://www.writersedit.com/writerly-websites/">Writerly Websites</a></li>
-</ul>
-<!--#nav-primary-->
-</nav>
-</div>
-<div class="main-container">
-<header class="main-header">
-<div class="container">
-<div id="header">
-<h2 id="logo">
-<a href="http://www.writersedit.com"><img alt="Writer's Edit" src="http://149.47.131.252/~writers3/wp-content/uploads/2013/08/Main_Logo_150px.png"/></a>
-</h2><!-- END #logo -->
-</div><!--#header-->
-<div class="secondary-navigation">
-<nav id="navigation">
-<ul class="menu" id="menu-main-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12" id="menu-item-12"><a href="http://writersedit.com/">Home</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-253" id="menu-item-253"><a href="http://www.writersedit.com/category/news-articles/">News</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-14" id="menu-item-14"><a href="http://www.writersedit.com/category/book-reviews/">Book Reviews</a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-252" id="menu-item-252"><a href="http://www.writersedit.com/category/authors/">Authors</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-16" id="menu-item-16"><a href="http://www.writersedit.com/category/resources-for-writers/">Resources for Writers</a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-220" id="menu-item-220"><a href="http://www.writersedit.com/category/resources-for-writers/writing-prompts-resources-for-writers/">Writing Prompts</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-842" id="menu-item-842"><a href="http://www.writersedit.com/category/resources-for-writers/literary-devices-resources-for-writers/">Literary Devices</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-221" id="menu-item-221"><a href="http://www.writersedit.com/category/resources-for-writers/advice-for-writers/">Advice for Writers</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-222" id="menu-item-222"><a href="http://www.writersedit.com/category/resources-for-writers/where-to-work/">Where to Work</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294" id="menu-item-294"><a href="http://www.writersedit.com/writerly-websites/">Writerly Websites</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-400" id="menu-item-400"><a href="http://www.writersedit.com/category/featured-writing/">Featured Writing</a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1124" id="menu-item-1124"><a href="http://www.writersedit.com/category/featured-writing/fiction-featured-writing/">Fiction</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1125" id="menu-item-1125"><a href="http://www.writersedit.com/category/featured-writing/non-fiction/">Non-fiction</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4762" id="menu-item-4762"><a href="http://www.writersedit.com/opportunities/">Opportunities</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1273" id="menu-item-1273"><a href="http://www.writersedit.com/us/">About Us</a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3880" id="menu-item-3880"><a href="http://www.writersedit.com/us/meet-team/">Meet The Team</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1274" id="menu-item-1274"><a href="http://www.writersedit.com/us/contact-us/">Contact Us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1276" id="menu-item-1276"><a href="http://www.writersedit.com/us/write-for-us/">Write For Us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2539" id="menu-item-2539"><a href="http://www.writersedit.com/publications/">Publications</a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2540" id="menu-item-2540"><a href="http://www.writersedit.com/publications/anthology-kindling/">Anthology: Kindling</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3833" id="menu-item-3833"><a href="http://www.writersedit.com/publications/ambassadors/">Kindling Ambassadors</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4767" id="menu-item-4767"><a href="http://www.writersedit.com/gram/">On the ‘gram</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1862" id="menu-item-1862"><a href="http://www.writersedit.com/us/faqs/">FAQS</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4425" id="menu-item-4425"><a href="http://www.writersedit.com/services/">Shop &amp; Services</a></li>
-</ul> </nav>
-</div>
-</div><!--.container-->
-</header>
-<div class="single" id="page">
+</link></meta></meta></meta></head>
+<body class="">
 <div class="content">
-<article class="article">
-<div id="content_box">
-<div class="post-1224 post type-post status-publish format-standard has-post-thumbnail hentry category-book-reviews tag-book-review tag-books tag-childrens-literature tag-creative-writing tag-fiction tag-inspiration tag-literature tag-the-little-prince tag-writers g cat-2-id has_thumb" id="post-1224">
-<div id="single-post-wrapper">
-<div class="breadcrumb"><a href="http://www.writersedit.com" rel="nofollow">Home</a>  »  <a href="http://www.writersedit.com/category/book-reviews/" rel="nofollow">Book Reviews</a>   »   The Little Prince by Antoine De Saint-Exupery</div>
-<header>
-<h1 class="title single-title">The Little Prince by Antoine De Saint-Exupery</h1>
-</header><!--.headline_area-->
-<div class="post-content box mark-links">
-<p>Only a couple of weeks ago I shared my all time favourite children’s classics with you. This list included Peter Rabbit, Winnie the Pooh and Charlotte’s Web, amoung a couple of other special titles. I was very selective in my choices, and thought long and hard about which books took me on the most significant journeys and which characters still warm my heart. The Little Prince did not receive a mention.</p>
-<div class="wp-caption alignright" id="attachment_1228" style="width: 310px"><a href="http://149.47.131.252/~writers3/wp-content/uploads/2013/12/the-little-prince.jpg" target="_blank"><img alt="the-little-prince" class="size-medium wp-image-1228" height="176" src="http://149.47.131.252/~writers3/wp-content/uploads/2013/12/the-little-prince-300x176.jpg" style="margin: 3px;" title="The Little Prince is a children's classic that has touched the hearts of many, children and adults alike." width="300"/></a><p class="wp-caption-text">The Little Prince is a children’s classic that has touched the hearts of many, children and adults alike.</p></div>
-<p>This is because I was only introduced to his story this week, and I am so very, very grateful that I found The Little Prince at this stage of my life. Having explored Earth and beyond with him, I would now place his tale not only at the top of my list of timeless children’s classics, but at the top of my list of all time favourite literature.</p>
-<p>Le Petite Prince or The Little Prince is the most translated book in the French language. Written by Antoine De Saint-Exupery during his time of exile in America, the story is thought to be a fictional autobiography of the extraordinary challenges he faced during his life.</p>
-<p>The Little Prince is a perfect example of the transient nature of children’s literature. Had I read this book as a child, the quirky sketches of baby elephants and baobabs would have intrigued me, and the loving story between a boy and his precious rose would have made me clutch my childhood teddy a little closer.</p>
-<p>However, there is so much of this precious story that I would have missed. My tiny mind wouldn’t have been able to appreciate the sadness and sacrifice that the Little Prince experienced, nor would I have been able to comprehend the very wise words of ‘my friend the fox’ he says:</p>
-<blockquote><p> What is essential is invisible to the eye.”</p></blockquote>
-<p>As a child, I would not have believed this to be true. My essentials included my toy rabbit, my warm and cosy bed, and most importantly my mum.  Without these essentials, I would have been lost and afraid. As a young adult I can now understand that an object without meaning is nothing but a useless object.</p>
-<p>It’s the security, love and stability that these precious things offered me that was most important. To someone else my adored ‘Rabsy’ would only have been a tired looking toy rabbit. To me, he was a hero, a best friend, and a companion.</p>
-<p>The Little Prince offers a universe seen through the simplicity of a child’s eyes. He meets a variety of adults who are ‘decidedly very odd,’ my personal favourite being ‘the very serious, and precise businessman.’ This particular character owns all of the stars in the night sky, and makes it his life’s mission to continue counting the stars so that he can deposit them into the bank.</p>
-<p>The Little Prince declares that his job is rather amusing, but not very serious at all, for he is of no use to the stars. In comparison The Little Prince who owns a flower and feeds her water everyday has a much more serious job, as she needs his assistance to continue growing,</p>
-<p>This is only one section of the delightful story that encourages us to reflect on our roles in the world. I felt akin to the very serious businessman, in that I, like a lot of adults have spent a large proportion of my years bent over books, trying not to make mistakes in the hope of gaining good grades or money to satisfy my materialistic needs.</p>
-<p>However, it is only in the last year that I have truly felt rewarded for my efforts, and that isn’t as a student or as an employee, but as a nanny – as a minder and protector of children. Taking care of someone other than myself gives me the greatest joy and has finally made me feel as though my role in the world is something of value.</p>
-<blockquote><p>I have always suspected that children are the wisest of us all, and after reading The Little Prince I am now convinced that this is indeed the case. As children we come into the world with open minds and open hearts. We are able to appreciate things for what they truly are, without needing to question every last detail before feeling satisfied. If a child is hungry he eats, if he is sad he cries and if he is tired he sleeps.”</p></blockquote>
-<p>As an adult I have been known to deprive myself of these ‘luxuries’ because sometimes doing what we want, is simply not done. We make rules for ourselves and for each other that we follow in the hope of being responsible, civilised, serious people. On this endeavour we stop focusing on living and concentrate too much of our energy into being the people that we think others will admire.</p>
-<p>If The Little Prince has taught me anything, it is that despite what adults say, the world can indeed be viewed in black and white. It is our mixing, muddling and over-thinking that creates the shades of grey we often see.</p>
-<p>The author states: “Grown-ups never understand anything by themselves, and it is exhausting for children always and forever to be explaining themselves,” this I must conquer, because I often exhaust myself.</p>
-<p>I am so thankful to have read The Little Prince and to now fully realise that sometimes even if things don’t look right, or aren’t accepted as being right, so long as it feels right to me, that is what is most important.</p>
-<div class="ts-fab-wrapper" id="ts-fab-below"><span class="screen-reader-text">The following two tabs change content below.</span><ul class="ts-fab-list"><li class="ts-fab-bio-link"><a href="#ts-fab-bio-below">Bio</a></li><li class="ts-fab-latest-posts-link"><a href="#ts-fab-latest-posts-below">Latest Posts</a></li></ul><div class="ts-fab-tabs">
-<div class="ts-fab-tab" id="ts-fab-bio-below">
-<div class="ts-fab-avatar"><img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/abadf9cb7722e39f5619307c1bb69beb?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/><div class="ts-fab-social-links"></div>
-</div>
-<div class="ts-fab-text">
-<div class="ts-fab-header"><h4>Kristie Minshall</h4></div><!-- /.ts-fab-header -->
-<div class="ts-fab-content">Kristie Minshall is an advertising student, who has only just realised her full potential as a writer. After 4 years of consistent study in the field of communications, she has finally settled on pursuing her love and hobby - writing. She hopes to channel all of her creative energy into words that will inspire and ignite the imagination of her readers. She has a particular interest in children’s books, and would love to write and illustrate her own in the near future.</div>
-</div>
-</div>
-<div class="ts-fab-tab" id="ts-fab-latest-posts-below">
-<div class="ts-fab-avatar"><img alt="" class="avatar avatar-80 photo" height="80" src="http://0.gravatar.com/avatar/abadf9cb7722e39f5619307c1bb69beb?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" width="80"/><div class="ts-fab-social-links"></div>
-</div>
-<div class="ts-fab-text">
-<div class="ts-fab-header">
-<h4>Latest posts by Kristie Minshall <span class="latest-see-all">(<a href="http://www.writersedit.com/author/kristie-minshall/" rel="nofollow">see all</a>)</span></h4>
-</div>
-<ul class="ts-fab-latest">
+<div class="uitext" id="siteheader">
+<div class="mainContent">
+<ul class="nav" id="usernav">
 <li>
-<a href="http://www.writersedit.com/writing-process/">The Writing Process</a><span> - March 7, 2014</span>
+<strong>
+<a class="navlink" href="/user/new" rel="nofollow">register</a>
+</strong>
 </li>
 <li>
-<a href="http://www.writersedit.com/book-snobbery/">Book Snobbery &amp; Women’s Fiction</a><span> - February 3, 2014</span>
+<a class="navlink" href="/about/how_it_works" rel="nofollow">tour</a>
 </li>
 <li>
-<a href="http://www.writersedit.com/bellagrand-paullina-simons/">Bellagrand by Paullina Simons – Review</a><span> - January 31, 2014</span>
-</li>
-</ul></div>
-</div>
-</div>
-</div> </div>
-<div class="bottomad">
-<form action="http://optin.sndlp.com/DW1/878/684139c5" method="POST" onsubmit="window.open('http://optin.sndlp.com/DW1/878/684139c5', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="padding:15px;text-align:center;" target="popupwindow">
-<div style="font-family: Palatino Linotype, Book Antiqua, Palatino, serif;font-size: 28px;line-height: 30px;font-weight: bold;margin: 10px 0 10px 0;color: #444444;display: block;box-sizing: border-box;-moz-box-sizing: border-box;cursor: pointer;">Stay up to date with Writer's Edit</div><div style="margin: 30px 0;display: block;"><img alt="" class="logo-img-sxzw" src="/wp-content/uploads/2013/08/Main_Logo_177px.png" style="height: 120px;margin: 0 20px 0 0;float: left;display: block;">
-<div style="height: 100%;width: 100%;vertical-align: top;text-align: left;font-family:Palatino Linotype, Book Antiqua, Palatino, serif;font-size: 24px;line-height: 28px;color: #444444;margin:0;padding: 0;box-sizing: border-box;-moz-box-sizing: border-box;">Join our community of hundreds of writers who receive updates on the most popular news and helpful advice, every month!</div></img></div><p><input id="Fields_EmailAddress" name="Fields[EmailAddress]" placeholder="Insert your best email address here..." style="display: block;padding: 15px 12px;margin: 0 auto 10px auto;width: 100%;font-family: Arial, Helvetica, sans-serif;font-size: 16px;line-height: 21px;border: 1px solid #d4d3d3;background: #f6f6f6;-webkit-box-shadow: 0 1px 0 rgba(255,255,255,0.67),inset 0 1px 3px rgba(5,5,5,0.13);-moz-box-shadow: 0 1px 0 rgba(255,255,255,0.67),inset 0 1px 3px rgba(5,5,5,0.13);box-shadow: 0 1px 0 rgba(255,255,255,0.67),inset 0 1px 3px rgba(5,5,5,0.13);-webkit-border-radius: 3px;
--moz-border-radius: 3px;border-radius: 3px;box-sizing: border-box;-moz-box-sizing: border-box;height: auto;" type="text" value=""/></p>
-<input id="Command" name="Command" style="font-family: Arial, Helvetica, sans-serif;font-size: 22px;line-height: 27px;background-color: #00c98d;border-style: solid;border-width: 1pt;border-color: #C0C0C0;
--webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;color: #ffffff;text-shadow: 0 0.1em 0.3em rgba(0,0,0,0.3);cursor: pointer;-webkit-border-radius: 3pt;-moz-border-radius: 3pt;border-radius: 3pt;width: 100%;padding: 15px 0;margin: 10px auto;box-sizing: border-box;-moz-box-sizing: border-box;height: auto;background-image: none;" type="submit" value="Subscribe"><div style="font-family: Palatino Linotype, Book Antiqua, Palatino, serif;font-size: 14px;line-height: 14px;color: #444444;display: block;margin: 10px 0;padding: 0;
-box-sizing: border-box;-moz-box-sizing: border-box;">Don't worry - your information will <em>never</em> be shared or sold to a 3rd party.</div>
-</input></form> </div>
-<!--Shareit-->
-</div><!--.post-content box mark-links-->
-<div class="related-posts">
-<h3>Related Posts</h3>
-<ul> <li class="">
-<a class="relatedthumb" href="http://www.writersedit.com/eyrie-tim-winton/" rel="bookmark" title="Eyrie by Tim Winton – Review">
-<span class="rthumb">
-<img alt="Eyrie by Tim Winton" class="attachment-related wp-post-image" height="100" src="http://www.writersedit.com/wp-content/uploads/2014/06/Eyrie-by-Tim-Winton-100x100.jpg" title="" width="100"/> <div class="clear"></div>
-</span>
-<div class="post-small-related"><h2><a href="http://www.writersedit.com/eyrie-tim-winton/" rel="bookmark" title="Eyrie by Tim Winton – Review">Eyrie by Tim Winton – Review</a></h2></div>
-</a>
-</li>
-<li class="last">
-<a class="relatedthumb" href="http://www.writersedit.com/book-review-refuse-per-petterson/" rel="bookmark" title="Book Review: I Refuse by Per Petterson">
-<span class="rthumb">
-<img alt="AVT_Per-Petterson_9812" class="attachment-related wp-post-image" height="100" src="http://www.writersedit.com/wp-content/uploads/2014/11/AVT_Per-Petterson_9812-100x100.jpeg" title="" width="100"/> <div class="clear"></div>
-</span>
-<div class="post-small-related"><h2><a href="http://www.writersedit.com/book-review-refuse-per-petterson/" rel="bookmark" title="Book Review: I Refuse by Per Petterson">Book Review: I Refuse by Per Petterson</a></h2></div>
-</a>
-</li>
-<li class="">
-<a class="relatedthumb" href="http://www.writersedit.com/book-review-write-want-skip-press/" rel="bookmark" title="Book Review: ‘How to Write What You Want…’ by Skip Press">
-<span class="rthumb">
-<img alt="on writing books" class="attachment-related wp-post-image" height="100" src="http://www.writersedit.com/wp-content/uploads/2015/01/on-writing-books-100x100.jpg" title="" width="100"/> <div class="clear"></div>
-</span>
-<div class="post-small-related"><h2><a href="http://www.writersedit.com/book-review-write-want-skip-press/" rel="bookmark" title="Book Review: ‘How to Write What You Want…’ by Skip Press">Book Review: ‘How to Write What You Want…’ by Skip Press</a></h2></div>
-</a>
-</li>
-<li class="last">
-<a class="relatedthumb" href="http://www.writersedit.com/rosie-effect-graeme-simsion-review/" rel="bookmark" title="Book Review: ‘The Rosie Effect’ by Graeme Simsion">
-<span class="rthumb">
-<img alt="graemesimsionrosieeffect_cropped" class="attachment-related wp-post-image" height="100" src="http://www.writersedit.com/wp-content/uploads/2015/01/graemesimsionrosieeffect_cropped2-100x100.png" title="" width="100"/> <div class="clear"></div>
-</span>
-<div class="post-small-related"><h2><a href="http://www.writersedit.com/rosie-effect-graeme-simsion-review/" rel="bookmark" title="Book Review: ‘The Rosie Effect’ by Graeme Simsion">Book Review: ‘The Rosie Effect’ by Graeme Simsion</a></h2></div>
-</a>
-</li>
-</ul> </div><!-- .related-posts -->
-</div><!--.g post-->
-<!-- If comments are closed. -->
-<p class="nocomments"></p>
-</div>
-</article>
-<aside class="sidebar c-4-12">
-<div class="g" id="sidebars">
-<div class="sidebar">
-<ul class="sidebar_list">
-<li class="widget widget-sidebar"> <div class="textwidget"><form action="http://optin.sndlp.com/DW1/g78/f76c9987" method="POST" onsubmit="window.open('http://optin.sndlp.com/DW1/g78/f76c9987', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="border:1px solid #ccc;padding:15px;text-align:center;background-color:#444444;" target="popupwindow">
-<p style="color:#fff;font-size:16px;">Stay up to date with the most popular posts on Writer's Edit</p><p><input id="Fields_EmailAddress" name="Fields[EmailAddress]" placeholder="Email Address..." style="width:230px;height:15px;border-radius:3px;font-size:16px;padding-left:3px;" type="text" value=""/></p>
-<input id="Command" name="Command" style="border-radius:3px;font-size:16px;width:247px;height:43px;color:#fff;background: -webkit-linear-gradient(top, #b5b5b5, #a3a3a3);border:none;" type="submit" value="Subscribe">
-</input></form></div>
-</li>
-<div id="tabber">
-<ul class="tabs">
-<li><a href="#popular-posts">Popular Posts</a></li>
-<li class="tabs_sep"></li>
-<li class="tab-recent-posts"><a href="#recent-posts">Recent Posts</a></li>
-</ul> <!--end .tabs-->
-<div class="clear"></div>
-<div class="inside">
-<div id="popular-posts">
-<ul>
-<li>
-<div class="left">
-<a href="http://www.writersedit.com/five-elements-writers-website/"><img alt="The Five Elements of a Writer’s Website" class="wp-post-image" height="50" src="http://www.writersedit.com/wp-content/uploads/2014/07/Five-elements-of-a-writers-website-65x50.png" width="65"/></a>
-<div class="clear"></div>
-</div>
-<div class="info">
-<p class="entry-title"><a href="http://www.writersedit.com/five-elements-writers-website/" title="The Five Elements of a Writer’s Website">The Five Elements of a Writer’s Website</a></p>
-<div class="meta">
-<span class="meta-date"><abbr class="published" title="9:00 am">July 31, 2014</abbr></span>
-</div> <!--end .entry-meta-->
-</div> <!--end .info-->
-<div class="clear"></div>
-</li>
-<li>
-<div class="left">
-<a href="http://www.writersedit.com/21-writing-tips-fledgling-writer/"><img alt="21 Writing Tips from a Fledgling Writer" class="wp-post-image" height="50" src="http://www.writersedit.com/wp-content/uploads/2014/07/21-writing-tips-65x50.jpg" width="65"/></a>
-<div class="clear"></div>
-</div>
-<div class="info">
-<p class="entry-title"><a href="http://www.writersedit.com/21-writing-tips-fledgling-writer/" title="21 Writing Tips from a Fledgling Writer">21 Writing Tips from a Fledgling Writer</a></p>
-<div class="meta">
-<span class="meta-date"><abbr class="published" title="9:00 am">July 18, 2014</abbr></span>
-</div> <!--end .entry-meta-->
-</div> <!--end .info-->
-<div class="clear"></div>
-</li>
-<li>
-<div class="left">
-<a href="http://www.writersedit.com/how-to-work-from-home/"><img alt="How To Work From Home (and Stay Motivated)" class="wp-post-image" height="50" src="http://www.writersedit.com/wp-content/uploads/2014/08/how-to-work-from-home-65x50.jpg" width="65"/></a>
-<div class="clear"></div>
-</div>
-<div class="info">
-<p class="entry-title"><a href="http://www.writersedit.com/how-to-work-from-home/" title="How To Work From Home (and Stay Motivated)">How To Work From Home (and Stay Motivated)</a></p>
-<div class="meta">
-<span class="meta-date"><abbr class="published" title="9:00 am">September 5, 2014</abbr></span>
-</div> <!--end .entry-meta-->
-</div> <!--end .info-->
-<div class="clear"></div>
-</li>
-<li>
-<div class="left">
-<a href="http://www.writersedit.com/4-tips-get-writing-rut/"><img alt="4 Tips to Get Out of The Writing Rut" class="wp-post-image" height="50" src="http://www.writersedit.com/wp-content/uploads/2014/08/writing-rut-65x50.jpg" width="65"/></a>
-<div class="clear"></div>
-</div>
-<div class="info">
-<p class="entry-title"><a href="http://www.writersedit.com/4-tips-get-writing-rut/" title="4 Tips to Get Out of The Writing Rut">4 Tips to Get Out of The Writing Rut</a></p>
-<div class="meta">
-<span class="meta-date"><abbr class="published" title="9:00 am">September 1, 2014</abbr></span>
-</div> <!--end .entry-meta-->
-</div> <!--end .info-->
-<div class="clear"></div>
-</li>
-<li>
-<div class="left">
-<a href="http://www.writersedit.com/interview-merlinda-bobis/"><img alt="Interview with Merlinda Bobis" class="wp-post-image" height="50" src="http://www.writersedit.com/wp-content/uploads/2013/12/Fish-Hair-Woman-2-65x50.jpg" width="65"/></a>
-<div class="clear"></div>
-</div>
-<div class="info">
-<p class="entry-title"><a href="http://www.writersedit.com/interview-merlinda-bobis/" title="Interview with Merlinda Bobis">Interview with Merlinda Bobis</a></p>
-<div class="meta">
-<span class="meta-date"><abbr class="published" title="9:00 am">December 9, 2013</abbr></span>
-</div> <!--end .entry-meta-->
-</div> <!--end .info-->
-<div class="clear"></div>
+<a class="navlink" href="/user/sign_in?returnurl=%2Fwork%2Fquotes%2F2180358-le-petit-prince" rel="nofollow">sign in</a>
 </li>
 </ul>
-</div> <!--end #popular-posts-->
-<div id="recent-posts">
-<ul>
-<li>
-<div class="left">
-<a href="http://www.writersedit.com/literary-devices-setting/"><img alt="Literary Devices: Setting" class="wp-post-image" height="50" src="http://www.writersedit.com/wp-content/uploads/2015/02/11739722073_66e9f020aa_z-65x50.jpg" width="65"/></a>
-<div class="clear"></div>
+<div id="logo">
+<a href="/">
+<img alt="Goodreads: Book reviews, recommendations, and discussion" border="0" src="http://s.gr-assets.com/assets/layout/goodreads_logo_324-a908b923dc3ed9b7a13f3da4d1ffb2df.png" width="140"/>
+</a>
 </div>
-<div class="info">
-<p class="entry-title"><a href="http://www.writersedit.com/literary-devices-setting/" title="Literary Devices: Setting">Literary Devices: Setting</a></p>
-<div class="meta">
-<span class="meta-date"><abbr class="published" title="9:00 am">February 9, 2015</abbr></span>
-</div> <!--end .entry-meta-->
-</div> <!--end .info-->
-<div class="clear"></div>
+<div id="sitesearch">
+<form accept-charset="UTF-8" action="/search" id="headerSearchForm" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/></div><div class="auto_complete_field_wrapper">
+<input id="sitesearch_field" name="query" placeholder="Title / Author / ISBN" type="text"/>
+<div id="sitesearch_autocomplete"></div>
+<img alt="Loading-trans" class="loading" id="sitesearch_field_loading" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif" style="display: none"/>
+</div>
+<a class="submitLink" href="#" onclick="$j('#headerSearchForm').submit(); return false;"><img alt="search" src="http://s.gr-assets.com/assets/layout/magnifying_glass-a2d7514d50bcee1a0061f1ece7821750.png" title="Title / Author / ISBN" width="16"/></a>
+</form>
+</div>
+<ul class="nav" id="sitenav">
+<li>
+<a class="navlink" href="/">Home</a>
 </li>
 <li>
-<div class="left">
-<a href="http://www.writersedit.com/book-review-earth-caroline-allen/"><img alt="Book Review: ‘Earth’ by Caroline Allen" class="wp-post-image" height="50" src="http://www.writersedit.com/wp-content/uploads/2015/01/11-feb-09-carrie-082other-65x50.jpg" width="65"/></a>
-<div class="clear"></div>
-</div>
-<div class="info">
-<p class="entry-title"><a href="http://www.writersedit.com/book-review-earth-caroline-allen/" title="Book Review: ‘Earth’ by Caroline Allen">Book Review: ‘Earth’ by Caroline Allen</a></p>
-<div class="meta">
-<span class="meta-date"><abbr class="published" title="9:00 am">February 6, 2015</abbr></span>
-</div> <!--end .entry-meta-->
-</div> <!--end .info-->
-<div class="clear"></div>
+<a class="navlink" href="/review/list" rel="nofollow">My Books</a>
 </li>
 <li>
-<div class="left">
-<a href="http://www.writersedit.com/6-things-need-to-know-freelance-writing/"><img alt="6 Things You Need to Know About Freelance Writing" class="wp-post-image" height="50" src="http://www.writersedit.com/wp-content/uploads/2015/02/motivaton-post-it-65x50.jpg" width="65"/></a>
-<div class="clear"></div>
-</div>
-<div class="info">
-<p class="entry-title"><a href="http://www.writersedit.com/6-things-need-to-know-freelance-writing/" title="6 Things You Need to Know About Freelance Writing">6 Things You Need to Know About Freelance Writing</a></p>
-<div class="meta">
-<span class="meta-date"><abbr class="published" title="9:00 am">February 4, 2015</abbr></span>
-</div> <!--end .entry-meta-->
-</div> <!--end .info-->
-<div class="clear"></div>
+<a class="navlink" href="/friend" rel="nofollow">Friends</a>
 </li>
 <li>
-<div class="left">
-<a href="http://www.writersedit.com/fremantle-poets-two-poets/"><img alt="Fremantle Poets: Two Poets" class="wp-post-image" height="50" src="http://www.writersedit.com/wp-content/uploads/2015/01/KevinGillam1-65x50.jpg" width="65"/></a>
-<div class="clear"></div>
-</div>
-<div class="info">
-<p class="entry-title"><a href="http://www.writersedit.com/fremantle-poets-two-poets/" title="Fremantle Poets: Two Poets">Fremantle Poets: Two Poets</a></p>
-<div class="meta">
-<span class="meta-date"><abbr class="published" title="9:00 am">February 2, 2015</abbr></span>
-</div> <!--end .entry-meta-->
-</div> <!--end .info-->
-<div class="clear"></div>
+<a class="navlink" href="/recommendations" rel="nofollow">Recommendations</a>
 </li>
 <li>
-<div class="left">
-<a href="http://www.writersedit.com/stay-positive-writing-novel/"><img alt="How to Stay Positive When Writing a Novel" class="wp-post-image" height="50" src="http://www.writersedit.com/wp-content/uploads/2015/01/15772347991_a918e742b0_z-65x50.jpg" width="65"/></a>
-<div class="clear"></div>
-</div>
-<div class="info">
-<p class="entry-title"><a href="http://www.writersedit.com/stay-positive-writing-novel/" title="How to Stay Positive When Writing a Novel">How to Stay Positive When Writing a Novel</a></p>
-<div class="meta">
-<span class="meta-date"><abbr class="published" title="9:00 am">January 30, 2015</abbr></span>
-</div> <!--end .entry-meta-->
-</div> <!--end .info-->
-<div class="clear"></div>
+<a class="navlink" href="/book" rel="nofollow">Explore</a>
+</li>
+<li class="notificationIcon withsubnav exploreMenu">
+<div class="dropDownContainer">
+<div class="dropDown">
+<div class="caretArrow"></div>
+<div class="dropDownMenu">
+<div class="exploreMenuContent">
+<ul class="content">
+<li>
+<a href="/genres">Genres</a>
+</li>
+<li>
+<a href="/list" title="Popular lists of books">Listopia</a>
+</li>
+<li>
+<a href="/giveaway" title="Free book giveaways">Giveaways</a>
+</li>
+<li>
+<a href="/choiceawards/best-books-2014" title="2014 Goodreads Choice Awards">Choice Awards</a>
+</li>
+<li>
+<a href="/book/popular_by_date/2015/2" title="Popular New Releases">Popular</a>
+</li>
+<li>
+<a href="/voice">Goodreads Voice</a>
+</li>
+<li>
+<a href="/ebooks">Ebooks</a>
 </li>
 </ul>
-</div> <!--end #recent-posts-->
+<ul class="content">
+<li class="title">
+<b>
+Fun
+</b>
+</li>
+<li>
+<a href="/trivia">Trivia</a>
+</li>
+<li>
+<a href="/quizzes">Quizzes</a>
+</li>
+<li>
+<a href="/quotes">Quotes</a>
+</li>
+</ul>
+<ul class="content">
+<li class="title">
+<b>
+Community
+</b>
+</li>
+<li>
+<a href="/group">Groups</a>
+</li>
+<li>
+<a href="/story">Creative Writing</a>
+</li>
+<li>
+<a href="/user/online_now" rel="nofollow">People</a>
+</li>
+<li>
+<a href="/event">Events</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<a class="dropDownOpener subnavlink" href="/book"></a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="mainContentContainer ">
+<div class="mainContent">
+<div id="premiumAdTop">
+<div id="div-gpt-ad-dab61fb123" style="width: 970px; height: 66px">
+
+</div>
+</div>
+<div class="mainContentFloat">
+<div id="flashContainer">
+</div>
+<div id="connectPrompt" style="display:none;">
+<div class="connectPromptHolder">
+<div class="vcenteredLineOfBlocks" style="margin:15px auto 0;">
+<div class="regPromptText">
+<div class="title">
+</div>
+<div class="subtext test_styles">
+Get quotes daily
+</div>
+</div>
+<div id="facebookRegPrompt">
+<a class="fbjsLogin fbButton connectPromptButton" data-tracking-id="fb_connect_prompt_quote_reg_prompt" href="/user/new">
+<img alt="Facebook" src="http://s.gr-assets.com/assets/facebook/fb-icon-8d74377d3ff4a368f05860c35d8025b2.png"/>
+Sign in with Facebook
+</a>
+<div class="connectPromptAlternates">
+<a href="/user/sign_up?connect_prompt=true&amp;qotd_option=true">Sign in <br/> options</a>
+</div>
+</div>
+<div id="generalRegPrompt">
+<div class="connectPromptButton">
+<a class="button orange" href="/user/sign_up?connect_prompt=true&amp;qotd_option=true">Join Goodreads</a>
+</div>
+</div>
+</div>
 <div class="clear"></div>
-</div> <!--end .inside -->
+</div>
+</div>
+<h1>The Little Prince Quotes</h1>
+<div class="leftContainer">
+<div class="right">
+<div class="wtrButtonContainer wtrSignedOut" id="1_book_157993">
+<div class="wtrUp wtrLeft">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="mE3xSwBQUxuPp+S9Rc5/TmF5+q+sOMFvo9r23Mt39hRGgKMrruyO/RHCtfl74PrNPeIC+wRVzbuUV946nWAbqw=="/></div>
+<input id="book_id" name="book_id" type="hidden" value="157993"/>
+<input id="name" name="name" type="hidden" value="to-read"/>
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_157993"/>
+<input id="wtr_new" name="wtr_new" type="hidden" value="true"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_search" name="from_search" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input class="wtrLeftUpRef" id="ref" name="ref" type="hidden" value=""/>
+<input class="wtrExisting" id="existing_review" name="existing_review" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+<button class="wtrToRead" type="submit">
+<span class="progressTrigger">Want to Read</span>
+<span class="progressIndicator">saving…</span>
+</button>
+</form>
+</div>
+<div class="wtrRight wtrUp">
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="o2G9lRGtnAwor2ujtC+nz5ydHhj5xzwu4KR5LKztCrJ9rO/1vxFB6rbKOueKASJMwAbmTFGqMPrXKVHK+vrnDQ=="/></div>
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_157993"/>
+<input id="book_id" name="book_id" type="hidden" value="157993"/>
+<input id="a" name="a" type="hidden"/>
+<input id="name" name="name" type="hidden"/>
+<input id="from_choice" name="from_choice" type="hidden" value="false"/>
+<input id="from_home_module" name="from_home_module" type="hidden" value="false"/>
+<input id="page_url" name="page_url" type="hidden"/>
+</form>
+<button class="wtrShelfButton"></button>
+<div class="wtrShelfMenu">
+<ul class="wtrExclusiveShelves">
+<li><button class="wtrExclusiveShelf" name="name" type="submit" value="to-read">
+<span class="progressTrigger">Want to Read</span>
+<img alt="saving…" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif"/>
+</button>
+</li>
+<li><button class="wtrExclusiveShelf" name="name" type="submit" value="currently-reading">
+<span class="progressTrigger">Currently Reading</span>
+<img alt="saving…" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif"/>
+</button>
+</li>
+<li><button class="wtrExclusiveShelf" name="name" type="submit" value="read">
+<span class="progressTrigger">Read</span>
+<img alt="saving…" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ced157046184c3bc7c180ffbfc6825a4.gif"/>
+</button>
+</li>
+</ul>
+</div>
+</div>
+<div class="ratingStars wtrRating">
+<div class="starsErrorTooltip hidden">
+Error rating book. Refresh and try again.
+</div>
+<div class="myRating uitext greyText">Rate this book</div>
+<div class="clearRating uitext">Clear rating</div>
+<div class="stars" data-rating="0" data-resource-id="157993" data-submit-url="/review/rate/157993?stars_click=true&amp;wtr_button_id=1_book_157993" data-user-id="0"><a class="star off" href="#" ref="" title="did not like it">1 of 5 stars</a><a class="star off" href="#" ref="" title="it was ok">2 of 5 stars</a><a class="star off" href="#" ref="" title="liked it">3 of 5 stars</a><a class="star off" href="#" ref="" title="really liked it">4 of 5 stars</a><a class="star off" href="#" ref="" title="it was amazing">5 of 5 stars</a></div>
+</div>
+</div>
+</div>
+<a class="leftAlignedImage" href="/book/show/157993.The_Little_Prince"><img alt="The Little Prince" src="http://d.gr-assets.com/books/1367545443s/157993.jpg"/></a>
+<a class="bookTitle" href="/book/show/157993.The_Little_Prince">The Little Prince</a>
+<span class="by">by</span>
+<a class="authorName" href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a><br/>
+  480,833 ratings,
+  4.23
+  average rating, 13,545 reviews
+  <br/>
+<a class="button kcrPreviewButtonShown " data-book-id="157993" href="https://read.amazon.com/nc/?kcrFree=only&amp;tag=x_gr_w_preview_kcr-20&amp;asin=B008QYT7DI" id="js-kcrPreviewButton">Open Preview</a>
+<div class="wrongBookKindlePreviewScreen" id="wrongBookKindlePreviewScreenBook157993" style="display: none;">
+<div class="wrongBookBody">
+<h2>See a Problem?</h2>
+<div class="wrongBookText">
+<div class="description">
+        We’d love your help.
+        Let us know what’s wrong with this preview of
+        <cite>The Little Prince</cite> by Antoine de Saint-Exupéry.
+      </div>
+<form accept-charset="UTF-8" action="/kindle_book_mapping_flags" class="new_kindle_book_mapping_flag" data-remote="true" id="new_kindle_book_mapping_flag" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="I6kxSdd7wIVeFPf/QHlR3nSpxzxJ0pPdZOjBQFOaMpX9ZGMpeccdY8Bxprt+V9RdKDI/aOG/nwlTZemmBY3fKg=="/></div>
+<div class="reasons">
+<label for="kindle_book_mapping_flag_reason">Problem:</label>
+<select id="kindle_book_mapping_flag_reason" name="kindle_book_mapping_flag[reason]"><option value="wrongBook">It’s the wrong book</option>
+<option value="wrongEdition">It’s the wrong edition</option>
+<option value="other">Other</option></select>
+<br/>
+</div>
+<div class="otherReason">
+<label for="kindle_book_mapping_flag_other_reason">Details (if other):</label>
+<input id="kindle_book_mapping_flag_other_reason" name="kindle_book_mapping_flag[other_reason]" size="30" type="text"/>
+</div>
+<input id="kindle_book_mapping_flag_book_id" name="kindle_book_mapping_flag[book_id]" type="hidden" value="157993"/>
+<input class="button" name="commit" type="submit" value="Report Problem"/>
+         
+        <button class="buttonAsActionLinkSecondary" id="js-wrongBookKindlePreviewScreenCancelLink" type="button">
+        Cancel and return to book page
+        </button>
+</form> </div>
+</div>
+</div>
+<div class="wrongBookKindlePreviewScreenConfirmation" id="js-wrongBookKindlePreviewScreenConfirmation" style="display:none;">
+<p>Thanks for telling us about the problem.</p>
+<button class="button" id="js-wrongBookKindlePreviewScreenConfirmationDismiss" type="button">
+    Return to Book Page
+  </button>
+</div>
+<div class="kindleCloudReader" id="kindleCloudReaderBook157993" style="display: none;">
+<div class="topBanner">
+<a class="js-wrongBookKindlePreview" data-book-id="157993" href="#" id="wrongBookLink">Not the book you’re looking for?</a>
+<h2 class="kindlePreviewHeader">
+      Preview — <cite>The Little Prince</cite> by Antoine de Saint-Exupéry
+    </h2>
+</div>
+<iframe id="kindleCloudReader">
+<iframe id="wrongBookKindlePreviewScreen"></iframe>
+</iframe>
+</div>
 <div class="clear"></div>
-</div><!--end #tabber -->
-<li class="widget widget-sidebar"><h3>Our First Book</h3> <div class="textwidget"><img height="auto" src="http://www.writersedit.com/wp-content/uploads/2014/12/Kindling-FCS-front-197x3001.jpg" width="200px"/></div>
-</li><li class="widget widget-sidebar"><h3>What We’re Reading</h3> <div class="textwidget"><img height="auto" src="http://www.writersedit.com/wp-content/uploads/2015/02/on-the-road.jpg" width="200px"/></div>
-</li><li class="widget widget-sidebar"><h3>Awards</h3> <div class="textwidget"><img height="auto" src="http://149.47.131.252/~writers3/wp-content/uploads/2014/03/BAB14nominee.png" width="200px"/></div>
-</li> </ul>
+<div class="mediumText">
+    The Little Prince Quotes
+      <span class="smallText">
+(showing
+1-30
+of
+515)
+</span>
 </div>
-</div><!--sidebars-->
-</aside> </div><!--#page-->
-</div><!--.container-->
+<div class="clear"></div>
+<div class="quotes">
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/heart">heart</a>,
+       <a href="/quotes/tag/importance">importance</a>,
+       <a href="/quotes/tag/inspiration">inspiration</a>,
+       <a href="/quotes/tag/secret">secret</a>,
+       <a href="/quotes/tag/the-little-prince">the-little-prince</a>
 </div>
-<footer>
-<div class="container">
-<div class="footer-widgets">
-<div class="f-widget one">
-</div>
-<div class="f-widget two">
-</div>
-<div class="f-widget three">
-</div>
-</div><!--.footer-widgets-->
-</div><!--.container-->
-<!--start copyrights-->
-<div class="copyrights">
-<div class="row" id="copyright-note">
-		© Copyright 2014. Writer's Edit | <a href="http://www.writersedit.com/privacy-policy/" rel="nofollow">Privacy Policy</a> | <a href="http://www.writersedit.com/terms/" rel="nofollow">Terms</a><div class="top"><a href="#top">Back to Top ↑</a></div>
+<div class="right">
+<a class="smallText" href="/quotes/1219735-and-now-here-is-my-secret-a-very-simple-secret" title="View this quote">3250 likes</a>
 </div>
 </div>
-</footer><!--footer-->
-<!--Twitter Button Script------>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “All grown-ups were once children... but only few of them remember it.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/reminding">reminding</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/83175-all-grown-ups-were-once-children-but-only-few-of-them" title="View this quote">2705 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “I am looking for friends. What does that mean -- tame?"<br><br>"It is an act too often neglected," said the fox. "It means to establish ties." <br><br>"To establish ties?" <br><br>"Just that," said the fox. "To me, you are still nothing more than a little boy who is just like a hundred thousand other little boys. And I have no need of you. And you, on your part, have no need of me. To you I am nothing more than a fox like a hundred thousand other foxes. But if you tame me, then we shall need each other. To me, you will be unique in all the world. To you, I shall be unique in all the world....”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></br></br></br></br></br></br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/friendship">friendship</a>,
+       <a href="/quotes/tag/wisdom">wisdom</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/60855-i-am-looking-for-friends-what-does-that-mean---" title="View this quote">1622 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “People have forgotten this truth," the fox said. "But you mustn’t forget it. You become responsible forever for what you’ve tamed. You’re responsible for your rose.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/friendship">friendship</a>,
+       <a href="/quotes/tag/love">love</a>,
+       <a href="/quotes/tag/responsibility">responsibility</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/85614-people-have-forgotten-this-truth-the-fox-said-but-you" title="View this quote">1607 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “It is the time you have wasted for your rose that makes your rose so important.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/caring">caring</a>,
+       <a href="/quotes/tag/inspirational">inspirational</a>,
+       <a href="/quotes/tag/love">love</a>,
+       <a href="/quotes/tag/roses">roses</a>,
+       <a href="/quotes/tag/time">time</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/282264-it-is-the-time-you-have-wasted-for-your-rose" title="View this quote">1483 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “The most beautiful things in the world cannot be seen or touched, they are felt with the heart.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/inspirational">inspirational</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/369705-the-most-beautiful-things-in-the-world-cannot-be-seen" title="View this quote">1402 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “You - you alone will have the stars as no one else has them...In one of the stars I shall be living. In one of them I shall be laughing. And so it will be as if all the stars were laughing, when you look at the sky at night...You - only you - will have stars that can laugh.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">El Principito</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="right">
+<a class="smallText" href="/quotes/79349-you---you-alone-will-have-the-stars-as-no" title="View this quote">1268 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “What makes the desert beautiful,' said the little prince, 'is that somewhere it hides a well...”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/inspirational">inspirational</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/17758-what-makes-the-desert-beautiful-said-the-little-prince-is" title="View this quote">1242 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “It is such a mysterious place, the land of tears.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/the-little-prince">the-little-prince</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/15323-it-is-such-a-mysterious-place-the-land-of-tears" title="View this quote">1200 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “Well, I must endure the presence of a few caterpillars if I wish to become acquainted with the butterflies.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/butterflies">butterflies</a>,
+       <a href="/quotes/tag/caterpillars">caterpillars</a>,
+       <a href="/quotes/tag/philosophy">philosophy</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/105305-well-i-must-endure-the-presence-of-a-few-caterpillars" title="View this quote">1065 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “People where you live," the little prince said, "grow five thousand roses in one garden... yet they don't find what they're looking for...<br><br>They don't find it," I answered.<br><br>And yet what they're looking for could be found in a single rose, or a little water..."<br><br>Of course," I answered.<br><br>And the little prince added, "But eyes are blind. You have to look with the heart.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></br></br></br></br></br></br></br></br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/inspirational">inspirational</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/17759-people-where-you-live-the-little-prince-said-grow-five" title="View this quote">1055 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “You see, one loves the sunset when one is so sad.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="right">
+<a class="smallText" href="/quotes/42015-you-see-one-loves-the-sunset-when-one-is-so" title="View this quote">935 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “You're beautiful, but you're empty...One couldn't die for you. Of course, an ordinary passerby would think my rose looked just like you. But my rose, all on her own, is more important than all of you together, since she's the one I've watered. Since she's the one I put under glass, since she's the one I sheltered behind the screen. Since she's the one for whom I killed the caterpillars (except the two or three butterflies). Since she's the one I listened to when she complained, or when she boasted, or even sometimes when she said nothing at all. Since she's my rose.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/caring">caring</a>,
+       <a href="/quotes/tag/inspirational">inspirational</a>,
+       <a href="/quotes/tag/love">love</a>,
+       <a href="/quotes/tag/roses">roses</a>,
+       <a href="/quotes/tag/uniqueness">uniqueness</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/93190-you-re-beautiful-but-you-re-empty-one-couldn-t-die-for-you-of" title="View this quote">920 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “If you love a flower that lives on a star, it is sweet to look at the sky at night. All the stars are a-bloom with flowers...”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/love">love</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/57421-if-you-love-a-flower-that-lives-on-a-star" title="View this quote">773 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “You become responsible, forever, for what you have tamed.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/responsibility">responsibility</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/2813-you-become-responsible-forever-for-what-you-have-tamed" title="View this quote">715 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “And when your sorrow is comforted (time soothes all sorrows) you will be content that you have known me. You will always be my friend. You will want to laugh with me. And you will sometimes open your window, so, for that pleasure . . . And your friends will be properly astonished to see you laughing as you look up at the sky! Then you will say to them, 'Yes, the stars always make me laugh!' And they will think you are crazy. It will be a very shabby trick that I shall have played on you...”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/grief">grief</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/27452-and-when-your-sorrow-is-comforted-time-soothes-all-sorrows" title="View this quote">703 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “Where are the people?” resumed the little prince at last. “It’s a little lonely in the desert…” “It is lonely when you’re among people, too,” said the snake.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/loneliness">loneliness</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/217321-where-are-the-people-resumed-the-little-prince-at-last" title="View this quote">643 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “All men have stars, but they are not the same things for different people. For some, who are travelers, the stars are guides. For others they are no more than little lights in the sky. For others, who are scholars, they are problems... But all these stars are silent. You-You alone will have stars as no one else has them... In one of the stars I shall be living. In one of them I shall be laughing. And so it will be as if all the stars will be laughing when you look at the sky at night..You, only you, will have stars that can laugh! And when your sorrow is comforted (time soothes all sorrows) you will be content that you have known me... You will always be my friend. You will want to laugh with me. And you will sometimes open your window, so, for that pleasure... It will be as if, in place of the stars, I had given you a great number of little bells that knew how to laugh”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/live-well-love-much-love-often">live-well-love-much-love-often</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/138924-all-men-have-stars-but-they-are-not-the-same" title="View this quote">593 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “So the little prince tamed the fox. And when the hour of his departure drew near--<br><br>Ah," said the fox, "I shall cry."<br><br>It is your own fault," said the little prince. "I never wished you any sort of harm; but you wanted me to tame you . . ."<br><br>Yes, that is so," said the fox.<br><br>But now you are going to cry!" said the little prince.<br><br>Yes, that is so," said the fox.<br><br>Then it has done you no good at all!"<br><br>It has done me good," said the fox, "because of the color of the wheat fields.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></div>
+<div class="quoteFooter">
+<div class="right">
+<a class="smallText" href="/quotes/48418-so-the-little-prince-tamed-the-fox-and-when-the" title="View this quote">483 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “She cast her fragrance and her radiance over me. I ought never to have run away from her... I ought to have guessed all the affection that lay behind her poor little stratagems. Flowers are so inconsistent! But I was too young to know how to love her...”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/flowers">flowers</a>,
+       <a href="/quotes/tag/love">love</a>,
+       <a href="/quotes/tag/roses">roses</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/36841-she-cast-her-fragrance-and-her-radiance-over-me-i" title="View this quote">472 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “A rock pile ceases to be a rock pile the moment a single man contemplates it, bearing within him the image of a cathedral.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/creativity">creativity</a>,
+       <a href="/quotes/tag/great-quotes">great-quotes</a>,
+       <a href="/quotes/tag/inspirational">inspirational</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/121975-a-rock-pile-ceases-to-be-a-rock-pile-the" title="View this quote">388 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “I did not know how to reach him, how to catch up with him... The land of tears is so mysterious.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/comfort">comfort</a>,
+       <a href="/quotes/tag/empathy">empathy</a>,
+       <a href="/quotes/tag/sadness">sadness</a>,
+       <a href="/quotes/tag/sympathy">sympathy</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/246001-i-did-not-know-how-to-reach-him-how-to" title="View this quote">367 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “You're beautiful, but you're empty. No one could die for you.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/le-petit-prince">le-petit-prince</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/468497-you-re-beautiful-but-you-re-empty-no-one-could-die-for" title="View this quote">363 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “I remembered the fox. One runs the risk of crying a bit if one allows oneself to be tamed.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/inspirational">inspirational</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/109543-i-remembered-the-fox-one-runs-the-risk-of-crying" title="View this quote">359 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “When someone blushes, doesn't that mean 'yes'?”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/love">love</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/324022-when-someone-blushes-doesn-t-that-mean-yes" title="View this quote">357 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “In those days, I didn't understand anything. I should have judged her according to her actions, not her words. She perfumed my planet and lit up my life. I should never have run away! I ought to have realized the tenderness underlying her silly pretensions. Flowers are so contadictory! But I was too young to know how to love her.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="right">
+<a class="smallText" href="/quotes/15733-in-those-days-i-didn-t-understand-anything-i-should-have" title="View this quote">340 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “Grown-ups love figures... When you tell them you've made a new friend they never ask you any questions about essential matters. They never say to you "What does his voice sound like? What games does he love best? Does he collect butterflies? " Instead they demand "How old is he? How much does he weigh? How much money does his father make? " Only from these figures do they think they have learned anything about him.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="right">
+<a class="smallText" href="/quotes/405727-grown-ups-love-figures-when-you-tell-them-you-ve-made-a" title="View this quote">330 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “I have lived a great deal among grown-ups. I have seen them intimately, close at hand. And that hasn’t much improved my opinion of them.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/childlike-wonder">childlike-wonder</a>,
+       <a href="/quotes/tag/maturity">maturity</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/120645-i-have-lived-a-great-deal-among-grown-ups-i-have" title="View this quote">314 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “The proof that the little prince existed is that he was charming, that he laughed, and that he was looking for a sheep.  If anybody wants a sheep, that is a proof that he exists.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/existentialism">existentialism</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/23370-the-proof-that-the-little-prince-existed-is-that-he" title="View this quote">314 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+<div class="quote">
+<div class="quoteDetails">
+<div class="quoteText">
+      “But if you tame me, then we<br>shall need each other. To me, you will be unique in all the world. To you, I<br>shall be unique in all the world.”
+  <br>  ―
+    <a href="/author/show/1020792.Antoine_de_Saint_Exup_ry">Antoine de Saint-Exupéry</a>,
+    <i>
+<a href="/work/quotes/2180358">The Little Prince</a>
+</i>
+</br></br></br></div>
+<div class="quoteFooter">
+<div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/me">me</a>,
+       <a href="/quotes/tag/need">need</a>,
+       <a href="/quotes/tag/world">world</a>,
+       <a href="/quotes/tag/you">you</a>
+</div>
+<div class="right">
+<a class="smallText" href="/quotes/358598-but-if-you-tame-me-then-we-shall-need-each" title="View this quote">245 likes</a>
+</div>
+</div>
+</div>
+<div class="action">
+<a class="button" href="/user/new" rel="nofollow">like</a>
+</div>
+</div>
+</div>
+<br/>
+<div style="text-align: right; width: 100%">
+<div><span class="previous_page disabled">« previous</span> <em class="current">1</em> <a href="/work/quotes/2180358-le-petit-prince?page=2" rel="next">2</a> <a href="/work/quotes/2180358-le-petit-prince?page=3">3</a> <a href="/work/quotes/2180358-le-petit-prince?page=4">4</a> <a href="/work/quotes/2180358-le-petit-prince?page=5">5</a> <a href="/work/quotes/2180358-le-petit-prince?page=6">6</a> <a href="/work/quotes/2180358-le-petit-prince?page=7">7</a> <a href="/work/quotes/2180358-le-petit-prince?page=8">8</a> <a href="/work/quotes/2180358-le-petit-prince?page=9">9</a> <span class="gap">…</span> <a href="/work/quotes/2180358-le-petit-prince?page=17">17</a> <a href="/work/quotes/2180358-le-petit-prince?page=18">18</a> <a class="next_page" href="/work/quotes/2180358-le-petit-prince?page=2" rel="next">next »</a></div>
+</div>
+</div>
+<div class="rightContainer">
+<form accept-charset="UTF-8" action="/quotes/search" class="quoteSearchForm box greyBox" method="get" name="quoteSearchForm"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/></div>
+<label class="mainLabel">Find quotes</label>
+<input class="text greyText" id="explore_search_query" name="q" placeholder="Keyword, Author" type="text"/>
+<input class="searchButton button" name="commit" type="submit" value="Search"/>
+</form>
+<p>
+<a class="actionLinkLite" href="/quotes">All Quotes</a>
+<br/>
+<a class="actionLinkLite" href="/author/quotes/1020792.Antoine_de_Saint_Exup_ry">Quotes By Antoine de Saint-Exupéry</a><br/>
+<a class="actionLinkLite" href="/games/quotes" rel="nofollow">Play The 'Guess That Quote' Game</a>
+</p>
+<br/>
+<div id="div-gpt-ad-d6af7c5c23" style="width: 300px; height: 250px">
+
+</div>
+<br/>
+<div id="self_serve_ads"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="footerContainer">
+<div class="footer">
+<div class="copyright">
+          © 2015 Goodreads Inc
+        </div>
+<div class="adminLinksContainer">
+<ul class="adminLinks">
+<li>
+<a class="first" href="/about/us" rel="nofollow">about us</a>
+</li>
+<li>
+<a href="/advertisers" rel="nofollow">advertise</a>
+</li>
+<li>
+<a href="/author/program" rel="nofollow">author program</a>
+</li>
+<li>
+<a href="/jobs" rel="nofollow">jobs</a>
+</li>
+<li>
+<a href="/api" rel="nofollow">api</a>
+</li>
+<li>
+<a href="/blog/index">our blog</a>
+</li>
+<li>
+<a href="/about/terms" rel="nofollow">terms</a>
+</li>
+<li>
+<a href="/about/privacy" rel="nofollow">privacy</a>
+</li>
+<li>
+<a class="last" href="/help" rel="nofollow">help</a>
+</li>
+<li class="mobileToggleLink">
+<span class="label">switch to:</span>
+<a href="/toggle_mobile?switch_to=mobile" rel="nofollow">mobile version</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="overlay" onclick="Lightbox.hideBox('dropout')" style="display:none"></div>
+<div id="box" style="display:none">
+<div class="xBackground js-closeModalIcon" id="close" onclick="Lightbox.hideBox('dropout')" title="Close this window"></div>
+<div id="boxContents"></div>
+<div id="boxContentsLeftovers" style="display:none"></div>
+<div class="clear"></div>
+</div>
+<div id="fbSigninNotification" style="display:none;">
+<p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+<img alt="Login_animation" src="http://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif"/>
+</div>
+
+<div id="fb-root"></div>
 
 
-<!--Facebook Like Button Script------>
 
-<!--start lightbox-->
-<link charset="utf-8" href="http://www.writersedit.com/wp-content/themes/metro/css/prettyPhoto.css" media="screen" rel="stylesheet" type="text/css"/>
-
-
-<!--end lightbox-->
-<!--start footer code-->
-<!--end footer code-->
-
-
-
-
-
-
-
-
-
-
-
+<noscript>
+<div style="display: none">
+<img alt="" border="0" height="1" src="http://pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif" style="display: none;" width="1"/>
+</div>
+<img alt="" height="0" src="http://b.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" style="display: none" width="0"/>
+</noscript>
 </body>
 </html>

@@ -1,805 +1,395 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
-<!--[if IE]><![endif]--><!--Empty IE conditional comment to improve site performance-->
-<html lang="en">
-<head>
-<!-- 15 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>The Little Prince | Mr. Curtis' Class</title>
+<link href="https://mcliterature.wordpress.com/xmlrpc.php" rel="pingback"/>
+<link href="https://mcliterature.wordpress.com/feed/" rel="alternate" title="Mr. Curtis' Class » Feed" type="application/rss+xml"/>
+<link href="https://mcliterature.wordpress.com/comments/feed/" rel="alternate" title="Mr. Curtis' Class » Comments Feed" type="application/rss+xml"/>
+<link href="https://mcliterature.wordpress.com/category/the-little-prince/feed/" rel="alternate" title="Mr. Curtis' Class » The Little Prince Category Feed" type="application/rss+xml"/>
+
+<link href="https://s1.wp.com/_static/??-eJyNkN0KgzAMhV9oriiyn4uxRxm1xlpN22BTpG+/OtjGcIh3OeE7yUnETIXyjsGxsLEgjNq4III1CIkmP4DiX3VUIRzEfxuaEYIYgEmqsXipFd6g11+D1xpaH7noPKKfxWxaDZs7jOuMM5w+xS6Ye7A5GsVGdBOEftOl/AS5b0nyQlhojQTMA9xmMkunt2sp+/yD9fmrICJwQtjBoUz5UTtAoofEJtoFvdtbWVdldb5e6nJ4Aq66ujs=" id="all-css-0" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 7]>
+<link rel='stylesheet' id='freshy-ie6-css'  href='https://s0.wp.com/wp-content/themes/pub/freshy/ie6.css?m=1323834012g&#038;ver=4.1' type='text/css' media='all' />
+<![endif]-->
+<!--[if IE 7]>
+<link rel='stylesheet' id='freshy-ie7-css'  href='https://s0.wp.com/wp-content/themes/pub/freshy/ie7.css?m=1285366787g&#038;ver=4.1' type='text/css' media='all' />
+<![endif]-->
+<link href="https://s0.wp.com/_static/??-eJx9j+EKgzAMhF9oXTYt+GvsWarNYiRtpK34+haFsbHhn3BH7js4WGczaCwYC4TFzLIQxwwYdOLjXoecL8AQtXBN5rc4Hv95QjWigyus8cuYlzhOZ2jCXpSqJKipD/sDlREDZhgtkGjv5Kx1ZU9Y8l5Jqj6h8/uCZ3jcbXPr2s427bQBPapkXQ==" id="all-css-4" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1387483371g" id="print-css-4" media="print" rel="stylesheet" type="text/css"/>
 
 
-<title>SparkNotes: The Little Prince: Themes, Motifs &amp; Symbols</title>
-<meta content="Description and explanation of the major themes of The Little Prince. This accessible literary criticism is perfect for anyone faced with The Little Prince essays, papers, tests, exams, or for anyone who needs to create a The Little Prince lesson plan." name="description"/>
-<meta content="The Little Prince, themes, symbols, motifs, essays, papers, criticism, teaching, lesson plans" name="keywords"/>
-<link href="http://img.sparknotes.com/images/new_global/new_favicon.ico" rel="shortcut icon"/>
-<link href="http://img.sparknotes.com/css/2013/styles.css" rel="stylesheet"/>
-<link href="http://img.sparknotes.com/css/2013/large-screens.css" rel="stylesheet"/>
-<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE8.css" /><![endif]-->
-<!--[if IE]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE.css" /><![endif]-->
+<link href="https://mcliterature.wordpress.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://s1.wp.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress.com" name="generator"/>
+<link href="https://secure.gravatar.com/blavatar/4751a711e16e558c06d3bd6ee99d6cc8?s=16" rel="shortcut icon" sizes="16x16" type="image/x-icon"/>
+<link href="https://secure.gravatar.com/blavatar/4751a711e16e558c06d3bd6ee99d6cc8?s=16" rel="icon" sizes="16x16" type="image/x-icon"/>
+<link href="https://secure.gravatar.com/blavatar/9e9f437565db88d6d72ca9391f46b5b0?s=114" rel="apple-touch-icon-precomposed"/>
+<link href="https://mcliterature.wordpress.com/?openidserver=1" rel="openid.server"/>
+<link href="https://mcliterature.wordpress.com/" rel="openid.delegate"/>
+<link href="https://mcliterature.wordpress.com/osd.xml" rel="search" title="Mr. Curtis' Class" type="application/opensearchdescription+xml"/>
+<link href="http://wordpress.com/opensearch.xml" rel="search" title="WordPress.com" type="application/opensearchdescription+xml"/>
+<style type="text/css">
+	.menu.primary li a {
+		background-image:url("https://s0.wp.com/wp-content/themes/pub/freshy/images/menu/menu_triple.gif");
+	}
+	.menu.primary li a.first_menu {
+		background-image:url("https://s0.wp.com/wp-content/themes/pub/freshy/images/menu/menu_start_triple.gif");
+	}
+	.menu.primary li a.last_menu {
+		background-image:url("https://s0.wp.com/wp-content/themes/pub/freshy/images/menu/menu_end_triple.gif");
+	}
 
+	.description {
+		color:#ADCF20;
+	}
+	#content .commentlist dd.author_comment {
+		background-color:#a3cb00 !important;
+	}
+	html > body #content .commentlist dd.author_comment {
+		background-color:#a3cb00 !important;
+	}
+	#content .commentlist dt.author_comment .date {
+		color:#a3cb00 !important;
+		border-color:#a3cb00 !important;
+	}
+	#content .commentlist .author_comment .author,
+	#content .commentlist .author_comment .author a {
+		color:#a3cb00 !important;
+		border-color:#a3cb00 !important;
+	}
+	#sidebar h2 {
+		color:#f78b0c;
+		background-color:#FFFFFF;
+		border-bottom-color:#f78b0c;
+	}
+	#sidebar {
+		background-color:#FFFFFF;
+	}
+	*::-moz-selection {
+		background-color:#FF3C00;
+	}
 
+	#content a:hover {
+		border-bottom:1px dotted #FF3C00;
+	}
 
+	#sidebar a:hover,
+	#sidebar .current_page_item li a:hover,
+	#sidebar .current-cat li a:hover,
+	#sidebar .current_page_item a,
+	#sidebar .current-cat a ,
+	.readmore,
+	#content .postmetadata a
+	{
+		color : #FF3C00;
+	}
 
+	#title_image {
+		margin:0;
+		text-align:left;
+		display:block;
+		height:95px;
+	}
+
+	</style>
+<meta content="Mr. Curtis' Class" name="application-name"/><meta content="width=device-width;height=device-height" name="msapplication-window"/><meta content="Freshman English with Mr. Curtis" name="msapplication-tooltip"/><meta content="name=Subscribe;action-uri=https://mcliterature.wordpress.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/4751a711e16e558c06d3bd6ee99d6cc8?s=16" name="msapplication-task"/><meta content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="Posts about The Little Prince on Mr. Curtis' Class" name="title"/>
+<meta content="Posts about The Little Prince written by mcliterature and Minooka TAP" name="description"/>
+<style type="text/css">
+		#title_image {
+			background-image: url( https://mcliterature.files.wordpress.com/2011/02/cropped-1045.jpg );
+		}
+	</style>
+<style id="syntaxhighlighteranchor" type="text/css"></style>
 
 </head>
-<body class="study-guides blue-background">
-<div id="fb-root"></div>
- 
-<header>
-<link href="http://img.sparknotes.com/css/gigya.css" rel="stylesheet"/>
-<div class="short-light-grey-gradient">
-<div class="clearfix centered-width masthead">
-<div class="col-1-3">
-<div class="utility navigation">
-<div id="placeholder">
-
-</div>
-										 
-				</div>
-</div>
-<div class="col-1-3 center logo">
-<h2 class="is-centered"><a class="logo hide-text" href="http://www.sparknotes.com/">SparkNotes</a></h2>
-</div>
-<div class="col-1-3 last">
-<navigation>
-<div id="user-links-wrapper">
-<div class="login" id="login-dialog" style="display:none;">
-<form action="https://www.sparknotes.com/login" id="loginform" method="POST">
-<input class="jsClearOnFocus" id="email" name="email" placeholder="email" type="text">
-<input class="jsClearOnFocus" id="password" name="password" type="password" value="password">
-<input checked="checked" id="remember_me" name="remember_me" type="checkbox">
-<label for="remember_me"> Remember me</label>
-<input class="turquoise-gradient" id="login" name="submit" type="submit" value="Log in">
-<input name="uri" type="hidden" value="http://www.sparknotes.com/">
-<input id="referer" name="referer" type="hidden" value="http://www.sparknotes.com/">
-</input></input></input></input></input></input></form>
-</div>
-
-
-
-
-</div>
-</navigation>
-<div class="ui-widget search small-search">
-<form action="http://www.sparknotes.com/search" class="clearfix search" id="searchform" method="get">
-<fieldset>
-<input class="search_field inner-shadow grey-text" id="search-sparknotes" name="q" placeholder="By keyword" type="text" value=""/>
-<input type="submit" value="Go"/>
-<!--      						<input name="searchbg" value="" class="searchbg" type="hidden" />
-      						
-      						<input name="template" value="default" type="hidden" />
-      						
-      						<input type="hidden" name="output" value="xml_no_dtd" />
-      						
-      						<input type="hidden" name="oe" value="UTF-8"/>
-      						
-      						<input type="hidden" name="ie" value="UTF-8" />
-      						
-      						<input type="hidden" name="client" value="default_frontend" />
-      						
-      						<input type="hidden" name="proxystylesheet" value="default_frontend" />
-      						
-      						<input type="hidden" name="site" value="SparkNotes" /> -->
-</fieldset>
-</form>
+<body class="archive category category-the-little-prince category-117687 mp6 typekit-enabled customizer-styles-applied highlander-enabled highlander-light infinite-scroll neverending">
+<div id="page">
+<div id="wrapper">
+<!-- header -->
+<div id="header">
+<div id="title">
+<h1>
+<a href="https://mcliterature.wordpress.com/">
+<span>Mr. Curtis' Class</span>
+</a>
+</h1>
+<div class="description">
+<small>Freshman English with Mr. Curtis</small>
 </div>
 </div>
+<div id="title_image"></div>
 </div>
-</div>
-<!-- Begin comScore Tag -->
-
-<noscript>
-<img alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035001&amp;cv=2.0&amp;cj=1"/>
-</noscript>
-<!-- End comScore Tag -->
-<a class="hide-text hide-text-accessibility" href="#startcontent">Skip over navigation</a>
-<div class="dark-grey-background">
-<div class="clearfix no-columns center centered-width top-nav-container">
-<navigation>
-<ul class="clearfix is-inline is-centered top-nav" id="menu">
-<li id="sparknotes-tab"><a class="semi-bold light-text" href="http://www.sparknotes.com/sparknotes/">SparkNotes</a>
-<div class="clearfix dropdown text-color dropdown-sparknotes dark-drop-shadow">
-<div class="col-1-8">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/"><strong>SparkNotes Main</strong></a></h5></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/"><strong>Video SparkNotes</strong></a></li>
-<li><a href="http://www.sparknotes.com/shakespeare/"><strong>Shakespeare SparkNotes</strong></a></li>
-<li><a href="http://www.sparknotes.com/lit/index_title.html"><strong>Titles A-Z</strong></a></li>
-<li>
-<ul class="clearfix margin-0 alpha">
-<li><a href="http://www.sparknotes.com/lit/index_a.html">A</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_b.html">B</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_c.html">C</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_d.html">D</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_e.html">E</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_f.html">F</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_g.html">G</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_h.html">H</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_i.html">I</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_j.html">J</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_k.html">K</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_l.html">L</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_m.html">M</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_n.html">N</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_o.html">O</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_p.html">P</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_r.html">R</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_s.html">S</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_t.html">T</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_u.html">U</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_v.html">V</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_w.html">W</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_y.html">Y</a></li>
-</ul>
+<!-- main div -->
+<div id="frame">
+<!-- main menu -->
+<ul class="menu page-menu primary">
+<li class="page_item">
+<a class="first_menu" href="https://mcliterature.wordpress.com/">
+			Home		</a>
+</li>
+<li class="page_item"><a href="https://mcliterature.wordpress.com/mrcsbook/" title="Mr. Curtis' Book">Mr. Curtis' Book</a></li>
+<li class="page_item"><a href="https://mcliterature.wordpress.com/minooka-t-a-p/" title="Minooka T.A.P.">Minooka T.A.P.</a></li>
+<li class="page_item"><a href="https://mcliterature.wordpress.com/about-mr-curtis/" title="About Mr. Curtis">About Mr. Curtis</a></li>
+<li class="page_item"><a href="https://mcliterature.wordpress.com/assignments/" title="Assignments">Assignments</a></li>
+<li class="page_item"><a href="https://mcliterature.wordpress.com/english-i-honors/" title="English I Honors">English I Honors</a></li>
+<li class="page_item"><a href="https://mcliterature.wordpress.com/english-i/" title="English I">English I</a></li>
+<li class="last_menu">
+<!-- put an empty link to have the end of the menu anyway -->
+<a class="last_menu_off"></a>
 </li>
 </ul>
-<ul>
-<li><a href="http://www.sparknotes.com/lit/index_author.html"><strong>Authors A-Z</strong></a></li>
-<li>
-<ul class="clearfix margin-0 alpha">
-<li><a href="http://www.sparknotes.com/lit/index_author_a.html">A</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_b.html">B</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_c.html">C</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_d.html">D</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_e.html">E</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_f.html">F</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_g.html">G</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_h.html">H</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_i.html">I</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_j.html">J</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_k.html">K</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_l.html">L</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_m.html">M</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_n.html">N</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_o.html">O</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_p.html">P</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_r.html">R</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_s.html">S</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_t.html">T</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_u.html">U</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_v.html">V</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_w.html">W</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_y.html">Y</a></li>
-</ul>
-</li>
-</ul>
+<hr style="display:none"/>
+<div id="content">
+<!-- pages -->
+<div class="post-241 post type-post status-publish format-standard hentry category-france category-literature-response category-the-little-prince" id="post-241">
+<h2><a href="https://mcliterature.wordpress.com/2012/03/08/the-little-prince-2-2/" rel="bookmark">The Little Prince 2</a></h2>
+<small class="date">
+<span class="date_day">8</span>
+<span class="date_month">03</span>
+<span class="date_year">2012</span>
+</small>
+<div class="entry">
+<p><a href="https://mcliterature.files.wordpress.com/2011/04/fox.jpg"><img alt="" class="alignleft size-medium wp-image-60" height="215" src="https://mcliterature.files.wordpress.com/2011/04/fox.jpg?w=300&amp;h=215" title="fox" width="300"/></a>In <em>The Little Prince, </em>the fox and the prince have a conversation about what makes that one particular boy, or that one particular fox, or that one particular flower special.</p>
+<p>In the end, the fox told the prince: “Here is my secret.  It’s quite simple:  One sees clearly only with the heart.  Anything else essential is invisible to the eyes.”</p>
+<p>In your own words, what does that quote mean to you?  Apply it to your own life or other pieces of literature if you need to give examples in your explanation.</p>
+<p><em>Be sure to type out your answers in complete sentences.  Be sure to back up your ideas with some examples, evidence, or proof.  Be sure to check back and see what other people say too.  Be sure to comment on what they say.</em></p>
+<p>Your answer should be 3-5 paragraphs long and give examples from both The Little Prince and other places (other books, movies, the real world…)</p>
 </div>
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Top SparkNotes</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/lit/mocking/">To Kill a Mockingbird</a></li>
-<li><a href="http://www.sparknotes.com/lit/gatsby/">The Great Gatsby</a></li>
-<li><a href="http://www.sparknotes.com/lit/flies/">Lord of the Flies</a></li>
-<li><a href="http://www.sparknotes.com/lit/huckfinn">Adventures of Huck Finn</a></li>
-<li><a href="http://www.sparknotes.com/lit/catcher/">The Catcher in the Rye</a></li>
-<li><a href="http://www.sparknotes.com/lit/1984">1984</a></li>
-<li><a href="http://www.sparknotes.com/lit/451">Fahrenheit 451</a></li>
-<li><a href="http://www.sparknotes.com/lit/scarlet">The Scarlet Letter</a></li>
-<li><a href="http://www.sparknotes.com/lit/grapesofwrath">The Grapes of Wrath</a></li>
-<li><a href="http://www.sparknotes.com/lit/bravenew">Brave New World</a></li>
-<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/"><strong>See all →</strong></a></li>
-</ul>
+<br class="clear"/>
+<small class="postmetadata">Comments : <a href="https://mcliterature.wordpress.com/2012/03/08/the-little-prince-2-2/#comments" title="Comment on The Little Prince 2">64 Comments »</a></small>
+<br/>
+<small class="postmetadata"></small>
+<br/>
+<small class="postmetadata">Categories : <a href="https://mcliterature.wordpress.com/category/france/" rel="category tag">France</a>, <a href="https://mcliterature.wordpress.com/category/literature-response/" rel="category tag">Literature Response</a>, <a href="https://mcliterature.wordpress.com/category/the-little-prince/" rel="category tag">The Little Prince</a></small>
 </div>
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/video/">Top Video SparkNotes</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/sparknotes/video/1984">1984</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/hamlet">Hamlet</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/romeojuliet">Romeo and Juliet</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/mocking">To Kill A Mockingbird</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/othello">Othello</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/macbeth">Macbeth</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/scarlet">The Scarlet Letter</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/flies">Lord of the Flies</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/frankenstein">Frankenstein</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/gatsby">The Great Gatsby</a></li>
-<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/video/"><strong>See all →</strong></a></li>
-</ul>
+<hr style="display:none;"/>
+<div class="post-236 post type-post status-publish format-standard hentry category-france category-literature-response category-the-little-prince" id="post-236">
+<h2><a href="https://mcliterature.wordpress.com/2012/02/28/the-little-prince-2012/" rel="bookmark">The Little Prince – 2012</a></h2>
+<small class="date">
+<span class="date_day">28</span>
+<span class="date_month">02</span>
+<span class="date_year">2012</span>
+</small>
+<div class="entry">
+<p><em><a href="https://mcliterature.files.wordpress.com/2011/02/the_little_prince.jpg"><img alt="" class="alignleft size-medium wp-image-44" src="https://mcliterature.files.wordpress.com/2011/02/the_little_prince.jpg?w=288&amp;h=300" title="The_Little_Prince"/></a></em>The Little Prince has traveled around to a bunch of small planets.  On each of them he met one strange person, and almost all of those people made him think that grown-ups are pretty strange.  As we talked about in class, the characters in the book may be symbols that represent real people or groups of people in the real world.  The author may be using this story to tell us something about those real people by showing you these ridiculous characters in the book.</p>
+<p>In the comments section below, share with the class what you think Antoine de Saint Exupery might be trying to say.  Who do the king, the vain man, the drunkard, the business man, the lamplighter, and the geographer really represent.</p>
+<p><em>Be sure to type out your answers in complete sentences.  Be sure to back up your ideas with some examples, evidence, or proof from both the story and real life.  Your answers should be 3-4 paragraphs (each paragraph between 5-7 sentences).</em></p>
+<p><em> Be sure to check back and see what other people say too.  Be sure to comment on what they say.  Part of your assignment is to comment on what at least 2 other kids wrote.  </em></p>
 </div>
-<div class="col-1-8 last">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Other Subjects</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/biology/">Biology</a></li>
-<li><a href="http://www.sparknotes.com/biography/">Biography</a></li>
-<li><a href="http://www.sparknotes.com/chemistry/">Chemistry</a></li>
-<li><a href="http://www.sparknotes.com/cs/">Computer Science</a></li>
-<li><a href="http://www.sparknotes.com/drama/">Drama</a></li>
-<li><a href="http://www.sparknotes.com/economics/">Economics</a></li>
-<li><a href="http://www.sparknotes.com/film/">Film</a></li>
-<li><a href="http://www.sparknotes.com/history/">History</a></li>
-<li><a href="http://www.sparknotes.com/lit/">Literature</a></li>
-<li><a href="http://www.sparknotes.com/math/">Math</a></li>
-<li><a href="http://www.sparknotes.com/philosophy/">Philosophy</a></li>
-<li><a href="http://www.sparknotes.com/physics/">Physics</a></li>
-<li><a href="http://www.sparknotes.com/poetry/">Poetry</a></li>
-<li><a href="http://www.sparknotes.com/psychology/">Psychology</a></li>
-<li><a href="http://www.sparknotes.com/sociology/">Sociology</a></li>
-<li><a href="http://www.sparknotes.com/us-government-and-politics/">U.S. Government</a></li>
-</ul>
+<br class="clear"/>
+<small class="postmetadata">Comments : <a href="https://mcliterature.wordpress.com/2012/02/28/the-little-prince-2012/#comments" title="Comment on The Little Prince – 2012">123 Comments »</a></small>
+<br/>
+<small class="postmetadata"></small>
+<br/>
+<small class="postmetadata">Categories : <a href="https://mcliterature.wordpress.com/category/france/" rel="category tag">France</a>, <a href="https://mcliterature.wordpress.com/category/literature-response/" rel="category tag">Literature Response</a>, <a href="https://mcliterature.wordpress.com/category/the-little-prince/" rel="category tag">The Little Prince</a></small>
 </div>
+<hr style="display:none;"/>
+<div class="post-65 post type-post status-publish format-standard hentry category-france category-literature-response category-the-little-prince" id="post-65">
+<h2><a href="https://mcliterature.wordpress.com/2011/04/20/the-little-prince-4/" rel="bookmark">The Little Prince 4</a></h2>
+<small class="date">
+<span class="date_day">20</span>
+<span class="date_month">04</span>
+<span class="date_year">2011</span>
+</small>
+<div class="entry">
+<p><a href="https://mcliterature.files.wordpress.com/2011/04/the-little-prince1.gif"><img alt="" class="alignleft size-medium wp-image-66" height="132" src="https://mcliterature.files.wordpress.com/2011/04/the-little-prince1.gif?w=300&amp;h=132" title="the-little-prince1" width="300"/></a>We talked about <em>The Little Prince </em>for nearly two weeks.  While we discussed the story, we decided that we understand the story is about a little boy from a far away planet, two active volcanoes, one extinct volcano (but you never know), baobabs, a flower, a sheep, a king, a fox, a pilot, and a snake.  We also realized that the story is not about boys, planets, volcanoes (extinct or not), trees with funny sounding names, flowers, sheep, kings, foxes, any sort of airplanes, or snakes.</p>
+<p>If <em>The Little Prince </em>is about all those things, but isn’t about any of those things… What is <em>The Little Prince </em>about?</p>
+<p><em>Be sure to type out your answers in complete sentences.  Be sure to back up your ideas with some examples, evidence, or proof.  Be sure to check back and see what other people say too.  Be sure to comment on what they say. </em></p>
 </div>
-</li>
-<li id="no-fear"><a class="semi-bold light-text" href="http://nfs.sparknotes.com/">No Fear</a>
-<div class="clearfix dropdown dropdown-no-fear text-color dark-drop-shadow">
+<br class="clear"/>
+<small class="postmetadata">Comments : <a href="https://mcliterature.wordpress.com/2011/04/20/the-little-prince-4/#comments" title="Comment on The Little Prince 4">278 Comments »</a></small>
+<br/>
+<small class="postmetadata"></small>
+<br/>
+<small class="postmetadata">Categories : <a href="https://mcliterature.wordpress.com/category/france/" rel="category tag">France</a>, <a href="https://mcliterature.wordpress.com/category/literature-response/" rel="category tag">Literature Response</a>, <a href="https://mcliterature.wordpress.com/category/the-little-prince/" rel="category tag">The Little Prince</a></small>
 </div>
-</li>
-<li id="test-prep"><a class="semi-bold light-text" href="http://www.sparknotes.com/testprep/">Test Prep</a>
-<div class="clearfix dropdown dropdown-test-prep text-color dark-drop-shadow centered-width">
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/">Test Prep Main</a></h5></li>
-<li><a href="http://www.sparknotes.com/testprep/newsat/">SAT</a></li>
-<li><a href="http://www.sparknotes.com/testprep/act/">ACT</a></li>
-<li><a href="http://www.sparknotes.com/testprep/gre/">GRE</a></li>
-</ul>
+<hr style="display:none;"/>
+<div class="post-57 post type-post status-publish format-standard hentry category-france category-literature-response category-the-little-prince" id="post-57">
+<h2><a href="https://mcliterature.wordpress.com/2011/04/15/the-little-prince-3/" rel="bookmark">The Little Prince 3</a></h2>
+<small class="date">
+<span class="date_day">15</span>
+<span class="date_month">04</span>
+<span class="date_year">2011</span>
+</small>
+<div class="entry">
+<p><a href="https://mcliterature.files.wordpress.com/2011/04/fox.jpg"><img alt="" class="alignleft size-medium wp-image-60" height="215" src="https://mcliterature.files.wordpress.com/2011/04/fox.jpg?w=300&amp;h=215" title="fox" width="300"/></a>In <em>The Little Prince, </em>the fox and the prince have a conversation about what makes that one particular boy, or that one particular fox, or that one particular flower special.</p>
+<p>In the end, the fox told the prince: “Here is my secret.  It’s quite simple:  One sees clearly only with the heart.  Anything else essential is invisible to the eyes.”</p>
+<p>In your own words, what does that quote mean to you?  Apply it to your own life or other pieces of literature if you need to give examples in your explanation.</p>
+<p><em>Be sure to type out your answers in complete sentences.  Be sure to back up your ideas with some examples, evidence, or proof.  Be sure to check back and see what other people say too.  Be sure to comment on what they say. </em></p>
 </div>
-<div class="col-1-4 last">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/newsat/">SAT Subject Tests</a></h5></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/biology/">SAT Biology</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/chemistry/">SAT Chemistry</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/history/">SAT History</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/math1c/">SAT Math Level 1</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/math2c/">SAT Math Level 2</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/physics/">SAT Physics</a></li>
-</ul>
+<br class="clear"/>
+<small class="postmetadata">Comments : <a href="https://mcliterature.wordpress.com/2011/04/15/the-little-prince-3/#comments" title="Comment on The Little Prince 3">132 Comments »</a></small>
+<br/>
+<small class="postmetadata"></small>
+<br/>
+<small class="postmetadata">Categories : <a href="https://mcliterature.wordpress.com/category/france/" rel="category tag">France</a>, <a href="https://mcliterature.wordpress.com/category/literature-response/" rel="category tag">Literature Response</a>, <a href="https://mcliterature.wordpress.com/category/the-little-prince/" rel="category tag">The Little Prince</a></small>
 </div>
+<hr style="display:none;"/>
+<div class="post-49 post type-post status-publish format-standard hentry category-france category-literature-response category-the-little-prince" id="post-49">
+<h2><a href="https://mcliterature.wordpress.com/2011/04/12/the-little-prince-2/" rel="bookmark">The Little Prince 2</a></h2>
+<small class="date">
+<span class="date_day">12</span>
+<span class="date_month">04</span>
+<span class="date_year">2011</span>
+</small>
+<div class="entry">
+<p><a href="https://mcliterature.files.wordpress.com/2011/04/snake.jpg"><img alt="" class="alignright size-medium wp-image-50" src="https://mcliterature.files.wordpress.com/2011/04/snake.jpg?w=217&amp;h=300" title="snake"/></a>After traveling to several planets and meeting a series of grown-ups that baffled the him, The little prince has finally arrived on Earth.  He’s met a tiny snake that claims to be more powerful than a king, a flower that seems terribly unaware, an echo that confuses the prince, and a whole garden full of roses that make the prince feel ordinary and unworthy of being a prince.</p>
+<p>In his short time on Earth, the little prince has already begun to seem like a different person.  He is no longer as optimistic, as happy, or as curious.</p>
+<p>Tell me how has Earth, and these creatures he’s met there, changed the little prince?</p>
+<p>Is this a good thing or a bad thing?  Why?</p>
+<p><em>Be sure to type out your answers in complete sentences.  Be sure to  back up your ideas with some examples, evidence, or proof.  Be sure to  check back and see what other people say too.  Be sure to comment on  what they say. </em></p>
 </div>
-</li>
-<li id="video"><a class="semi-bold light-text" href="http://www.sparknotes.com/video/">Video</a>
-<div class="clearfix dropdown dropdown-video text-color border-dark-grey">
+<br class="clear"/>
+<small class="postmetadata">Comments : <a href="https://mcliterature.wordpress.com/2011/04/12/the-little-prince-2/#comments" title="Comment on The Little Prince 2">124 Comments »</a></small>
+<br/>
+<small class="postmetadata"></small>
+<br/>
+<small class="postmetadata">Categories : <a href="https://mcliterature.wordpress.com/category/france/" rel="category tag">France</a>, <a href="https://mcliterature.wordpress.com/category/literature-response/" rel="category tag">Literature Response</a>, <a href="https://mcliterature.wordpress.com/category/the-little-prince/" rel="category tag">The Little Prince</a></small>
 </div>
-</li>
-<li id="sparklife"><a class="semi-bold light-text" href="http://community.sparknotes.com/">SparkLife</a>
-<div class="clearfix dropdown dropdown-sparklife text-color dark-drop-shadow">
+<hr style="display:none;"/>
+<div class="post-1 post type-post status-publish format-standard hentry category-france category-literature-response category-the-little-prince" id="post-1">
+<h2><a href="https://mcliterature.wordpress.com/2011/04/08/hello-world/" rel="bookmark">The Little Prince</a></h2>
+<small class="date">
+<span class="date_day">8</span>
+<span class="date_month">04</span>
+<span class="date_year">2011</span>
+</small>
+<div class="entry">
+<p><em><a href="https://mcliterature.files.wordpress.com/2011/02/the_little_prince.jpg"><img alt="" class="alignleft size-medium wp-image-44" src="https://mcliterature.files.wordpress.com/2011/02/the_little_prince.jpg?w=288&amp;h=300" title="The_Little_Prince"/></a></em>The Little Prince has traveled around to a bunch of small planets.  On each of them he met one strange person, and almost all of those people made him think that grown-ups are pretty strange.  As we talked about in class, the characters in the book may be symbols that represent real people or groups of people in the real world.  The author may be using this story to tell us something about those real people by showing you these ridiculous characters in the book.</p>
+<p>In the comments section below, share with the class what you think Antoine de Saint Exupery might be trying to say.  Who do the king, the vain man, the drunkard, the business man, the lamplighter, and the geographer really represent.</p>
+<p><em>Be sure to type out your answers in complete sentences.  Be sure to back up your ideas with some examples, evidence, or proof.  Be sure to check back and see what other people say too.  Be sure to comment on what they say. </em></p>
 </div>
-</li>
-<li id="mindhut"><a class="semi-bold light-text" href="http://www.sparknotes.com/mindhut">The Mindhut</a>
-<div class="clearfix dropdown dropdown-mindhut text-color dark-drop-shadow">
+<br class="clear"/>
+<small class="postmetadata">Comments : <a href="https://mcliterature.wordpress.com/2011/04/08/hello-world/#comments" title="Comment on The Little Prince">198 Comments »</a></small>
+<br/>
+<small class="postmetadata"></small>
+<br/>
+<small class="postmetadata">Categories : <a href="https://mcliterature.wordpress.com/category/france/" rel="category tag">France</a>, <a href="https://mcliterature.wordpress.com/category/literature-response/" rel="category tag">Literature Response</a>, <a href="https://mcliterature.wordpress.com/category/the-little-prince/" rel="category tag">The Little Prince</a></small>
 </div>
-</li>
-</ul>
-</navigation>
-</div>
-</div>
-<a class="hide-text hide-text-accessibility" id="startcontent"></a><!-- For accesibility -->
-</header>
-
-<div id="ad-skin-bg">
-<div id="ad-skin-img">
-<div class="inner-content blue-background">
-<div class="center no-columns top-ad">
-<div class="is-centered ad-container">
-
-</div>
-</div>
-<div class="clearfix breadcrumbs">
-<ul class="clearfix is-inline semi-bold">
-<li class="margin-0">
-<a href="http://www.sparknotes.com">Home</a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/sparknotes/">SparkNotes </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/lit/">Literature Study Guides </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/lit/littleprince/">The Little Prince </a> <span class="link-color">→</span> Themes, Motifs &amp; Symbols    	</li>
-</ul>
-</div>
-<div class="clearfix interior">
-<div class="col-small-left">
-<div class="light-blue-background border-blue left-menu">
-<h2>Contents</h2>
-<ul>
-<h4 class="semi-bold">General Info</h4>
-<li><a href="http://www.sparknotes.com/lit/littleprince/context.html">Context</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/summary.html">Plot Overview</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/characters.html">Character List</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/canalysis.html">Analysis of Major Characters</a></li>
-<li class="active">Themes, Motifs &amp; Symbols</li>
-<h4 class="semi-bold">Summary &amp; Analysis</h4><li><a href="http://www.sparknotes.com/lit/littleprince/section1.rhtml">Chapters I–III</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section2.rhtml">Chapters IV–VI</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section3.rhtml">Chapters VII–IX</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section4.rhtml">Chapters X–XII</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section5.rhtml">Chapters XIII–XV</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section6.rhtml">Chapters XVI–XX</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section7.rhtml">Chapters XXI–XXIII</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section8.rhtml">Chapters XXIV–XXV</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section9.rhtml">Chapters XXVI–XXVII</a></li>
-<h4 class="semi-bold">Study Tools</h4>
-<li><a href="http://www.sparknotes.com/lit/littleprince/quotes.html">Important Quotations Explained</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/facts.html">Key Facts</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/study.html">Study Questions &amp; Essay Topics</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/quiz.html">Quiz</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/bibliography.html">Suggestions for Further Reading</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/citing.html">How to Cite This SparkNote</a></li>
-</ul>
-</div>
-<div id="leftAd">
-
-</div>
-</div>
-<div class="col-mid">
-<div class="white-background border-blue content">
-<h1 class="title padding-btm-0">The Little Prince</h1><h2 class="author">Antoine de Saint-Exupéry</h2>
-<div class="clearfix next-previous center"><a class="left arrow-nav previous text-color" href="http://www.sparknotes.com/lit/littleprince/canalysis.html" title="previous">←</a><div class="next-title text-color is-centered">Themes, Motifs &amp; Symbols</div><a class="right arrow-nav next text-color" href="http://www.sparknotes.com/lit/littleprince/section1.rhtml" title="next">→</a></div><div class="tooltip dark-grey-background"><h3 class="semi-bold">Analysis of Major Characters</h3></div><div class="tooltip dark-grey-background"><h3 class="semi-bold">Chapters I–III</h3></div><div class="clearfix">
-<h5 class="right">
-</h5>
-<div style="clear:both;"></div>
-</div>
-<div class="studyGuideText" id="themesms">
-<h4>Themes</h4>
-<blockquote class="quotation">Themes are the fundamental and often universal ideas
-explored in a literary work.</blockquote>
-<h5>The Dangers of Narrow-Mindedness</h5>
-<p>
-<i>The Little Prince</i> exposes the ignorance
-that accompanies an incomplete and narrow-minded perspective. In
-Chapter IV, for example, when the Turkish astronomer first presents
-his discovery of Asteroid B-<span class="small-caps">612</span>, he is ignored
-because he wears traditional Turkish clothing. Years later, he makes
-the same presentation wearing European clothing and receives resounding
-acclaim. Because the three-petaled flower described in Chapter XVI
-has spent its whole life in the desert, it incorrectly reports that
-Earth contains very few humans and that they are a rootless, drifting
-people. </p>
-<div class="floatingad"></div>
-<p>Even the protagonists of <i>The Little Prince</i> have
-their moments of narrow-mindedness. In Chapter XVII, the narrator
-confesses that his previous description of Earth focused too much
-on humans. In Chapter XIX, the little prince mistakes the echo of
-his own voice for that of humans and falsely accuses humans of being
-too repetitive. Such quick judgments, the story argues, lead to
-the development of dangerous stereotypes and prejudices. They also
-prevent the constant questioning and open-mindedness that are important
-to a well-adjusted and happy life.</p>
-<p>	For the most part, <i>The Little Prince</i> characterizes
-narrow-mindedness as a trait of adults. In the very first chapter,
-the narrator draws a sharp contrast between the respective ways
-grown-ups and children view the world. He depicts grown-ups as unimaginative, dull,
-superficial, and stubbornly sure that their limited perspective
-is the only one possible. He depicts children, on the other hand,
-as imaginative, open-minded, and aware of and sensitive to the mystery
-and beauty of the world.</p>
-<p>	In the story’s opening pages, the narrator explains that
-grown-ups lack the imagination to see his Drawing Number One, which represents
-a boa constrictor swallowing an elephant, as anything other than
-a hat. As the story progresses, other examples of the blindness
-of adults emerge. As the little prince travels from planet to planet,
-the six adults he encounters proudly reveal their character traits,
-whose contradictions and shortcomings the little prince then exposes. </p>
-<p>The little prince represents the open-mindedness of children.
-He is a wanderer who restlessly asks questions and is willing to
-engage the invisible, secret mysteries of the universe. The novel
-suggests that such inquisitiveness is the key to understanding and
-to happiness. However, <i>The Little Prince</i> shows
-that age is not the main factor separating grown-ups from children.
-The narrator, for example, has aged enough to forget how to draw,
-but he is still enough of a child to understand and befriend the
-young, foreign little prince.</p>
-<h5>Enlightenment through Exploration </h5>
-<p>As the critic James Higgins points out, each of the novel’s
-main characters hungers both for adventure (exploration of the outside world)
-and for introspection (exploration within himself). It is through
-his encounter with the lost prince in the lonely, isolated desert
-that the friendless narrator achieves a newfound understanding of
-the world. But in his story of the little prince’s travels, Saint-Exupéry
-shows that spiritual growth must also involve active exploration.
-The narrator and the prince may be stranded in the desert, but they
-are both explorers who make a point of traveling the world around
-them. Through a combination of exploring the world and exploring
-their own feelings, the narrator and the little prince come to understand
-more clearly their own natures and their places in the world.</p>
-<h5>Relationships Teach Responsibility</h5>
-<div class="floatingad"></div>
-<p>
-<i>The Little Prince</i> teaches that the responsibility
-demanded by relationships with others leads to a greater understanding
-and appreciation of one’s responsibilities to the world in general.
-The story of the prince and his rose is a parable (a story that
-teaches a lesson) about the nature of real love. The prince’s love
-for his rose is the driving force behind the novel. The prince leaves
-his planet because of the rose; the rose permeates the prince’s
-discussions with the narrator; and eventually, the rose becomes
-the reason the prince wants to return to his planet. The source
-of the prince’s love is his sense of responsibility toward his beloved
-rose. When the fox asks to be tamed, he explains to the little prince
-that investing oneself in another person makes that person, and
-everything associated with him or her, more special. <i>The
-Little Prince</i> shows that what one gives to another is even
-more important than what that other gives back in return.</p>
-<h4>Motifs </h4>
-<blockquote class="quotation">Motifs are recurring structures, contrasts, or literary
-devices that can help to develop and inform the text’s major themes.</blockquote>
-<h5>Secrecy </h5>
-<p>At the heart of <i>The Little Prince</i> is
-the fox’s bold statement that “[a]nything essential is invisible
-to the eye.” All the characters the little prince encounters before
-coming to Earth eagerly and openly explain to him everything about
-their lives. But the little prince finds that on Earth, all true
-meanings are hidden. The first character to greet him on Earth is
-the snake, who speaks only in riddles. In subsequent chapters, the
-narrator and the little prince frequently describe events as  “mysterious”
-and “secret.” This choice of words is crucial to the book’s message.
-To describe the mysteries of life as puzzles or questions would
-imply that answering them is possible. The fact that events on Earth
-are cast as mysteries suggests that they never can be resolved fully.
-However, this idea is not as pessimistic as it might seem. The novel
-asserts that, while many questions in life remain mysteries, exploration
-of the unknown is what counts, even though it does not leads to
-definite answers.</p>
-<h5>The Narrator’s Drawings </h5>
-<p>The narrator’s illustration of his story emphasizes Saint-Exupéry’s belief
-that words have limits and that many truths defy verbal explanation.
-The narrator places drawings into the text at certain points to
-explain his encounter in the desert, and although his illustrations are
-simple, they are integral to understanding the novel. Saint-Exupéry
-defies the convention that stories should be only text and enriches
-his work by including pictures as well as words.</p>
-<p>The drawings also allow the narrator to return to his
-lost childhood perspectives. He notes that he uses his Drawing Number
-One to test adults he meets. The drawing is actually of a boa constrictor swallowing
-an elephant, but to most adults it looks like a hat. Whether or
-not a character recognizes the drawing as a hat indicates how closed-minded
-he is. The narrator notes several times in his story that drawing
-is very difficult for him because he abandoned it at age six, after
-finding that adults were unreceptive to his drawings. Therefore,
-his decision to illustrate his story also indicates his return to
-the lost innocence of his youth.</p>
-<h5>Taming </h5>
-<p>Saint-Exupéry’s tale is filled with characters who either
-should be or have been tamed. The fox explains that taming means
-“creating ties” with another person so that two people become more
-special to one another. Simple contact is not enough: the king,
-the vain man, the drunkard, the businessman, the geographer, and
-the lamplighter all meet the prince, but are too stuck in their
-routines to establish proper ties with him. The fox is the first
-character to explain that in order to be truly connected to another,
-certain rites and rituals must be observed, and two people must
-give part of themselves to each other. In fact, the process of taming
-is usually depicted as being more labor-intensive for the one doing
-the taming than for the person being tamed. Despite the work and
-emotional involvement required, taming has obvious benefits. The
-fox explains that the meaning of the world around him will be enriched
-because the little prince has tamed him. In contrast, the businessman
-cannot even remember what the stars he owns are called.</p>
-<h5>Serious Matters </h5>
-<p>The concept of “serious matters” is raised several times
-in the novel, and each time, it highlights the difference between
-the priorities of adults and children. To adults, serious matters
-are those relating to business and life’s most basic necessities.
-For example, the businessman who owns all the stars refers to himself
-as a “serious person,” an obviously ridiculous claim since he has
-no use for and makes no contribution to his property. Even the narrator
-expresses an understandably desperate claim that fixing his engine
-is more serious than listening to the prince’s stories. However,
-the narrator soon admits that the engine troubles in truth pale
-in comparison to the little prince’s tears.</p>
-<p>Saint-Exupéry clearly sides with children, represented
-by the little prince, who believe that serious matters are those
-of the imagination. For the little prince, the most serious matter
-of all is whether the sheep the narrator has drawn for him will
-eat his beloved rose. As the story progresses, the narrator’s understands
-the importance of the little prince’s worry. The narrator responds
-with compassion to the prince’s concern about the sheep from the
-beginning, setting his tools aside and rushing to comfort the prince
-in Chapter VII, when the little prince cries out that the question
-of whether his sheep eats his rose is much more important than the
-narrator’s plane. However, in his final comment, the narrator says
-that the question of the sheep and the flower is so important that
-it has changed his view of the world, revealing that he has understood
-the question’s importance himself.</p>
-<h4>Symbols </h4>
-<blockquote class="quotation">Symbols are objects, characters, figures, or colors
-used to represent abstract ideas or concepts.</blockquote>
-<h5>The Stars </h5>
-<p>As a pilot, the narrator attaches importance to stars
-because he depends upon them for navigation. After the narrator
-meets the little prince, he finds the stars hold new meaning for
-him because he knows that the prince lives among them. The stars
-in <i>The Little Prince</i> also symbolize the far-off
-mystery of the heavens, the immensity of the universe, and at the
-end, the loneliness of the narrator’s life. The narrator’s final
-drawing, which accompanies his lament of his loneliness, is of a
-single star hovering over the desert landscape in which the prince
-fell. In this one image, the presence of the star both highlights
-the prince’s absence and suggests his lingering presence. The star
-is also a reminder of the large and densely populated universe beyond
-Earth that the prince recounted visiting.</p>
-<h5>The Desert </h5>
-<p>The novel is set in the Sahara Desert, a barren place
-ready to be shaped by experience. The desert is also a hostile space
-that contains no water and a deadly serpent. In this capacity, the
-desert symbolizes the narrator’s mind. Made barren by grown-up ideas,
-the narrator’s mind slowly expands under the guidance of the little
-prince in the same way that the deadly desert slowly transforms
-itself into a place of learning and, once the well appears, refreshment.</p>
-<p></p>
-<h5>The Trains </h5>
-<p>The trains that appear in Chapter XXII represent the futile
-efforts we make to better our lot. The train rides are rushed voyages
-that never result in happiness because, as the switchman informs
-the prince, people are never happy where they are. Also, the trains
-rush at each other from opposite directions, suggesting that the
-efforts grown-ups make are contradictory and purposeless. Again,
-it is children who grasp the truth. They see that the journey is
-more important than the destination and press their faces hungrily
-against the windows as they ride, taking in the scenery. </p>
-<h5>Water </h5>
-<p>By the story’s end, the drinking of water emerges as a
-clear symbol of spiritual fulfillment. The narrator’s concerns about
-running out of water after he first crashes into the desert mirror
-his complaint that he has grown old. Later, when he and the prince
-find the mysterious well, the water the narrator drinks reminds
-him of Christmas festivities. His thoughts of Christmas ceremonies
-suggest that his spirit, and not his body, is what truly thirsts.
-The salesclerk sells a thirst-quenching pill, but the little prince
-reveals that there are no true substitutes for real spiritual food.
-The pill may quench one’s desires, but it has little to offer in
-the way of real nourishment. The prince declares that he would use
-the minutes saved by the pill for getting a cool drink of water,
-the only real spiritual fulfillment for which one can hope.</p>
-</div>
-<div class="clearFloats"></div>
-<div class="clearfix">
-<div class="right"> </div>
-<div style="clear:both;"></div>
-</div>
-<!-- psst!  did you know theres no quiz on this page? -->
-</div>
-<div class="white-background border-blue more-help interior">
-<h3>More Help</h3>
-<div class="more-help-interior">
-<ul class="clearfix is-inline" id="more-help-carousel">
-<li class="center">
-<a class="is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634925&amp;prid=1586634925" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/lit_guide_book.jpg">
-</img></a>
-<h5><a class="text-color is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634925&amp;prid=1586634925" target="_blank">Buy the print The Little Prince SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=2940000053003" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/moreHelp_ebook.png">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=2940000053003" target="_blank">Buy the ebook of this SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=9781411493414" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/moreHelp_pdf.png">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=9781411493414" target="_blank">Download the PDF of this SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/little-prince-antoine-de-saint-exupery/1100090265?ean=9780156012195" target="_blank">
-<img src="http://img.sparknotes.com/content/cover/9780156012195.jpg">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/little-prince-antoine-de-saint-exupery/1100090265?ean=9780156012195" target="_blank">Order The Little Prince at BN.com</a></h5>
-</li>
-</ul>
-<a class="arrow" href="javascript: void(0)" id="carousel_prev">Previous</a>
-<a class="arrow" href="javascript: void(0)" id="carousel_next">Next</a>
-
-</div>
-</div>
-<div class="light-blue-background border-blue content">
-<div class="containerUGC">
-<div class="header clearfix">
-<h2 class="left"><a class="text-color" href="/lit/littleprince/notes">Readers' Notes<br/>
-<span>Most Helpful Readers' Notes (5 total)</span>
-</a></h2>
-<a class="right semi-bold blue-block-link" href="javascript:void(0);" onclick="addNoteInternal('littleprince', 'lit')">Add a note   →</a>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/994">Small error</a></h6>
-<h3>by <a class="semi-bold" href="/account/SpenseBasse">SpenseBasse</a>, December 11, 2013</h3>
-<p class="noteExcerpt"><p>For the character description of the little prince, it states he identified the narrator's drawing of a boa eating a snake.  It was, however, a drawing of a boa eating an elephant.  Just wanted to note this to avoid confusion</p>
+<hr style="display:none;"/>
+<p class="navigation">
+<span class="alignleft"></span>
+<span class="alignright"></span>
 </p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/994"><span class="commentIcon"></span>0 Comments</a></p>
-<p class="right">
-<strong>3</strong> out of 
-	<strong>3</strong> people found this helpful
-    	</p>
+<!-- nothing found -->
+<!-- homepage -->
 </div>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/1186">Baobabs</a></h6>
-<h3>by <a class="semi-bold" href="/account/monkey_munchkin">monkey_munchkin</a>, February 18, 2014</h3>
-<p class="noteExcerpt"><p>The baobabs could also be symbolic for negative feelings that a person has towards themselves or someone or something else. If these "ugly" feelings are not uprooted, they manifest an individual's mind.</p>
-</p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/1186"><span class="commentIcon"></span>1 Comments</a></p>
-<p class="right">
-<strong>1</strong> out of 
-	<strong>1</strong> people found this helpful
-    	</p>
-</div>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/1189">Climax</a></h6>
-<h3>by <a class="semi-bold" href="/account/krazykenz02">krazykenz02</a>, February 19, 2014</h3>
-<p class="noteExcerpt"><p>The climax is way off. The climax is when the little prince meets the snake on the old wall.</p>
-</p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/1189"><span class="commentIcon"></span>0 Comments</a></p>
-<p class="right">
-<strong>1</strong> out of 
-	<strong>2</strong> people found this helpful
-    	</p>
-</div>
-</div>
-<h5 class="center"><a href="/lit/littleprince/notes">See all 5 readers' notes   →</a></h5>
-</div>
-</div>
-</div>
-<div class="col-1-3 last">
-<div class="border-blue white-background lit-guides-social">
-<h3>Follow Us</h3>
-<div class="fb-like" data-href="https://www.facebook.com/SPARKNOTES" data-send="false" data-show-faces="true" data-width="270"></div>
-<a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/SparkNotes">Follow @SparkNotes</a>
-
-</div><div class="white-background border-blue blog-feature">
-<h3 class="sparklife-logo-home"><a class="hide-text" href="http://community.sparknotes.com/">SparkLife</a></h3>
-<h2>Take a Study Break!</h2>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaygift15study.gif	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide">Things we want more than a date this V Day</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/benbarnesstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges">Ben Barnes spoke to us and revealed his secret nerdy habit (it's a WHOPPER!)</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaycustomstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts">We made Valentines for everyone who thinks love is just a shout into the void but yells anyway</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/horscrstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be">We want to know: what would YOUR horcrux be?</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/litval15study.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes">The best imaginary Valentines you could hope for...</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/tv2015study.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why">Get out your sitting pants, these awesome TV shows are back SOON!</a></h4>
-</div>
-</div>
-<h3 class="geekOut border-top-blue"><a class="hide-text" href="http://www.sparknotes.com/mindhut">The MindHut</a></h3>
-<h2>Take a Study Break!</h2>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/grosssodaz0_Slidemhthumbcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition">The Sparkitors review GROSS SODAS</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/lyriczzznewthumbnewlyrcsz.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science">Pop lyrics explained by SCIENCE!</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/OldTechBigMoney2_Slidemhcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today">You'll never believe how much this computer is worth</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/docwhomtsdocseussmhcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers">Doctor Who meets Dr. Seuss</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/WeirdAnimalPoops0_Slidethumbzzz.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop">This post is 100% about weird animal poop</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/couldanotsuckkkked.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help">The Last Airbender could have rocked if they'd just done THIS</a></h4>
-</div>
-</div>
-</div>
-<!-- todo: include GlobalTemplatePlugin/modules/project_templates/templates/_bookBlogPosts.php here -->
-<div class="light-grey-white-background border-blue padding-15 margin-btm-30">
-<h3 class="bnBookBlog">
-<a class="hide-text" href="http://www.barnesandnoble.com/blog/">From the B&amp;N; Book Blog</a>
-</h3>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1C0XZ91"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AlexCrow_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1C0XZ91">7 Totally Weird, Totally Awesome YA Novels</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1vqrLVr"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AAnarrators_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1vqrLVr">8 Great YA Novels with African American Narrators</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1zxaolZ"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_GroundhogDay_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1zxaolZ">5 Time-Looping Tales Perfect for Groundhog Day</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1LEwN5z"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_readermultitasking_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1LEwN5z">Dos and Dont’s of Multitasking While Reading</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1BPyJA6"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_litladyjan27_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1BPyJA6">How to Get Your Parents to Read Your Favorite Book</a> </h4>
-</div>
-</div>
-</div>
-<div class="center">
-<div class="is-centered border-grey">
-
-
-</div>
-</div>
-</div>
-</div>
-
-</div>
-<footer>
-<div class="dark-grey-background">
-<div class="clearfix center centered-width footer">
-<h6 class="semi-bold">When your books and teachers don't make sense, we do.</h6>
-<navigation>
-<ul class="clearfix is-inline is-centered semi-bold">
-<li class="first"><a href="http://www.sparknotes.com/contact/">Contact Us</a></li>
-<li><a href="http://www.sparknotes.com/legal/">Legal</a></li>
-<li><a href="http://www.sparknotes.com/about/">About</a></li>
-<li><a href="http://www.sparknotes.com/sitemap/">Sitemap</a></li>
-<li><a href="http://www.sparknotes.com/mobile-apps/">Mobile Apps</a></li>
-<li><a href="http://www.sparknotes.com/advertisers/">Advertise</a></li>
-<li><a class="hide-text small-facebook" href="http://www.facebook.com/SPARKNOTES">Facebook</a></li>
-<li><a class="hide-text small-twitter" href="https://twitter.com/SparkNotes">Twitter</a></li>
-</ul>
-<p class="is-centered">SparkNotes is brought to you by <a href="http://www.barnesandnoble.com/">B&amp;N</a>. Visit B&amp;N to buy and rent <a href="http://www.barnesandnoble.com/textbooks/index.asp">textbooks</a>, and check out our award-winning tablets and ereaders, including <a href="http://www.barnesandnoble.com/u/samsung-galaxy-tab-4-nook-tablet/379004262">Samsung Galaxy Tab 4 NOOK</a> and <a href="http://www.barnesandnoble.com/u/nook-glowlight-ereader/379004122">NOOK GlowLight</a>.</p>
-</navigation>
-<p class="is-centered small">© 2015 <a class="light-grey" href="http://www.sparknotes.com/">SparkNotes LLC</a>, All Rights Reserved</p>
-</div>
-</div>
-</footer>
-<!-- START Nielsen Online SiteCensus V6.0 -->
-<!-- COPYRIGHT 2010 Nielsen Online -->
-
-<noscript>
+<hr/>
+<!-- sidebar -->
+<div id="sidebar">
 <div>
-<img alt="" height="1" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704167h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1"/>
+<div class="widget widget_gravatar" id="gravatar-3"><p><img alt="" class="avatar avatar-128 grav-widget-right" height="128" src="https://2.gravatar.com/avatar/868bf890b7ec101778b03203699e890e?s=128&amp;d=wavatar&amp;r=G" style="margin-top: 3px; padding: 0 0 0 0.5em; float: right" width="128"/></p>
+</div><div class="widget widget_archive" id="archives-3"><h2 class="title">Archives</h2> <ul>
+<li><a href="https://mcliterature.wordpress.com/2014/08/">August 2014</a></li>
+<li><a href="https://mcliterature.wordpress.com/2013/08/">August 2013</a></li>
+<li><a href="https://mcliterature.wordpress.com/2012/11/">November 2012</a></li>
+<li><a href="https://mcliterature.wordpress.com/2012/10/">October 2012</a></li>
+<li><a href="https://mcliterature.wordpress.com/2012/09/">September 2012</a></li>
+<li><a href="https://mcliterature.wordpress.com/2012/08/">August 2012</a></li>
+<li><a href="https://mcliterature.wordpress.com/2012/07/">July 2012</a></li>
+<li><a href="https://mcliterature.wordpress.com/2012/06/">June 2012</a></li>
+<li><a href="https://mcliterature.wordpress.com/2012/05/">May 2012</a></li>
+<li><a href="https://mcliterature.wordpress.com/2012/04/">April 2012</a></li>
+<li><a href="https://mcliterature.wordpress.com/2012/03/">March 2012</a></li>
+<li><a href="https://mcliterature.wordpress.com/2012/02/">February 2012</a></li>
+<li><a href="https://mcliterature.wordpress.com/2011/10/">October 2011</a></li>
+<li><a href="https://mcliterature.wordpress.com/2011/09/">September 2011</a></li>
+<li><a href="https://mcliterature.wordpress.com/2011/05/">May 2011</a></li>
+<li><a href="https://mcliterature.wordpress.com/2011/04/">April 2011</a></li>
+</ul>
+</div><div class="widget widget_links" id="linkcat-1356"><h2 class="title">Blogroll</h2>
+<ul class="xoxo blogroll">
+<li><a href="https://mcliterature.wordpress.com/assignments/">Assignments!!!</a></li>
+<li><a href="https://mcliterature.wordpress.com/cool-stuff/">Cool Stuff</a></li>
+<li><a href="https://orders.scholastic.com/HBLMM" title="Book Club Orders">Scholastic Orders</a>
+Book Club Orders</li>
+</ul>
 </div>
-</noscript>
-<!-- END Nielsen Online SiteCensus V6.0 -->
+<div class="widget widget_tag_cloud" id="tag_cloud-2"><h2 class="title">Posts</h2><div style="overflow: hidden;"><a href="https://mcliterature.wordpress.com/category/90-books-in-90-days/" style="font-size: 200%; padding: 1px; margin: 1px;" title="90 books in 90 days (73)">90 books in 90 days</a> <a href="https://mcliterature.wordpress.com/category/action-adventure/" style="font-size: 85.416666666667%; padding: 1px; margin: 1px;" title="action-adventure (7)">action-adventure</a> <a href="https://mcliterature.wordpress.com/category/andy/" style="font-size: 83.680555555556%; padding: 1px; margin: 1px;" title="Andy (6)">Andy</a> <a href="https://mcliterature.wordpress.com/category/baseball/" style="font-size: 81.944444444444%; padding: 1px; margin: 1px;" title="baseball (5)">baseball</a> <a href="https://mcliterature.wordpress.com/category/biography/" style="font-size: 80.208333333333%; padding: 1px; margin: 1px;" title="biography (4)">biography</a> <a href="https://mcliterature.wordpress.com/category/comedic-fiction/" style="font-size: 81.944444444444%; padding: 1px; margin: 1px;" title="comedic fiction (5)">comedic fiction</a> <a href="https://mcliterature.wordpress.com/category/critical-thinking-quiz/" style="font-size: 75%; padding: 1px; margin: 1px;" title="Critical Thinking Quiz (1)">Critical Thinking Quiz</a> <a href="https://mcliterature.wordpress.com/category/dr-seuss/" style="font-size: 76.736111111111%; padding: 1px; margin: 1px;" title="Dr. Seuss (2)">Dr. Seuss</a> <a href="https://mcliterature.wordpress.com/category/early-reader/" style="font-size: 76.736111111111%; padding: 1px; margin: 1px;" title="early reader (2)">early reader</a> <a href="https://mcliterature.wordpress.com/category/fantasy-2/" style="font-size: 90.625%; padding: 1px; margin: 1px;" title="fantasy (10)">fantasy</a> <a href="https://mcliterature.wordpress.com/category/france/" style="font-size: 83.680555555556%; padding: 1px; margin: 1px;" title="France (6)">France</a> <a href="https://mcliterature.wordpress.com/category/graphic-novels/" style="font-size: 99.305555555556%; padding: 1px; margin: 1px;" title="graphic novels (15)">graphic novels</a> <a href="https://mcliterature.wordpress.com/category/historical-fiction/" style="font-size: 87.152777777778%; padding: 1px; margin: 1px;" title="historical fiction (8)">historical fiction</a> <a href="https://mcliterature.wordpress.com/category/informational/" style="font-size: 81.944444444444%; padding: 1px; margin: 1px;" title="informational (5)">informational</a> <a href="https://mcliterature.wordpress.com/category/japan/" style="font-size: 87.152777777778%; padding: 1px; margin: 1px;" title="Japan (8)">Japan</a> <a href="https://mcliterature.wordpress.com/category/literature-response/" style="font-size: 88.888888888889%; padding: 1px; margin: 1px;" title="Literature Response (9)">Literature Response</a> <a href="https://mcliterature.wordpress.com/category/making-a-difference/" style="font-size: 75%; padding: 1px; margin: 1px;" title="Making a Difference (1)">Making a Difference</a> <a href="https://mcliterature.wordpress.com/category/middle-east/" style="font-size: 78.472222222222%; padding: 1px; margin: 1px;" title="Middle East (3)">Middle East</a> <a href="https://mcliterature.wordpress.com/category/non-fiction/" style="font-size: 76.736111111111%; padding: 1px; margin: 1px;" title="non-fiction (2)">non-fiction</a> <a href="https://mcliterature.wordpress.com/category/novels-in-verse/" style="font-size: 81.944444444444%; padding: 1px; margin: 1px;" title="novels in verse (5)">novels in verse</a> <a href="https://mcliterature.wordpress.com/category/picture-books/" style="font-size: 114.93055555556%; padding: 1px; margin: 1px;" title="Picture Books (24)">Picture Books</a> <a href="https://mcliterature.wordpress.com/category/poetry/" style="font-size: 76.736111111111%; padding: 1px; margin: 1px;" title="poetry (2)">poetry</a> <a href="https://mcliterature.wordpress.com/category/realistic-fiction/" style="font-size: 81.944444444444%; padding: 1px; margin: 1px;" title="Realistic Fiction (5)">Realistic Fiction</a> <a href="https://mcliterature.wordpress.com/category/sports/" style="font-size: 76.736111111111%; padding: 1px; margin: 1px;" title="Sports (2)">Sports</a> <a href="https://mcliterature.wordpress.com/category/tall-tales/" style="font-size: 75%; padding: 1px; margin: 1px;" title="Tall Tales (1)">Tall Tales</a> <a href="https://mcliterature.wordpress.com/category/the-big-wave/" style="font-size: 81.944444444444%; padding: 1px; margin: 1px;" title="The Big Wave (5)">The Big Wave</a> <a href="https://mcliterature.wordpress.com/category/the-little-prince/" style="font-size: 83.680555555556%; padding: 1px; margin: 1px;" title="The Little Prince (6)">The Little Prince</a> <a href="https://mcliterature.wordpress.com/category/three-cups-of-tea/" style="font-size: 78.472222222222%; padding: 1px; margin: 1px;" title="Three Cups of Tea (3)">Three Cups of Tea</a> <a href="https://mcliterature.wordpress.com/category/uncategorized/" style="font-size: 85.416666666667%; padding: 1px; margin: 1px;" title="Uncategorized (7)">Uncategorized</a> <a href="https://mcliterature.wordpress.com/category/wanted/" style="font-size: 76.736111111111%; padding: 1px; margin: 1px;" title="Wanted (2)">Wanted</a> </div></div><div class="widget widget_rss_links" id="rss_links-3"><h2 class="title">Subscribe to Your Reader</h2><ul><li><a href="https://mcliterature.wordpress.com/feed/" title="Subscribe to Posts">RSS - Posts</a></li><li><a href="https://mcliterature.wordpress.com/comments/feed/" title="Subscribe to Comments">RSS - Comments</a></li></ul>
+</div> </div>
 </div>
-
-
-
-
+<br style="clear:both"/><!-- without this little <br /> NS6 and IE5PC do not stretch the frame div down to encopass the content DIVs -->
 </div>
+<!-- footer -->
+<hr style="display:none"/>
+<div id="footer">
+<small class="footer_content">
+<a href="https://wordpress.com/?ref=footer_website">Create a free website or blog at WordPress.com</a>. <a href="https://wordpress.com/themes/freshy/" title="Learn more about this theme">The Freshy Theme</a>.			</small>
+</div>
+</div> <!--- end of the <div id="wrapper"> (from header.php) -->
+</div> <!--- end of the <div id="page"> (from header.php) -->
+
+<!-- wpcom_wp_footer -->
+
+
+
+
+<div style="display:none">
+<div class="grofile-hash-map-868bf890b7ec101778b03203699e890e">
+</div>
+</div>
+<div id="infinite-footer">
+<div class="container">
+<div class="blog-info">
+<a href="https://mcliterature.wordpress.com/" id="infinity-blog-title" rel="home">
+						Mr. Curtis' Class					</a>
+</div>
+<div class="blog-credits">
+<a href="https://wordpress.com/?ref=footer_website">Create a free website or blog at WordPress.com</a>. <a href="https://wordpress.com/themes/freshy/" title="Learn more about this theme">The Freshy Theme</a>.				</div>
+</div>
+</div><!-- #infinite-footer -->
+<div class="loggedout-follow-typekit" id="bit">
+<a class="bsub" href="javascript:void(0)"><span id="bsub-text">Follow</span></a>
+<div id="bitsubscribe">
+<h3><label for="loggedout-follow-field">Follow “Mr. Curtis' Class”</label></h3>
+<form accept-charset="utf-8" action="https://subscribe.wordpress.com" id="loggedout-follow" method="post">
+<p>Get every new post delivered to your Inbox.</p>
+<p id="loggedout-follow-error" style="display: none;"></p>
+<p><input id="loggedout-follow-field" name="email" onblur='this.value=(this.value=="") ? "Enter your email address" : this.value;' onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' type="email" value="Enter your email address"/></p>
+<input name="action" type="hidden" value="subscribe"/>
+<input name="blog_id" type="hidden" value="20189025"/>
+<input name="source" type="hidden" value="https://mcliterature.wordpress.com/category/the-little-prince/"/>
+<input name="sub-type" type="hidden" value="loggedout-follow"/>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="d1c202a50a"/><input name="_wp_http_referer" type="hidden" value="/category/the-little-prince/"/>
+<p id="bsub-subscribe-button"><input type="submit" value="Sign me up"/></p>
+</form>
+<div id="bsub-credit"><a href="https://wordpress.com/?ref=lof">Build a website with WordPress.com</a></div>
+</div><!-- #bitsubscribe -->
+</div><!-- #bit -->
+<div id="carousel-reblog-box">
+<form action="" name="carousel-reblog">
+<textarea id="carousel-reblog-content" name="carousel-reblog-content" onblur="if ( this.value == '' || this.value == '' ) { this.value = 'Add your thoughts here... (optional)'; }" onclick="if ( this.value == 'Add your thoughts here... (optional)' ) { this.value = ''; }">Add your thoughts here... (optional)</textarea>
+<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+<select id="carousel-reblog-to-blog-id" name="carousel-reblog-to-blog-id">
+</select>
+<div class="submit">
+<span class="canceltext"><a class="cancel" href="">Cancel</a></span>
+<input class="button" id="carousel-reblog-submit" name="carousel-reblog-submit" type="submit" value="Reblog Post"/>
+<input id="carousel-reblog-blog-id" type="hidden" value="20189025"/>
+<input id="carousel-reblog-blog-url" type="hidden" value="https://mcliterature.wordpress.com"/>
+<input id="carousel-reblog-blog-title" type="hidden" value="Mr. Curtis' Class"/>
+<input id="carousel-reblog-post-url" type="hidden" value=""/>
+<input id="carousel-reblog-post-title" type="hidden" value=""/>
+</div>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="eb2ae7ce3c"/><input name="_wp_http_referer" type="hidden" value="/category/the-little-prince/"/> </form>
+<div class="arrow"></div>
+</div>
+<link href="https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1412618825g" id="all-css-0" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825g&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link href="https://s2.wp.com/wp-content/mu-plugins/tiled-gallery/tiled-gallery.css?m=1401143454g" id="all-css-2" media="all" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+ 
+
+
+<noscript><img alt="" src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden"/></noscript>
 </body>
 </html>

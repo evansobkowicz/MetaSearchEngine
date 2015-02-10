@@ -1,9 +1,26 @@
-Title: SparkNotes: The Little Prince: Context
+Title:  The Little Prince by Antoine de Saint Exupéry - quiz | Children''s books | theguardian.com 
 Server: Apache
+X-GU-jas: 85e883f6a74fff10c16dec0482a1fed5!1806721852@qtp-881581266-22
 Content-Type: text/html; charset=utf-8
-Vary: Accept-Encoding
-Date: Mon, 09 Feb 2015 19:44:08 GMT
-Transfer-Encoding: chunked
+X-GU-gen-jas: 33
+P3P: CP="CAO CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa CONa TELa OUR IND ONLi UNI PURi NAV STA PRE LOC"
+X-GU-PageRenderer: DefaultPageRenderer
+X-GU-tm: 51
+Content-Language: en-US
+X-GU-httpd: 1025316136
+Content-Length: 107175
+Accept-Ranges: bytes
+Date: Tue, 10 Feb 2015 15:02:37 GMT
+Via: 1.1 varnish
+Age: 0
 Connection: close
-Connection: Transfer-Encoding
+X-Cache: MISS
+X-GU-Edition: us
+X-Served-By: cache-iad2122-IAD
+X-GU-Varnish: MISS
+X-Cache-Hits: 0
+Pragma: no-cache
+Cache-Control: no-cache
+Vary: Accept-Encoding,User-Agent
+X-GU-Platform: desktop
 

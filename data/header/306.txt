@@ -1,9 +1,0 @@
-Title: Welcome to The Avengers Forever!
-Date: Mon, 09 Feb 2015 23:39:55 GMT
-Last-Modified: Thu, 02 Oct 2008 01:14:49 GMT
-Accept-Ranges: bytes
-Content-Length: 2682
-Connection: close
-Content-Type: text/html
-Set-Cookie: TS0194eee0=01dddda166febebaf693e5b0d2e46ea56e8bdf567798fe838edcca52f3cdd80530824a0778; Path=/
-

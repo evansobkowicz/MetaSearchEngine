@@ -520,7 +520,7 @@ Size 140cm</p>
 <td>2</td><td><a href="http://www.thelittleprince.com/2015/02/03/" title="New : Embroidered Armchair The Little Prince">3</a></td><td><a href="http://www.thelittleprince.com/2015/02/04/" title="A Little Prince puppetry show in New York">4</a></td><td><a href="http://www.thelittleprince.com/2015/02/05/" title="Do you know the Little Prince store in Paris ?">5</a></td><td><a href="http://www.thelittleprince.com/2015/02/06/" title="Fan Art Friday #72">6</a></td><td>7</td><td>8</td>
 </tr>
 <tr>
-<td id="today"><a href="http://www.thelittleprince.com/2015/02/09/" title="The Little Prince Opera in Paris, The Little Prince – the movie, released in July in France">9</a></td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td>
+<td><a href="http://www.thelittleprince.com/2015/02/09/" title="The Little Prince Opera in Paris, The Little Prince – the movie, released in July in France">9</a></td><td id="today">10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td>
 </tr>
 <tr>
 <td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td>
@@ -589,7 +589,7 @@ Size 140cm</p>
 <p>
 Copyright © 2015 The Little Prince - 
 <a href="feed:http://www.thelittleprince.com/feed/">Abonnez-vous! (RSS)</a>.<br/>
-<style type="text/css">#a4edccd2, #a4edccd2 *,#a4edccd2 A {text-decoration:none; font-size:0.9em; color: #ccc;}</style><span id="a4edccd2"> Dating-Service <a href="http://www.frauenausrussland.com" target="_blank">frauenausrussland.com russische frauen</a> aus partnervermittlung osteuropa.</span></p>
+<style type="text/css">#a8240d03fb, #a8240d03fb *,#a8240d03fb A {text-decoration:none; font-size:0.9em; color: #ccc;}</style><span id="a8240d03fb"> Dating-Service <a href="http://www.frauenausrussland.com" target="_blank">frauenausrussland.com russische frauen</a> aus partnervermittlung osteuropa.</span></p>
 <div class="menu-pied-container"><ul class="menu" id="menu-pied"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-689" id="menu-item-689"><a href="http://www.thelittleprince.com/category/news/">News</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-690" id="menu-item-690"><a href="http://www.thelittleprince.com/links/saint-exupery/">Saint-Exupery</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-692" id="menu-item-692"><a href="http://www.lepetitprince.com">Le Petit Prince (Fr)</a></li>

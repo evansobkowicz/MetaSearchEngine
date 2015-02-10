@@ -211,9 +211,9 @@ I see a beautiful city and a brilliant people rising from this abyss, and, in th
 </ul>
 <!-- 
 NewPP limit report
-Parsed by mw1182
-CPU time usage: 0.106 seconds
-Real time usage: 0.137 seconds
+Parsed by mw1254
+CPU time usage: 0.078 seconds
+Real time usage: 0.106 seconds
 Preprocessor visited node count: 1676/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 8024/2097152 bytes
@@ -223,18 +223,18 @@ Expensive parser function count: 0/500
 -->
 <!-- 
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   66.293      1 - -total
- 84.05%   55.719      1 - Template:Italic_title
- 73.35%   48.625      1 - Template:Str_find
- 67.85%   44.978      1 - Template:Str_find/logic
- 41.30%   27.377     99 - Template:Str_left
- 15.58%   10.328      1 - Template:Str_len
- 12.94%    8.581      3 - Template:Str_len/core
-  7.62%    5.050      1 - Template:Wikipedia
-  4.33%    2.868      1 - Template:Wikisource
-  4.17%    2.766      1 - Template:Str_≤_len
+100.00%   52.244      1 - -total
+ 85.32%   44.574      1 - Template:Italic_title
+ 75.20%   39.287      1 - Template:Str_find
+ 71.25%   37.226      1 - Template:Str_find/logic
+ 43.95%   22.962     99 - Template:Str_left
+ 16.32%    8.527      1 - Template:Str_len
+ 12.77%    6.671      3 - Template:Str_len/core
+  7.47%    3.903      1 - Template:Wikipedia
+  4.09%    2.138      1 - Template:Str_≤_len
+  3.89%    2.030      2 - Template:Sisterproject
 -->
-<!-- Saved in parser cache with key enwikiquote:pcache:idhash:70-0!*!0!!en!4!* and timestamp 20150127190248 and revision id 1828839
+<!-- Saved in parser cache with key enwikiquote:pcache:idhash:70-0!*!0!!en!4!* and timestamp 20150209211958 and revision id 1828839
  -->
 <noscript><img alt="" height="1" src="//en.wikiquote.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
 						Retrieved from "<a dir="ltr" href="http://en.wikiquote.org/w/index.php?title=A_Tale_of_Two_Cities&amp;oldid=1828839">http://en.wikiquote.org/w/index.php?title=A_Tale_of_Two_Cities&amp;oldid=1828839</a>"					</div>

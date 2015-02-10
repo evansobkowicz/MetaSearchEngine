@@ -1,20 +1,9 @@
-Title: Court of Chancery - Wikipedia, the free encyclopedia
+Title: SparkNotes: And Then There Were None: Character List
 Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=163555; ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 31 Jan 2015 22:31:41 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 1616659817 1614608895, 485242620
-Via: 1.1 varnish, 1.1 varnish
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Date: Tue, 10 Feb 2015 15:03:07 GMT
 Transfer-Encoding: chunked
-Date: Mon, 09 Feb 2015 20:42:54 GMT
-Age: 1404
 Connection: close
-X-Cache: cp1052 hit (1), cp1052 frontend miss (0)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
+Connection: Transfer-Encoding
 

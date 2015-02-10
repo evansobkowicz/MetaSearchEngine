@@ -1,18 +1,20 @@
-Title: The Little Prince Quotes by Antoine de Saint-Exupéry
-Date: Mon, 09 Feb 2015 19:44:11 GMT
-Server: Server
-Content-Type: text/html; charset=utf-8
-Status: 200 OK
-Vary: User-Agent,Accept-Encoding
-X-Request-Id: 06MZHWHR947G26CY8BYC
-X-UA-Compatible: IE=Edge,chrome=1
-ETag: "328fb20ad87e5d3740b126f5be96e9b4"
-Cache-Control: max-age=0, private, must-revalidate
-X-Frame-Options: SAMEORIGIN
-X-Runtime: 0.282145
+Title: The Lord of the Rings - Wikipedia, the free encyclopedia
+Server: Apache
 X-Content-Type-Options: nosniff
-Set-Cookie: csid=BAhJIhgyNzQtODg4NjI4Mi03ODk2MDYxBjoGRVQ%3D--2d2d86aad96997ad6bc9a8fca5f9abb82173d945; path=/; expires=Fri, 09-Feb-2035 19:44:10 GMT
-Set-Cookie: locale=en; path=/
-Set-Cookie: _session_id2=64f47cc0a1cfc15339d807631157a09a; path=/; expires=Tue, 10-Feb-2015 01:44:11 GMT; HttpOnly
+X-Analytics: page_id=29798; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 09 Feb 2015 23:46:59 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 3108359090 3108247541, 2250160989 2188740532
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
+Date: Tue, 10 Feb 2015 15:02:42 GMT
+Age: 54929
+Connection: close
+X-Cache: cp1066 hit (6), cp1067 frontend hit (193)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

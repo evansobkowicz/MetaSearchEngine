@@ -1,14 +1,20 @@
-Title: The Little Prince (1974) - IMDb
-Date: Mon, 09 Feb 2015 19:44:12 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYi4IXuwnbLSVQVlGf3d1t2olDYEQ_cXINMpUdeMwOVJ6M1vB4JP1pXNbLfhdnyAblTO35_BdKK%0D%0AVF0VHJA6BENshaJAYt6jmdQRNBa7C_Fi3rq1yFYUyM19p1dWMu9s-AWZqxQY22rUHVVd2uiTQ4Kr%0D%0AEK1gO1eWRIBxJVLGWIyGBnBXrXRDdI1iYHilgLA8SofEVfmwVaot608w1072M3mTqnM_Pg79dtMd%0D%0AMPu-1CHrUYfICyDQKtteqt5fyd8cD9sQXAeUtxD1g2mAqDUIW6HvDQ%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 22:58:19 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 22:58:19 GMT; Path=/
-Set-Cookie: session-id-time=1581191051; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 22:58:19 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
-Connection: close
+Title: The Fellowship of the Ring - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=27472888; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sat, 31 Jan 2015 22:31:41 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 2573616029, 2152134239 2076321418
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
+Date: Tue, 10 Feb 2015 15:02:43 GMT
+Age: 65348
+Connection: close
+X-Cache: cp1053 miss (0), cp1068 frontend hit (41)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

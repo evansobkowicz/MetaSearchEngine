@@ -6,15 +6,15 @@ Content-language: en
 X-UA-Compatible: IE=Edge
 Vary: Accept-Encoding,Cookie
 X-Powered-By: HHVM/3.3.1
-Last-Modified: Tue, 27 Jan 2015 19:02:33 GMT
+Last-Modified: Mon, 09 Feb 2015 21:19:16 GMT
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 1703883835, 2243197799 2209202615
+X-Varnish: 1747881521 1747181287, 565616011 491191861
 Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 09 Feb 2015 19:43:59 GMT
-Age: 22755
+Date: Tue, 10 Feb 2015 15:02:28 GMT
+Age: 63571
 Connection: close
-X-Cache: cp1055 miss (0), cp1053 frontend hit (13)
+X-Cache: cp1055 hit (3), cp1052 frontend hit (23)
 Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
 Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikiquote.org
 

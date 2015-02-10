@@ -1,9 +1,0 @@
-Title: Mariah Carey ‹ NEX1 TV
-Date: Mon, 09 Feb 2015 23:47:50 GMT
-Server: Apache
-X-Powered-By: PHP/5.4.35
-Link: <http://nex1.tv/?p=2744>; rel=shortlink
-Connection: close
-Transfer-Encoding: chunked
-Content-Type: text/html; charset=UTF-8
-

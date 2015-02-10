@@ -678,9 +678,9 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 <body class="book en_US" id="dp"><div id="a-page">
 
 
-<!-- BeginNav --><!-- nav-config-asset-injection US::desktop::standard::45920:C&31406:T1&42994:C::auiDebug=0::isSecure=0::jsOnEvent=navCF navc-wEwDbkM5GS0j6t2xHvCFxfg0PGSTxMcCceG5YdIpjFQ91YwS0PURShd3UJPUjZLfV7H/HYuyOjc= rid-1ZF6XHZS4C5N9N9CYSC8 seq-212 (Mon Feb  9 10:36:01 2015) **CACHED-BY-NCCC** -->
+<!-- BeginNav --><!-- nav-config-asset-injection US::desktop::standard::45920:C&31406:T1&42994:C::auiDebug=0::isSecure=0::jsOnEvent=navCF navc-Edz97a5WcBmrrkIjRd0/+CB5MQfIioa5hqxPKkQ699n0dSOm8W54hub/MoAu6MwzfsrGfOdhW6c= rid-1JGRRY4D86DKM2339A4R seq-212 (Tue Feb 10 06:08:23 2015) **CACHED-BY-NCCC** -->
 <link href="http://z-ecx.images-amazon.com/images/G/01/AUIClients/NavAuiAssets-e118f65c123163a38c9978489b89623707d97305.min._V2_.css" rel="stylesheet"/>
-<!-- nav-config-asset-injection US::desktop::standard::45920:C&31406:T1&42994:C::auiDebug=0::isSecure=0::jsOnEvent=navCF navc-wEwDbkM5GS0j6t2xHvCFxfg0PGSTxMcCceG5YdIpjFQ91YwS0PURShd3UJPUjZLfV7H/HYuyOjc= rid-1ZF6XHZS4C5N9N9CYSC8 seq-212 (Mon Feb  9 10:36:01 2015) **CACHED-BY-NCCC** -->
+<!-- nav-config-asset-injection US::desktop::standard::45920:C&31406:T1&42994:C::auiDebug=0::isSecure=0::jsOnEvent=navCF navc-Edz97a5WcBmrrkIjRd0/+CB5MQfIioa5hqxPKkQ699n0dSOm8W54hub/MoAu6MwzfsrGfOdhW6c= rid-1JGRRY4D86DKM2339A4R seq-212 (Tue Feb 10 06:08:23 2015) **CACHED-BY-NCCC** -->
 
 <!-- From remote config v3-->
 
@@ -688,7 +688,7 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 <img alt="" id="nav_trans_pixel" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif" style="display:none"/>
 <!--Pilu -->
 
-<!-- navp-+SKs/xyI0VMJSjZp6hDLQsaJsW7L0DAjxarLc+lPjUKpo9WrWavnJKPw0fv2VQF1sXUOokPfpKw= rid-122Q5V8TBT3HEBE8PN0H (Mon Feb  9 11:43:53 2015) -->
+<!-- navp-J/ahyVVxTmjCP3oYf5lBws/Ev4ZFXIXm5chsCZx+ugzFAFlwOYbSPkiZJIVmum4Q3a7mL71M61U= rid-0JWYV7Z36RHG4W864GN5 (Tue Feb 10 07:01:38 2015) -->
 <style type="text/css"><!--
     #navbar select#searchDropdownBox {
       visibility: visible;
@@ -761,7 +761,7 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 <span class="nav-button-title nav-button-line1"> </span>
 <span class="nav-button-title nav-button-line2">Cart<span class="nav-down-arrow"></span></span>
 <span class="nav-cart-button nav-sprite"></span>
-<span class="nav-cart-0" id="nav-cart-count"></span>
+<span class="nav-cart-0" id="nav-cart-count"> </span>
 </a>
 <span class="nav-divider"></span>
 <a alt="Wish List" class="nav_a nav-button-outer nav-menu-inactive" href="/gp/registry/wishlist" id="nav-wishlist">
@@ -849,8 +849,8 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 <div id="PrimeStripeContent">
 </div>
 <div name="goKindleStaticPopDiv" style="text-align:center;background-repeat: repeat;background-image:url('http://g-ecx.images-amazon.com/images/G/01/digital/fiona/general/green-fade-background._V192188963_.gif');margin: 0px -8px;">
-<a href="http://www.amazon.com/Tale-Two-Cities-Charles-Dickens-ebook/dp/B00ARI8UM0/ref=dp_kinw_strp_1"><strong>A Tale of Two Cities</strong></a>
- and over one million other books are available for <b>Amazon Kindle</b>. <a href="/Kindle-Glare-Free-Touchscreen-Display-Wi-Fi/dp/B00I15SB16/ref=dp_kinw_strp_2">Learn more</a> </div>
+<a href="http://www.amazon.com/Tale-Two-Cities-Charles-Dickens-ebook/dp/B00ARI8UM0"><strong>A Tale of Two Cities</strong></a>
+ and over one million other books are available for <b>Amazon Kindle</b>. <a href="/Kindle-Glare-Free-Touchscreen-Display-Wi-Fi/dp/B00I15SB16">Learn more</a> </div>
 <div class="a-container">
 
 <div class="kcpAppsPopOverDialog_" id="kcpAppsPopOverDialog_" style="display:none;">
@@ -1114,14 +1114,14 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 </div>
 <div id="rightCol">
 <div class="feature" data-feature-name="tellAFriendBylineBox" id="tellAFriendBylineBox_feature_div">
-<div class="a-section a-text-center a-spacing-small" data-close="Close" data-dest="/gp/pdp/taf/dpPop.html/ref=cm_sw_p_view_dp_53q2ub1258B3E?ie=UTF8&amp;redirectLocation=dp%2F0486406512%2F%23_swftext_Swf&amp;isEmail=0&amp;placementID=dp_53q2ub1258B3E&amp;parentASIN=0486406512&amp;contentName=item&amp;contentType=asin&amp;isDynamicSWF=0&amp;contentID=0486406512&amp;emailTemplate=%2Fgp%2Fpdp%2Fcommon%2Femail%2Fshare-product&amp;isDPX=1&amp;id=0486406512&amp;ra=taf&amp;tt=sh&amp;viaAccount=amazon&amp;relatedAccounts=amazondeals%2Camazonmp3&amp;forceSprites=1&amp;referer=http%253A%252F%252Fwww.amazon.com%252Fgp%252Fproduct%252F0486406512%252Fref%253D&amp;contentURI=%2Fdp%2F0486406512" data-title="Share this item via Email" id="tell-a-friend">
-<span class="a-declarative" data-a-modal='{"cache":"false","width":"480","name":"swf","url":"/gp/pdp/taf/dpPop.html/ref=cm_sw_p_view_dp_53q2ub1258B3E?ie=UTF8&amp;redirectLocation=dp%2F0486406512%2F%23_swftext_Swf&amp;isEmail=0&amp;placementID=dp_53q2ub1258B3E&amp;parentASIN=0486406512&amp;contentName=item&amp;contentType=asin&amp;isDynamicSWF=0&amp;contentID=0486406512&amp;emailTemplate=%2Fgp%2Fpdp%2Fcommon%2Femail%2Fshare-product&amp;isDPX=1&amp;id=0486406512&amp;ra=taf&amp;tt=sh&amp;viaAccount=amazon&amp;relatedAccounts=amazondeals%2Camazonmp3&amp;forceSprites=1&amp;referer=http%253A%252F%252Fwww.amazon.com%252Fgp%252Fproduct%252F0486406512%252Fref%253D&amp;contentURI=%2Fdp%2F0486406512","header":"Share this item via Email"}' data-action="a-modal">
-<a class="a-link-normal email" href="/gp/pdp/taf/ref=cm_sw_l_view_dp_53q2ub1258B3E?ie=UTF8&amp;itemInfo=0486406512&amp;placementID=dp_53q2ub1258B3E&amp;parentASIN=0486406512&amp;contentName=item&amp;contentType=asin&amp;isDynamicSWF=0&amp;type=SH&amp;contentID=0486406512&amp;emailTemplate=%2Fgp%2Fpdp%2Fcommon%2Femail%2Fshare-product&amp;isDPX=1&amp;viaAccount=amazon&amp;relatedAccounts=amazondeals%2Camazonmp3&amp;referer=http%253A%252F%252Fwww.amazon.com%252Fgp%252Fproduct%252F0486406512%252Fref%253D&amp;contentURI=%2Fdp%2F0486406512" id="swfText" title="Share via e-mail">Share</a><span class="a-letter-space"></span>
-<a class="a-link-normal email" href="/gp/pdp/taf/ref=cm_sw_l_view_dp_53q2ub1258B3E?ie=UTF8&amp;itemInfo=0486406512&amp;placementID=dp_53q2ub1258B3E&amp;parentASIN=0486406512&amp;contentName=item&amp;contentType=asin&amp;isDynamicSWF=0&amp;type=SH&amp;contentID=0486406512&amp;emailTemplate=%2Fgp%2Fpdp%2Fcommon%2Femail%2Fshare-product&amp;isDPX=1&amp;viaAccount=amazon&amp;relatedAccounts=amazondeals%2Camazonmp3&amp;referer=http%253A%252F%252Fwww.amazon.com%252Fgp%252Fproduct%252F0486406512%252Fref%253D&amp;contentURI=%2Fdp%2F0486406512" id="swfImage" title="Share via e-mail"><i class="a-icon a-icon-share-email"></i></a><span class="a-letter-space"></span>
+<div class="a-section a-text-center a-spacing-small" data-close="Close" data-dest="/gp/pdp/taf/dpPop.html/ref=cm_sw_p_view_dp_t1H2ub0WVZ6H4?ie=UTF8&amp;redirectLocation=dp%2F0486406512%2F%23_swftext_Swf&amp;isEmail=0&amp;placementID=dp_t1H2ub0WVZ6H4&amp;parentASIN=0486406512&amp;contentName=item&amp;contentType=asin&amp;isDynamicSWF=0&amp;contentID=0486406512&amp;emailTemplate=%2Fgp%2Fpdp%2Fcommon%2Femail%2Fshare-product&amp;isDPX=1&amp;id=0486406512&amp;ra=taf&amp;tt=sh&amp;viaAccount=amazon&amp;relatedAccounts=amazondeals%2Camazonmp3&amp;forceSprites=1&amp;referer=http%253A%252F%252Fwww.amazon.com%252Fgp%252Fproduct%252F0486406512%252Fref%253D&amp;contentURI=%2Fdp%2F0486406512" data-title="Share this item via Email" id="tell-a-friend">
+<span class="a-declarative" data-a-modal='{"cache":"false","width":"480","name":"swf","url":"/gp/pdp/taf/dpPop.html/ref=cm_sw_p_view_dp_t1H2ub0WVZ6H4?ie=UTF8&amp;redirectLocation=dp%2F0486406512%2F%23_swftext_Swf&amp;isEmail=0&amp;placementID=dp_t1H2ub0WVZ6H4&amp;parentASIN=0486406512&amp;contentName=item&amp;contentType=asin&amp;isDynamicSWF=0&amp;contentID=0486406512&amp;emailTemplate=%2Fgp%2Fpdp%2Fcommon%2Femail%2Fshare-product&amp;isDPX=1&amp;id=0486406512&amp;ra=taf&amp;tt=sh&amp;viaAccount=amazon&amp;relatedAccounts=amazondeals%2Camazonmp3&amp;forceSprites=1&amp;referer=http%253A%252F%252Fwww.amazon.com%252Fgp%252Fproduct%252F0486406512%252Fref%253D&amp;contentURI=%2Fdp%2F0486406512","header":"Share this item via Email"}' data-action="a-modal">
+<a class="a-link-normal email" href="/gp/pdp/taf/ref=cm_sw_l_view_dp_t1H2ub0WVZ6H4?ie=UTF8&amp;itemInfo=0486406512&amp;placementID=dp_t1H2ub0WVZ6H4&amp;parentASIN=0486406512&amp;contentName=item&amp;contentType=asin&amp;isDynamicSWF=0&amp;type=SH&amp;contentID=0486406512&amp;emailTemplate=%2Fgp%2Fpdp%2Fcommon%2Femail%2Fshare-product&amp;isDPX=1&amp;viaAccount=amazon&amp;relatedAccounts=amazondeals%2Camazonmp3&amp;referer=http%253A%252F%252Fwww.amazon.com%252Fgp%252Fproduct%252F0486406512%252Fref%253D&amp;contentURI=%2Fdp%2F0486406512" id="swfText" title="Share via e-mail">Share</a><span class="a-letter-space"></span>
+<a class="a-link-normal email" href="/gp/pdp/taf/ref=cm_sw_l_view_dp_t1H2ub0WVZ6H4?ie=UTF8&amp;itemInfo=0486406512&amp;placementID=dp_t1H2ub0WVZ6H4&amp;parentASIN=0486406512&amp;contentName=item&amp;contentType=asin&amp;isDynamicSWF=0&amp;type=SH&amp;contentID=0486406512&amp;emailTemplate=%2Fgp%2Fpdp%2Fcommon%2Femail%2Fshare-product&amp;isDPX=1&amp;viaAccount=amazon&amp;relatedAccounts=amazondeals%2Camazonmp3&amp;referer=http%253A%252F%252Fwww.amazon.com%252Fgp%252Fproduct%252F0486406512%252Fref%253D&amp;contentURI=%2Fdp%2F0486406512" id="swfImage" title="Share via e-mail"><i class="a-icon a-icon-share-email"></i></a><span class="a-letter-space"></span>
 </span>
-<a class="a-link-normal" data-height="400" href="/gp/redirect.html/ref=cm_sw_cl_fa_dp_53q2ub1258B3E?_encoding=UTF8&amp;location=http%3A%2F%2Fwww.facebook.com%2Fshare.php%3Fu%3Dhttp%253A%252F%252Fwww.amazon.com%252Fdp%252F0486406512%252Fref%253Dcm_sw_r_fa_dp_53q2ub1258B3E&amp;token=6BD0FB927CC51E76FF446584B1040F70EA7E88E1" target="_blank" title="Share on Facebook"><i class="a-icon a-icon-share-facebook"><span class="a-icon-alt">Facebook</span></i></a><span class="a-letter-space"></span>
-<a class="a-link-normal" data-height="400" href="/gp/redirect.html/ref=cm_sw_cl_tw_dp_53q2ub1258B3E?_encoding=UTF8&amp;location=http%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Foriginal_referer%3Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fgp%25252Fproduct%25252F0486406512%25252Fref%25253Dcm_sw_r_tw_dp_53q2ub1258B3E%26text%3DA%2520Tale%2520of%2520Two%2520Cities%2520(Dover%2520Thrift%2520Editions)%2520by%2520Charles%2520Dickens%26related%3Damazondeals%252Camazonmp3%26url%3Dhttp%253A%252F%252Fwww.amazon.com%252Fdp%252F0486406512%252Fref%253Dcm_sw_r_tw_dp_53q2ub1258B3E%26via%3Damazon&amp;token=7A1A4AE8F6CE0BD277D8295E58702D283F329C0F" target="_blank" title="Share on Twitter"><i class="a-icon a-icon-share-twitter"><span class="a-icon-alt">Twitter</span></i></a><span class="a-letter-space"></span>
-<a class="a-link-normal" data-height="570" href="/gp/redirect.html/ref=cm_sw_cl_pi_dp_53q2ub1258B3E?_encoding=UTF8&amp;location=http%3A%2F%2Fpinterest.com%2Fpin%2Fcreate%2Fbutton%3Furl%3Dhttp%253A%252F%252Fwww.amazon.com%252Fdp%252F0486406512%252Fref%253Dcm_sw_r_pi_dp_53q2ub1258B3E%26title%3DA%2520Tale%2520of%2520Two%2520Cities%2520(Dover%2520Thrift%2520Editions)%2520by%2520Charles%2520Dickens%26description%3DA%2520Tale%2520of%2520Two%2520Cities%2520(Dover%2520Thrift%2520Editions)%2520by%2520Charles%2520Dickens%2520http%253A%252F%252Fwww.amazon.com%252Fdp%252F0486406512%252Fref%253Dcm_sw_r_pi_dp_53q2ub1258B3E%26media%3Dhttp%253A%252F%252Fecx.images-amazon.com%252Fimages%252FI%252F61Q5c3tlLiL.jpg&amp;token=9F58B366258E1A8B5259E9BEF3482E02341F42D3" target="_blank" title="Pin it on Pinterest"><i class="a-icon a-icon-share-pinterest"><span class="a-icon-alt">Pinterest</span></i></a><span class="a-letter-space"></span>
+<a class="a-link-normal" data-height="400" href="/gp/redirect.html/ref=cm_sw_cl_fa_dp_t1H2ub0WVZ6H4?_encoding=UTF8&amp;location=http%3A%2F%2Fwww.facebook.com%2Fshare.php%3Fu%3Dhttp%253A%252F%252Fwww.amazon.com%252Fdp%252F0486406512%252Fref%253Dcm_sw_r_fa_dp_t1H2ub0WVZ6H4&amp;token=6BD0FB927CC51E76FF446584B1040F70EA7E88E1" target="_blank" title="Share on Facebook"><i class="a-icon a-icon-share-facebook"><span class="a-icon-alt">Facebook</span></i></a><span class="a-letter-space"></span>
+<a class="a-link-normal" data-height="400" href="/gp/redirect.html/ref=cm_sw_cl_tw_dp_t1H2ub0WVZ6H4?_encoding=UTF8&amp;location=http%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Foriginal_referer%3Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fgp%25252Fproduct%25252F0486406512%25252Fref%25253Dcm_sw_r_tw_dp_t1H2ub0WVZ6H4%26text%3DA%2520Tale%2520of%2520Two%2520Cities%2520(Dover%2520Thrift%2520Editions)%2520by%2520Charles%2520Dickens%26related%3Damazondeals%252Camazonmp3%26url%3Dhttp%253A%252F%252Fwww.amazon.com%252Fdp%252F0486406512%252Fref%253Dcm_sw_r_tw_dp_t1H2ub0WVZ6H4%26via%3Damazon&amp;token=7A1A4AE8F6CE0BD277D8295E58702D283F329C0F" target="_blank" title="Share on Twitter"><i class="a-icon a-icon-share-twitter"><span class="a-icon-alt">Twitter</span></i></a><span class="a-letter-space"></span>
+<a class="a-link-normal" data-height="570" href="/gp/redirect.html/ref=cm_sw_cl_pi_dp_t1H2ub0WVZ6H4?_encoding=UTF8&amp;location=http%3A%2F%2Fpinterest.com%2Fpin%2Fcreate%2Fbutton%3Furl%3Dhttp%253A%252F%252Fwww.amazon.com%252Fdp%252F0486406512%252Fref%253Dcm_sw_r_pi_dp_t1H2ub0WVZ6H4%26title%3DA%2520Tale%2520of%2520Two%2520Cities%2520(Dover%2520Thrift%2520Editions)%2520by%2520Charles%2520Dickens%26description%3DA%2520Tale%2520of%2520Two%2520Cities%2520(Dover%2520Thrift%2520Editions)%2520by%2520Charles%2520Dickens%2520http%253A%252F%252Fwww.amazon.com%252Fdp%252F0486406512%252Fref%253Dcm_sw_r_pi_dp_t1H2ub0WVZ6H4%26media%3Dhttp%253A%252F%252Fecx.images-amazon.com%252Fimages%252FI%252F61Q5c3tlLiL.jpg&amp;token=9F58B366258E1A8B5259E9BEF3482E02341F42D3" target="_blank" title="Pin it on Pinterest"><i class="a-icon a-icon-share-pinterest"><span class="a-icon-alt">Pinterest</span></i></a><span class="a-letter-space"></span>
 </div>
 
 </div>
@@ -1130,7 +1130,7 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 <form action="/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance" class="a-content" id="addToCart" method="post">
 <input id="session-id" name="session-id" type="hidden" value="000-0000000-0000000">
 <input id="ASIN" name="ASIN" type="hidden" value="0486406512">
-<input id="offerListingID" name="offerListingID" type="hidden" value="5L6E%2FCXmlwvB%2Fs3C23exEFxLrxyampwfxgGjtyBuLjet9pzhKNrbseCHfgwSrJFs1C8IYENI4V%2FacF9yIb8TE%2B1bVmygzyaIW%2Bzvi1JKvA0%3D">
+<input id="offerListingID" name="offerListingID" type="hidden" value="JNxLnXBliTXx2yFEAcswTQLpV40YZLI3N1PIrs2%2FV%2F%2FFsegs68J552vhohPloUbKP1Tb7iozkDVBHvXMVTy%2BSE%2B3IYWL6uvwKnJYKIfba9c%3D">
 <input id="isMerchantExclusive" name="isMerchantExclusive" type="hidden" value="0">
 <input id="merchantID" name="merchantID" type="hidden" value="ATVPDKIKX0DER">
 <input id="isAddon" name="isAddon" type="hidden" value="0">
@@ -1596,9 +1596,9 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 </div>
 <div class="feature" data-feature-name="olp" id="olp_feature_div">
 <div class="a-section a-spacing-small a-spacing-top-small">
-<span class="olp-padding-right"><a href="/gp/offer-listing/0486406512/ref=dp_olp_new?ie=UTF8&amp;condition=new">86 New</a> from <span class="a-color-price">$0.50</span></span>
+<span class="olp-padding-right"><a href="/gp/offer-listing/0486406512/ref=dp_olp_new?ie=UTF8&amp;condition=new">85 New</a> from <span class="a-color-price">$0.50</span></span>
 <i class="a-icon a-icon-text-separator"></i>
-<span class="olp-padding-right"><a href="/gp/offer-listing/0486406512/ref=dp_olp_used?ie=UTF8&amp;condition=used">145 Used</a> from <span class="a-color-price">$0.01</span></span>
+<span class="olp-padding-right"><a href="/gp/offer-listing/0486406512/ref=dp_olp_used?ie=UTF8&amp;condition=used">147 Used</a> from <span class="a-color-price">$0.01</span></span>
 <i class="a-icon a-icon-text-separator"></i>
 <span class="olp-padding-right"><a href="/gp/offer-listing/0486406512/ref=dp_olp_collectible?ie=UTF8&amp;condition=collectible">6 Collectible</a> from <span class="a-color-price">$29.95</span></span>
 </div>
@@ -1963,7 +1963,7 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 </td>
 <td class="a-text-right dp-new-col">
 <a class="a-link-normal" href="/gp/offer-listing/1616514523/ref=tmm_other_meta_binding_new_olp_0?ie=UTF8&amp;condition=new&amp;sr=&amp;qid=">
-<span>$12.43</span>
+<span>$12.35</span>
 </a>
 </td>
 <td class="a-color-tertiary a-text-right dp-used-col">
@@ -1984,8 +1984,8 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 <div class="feature" data-feature-name="newerVersion" id="newerVersion_feature_div">
 </div>
 <div class="feature" data-feature-name="productAlert" id="productAlert_feature_div">
-<div style="display:none;"></div><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><map name="AS-ProductAlert-2014"><area alt="Free Two-Day Shipping for College Students with Amazon Student" coords="0,0,400,50" href="/gp/student/signup/info?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=product-alert&amp;pf_rd_r=122Q5V8TBT3HEBE8PN0H&amp;pf_rd_p=1996645202&amp;pf_rd_t=201&amp;rw_ref=as_txbdp_pa&amp;pf_rd_i=0486406512" shape="rect"></area> </map><img alt="Free%20Two-Day%20Shipping%20for%20College%20Students%20with%20Amazon%20Student" border="0" rw_name="books/amyhorn/Product-Alert-image.png" src="http://g-ecx.images-amazon.com/images/G/01/books/amyhorn/Product-Alert-image._CB392300628_.png" usemap="#AS-ProductAlert-2014"/></td></tr></table><br>
-</br></div>
+<table border="0" style="border: 0px solid; border-color: #afd1d2; padding: 5px; border-spacing: 0px;"><tr style="vertical-align: top;"><td style="font-size: 11px;"><a href="/gp/student/signup/info?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=product-alert&amp;pf_rd_r=0JWYV7Z36RHG4W864GN5&amp;pf_rd_p=2026474182&amp;pf_rd_t=201&amp;rw_ref=as_txbdp_pa&amp;pf_rd_i=0486406512"><img align="left" alt="Free%20Two-Day%20Shipping%20for%20College%20Students%20with%20Amazon%20Student" border="0" rw_name="books/amyhorn/Product-Alert-image.png" src="http://g-ecx.images-amazon.com/images/G/01/books/amyhorn/Product-Alert-image._CB392300628_.png"/></a></td></tr></table><table border="0"><tr><td><br clear="all"/></td></tr></table>
+</div>
 </div>
 <div class="feature" data-feature-name="dynamicIframe" id="dynamicIframe_feature_div">
 
@@ -2017,12 +2017,10 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 <div class="a-row a-spacing-medium" id="hero-quick-promo">
 <hr class="a-spacing-medium a-divider-normal">
 <div class="qpImage">
-<a href="/b?ie=UTF8&amp;node=10207069011"><img align="left" alt="Best Books of the Year" border="0" height="75" src="http://g-ecx.images-amazon.com/images/G/01/img14/books/boty/12516_books_boty_75x75._SL75_V320897958_.jpg" width="75"/></a></div>
-<span class="qpHeadline">See the Best Books of 2014</span><br>
+<a href="/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.omnivoracious.com%2F&amp;source=standards&amp;token=DEF1D0758E667C928314D8D6645CBCC4A8DBCD89"><img align="left" alt="The Amazon Book Review" border="0" height="75" src="http://g-ecx.images-amazon.com/images/G/01/img15/books/other/17002_books_ABR-hqp_75x75._SL75_V330842061_.jpg" width="75"/></a></div>
+<span class="qpHeadline">The Amazon Book Review</span><br>
   
-Looking for something great to read? Browse our editors' picks for 2014's <a href="/b?ie=UTF8&amp;node=10207069011">Best Books of the Year</a> in fiction, nonfiction, mysteries, children's books, and much more.
-  
-  
+Introducing The Amazon Book Review, our editors' fresh new blog featuring interviews with authors, book reviews, quirky essays on book trends, and regular columns by our editors.  <a href="/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.omnivoracious.com%2F&amp;source=standards&amp;token=DEF1D0758E667C928314D8D6645CBCC4A8DBCD89">Explore now</a>
 </br></hr></div>
 <div style="clear:left"></div>
 </div>
@@ -2082,7 +2080,7 @@ Looking for something great to read? Browse our editors' picks for 2014's <a hre
 <ul class="fbt_item_details_left_padding" id="fbt_item_details" tabindex="-1">
 <li class="fbt_item">
 <label>
-<input checked="checked" class="check" id="fbt_x_check" name="offeringID.1" style="display: none;" type="checkbox" value="hQkUqpTbmEuARXj8XRg8drgI5s%2BhM8jFJQRKJdKho86K0225BktlQHaUzJ%2FTRbeY%2FE8xW8Gehrc2IovebZrMtHMkYBJjedU%2BHe5bj9kEeVo%3D">
+<input checked="checked" class="check" id="fbt_x_check" name="offeringID.1" style="display: none;" type="checkbox" value="wopUVZW%2BSRcTPfl4ELJB7gwEY9e3Os957xNGxuRm5Aha%2B8G7%2BdBN7t%2BevDdB0wF4aIep0MMw3DnLRLkoduWukvr53%2FwEiqbUq50YJ8upFCk%3D">
 <div class="fbt-aui-checkbox-label p13nimp" data-asin="0486406512" data-ref="pd_bxgy_b_x" id="fbt_x_title"><strong>This item: </strong>
 
 
@@ -2097,7 +2095,7 @@ A Tale of Two Cities (Dover Thrift Editions)<span class="bxgy-binding-byline"> <
 <input checked="checked" class="check" id="fbt_y_check" name="offeringID.2" style="display: none;" title="
 
 
-Great Expectations (Dover Thrift Editions) by Charles Dickens [Paperback]" type="checkbox" value="DQOme0aZprWBT6jYDZkzPdqBJ%2BZfzeC%2BWANEGdLB8tdg5s4NQ14OzKlT7SJHg9CsXYEN%2BL8oiksiTlSztZOErP9X7e2whlobdc1KejAhMKw%3D">
+Great Expectations (Dover Thrift Editions) by Charles Dickens [Paperback]" type="checkbox" value="gsVo3lCdk0BwOhxymyibxhGdOLNpJxtus5JQNzwwuXiExgNzh6Aeg0zI9roiuOcqU78MrpKkEidWJlzQGGVh5WyNvWDKZyvaDrSYQ3%2FfMcU%3D">
 <input name="discoveredAsins.1" type="hidden" value="0486415864">
 <div class="fbt-aui-checkbox-label p13nimp" data-asin="0486415864" data-ref="pd_bxgy_b_y" id="fbt_y_title">
 <a href="http://www.amazon.com/Great-Expectations-Dover-Thrift-Editions/dp/0486415864">Great Expectations (Dover Thrift Editions)</a><span class="bxgy-binding-byline"> <span class="bxgy-byline-text">by Charles Dickens</span> Paperback</span>
@@ -2111,7 +2109,7 @@ Great Expectations (Dover Thrift Editions) by Charles Dickens [Paperback]" type=
 <input checked="checked" class="check" id="fbt_z_check" name="offeringID.3" style="display: none;" title="
 
 
-Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="checkbox" value="8AjySyJOWvplkyRJEHyB6xHlQzZpVKlzGBWXob6DW7K9PUnuwQl6RqTxLeh6hdKKKIjfKg%2Ffuz6IXzQXiUM6mZxKtxJdoy77BEGsYP42fYI%3D">
+Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="checkbox" value="78S1rqzmTtgUnCBqfEjxYhybf%2B5BYG8ot7095tUfvihq2WcCiVzyrKyVeVWEYPKdgEct9i%2Bt0CVhr%2B7QHC0ySy61qEZUrz4JDsGALkrLN6w%3D">
 <input name="discoveredAsins.2" type="hidden" value="0486284735">
 <div class="fbt-aui-checkbox-label p13nimp" data-asin="0486284735" data-ref="pd_bxgy_b_z" id="fbt_z_title">
 <a href="http://www.amazon.com/Pride-Prejudice-Dover-Thrift-Editions/dp/0486284735">Pride and Prejudice (Dover Thrift Editions)</a><span class="bxgy-binding-byline"> <span class="bxgy-byline-text">by Jane Austen</span> Paperback</span>
@@ -2125,10 +2123,10 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
 </input></form>
 </div>
 </div>
-<div data-fbt='{"currencyCode":"USD","itemData":[{"priceBreaksMAP":null,"buyingPrice":2.88,"ASIN":"0486406512","isPreorder":0},{"priceBreaksMAP":null,"buyingPrice":2.87,"ASIN":"0486415864","isPreorder":0},{"priceBreaksMAP":null,"buyingPrice":2.57,"ASIN":"0486284735","isPreorder":0}],"shippingId":"0486406512::hQkUqpTbmEuARXj8XRg8drgI5s%2BhM8jFJQRKJdKho86K0225BktlQHaUzJ%2FTRbeY%2FE8xW8Gehrc2IovebZrMtHMkYBJjedU%2BHe5bj9kEeVo%3D,0486415864::DQOme0aZprWBT6jYDZkzPdqBJ%2BZfzeC%2BWANEGdLB8tdg5s4NQ14OzKlT7SJHg9CsXYEN%2BL8oiksiTlSztZOErP9X7e2whlobdc1KejAhMKw%3D,0486284735::8AjySyJOWvplkyRJEHyB6xHlQzZpVKlzGBWXob6DW7K9PUnuwQl6RqTxLeh6hdKKKIjfKg%2Ffuz6IXzQXiUM6mZxKtxJdoy77BEGsYP42fYI%3D","sprites":{"addToWishlist":["wl_one","wl_two","wl_three"],"addToCart":["s_addToCart","s_addBothToCart","s_add3ToCart"],"preorder":["s_preorderThis","s_preorderBoth","s_preorderAll3"]},"shippingDetails":{"xz":"same","xy":"same","yz":"same","xyz":"same"},"tags":["x","y","z","w"],"strings":{"addToWishlist":["Add to Wish List","Add both to Wish List","Add all three to Wish List","Add all four to Wish List"],"addToCart":["Add to Cart","Add both to Cart","Add all three to Cart","Add all four to Cart"],"showDetailsDefault":"Show availability and shipping details","shippingError":"An error occurred, please try again","hideDetailsDefault":"Hide availability and shipping details","priceLabel":["Price:","Price for both:","Price for all three:","Price For All Four:"],"preorder":["Pre-order this item","Pre-order both items","Pre-order all three items","Pre-order all four items"]}}' id="fbt_item_data" style="display:none;">{"currencyCode":"USD","itemData":[{"priceBreaksMAP":null,"buyingPrice":2.88,"ASIN":"0486406512","isPreorder":0},{"priceBreaksMAP":null,"buyingPrice":2.87,"ASIN":"0486415864","isPreorder":0},{"priceBreaksMAP":null,"buyingPrice":2.57,"ASIN":"0486284735","isPreorder":0}],"shippingId":"0486406512::hQkUqpTbmEuARXj8XRg8drgI5s%2BhM8jFJQRKJdKho86K0225BktlQHaUzJ%2FTRbeY%2FE8xW8Gehrc2IovebZrMtHMkYBJjedU%2BHe5bj9kEeVo%3D,0486415864::DQOme0aZprWBT6jYDZkzPdqBJ%2BZfzeC%2BWANEGdLB8tdg5s4NQ14OzKlT7SJHg9CsXYEN%2BL8oiksiTlSztZOErP9X7e2whlobdc1KejAhMKw%3D,0486284735::8AjySyJOWvplkyRJEHyB6xHlQzZpVKlzGBWXob6DW7K9PUnuwQl6RqTxLeh6hdKKKIjfKg%2Ffuz6IXzQXiUM6mZxKtxJdoy77BEGsYP42fYI%3D","sprites":{"addToWishlist":["wl_one","wl_two","wl_three"],"addToCart":["s_addToCart","s_addBothToCart","s_add3ToCart"],"preorder":["s_preorderThis","s_preorderBoth","s_preorderAll3"]},"shippingDetails":{"xz":"same","xy":"same","yz":"same","xyz":"same"},"tags":["x","y","z","w"],"strings":{"addToWishlist":["Add to Wish List","Add both to Wish List","Add all three to Wish List","Add all four to Wish List"],"addToCart":["Add to Cart","Add both to Cart","Add all three to Cart","Add all four to Cart"],"showDetailsDefault":"Show availability and shipping details","shippingError":"An error occurred, please try again","hideDetailsDefault":"Hide availability and shipping details","priceLabel":["Price:","Price for both:","Price for all three:","Price For All Four:"],"preorder":["Pre-order this item","Pre-order both items","Pre-order all three items","Pre-order all four items"]}}</div>
+<div data-fbt='{"currencyCode":"USD","itemData":[{"priceBreaksMAP":null,"buyingPrice":2.88,"ASIN":"0486406512","isPreorder":0},{"priceBreaksMAP":null,"buyingPrice":2.87,"ASIN":"0486415864","isPreorder":0},{"priceBreaksMAP":null,"buyingPrice":2.57,"ASIN":"0486284735","isPreorder":0}],"shippingId":"0486406512::wopUVZW%2BSRcTPfl4ELJB7gwEY9e3Os957xNGxuRm5Aha%2B8G7%2BdBN7t%2BevDdB0wF4aIep0MMw3DnLRLkoduWukvr53%2FwEiqbUq50YJ8upFCk%3D,0486415864::gsVo3lCdk0BwOhxymyibxhGdOLNpJxtus5JQNzwwuXiExgNzh6Aeg0zI9roiuOcqU78MrpKkEidWJlzQGGVh5WyNvWDKZyvaDrSYQ3%2FfMcU%3D,0486284735::78S1rqzmTtgUnCBqfEjxYhybf%2B5BYG8ot7095tUfvihq2WcCiVzyrKyVeVWEYPKdgEct9i%2Bt0CVhr%2B7QHC0ySy61qEZUrz4JDsGALkrLN6w%3D","sprites":{"addToWishlist":["wl_one","wl_two","wl_three"],"addToCart":["s_addToCart","s_addBothToCart","s_add3ToCart"],"preorder":["s_preorderThis","s_preorderBoth","s_preorderAll3"]},"shippingDetails":{"xz":"same","xy":"same","yz":"same","xyz":"same"},"tags":["x","y","z","w"],"strings":{"addToWishlist":["Add to Wish List","Add both to Wish List","Add all three to Wish List","Add all four to Wish List"],"addToCart":["Add to Cart","Add both to Cart","Add all three to Cart","Add all four to Cart"],"showDetailsDefault":"Show availability and shipping details","shippingError":"An error occurred, please try again","hideDetailsDefault":"Hide availability and shipping details","priceLabel":["Price:","Price for both:","Price for all three:","Price For All Four:"],"preorder":["Pre-order this item","Pre-order both items","Pre-order all three items","Pre-order all four items"]}}' id="fbt_item_data" style="display:none;">{"currencyCode":"USD","itemData":[{"priceBreaksMAP":null,"buyingPrice":2.88,"ASIN":"0486406512","isPreorder":0},{"priceBreaksMAP":null,"buyingPrice":2.87,"ASIN":"0486415864","isPreorder":0},{"priceBreaksMAP":null,"buyingPrice":2.57,"ASIN":"0486284735","isPreorder":0}],"shippingId":"0486406512::wopUVZW%2BSRcTPfl4ELJB7gwEY9e3Os957xNGxuRm5Aha%2B8G7%2BdBN7t%2BevDdB0wF4aIep0MMw3DnLRLkoduWukvr53%2FwEiqbUq50YJ8upFCk%3D,0486415864::gsVo3lCdk0BwOhxymyibxhGdOLNpJxtus5JQNzwwuXiExgNzh6Aeg0zI9roiuOcqU78MrpKkEidWJlzQGGVh5WyNvWDKZyvaDrSYQ3%2FfMcU%3D,0486284735::78S1rqzmTtgUnCBqfEjxYhybf%2B5BYG8ot7095tUfvihq2WcCiVzyrKyVeVWEYPKdgEct9i%2Bt0CVhr%2B7QHC0ySy61qEZUrz4JDsGALkrLN6w%3D","sprites":{"addToWishlist":["wl_one","wl_two","wl_three"],"addToCart":["s_addToCart","s_addBothToCart","s_add3ToCart"],"preorder":["s_preorderThis","s_preorderBoth","s_preorderAll3"]},"shippingDetails":{"xz":"same","xy":"same","yz":"same","xyz":"same"},"tags":["x","y","z","w"],"strings":{"addToWishlist":["Add to Wish List","Add both to Wish List","Add all three to Wish List","Add all four to Wish List"],"addToCart":["Add to Cart","Add both to Cart","Add all three to Cart","Add all four to Cart"],"showDetailsDefault":"Show availability and shipping details","shippingError":"An error occurred, please try again","hideDetailsDefault":"Hide availability and shipping details","priceLabel":["Price:","Price for both:","Price for all three:","Price For All Four:"],"preorder":["Pre-order this item","Pre-order both items","Pre-order all three items","Pre-order all four items"]}}</div>
 <hr class="a-divider-normal sims-carousel-heading">
 <div class="a-section bucket" id="purchase-sims-feature">
-<div class="a-carousel-container a-carousel-static a-carousel-display-swap a-carousel-transition-swap p13nimp-carousel" data-a-carousel-options='{"ajax":{"params":{"featureId":"SimilaritiesCarousel","reftagPrefix":"pd_sim_b","widgetTemplateClass":"PI::Similarities::ViewTemplates::Carousel::Desktop","imageHeight":100,"faceoutTemplateClass":"PI::P13N::ViewTemplates::Product::Desktop::CarouselFaceout","auiDeviceType":"desktop","imageWidth":100,"productDetailsTemplateClass":"PI::P13N::ViewTemplates::ProductDetails::Desktop::Base","relatedRequestID":"122Q5V8TBT3HEBE8PN0H"},"id_list":["0486415864","0446310786","0486284735","0486424537","0486268659","0486280616","0486280489","0486292568","0764586068","0451524934","0486278077","0486436659","0684801221","0399501487","1853262641","0316769487","0486411117","0486415872","B004TMFUKA","0451526341","0486282112","1612931030","1503278190","0451531957","0140439447","0140449264","0486411095","0486270718","0486266885","0143039431","1411469666","0486400778","0684803356","0140177396","1853260622","1853262447","0486266907","0199539170","0393979318","0194792714","0007350791","0486275590","1853260088","0827605072","0141439963","0486287599","0199578389","0486268764","0486295834","0486282147","0486406482","048647061X","045141943X","0141325305","0486419207","0486414167","0140436111","0375707492","0060760087","0486264645","1494405490","1503275183","0441627404","0141439831","0141439599","1586638459","0393975428","1451626657","067973225X","0393930254","1405110422","0199232067","0141439548","0486437965","0140434240","0679760237","0553213296","0486474917","019957703X","0451527623","1853260401","0615432727","0393963330","1503280780","0307277771","0141439572","0553213504","0060512636","0486437914","0679728228","0385721358","0393924289","0486440281","0061120065","0679755330","0393912531","0321399536","0393912523","0195016165","0534642373"],"url":"/gp/p13n-shared/faceout-partial","id_param_name":"asins"},"baseAsin":"0486406512","name":"purchase","set_size":100}' data-a-display-strategy="swap" data-a-transition-strategy="swap" data-p13n-channel="similarities" data-p13n-request-info-element="#pd_sim_" data-p13n-widget="pd_sim_"><form action="#" class="a-carousel-state" method="get"><input autocomplete="on" class="a-carousel-firstvisibleitem" name="firstVisibleItem" type="hidden"/></form>
+<div class="a-carousel-container a-carousel-static a-carousel-display-swap a-carousel-transition-swap p13nimp-carousel" data-a-carousel-options='{"ajax":{"params":{"featureId":"SimilaritiesCarousel","reftagPrefix":"pd_sim_b","widgetTemplateClass":"PI::Similarities::ViewTemplates::Carousel::Desktop","imageHeight":100,"faceoutTemplateClass":"PI::P13N::ViewTemplates::Product::Desktop::CarouselFaceout","auiDeviceType":"desktop","imageWidth":100,"productDetailsTemplateClass":"PI::P13N::ViewTemplates::ProductDetails::Desktop::Base","relatedRequestID":"0JWYV7Z36RHG4W864GN5"},"id_list":["0486415864","0446310786","0486284735","0486424537","0486268659","0486280616","0486292568","0486280489","0451524934","0764586068","1853262641","0486278077","B004TMFUKA","0399501487","0684801221","0316769487","0486282112","1612931030","0486436659","0486415872","0451531957","0486270718","1503278190","0486411117","0486411095","0140177396","0140449264","0486287599","0486268764","1411469666","0451526341","0140439447","0007350791","0486266907","0143039431","1853262447","0486264645","0199539170","0486266885","0486295834","0393979318","0684803356","0194792714","0486400778","1853260622","0486406547","0486275590","1853260088","0199578389","0827605072","0486406482","0141439963","0743273567","048647061X","0141325305","0375707492","0486440281","0140436111","0486282147","1853260401","0679760237","0385721358","0141439572","1494405490","0141439548","0441627404","045141943X","1503275183","0307277771","1503280780","1586638459","0393975428","067973225X","0393963330","0199232067","0060512636","0615432727","1405110422","0140434240","0553213296","0486414167","0393930254","0553213504","0060760087","0486437965","0393924289","0486437914","0679728228","0486474917","0451527623","019957703X","0141439831","0321399536","0061120065","1451626657","0679755330","0393912531","0393912523","0195016165","0534642373"],"url":"/gp/p13n-shared/faceout-partial","id_param_name":"asins"},"baseAsin":"0486406512","name":"purchase","set_size":100}' data-a-display-strategy="swap" data-a-transition-strategy="swap" data-p13n-channel="similarities" data-p13n-request-info-element="#pd_sim_" data-p13n-widget="pd_sim_"><form action="#" class="a-carousel-state" method="get"><input autocomplete="on" class="a-carousel-firstvisibleitem" name="firstVisibleItem" type="hidden"/></form>
 <div class="a-row a-carousel-header-row a-size-large"><div class="a-column a-span8"><h2 class="a-carousel-heading">Customers Who Bought This Item Also Bought</h2></div><div class="a-column a-span4 a-span-last a-text-right"><span class="a-carousel-pagination a-size-base"><span class="a-carousel-page-count">Page <span class="a-carousel-page-current">1</span> of <span class="a-carousel-page-max">1</span> </span><span class="a-carousel-restart-container"><span class="a-text-separator"></span><a class="a-carousel-restart" href="#">Start over</a></span></span></div></div>
 <div class="a-row a-carousel-controls a-carousel-row a-carousel-has-buttons"><div class="a-carousel-row-inner"><div class="a-carousel-col a-carousel-center"><div class="a-carousel-viewport"><ol aria-live="assertive" class="a-carousel" role="list">
 <li class="a-carousel-card a-float-left" role="listitem">
@@ -2151,7 +2149,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
 <a class="a-link-normal" href="/To-Kill-Mockingbird-Harper-Lee/product-reviews/0446310786" title="4.6 out of 5 stars">
 <i class="a-icon a-icon-star a-star-4-5"></i>
 </a>
-<a class="a-size-small a-link-normal" href="/To-Kill-Mockingbird-Harper-Lee/product-reviews/0446310786">4,157</a>
+<a class="a-size-small a-link-normal" href="/To-Kill-Mockingbird-Harper-Lee/product-reviews/0446310786">4,166</a>
 </div>
 <div class="a-row a-size-small"><span class="a-size-small a-color-secondary">Mass Market Paperback</span></div><div class="a-row"><span class="a-size-base a-color-price">$5.15</span> <span style="position: relative; top: 2px;"><i class="a-icon a-icon-prime a-icon-small"><span class="a-icon-alt">Prime</span></i></span></div>
 </div>
@@ -2163,7 +2161,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
 <a class="a-link-normal" href="/Pride-Prejudice-Dover-Thrift-Editions/product-reviews/0486284735" title="4.5 out of 5 stars">
 <i class="a-icon a-icon-star a-star-4-5"></i>
 </a>
-<a class="a-size-small a-link-normal" href="/Pride-Prejudice-Dover-Thrift-Editions/product-reviews/0486284735">2,472</a>
+<a class="a-size-small a-link-normal" href="/Pride-Prejudice-Dover-Thrift-Editions/product-reviews/0486284735">2,474</a>
 </div>
 <div class="a-row a-size-small"><span class="a-size-small a-color-secondary">Paperback</span></div><div class="a-row"><span class="a-size-base a-color-price">$2.57</span> <span style="position: relative; top: 2px;"><i class="a-icon a-icon-prime a-icon-small"><span class="a-icon-alt">Prime</span></i></span></div>
 </div>
@@ -2206,7 +2204,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
 </li>
 </ol></div></div><div class="a-carousel-col a-carousel-left"><a class="a-button a-button-image a-carousel-button a-carousel-goto-prevpage" href="#" tabindex="0"><span class="a-button-inner"><i class="a-icon a-icon-previous"><span class="a-icon-alt">Back</span></i></span></a></div><div class="a-carousel-col a-carousel-right"><a class="a-button a-button-image a-carousel-button a-carousel-goto-nextpage" href="#" tabindex="0"><span class="a-button-inner"><i class="a-icon a-icon-next"><span class="a-icon-alt">Next</span></i></span></a></div></div></div>
 </div>
-<div class="p13n-session" data-marketplaceid="ATVPDKIKX0DER" data-mkt="US" data-pageid="0486406512" data-requestid="122Q5V8TBT3HEBE8PN0H" data-session="000-0000000-0000000" id="pd_sim_" style="display:none;"></div>
+<div class="p13n-session" data-marketplaceid="ATVPDKIKX0DER" data-mkt="US" data-pageid="0486406512" data-requestid="0JWYV7Z36RHG4W864GN5" data-session="000-0000000-0000000" id="pd_sim_" style="display:none;"></div>
 </div>
 
 
@@ -2230,7 +2228,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
 
 
     <br/><br/>
-<span class="kcpAppBaseBox_" id="kcpAppBaseBox_">Don't have a Kindle?  <a href="/Kindle-Glare-Free-Touchscreen-Display-Wi-Fi/dp/B00I15SB16/ref=kinw_dp_gy">Get your Kindle here</a>, or download a <b>FREE</b> <a class="kcpAppsPopOver" href="javascript:void(0);" id="kcpAppsPopOver"> <span class="kcpAppBaseBox_"><span class="kcpAppsPopOver" style="font-size: 1em;">Kindle Reading App</span></span></a>.</span>
+<span class="kcpAppBaseBox_" id="kcpAppBaseBox_">Don't have a Kindle?  <a href="/Kindle-Glare-Free-Touchscreen-Display-Wi-Fi/dp/B00I15SB16">Get your Kindle here</a>, or download a <b>FREE</b> <a class="kcpAppsPopOver" href="javascript:void(0);" id="kcpAppsPopOver"> <span class="kcpAppBaseBox_"><span class="kcpAppsPopOver" style="font-size: 1em;">Kindle Reading App</span></span></a>.</span>
 <br/>
 </div>
 </div>
@@ -2240,7 +2238,12 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
 </div>
 <hr class="a-spacing-base a-divider-normal">
 <div class="a-row a-spacing-medium" id="hero-quick-promo">
-<div style="display:none;"></div><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="left"><map name="battery-roto"><area alt="Back to Business HQP" coords="1,1,300,120" href="/b?ie=UTF8&amp;node=7955356011" shape="rect"></area> </map><img align="left" alt="Get Back to Business with Amazon" border="0" height="70" src="http://g-ecx.images-amazon.com/images/G/01/img15/office-products/other/16065_office-products_back-to-business_lg-hqp_355x70._V333419563_.png" usemap="#battery-roto" width="355"/></td></tr></table><br>
+<div class="qpImage"><a href="/Best-Books-of-the-Month/b?ie=UTF8&amp;node=390919011"><img align="left" alt="Best Books of the Month" border="0" height="75" src="http://g-ecx.images-amazon.com/images/G/01/books/best-of/best-of-month_75._SL75_V192214394_.gif" width="75"/></a></div>
+<span class="qpHeadline">Best Books of the Month</span><br>
+
+Want to know our Editors' picks for the best books of the month? Browse <a href="/Best-Books-of-the-Month/b?ie=UTF8&amp;node=390919011">Best Books of the Month</a>, featuring our favorite new books in more than a dozen categories.
+
+  
 </br></div>
 <div style="clear:left"></div>
 </hr></div></div>
@@ -2304,7 +2307,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
 
 
 
-#2,391 in Books (<a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">See Top 100 in Books</a>)
+#2,218 in Books (<a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">See Top 100 in Books</a>)
   
 
 
@@ -2357,7 +2360,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
 </style>
 <ul class="zg_hrsr">
 <li class="zg_hrsr_item">
-<span class="zg_hrsr_rank">#45</span>
+<span class="zg_hrsr_rank">#46</span>
 <span class="zg_hrsr_ladder">in <a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">Books</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/465600">Textbooks</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/468206">Humanities</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/books/468236">Literature</a></b></span>
 </li>
 </ul>
@@ -2519,7 +2522,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
 <div class="a-column a-span11" id="revMH">
 <h3 class="a-spacing-small">Most Helpful Customer Reviews</h3>
 <div class="a-section" id="revMHRL">
-<div class="a-section celwidget" id="rev-dpReviewsMostHelpfulAUI-R1UESKP0O8LF2U"><div class="a-row a-spacing-micro"><span class="a-size-small a-color-secondary">630 of 675 people found the following review helpful</span><div class="a-icon-row a-spacing-none"><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R1UESKP0O8LF2U" title="5.0 out of 5 stars"><i class="a-icon a-icon-star a-star-5"></i></a><span class="a-letter-space"></span><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R1UESKP0O8LF2U"><span class="a-size-base a-text-bold">An Eighth Grader reviews A Tale of Two Cities</span></a></div><span class="a-color-secondary">
+<div class="a-section celwidget" id="rev-dpReviewsMostHelpfulAUI-R1UESKP0O8LF2U"><div class="a-row a-spacing-micro"><span class="a-size-small a-color-secondary">631 of 676 people found the following review helpful</span><div class="a-icon-row a-spacing-none"><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R1UESKP0O8LF2U" title="5.0 out of 5 stars"><i class="a-icon a-icon-star a-star-5"></i></a><span class="a-letter-space"></span><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R1UESKP0O8LF2U"><span class="a-size-base a-text-bold">An Eighth Grader reviews A Tale of Two Cities</span></a></div><span class="a-color-secondary">
 <span class="a-size-normal">
 <span class="a-color-secondary">
       By
@@ -2531,7 +2534,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
   This book is incredible. I read it last year (in eighth grade), and I love it. I love Charles Dickens' language and style. Whoever is reading this may have little or no respect for my opinions, thinking that I am to young to  comprehend the greatness of the plot and language, and I admit that I  probably do not completely appreciate this classic piece of literature. I  do read above a 12th grade level, although that doesn't count for a whole  lot. It took me a while to get into this book. In fact, I dreaded reading  it for a long time. But nearer to the end, I was drawn in by the poignant  figure of a jackal, Sydney Carton. In his story I became enthralled with  this book, especially his pitiful life. After I read and cried at Carton's  transformation from an ignoble jackal to the noblest of persons, I was able  to look back over the parts of the book that I had not appreciated, and  realize how truly awesome they are. I learned to appreciate all of the  characters, from Lucy Manette to Madame Defarge. I also was affected by all  of the symbolism involved with both the French Revolution, and the nature  of sinful man, no matter what the time or place. My pitiful review could  never do justice to this great book, please don't be discouraged by my  inability.
 </div>
 </div>
-<a class="a-link-normal comment-link" href="http://www.amazon.com/review/R1UESKP0O8LF2U" title="27">27 Comments</a>
+<a class="a-link-normal comment-link" href="http://www.amazon.com/review/R1UESKP0O8LF2U" title="30">30 Comments</a>
 <i class="a-icon a-icon-text-separator"></i>
 <a id="R1UESKP0O8LF2U.2115.Helpful.Reviews"></a>
 <span id="cr-vote-R1UESKP0O8LF2U">
@@ -2556,7 +2559,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
   </div></div></div>
 </span>
 </div>
-<div class="a-section celwidget" id="rev-dpReviewsMostHelpfulAUI-R3GJBUYVP7XQSD"><div class="a-row a-spacing-micro"><span class="a-size-small a-color-secondary">221 of 239 people found the following review helpful</span><div class="a-icon-row a-spacing-none"><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R3GJBUYVP7XQSD" title="4.0 out of 5 stars"><i class="a-icon a-icon-star a-star-4"></i></a><span class="a-letter-space"></span><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R3GJBUYVP7XQSD"><span class="a-size-base a-text-bold">A Tale of Two Cities</span></a></div><span class="a-color-secondary">
+<div class="a-section celwidget" id="rev-dpReviewsMostHelpfulAUI-R3GJBUYVP7XQSD"><div class="a-row a-spacing-micro"><span class="a-size-small a-color-secondary">222 of 240 people found the following review helpful</span><div class="a-icon-row a-spacing-none"><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R3GJBUYVP7XQSD" title="4.0 out of 5 stars"><i class="a-icon a-icon-star a-star-4"></i></a><span class="a-letter-space"></span><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R3GJBUYVP7XQSD"><span class="a-size-base a-text-bold">A Tale of Two Cities</span></a></div><span class="a-color-secondary">
 <span class="a-size-normal">
 <span class="a-color-secondary">
       By
@@ -2630,7 +2633,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
   </div></div></div>
 </span>
 </div>
-<div class="a-section celwidget" id="rev-dpReviewsMostHelpfulAUI-R22EHAQUUET202"><div class="a-row a-spacing-micro"><span class="a-size-small a-color-secondary">129 of 141 people found the following review helpful</span><div class="a-icon-row a-spacing-none"><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R22EHAQUUET202" title="3.0 out of 5 stars"><i class="a-icon a-icon-star a-star-3"></i></a><span class="a-letter-space"></span><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R22EHAQUUET202"><span class="a-size-base a-text-bold">It is the best of books, it is the worst of books....</span></a></div><span class="a-color-secondary">
+<div class="a-section celwidget" id="rev-dpReviewsMostHelpfulAUI-R22EHAQUUET202"><div class="a-row a-spacing-micro"><span class="a-size-small a-color-secondary">130 of 142 people found the following review helpful</span><div class="a-icon-row a-spacing-none"><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R22EHAQUUET202" title="3.0 out of 5 stars"><i class="a-icon a-icon-star a-star-3"></i></a><span class="a-letter-space"></span><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/review/R22EHAQUUET202"><span class="a-size-base a-text-bold">It is the best of books, it is the worst of books....</span></a></div><span class="a-color-secondary">
 <span class="a-size-normal">
 <span class="a-color-secondary">
       By
@@ -2738,7 +2741,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
     </span>
 </p>
 <span class="a-size-small a-color-secondary">
-  Published 14 days ago by tamara lesesne
+  Published 15 days ago by tamara lesesne
 </span>
 </a></div>
 <div class="a-row a-spacing-base"><div class="a-icon-row a-spacing-none"><a class="a-link-normal a-text-normal" href="http://www.amazon.com/Tale-Cities-Dover-Thrift-Editions/product-reviews/0486406512" title="5.0 out of 5 stars"><i class="a-icon a-icon-star a-star-5"></i></a><span class="a-letter-space"></span><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/Tale-Cities-Dover-Thrift-Editions/product-reviews/0486406512" title="Read the full review by blacktom"><span class="a-size-base a-text-bold">Five Stars</span></a></div><a class="a-link-normal a-text-normal" href="http://www.amazon.com/Tale-Cities-Dover-Thrift-Editions/product-reviews/0486406512" title="Read the full review by blacktom">
@@ -2748,7 +2751,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
     </span>
 </p>
 <span class="a-size-small a-color-secondary">
-  Published 19 days ago by blacktom
+  Published 20 days ago by blacktom
 </span>
 </a></div>
 <div class="a-row a-spacing-base"><div class="a-icon-row a-spacing-none"><a class="a-link-normal a-text-normal" href="http://www.amazon.com/Tale-Cities-Dover-Thrift-Editions/product-reviews/0486406512" title="5.0 out of 5 stars"><i class="a-icon a-icon-star a-star-5"></i></a><span class="a-letter-space"></span><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/Tale-Cities-Dover-Thrift-Editions/product-reviews/0486406512" title="Read the full review by Deborah I Coll"><span class="a-size-base a-text-bold">They look great and add that little bit of color and style ...</span></a></div><a class="a-link-normal a-text-normal" href="http://www.amazon.com/Tale-Cities-Dover-Thrift-Editions/product-reviews/0486406512" title="Read the full review by Deborah I Coll">
@@ -2771,7 +2774,7 @@ Pride and Prejudice (Dover Thrift Editions) by Jane Austen [Paperback]" type="ch
     </span>
 </p>
 <span class="a-size-small a-color-secondary">
-  Published 28 days ago by Mary Ellen Rose
+  Published 29 days ago by Mary Ellen Rose
 </span>
 </a></div>
 <div class="a-row a-spacing-base"><div class="a-icon-row a-spacing-none"><a class="a-link-normal a-text-normal" href="http://www.amazon.com/Tale-Cities-Dover-Thrift-Editions/product-reviews/0486406512" title="5.0 out of 5 stars"><i class="a-icon a-icon-star a-star-5"></i></a><span class="a-letter-space"></span><a class="a-link-normal a-text-normal a-color-base" href="http://www.amazon.com/Tale-Cities-Dover-Thrift-Editions/product-reviews/0486406512" title="Read the full review by robert"><span class="a-size-base a-text-bold">Five Stars</span></a></div><a class="a-link-normal a-text-normal" href="http://www.amazon.com/Tale-Cities-Dover-Thrift-Editions/product-reviews/0486406512" title="Read the full review by robert">
@@ -3247,7 +3250,7 @@ span.kar_beta {
 </div>
 <div class="nav-flyout-content" id="nav_your_account_flyout">
 <ul class="nav_pop_ul">
-<li class="nav_pop_li nav_divider_after" id="nav-ya-btn-signin"><div id="nav-flyout-ya-signin"><a class="nav-action-button" href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin" rel="nofollow"><span class="nav-action-inner">
+<li class="nav_pop_li nav_divider_after" id="nav-ya-btn-signin"><div id="nav-flyout-ya-signin"><a class="nav-action-button" data-nav-ref="nav_signin" data-nav-role="signin" href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin" rel="nofollow"><span class="nav-action-inner">
       Sign in
     </span></a><div class="nav_pop_new_cust" id="nav-flyout-ya-newCust">
     New customer?
@@ -3269,7 +3272,7 @@ span.kar_beta {
 <li class="nav_first nav_pop_li nav-dynamic-empty" data-nav-wt="22704"><a class="nav_a" href="/gp/registry/wishlist?ie=UTF8&amp;triggerElementID=createList">Create a Wish List</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/registry/search">Find a Wish List or Registry</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/gift-finder">Find a Gift</a></li><li class="nav_taglined nav_pop_li"><a class="nav_a" href="/gp/registry/wishlist?ie=UTF8&amp;triggerElementID=showUWLPromo">Save Items from the Web</a><div class="nav_tag">Get the Wish List Browser Button</div></li><li class="nav_pop_li"><a class="nav_a" href="/gp/wedding/homepage">Wedding Registry</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/registry/baby">Baby Registry</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/toys/birthday">Kids' Birthdays</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/school-lists">School Lists</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/gift-central/organizer">Friends &amp; Family Gifting</a></li><li class="nav_last nav_pop_li"><a class="nav_a" href="/gp/yt/newforyou/myactions">Your Hearts (in Fashion)</a></li>
 </ul>
 </div>
-<div id="nav-signin-tooltip"><a class="nav-action-button" href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_signin"><span class="nav-action-inner">
+<div id="nav-signin-tooltip"><a class="nav-action-button" data-nav-ref="nav_custrec_signin" data-nav-role="signin" href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_signin"><span class="nav-action-inner">
       Sign in
     </span></a><div class="nav-signin-tooltip-footer">
     New customer? <a class="nav-a" href="https://www.amazon.com/ap/register?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_newcust">
@@ -3300,7 +3303,7 @@ span.kar_beta {
 <span class="cpAsinTitle">To Kill a Mockingbird</span> </a>
 <span class="vtp-binding-byline"> <span class="vtp-byline-text">by Harper Lee</span> Mass Market Paperback</span>
 <br>
-<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0446310786"><a href="http://www.amazon.com/To-Kill-Mockingbird-Harper-Lee/product-reviews/0446310786"><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars"><span>4.6 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/To-Kill-Mockingbird-Harper-Lee/product-reviews/0446310786">4,157</a>)</span></span><br>
+<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0446310786"><a href="http://www.amazon.com/To-Kill-Mockingbird-Harper-Lee/product-reviews/0446310786"><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars"><span>4.6 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/To-Kill-Mockingbird-Harper-Lee/product-reviews/0446310786">4,167</a>)</span></span><br>
 <div class="price">$5.15</div>
 </br></br></div>
 </li>
@@ -3320,7 +3323,7 @@ span.kar_beta {
 <span class="cpAsinTitle">1984 (Signet Classics)</span> </a>
 <span class="vtp-binding-byline"> <span class="vtp-byline-text">by George Orwell</span> Mass Market Paperback</span>
 <br>
-<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0451524934"><a href="http://www.amazon.com/1984-Signet-Classics-George-Orwell/product-reviews/0451524934"><span class="swSprite s_star_4_5 " title="4.5 out of 5 stars"><span>4.5 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/1984-Signet-Classics-George-Orwell/product-reviews/0451524934">5,543</a>)</span></span><br>
+<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0451524934"><a href="http://www.amazon.com/1984-Signet-Classics-George-Orwell/product-reviews/0451524934"><span class="swSprite s_star_4_5 " title="4.5 out of 5 stars"><span>4.5 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/1984-Signet-Classics-George-Orwell/product-reviews/0451524934">5,544</a>)</span></span><br>
 <div class="price">$6.00</div>
 </br></br></div>
 </li>
@@ -3330,7 +3333,7 @@ span.kar_beta {
 </div>
 </hr></div>
 <hr class="a-divider-normal"><div class="a-section bucket" style="padding-bottom:24pt">
-<div class="a-carousel-container a-carousel-static a-carousel-display-swap a-carousel-transition-swap p13nimp-carousel" data-a-carousel-options='{"ajax":{"params":{"auiDeviceType":"desktop","reftagPrefix":"pd_xaiv_bk","productDetailsTemplateClass":"PI::P13N::ViewTemplates::ProductDetails::Desktop::Base","widgetTemplateClass":"PI::P13N::ViewTemplates::Carousel::Desktop","relatedRequestID":"122Q5V8TBT3HEBE8PN0H","faceoutTemplateClass":"PI::P13N::ViewTemplates::Product::Desktop::CarouselFaceout"},"id_list":["B002KOUH52","B00JORD84U","B00LCHFALY","B004KBCP5S","B00IIAZU7W","B0083IJKUW","B000GFD4C0","B000I9X53W","B00DHXKS5O","B007IV1EHC","B0041KBWM0","B00B3EJ0OY","B004BH806O","B007L5LD9O","B005SEZCVK","B004GTS80K"],"url":"/gp/p13n-shared/faceout-partial","id_param_name":"asins"},"baseAsin":"","name":null,"set_size":16}' data-a-display-strategy="swap" data-a-transition-strategy="swap"><form action="#" class="a-carousel-state" method="get"><input autocomplete="on" class="a-carousel-firstvisibleitem" name="firstVisibleItem" type="hidden"/></form>
+<div class="a-carousel-container a-carousel-static a-carousel-display-swap a-carousel-transition-swap p13nimp-carousel" data-a-carousel-options='{"ajax":{"params":{"auiDeviceType":"desktop","reftagPrefix":"pd_xaiv_bk","productDetailsTemplateClass":"PI::P13N::ViewTemplates::ProductDetails::Desktop::Base","widgetTemplateClass":"PI::P13N::ViewTemplates::Carousel::Desktop","relatedRequestID":"0JWYV7Z36RHG4W864GN5","faceoutTemplateClass":"PI::P13N::ViewTemplates::Product::Desktop::CarouselFaceout"},"id_list":["B002KOUH52","B00JORD84U","B00LCHFALY","B004KBCP5S","B00IIAZU7W","B0083IJKUW","B000GFD4C0","B000I9X53W","B00DHXKS5O","B007IV1EHC","B0041KBWM0","B00B3EJ0OY","B004BH806O","B007L5LD9O","B005SEZCVK","B004GTS80K"],"url":"/gp/p13n-shared/faceout-partial","id_param_name":"asins"},"baseAsin":"","name":null,"set_size":16}' data-a-display-strategy="swap" data-a-transition-strategy="swap"><form action="#" class="a-carousel-state" method="get"><input autocomplete="on" class="a-carousel-firstvisibleitem" name="firstVisibleItem" type="hidden"/></form>
 <div class="a-row a-carousel-header-row a-size-large"><div class="a-column a-span8"><h2 class="a-carousel-heading">Customers Also Watched on Prime Instant Video</h2></div><div class="a-column a-span4 a-span-last a-text-right"><span class="a-carousel-pagination a-size-base"><span class="a-carousel-page-count">Page <span class="a-carousel-page-current">1</span> of <span class="a-carousel-page-max">1</span> </span><span class="a-carousel-restart-container"><span class="a-text-separator"></span><a class="a-carousel-restart" href="#">Start over</a></span></span></div></div>
 <div class="a-row a-carousel-controls a-carousel-row a-carousel-has-buttons"><div class="a-carousel-row-inner"><div class="a-carousel-col a-carousel-center"><div class="a-carousel-viewport"><ol aria-live="assertive" class="a-carousel" role="list">
 <li class="a-carousel-card a-float-left" role="listitem">
@@ -3353,7 +3356,7 @@ span.kar_beta {
 <a class="a-link-normal" href="/Downton-Abbey-Season-4/product-reviews/B00JORD84U" title="4.8 out of 5 stars">
 <i class="a-icon a-icon-star a-star-5"></i>
 </a>
-<a class="a-size-small a-link-normal" href="/Downton-Abbey-Season-4/product-reviews/B00JORD84U">11,269</a>
+<a class="a-size-small a-link-normal" href="/Downton-Abbey-Season-4/product-reviews/B00JORD84U">11,272</a>
 </div>
 <div class="a-row"><span class="a-size-base a-color-price">$0.00</span> <span class="a-size-small a-color-secondary">with</span> <span style="position: relative; top: 2px;"><i class="a-icon a-icon-prime a-icon-small"><span class="a-icon-alt">Prime</span></i></span></div><div class="a-row"><span class="a-size-base a-color-price">$2.99</span> <span class="a-size-small a-color-secondary">per episode</span></div>
 </div>
@@ -3409,6 +3412,37 @@ span.kar_beta {
 </div>
 </div>
 <div class="feature" data-feature-name="giveaway" id="giveaway_feature_div">
+<div class="a-section a-spacing-extra-large" id="giveaway">
+<div class="a-divider a-divider-section"><div class="a-divider-inner"></div></div>
+<div class="a-row">
+<h2>Set up an Amazon Giveaway</h2>
+</div>
+<div class="a-row a-spacing-top-medium">
+<span>Amazon Giveaway allows you to run promotional giveaways in order to create buzz, reward your audience, and attract new followers and customers. </span><a class="a-link-normal" href="/gp/giveaway/home?ref=aga_dp_lm" target="_blank">Learn more</a><br>
+</br></div>
+<div class="a-fixed-left-grid a-spacing-top-medium"><div class="a-fixed-left-grid-inner" style="padding-left:130px">
+<div class="a-fixed-left-grid-col a-col-left" style="width:130px;margin-left:-130px;_margin-left:-65px;float:left;">
+<img alt="A Tale of Two Cities (Dover Thrift Editions)" src="http://ecx.images-amazon.com/images/I/61Q5c3tlLiL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_AA130_.jpg" width="130">
+</img></div>
+<div class="a-fixed-left-grid-col a-col-right" style="padding-left:3.5%;*width:96.1%;float:left;">
+<div class="a-row a-spacing-top-mini">
+<span class="a-text-bold">This item: </span><span>A Tale of Two Cities (Dover Thrift Editions)</span><br>
+</br></div>
+<div class="a-row a-spacing-top-mini">
+<span class="a-text-bold">Price:</span>
+<span class="a-color-secondary a-text-strike">$5.00</span>
+<span> </span>
+<span class="a-color-price">$2.88</span><br>
+</br></div>
+<div class="a-row a-spacing-top-mini">
+<span>Ships from and sold by Amazon.com</span><br>
+</br></div>
+<div class="a-row a-spacing-top-medium">
+<span class="a-button"><span class="a-button-inner"><a class="a-button-text" href="/gp/socialmedia/giveaways/ref=aga_dp_su?ie=UTF8&amp;asin=0486406512" name="submitGiveaway" role="button">Set up a giveaway</a></span></span><br>
+</br></div>
+</div>
+</div></div>
+</div>
 </div>
 <div id="navFooter"><table align="center" cellspacing="0" class="navFooterVerticalColumn"><tr><td class="navFooterLinkCol"><div class="navFooterColHead">Get to Know Us</div><ul><li class="nav_first"><a class="nav_a" href="/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.jobs%2Fgp%2Fredirect.html%3Flocation%3D%252F&amp;source=standards&amp;token=25117E9F01C8F0AB1D649F37EDDD2DEBE047C3A6">Careers</a></li><li><a class="nav_a" href="/gp/redirect.html?_encoding=UTF8&amp;location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome&amp;source=standards&amp;token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C">Investor Relations</a></li><li><a class="nav_a" href="/gp/redirect.html?_encoding=UTF8&amp;location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D176060%26p%3Dirol-mediaHome&amp;source=standards&amp;token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C">Press Releases</a></li><li><a class="nav_a" href="/b?ie=UTF8&amp;node=13786321">Amazon and Our Planet</a></li><li><a class="nav_a" href="/b?ie=UTF8&amp;node=13786411">Amazon in the Community</a></li><li class="nav_last"><a class="nav_a" href="/b?ie=UTF8&amp;node=10394030011">Amazon Devices</a></li></ul></td><td class="navFooterColSpacerInner"></td><td class="navFooterLinkCol"><div class="navFooterColHead">Make Money with Us</div><ul><li class="nav_first"><a class="nav_a" href="/gp/redirect.html?_encoding=UTF8&amp;location=http%3A%2F%2Fwww.amazonservices.com%2Fcontent%2Fsell-on-amazon.htm%2Fref%3Dfooter_soa%3Fld%3DAZFSSOA&amp;source=standards&amp;token=1E60AB4AC0ECCA00151B45353E21782E539DC601">Sell on Amazon</a></li><li><a class="nav_a" href="/gp/redirect.html?_encoding=UTF8&amp;location=http%3A%2F%2Fservices.amazon.com%2Fselling-services%2Fbenefits.htm%3Fld%3DASUSVAS-globalfooter&amp;source=standards&amp;token=2EF4DF105FC57E2F8FA2BB129755A3E03E343571">Sell Your Services on Amazon</a></li><li><a class="nav_a" href="https://www.amazon.com:443/gp/redirect.html?_encoding=UTF8&amp;location=https%3A%2F%2Fdeveloper.amazon.com%2Fappsandservices%3Fsc_channel%3Dba%26sc_place%3Damazonhome&amp;source=standards&amp;token=DF0CFA9EECFD0DEDEAE6094981480E48DBC1E112">Sell Your Apps on Amazon</a></li><li><a class="nav_a" href="/gp/redirect.html?location=http://affiliate-program.amazon.com/&amp;token=020E83530EE2B7F2EDA65ADA51F882D31A4AC155&amp;source=standards">Become an Affiliate</a></li><li><a class="nav_a" href="http://services.amazon.com/content/product-ads-on-amazon.htm/ref=footer_pads?ld=AZPADSFooter">Advertise Your Products</a></li><li><a class="nav_a" href="/gp/seller-account/mm-summary-page.html?ie=UTF8&amp;ld=AZFooterSelfPublish&amp;topic=200260520">Self-Publish with Us</a></li><li class="nav_last nav_a_carat"><span class="nav_a_carat">›</span><a class="nav_a" href="/gp/seller-account/mm-landing.html?ie=UTF8&amp;ld=AZSOAviewallMakeM">See all</a></li></ul></td><td class="navFooterColSpacerInner"></td><td class="navFooterLinkCol"><div class="navFooterColHead">Amazon Payment Products</div><ul><li class="nav_first"><a class="nav_a" href="/iss/credit/rewardscardmember?_encoding=UTF8&amp;plattr=CBFOOT">Amazon.com Rewards Visa Card</a></li><li><a class="nav_a" href="/iss/credit/storecardmember?_encoding=UTF8&amp;plattr=PLCCFOOT">Amazon.com Store Card</a></li><li><a class="nav_a" href="/gp/cobrandcard/marketing.html?ie=UTF-8&amp;place=camp&amp;plattr=CCLFOOT&amp;pr=ibprox">Amazon.com Corporate Credit Line</a></li><li><a class="nav_a" href="/earn-spend-rewards-points/b?ie=UTF8&amp;node=2634438011">Shop with Points</a></li><li><a class="nav_a" href="/compare-credit-card-offers/b?ie=UTF8&amp;node=3561432011">Credit Card Marketplace</a></li><li class="nav_last"><a class="nav_a" href="/Currency-Converter/b?ie=UTF8&amp;node=388305011">Amazon Currency Converter</a></li></ul></td><td class="navFooterColSpacerInner"></td><td class="navFooterLinkCol"><div class="navFooterColHead">Let Us Help You</div><ul><li class="nav_first"><a class="nav_a" href="https://www.amazon.com/gp/css/homepage.html">Your Account</a></li><li><a class="nav_a" href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468520">Shipping Rates &amp; Policies</a></li><li><a class="nav_a" href="/gp/prime">Amazon Prime</a></li><li><a class="nav_a" href="/gp/css/returns/homepage.html">Returns &amp; Replacements</a></li><li><a class="nav_a" href="/gp/digital/fiona/manage">Manage Your Content and Devices</a></li><li class="nav_last"><a class="nav_a" href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508510">Help</a></li></ul></td></tr></table>
 <div class="navFooterLine navFooterLogoLine"><a href="/"><img alt="amazon.com" border="0" height="24" src="http://g-ecx.images-amazon.com/images/G/01/gno/images/general/navAmazonLogoFooter._V169459313_.gif" width="126"/></a></div>
@@ -3506,7 +3540,7 @@ span.kar_beta {
 </table></div>
 <div class="navFooterLine navFooterLinkLine navFooterPadItemLine"><ul><li class="nav_first"><a class="nav_a" href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508088">Conditions of Use</a></li><li><a class="nav_a" href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496">Privacy Notice</a></li><li><a class="nav_a" href="/interestbasedads">Interest-Based Ads</a></li><li class="nav_last">© 1996-2015, Amazon.com, Inc. or its affiliates</li></ul></div>
 </div>
-<!-- whfh-kgMpCyOZ1AWaU2cz7QkSqSEm5cZ9dvSnzaSpn+a6/hvNl3rrw+ijnnzSBQqv2WY8 rid-122Q5V8TBT3HEBE8PN0H -->
+<!-- whfh-orvGGFd+bVzHoCI1Tk04Vt1KerQBuAJDTG9XFsru8PUJ4xWa50GY7XQzUpnfdE83 rid-0JWYV7Z36RHG4W864GN5 -->
 <div aria-hidden="true" id="sis_pixel_r2" style="height:1px;"></div>
 
 <div id="amznCompressDiv">

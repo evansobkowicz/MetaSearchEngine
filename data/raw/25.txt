@@ -1,711 +1,464 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE doctype html>
 
-<!--[if IE]><![endif]--><!--Empty IE conditional comment to improve site performance-->
-<html lang="en">
+<!--[if IE 7]> <html class="no-js oldie ie8 ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" itemscope="" itemtype="http://schema.org/BlogPosting" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
 <head>
-<!-- 16 -->
+
+<meta charset="utf-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="" name="author">
+<meta content="The Strange Triumph of “The Little Prince”" itemprop="name">
+<meta content="The New Yorker" itemprop="publisher" itemtype="http://schema.org/Organization">
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+-->
+<!-- minimal-ui=1 -->
+<meta content="true" name="HandheldFriendly">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="The New Yorker" name="apple-mobile-web-app-title">
+<meta content="prod" name="environment">
+<meta content="1590811" name="tny:id">
+<link href="/wp-content/assets/dist/img/icon/favicon.ico" rel="shortcut icon">
+<link href="/wp-content/assets/dist/img/icon/apple-touch-icon.png" rel="apple-touch-icon">
+<link href="/wp-content/assets/dist/img/icon/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
+<link href="/wp-content/assets/dist/img/icon/apple-touch-icon-57x57-precomposed.png" rel="apple-touch-icon-precomposed" sizes="57x57">
+<link href="/wp-content/assets/dist/img/icon/apple-touch-icon-114x114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+<link href="/wp-content/assets/dist/img/icon/apple-touch-icon-144x144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+<meta content="_jvLA9pRQom0-f6587wRKrNwfRtqyKzjfYWvwcZ5fxc" name="google-site-verification"/>
+<link href="/wp-content/assets/dist/css/core.min.css?cb=20150205164146" rel="stylesheet">
 
 
-<title>SparkNotes: The Little Prince: Chapters I–III</title>
-<meta content="A summary of Chapters I–III in Antoine de Saint-Exupéry's The Little Prince. Learn exactly what happened in this chapter, scene, or section of The Little Prince and what it means. Perfect for acing essays, tests, and quizzes, as well as for writing lesson plans." name="description"/>
-<meta content="The Little Prince, Chapters I–III, Antoine de Saint-Exupéry, scene summary, scene summaries, chapter summary, chapter summaries, short summary, criticism, literary criticism, review, scene synopsis, interpretation, teaching, lesson plan" name="keywords"/>
-<link href="http://img.sparknotes.com/images/new_global/new_favicon.ico" rel="shortcut icon"/>
-<link href="http://img.sparknotes.com/css/2013/styles.css" rel="stylesheet"/>
-<link href="http://img.sparknotes.com/css/2013/large-screens.css" rel="stylesheet"/>
-<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE8.css" /><![endif]-->
-<!--[if IE]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE.css" /><![endif]-->
-
-
-
-
-
-</head>
-<body class="study-guides blue-background">
-<div id="fb-root"></div>
- 
-<header>
-<link href="http://img.sparknotes.com/css/gigya.css" rel="stylesheet"/>
-<div class="short-light-grey-gradient">
-<div class="clearfix centered-width masthead">
-<div class="col-1-3">
-<div class="utility navigation">
-<div id="placeholder">
-
+<link href="//stats2.newyorker.com" rel="dns-prefetch"/><link href="//sstats.newyorker.com" rel="dns-prefetch"/>
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>The Strange Triumph of “The Little Prince” - The New Yorker</title>
+<link href="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" rel="canonical"/>
+<link href="https://plus.google.com/+newyorker" rel="publisher"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="The Strange Triumph of “The Little Prince” - The New Yorker" property="og:title"/>
+<meta content="Of all the books written in French over the past century, Antoine de Saint-Exupéry’s “Le Petit Prince” is surely the best loved in the most tongues. This is very strange, because the book’s meanings—its purpose and intent and moral—still seem far from transparent, even seventy-five-plus years after its first appearance.  Indeed, the startling thing, looking again at the first reviews of the book, is that, far from being welcomed as a necessary and beautiful parable, it bewildered and puzzled its readers. Among the early reviewers, only P. L. Travers—who had, with a symmetry that makes the nonbeliever shiver, written an equivalent myth for England in her Mary Poppins books—really grasped the book’s dimensions, or its importance.         " property="og:description"/>
+<meta content="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" property="og:url"/>
+<meta content="The New Yorker" property="og:site_name"/>
+<meta content="Books" property="article:tag"/>
+<meta content="Page-Turner" property="article:section"/>
+<meta content="2014-04-29T15:54:49+00:00" property="article:published_time"/>
+<meta content="2014-07-16T15:23:40+00:00" property="article:modified_time"/>
+<meta content="2014-07-16T15:23:40+00:00" property="og:updated_time"/>
+<meta content="http://www.newyorker.com/wp-content/uploads/2014/04/little-prince.jpg" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@newyorker" name="twitter:site"/>
+<meta content="The New Yorker" name="twitter:domain"/>
+<meta content="@newyorker" name="twitter:creator"/>
+<meta content="http://www.newyorker.com/wp-content/uploads/2014/04/little-prince.jpg" name="twitter:image:src"/>
+<!-- / Yoast WordPress SEO plugin. -->
+<link href="http://www.newyorker.com/?p=1590811" rel="shortlink"/>
+<!-- wp-parsely Plugin Version 1.6 -->
+<meta content="1.6" id="wp-parsely_version" name="wp-parsely_version"/>
+<meta content='{"title":"The Strange Triumph of “The Little Prince”","link":"http:\/\/www.newyorker.com\/books\/page-turner\/the-strange-triumph-of-the-little-prince","image_url":"http:\/\/www.newyorker.com\/wp-content\/uploads\/2014\/04\/little-prince-290-240.jpg","type":"post","post_id":"1590811","pub_date":"2014-04-29T15:54:49Z","section":"Page-Turner","author":"Adam Gopnik","tags":["books"]}' id="parsely-page" name="parsely-page"/>
+<style type="text/css">
+			body.customize-support #hd.collapsed #nav-container {
+				margin-top: 28px;
+			}
+		</style>
+<!-- End link subscription --> </link></link></link></link></link></link></link></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></head>
+<body>
+<nav class="mobile-nav" role="navigation">
+<ul class="nav-links">
+<li class="mobile-subscribe" id="subscribe">
+<div class="ecom-placement" id="AMS_NYR_MOBILE_GLOBAL_SUBNAV"><a class="failsafe" href="http://www.newyorker.com/go/mobilefailsafe" target="_blank" title="Subscribe to The New Yorker">Subscribe</a></div> <div class="ecom-placement" id="AMS_NYR_TABLET_GLOBAL_SUBNAV"><a class="failsafe" href="http://www.newyorker.com/go/mobilefailsafe" target="_blank" title="Subscribe to The New Yorker">Subscribe</a></div> </li>
+<li class="menu-item sub-nav mob-sign-in block-list user-ln-status-mobi">
+<a class="mobi-sign-in-button" id="user-sign-in" title="Sign in to your account">Sign In</a>
+<span class="link-sub-hamnav" id="mobi-nav-link"> Link your subscription</span>
+</li>
+<li class="menu-item sub-nav hiddenMobiMenu" id="mobi-account-link-1"></li>
+<li class="menu-item sub-nav hiddenMobiMenu" id="mobi-account-link-2"></li>
+</ul>
+</nav>
+<div class="page-container">
+<div class="fix-fixed"><!-- Fixed --></div>
+<div class="header-wrapper">
+<header class="viewed-topbanner" id="hd" role="banner">
+<div class="header-ad">
+<div class="advertisement"><div class="displayAd displayAd728x90Js" data-cb-ad-id="header728x90_frame" id="header728x90_frame"></div></div><div class="advertisement"><div class="displayAd displayAd320x50Js" data-cb-ad-id="header_mobile320x50_frame" id="header_mobile320x50_frame"></div></div></div>
+<section class="logo-container">
+<span class="icon-menu" id="mobile-nav" title=""></span>
+<div class="subscribe-links">
+<div class="ecom-placement" id="AMS_NYR_GLOBAL_HEADER"><a href="http://www.newyorker.com/go/failsafe" target="_blank"><img alt="Cover of current issue" data-src-desktop="//subscribe.condenet.com/images_covers/cover_newyorker_80.jpg" src="/wp-content/assets/dist/img/px.gif"/></a></div><div class="ecom-placement" id="AMS_NYR_GLOBAL_HEADERCALLOUT"><img alt="Subscribe now" data-src-desktop="/wp-content/assets/dist/img/cn-ecom/failsafe/NYT_global_headercallout_150x110.png" height="110" src="/wp-content/assets/dist/img/px.gif" usemap="#GLOBAL_HEADERCALLOUT_MAP" width="150"><map id="GLOBAL_HEADERCALLOUT_MAP" name="GLOBAL_HEADERCALLOUT_MAP"><area alt="Subscribe Now" coords="1,12,76,107" href="http://www.newyorker.com/go/failsafe" shape="rect" target="_blank" title="Subscribe Now"></area><area alt="Subscribe Now" coords="78,12,147,40" href="http://www.newyorker.com/go/failsafe" shape="rect" target="_blank" title="Subscribe Now"></area><area alt="Renew your Subscription to the New Yorker magazine" coords="78,42,147,56" href="https://w1.buysub.com/pubs/N3/NYR/login.jsp?cds_page_id=135517&amp;cds_mag_code=NYR" shape="rect" target="_blank" title="Renew your Subscription"></area><area alt="Give a Subscription to The New Yorker as a Gift" coords="78,58,147,75" href="http://www.newyorker.com/go/giftfailsafe" shape="rect" target="_blank" title="Give a Gift Subscription"></area><area alt="Subscribe to The New Yorker outside the USA" coords="78,77,147,107" href="http://www.newyorker.com/go/internationalfailsafe" shape="rect" target="_blank" title="Subscribe Now"></area></map></img></div> </div>
+<div id="logo">
+<a href="http://www.newyorker.com" title="The New Yorker"><h1>The New Yorker</h1></a>
 </div>
-										 
-				</div>
+<div class="social-and-user-links">
+<ul class="user-info">
+<span class="user-ln-status" id="sign_in">
+<li class="demo-link big plain" id="sign-in-list"><span class="header-nav-link" data-type="sign-in" id="sign-in" title="Sign in to your account">
+<span class="nyer-plain-lnk" id="fallback-signin-link">
+      Sign in       </span></span>
+</li>
+<li class="demo-link big plain"></li>
+<li class="nyer-plain-lnk nav-menu" id="link-sub-nav">Link your subscription</li>
+</span>
+<li class="n-store"><a href="http://www.condenaststore.com/~/new-yorker-store?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=SHOP&amp;AID=1247905545" target="_blank" title="The New Yorker Store">TNY Store</a></li>
+<li class="demo-link big plain"><span class="big plain" id="sign-out-wrapper"></span></li>
+</ul>
+<ul class="social-menu">
+<li class="facebook"><a href="https://facebook.com/newyorker" title="Facebook">F</a></li>
+<li class="twitter"><a href="https://twitter.com/newyorker" title="Twitter">T</a></li>
+<li class="google-plus"><a href="https://plus.google.com/+newyorker/posts" title="Google+">G+</a></li>
+</ul>
 </div>
-<div class="col-1-3 center logo">
-<h2 class="is-centered"><a class="logo hide-text" href="http://www.sparknotes.com/">SparkNotes</a></h2>
+</section>
+<nav class="primary-nav" role="navigation">
+<ul>
+<li class="main-item tny-nav-icon">
+<a href="http://www.newyorker.com/">Home</a>
+</li>
+<li class="tny-nav-news menu-item"><a href="http://www.newyorker.com/news">News</a></li>
+<li class="tny-nav-culture menu-item"><a href="http://www.newyorker.com/culture">Culture</a></li>
+<li class="tny-nav-books menu-item"><a href="http://www.newyorker.com/books">Books &amp; Fiction</a></li>
+<li class="tny-nav-tech menu-item"><a href="http://www.newyorker.com/tech">Science &amp; Tech</a></li>
+<li class="menu-item"><a href="http://www.newyorker.com/business">Business</a></li>
+<li class="tny-nav-humor menu-item"><a href="http://www.newyorker.com/humor">Humor</a></li>
+<li class="tny-nav-magazine menu-item"><a href="http://www.newyorker.com/magazine">Magazine</a></li>
+<li class="menu-item"><a href="http://video.newyorker.com/">Video</a></li>
+<li class="tny-nav-archive menu-item"><a href="http://www.newyorker.com/archive">Archive</a></li>
+<li id="subscribe">
+<div class="ecom-placement" id="AMS_NYR_GLOBAL_NAVBAR"><a href="http://www.newyorker.com/go/failsafe" target="_blank" title="Subscribe to The New Yorker">Subscribe</a></div> <div id="subscribe-rollover">
+<div class="subscribe-links-wrapper">
+<div class="ecom-placement" id="AMS_NYR_GLOBAL_NAVBAR_ROLLOVER"><img alt="Subscribe to The New Yorker" class="ecom-responsive" data-src-desktop="/wp-content/assets/dist/img/cn-ecom/failsafe/NYR_NavBarRollover_Redesign_300x200.jpg" height="200" rel="nofollow" src="/wp-content/assets/dist/img/px.gif" usemap="#GLOBAL_NAVBAR_ROLLOVER_MAP" width="300"/><map id="GLOBAL_NAVBAR_ROLLOVER_MAP" name="GLOBAL_NAVBAR_ROLLOVER_MAP"><area alt="Give a Gift" coords="0,249,75,286" href="https://w1.buysub.com/loc/NYR/ATGFailsafeGift" shape="rect" target="_blank"></area><area alt="International Orders" coords="76,249,203,286" href="https://w1.buysub.com/loc/NYR/ATGFailsafeInt" shape="rect" target="_blank"></area><area alt="Subscribe to The New Yorker" coords="0,0,399,249" href="http://www.newyorker.com/go/failsafe" shape="rect" target="_blank"></area><area alt="Order Now" coords="203,249,399,290" href="http://www.newyorker.com/go/failsafe" shape="rect" target="_blank"></area></map></div> </div>
 </div>
-<div class="col-1-3 last">
-<navigation>
-<div id="user-links-wrapper">
-<div class="login" id="login-dialog" style="display:none;">
-<form action="https://www.sparknotes.com/login" id="loginform" method="POST">
-<input class="jsClearOnFocus" id="email" name="email" placeholder="email" type="text">
-<input class="jsClearOnFocus" id="password" name="password" type="password" value="password">
-<input checked="checked" id="remember_me" name="remember_me" type="checkbox">
-<label for="remember_me"> Remember me</label>
-<input class="turquoise-gradient" id="login" name="submit" type="submit" value="Log in">
-<input name="uri" type="hidden" value="http://www.sparknotes.com/">
-<input id="referer" name="referer" type="hidden" value="http://www.sparknotes.com/">
-</input></input></input></input></input></input></form>
+</li>
+<div class="navSearch nav-search-container" id="navSearch">
+<form action="http://www.newyorker.com/search" method="get">
+<input name="q" placeholder="Search The New Yorker" type="text"/>
+<input type="submit" value="Submit Search"/>
+</form>
+</div> <li class="tny-nav-search"><a class="search-toggle bignav-search" href="http://www.newyorker.com/search" id="search-toggle" title="Search">Search</a></li>
+</ul>
+<div class="floatingAd-wrapper"><div id="floatingAd" style="display:none;"> <div id="floatingAd_content"> <div class="ecom-placement" id="AMS_NYR_POPUP_FLOATINGAD"> </div> <div id="floatingAd_header"><a class="close" href="javascript:void(0)">Close</a></div> </div></div></div>
+</nav></header>
 </div>
-
-
-
-
-
+<div class="content-wrapper">
+<div class="single-post single-blog post- tax-page-turner tax-Page-Turner tax-http://www.newyorker.com/books/page-turner " id="main" role="main">
+<article data-details='{"title":"The Strange Triumph of “The Little Prince”","author":[28448,"Adam Gopnik","http:\/\/www.newyorker.com\/contributors\/adam-gopnik"],"wordCount":1729,"paragraphCount":15}' itemscope="" itemtype="http://schema.org/Article">
+<meta content="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" itemprop="url"/>
+<meta content="1664" itemprop="wordCount"/>
+<header id="page-header">
+<div class="section-info">
+<figure>
+<a href="http://www.newyorker.com/books/page-turner" itemprop="articleSection" title="Page-Turner">
+<img alt="Page-Turner" src="/wp-content/assets/dist/img/header_graphics/blog/page-turner.png"/>
+</a>
+</figure>
+<h4><a href="http://www.newyorker.com/books/page-turner" itemprop="articleSection" title="Page-Turner">Page-Turner</a></h4>
 </div>
-</navigation>
-<div class="ui-widget search small-search">
-<form action="http://www.sparknotes.com/search" class="clearfix search" id="searchform" method="get">
-<fieldset>
-<input class="search_field inner-shadow grey-text" id="search-sparknotes" name="q" placeholder="By keyword" type="text" value=""/>
-<input type="submit" value="Go"/>
-<!--      						<input name="searchbg" value="" class="searchbg" type="hidden" />
-      						
-      						<input name="template" value="default" type="hidden" />
-      						
-      						<input type="hidden" name="output" value="xml_no_dtd" />
-      						
-      						<input type="hidden" name="oe" value="UTF-8"/>
-      						
-      						<input type="hidden" name="ie" value="UTF-8" />
-      						
-      						<input type="hidden" name="client" value="default_frontend" />
-      						
-      						<input type="hidden" name="proxystylesheet" value="default_frontend" />
-      						
-      						<input type="hidden" name="site" value="SparkNotes" /> -->
-</fieldset>
+<hgroup id="masthead">
+<span class="timestamp "> <time content="2014-04-29" datetime="20140429" itemprop="datePublished">April 29, 2014</time></span>
+<h1 itemprop="name">The Strange Triumph of “The Little Prince”</h1>
+<h3>By <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><a href="http://www.newyorker.com/contributors/adam-gopnik" itemprop="name author" rel="author" title="Adam Gopnik">Adam Gopnik</a></span></h3>
+<!-- TODO: Add LinkedIn and Pinterest Support [#98] -->
+<nav class="social-buttons">
+<ul>
+<li class="fb-btn"><div class="fb-share-button" data-href="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" data-type="button"></div></li> <li class="twitter-btn"><a class="twitter-share-button" data-count="none" data-dnt="true" data-text="The Strange Triumph of “The Little Prince”" data-url="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" data-via="newyorker" href="http://twitter.com/share"></a></li> <li class="gplus-btn"><div class="g-plusone" data-annotation="none" data-href="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" data-size="medium"></div></li> <li class="share-email"><a href="mailto:?subject=From%20newyorker.com: The%20Strange%20Triumph%20of%20The%20Little%20Prince&amp;body=  Of all the books written in French over the past century, Antoine de Saint-Exupéry’s “Le Petit Prince” is surely the best loved in the most tongues. This is very strange, because the book’s meanings—its purpose and intent and moral—still seem far from transparent, even seventy-five-plus years after...%0A%0AContinue reading at http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" title="Email"><img alt="Email" src="/wp-content/assets/dist/img/icon/email.png"/></a></li> <li class="share-print"><a href="javascript:window.print();"><img alt="Print" src="/wp-content/assets/dist/img/icon/printer.png"/></a></li> </ul>
+</nav>
+</hgroup>
+</header>
+<div class="module-container-rail non-solid-rail">
+<div class="module-container-stacked post-content">
+<div class="articleBody" id="articleBody" itemprop="articleBody">
+<figure class="vertical attachment-medium portrait featured">
+<a href="http://www.newyorker.com/wp-content/uploads/2014/04/little-prince.jpg" itemprop="url" title="The Strange Triumph of “The Little Prince”">
+<img alt="" class="post-load vertical attachment-medium" data-src="http://www.newyorker.com/wp-content/uploads/2014/04/little-prince.jpg" itemprop="image" src="http://www.newyorker.com/wp-content/uploads/2014/04/little-prince.jpg"> </img></a>
+</figure>
+<span data-attr="1" data-bt="ALLOW_ACCESS" data-ma="6" data-rv="false" data-sub=""></span>
+<a class="tny-slot" data-total-words="0" name="/2"></a><a class="tny-page" data-total-words="0" name="/1"></a><p word_count="129">Of all the books written in French over the past century, Antoine de Saint-Exupéry’s “Le Petit Prince” is surely the best loved in the most tongues. This is very strange, because the book’s meanings—its purpose and intent and moral—still seem far from transparent, even seventy-five-plus years after its first appearance.  Indeed, the startling thing, looking again at the first reviews of the book, is that, far from being welcomed as a necessary and beautiful parable, it bewildered and puzzled its readers. Among the early reviewers, only P. L. Travers—who had, with a symmetry that makes the nonbeliever shiver, written an equivalent myth for England in her Mary Poppins books—really grasped the book’s dimensions, or its importance.  </p> <p word_count="0"> <span id="more-1590811"></span> <div class="content-ad-wrapper first"><div class="advertisement"><div class="displayAd displayAd300x250Js" data-cb-ad-id="yrailTop300x250_frame" id="yrailTop300x250_frame"></div><div class="displayAd displayAd320x50Js" data-cb-ad-id="yrailTop300x250_frame" id="yrailTop320x50_frame"></div></div></div><p word_count="71">Over time, the suffrage of readers has altered that conclusion, of course: a classic is a classic.  But it has altered the conclusion without really changing the point. This year marks an efflorescence of attention, including a full-scale exhibition of Saint-Exupéry’s original artwork at the Morgan Library &amp; Museum, in New York.  But we are no closer to penetrating the central riddle:  What is “The Little Prince” <em>about</em>?</p> <p word_count="96">Everyone knows the basic bones of the story: an aviator, downed in the desert and facing long odds of survival, encounters a strange young person, neither man nor really boy, who, it emerges over time, has travelled from his solitary home on a distant asteroid, where he lives alone with a single rose. The rose has made him so miserable that, in torment, he has taken advantage of a flock of birds to convey him to other planets. He is instructed by a wise if cautious fox, and by a sinister angel of death, the snake. </p> <p word_count="209">It took many years—and many readings—for this reader to begin to understand that the book is a <em>war story</em>. Not an allegory of war, rather, a fable of it, in which the central emotions of conflict—isolation, fear, and uncertainty—are alleviated only by intimate speech and love. But the “Petit Prince” is a war story in a very literal sense, too—everything about its making has to do not just with the onset of war but with the “strange defeat” of France, with the experience of Vichy and the Occupation.  Saint-Exupéry’s sense of shame and confusion at the devasation led him   to make a fable   of abstract ideas set against specific loves.   In this enterprise, he sang in unconscious harmony with the other great poets of the war’s loss, from J. D. Salinger—whose great post-war story, “For Esmé—with Love and Squalor” shows us moral breakdown eased only by the speech of a lucid child—to his contemporary Albert Camus, who also took from the war the need to engage in a perpetual battle “between each man’s happiness and the illness of abstraction,” meaning the act of distancing real emotion from normal life. </p> <p word_count="0"><center>* * * </center></p> <p word_count="232">We know the circumstances of the composition of “The Little Prince” in detail now, courtesy of Stacy Schiff’s fine biography, “Saint-Exupéry.” Escaped from Europe to an unhappy, monolingual exile in North America, engaged in petty but heated internecine warfare with the other exile and resisting groups (he had a poor opinion of DeGaulle, who, he wrongly thought, was setting the French against the French, rather than against the Germans), Saint-Exupéry wrote this most French of fables in Manhattan and Long Island. The book’s desert setting derives from the aviator Saint-Exupéry’s 1935 experience of having been lost for almost a week in the Arabian desert, with his memories of loneliness, hallucination, impending death (and enveloping beauty) in the desert realized on the page. The central love story of the Prince and Rose derives from his stormy love affair with his wife, Consuelo, from whom the rose takes her cough and her flightiness and her imperiousness and her sudden swoons.  (While he had been lost in the desert in ’35, Schiff tells us, she had been publicly mourning his loss on her own ‘asteroid,’ her table at the Brasserie Lipp.)  The desert and the rose—his life as an intrepid aviator and his life as a baffled lover—were his inspiration.  But between those two experiences, skewering them, dividing them with a line, was the war.  </p> <p word_count="143">In the deepest parts of his psyche, he had felt the loss of France not just as a loss of battle but also as a loss of <em>meaning</em>. The desert of the strange defeat was more bewildering than the desert of Libya had been; nothing any longer made sense. Saint-Ex’s own war was honorable: he flew with the GR II/33 reconnaissance squadron of the <em>Armée de l’Air</em>. And, after the bitter defeat, he fled Europe like so many other patriotic Frenchmen, travelling through Portugal and arriving in New York on the last day of 1940. But, as anyone who lived through it knew, what made the loss so traumatic was the sense that the entire underpinning of French civilization, not merely its armies, had come, so to speak, under the scrutiny of the gods and, with remarkable speed, collapsed. </p> <a class="tny-slot" data-total-words="880" name="/3"></a><div class="content-ad-wrapper"><div class="advertisement"><div class="displayAd displayAd300x250Js" data-cb-ad-id="yrailBottom300x250_frame" id="yrailBottom300x250_frame"></div><div class="displayAd displayAd320x50Js" data-cb-ad-id="yrailBottom300x250_frame" id="yrailBottom320x50_frame"></div></div></div><a class="tny-page" data-total-words="880" name="/2"></a><p word_count="126">Searching for the causes of that collapse, the most honest honorable minds—Marc Bloch and Camus among them—thought that the real fault lay in the French habit of abstraction.  The French tradition that moved, and still moves, pragmatic questions about specific instances into a parallel paper universe in which the general theoretical question—the model—is what matters most had failed its makers. Certainly, one way of responding to the disaster was to search out some new set of abstractions, of overarching categories to replace those lost. But a more humane response was to engage in a ceaseless battle against all those abstractions that keep us from life as it is. No one put this better than the heroic Bloch himself:</p> <p word_count="64"> <blockquote>The first task of my trade (i.e. of the historian, but more broadly the humanist properly so called) consists in avoiding big-sounding abstract terms. Those who teach history should be continually concerned with the task of seeking the solid and concrete behind the empty and abstract. In other words, it is on men rather than functions that they should concentrate all their attention. </blockquote></p></p></div></div></div></article></div></div></div></body></html> <p word_count="133">This might seem like a very odd moral to take from the experience of something as devastating as the war.   But  it wasn’t merely intellectual, an amateur’s non-combatant epiphany.  At a   purely tactical, military level, the urge to abstraction had meant the urge to fetishize fixed, systematic solutions at the expense of tactical fluidity and resourcefulness.      The Maginot line was an abstract idea that had been allowed to replace   flexible strategy and common sense. (One recalls Picasso’s comment to Matisse, when the troubled French painter asked him, in 1940, “But what about our generals, what are they doing?”: “Our generals? They’re the masters at the Ecole des Beaux Arts!” Picasso responded, meaning men possessed by the same rote formulae and absence of observation and obsessive traditionalism as the academic artists.   </p> <p word_count="160">From an experience that was so dehumanizing and overwhelming—an experience that turns an entire human being with a complicated life history and destiny first into a cipher and then into a casualty—Saint-Exupéry wanted to rescue the person, not the statistic.    The statistics could be any of those the men on the planets are obsessed with, the ‘counting’ fetish that might take in stars if one is an astronomer or profits for businessmen.    The richest way to see “Le Petit Prince” is as an extended parable of the kinds and follies of abstraction—and the special intensity and poignance of the story is that Saint-Exupéry dramatizes the struggle against abstraction not as a philosophical subject but as a life-and-death story. The book moves from asteroid to desert, from fable and comedy to enigmatic tragedy, in order to make one recurrent point: You can’t love roses. You can only love a rose. </p> <p word_count="186">For all of the Prince’s journey is a journey of exile, like Saint-Exupéry’s, away from generic experience towards the eroticism of the particular flower. To be responsible for his rose, the Prince learns, is to see it as it really is, in all its fragility and vanity—indeed, in all its utter commonness!—without loving it less for being so fragile.  The persistent   triumph of specific experience can be found in something as idiosyncratic and bizarre as the opening image of a boa constrictor swallowing an elephant, which, the narrator tells us, the grownups can only see as a generic object. (This is where Saint-Ex and the Surrealists who admired him—a tracing of his hand appears in one of the issues of the Surrealist journal  <i>Minotaur</i>—touch. Rene Magritte’s paintings, with their very similar obsession with middle-class hats, suggest that every time you see a bourgeois derby there may be a boa constrictor inside. The X-ray of every hat reveals a boa constrictor in every head. That could be the motto of every Surrealist exhibition.)</p> <a class="tny-slot" data-total-words="1613" name="/4"></a><p word_count="88">The men the Prince meets on his journey to Earth are all men who have, in Bloch’s sense, been reduced to functions.  The Businessman, the Astronomer, even the poor Lamplighter, have become their occupations, and gone blind to the stars.   It is, again, the essential movement we find in Camus, only in “The Little Prince” it is shown to us as comic fable rather than realistic novel. The world conspires to make us blind to its own workings; our real work is to see the world again. </p> <p word_count="27"><em>A version of this essay first appeared, in French, in the magazine France-Amerique; it was also the subject of a lecture at the Morgan Library &amp; Museum.</em></p>
+<!-- TODO: Add LinkedIn and Pinterest Support [#98] -->
+<nav class="social-buttons">
+<ul>
+<li class="fb-btn"><div class="fb-share-button" data-href="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" data-type="button"></div></li> <li class="twitter-btn"><a class="twitter-share-button" data-count="none" data-dnt="true" data-text="The Strange Triumph of “The Little Prince”" data-url="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" data-via="newyorker" href="http://twitter.com/share"></a></li> <li class="gplus-btn"><div class="g-plusone" data-annotation="none" data-href="http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" data-size="medium"></div></li> <li class="share-email"><a href="mailto:?subject=From%20newyorker.com: The%20Strange%20Triumph%20of%20The%20Little%20Prince&amp;body=  Of all the books written in French over the past century, Antoine de Saint-Exupéry’s “Le Petit Prince” is surely the best loved in the most tongues. This is very strange, because the book’s meanings—its purpose and intent and moral—still seem far from transparent, even seventy-five-plus years after...%0A%0AContinue reading at http://www.newyorker.com/books/page-turner/the-strange-triumph-of-the-little-prince" title="Email"><img alt="Email" src="/wp-content/assets/dist/img/icon/email.png"/></a></li> <li class="share-print"><a href="javascript:window.print();"><img alt="Print" src="/wp-content/assets/dist/img/icon/printer.png"/></a></li> </ul>
+</nav>
+
+<section class="article-contributors">
+<section class="author-details" itemscope="" itemtype="http://schema.org/Person">
+<article class="">
+<figure>
+<a class="author-thumb" href="http://www.newyorker.com/contributors/adam-gopnik" itemprop="url" rel="me" title="Adam Gopnik"><img alt="gopnick" class="attachment-medium wp-post-image" height="320" itemprop="thumbnail" src="http://www.newyorker.com/wp-content/uploads/2014/03/gopnick.png" width="320"/></a>
+</figure>
+<div class="author-masthead">
+<p>Adam Gopnik, a staff writer, has been contributing to <em>The New Yorker</em> since 1986.</p>
+</div>
+<ul class="author-links">
+<li>
+<a class="light-button" href="http://www.newyorker.com/contributors/adam-gopnik" title="Adam Gopnik">Bio</a>
+</li>
+<li>
+<a class="light-button" href="http://www.newyorker.com/contributors/adam-gopnik/all" title="Adam Gopnik">All work</a>
+</li>
+<li class="twitter">
+<a href="https://twitter.com/adamgopnik" itemprop="url" rel="me"><i></i></a>
+</li>
+</ul>
+</article>
+</section>
+<div class="author-ampersand">&amp;</div>
+</section>
+
+<aside class="container-rail">
+<section id="newsletter-signup">
+<h5 class="popping">Sign up to get the best of The New Yorker delivered to your inbox every day</h5>
+<div class="newsletterContainer">
+<form action="/wp-admin/admin-ajax.php" class="newsletter-signup-form" id="newsletter-form" method="post" name="newsletter-form" novalidate="novalidate">
+<input name="action" type="hidden" value="newsletter_subscribe">
+<input name="formName" type="hidden" value="newsletter-form">
+<input name="url" type="hidden" value="http://www.newyorker.com"><input name="source_code" type="hidden" value="footer-unit"> <fieldset>
+<legend><h5>Sign up for newsletters</h5></legend>
+<label class="replace" for="newsletter-email">E-mail address</label>
+<input class="" id="newsletter-email" name="email" placeholder="E-mail address" required="" type="email">
+<button id="submit-newsletter-content" name="submit-newsletter" type="submit">Sign up</button>
+</input></fieldset>
+<div class="form_response"></div>
+<ul class="subscribe-ids">
+<li>
+<fieldset class="row newsletter checkbox">
+<input checked="checked" id="newsletterId_217" name="newsletterId[]" type="checkbox" value="217">
+<label for="newsletterId_217"></label>
+</input></fieldset>
+</li>
+<li>
+<fieldset class="row newsletter checkbox">
+<input id="newsletterId_442" name="newsletterId[]" type="checkbox" value="442">
+<label for="newsletterId_442"></label>
+</input></fieldset>
+</li>
+<li>
+<fieldset class="row newsletter checkbox">
+<input id="newsletterId_5129" name="newsletterId[]" type="checkbox" value="5129">
+<label for="newsletterId_5129"></label>
+</input></fieldset>
+</li>
+</ul>
+</input></input></input></input></form>
+<span class="newsletter-message"></span>
+</div>
+</section>
+<div class="recirculation">
+<div class="tablet-half-wrapper">
+<div id="most-popular-polar-text"></div>
+<div class="clearfix"></div>
+</div> <!-- // div.tablet-left-wrapper -->
+<div class="tablet-half-wrapper recirc-most-popular-wrapper">
+<span class="post-load-module" data-cache="10m" data-name="most-popular" data-views="all"></span>
+<div class="clearfix"></div>
+</div>
+</div>
+</aside>
+
+
+<section class="module">
+<div class="big-titled-curation" id="you-might-like" style="display: none;">
+<h5 class="popping">You Might Like</h5>
+<div class="stories" id="yml-list"></div>
+</div>
+</section>
+
+<aside id="footer-ad-google"><div class="ad" data-lazyad="" data-matchmedia="only screen and (min-width: 850px)">
+</div>
+--&gt;
+</aside>
+
+<span class="post-load-module" data-cache="48h" data-name="promotions" data-views="desktop"></span>
+<span class="post-load-module" data-cache="48h" data-name="strongbox" data-views="desktop"></span>
+<aside id="footer-ad">
+<!-- Need to have mobile ad sizes reevaluated -->
+<div class="advertisement"><div class="displayAd displayAd320x51Js" data-cb-ad-id="footerMobile320x51_frame" id="footerMobile320x51_frame"></div></div> <div class="advertisement"><div class="displayAd displayAd728x90Js" data-cb-ad-id="footer728x90_frame" id="footer728x90_frame"></div></div> </aside>
+<div id="digital-editions"><div class="ecom-placement" id="AMS_NYR_GLOBAL_FOOTER"><a data-mobile="http://www.newyorker.com/go/mobilefailsafe" href="http://www.newyorker.com/go/failsafe" target="_blank"><img alt="Subscribe to The New Yorker" class="ecom-responsive" data-src-desktop="/wp-content/assets/dist/img/cn-ecom/failsafe/NYR_Footer_Desktop_1020x180.jpg" data-src-mobile="/wp-content/assets/dist/img/cn-ecom/failsafe/NYR_Mobile_300x50.NavyTote.jpg" data-src-tablet="/wp-content/assets/dist/img/cn-ecom/failsafe/NYR_Footer_TabletRedesign_728x128.jpg" src="/wp-content/assets/dist/img/px.gif"/></a></div></div>
+<footer>
+<nav id="tny-footer">
+<ul>
+<li><a href="/about/us/?src=tny-footer" title="About Us">About Us</a></li>
+<li><a href="/about/faq/?src=tny-footer" title="Frequently Asked Questions">FAQ</a></li>
+<li><a href="http://w1.buysub.com/servlet/CSGateway?cds_mag_code=NYR" title="Customer Care">Customer Care</a></li>
+<li><a href="http://www.condenaststore.com/-se/cartoonbank.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=tny-footer&amp;AID=1247905545" title="">Cartoon Bank</a></li>
+<li><a href="http://www.newyorkeronthetown.com/?src=tny-footer" title="">On The Town</a></li>
+<li><a href="/about/feeds/?src=tny-footer" title="">RSS</a></li>
+<li><a href="/about/contact/?src=tny-footer" title="">Contact Us</a></li>
+</ul>
+<ul>
+<li><a href="http://www.condenaststore.com/-se/newyorkerstore.htm?utm_medium=referral&amp;utm_source=NewYorker&amp;utm_content=tny-footer&amp;AID=1247905545" title="">The New Yorker Store</a></li>
+<li><a href="http://www.condenast.com/careers?src=tny-footer" title="">Careers</a></li>
+<li><a href="http://www.condenast.com/reprints-permissions?src=tny-footer" title="">Reprints/Permissions</a></li>
+<li><a href="/about/press/?src=tny-footer" title="Press Center">Press</a></li>
+<li><a href="http://www.condenast.com/brands/new-yorker/media-kit/?src=tny-footer" title="">The New Yorker Media Kit</a></li>
+</ul>
+</nav>
+<div id="conde-footer">
+<div class="global-footer-logo">
+<a href="http://www.condenast.com?src=tny-footer" title="Condé Nast Digital">Condé Nast Digital</a>
+</div>
+<div class="global-footer-subscriptions">
+<form action="/" id="sub_dropmenus" name="sub_dropmenus">
+<select id="sub_list" name="sub_list" onchange="(this.options[this.selectedIndex].value) ? window.open(this.options[this.selectedIndex].value) : null" size="1">
+<option selected="selected" value="">Subscribe to a magazine</option>
+<option value="">
+</option><option value="http://www.magazinestoresubscriptions.com?src=univdropdown">View All Titles</option>
+<option value="">- - - - - - - - - - - - - -</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Allure?src=tny-footer">Allure</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ArchitecturalDigest?src=tny-footer">Architectural Digest</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_BonAppetite?src=tny-footer">Bon Appétit</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Brides?src=tny-footer">Brides</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_CondeNastTraveler?src=tny-footer">Condé Nast Traveler</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Details?src=tny-footer">Details</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Glamour?src=tny-footer">Glamour</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfDigest?src=tny-footer">Golf Digest</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfWorld?src=tny-footer">Golf World</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GQ?src=tny-footer">GQ</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Lucky?src=tny-footer">Lucky</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Self?src=tny-footer">Self</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_TeenVogue?src=tny-footer">Teen Vogue</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_NewYorker?src=tny-footer">The New Yorker</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_VanityFair?src=tny-footer">Vanity Fair</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Vogue?src=tny-footer">Vogue</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_W?src=tny-footer">W</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Wired?src=tny-footer">Wired</option>
+</select>
 </form>
 </div>
-</div>
-</div>
-</div>
-<!-- Begin comScore Tag -->
-
-<noscript>
-<img alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035001&amp;cv=2.0&amp;cj=1"/>
-</noscript>
-<!-- End comScore Tag -->
-<a class="hide-text hide-text-accessibility" href="#startcontent">Skip over navigation</a>
-<div class="dark-grey-background">
-<div class="clearfix no-columns center centered-width top-nav-container">
-<navigation>
-<ul class="clearfix is-inline is-centered top-nav" id="menu">
-<li id="sparknotes-tab"><a class="semi-bold light-text" href="http://www.sparknotes.com/sparknotes/">SparkNotes</a>
-<div class="clearfix dropdown text-color dropdown-sparknotes dark-drop-shadow">
-<div class="col-1-8">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/"><strong>SparkNotes Main</strong></a></h5></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/"><strong>Video SparkNotes</strong></a></li>
-<li><a href="http://www.sparknotes.com/shakespeare/"><strong>Shakespeare SparkNotes</strong></a></li>
-<li><a href="http://www.sparknotes.com/lit/index_title.html"><strong>Titles A-Z</strong></a></li>
-<li>
-<ul class="clearfix margin-0 alpha">
-<li><a href="http://www.sparknotes.com/lit/index_a.html">A</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_b.html">B</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_c.html">C</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_d.html">D</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_e.html">E</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_f.html">F</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_g.html">G</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_h.html">H</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_i.html">I</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_j.html">J</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_k.html">K</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_l.html">L</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_m.html">M</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_n.html">N</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_o.html">O</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_p.html">P</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_r.html">R</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_s.html">S</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_t.html">T</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_u.html">U</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_v.html">V</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_w.html">W</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_y.html">Y</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li><a href="http://www.sparknotes.com/lit/index_author.html"><strong>Authors A-Z</strong></a></li>
-<li>
-<ul class="clearfix margin-0 alpha">
-<li><a href="http://www.sparknotes.com/lit/index_author_a.html">A</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_b.html">B</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_c.html">C</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_d.html">D</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_e.html">E</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_f.html">F</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_g.html">G</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_h.html">H</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_i.html">I</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_j.html">J</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_k.html">K</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_l.html">L</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_m.html">M</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_n.html">N</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_o.html">O</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_p.html">P</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_r.html">R</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_s.html">S</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_t.html">T</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_u.html">U</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_v.html">V</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_w.html">W</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_y.html">Y</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Top SparkNotes</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/lit/mocking/">To Kill a Mockingbird</a></li>
-<li><a href="http://www.sparknotes.com/lit/gatsby/">The Great Gatsby</a></li>
-<li><a href="http://www.sparknotes.com/lit/flies/">Lord of the Flies</a></li>
-<li><a href="http://www.sparknotes.com/lit/huckfinn">Adventures of Huck Finn</a></li>
-<li><a href="http://www.sparknotes.com/lit/catcher/">The Catcher in the Rye</a></li>
-<li><a href="http://www.sparknotes.com/lit/1984">1984</a></li>
-<li><a href="http://www.sparknotes.com/lit/451">Fahrenheit 451</a></li>
-<li><a href="http://www.sparknotes.com/lit/scarlet">The Scarlet Letter</a></li>
-<li><a href="http://www.sparknotes.com/lit/grapesofwrath">The Grapes of Wrath</a></li>
-<li><a href="http://www.sparknotes.com/lit/bravenew">Brave New World</a></li>
-<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/"><strong>See all →</strong></a></li>
-</ul>
-</div>
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/video/">Top Video SparkNotes</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/sparknotes/video/1984">1984</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/hamlet">Hamlet</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/romeojuliet">Romeo and Juliet</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/mocking">To Kill A Mockingbird</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/othello">Othello</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/macbeth">Macbeth</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/scarlet">The Scarlet Letter</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/flies">Lord of the Flies</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/frankenstein">Frankenstein</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/gatsby">The Great Gatsby</a></li>
-<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/video/"><strong>See all →</strong></a></li>
-</ul>
-</div>
-<div class="col-1-8 last">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Other Subjects</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/biology/">Biology</a></li>
-<li><a href="http://www.sparknotes.com/biography/">Biography</a></li>
-<li><a href="http://www.sparknotes.com/chemistry/">Chemistry</a></li>
-<li><a href="http://www.sparknotes.com/cs/">Computer Science</a></li>
-<li><a href="http://www.sparknotes.com/drama/">Drama</a></li>
-<li><a href="http://www.sparknotes.com/economics/">Economics</a></li>
-<li><a href="http://www.sparknotes.com/film/">Film</a></li>
-<li><a href="http://www.sparknotes.com/history/">History</a></li>
-<li><a href="http://www.sparknotes.com/lit/">Literature</a></li>
-<li><a href="http://www.sparknotes.com/math/">Math</a></li>
-<li><a href="http://www.sparknotes.com/philosophy/">Philosophy</a></li>
-<li><a href="http://www.sparknotes.com/physics/">Physics</a></li>
-<li><a href="http://www.sparknotes.com/poetry/">Poetry</a></li>
-<li><a href="http://www.sparknotes.com/psychology/">Psychology</a></li>
-<li><a href="http://www.sparknotes.com/sociology/">Sociology</a></li>
-<li><a href="http://www.sparknotes.com/us-government-and-politics/">U.S. Government</a></li>
-</ul>
-</div>
-</div>
-</li>
-<li id="no-fear"><a class="semi-bold light-text" href="http://nfs.sparknotes.com/">No Fear</a>
-<div class="clearfix dropdown dropdown-no-fear text-color dark-drop-shadow">
-</div>
-</li>
-<li id="test-prep"><a class="semi-bold light-text" href="http://www.sparknotes.com/testprep/">Test Prep</a>
-<div class="clearfix dropdown dropdown-test-prep text-color dark-drop-shadow centered-width">
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/">Test Prep Main</a></h5></li>
-<li><a href="http://www.sparknotes.com/testprep/newsat/">SAT</a></li>
-<li><a href="http://www.sparknotes.com/testprep/act/">ACT</a></li>
-<li><a href="http://www.sparknotes.com/testprep/gre/">GRE</a></li>
-</ul>
-</div>
-<div class="col-1-4 last">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/newsat/">SAT Subject Tests</a></h5></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/biology/">SAT Biology</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/chemistry/">SAT Chemistry</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/history/">SAT History</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/math1c/">SAT Math Level 1</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/math2c/">SAT Math Level 2</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/physics/">SAT Physics</a></li>
-</ul>
-</div>
-</div>
-</li>
-<li id="video"><a class="semi-bold light-text" href="http://www.sparknotes.com/video/">Video</a>
-<div class="clearfix dropdown dropdown-video text-color border-dark-grey">
-</div>
-</li>
-<li id="sparklife"><a class="semi-bold light-text" href="http://community.sparknotes.com/">SparkLife</a>
-<div class="clearfix dropdown dropdown-sparklife text-color dark-drop-shadow">
-</div>
-</li>
-<li id="mindhut"><a class="semi-bold light-text" href="http://www.sparknotes.com/mindhut">The Mindhut</a>
-<div class="clearfix dropdown dropdown-mindhut text-color dark-drop-shadow">
-</div>
-</li>
-</ul>
-</navigation>
-</div>
-</div>
-<a class="hide-text hide-text-accessibility" id="startcontent"></a><!-- For accesibility -->
-</header>
-
-<div id="ad-skin-bg">
-<div id="ad-skin-img">
-<div class="inner-content blue-background">
-<div class="center no-columns top-ad">
-<div class="is-centered ad-container">
-
-</div>
-</div>
-<div class="clearfix breadcrumbs">
-<ul class="clearfix is-inline semi-bold">
-<li class="margin-0">
-<a href="http://www.sparknotes.com">Home</a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/sparknotes/">SparkNotes </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/lit/">Literature Study Guides </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/lit/littleprince/">The Little Prince </a> <span class="link-color">→</span> Chapters I–III    	</li>
-</ul>
-</div>
-<div class="clearfix interior">
-<div class="col-small-left">
-<div class="light-blue-background border-blue left-menu">
-<h2>Contents</h2>
-<ul>
-<h4 class="semi-bold">General Info</h4>
-<li><a href="http://www.sparknotes.com/lit/littleprince/context.html">Context</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/summary.html">Plot Overview</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/characters.html">Character List</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/canalysis.html">Analysis of Major Characters</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/themes.html">Themes, Motifs &amp; Symbols</a></li>
-<h4 class="semi-bold">Summary &amp; Analysis</h4><li class="active">Chapters I–III</li><li><a href="http://www.sparknotes.com/lit/littleprince/section2.rhtml">Chapters IV–VI</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section3.rhtml">Chapters VII–IX</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section4.rhtml">Chapters X–XII</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section5.rhtml">Chapters XIII–XV</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section6.rhtml">Chapters XVI–XX</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section7.rhtml">Chapters XXI–XXIII</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section8.rhtml">Chapters XXIV–XXV</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section9.rhtml">Chapters XXVI–XXVII</a></li>
-<h4 class="semi-bold">Study Tools</h4>
-<li><a href="http://www.sparknotes.com/lit/littleprince/quotes.html">Important Quotations Explained</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/facts.html">Key Facts</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/study.html">Study Questions &amp; Essay Topics</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/quiz.html">Quiz</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/bibliography.html">Suggestions for Further Reading</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/citing.html">How to Cite This SparkNote</a></li>
-</ul>
-</div>
-<div id="leftAd">
-
-</div>
-</div>
-<div class="col-mid">
-<div class="white-background border-blue content">
-<h1 class="title padding-btm-0">The Little Prince</h1><h2 class="author">Antoine de Saint-Exupéry</h2>
-<div class="clearfix next-previous center"><a class="left arrow-nav previous text-color" href="http://www.sparknotes.com/lit/littleprince/themes.html" title="previous">←</a><div class="next-title text-color is-centered">Chapters I–III</div><a class="right arrow-nav next text-color" href="http://www.sparknotes.com/lit/littleprince/section2.rhtml" title="next">→</a></div><div class="tooltip dark-grey-background"><h3 class="semi-bold">Themes, Motifs &amp; Symbols</h3></div><div class="tooltip dark-grey-background"><h3 class="semi-bold">Chapters IV–VI</h3></div><div class="clearfix">
-<h5 class="right">
-</h5>
-<div style="clear:both;"></div>
-</div>
-<div class="studyGuideText" id="section">
-<h4>Summary: Chapter I </h4>
-<blockquote class="quotation">
-<p>But [a grown-up] would always answer,
-“That’s a hat.” Then I wouldn’t talk about boa constrictors or jungles or
-stars. I would put myself on his level and talk about bridge and
-golf and politics and neckties.	</p>
-<p align="right" class="attribution">(See <a href="quotes.html#CHDGHJEC">Important Quotations Explained</a>)</p>
-</blockquote>
-<p>The novel’s narrator says that when he was six years old,
-before he became a pilot, he saw in a book a picture of a boa constrictor devouring
-a wild animal. In the same book, the narrator read that boa constrictors
-must hibernate for six months after swallowing their prey in order
-to digest it. Fascinated by this information, the narrator drew
-his first drawing, which he calls Drawing Number One. The drawing,
-a picture of a boa constrictor digesting an elephant, looked like
-a lumpy blob with two flat lines tapering off to the left and right.
-But grown-ups were not frightened by the picture, because they thought
-it was supposed to be a hat.</p>
-<div class="floatingad"></div>
-<p>To explain his drawing to adults, the narrator drew Drawing Number
-Two, an x-ray view of Drawing Number One that showed the elephant
-inside the snake. Disturbed by this image, grown-ups advised the
-narrator to give up drawing and pursue geography, arithmetic, and
-grammar instead. Realizing that grown-ups would always require things
-to be explained to them, the narrator decided not to be an artist
-and became a pilot instead. He admits that the geography he learned
-did prove to be useful for flying. </p>
-<p>The narrator’s opinion of adults never improved. Every
-time he met a grown-up, he would test him by showing him Drawing
-Number One. The grown-ups would always think it was a picture of
-a hat. Consequently, the narrator knew he could talk with the grown-ups
-only about boring, pragmatic topics like politics and neckties.</p>
-<h4>Summary: Chapter II </h4>
-<p>The narrator feels lonely his whole life until one day,
-six years before he tells his story, he crashes his plane in the
-middle of the Sahara desert. As the situation is beginning to look
-dire, the pilot is shocked to hear an odd little voice asking him
-to draw a sheep. He turns to see the little prince. The prince looks
-like a small, blond child, but he stares intently at the pilot without
-the fear that a child lost in the desert would have. The pilot does
-not know how to draw a sheep, so instead he sketches Drawing Number
-One, and he is astounded when the little prince recognizes it as
-a picture of an elephant inside a boa constrictor. The little prince
-rejects Drawing Number One, insisting that he needs a drawing of
-a sheep. After drawing three different sheep that the prince rejects,
-the pilot finally draws a box and gives it to the little prince.
-He says that the box contains exactly the type of sheep for which
-he is looking. This drawing makes the little prince very happy.
-The prince wonders if the sheep will have enough grass to eat, explaining
-that the place where he lives is quite small.</p>
-<h4>Summary: Chapter III </h4>
-<p>The pilot tries to find out where his mysterious new friend
-comes from, but the little prince prefers asking questions to answering them.
-He questions the pilot about his plane and what it does, and the
-pilot tells the little prince that it allows him to fly through
-the air. The little prince takes comfort in the fact that the pilot
-also came from the sky, asking him what planet he comes from. The
-pilot is surprised by this question and tries to find out what planet
-the little prince comes from. But the little prince ignores the
-pilot’s queries and admires the sheep the pilot has drawn for him.
-The pilot offers to draw a post and a string to tie the sheep to
-so that it won’t get lost, but the little prince laughs. The sheep
-will not get lost, he says, because he comes from a very small planet.</p>
-<h4>Analysis: Chapters I–III</h4>
-<p>By beginning his story with a discussion of his childhood
-drawings, the narrator introduces the idea that perception of an
-item varies from person to person. The narrator intends for people
-to see his drawing as a boa constrictor eating an elephant, but
-most adults can’t see the hidden elephant and think the drawing
-represents a hat. Throughout <i>The Little Prince</i>,
-the narrator’s drawings allow Saint-Exupéry to discuss concepts
-that he would not be able to express adequately in words. Drawings,
-the novel suggests, are a way of imparting knowledge that is more
-creative and open to interpretation, and thus more in line with
-the abstract perspectives of children. Because it must be interpreted,
-Drawing Number One is an example of a symbol. It is a picture of
-a hat that actually signifies a boa constrictor that has swallowed
-an elephant, but the viewer must have the imagination to spot that
-non-literal meaning.</p>
-<div class="floatingad"></div>
-<p>Chapter II also reinforces these ideas about the power
-of drawings and the importance of imagination. Saint-Exupéry suggests that,
-like the narrator and the little prince, the reader will have to
-use his or her imagination to grasp the real story. The drawings
-invite the reader to join in the narrator’s encounter with the little
-prince and to deduce the meaning of the drawings along with the
-story’s characters. By putting the drawings in the text, Saint-Exupéry
-is crediting us with the same powers of imagination as those of
-the little prince and the narrator. It is up to us, therefore, to
-make the book come to life. We must see the story in the same way
-that the little prince can see a sheep living and sleeping in the
-narrator’s drawing of a box.</p>
-<p>The way the little prince can immediately see beyond first appearances
-and perceive the boa constrictor in the narrator’s first drawing
-and a sheep hidden in a box shows how different children are from
-adults. The adult perspective in Chapter I is unimaginative, overly
-pragmatic, and dull, while the childish perspective is creative, full
-of wonder, and open to the mysterious beauty of the universe. The
-novel suggests that both adulthood and childhood are states of mind
-rather than facts of life. The narrator, for example, is an adult when
-he tells the story, but he longs for companions with the pure perspective
-of childhood.</p>
-<p>	The narrator’s loneliness at the beginning of Chapter
-II shows how important relationships with others are. In the desert,
-the narrator is stranded from all human contact, but his isolation
-allows him to indulge in the most fulfilling relationship of his
-life. Forcibly removed from the corrupting influence of the grown-up
-world, he is able to embrace the prince and the lessons his new
-friend has to offer.</p>
-<p>	The narrator’s constant questioning in Chapters II and
-III, however, shows that we cannot hope to have answers simply handed
-to us. In Chapter III, the narrator is full of questions, but if
-the little prince answers them at all, he does so with oblique,
-indirect responses. The story suggests that questions are much more
-important than answers. Later, both the prince and the narrator
-discuss this lesson in greater detail.</p>
-</div>
-<div class="clearFloats"></div>
-<div class="clearfix">
-<div class="right"> </div>
-<div style="clear:both;"></div>
-</div>
-<!-- psst!  did you know theres no quiz on this page? -->
-</div>
-<div class="white-background border-blue more-help interior">
-<h3>More Help</h3>
-<div class="more-help-interior">
-<ul class="clearfix is-inline" id="more-help-carousel">
-<li class="center">
-<a class="is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634925&amp;prid=1586634925" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/lit_guide_book.jpg">
-</img></a>
-<h5><a class="text-color is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634925&amp;prid=1586634925" target="_blank">Buy the print The Little Prince SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=2940000053003" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/moreHelp_ebook.png">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=2940000053003" target="_blank">Buy the ebook of this SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=9781411493414" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/moreHelp_pdf.png">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=9781411493414" target="_blank">Download the PDF of this SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/little-prince-antoine-de-saint-exupery/1100090265?ean=9780156012195" target="_blank">
-<img src="http://img.sparknotes.com/content/cover/9780156012195.jpg">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/little-prince-antoine-de-saint-exupery/1100090265?ean=9780156012195" target="_blank">Order The Little Prince at BN.com</a></h5>
-</li>
-</ul>
-<a class="arrow" href="javascript: void(0)" id="carousel_prev">Previous</a>
-<a class="arrow" href="javascript: void(0)" id="carousel_next">Next</a>
-
-</div>
-</div>
-<div class="light-blue-background border-blue content">
-<div class="containerUGC">
-<div class="header clearfix">
-<h2 class="left"><a class="text-color" href="/lit/littleprince/notes">Readers' Notes<br/>
-<span>Most Helpful Readers' Notes (5 total)</span>
-</a></h2>
-<a class="right semi-bold blue-block-link" href="javascript:void(0);" onclick="addNoteInternal('littleprince', 'lit')">Add a note   →</a>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/994">Small error</a></h6>
-<h3>by <a class="semi-bold" href="/account/SpenseBasse">SpenseBasse</a>, December 11, 2013</h3>
-<p class="noteExcerpt"><p>For the character description of the little prince, it states he identified the narrator's drawing of a boa eating a snake.  It was, however, a drawing of a boa eating an elephant.  Just wanted to note this to avoid confusion</p>
-</p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/994"><span class="commentIcon"></span>0 Comments</a></p>
-<p class="right">
-<strong>3</strong> out of 
-	<strong>3</strong> people found this helpful
-    	</p>
-</div>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/1186">Baobabs</a></h6>
-<h3>by <a class="semi-bold" href="/account/monkey_munchkin">monkey_munchkin</a>, February 18, 2014</h3>
-<p class="noteExcerpt"><p>The baobabs could also be symbolic for negative feelings that a person has towards themselves or someone or something else. If these "ugly" feelings are not uprooted, they manifest an individual's mind.</p>
-</p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/1186"><span class="commentIcon"></span>1 Comments</a></p>
-<p class="right">
-<strong>1</strong> out of 
-	<strong>1</strong> people found this helpful
-    	</p>
-</div>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/1189">Climax</a></h6>
-<h3>by <a class="semi-bold" href="/account/krazykenz02">krazykenz02</a>, February 19, 2014</h3>
-<p class="noteExcerpt"><p>The climax is way off. The climax is when the little prince meets the snake on the old wall.</p>
-</p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/1189"><span class="commentIcon"></span>0 Comments</a></p>
-<p class="right">
-<strong>1</strong> out of 
-	<strong>2</strong> people found this helpful
-    	</p>
-</div>
-</div>
-<h5 class="center"><a href="/lit/littleprince/notes">See all 5 readers' notes   →</a></h5>
-</div>
-</div>
-</div>
-<div class="col-1-3 last">
-<div class="border-blue white-background lit-guides-social">
-<h3>Follow Us</h3>
-<div class="fb-like" data-href="https://www.facebook.com/SPARKNOTES" data-send="false" data-show-faces="true" data-width="270"></div>
-<a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/SparkNotes">Follow @SparkNotes</a>
-
-</div><div class="white-background border-blue blog-feature">
-<h3 class="sparklife-logo-home"><a class="hide-text" href="http://community.sparknotes.com/">SparkLife</a></h3>
-<h2>Take a Study Break!</h2>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaygift15study.gif	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide">Things we want more than a date this V Day</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/benbarnesstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges">Ben Barnes spoke to us and revealed his secret nerdy habit (it's a WHOPPER!)</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaycustomstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts">We made Valentines for everyone who thinks love is just a shout into the void but yells anyway</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/horscrstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be">We want to know: what would YOUR horcrux be?</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/litval15study.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes">The best imaginary Valentines you could hope for...</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/tv2015study.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why">Get out your sitting pants, these awesome TV shows are back SOON!</a></h4>
-</div>
-</div>
-<h3 class="geekOut border-top-blue"><a class="hide-text" href="http://www.sparknotes.com/mindhut">The MindHut</a></h3>
-<h2>Take a Study Break!</h2>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/grosssodaz0_Slidemhthumbcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition">The Sparkitors review GROSS SODAS</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/lyriczzznewthumbnewlyrcsz.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science">Pop lyrics explained by SCIENCE!</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/OldTechBigMoney2_Slidemhcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today">You'll never believe how much this computer is worth</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/docwhomtsdocseussmhcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers">Doctor Who meets Dr. Seuss</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/WeirdAnimalPoops0_Slidethumbzzz.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop">This post is 100% about weird animal poop</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/couldanotsuckkkked.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help">The Last Airbender could have rocked if they'd just done THIS</a></h4>
-</div>
-</div>
-</div>
-<!-- todo: include GlobalTemplatePlugin/modules/project_templates/templates/_bookBlogPosts.php here -->
-<div class="light-grey-white-background border-blue padding-15 margin-btm-30">
-<h3 class="bnBookBlog">
-<a class="hide-text" href="http://www.barnesandnoble.com/blog/">From the B&amp;N; Book Blog</a>
-</h3>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1C0XZ91"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AlexCrow_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1C0XZ91">7 Totally Weird, Totally Awesome YA Novels</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1vqrLVr"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AAnarrators_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1vqrLVr">8 Great YA Novels with African American Narrators</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1zxaolZ"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_GroundhogDay_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1zxaolZ">5 Time-Looping Tales Perfect for Groundhog Day</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1LEwN5z"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_readermultitasking_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1LEwN5z">Dos and Dont’s of Multitasking While Reading</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1BPyJA6"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_litladyjan27_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1BPyJA6">How to Get Your Parents to Read Your Favorite Book</a> </h4>
-</div>
-</div>
-</div>
-<div class="center">
-<div class="is-centered border-grey">
-
-
-</div>
-</div>
-</div>
-</div>
-
-</div>
-<footer>
-<div class="dark-grey-background">
-<div class="clearfix center centered-width footer">
-<h6 class="semi-bold">When your books and teachers don't make sense, we do.</h6>
-<navigation>
-<ul class="clearfix is-inline is-centered semi-bold">
-<li class="first"><a href="http://www.sparknotes.com/contact/">Contact Us</a></li>
-<li><a href="http://www.sparknotes.com/legal/">Legal</a></li>
-<li><a href="http://www.sparknotes.com/about/">About</a></li>
-<li><a href="http://www.sparknotes.com/sitemap/">Sitemap</a></li>
-<li><a href="http://www.sparknotes.com/mobile-apps/">Mobile Apps</a></li>
-<li><a href="http://www.sparknotes.com/advertisers/">Advertise</a></li>
-<li><a class="hide-text small-facebook" href="http://www.facebook.com/SPARKNOTES">Facebook</a></li>
-<li><a class="hide-text small-twitter" href="https://twitter.com/SparkNotes">Twitter</a></li>
-</ul>
-<p class="is-centered">SparkNotes is brought to you by <a href="http://www.barnesandnoble.com/">B&amp;N</a>. Visit B&amp;N to buy and rent <a href="http://www.barnesandnoble.com/textbooks/index.asp">textbooks</a>, and check out our award-winning tablets and ereaders, including <a href="http://www.barnesandnoble.com/u/samsung-galaxy-tab-4-nook-tablet/379004262">Samsung Galaxy Tab 4 NOOK</a> and <a href="http://www.barnesandnoble.com/u/nook-glowlight-ereader/379004122">NOOK GlowLight</a>.</p>
-</navigation>
-<p class="is-centered small">© 2015 <a class="light-grey" href="http://www.sparknotes.com/">SparkNotes LLC</a>, All Rights Reserved</p>
+<div class="global-footer-sister-sites">
+<form action="/" id="mag_dropmenus" name="mag_dropmenus">
+<select id="mag_list" name="mag_list" onchange="(this.options[this.selectedIndex].value) ? window.open(this.options[this.selectedIndex].value) : null">
+<option selected="selected" value="">Other Condé Nast sites</option>
+<option value="">- - - - - - - - - - - - - -</option>
+<option value="http://www.allure.com?src=tny-footer">Allure</option>
+<option value="http://www.architecturaldigest.com?src=tny-footer">Architectural Digest</option>
+<option value="http://www.arstechnica.com?src=tny-footer">Ars Technica</option>
+<option value="http://www.bonappetit.com?src=tny-footer">Bon Appétit</option>
+<option value="http://www.brides.com?src=tny-footer">Brides.com</option>
+<option value="http://www.concierge.com/cntraveler?src=tny-footer">Condé Nast Traveler</option>
+<option value="http://www.concierge.com?src=tny-footer">Concierge</option>
+<option value="http://www.details.com?src=tny-footer">Details</option>
+<option value="http://www.epicurious.com?src=tny-footer">Epicurious</option>
+<option value="http://www.glamour.com?src=tny-footer">Glamour</option>
+<option value="http://www.golfdigest.com?src=tny-footer">Golf Digest</option>
+<option value="http://www.golfworld.com?src=tny-footer">Golf World</option>
+<option value="http://www.gq.com?src=tny-footer">GQ</option>
+<option value="http://www.hotelchatter.com?src=tny-footer">Hotel Chatter</option>
+<option value="http://www.jaunted.com?src=tny-footer">Jaunted</option>
+<option value="http://www.luckymag.com?src=tny-footer">Lucky</option>
+<option value="http://www.nutritiondata.com?src=tny-footer">NutritionData</option>
+<option value="http://www.reddit.com?src=tny-footer">Reddit</option>
+<option value="http://thescene.com?src=tny-footer">The Scene</option>
+<option value="http://www.self.com?src=tny-footer">Self</option>
+<option value="http://www.style.com?src=tny-footer">Style</option>
+<option value="http://www.teenvogue.com?src=tny-footer">Teen Vogue</option>
+<option value="http://www.vanityfair.com?src=tny-footer">Vanity Fair</option>
+<option value="http://www.vegaschatter.com?src=tny-footer">Vegas Chatter</option>
+<option value="http://www.vogue.com?src=tny-footer">Vogue</option>
+<option value="http://www.wmagazine.com?src=tny-footer">W</option>
+<option value="http://www.wired.com?src=tny-footer">Wired</option>
+</select>
+</form>
+</div>
+<div id="copy">
+<p><small>Use of this site constitutes acceptance of our <a href="http://www.condenast.com/privacy-policy">User Agreement</a> (effective January 1, 2014) and <a href="http://www.condenast.com/privacy-policy#privacypolicy">Privacy Policy</a> (effective January 1, 2014). <a href="http://www.condenast.com/privacy-policy#privacypolicy-california">Your California Privacy Rights</a> The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. <a href="http://www.condenast.com/privacy-policy#privacypolicy-optout">Ad Choices <img alt="Ad Choices" height="10" src="/wp-content/assets/dist/img/icon/ad_choices_arrow.png" width="10"/></a></small></p>
 </div>
 </div>
 </footer>
-<!-- START Nielsen Online SiteCensus V6.0 -->
-<!-- COPYRIGHT 2010 Nielsen Online -->
+ <!-- end .content-wrapper -->
+ <!-- end .page-container -->
+<div id="CMU_RIGHTRAIL_CONTAINER">
+<div class="ecom-placement" id="AMS_NYR_ARTICLE_BLOG_RIGHTRAIL_A"><a href="http://www.newyorker.com/go/failsafe" target="_blank"><img alt="Subscribe to The New Yorker" data-src-desktop="/wp-content/assets/dist/img/cn-ecom/failsafe/NYR_Search_Tablet_300x250.jpg" src="/wp-content/assets/dist/img/px.gif"/></a></div></div>
+
+
 
 <noscript>
-<div>
-<img alt="" height="1" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704167h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1"/>
-</div>
+<a href="http://www.omniture.com" title="Web Analytics"><img alt="" border="0" height="1" src="http://condenast.112.2o7.net/b/ss/conde-newyorker/1/H.15.1--NS/0" width="1"/></a>
 </noscript>
-<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- AD INIT: CN.dart.init version 2 -->
+
+<!-- CM: page-ads.js -->
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+<div id="fb-root"></div>
+
+
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+<div data-parsely-site="newyorker.com" id="parsely-cfg"></div>
+</div>
+
+<!-- END Parse.ly Include: Standard -->
+
+<!--[if IE]>
+<style>
+<script src="/wp-content/assets/js/vendors/simplemodal/simplemodal.min.js"></script>
+#link-subscription-modal{
+  display:none;
+}
+
+#modal-overlay-full{
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  width:0;
+  height:0;
+  display:none;
+}
+.nyr-flex-modal{
+  display:block;
+}
+</style>
+<![endif]-->
+<div id="modal-overlay-full">
+<div class="hidden-m-item nyr-flex-modal" id="conf-view"></div>
+<div class="hidden-m-item nyr-flex-modal" id="signin-view"></div>
+<div class="hidden-m-item nyr-flex-modal" id="reg-view"></div>
+<div class="hidden-m-item nyr-flex-modal" id="link-subscription-modal"></div>
+</div>
+<div class="small-flex-spacer-b"></div>
+<div aria-hidden="false" class="fancy modal barrier-type" id="CM-notification">
+<div class="CM-wrapper">
+<div class="modal-close notification-b" id="close-b-modal"></div>
+<div id="CM-nofication-home-link"></div>
+<div id="CM-nofication-home-line"></div>
+<div id="PAYWALL_BARRIER_wrapper"></div>
+<div class="bottom-barrier-divide">
+<div class="notification-pipe-spacer"></div>
+<div class="mobile-bottom-barrier-divide-left"><a href="javascript:void(0)" id="linksub-from-external">Link your <br/> subscription</a>
+</div>
+<div class="bottom-barrier-divide-left"><a href="javascript:void(0)" id="linksub-from-external-promo">Link your subscription</a>
+</div>
+</div>
+<div class="mobile-barrier-divide-right begin-notification-msg">Have a login?
+            <br/>
+<span><a href="javascript:void(0)" id="sign-in-from-notfication-mob">Sign In</a></span>
+</div>
+<div class="bottom-barrier-divide-right" id="login-text-wrapper">Already have a login?
+            <span><a href="javascript:void(0)" id="sign-in-from-notfication">Sign in</a></span>
+</div>
+<div class="mob-notification-container">
+<div class="mob-notification-item"><a class="linksub-from-external-mobi" href="javascript:void(0)" style="text-decoration:underline">Link Your<br/>Subscription</a></div>
+<div class="mob-notification-item pipe-spacer-image"></div>
+<div class="mob-notification-item" id="mobile-login-text-wrap">Have a login?
+                        <br/><a class="signin-from-external-mobi" href="javascript:void(0)" id="sign-in-from-notfication-mobilink" style="text-decoration:underline">Sign in</a></div>
+</div>
+</div>
 </div>
 
 
-
-
-</div>
-</body>
-</html>

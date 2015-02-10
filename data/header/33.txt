@@ -1,11 +1,11 @@
-Title: The Little Prince by Antoine de Saint Exupry
-Date: Mon, 09 Feb 2015 18:48:53 GMT
-Server: Squeegit/1.2.5 (3_sir)
-Set-Cookie: CookieStatus=COOKIE_OK; path=/; domain=angelfire.lycos.com; expires=Tue, 09-Feb-2016 18:48:53 GMT
-Vary: *
-X-Server-IP: 209.202.245.158
-P3P: policyref="http://www.lycos.com/w3c/p3p.xml", CP="IDC DSP COR CURa ADMa DEVa CUSa PSAa IVAa CONo OUR IND UNI STA"
+Title: The Lord of the Rings Trilogy: Extended Edition on Blu-ray June 28th
+Date: Tue, 10 Feb 2015 15:02:41 GMT
+Server: Apache
+Last-Modified: Wed, 29 Jun 2011 01:25:39 GMT
+ETag: "47df84-21a9-4a6cfa97faac0"
+Accept-Ranges: bytes
+Content-Length: 8617
+Vary: Accept-Encoding
 Connection: close
-Transfer-Encoding: chunked
 Content-Type: text/html
 

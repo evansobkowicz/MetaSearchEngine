@@ -1,9 +1,12 @@
-Title: SparkNotes: The Little Prince: Themes, Motifs & Symbols
-Server: Apache
-Content-Type: text/html; charset=utf-8
-Vary: Accept-Encoding
-Date: Mon, 09 Feb 2015 19:44:08 GMT
+Title: The Little Prince | Mr. Curtis'' Class
+Server: nginx
+Date: Tue, 10 Feb 2015 15:02:36 GMT
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
 Connection: close
-Connection: Transfer-Encoding
+Vary: Accept-Encoding
+Vary: Cookie
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+X-Pingback: https://mcliterature.wordpress.com/xmlrpc.php
+X-ac: 1.dca _dca
 

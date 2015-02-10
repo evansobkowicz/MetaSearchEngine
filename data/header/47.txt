@@ -1,17 +1,17 @@
-Title: Buy tickets to The Little Prince
-
-Server: Cowboy
-Connection: close
-Date: Mon, 09 Feb 2015 20:42:32 GMT
-Status: 200 OK
+Title: The One Ring Explained. (Lord of the Rings Mythology Part 2) - YouTube
+Date: Tue, 10 Feb 2015 15:02:51 GMT
+Server: gwiseguy/2.0
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."
+X-XSS-Protection: 1; mode=block; report=https://www.google.com/appserve/security-bugs/log/youtube
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
 Content-Type: text/html; charset=utf-8
-Content-Length: 4431
-X-Ua-Compatible: IE=Edge,chrome=1
-Etag: "2f7b15323c96b4174fdf9f77600bb98c"
-Cache-Control: max-age=0, private, must-revalidate
-Set-Cookie: _artful.ly_session_s=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWRiYzg2NTAyNWIwNTg4MWUwMzVjNDVlMzgyYjE4M2ZiBjsAVEkiEmxhc3RfZXZlbnRfaWQGOwBGSSIJNDc2MQY7AFRJIgxjYXJ0X2lkBjsARmkDHn0k--379cfe84609bd522d8d369c3cb714b5b86fcf2b2; path=/; HttpOnly; secure
-X-Request-Id: 09c07d97-c1d8-4716-b53f-90cfdf88f4e8
-X-Runtime: 0.110012
-X-Rack-Cache: miss
-Via: 1.1 vegur
+Expires: Tue, 27 Apr 1971 19:44:06 EST
+Set-Cookie: YSC=5V1EilRcBwc; path=/; domain=.youtube.com; HttpOnly
+Set-Cookie: VISITOR_INFO1_LIVE=elpMhc8ToWE; expires=Mon, 12-Oct-2015 02:55:51 GMT; path=/; domain=.youtube.com
+Alternate-Protocol: 443:quic,p=0.02
+Accept-Ranges: none
+Vary: Accept-Encoding
+Connection: close
 

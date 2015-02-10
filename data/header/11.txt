@@ -1,14 +1,14 @@
 Title: Amazon.com: A Tale of Two Cities (Dover Thrift Editions) (9780486406510): Charles Dickens: Books
-Date: Mon, 09 Feb 2015 19:43:52 GMT
+Date: Tue, 10 Feb 2015 15:01:38 GMT
 Server: Server
 pragma: no-cache
-x-amz-id-1: 122Q5V8TBT3HEBE8PN0H
+x-amz-id-1: 0JWYV7Z36RHG4W864GN5
 p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 x-sap-pg: book_display_on_website
 cache-control: no-cache
 x-frame-options: SAMEORIGIN
 expires: -1
-x-amz-id-2: kgMpCyOZ1AWaU2cz7QkSqSEm5cZ9dvSnzaSpn+a6/hvNl3rrw+ijnnzSBQqv2WY8
+x-amz-id-2: orvGGFd+bVzHoCI1Tk04Vt1KerQBuAJDTG9XFsru8PUJ4xWa50GY7XQzUpnfdE83
 x-ua-compatible: IE=edge
 Vary: Accept-Encoding,User-Agent
 Content-Type: text/html; charset=UTF-8

@@ -1,11 +1,20 @@
-Title: The Little Prince by Antoine de Saint Exupry
-Date: Mon, 09 Feb 2015 19:43:43 GMT
-Server: Squeegit/1.2.5 (3_sir)
-Set-Cookie: CookieStatus=COOKIE_OK; path=/; domain=angelfire.lycos.com; expires=Tue, 09-Feb-2016 19:43:43 GMT
-Vary: *
-X-Server-IP: 209.202.245.162
-P3P: policyref="http://www.lycos.com/w3c/p3p.xml", CP="IDC DSP COR CURa ADMa DEVa CUSa PSAa IVAa CONo OUR IND UNI STA"
-Connection: close
+Title: The Lord of the Rings (film series) - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=414113; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 09 Feb 2015 18:15:47 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 3256148059 3255937906, 2250163614 2156822786
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Content-Type: text/html
+Date: Tue, 10 Feb 2015 15:02:42 GMT
+Age: 74811
+Connection: close
+X-Cache: cp1067 hit (5), cp1067 frontend hit (237)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

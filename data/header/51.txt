@@ -1,13 +1,16 @@
-Title: Elijah Wood - IMDb
-Date: Mon, 09 Feb 2015 20:42:36 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYib48wSCIMX1JWMnwGKzXQ0ANMEM9w91FJaBq3E4_3G9fzXieLkXXETyutMlq8NAHsNloqbY6f%0D%0AQjZDoCcJxkU2uANytbN2Iyy1IaJjbzHAcxnWb3zVNtcM1uQv8aKt8i4o3Ytd949hf0JfsVX6GCeC%0D%0A2NgsPI7uo3Nysp55vZyzFjQKbNufSAKWnU9cHIgtrnqKHydZlzhh6Qlol2dEYdpiZLFXMvul-vLE%0D%0AOXgdCSsOBJErPij73fbnBxTkvUcUL6pULJ5zDUS-WDY1ptY_91Jrww%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:44 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:44 GMT; Path=/
-Set-Cookie: session-id-time=1581194557; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 23:56:44 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Title: Dragon Age vs Lord of the Rings - Battles - Comic Vine
+Server: nginx/1.2.0
+Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.17
+Set-Cookie: PHPSESSID=8nnee83jaejv6qc73jsmtvlum3; path=/; domain=.comicvine.com
+Set-Cookie: ads_firstpg=1; expires=Wed, 11-Feb-2015 05:00:00 GMT; path=/; domain=comicvine.com
+Set-Cookie: AD_SESSION=g; path=/; domain=comicvine.com
+Cache-Control: no-cache
+Date: Tue, 10 Feb 2015 15:02:53 GMT
+Set-Cookie: sptg=%5B%5D; expires=Tue, 24-Feb-2015 15:02:53 GMT; path=/; httponly
+Set-Cookie: xcab=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: device_view=full; expires=Tue, 10-Mar-2015 07:00:00 GMT; path=/; httponly
 

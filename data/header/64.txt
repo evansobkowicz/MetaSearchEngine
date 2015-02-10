@@ -1,20 +1,16 @@
-Title: And Then There Were None - Wikipedia, the free encyclopedia
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=18949410; ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 31 Jan 2015 22:31:41 GMT
+Title: Amazon.com: And Then There Were None (9780062073488): Agatha Christie: Books
+Date: Tue, 10 Feb 2015 15:03:05 GMT
+Server: Server
+pragma: no-cache
+x-amz-id-1: 1WAJ60KQPPZPH0BQ96Y6
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-sap-pg: book_display_on_website
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: p9NRxQLH+df54xzTkijb1cYIxn66R/YAjaOlAn2WcyzeeP3nYB5L7C4IdqFcgHcj
+x-ua-compatible: IE=edge
+Vary: Accept-Encoding,User-Agent
 Content-Type: text/html; charset=UTF-8
-X-Varnish: 2880437148, 1611944088 1390156880
-Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
-Date: Mon, 09 Feb 2015 20:42:52 GMT
-Age: 190190
-Connection: close
-X-Cache: cp1066 miss (0), cp1066 frontend hit (165)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

@@ -4,7 +4,6 @@
 '
 'd
 'll
-'s
 (
 )
 ,
@@ -49,7 +48,6 @@
 7
 73
 7–9book
-8
 :
 ;
 >
@@ -69,7 +67,6 @@ admit
 adult
 adventur
 advertis
-african
 after
 again
 against
@@ -83,7 +80,6 @@ also
 although
 alway
 amaz
-american
 an
 analysi
 analysisprefacebook
@@ -112,7 +108,6 @@ award-win
 away
 awesom
 b
-back
 bank
 barn
 barsad
@@ -128,10 +123,11 @@ behavior
 behind
 believ
 ben
-best
 biographi
 biolog
 bizarr
+black
+blind
 blog
 bloodlust
 bn.com
@@ -142,6 +138,7 @@ bound
 boy
 brave
 break
+breath
 brief
 brought
 built
@@ -246,6 +243,7 @@ dr.
 drama
 dramat
 dramatic.”
+dream
 drink
 drive
 e
@@ -253,6 +251,7 @@ earthquak
 easier
 ebook
 econom
+edit
 effect
 effort
 elabor
@@ -269,6 +268,8 @@ essay
 eve
 even
 eventu
+ever
+everi
 everyon
 exampl
 exceed
@@ -281,10 +282,10 @@ f
 facebook
 fact
 fahrenheit
+fan
 fate
 father
 father’
-favorit
 fear
 februari
 few
@@ -318,11 +319,12 @@ g
 g.
 galaxi
 gallow
+game
 garret
 gather
 gatsbi
 gener
-get
+girl-pow
 given
 glowlight
 go
@@ -330,6 +332,7 @@ goe
 golden
 govern
 grape
+graphic
 grave-rob
 gre
 great
@@ -337,13 +340,11 @@ greek
 grindston
 gross
 grotesqu
-groundhog
 group
 grow
 guid
 h
 ha
-habit
 had
 hamlet
 hand
@@ -365,9 +366,9 @@ hidden
 him
 histor
 histori
+hold
 home
 honest
-hope
 horcrux
 horribl
 how
@@ -380,7 +381,6 @@ i
 if
 imageri
 imagin
-imaginari
 impati
 import
 imprison
@@ -413,6 +413,7 @@ kaykay2016
 key
 kill
 king
+kissabl
 knit
 know
 l
@@ -432,6 +433,7 @@ lifetim
 lightn
 like
 list
+literari
 literatur
 littl
 live
@@ -452,6 +454,7 @@ made
 main
 major
 make
+makeup
 man
 manett
 manette’
@@ -490,17 +493,16 @@ motley
 much
 multitask
 murder
+music
 must
 mytholog
 n
 n't
 name
-narrat
 natur
 navig
 neighborhood
 nephew
-nerdi
 never
 new
 next
@@ -534,9 +536,7 @@ over
 overshadow
 overview
 p
-pant
 paradox
-parent
 pari
 parricid
 particip
@@ -549,7 +549,6 @@ peasant
 peasantri
 peasantry’
 peopl
-perfect
 perform
 period
 person
@@ -580,6 +579,7 @@ previou
 print
 prison
 prisoner’
+probabl
 process
 prove
 psycholog
@@ -615,7 +615,6 @@ resolv
 restoration.”
 resurrect
 return
-reveal
 review
 revolut
 revolutionari
@@ -648,7 +647,6 @@ scientist
 scrapycoco
 scrupul
 second
-secret
 section
 see
 seek
@@ -665,14 +663,14 @@ sever
 shadow
 shakespear
 shop
+should
 shout
-show
 shroud
 signific
 similar
 sinc
+siriu
 sister
-sit
 sitemap
 skip
 sleep
@@ -692,7 +690,6 @@ sparknot
 speak
 spi
 spirit
-spoke
 sport
 spun
 stang
@@ -709,6 +706,7 @@ such
 suggest
 summari
 sweep
+swift
 symbol
 sympath
 t
@@ -719,6 +717,7 @@ tablet
 take
 tale
 tap
+taylor
 teacher
 tear
 technique”
@@ -739,7 +738,6 @@ them.”
 theme
 then
 there
-these
 they
 thi
 thing
@@ -748,12 +746,12 @@ third
 those
 thread
 three
+throne
 throng
 throughout
 thu
 tide
 time
-time-loop
 titl
 to
 togeth
@@ -768,7 +766,6 @@ tradesman
 trailer
 treatment
 trip
-tv
 twitter
 two
 u
@@ -781,6 +778,7 @@ up
 us
 v
 v=la10a83qy6a
+vacay
 valentin
 veng
 vengeanc
@@ -816,7 +814,6 @@ which
 while
 who
 whom
-whopper
 wife
 will
 wine

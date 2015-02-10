@@ -93,6 +93,7 @@ $
 137
 138
 139
+13:11
 14
 140
 140-page
@@ -196,7 +197,6 @@ $
 217–218
 22
 225
-22:15
 23
 238–242
 24
@@ -2096,6 +2096,7 @@ night
 nile
 nine
 ninth
+nishchay
 no
 nois
 nommé
@@ -2163,7 +2164,7 @@ often
 ojisama
 old
 older
-oldid=643432868
+oldid=646494283
 omit
 on
 onboard
@@ -2683,6 +2684,7 @@ sheep
 sheet
 shell
 shelter
+sheth
 shi
 shiel
 shift

@@ -4,7 +4,6 @@
 '
 'd
 'll
-'s
 (
 )
 ,
@@ -46,7 +45,6 @@
 7
 73
 7–9book
-8
 :
 ;
 >
@@ -63,7 +61,6 @@ act
 add
 adventur
 advertis
-african
 again
 age
 air
@@ -73,7 +70,6 @@ all
 aloud
 also
 amaz
-american
 an
 analysi
 analysisprefacebook
@@ -118,12 +114,13 @@ belief
 believ
 ben
 besid
-best
 better
 between
 biographi
 biolog
+black
 blade
+blind
 blog
 blood
 blood-stain
@@ -136,6 +133,7 @@ branch
 brave
 break
 breast
+breath
 brought
 busi
 but
@@ -237,12 +235,14 @@ down
 download
 dr.
 drama
+dream
 duti
 e
 each
 eager
 ebook
 econom
+edit
 emigr
 en
 enabl
@@ -253,6 +253,7 @@ eread
 escap
 essay
 establish
+ever
 everi
 everyon
 evidenc
@@ -269,10 +270,10 @@ fahrenheit
 fall
 famili
 familiar
+fan
 fare
 fatal
 father
-favorit
 fear
 februari
 feel
@@ -305,11 +306,12 @@ further
 futur
 g
 galaxi
+game
 gather
 gatsbi
 gener
 gentl
-get
+girl-pow
 give
 glimps
 glowlight
@@ -317,6 +319,7 @@ golden
 good
 govern
 grape
+graphic
 gre
 great
 greedi
@@ -325,7 +328,6 @@ grisli
 gross
 grotesqu
 ground
-groundhog
 group
 guard
 guid
@@ -334,7 +336,6 @@ guillotine.”
 guillotine”
 h
 ha
-habit
 had
 half.”
 hamlet
@@ -353,6 +354,7 @@ hi
 him
 himself
 histori
+hold
 holy—illustr
 home
 hope
@@ -372,7 +374,6 @@ if
 imag
 imageri
 imagin
-imaginari
 immedi
 implicitli
 import
@@ -410,6 +411,7 @@ key
 kill
 kindr
 king
+kissabl
 kneel
 know
 known
@@ -430,6 +432,7 @@ light
 liken
 link
 list
+literari
 literatur
 llc
 lodg
@@ -451,6 +454,7 @@ mail
 main
 major
 make
+makeup
 malevol
 manett
 manette’
@@ -485,6 +489,7 @@ mouth.”
 mr.
 much
 multitask
+music
 must
 mysteri
 n
@@ -494,7 +499,6 @@ narrator’
 natur
 navig
 nearbi
-nerdi
 never
 new
 newly-born
@@ -533,10 +537,8 @@ overview
 p
 pace
 painter
-pant
 paradox
 parallel
-parent
 pari
 parti
 particip
@@ -545,7 +547,6 @@ pdf
 peasants’
 peopl
 people’
-perfect
 permeat
 persuad
 pervers
@@ -554,6 +555,7 @@ physic
 physician
 piec
 place
+play
 plot
 poetri
 polit
@@ -572,6 +574,7 @@ print
 prison
 prisoner’
 privat
+probabl
 promis
 pross
 protect
@@ -610,7 +613,6 @@ rescu
 reserv
 respond
 return
-reveal
 review
 revolut
 revolutionari
@@ -661,11 +663,13 @@ sharp
 sharpen
 she
 shop
+should
 shout
 show
 signifi
 similarli
 sin—dickens’
+siriu
 sit
 sitemap
 skeptic
@@ -685,7 +689,6 @@ sparkitor
 sparklif
 sparknot
 speak
-spoke
 stain
 stand
 stave
@@ -703,6 +706,7 @@ suggest
 summari
 sunris
 sweet
+swift
 symbol
 sympathi
 t
@@ -711,6 +715,7 @@ tablet
 take
 tale
 talk
+taylor
 teacher
 tell
 tellson’
@@ -738,12 +743,12 @@ thread
 threat
 threaten
 three
+throne
 throng
 through
 throughout
 tigerish
 time
-time-loop
 titl
 to
 tone
@@ -760,7 +765,6 @@ tri
 trial
 tribun
 turn
-tv
 twitter
 two
 u
@@ -773,6 +777,7 @@ use
 usher
 v
 v=la10a83qy6a
+vacay
 valentin
 variou
 veng
@@ -805,7 +810,6 @@ which
 while
 white
 who
-whopper
 wide
 will
 window
@@ -827,6 +831,7 @@ ya
 year
 yell
 you
+young
 your
 youtub
 zeal

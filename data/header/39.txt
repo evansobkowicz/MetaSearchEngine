@@ -1,11 +1,20 @@
-Title: The Lord of the Rings Trilogy: Extended Edition on Blu-ray June 28th
-Date: Mon, 09 Feb 2015 19:44:15 GMT
+Title: The Lord of the Rings: The Fellowship of the Ring - Wikipedia, the free encyclopedia
 Server: Apache
-Last-Modified: Wed, 29 Jun 2011 01:25:39 GMT
-ETag: "47df84-21a9-4a6cfa97faac0"
-Accept-Ranges: bytes
-Content-Length: 8617
-Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=173941; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 09 Feb 2015 00:13:01 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 1371527793 1370595566, 2327712203 2158342241
+Via: 1.1 varnish, 1.1 varnish
+Transfer-Encoding: chunked
+Date: Tue, 10 Feb 2015 15:02:44 GMT
+Age: 139768
 Connection: close
-Content-Type: text/html
+X-Cache: cp1054 hit (9), cp1053 frontend hit (200)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

@@ -1,23 +1,13 @@
-Title: The Lord of the Rings - Lord of the Rings Wiki
-Server: Apache
-X-Content-Type-Options: nosniff
-Content-language: en
-X-Backend-Response-Time: 0.241
-ETag: "20150203200022-1423267875"
-Last-Modified: Tue, 03 Feb 2015 20:00:22 GMT
-Content-Type: text/html; charset=utf-8
-X-Cacheable: YES
-Content-Length: 199787
-Accept-Ranges: bytes
-Date: Mon, 09 Feb 2015 20:42:50 GMT
-Age: 55167
-Connection: close
-X-Served-By: ap-s48, cache-wk-sjc3161-WKSJC, cache-atl6224-ATL
-X-Cache: ORIGIN, MISS, HIT
-X-Cache-Hits: ORIGIN, 0, 1
-X-Timer: S1423514570.596341,VS0,VE5
-Vary: Accept-Encoding,Cookie
-Set-Cookie: wikia_beacon_id=f8UHI2JIE3; domain=.wikia.com; path=/; expires=Sat, 08 Aug 2015 20:42:50 GMT;
-Set-Cookie: Geo={%22city%22:%22FIXME%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}; path=/
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Title: And Then There Were None (1945) - IMDb
+Date: Tue, 10 Feb 2015 15:03:04 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYnTXHwd21hLlyA-nQi53cBZVxcGnwpscC9dKidRQDuQ1RlRqnteIMmSH5iQQeP1ZBEybBTP8DA%0D%0AZrkUKpkLb6QfCxTSEYTCq5uDNERSf7dc4LddfsUofBOJogtfqhIrcWIPjJQi8YSG8nOAs-rjG6-k%0D%0AfSoWcsliIzPen8ztWvrUHxOsS-cq-sBGuKoLgO74MvxESOhWWgvHJ0Y2A-P7mm6gYBHDtp2-xi40%0D%0A_y7F3p7dTtUnV64GF-eaYbC3-3y0PxnCUttqo4IOTQIXQduFa8SKkQ%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 18:17:11 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 18:17:11 GMT; Path=/
+Set-Cookie: session-id-time=1581260584; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 18:17:11 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
 

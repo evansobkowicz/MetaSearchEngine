@@ -1,20 +1,13 @@
-Title: The Fellowship of the Ring - Wikipedia, the free encyclopedia
-Server: Apache
-X-Content-Type-Options: nosniff
-X-Analytics: page_id=27472888; ns=0
-Content-language: en
-X-UA-Compatible: IE=Edge
-Vary: Accept-Encoding,Cookie
-X-Powered-By: HHVM/3.3.1
-Last-Modified: Sat, 31 Jan 2015 22:31:41 GMT
-Content-Type: text/html; charset=UTF-8
-X-Varnish: 2079808538 2079047334, 2452074460 1982580369
-Via: 1.1 varnish, 1.1 varnish
+Title: The Lord of the Rings: The Fellowship of the Ring (2001) - IMDb
+Date: Tue, 10 Feb 2015 15:02:47 GMT
+Server: Server
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: uu=BCYjMescYizpezcqibpGZQFMjib4eu2ot3eTQoZIe7QP6ICrvs1dRGZzVvmt5wpnApdbnKgDrVRR%0D%0AEmG4odw8rHvCgNKF4kb0b_4tJ40sgCeFj3fSiRvVCbUseQdSXY4em82Ftd4q-0TTqXMUCtj-INMJ%0D%0An6KbLNo8CxnIFay_zds4nZNDWgED_gxa8Eq3KMwojma0Dzv9uKAJmI9p5QcA5UOdGBVkcmShamWn%0D%0AfA3S2wu3KgW9W2pBEnlQys4CSN3-glozUDPbBA8w9tnObBuoA1Fjew%0D%0A; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 18:16:54 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 18:16:54 GMT; Path=/
+Set-Cookie: session-id-time=1581260567; Domain=.imdb.com; Expires=Sun, 28-Feb-2083 18:16:54 GMT; Path=/
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-Date: Mon, 09 Feb 2015 19:44:17 GMT
-Age: 406703
-Connection: close
-X-Cache: cp1053 hit (4), cp1065 frontend hit (254)
-Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
-Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

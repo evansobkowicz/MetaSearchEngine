@@ -4,7 +4,6 @@
 '
 'd
 'll
-'s
 (
 )
 ,
@@ -40,7 +39,6 @@
 34
 4
 451
-5
 5–6
 5–6book
 6
@@ -48,7 +46,6 @@
 7
 73
 7–9book
-8
 :
 ;
 >
@@ -72,7 +69,6 @@ admir
 admit
 adventur
 advertis
-african
 after
 again
 against
@@ -139,11 +135,12 @@ believ
 ben
 benefactor
 benefit
-best
 beyond
 biograph
 biographi
 biolog
+black
+blind
 blog
 bn.com
 bombast
@@ -153,6 +150,7 @@ both
 brave
 brawl
 break
+breath
 britain
 brought
 bundl
@@ -264,6 +262,7 @@ download
 dr.
 drama
 draw
+dream
 drink
 drudg
 drunk
@@ -275,6 +274,7 @@ earlier
 earth
 ebook
 econom
+edit
 effect
 elabor
 emerg
@@ -289,6 +289,8 @@ essay
 establish
 even
 eventu
+ever
+everi
 everyon
 exagger
 examin
@@ -308,6 +310,7 @@ fact
 fahrenheit
 fals
 fame
+fan
 far
 father
 father’
@@ -351,10 +354,11 @@ fuse
 g
 galaxi
 gambl
+game
 gatsbi
 gener
 georg
-get
+girl-pow
 give
 glean
 gloom
@@ -366,18 +370,17 @@ golden
 good
 govern
 grape
+graphic
 gre
 great
 greatest
 greec
 gross
 grotesqu
-groundhog
 guid
 guilti
 h
 ha
-habit
 had
 hamlet
 hand
@@ -399,9 +402,9 @@ hilari
 him
 himself
 histori
+hold
 home
 honor
-hope
 horcrux
 hors
 how
@@ -418,7 +421,6 @@ iii
 ill
 illustri
 imag
-imaginari
 imit
 imped
 implement
@@ -467,6 +469,7 @@ key
 kill
 king
 kiss
+kissabl
 know
 known
 l
@@ -508,6 +511,7 @@ mail
 main
 major
 make
+makeup
 man
 manett
 manner
@@ -537,6 +541,7 @@ mr.
 much
 muddi
 multitask
+music
 mysteri
 n
 n't
@@ -545,7 +550,6 @@ narrat
 natur
 navig
 neighborhood
-nerdi
 never
 new
 next
@@ -585,9 +589,7 @@ overview
 own
 o’clock
 p
-pant
 paradox
-parent
 parodi
 particularli
 partner
@@ -597,12 +599,12 @@ passeng
 past
 pdf
 peopl
-perfect
 perhap
 pertin
 philosophi
 physic
 plan
+play
 plead
 plot
 poetri
@@ -710,11 +712,11 @@ ship
 shorter
 should
 shout
-show
 sick
 sight
 similar
 sir
+siriu
 sit
 sitemap
 skip
@@ -726,7 +728,6 @@ soda
 solicitor-gener
 some
 son
-soon
 sort
 sparkitor
 sparklif
@@ -735,7 +736,6 @@ spectat
 specul
 speech
 spi
-spoke
 spot
 stage
 stand
@@ -757,6 +757,7 @@ summari
 support
 supposedli
 suspect
+swift
 sydney
 symbol
 sympathi
@@ -769,6 +770,7 @@ tale
 talent
 tarnish
 tavern
+taylor
 teacher
 techniqu
 tellson’
@@ -798,11 +800,11 @@ third-person
 though
 thread
 thread”
+throne
 through
 throw
 thu
 time
-time-loop
 titl
 to
 tool
@@ -819,7 +821,6 @@ tri
 trial
 trip
 turn
-tv
 twitter
 two
 u
@@ -844,6 +845,7 @@ use
 usual
 v
 v=la10a83qy6a
+vacay
 valentin
 veri
 video
@@ -876,7 +878,6 @@ while
 whisper
 who
 whom
-whopper
 whose
 wife
 will

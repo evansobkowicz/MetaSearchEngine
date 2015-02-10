@@ -50,7 +50,7 @@
 </tr>
 <tr>
 <th scope="row" style="text-align:left">Author</th>
-<td><a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry" title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</a></td>
+<td>Nishchay Sheth</td>
 </tr>
 <tr>
 <th scope="row" style="text-align:left">Original title</th>
@@ -886,35 +886,35 @@ The fighter jet insignia of the <a class="extiw" href="//fr.wikipedia.org/wiki/E
 </table>
 <!-- 
 NewPP limit report
-Parsed by mw1167
-CPU time usage: 1.106 seconds
-Real time usage: 1.279 seconds
+Parsed by mw1022
+CPU time usage: 1.221 seconds
+Real time usage: 1.392 seconds
 Preprocessor visited node count: 7933/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 98596/2097152 bytes
-Template argument size: 9985/2097152 bytes
+Post‐expand include size: 98416/2097152 bytes
+Template argument size: 9940/2097152 bytes
 Highest expansion depth: 13/40
 Expensive parser function count: 10/500
-Lua time usage: 0.205/10.000 seconds
+Lua time usage: 0.247/10.000 seconds
 Lua memory usage: 4.45 MB/50 MB
 -->
 <!-- 
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  985.084      1 - -total
- 39.79%  392.008      2 - Template:Reflist
-  8.61%   84.862      1 - Template:Infobox_book
-  7.61%   75.003      1 - Template:Infobox
-  6.96%   68.570     16 - Template:Cite_web
-  5.88%   57.971     14 - Template:Category_handler
-  5.08%   50.081     20 - Template:Sfnp
-  4.42%   43.517      1 - Template:Commons_category
-  3.84%   37.871      9 - Template:Language_icon
-  3.12%   30.768      1 - Template:Lang
+100.00% 1012.384      1 - -total
+ 41.01%  415.228      2 - Template:Reflist
+  8.92%   90.283      1 - Template:Infobox_book
+  8.80%   89.047     16 - Template:Cite_web
+  7.74%   78.361      1 - Template:Infobox
+  5.58%   56.534     14 - Template:Category_handler
+  5.24%   53.059     20 - Template:Sfnp
+  4.50%   45.556      1 - Template:Commons_category
+  4.24%   42.892      9 - Template:Language_icon
+  3.50%   35.426      8 - Template:Cite_news
 -->
-<!-- Saved in parser cache with key enwiki:pcache:idhash:63425-0!*!0!!en!4!* and timestamp 20150207173121 and revision id 643432868
+<!-- Saved in parser cache with key enwiki:pcache:idhash:63425-0!*!0!!en!4!* and timestamp 20150210131152 and revision id 646494283
  -->
 <noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
-						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Little_Prince&amp;oldid=643432868">http://en.wikipedia.org/w/index.php?title=The_Little_Prince&amp;oldid=643432868</a>"					</div>
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Little_Prince&amp;oldid=646494283">http://en.wikipedia.org/w/index.php?title=The_Little_Prince&amp;oldid=646494283</a>"					</div>
 <div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1943_novels" title="Category:1943 novels">1943 novels</a></li><li><a href="/wiki/Category:Works_by_Antoine_de_Saint-Exup%C3%A9ry" title="Category:Works by Antoine de Saint-Exupéry">Works by Antoine de Saint-Exupéry</a></li><li><a href="/wiki/Category:Aviation_novels" title="Category:Aviation novels">Aviation novels</a></li><li><a href="/wiki/Category:Fictional_princes" title="Category:Fictional princes">Fictional princes</a></li><li><a href="/wiki/Category:Fictional_extraterrestrial_characters" title="Category:Fictional extraterrestrial characters">Fictional extraterrestrial characters</a></li><li><a href="/wiki/Category:French_children%27s_novels" title="Category:French children's novels">French children's novels</a></li><li><a href="/wiki/Category:French_novels_adapted_into_films" title="Category:French novels adapted into films">French novels adapted into films</a></li><li><a href="/wiki/Category:Novels_set_in_Africa" title="Category:Novels set in Africa">Novels set in Africa</a></li><li><a href="/wiki/Category:Novellas" title="Category:Novellas">Novellas</a></li><li><a href="/wiki/Category:Philosophical_novels" title="Category:Philosophical novels">Philosophical novels</a></li><li><a href="/wiki/Category:Fiction_with_unreliable_narrators" title="Category:Fiction with unreliable narrators">Fiction with unreliable narrators</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li><li><a href="/wiki/Category:Articles_with_Danish-language_external_links" title="Category:Articles with Danish-language external links">Articles with Danish-language external links</a></li><li><a href="/wiki/Category:Articles_with_Portuguese-language_external_links" title="Category:Articles with Portuguese-language external links">Articles with Portuguese-language external links</a></li><li><a href="/wiki/Category:Infobox_book_image_param_needs_updating" title="Category:Infobox book image param needs updating">Infobox book image param needs updating</a></li><li><a href="/wiki/Category:Articles_containing_non-English-language_text" title="Category:Articles containing non-English-language text">Articles containing non-English-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2013" title="Category:Articles with unsourced statements from August 2013">Articles with unsourced statements from August 2013</a></li><li><a href="/wiki/Category:Articles_with_attributed_pull_quotes" title="Category:Articles with attributed pull quotes">Articles with attributed pull quotes</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2014" title="Category:Articles containing potentially dated statements from 2014">Articles containing potentially dated statements from 2014</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Commons_category_template_with_no_category_set" title="Category:Commons category template with no category set">Commons category template with no category set</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Articles_with_Japanese-language_external_links" title="Category:Articles with Japanese-language external links">Articles with Japanese-language external links</a></li><li><a href="/wiki/Category:Articles_with_Italian-language_external_links" title="Category:Articles with Italian-language external links">Articles with Italian-language external links</a></li><li><a href="/wiki/Category:Articles_with_simplified_Chinese-language_external_links" title="Category:Articles with simplified Chinese-language external links">Articles with simplified Chinese-language external links</a></li></ul></div></div> <div class="visualClear"></div>
 </div>
 </div>
@@ -1005,10 +1005,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/The_Little_Prince" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
 <li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
 <li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
-<li id="t-permalink"><a href="/w/index.php?title=The_Little_Prince&amp;oldid=643432868" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=The_Little_Prince&amp;oldid=646494283" title="Permanent link to this revision of the page">Permanent link</a></li>
 <li id="t-info"><a href="/w/index.php?title=The_Little_Prince&amp;action=info" title="More information about this page">Page information</a></li>
 <li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q25338" title="Link to connected data repository item [g]">Wikidata item</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Little_Prince&amp;id=643432868" title="Information on how to cite this page">Cite this page</a></li> </ul>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Little_Prince&amp;id=646494283" title="Information on how to cite this page">Cite this page</a></li> </ul>
 </div>
 </div>
 <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
@@ -1016,7 +1016,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="body">
 <ul>
 <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Little+Prince">Create a book</a></li>
-<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Little+Prince&amp;oldid=643432868&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Little+Prince&amp;oldid=646494283&amp;writer=rdf2latex">Download as PDF</a></li>
 <li id="t-print"><a accesskey="p" href="/w/index.php?title=The_Little_Prince&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
 </ul>
 </div>
@@ -1115,7 +1115,7 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 <div id="footer" role="contentinfo">
 <ul id="footer-info">
-<li id="footer-info-lastmod"> This page was last modified on 20 January 2015, at 22:15.</li>
+<li id="footer-info-lastmod"> This page was last modified on 10 February 2015, at 13:11.</li>
 <li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 </ul>

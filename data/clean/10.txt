@@ -17,7 +17,7 @@ $
 //www.gutenberg.org/files/98/98-h/98-h.htm
 0.00
 1
-15544
+15727
 1789-1799
 181
 1812-1870
@@ -26,7 +26,7 @@ $
 2.1
 2.5
 30
-48,118
+48,128
 5.5
 636
 74
@@ -156,7 +156,7 @@ s.
 s.shakespear
 search
 separ
-session_id=51070d86feb07d4fff40e59e953408c9c1040209
+session_id=03fe5d2106cbe1d95ed3db03517e72383c117cfc
 shakespear
 similar
 size

@@ -1,13 +1,20 @@
-Title: The Little Prince (2015) - IMDb
-Date: Mon, 09 Feb 2015 19:44:12 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYus7PsToSLi9pK1IhjVmQYmmGVgQtvEZtyX090A8JDkAgH3rltElpADlTX39Y8mvK6xmtp703m%0D%0A9JcGavehQ8RPUR0nGMi_sdwVO-UXJYfejP8W0nJE86BNkKIEpk4VtqdNcSU2qa9_kNzezQXWixZM%0D%0ArEDBLGwpBQndrdBYfVkhosAhPmoGPQZ6_EP-QklDmaAKDzfxxj7qzLZmOyxOE7uuISNj2LL_phaE%0D%0A5OzDy4Oeo23WLOjzTuNQiEcz48OXnoOEPYP7uPvk1UfFgELZ_qYLDg%0D%0A; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 22:58:19 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 22:58:19 GMT; Path=/
-Set-Cookie: session-id-time=1581191052; Domain=.imdb.com; Expires=Sat, 27-Feb-2083 22:58:19 GMT; Path=/
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Title: Frodo Baggins - Wikipedia, the free encyclopedia
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=23140032; ns=0
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Sat, 31 Jan 2015 22:31:41 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 652092414 648988033, 2539188927 1985554562
+Via: 1.1 varnish, 1.1 varnish
 Transfer-Encoding: chunked
+Date: Tue, 10 Feb 2015 15:02:44 GMT
+Age: 476192
+Connection: close
+X-Cache: cp1065 hit (6), cp1065 frontend hit (276)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=US:Ithaca:42.4072:-76.5159:v4; Path=/; Domain=.wikipedia.org
 

@@ -8,10 +8,8 @@ Expires: -1
 Server: Microsoft-IIS/7.5
 X-AspNet-Version: 4.0.30319
 X-Powered-By: ASP.NET
-X-Akamai-Transformed: 9 129231 0 pmb=mRUM,1
-Date: Mon, 09 Feb 2015 19:43:57 GMT
-Transfer-Encoding: chunked
+Content-Length: 129292
+Date: Tue, 10 Feb 2015 15:01:43 GMT
 Connection: close
-Connection: Transfer-Encoding
-Set-Cookie: ASP.NET_SessionId=onn4cxj5jxpwoqwtgvk1h00a; path=/; HttpOnly
+Set-Cookie: ASP.NET_SessionId=reuz3thyanjsz0acfnru1jjg; path=/; HttpOnly
 

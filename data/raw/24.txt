@@ -1,620 +1,290 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
-<!--[if IE]><![endif]--><!--Empty IE conditional comment to improve site performance-->
-<html lang="en">
+<html>
 <head>
-<!-- 13 -->
-
-
-<title>SparkNotes: The Little Prince</title>
-<meta content="From a general summary to chapter summaries to explanations of famous quotes, the SparkNotes The Little Prince Study Guide has everything you need to ace quizzes, tests, and essays." name="description"/>
-<meta content="The Little Prince free online study guide, book notes, summary, summaries, chapter summary, famous quotes, criticism, Antoine de Saint-Exupéry, lesson plan, teaching The Little Prince" name="keywords"/>
-<link href="http://img.sparknotes.com/images/new_global/new_favicon.ico" rel="shortcut icon"/>
-<link href="http://img.sparknotes.com/css/2013/styles.css" rel="stylesheet"/>
-<link href="http://img.sparknotes.com/css/2013/large-screens.css" rel="stylesheet"/>
-<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE8.css" /><![endif]-->
-<!--[if IE]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE.css" /><![endif]-->
+<title>The Little Prince</title>
+<meta content="" name="Keywords">
+<meta content="" name="Description">
+<meta content="superuser" name="Author">
+<meta content="5/11/2013 4:12:56 AM" name="Date-Created">
 
 
 
 
 
-</head>
-<body class="study-guides blue-background">
-<div id="fb-root"></div>
- 
-<header>
-<link href="http://img.sparknotes.com/css/gigya.css" rel="stylesheet"/>
-<div class="short-light-grey-gradient">
-<div class="clearfix centered-width masthead">
-<div class="col-1-3">
-<div class="utility navigation">
-<div id="placeholder">
-
-</div>
-										 
-				</div>
-</div>
-<div class="col-1-3 center logo">
-<h2 class="is-centered"><a class="logo hide-text" href="http://www.sparknotes.com/">SparkNotes</a></h2>
-</div>
-<div class="col-1-3 last">
-<navigation>
-<div id="user-links-wrapper">
-<div class="login" id="login-dialog" style="display:none;">
-<form action="https://www.sparknotes.com/login" id="loginform" method="POST">
-<input class="jsClearOnFocus" id="email" name="email" placeholder="email" type="text">
-<input class="jsClearOnFocus" id="password" name="password" type="password" value="password">
-<input checked="checked" id="remember_me" name="remember_me" type="checkbox">
-<label for="remember_me"> Remember me</label>
-<input class="turquoise-gradient" id="login" name="submit" type="submit" value="Log in">
-<input name="uri" type="hidden" value="http://www.sparknotes.com/">
-<input id="referer" name="referer" type="hidden" value="http://www.sparknotes.com/">
-</input></input></input></input></input></input></form>
-</div>
 
 
 
-
-
-</div>
-</navigation>
-<div class="ui-widget search small-search">
-<form action="http://www.sparknotes.com/search" class="clearfix search" id="searchform" method="get">
-<fieldset>
-<input class="search_field inner-shadow grey-text" id="search-sparknotes" name="q" placeholder="By keyword" type="text" value=""/>
-<input type="submit" value="Go"/>
-<!--      						<input name="searchbg" value="" class="searchbg" type="hidden" />
-      						
-      						<input name="template" value="default" type="hidden" />
-      						
-      						<input type="hidden" name="output" value="xml_no_dtd" />
-      						
-      						<input type="hidden" name="oe" value="UTF-8"/>
-      						
-      						<input type="hidden" name="ie" value="UTF-8" />
-      						
-      						<input type="hidden" name="client" value="default_frontend" />
-      						
-      						<input type="hidden" name="proxystylesheet" value="default_frontend" />
-      						
-      						<input type="hidden" name="site" value="SparkNotes" /> -->
-</fieldset>
-</form>
-</div>
-</div>
-</div>
-</div>
-<!-- Begin comScore Tag -->
-
-<noscript>
-<img alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035001&amp;cv=2.0&amp;cj=1"/>
-</noscript>
-<!-- End comScore Tag -->
-<a class="hide-text hide-text-accessibility" href="#startcontent">Skip over navigation</a>
-<div class="dark-grey-background">
-<div class="clearfix no-columns center centered-width top-nav-container">
-<navigation>
-<ul class="clearfix is-inline is-centered top-nav" id="menu">
-<li id="sparknotes-tab"><a class="semi-bold light-text" href="http://www.sparknotes.com/sparknotes/">SparkNotes</a>
-<div class="clearfix dropdown text-color dropdown-sparknotes dark-drop-shadow">
-<div class="col-1-8">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/"><strong>SparkNotes Main</strong></a></h5></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/"><strong>Video SparkNotes</strong></a></li>
-<li><a href="http://www.sparknotes.com/shakespeare/"><strong>Shakespeare SparkNotes</strong></a></li>
-<li><a href="http://www.sparknotes.com/lit/index_title.html"><strong>Titles A-Z</strong></a></li>
-<li>
-<ul class="clearfix margin-0 alpha">
-<li><a href="http://www.sparknotes.com/lit/index_a.html">A</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_b.html">B</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_c.html">C</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_d.html">D</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_e.html">E</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_f.html">F</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_g.html">G</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_h.html">H</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_i.html">I</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_j.html">J</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_k.html">K</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_l.html">L</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_m.html">M</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_n.html">N</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_o.html">O</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_p.html">P</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_r.html">R</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_s.html">S</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_t.html">T</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_u.html">U</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_v.html">V</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_w.html">W</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_y.html">Y</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li><a href="http://www.sparknotes.com/lit/index_author.html"><strong>Authors A-Z</strong></a></li>
-<li>
-<ul class="clearfix margin-0 alpha">
-<li><a href="http://www.sparknotes.com/lit/index_author_a.html">A</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_b.html">B</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_c.html">C</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_d.html">D</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_e.html">E</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_f.html">F</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_g.html">G</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_h.html">H</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_i.html">I</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_j.html">J</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_k.html">K</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_l.html">L</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_m.html">M</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_n.html">N</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_o.html">O</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_p.html">P</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_r.html">R</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_s.html">S</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_t.html">T</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_u.html">U</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_v.html">V</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_w.html">W</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_y.html">Y</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Top SparkNotes</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/lit/mocking/">To Kill a Mockingbird</a></li>
-<li><a href="http://www.sparknotes.com/lit/gatsby/">The Great Gatsby</a></li>
-<li><a href="http://www.sparknotes.com/lit/flies/">Lord of the Flies</a></li>
-<li><a href="http://www.sparknotes.com/lit/huckfinn">Adventures of Huck Finn</a></li>
-<li><a href="http://www.sparknotes.com/lit/catcher/">The Catcher in the Rye</a></li>
-<li><a href="http://www.sparknotes.com/lit/1984">1984</a></li>
-<li><a href="http://www.sparknotes.com/lit/451">Fahrenheit 451</a></li>
-<li><a href="http://www.sparknotes.com/lit/scarlet">The Scarlet Letter</a></li>
-<li><a href="http://www.sparknotes.com/lit/grapesofwrath">The Grapes of Wrath</a></li>
-<li><a href="http://www.sparknotes.com/lit/bravenew">Brave New World</a></li>
-<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/"><strong>See all →</strong></a></li>
-</ul>
-</div>
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/video/">Top Video SparkNotes</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/sparknotes/video/1984">1984</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/hamlet">Hamlet</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/romeojuliet">Romeo and Juliet</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/mocking">To Kill A Mockingbird</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/othello">Othello</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/macbeth">Macbeth</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/scarlet">The Scarlet Letter</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/flies">Lord of the Flies</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/frankenstein">Frankenstein</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/gatsby">The Great Gatsby</a></li>
-<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/video/"><strong>See all →</strong></a></li>
-</ul>
-</div>
-<div class="col-1-8 last">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Other Subjects</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/biology/">Biology</a></li>
-<li><a href="http://www.sparknotes.com/biography/">Biography</a></li>
-<li><a href="http://www.sparknotes.com/chemistry/">Chemistry</a></li>
-<li><a href="http://www.sparknotes.com/cs/">Computer Science</a></li>
-<li><a href="http://www.sparknotes.com/drama/">Drama</a></li>
-<li><a href="http://www.sparknotes.com/economics/">Economics</a></li>
-<li><a href="http://www.sparknotes.com/film/">Film</a></li>
-<li><a href="http://www.sparknotes.com/history/">History</a></li>
-<li><a href="http://www.sparknotes.com/lit/">Literature</a></li>
-<li><a href="http://www.sparknotes.com/math/">Math</a></li>
-<li><a href="http://www.sparknotes.com/philosophy/">Philosophy</a></li>
-<li><a href="http://www.sparknotes.com/physics/">Physics</a></li>
-<li><a href="http://www.sparknotes.com/poetry/">Poetry</a></li>
-<li><a href="http://www.sparknotes.com/psychology/">Psychology</a></li>
-<li><a href="http://www.sparknotes.com/sociology/">Sociology</a></li>
-<li><a href="http://www.sparknotes.com/us-government-and-politics/">U.S. Government</a></li>
-</ul>
-</div>
-</div>
-</li>
-<li id="no-fear"><a class="semi-bold light-text" href="http://nfs.sparknotes.com/">No Fear</a>
-<div class="clearfix dropdown dropdown-no-fear text-color dark-drop-shadow">
-</div>
-</li>
-<li id="test-prep"><a class="semi-bold light-text" href="http://www.sparknotes.com/testprep/">Test Prep</a>
-<div class="clearfix dropdown dropdown-test-prep text-color dark-drop-shadow centered-width">
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/">Test Prep Main</a></h5></li>
-<li><a href="http://www.sparknotes.com/testprep/newsat/">SAT</a></li>
-<li><a href="http://www.sparknotes.com/testprep/act/">ACT</a></li>
-<li><a href="http://www.sparknotes.com/testprep/gre/">GRE</a></li>
-</ul>
-</div>
-<div class="col-1-4 last">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/newsat/">SAT Subject Tests</a></h5></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/biology/">SAT Biology</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/chemistry/">SAT Chemistry</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/history/">SAT History</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/math1c/">SAT Math Level 1</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/math2c/">SAT Math Level 2</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/physics/">SAT Physics</a></li>
-</ul>
-</div>
-</div>
-</li>
-<li id="video"><a class="semi-bold light-text" href="http://www.sparknotes.com/video/">Video</a>
-<div class="clearfix dropdown dropdown-video text-color border-dark-grey">
-</div>
-</li>
-<li id="sparklife"><a class="semi-bold light-text" href="http://community.sparknotes.com/">SparkLife</a>
-<div class="clearfix dropdown dropdown-sparklife text-color dark-drop-shadow">
-</div>
-</li>
-<li id="mindhut"><a class="semi-bold light-text" href="http://www.sparknotes.com/mindhut">The Mindhut</a>
-<div class="clearfix dropdown dropdown-mindhut text-color dark-drop-shadow">
-</div>
-</li>
-</ul>
-</navigation>
-</div>
-</div>
-<a class="hide-text hide-text-accessibility" id="startcontent"></a><!-- For accesibility -->
-</header>
-
-<div id="ad-skin-bg">
-<div id="ad-skin-img">
-<div class="inner-content blue-background">
-<div class="center no-columns top-ad">
-<div class="is-centered ad-container">
-
-</div>
-</div>
-<div id="loginForm" style="display:none">
-<form action="https://www.sparknotes.com/login" method="post" name="pform">
-<div class="g_blog_login_box">
-<div class="g_blog_login_container">
-<div class="sparkNotesLogin">
-<h4>Please log in first</h4>
-
-
-<div class="g_fields">
-<div class="g_entry_text_blog">Email</div><div class="right"><input id="email" name="email" type="text"/></div>
-</div>
-<div class="g_fields">
-<div class="g_entry_text_blog">Password</div><div class="right"><input id="password" name="password" type="password"/></div>
-</div>
-<div class="g_fields2">
-<p class="g_instructions_text right"><input checked="checked" id="remember_me" name="remember_me" type="checkbox"/> Remember me</p>
-</div>
-<div class="g_fields">
-<div class="right">
-<button id="loginComment" type="submit">Log in</button>
-</div></div>
-<a href="https://www.sparknotes.com/account/signup">Create an account</a> | <a href="https://www.sparknotes.com/account/resetpassword">Lost password</a>
-</div>
-<!-- display gigya widget -->
-
-<div class="g_icons">
-<h4> ...or log in using</h4>
-<div id="componentDiv"></div>
-
-</div>
-</div> <!-- end blog login container -->
-<div class="clearfloat"></div>
-<br/>
-<br/><br/>
-</div>
-<input id="referer" name="referer" type="hidden" value="http://www.sparknotes.com/lit/littleprince/"/><input id="social_link" name="social_link" type="hidden"/></form>
-</div>
-<div class="clearfix breadcrumbs">
-<ul class="clearfix is-inline semi-bold">
-<li class="margin-0">
-<a href="http://www.sparknotes.com">Home</a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/sparknotes/">SparkNotes </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/lit/">Literature Study Guides </a> <span class="link-color">→</span> The Little Prince    	</li>
-</ul>
-</div><div class="clearfix interior">
-<div class="col-small-left">
-<div id="leftAd">
-
-</div>
-</div>
-<div class="col-mid">
-<div class="white-background border-blue content study-guide-TOC">
-<h1 class="title padding-btm-0">The Little Prince</h1><h2 class="author">Antoine de Saint-Exupéry</h2>
-<title></title>
-<div class="entry odd"><h2 class="semi-bold">General Info</h2></div>
-<div class="entry even"><p><a href="context.html">Context</a></p></div>
-<div class="entry odd"><p><a href="summary.html">Plot Overview</a></p></div>
-<div class="entry even"><p><a href="characters.html">Character List</a></p></div>
-<div class="entry odd"><p><a href="canalysis.html">Analysis of Major Characters</a></p></div>
-<div class="entry even"><p><a href="themes.html">Themes, Motifs &amp; Symbols</a></p></div>
-<div class="entry odd"><h2 class="semi-bold">Summary &amp; Analysis</h2></div>
-<div class="entry even"><p class="indented"><a href="section1.rhtml">Chapters I–III</a></p></div>
-<div class="entry odd"><p class="indented"><a href="section2.rhtml">Chapters IV–VI</a></p></div>
-<div class="entry even"><p class="indented"><a href="section3.rhtml">Chapters VII–IX</a></p></div>
-<div class="entry odd"><p class="indented"><a href="section4.rhtml">Chapters X–XII</a></p></div>
-<div class="entry even"><p class="indented"><a href="section5.rhtml">Chapters XIII–XV</a></p></div>
-<div class="entry odd"><p class="indented"><a href="section6.rhtml">Chapters XVI–XX</a></p></div>
-<div class="entry even"><p class="indented"><a href="section7.rhtml">Chapters XXI–XXIII</a></p></div>
-<div class="entry odd"><p class="indented"><a href="section8.rhtml">Chapters XXIV–XXV</a></p></div>
-<div class="entry even"><p class="indented"><a href="section9.rhtml">Chapters XXVI–XXVII</a></p></div>
-<div class="entry odd"><h2 class="semi-bold">Study Tools</h2></div>
-<div class="entry even"><p><a href="quotes.html">Important Quotations Explained</a></p></div>
-<div class="entry odd"><p><a href="facts.html">Key Facts</a></p></div>
-<div class="entry even"><p><a href="study.html">Study Questions &amp; Essay Topics</a></p></div>
-<div class="entry odd"><p><a href="quiz.html">Quiz</a></p></div>
-<div class="entry even"><p><a href="bibliography.html">Suggestions for Further Reading</a></p></div>
-<div class="entry odd"><p><a href="citing.html">How to Cite This SparkNote</a></p></div>
-</div>
-<div class="white-background border-blue more-help interior">
-<h3>More Help</h3>
-<div class="more-help-interior">
-<ul class="clearfix is-inline" id="more-help-carousel">
-<li class="center">
-<a class="is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634925&amp;prid=1586634925" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/lit_guide_book.jpg">
-</img></a>
-<h5><a class="text-color is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634925&amp;prid=1586634925" target="_blank">Buy the print The Little Prince SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=2940000053003" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/moreHelp_ebook.png">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=2940000053003" target="_blank">Buy the ebook of this SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=9781411493414" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/moreHelp_pdf.png">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=9781411493414" target="_blank">Download the PDF of this SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/little-prince-antoine-de-saint-exupery/1100090265?ean=9780156012195" target="_blank">
-<img src="http://img.sparknotes.com/content/cover/9780156012195.jpg">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/little-prince-antoine-de-saint-exupery/1100090265?ean=9780156012195" target="_blank">Order The Little Prince at BN.com</a></h5>
-</li>
-</ul>
-<a class="arrow" href="javascript: void(0)" id="carousel_prev">Previous</a>
-<a class="arrow" href="javascript: void(0)" id="carousel_next">Next</a>
-
-</div>
-</div>
-<div class="light-blue-background border-blue content">
-<div class="containerUGC">
-<div class="header clearfix">
-<h2 class="left"><a class="text-color" href="/lit/littleprince/notes">Readers' Notes<br/>
-<span>Most Helpful Readers' Notes (5 total)</span>
-</a></h2>
-<a class="right semi-bold blue-block-link" href="javascript:void(0);" onclick="addNoteInternal('littleprince', 'lit')">Add a note   →</a>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/994">Small error</a></h6>
-<h3>by <a class="semi-bold" href="/account/SpenseBasse">SpenseBasse</a>, December 11, 2013</h3>
-<p class="noteExcerpt"><p>For the character description of the little prince, it states he identified the narrator's drawing of a boa eating a snake.  It was, however, a drawing of a boa eating an elephant.  Just wanted to note this to avoid confusion</p>
-</p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/994"><span class="commentIcon"></span>0 Comments</a></p>
-<p class="right">
-<strong>3</strong> out of 
-	<strong>3</strong> people found this helpful
-    	</p>
-</div>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/1186">Baobabs</a></h6>
-<h3>by <a class="semi-bold" href="/account/monkey_munchkin">monkey_munchkin</a>, February 18, 2014</h3>
-<p class="noteExcerpt"><p>The baobabs could also be symbolic for negative feelings that a person has towards themselves or someone or something else. If these "ugly" feelings are not uprooted, they manifest an individual's mind.</p>
-</p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/1186"><span class="commentIcon"></span>1 Comments</a></p>
-<p class="right">
-<strong>1</strong> out of 
-	<strong>1</strong> people found this helpful
-    	</p>
-</div>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/1189">Climax</a></h6>
-<h3>by <a class="semi-bold" href="/account/krazykenz02">krazykenz02</a>, February 19, 2014</h3>
-<p class="noteExcerpt"><p>The climax is way off. The climax is when the little prince meets the snake on the old wall.</p>
-</p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/1189"><span class="commentIcon"></span>0 Comments</a></p>
-<p class="right">
-<strong>1</strong> out of 
-	<strong>2</strong> people found this helpful
-    	</p>
-</div>
-</div> <h5 class="center"><a href="/lit/littleprince/notes">See all 5 readers' notes   →</a></h5>
-</div>
-</div>
-</div>
-<div class="col-1-3 last top-right-ad">
-<div class="center">
-<div class="is-centered">
- </div>
-</div><div class="white-background border-blue blog-feature">
-<h3 class="sparklife-logo-home"><a class="hide-text" href="http://community.sparknotes.com/">SparkLife</a></h3>
-<h2>Take a Study Break!</h2>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaygift15study.gif	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide">Things we want more than a date this V Day</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/benbarnesstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges">Ben Barnes spoke to us and revealed his secret nerdy habit (it's a WHOPPER!)</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaycustomstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts">We made Valentines for everyone who thinks love is just a shout into the void but yells anyway</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/horscrstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be">We want to know: what would YOUR horcrux be?</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/litval15study.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes">The best imaginary Valentines you could hope for...</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/tv2015study.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why">Get out your sitting pants, these awesome TV shows are back SOON!</a></h4>
-</div>
-</div>
-<h3 class="geekOut border-top-blue"><a class="hide-text" href="http://www.sparknotes.com/mindhut">The MindHut</a></h3>
-<h2>Take a Study Break!</h2>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/grosssodaz0_Slidemhthumbcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition">The Sparkitors review GROSS SODAS</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/lyriczzznewthumbnewlyrcsz.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science">Pop lyrics explained by SCIENCE!</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/OldTechBigMoney2_Slidemhcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today">You'll never believe how much this computer is worth</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/docwhomtsdocseussmhcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers">Doctor Who meets Dr. Seuss</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/WeirdAnimalPoops0_Slidethumbzzz.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop">This post is 100% about weird animal poop</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/couldanotsuckkkked.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help">The Last Airbender could have rocked if they'd just done THIS</a></h4>
-</div>
-</div>
-</div>
-<!-- todo: include GlobalTemplatePlugin/modules/project_templates/templates/_bookBlogPosts.php here -->
-<div class="light-grey-white-background border-blue padding-15 margin-btm-30">
-<h3 class="bnBookBlog">
-<a class="hide-text" href="http://www.barnesandnoble.com/blog/">From the B&amp;N; Book Blog</a>
-</h3>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1C0XZ91"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AlexCrow_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1C0XZ91">7 Totally Weird, Totally Awesome YA Novels</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1vqrLVr"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AAnarrators_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1vqrLVr">8 Great YA Novels with African American Narrators</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1zxaolZ"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_GroundhogDay_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1zxaolZ">5 Time-Looping Tales Perfect for Groundhog Day</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1LEwN5z"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_readermultitasking_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1LEwN5z">Dos and Dont’s of Multitasking While Reading</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1BPyJA6"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_litladyjan27_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1BPyJA6">How to Get Your Parents to Read Your Favorite Book</a> </h4>
-</div>
-</div>
-</div>
-<div class="center">
-<div class="is-centered border-grey">
-
-
-</div>
-</div>
-</div>
-</div>
-
-</div>
-<footer>
-<div class="dark-grey-background">
-<div class="clearfix center centered-width footer">
-<h6 class="semi-bold">When your books and teachers don't make sense, we do.</h6>
-<navigation>
-<ul class="clearfix is-inline is-centered semi-bold">
-<li class="first"><a href="http://www.sparknotes.com/contact/">Contact Us</a></li>
-<li><a href="http://www.sparknotes.com/legal/">Legal</a></li>
-<li><a href="http://www.sparknotes.com/about/">About</a></li>
-<li><a href="http://www.sparknotes.com/sitemap/">Sitemap</a></li>
-<li><a href="http://www.sparknotes.com/mobile-apps/">Mobile Apps</a></li>
-<li><a href="http://www.sparknotes.com/advertisers/">Advertise</a></li>
-<li><a class="hide-text small-facebook" href="http://www.facebook.com/SPARKNOTES">Facebook</a></li>
-<li><a class="hide-text small-twitter" href="https://twitter.com/SparkNotes">Twitter</a></li>
-</ul>
-<p class="is-centered">SparkNotes is brought to you by <a href="http://www.barnesandnoble.com/">B&amp;N</a>. Visit B&amp;N to buy and rent <a href="http://www.barnesandnoble.com/textbooks/index.asp">textbooks</a>, and check out our award-winning tablets and ereaders, including <a href="http://www.barnesandnoble.com/u/samsung-galaxy-tab-4-nook-tablet/379004262">Samsung Galaxy Tab 4 NOOK</a> and <a href="http://www.barnesandnoble.com/u/nook-glowlight-ereader/379004122">NOOK GlowLight</a>.</p>
-</navigation>
-<p class="is-centered small">© 2015 <a class="light-grey" href="http://www.sparknotes.com/">SparkNotes LLC</a>, All Rights Reserved</p>
-</div>
-</div>
-</footer>
-<!-- START Nielsen Online SiteCensus V6.0 -->
-<!-- COPYRIGHT 2010 Nielsen Online -->
-
-<noscript>
-<div>
-<img alt="" height="1" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704167h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1"/>
-</div>
-</noscript>
-<!-- END Nielsen Online SiteCensus V6.0 -->
-</div>
+<link href="/styles/MTLSDNew_ace.css" rel="stylesheet" type="text/css">
+<link href="/styles/MTLSDNew_style.css" rel="stylesheet" type="text/css">
+<link href="/styles/editstyle.css" rel="stylesheet" type="text/css">
+</link></link></link></meta></meta></meta></meta></head>
+<body bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" onload="preloadImages();" rightmargin="0" topmargin="0">
+<!-- login menu -->
+<style type="text/css">
+    #loginselector
+    {
+    visibility: hidden;
+    position: absolute;
+    border: 1px solid black;
+    padding: 3px;
+    background-color: white;
+    width: 140px;
+    height: 70px;
+    }
+</style>
+<div id="loginselector">
+<table border="0" cellpadding="4" cellspacing="0" id="Table1" width="100%">
+<tr>
+<td nowrap="">
+<a class="loginlinks" href="/District/Register/PublicLogin.asp?RetValue=/mellon/teams/ironbrigade/thelittleprince.asp"><b><i>my</i></b>MTLSD</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="loginlinks" href="http://ps.mtlsd.org">Dashboard</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="loginlinks" href="http://home.mtlsd.org">MTLSD<i>Home</i></a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="loginlinks" href="http://www.mtlsd.org/email">Email Access</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="loginlinks" href="http://ps.mtlsd.org/teachers">PowerTeacher</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="loginlinks" href="http://www.mtlsd.org/publicfolders">Public Folders</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="loginlinks" href="/system/login.asp">Site Administration</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="loginlinks" href="http://mtlebanon.subfinderonline.com" target="_NEW">SubFinder</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="loginlinks" href="http://pdexpress.mtlsd.org/pdexpress/login.aspx" target="_NEW">MyPDC</a>
+</td>
+</tr>
+<tr>
+<td>
+<a class="loginlinks" href="https://172.16.3.60/wap">School Messenger</a>
+</td>
+</tr>
+</table>
+</div>
+<!-- school selector -->
+<div id="selector" style="visibility:hidden;position:absolute;top:5px;left:525px">
+<table bgcolor="#333366" border="1" bordercolor="#000000" cellpadding="0" cellspacing="0" id="Table1" width="100">
+<tr>
+<td>
+<table border="0" cellpadding="1" cellspacing="0" id="Table2" width="100">
+<tr>
+<td bgcolor="#FFFFFF"><img border="0" src="/images/topbar.gif"/></td>
+<td bgcolor="#FFFFFF"><a href="javaScript:hideObject('selector')"><img border="0" src="/images/close_button.gif"/></a></td>
+</tr>
+<tr>
+<td colspan="2"><a class="headlink" href="/district">School District</a></td>
+</tr>
+<tr>
+<td colspan="2"><a class="headlink" href="/highschool">Mt. Lebanon High School</a></td>
+</tr>
+<tr>
+<td colspan="2"><a class="headlink" href="/jefferson_middle">Jefferson Middle School</a></td>
+</tr>
+<tr>
+<td colspan="2"><a class="headlink" href="/mellon">Mellon Middle School</a></td>
+</tr>
+<tr>
+<td colspan="2"><a class="headlink" href="/foster_elementary">Foster Elementary</a></td>
+</tr>
+<tr>
+<td colspan="2"><a class="headlink" href="/hoover_elementary">Hoover Elementary</a></td>
+</tr>
+<tr>
+<td colspan="2"><a class="headlink" href="/howe_elementary">Howe Elementary</a></td>
+</tr>
+<tr>
+<td colspan="2"><a class="headlink" href="/jefferson_elementary">Jefferson Elementary</a></td>
+</tr>
+<tr>
+<td colspan="2"><a class="headlink" href="/lincoln_elementary">Lincoln Elementary</a></td>
+</tr>
+<tr>
+<td colspan="2"><a class="headlink" href="/markham_elementary">Markham Elementary</a></td>
+</tr>
+<tr>
+<td colspan="2"><a class="headlink" href="/washington_elementary">Washington Elementary</a></td>
+</tr>
+<!--
+  <tr>
+    <td colspan=2><a href="/community" class="headlink">Our Community</a></td>
+  </tr>
+  -->
+</table>
+</td>
+</tr>
+</table>
+</div>
+<table border="0" cellpadding="0" cellspacing="0" height="100%" id="Table2" width="100%">
+<tr>
+<td width="100%">
+<!-- header table start -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td><img src="/HF/Common/a01.gif"/></td>
+<td><img src="/HF/Common/a02.gif"/></td>
+<td align="right" background="/HF/Common/aBackground.gif" valign="bottom" width="100%"><a href="javaScript:showObject('selector')"><img border="0" src="/HF/Common/choose.gif"/></a></td>
+</tr>
+<tr>
+<td><img src="/HF/Common/b01.gif"/></td>
+<td><img src="/HF/MTLMellonFront/b02.jpg"/></td>
+<td align="right" background="/HF/Common/bBackground.gif" width="100%"><img src="/HF/Common/b03.gif"/></td>
+</tr>
+</table>
+<!-- header table end -->
+</td>
+</tr>
+<tr>
+<td height="100%" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" height="100%" id="Table6">
+<tr>
+<td width="144">
+<table background="/HF/Common/pageBG.gif" border="0" cellpadding="0" cellspacing="0" height="100%" id="Table7" width="144">
+<tr>
+<td background="/HF/Common/navBGimage.jpg" height="100%" style="background-repeat:no-repeat" valign="top">
+<p class="leftnavigation">
+<a class="leftlink" href="/Mellon/Teams/ironbrigade/mrholliday.asp">Mr. Holliday</a>
+<br>
+<a class="leftlinkcurrent" href="/Mellon/Teams/ironbrigade/mrraitano.asp">Mr. Raitano</a>
+<br>
+<a class="leftlink" href="/Mellon/Teams/ironbrigade/default.asp">Home - /Mellon/Teams</a>
+<br>
+<a class="leftlink" href="/Mellon/Teams/ironbrigade/ironbrigade.asp">Iron Brigade</a>
+<br>
+<a class="leftlink" href="/Mellon/Teams/ironbrigade/mrsknox.asp">Mrs. Knox</a>
+<br>
+<a class="leftlink" href="/Mellon/Teams/ironbrigade/mrmccann.asp">Mr. McCann</a>
+<br>
+<a class="leftlink" href="/mellon/teams/ironbrigade/pssaprep.asp">PSSA PREP</a>
+<br>
+</br></br></br></br></br></br></br></p>
+<p class="leftOptions">
+<a class="leftOptionsLink" href="javascript:void(null)" onclick="return !showPopup('loginselector',event)">Login</a>
+<br>
+</br></p>
+</td>
+</tr>
+<tr>
+<td valign="top"><img src="/HF/Common/leftbottom.gif"/></td>
+</tr>
+</table>
+</td>
+<td align="left" valign="top" width="100%">
+<table border="0" cellpadding="0" cellspacing="3" height="100%" id="Table8" width="100%">
+<tr>
+<td>
+<a class="hmenubar" href="#"> </a>     • <img height="1" id="Root29741" name="Root29741" src="/images/clearpixel.gif" width="1"><a class="hmenubar" href="/mellon/teams/ironbrigade/zzsciencelesson.asp" onmouseout="popdown();" onmouseover="popup('Root29741', 'Root29741');"> </a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/romeoandjuliet.asp">    Romeo and Juliet</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/night.asp">    Night</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/thegloryfield.asp">    The Glory Field</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/tuesdayswithmorrie.asp">    Tuesdays with Morrie</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/identityunit.asp">    Identity Unit</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/outsidereadingunits.asp">    Outside Reading Units</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/triviaunit1.asp">    Trivia Unit1</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/essayassignments.asp">    Essay Assignments</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/commaunit.asp">    Comma Unit</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/clauseunit.asp">    Clause Unit</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/sonnetunit.asp">    Sonnet Unit</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/researchunitnight.asp">    Research Unit - Night</a>
+</img></td>
+</tr>
+<tr>
+<td height="100%" valign="top">
+<!-- content in here -->
+<p align="center"><font face="Comic Sans MS" size="6"><font color="#0000ff"><em><font size="7">The Little Prince<br/></font><font size="4">by: Antoine de Saint-Exupery<br/></font></em></font></font></p></td></tr></table></td></tr></table></td></tr></table></body></html>
+<p align="left">
+<table border="1" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td> <img border="0" height="850" src="http://www.mtlsd.org/mellon/teams/ironbrigade/images/the%20little%20prince%20-%20birds.jpg" style="WIDTH: 229px; HEIGHT: 277px" width="570"/></td>
+<td>
+<p align="center"><font face="Comic Sans MS" size="3">Journey to Asteroid B-612 and join the Little Prince on his adventure to find answers, friendship, and love.  Together, you and the Little Prince will encounter characters such as a king, a lamplighter, a geographer, a snake, a fox, and many others.  Each character provides a unique look into humanity, while providing lessons and morals.  Though the journey may become difficult at times, you will learn that sometimes in life, the journey or experience is just as important as the destination or lesson learned!<br><br>Enjoy! </br></br></font></p></td></tr></tbody></table></p><font color="#009966" face="Comic Sans MS" size="5"><font color="#0066ff">What to expect</font>:<br><font size="3">~During our studies of <em>The Little Prince</em>, you will face many obstacles on your journey.  Here is a list of the various obstacles that you can expect to encounter:<br/></font>       <font size="3">-Nightly reading homework<br>          -Nightly completion of pages in your <em>'Student's Guide to Asteroid B-612'<br/></em>          -Class discussions<br>          -In-Class activities focusing on symbolism and locating quotes<br>          -In-Class writing assignments<br>          -Possible reading check quizzes<br>          -An end of the book test<br>          -Vocabulary Review<br>          -Various other exciting activities!<br><br><em><font color="#006633">*Remember, you may use your 'Student's Guide to Asteroid B-612' on ALL of the above mentioned assignments!<br>
+<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
+<tbody>
+<tr>
+<td>
+<hr>
+</hr></td></tr></tbody></table><font size="5"><font color="#009966"><font color="#0066ff">Required Materials for your journey</font>:<br/></font></font>~Here is a list of the materials that you will need while on your journey to Asteroid B-612.  Please click on the item anytime you need to replenish your supplies.<br><br>
+<table border="1" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td> <img border="0" height="391" src="http://www.mtlsd.org/mellon/teams/ironbrigade/images/the%20little%20prince%20-%20baobabs.jpg" style="WIDTH: 181px; HEIGHT: 336px" width="312"/></td>
+<td>
+<p align="center"><font color="#3333ff"><font size="2"><font face="Comic Sans MS"><font color="#000000">Here you will find many of the important handouts, and activities that we will be working on throughout the course of this unit.  If you click on the name of each item below, you will be able to download it. </font> </font><br/></font></font></p>
+<p align="center">
+<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
+<tbody>
+<tr>
+<td>
+<hr>
+<p align="center"><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20character%20analysis%20packet-%20new%202011.doc"><font color="#3300ff" size="3">'A Student's Guide to Asteroid B-612'<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20vocabulary.doc"><font color="#3300ff" size="3">Vocabulary<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20story%20impression.doc"><font color="#3300ff" size="3">Story Impression</font></a><br><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20the%20rose%20-%20activity%20%20new.doc"><font color="#3300ff" size="3">The Rose<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20island%20creation.doc"><font color="#3300ff" size="3">Island Activity<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20student%20created%20chapter.doc"><font color="#3300ff" size="3">Create-a-Chapter<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20creative%20character%20activity.doc"><font color="#3300ff" size="3">Creative Activity - Character Letter / Poster<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/little%20prince%20word%20search.doc"><font color="#3300ff" size="3">Word Search (Extra Credit)<br><br/></br></font></a></br></br></br></br></br></br></br></br></p></hr></td></tr></tbody></table></p></td>
+<td>
+<p align="center"> <img border="0" height="130" src="http://www.mtlsd.org/mellon/teams/ironbrigade/images/the%20little%20prince%20-%20sheep.jpg" style="WIDTH: 155px; HEIGHT: 256px" width="146"><br><em><strong>"...that's not a sheep, it's a ram!"</strong></em></br></img></p></td></tr></tbody></table><br><font size="5"><font color="#0066ff">Additional Resources: 
+<table border="1" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<p align="center"><font face="Comic Sans MS" size="4"><em>Antoine de Saint-Exupery<br>Biography:<br><br><a href="http://www.editoreric.com/greatlit/authors/SaintExupery.html" target="_blank"><font color="#3300ff" size="5">CLICK HERE!</font></a><br/></br></br></br></em></font></p><a href="http://www.editoreric.com/greatlit/authors/SaintExupery.html" target="_blank"><font color="#3300ff" face="Arial" size="5">
+<p align="center">
+<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
+<tbody>
+<tr>
+<td>
+<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
+<tbody>
+<tr>
+<td>
+<hr>
+</hr></td></tr></tbody></table></td></tr></tbody></table></p>
+<p align="center"></p></font></a><font face="Comic Sans MS" size="4"><em>Want to play some fun games that focus on The Little Prince?  Well...<br/></em></font><br><a href="http://www.lepetitprince.com/jeux/index.php?langueStr=uk" target="_blank"><font color="#3300ff" size="5">CLICK HERE!</font><br/></a></br></td></tr></tbody></table></font></font></br></br></br></br></font></em></br></br></br></br></br></br></br></br></br></font></br></font>
+<p align="center">
+<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
+<tbody>
+<tr>
+<td>
+<hr>
+</hr></td></tr></tbody></table></p>
+<p align="center"><font face="Comic Sans MS" size="4"><em>Here is a link to The Little Prince when it was translated from French in 1943.  Which version do you like better?<br><br/></br></em></font><a href="http://home.pacific.net.hk/~rebylee/text/prince/index.html" target="_blank"><font color="#3300ff" size="5">CLICK HERE!<br/></font></a><br/></p>
+<p align="center">
+<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
+<tbody>
+<tr>
+<td>
+<hr>
+<p align="center"><font face="Comic Sans MS" size="4"><em>Did you like The Little Prince?  Here are two "sequels" that both bring the Little Prince back to life for us.  Check them out if you are interested!<br/></em><br>         -<font color="#0000cc">The Return of the Little Prince<br/></font>                by: Ysatis de Saint-Simone<br><br>         -<font color="#0000cc">The Little Prince Returns<br/></font>                by: Jean-Pierre Davidts</br></br></br></font></p></hr></td></tr></tbody></table></p>
+<td> <img border="0" height="367" src="http://www.mtlsd.org/mellon/teams/ironbrigade/images/the%20little%20prince%20-%20the%20lamplighter.gif" style="WIDTH: 345px; HEIGHT: 668px" width="261"/></td>
+<p align="center"><a href="http://www.youtube.com/watch?v=ZalwjqNHG2A&amp;safety_mode=true&amp;persist_safety_mode=1" target="_blank"><img border="5" height="277" src="http://www.mtlsd.org/mellon/teams/ironbrigade/images/the%20little%20prince%20-%20the%20fox.gif" style="WIDTH: 424px; HEIGHT: 269px" width="432"/></a><br><br><font face="Comic Sans MS" size="4"><font color="#0066ff">"Here is my secret.  It's quite simple: <br/></font><font color="#0066ff">One sees clearly only with the </font><font color="#ff0000">heart</font>. <font color="#0066ff"> Anything essential is invisible to the eyes."<br/></font><font color="#000000"><em>-the fox</em></font></font></br></br></p>
 
 
 
 
-</div>
-</body>
-</html>
+
+
+
+
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="/HF/Common/footerLeft.gif"/></td>
+<td align="center" background="/HF/Common/footerBG.gif" width="100%"><a class="footerlink" href="javascript:pageprint();">Print Page</a> <a class="footerlink" href="http://www.mtlsd.org/district/copyright.asp"> 2015 Mt. Lebanon School District</a> <a class="footerlink" href="http://www.mtlsd.org/district/termsofuse.asp">Terms of Use</a><!--<a href="/email_page.asp" class="footerlink">Email Page</a>--></td>
+<td align="right" background="/HF/Common/footerBG.gif" valign="bottom" width="155"></td>
+</tr>
+</table>
+</td>
+</tr>
+
+
+

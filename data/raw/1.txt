@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8"/>
 <title>A Tale of Two Cities - Wikipedia, the free encyclopedia</title>
-<meta content="MediaWiki 1.25wmf14" name="generator"/>
+<meta content="MediaWiki 1.25wmf15" name="generator"/>
 <link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/A_Tale_of_Two_Cities" rel="alternate"/>
 <link href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
 <link href="/w/index.php?title=A_Tale_of_Two_Cities&amp;action=edit" rel="edit" title="Edit this page"/>
@@ -25,7 +25,7 @@
 
 
 <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
-<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf14/skins/Vector/csshover.min.htc")}</style><![endif]-->
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf15/skins/Vector/csshover.min.htc")}</style><![endif]-->
 </head>
 <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-A_Tale_of_Two_Cities skin-vector action-view vector-animateLayout">
 <div class="noprint" id="mw-page-base"></div>
@@ -778,32 +778,32 @@ collections</th>
 </table>
 <!-- 
 NewPP limit report
-Parsed by mw1019
-CPU time usage: 0.844 seconds
-Real time usage: 0.973 seconds
+Parsed by mw1171
+CPU time usage: 0.633 seconds
+Real time usage: 0.767 seconds
 Preprocessor visited node count: 5899/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 109528/2097152 bytes
 Template argument size: 13487/2097152 bytes
 Highest expansion depth: 12/40
 Expensive parser function count: 7/500
-Lua time usage: 0.262/10.000 seconds
+Lua time usage: 0.186/10.000 seconds
 Lua memory usage: 3.3 MB/50 MB
 -->
 <!-- 
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  721.915      1 - -total
- 27.43%  198.044     26 - Template:Citation_needed
- 20.98%  151.464     26 - Template:Fix
- 19.08%  137.756      1 - Template:Reflist
- 17.78%  128.349     52 - Template:Category_handler
- 10.40%   75.066      1 - Template:Infobox_book
-  8.66%   62.515      1 - Template:Infobox
-  7.43%   53.619      5 - Template:Cite_web
-  5.91%   42.677      2 - Template:Ambox
-  5.75%   41.521      1 - Template:Original_research
+100.00%  557.514      1 - -total
+ 26.97%  150.336     26 - Template:Citation_needed
+ 20.49%  114.244     26 - Template:Fix
+ 18.06%  100.708      1 - Template:Reflist
+ 17.20%   95.920     52 - Template:Category_handler
+  8.58%   47.841      1 - Template:Infobox_book
+  6.74%   37.552      1 - Template:Infobox
+  6.42%   35.793      2 - Template:Ambox
+  6.20%   34.569      2 - Template:Navbox
+  6.18%   34.444      1 - Template:Original_research
 -->
-<!-- Saved in parser cache with key enwiki:pcache:idhash:3433040-0!*!0!!en!4!* and timestamp 20150131230548 and revision id 644511491
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3433040-0!*!0!!en!4!* and timestamp 20150209211921 and revision id 644511491
  -->
 <noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
 						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=A_Tale_of_Two_Cities&amp;oldid=644511491">http://en.wikipedia.org/w/index.php?title=A_Tale_of_Two_Cities&amp;oldid=644511491</a>"					</div>
@@ -977,7 +977,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//wik
 <a href="//wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88"/></a>
 </li>
 <li id="footer-poweredbyico">
-<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf14/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="//bits.wikimedia.org/static-1.25wmf15/resources/assets/poweredby_mediawiki_88x31.png" width="88"/></a>
 </li>
 </ul>
 <div style="clear:both"></div>

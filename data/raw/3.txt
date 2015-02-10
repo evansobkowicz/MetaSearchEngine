@@ -258,32 +258,32 @@ by <a href="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a></
 </table>
 <!-- 
 NewPP limit report
-Parsed by mw1068
-CPU time usage: 0.269 seconds
-Real time usage: 0.354 seconds
+Parsed by mw1254
+CPU time usage: 0.160 seconds
+Real time usage: 0.226 seconds
 Preprocessor visited node count: 789/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 24773/2097152 bytes
 Template argument size: 1148/2097152 bytes
 Highest expansion depth: 21/40
 Expensive parser function count: 3/500
-Lua time usage: 0.081/10.000 seconds
+Lua time usage: 0.049/10.000 seconds
 Lua memory usage: 1.77 MB/50 MB
 -->
 <!-- 
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  254.766      1 - -total
- 31.59%   80.491      1 - Template:Infobox_television_film
- 29.51%   75.186      1 - Template:Infobox
- 23.99%   61.117      1 - Template:Advert
- 15.18%   38.678      1 - Template:IMDb_title
- 15.18%   38.677      1 - Template:Ambox
- 14.24%   36.289      1 - Template:Reflist
- 11.60%   29.552      1 - Template:Cite_web
-  9.51%   24.228      1 - Template:Film_date
-  7.48%   19.063      1 - Template:A_Tale_of_Two_Cities
+100.00%  173.222      1 - -total
+ 29.13%   50.460      1 - Template:Infobox_television_film
+ 28.68%   49.677      1 - Template:Advert
+ 26.95%   46.684      1 - Template:Infobox
+ 19.78%   34.272      1 - Template:Ambox
+ 13.69%   23.708      1 - Template:IMDb_title
+ 13.32%   23.073      1 - Template:Reflist
+ 10.79%   18.685      1 - Template:Cite_web
+  8.89%   15.406      1 - Template:Film_date
+  7.32%   12.688      1 - Template:TV-film-stub
 -->
-<!-- Saved in parser cache with key enwiki:pcache:idhash:43493723-0!*!0!!en!4!* and timestamp 20150209165834 and revision id 638394802
+<!-- Saved in parser cache with key enwiki:pcache:idhash:43493723-0!*!0!!en!4!* and timestamp 20150210114222 and revision id 638394802
  -->
 <noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
 						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=A_Tale_of_Two_Cities_(1980_film)&amp;oldid=638394802">http://en.wikipedia.org/w/index.php?title=A_Tale_of_Two_Cities_(1980_film)&amp;oldid=638394802</a>"					</div>

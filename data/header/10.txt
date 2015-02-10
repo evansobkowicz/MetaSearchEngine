@@ -1,19 +1,19 @@
 Title: A Tale of Two Cities by Charles Dickens - Free Ebook
 Server: CherryPy/3.6.0
-Pragma: no-cache
+Expires: Sun, 28 Jan 2007 00:00:00 GMT
 Content-Type: text/html;charset=utf-8
+Pragma: no-cache
+Cache-Control: no-cache, must-revalidate
 Content-Language: en_US
 Vary: Accept-Encoding
-Cache-Control: no-cache, must-revalidate
-Expires: Sun, 28 Jan 2007 00:00:00 GMT
-Set-Cookie: session_id=51070d86feb07d4fff40e59e953408c9c1040209; Domain=.gutenberg.org; expires=Mon, 09 Feb 2015 20:13:52 GMT; Path=/
+Set-Cookie: session_id=03fe5d2106cbe1d95ed3db03517e72383c117cfc; Domain=.gutenberg.org; expires=Tue, 10 Feb 2015 15:31:37 GMT; Path=/
 Accept-Ranges: none
 X-Frame-Options: sameorigin
 X-Connection: Close
 X-Powered-By: 3
 Content-Length: 23169
-Date: Mon, 09 Feb 2015 19:43:52 GMT
-X-Varnish: 924051235
+Date: Tue, 10 Feb 2015 15:01:38 GMT
+X-Varnish: 1504389367
 Age: 0
 Via: 1.1 varnish
 Connection: close

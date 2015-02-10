@@ -3213,9 +3213,9 @@ table.roundedPlatformBox td.bottomRight {
 
 </style>
 
-<!-- nav-config-asset-injection US::desktop::standard::45920:C&31406:T1&42994:C::auiDebug=0::isSecure=0::jsOnEvent=navCF navc-hGt6fPwvApzQsVnpTayP88Yn6y9s2UxoTRKitK6etpGWHJV7OKm9T88sfNG6oFU3I8uNyztYVvg= rid-0YASYKQKYAXMKMNWW2QF seq-212 (Mon Feb  9 11:39:18 2015) **CACHED-BY-NCCC** -->
+<!-- nav-config-asset-injection US::desktop::standard::45920:C&31406:T1&42994:C::auiDebug=0::isSecure=0::jsOnEvent=navCF navc-Edz97a5WcBmrrkIjRd0/+CB5MQfIioa5hqxPKkQ699n0dSOm8W54hub/MoAu6MwzfsrGfOdhW6c= rid-1JGRRY4D86DKM2339A4R seq-212 (Tue Feb 10 06:08:23 2015) **CACHED-BY-NCCC** -->
 <link href="http://z-ecx.images-amazon.com/images/G/01/AUIClients/NavAuiAssets-e118f65c123163a38c9978489b89623707d97305.min._V2_.css" rel="stylesheet"/>
-<!-- nav-config-asset-injection US::desktop::standard::31406:T1::aui-p navc-QxzZGQvqYSR6bkF0RrDGiLQnKf3FMGOhy0LPSxe+TylcCZ3UOXq+hChQ7AABP5eGiw47qbzs5oA= rid-1PGZQ30HMWCR61ZB7HH6 seq-361 (Mon Feb  9 11:20:10 2015) **CACHED-BY-NCCC** -->
+<!-- nav-config-asset-injection US::desktop::standard::31406:T1::aui-p navc-40BhI/NQ8bW0gL/27FYNY3ok81eozl36Gfdn6DxgShrMDAuV61T05ZbMakhypyZFtPU7MgzNKkY= rid-1AGMEVBT2D53ZCKD8H46 seq-361 (Tue Feb 10 06:04:54 2015) **CACHED-BY-NCCC** -->
 
 </link></link></link></link></link></head>
 <body class="dp">
@@ -3228,7 +3228,7 @@ table.roundedPlatformBox td.bottomRight {
 <img alt="" id="nav_trans_pixel" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif" style="display:none"/>
 <!--Pilu -->
 
-<!-- navp-jT874w/I5ANoJwEaooglJhEqRPeYTTR2ffzWvhCeGV/oln8V83kMQtWAiBCOCCNzUXqQWF1F/ZY= rid-0QYR7JTN9G1HCZ885531 (Mon Feb  9 11:43:54 2015) -->
+<!-- navp-5sDU4HMO1Hk7TOQZ7NBxLT1+MNtJUiQEvKTFKFf/0yGJu4n59HVGEnmeMW6cZMlnDkk3FSotf94= rid-1G8CD7NSEW0PEH2GFVRN (Tue Feb 10 07:01:41 2015) -->
 <style type="text/css"><!--
     #navbar select#searchDropdownBox {
       visibility: visible;
@@ -3301,7 +3301,7 @@ table.roundedPlatformBox td.bottomRight {
 <span class="nav-button-title nav-button-line1"> </span>
 <span class="nav-button-title nav-button-line2">Cart<span class="nav-down-arrow"></span></span>
 <span class="nav-cart-button nav-sprite"></span>
-<span class="nav-cart-0" id="nav-cart-count"></span>
+<span class="nav-cart-0" id="nav-cart-count"> </span>
 </a>
 <span class="nav-divider"></span>
 <a alt="Wish List" class="nav_a nav-button-outer nav-menu-inactive" href="/gp/registry/wishlist" id="nav-wishlist">
@@ -3384,7 +3384,6 @@ table.roundedPlatformBox td.bottomRight {
 
 <!--Tilu -->
 <!-- EndNav -->
-
 <div class="kindleBanner" style="text-align:center;">
         Start reading <i>A Tale of Two Cities</i> on the free <a href="/gp/digital/fiona/kcp-landing-page/ref=kcp_lnm_banner">Kindle Reading App</a> or on your Kindle <b>in under a minute</b>. Don't have a Kindle? <a href="/Kindle-Glare-Free-Touchscreen-Display-Wi-Fi/dp/B00I15SB16/ref=dp_kinw_strp_0">Get your Kindle here</a>.
    </div>
@@ -3428,11 +3427,11 @@ table.roundedPlatformBox td.bottomRight {
 </div>
 <table align="right" border="0" cellpadding="0" cellspacing="0" class="buyingDetailsGrid" width="215">
 <tr><td valign="top" width="100%">
-<link href="http://z-ecx.images-amazon.com/images/G/01/vap/video/airy2/prod/2.0.968.0/css/beacon._V330351370_.css" rel="stylesheet" type="text/css">
+<link href="http://z-ecx.images-amazon.com/images/G/01/vap/video/airy2/prod/2.0.975.0/css/beacon._V329264183_.css" rel="stylesheet" type="text/css">
 
 
 
-<!-- nav-config-asset-injection US::desktop::standard::45920:C&31406:T1&42994:C::auiDebug=0::isSecure=0::jsOnEvent=navCF navc-hGt6fPwvApzQsVnpTayP88Yn6y9s2UxoTRKitK6etpGWHJV7OKm9T88sfNG6oFU3I8uNyztYVvg= rid-0YASYKQKYAXMKMNWW2QF seq-212 (Mon Feb  9 11:39:18 2015) **CACHED-BY-NCCC** -->
+<!-- nav-config-asset-injection US::desktop::standard::45920:C&31406:T1&42994:C::auiDebug=0::isSecure=0::jsOnEvent=navCF navc-Edz97a5WcBmrrkIjRd0/+CB5MQfIioa5hqxPKkQ699n0dSOm8W54hub/MoAu6MwzfsrGfOdhW6c= rid-1JGRRY4D86DKM2339A4R seq-212 (Tue Feb 10 06:08:23 2015) **CACHED-BY-NCCC** -->
 
 </link></td></tr><tr><td valign="top" width="100%">
 <div class="buying">
@@ -3441,7 +3440,7 @@ table.roundedPlatformBox td.bottomRight {
 <input id="addNarration" name="addNarration" type="hidden" value="0"/>
 <input id="audibleAsin" name="audibleAsin" type="hidden" value=""/>
 <input id="audibleOurPrice" name="audibleOurPrice" type="hidden" value=""/>
-<input name="offerListingID.0" type="hidden" value="GqD6LogQ%2BEB6oe1BJqDEfgVt9JvLLNyQCkczV7Mune28G2eULG4fMrk3XGpcDx0vZh6hDNI3R0dgGU74TIYC5ZJMSxUodQ77KKLfzDOCH8AEuGu4BCpZ4i3ALlWgudveJL9YoSK19oOi90RHUT8Q65%2BvNJE07pcf"/>
+<input name="offerListingID.0" type="hidden" value="wS7p729cGgZYTSOhdHHAH8rNNt%2B7k6p96IAdIO6ZJVyD0IcWBtAWZfgTJTIeOhz%2BWZBg0%2FHvyva89S188G7jBmf%2BULn8rrA7Q9%2B5r%2FIvbvrVBVhNZQB63s0GwIlLm3PQMPoifInU%2F%2Fxo16o1Tt5ROhZEntj6mE7D"/>
 <input name="t" type="hidden" value="fiona"/>
 <input name="itemCount" type="hidden" value="1"/>
 <input name="cor.0" type="hidden" value="US"/>
@@ -3615,7 +3614,7 @@ table.roundedPlatformBox td.bottomRight {
 <img alt="Kindle Unlimited" border="0" height="14" src="http://g-ecx.images-amazon.com/images/G/01/kindle/ku/pDP-KU-badge_prime-height._TTD_.jpg" width="89">
 </img></td>
 <td style="vertical-align: top; padding-top: 3px;">
-<img border="0" hash(0xc164d3f0)="" src="http://g-ecx.images-amazon.com/images/G/01/kindle/ku/badging-withnarration_12._TTD_.jpg"/>
+<img border="0" hash(0xc0bc34a4)="" src="http://g-ecx.images-amazon.com/images/G/01/kindle/ku/badging-withnarration_12._TTD_.jpg"/>
 <span style="padding-left: 4px">with narration</span></td>
 </tr>
 <tr>
@@ -3651,7 +3650,7 @@ table.roundedPlatformBox td.bottomRight {
 <img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/carrot._V192251235_.gif"/>
 </a>
 </li>
-<li class="listItem">Don't have a Kindle? <a href="/Kindle-Glare-Free-Touchscreen-Display-Wi-Fi/dp/B00I15SB16/ref=dp_kinw_ae_1">Get your Kindle here</a>.</li>
+<li class="listItem">Don't have a Kindle? <a href="/Kindle-Glare-Free-Touchscreen-Display-Wi-Fi/dp/B00I15SB16/ref=dp_kinw_ae_1/184-8515202-4872838">Get your Kindle here</a>.</li>
 <li class="listItem"> Whispersync for Voice:
     <a class="kicsPopover" href="#" id="wfvCompatible">
 <span>Ready</span>
@@ -3950,14 +3949,10 @@ table.roundedPlatformBox td.bottomRight {
 <span class="cBoxB"><!-- &nbsp; --></span>
 <div class="cBoxInner">
 <span style="font-size: 0.82em;">
-<div class="qpImage">
-<a href="/gp/gss/detail/1160600"><img align="left" alt="Kindle Delivers" border="0" height="50" src="http://g-ecx.images-amazon.com/images/G/01/delivers/v3/60/delivers_60._SS50_V192258726_.gif" width="50"/></a>
-</div>
-<span class="qpHeadline">Kindle Delivers</span><br>
+<div class="qpImage"><a href="/Best-Books-of-the-Month/b?ie=UTF8&amp;node=390919011"><img align="left" alt="Best Books of the Month" border="0" height="75" src="http://g-ecx.images-amazon.com/images/G/01/books/best-of/best-of-month_75._SL75_V192214394_.gif" width="75"/></a></div>
+<span class="qpHeadline">Best Books of the Month</span><br>
 
-
-Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-mail to find out about each month's <a href="/gp/feature.html?ie=UTF8&amp;docId=1000706171">Kindle book deals</a>, new releases, editors' picks and more. <a href="/gp/gss/detail/1160600">Learn more</a> (U.S. customers only) 
-
+Want to know our Editors' picks for the best books of the month? Browse <a href="/Best-Books-of-the-Month/b?ie=UTF8&amp;node=390919011">Best Books of the Month</a>, featuring our favorite new books in more than a dozen categories.
 
  
         <div class="hqpDiv" id="heroQuickPromoDiv" name="heroQuickPromoDiv">
@@ -4049,12 +4044,24 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
 <a class="p13n-link" href="/Mis%C3%A9rables-English-language-Victor-Hugo-ebook/product-reviews/B004GHNIRK">
 <span class="auiTestSprite s_star_4_0 "></span>
 </a>
-<a class="p13n-link p13n-text-size-small" href="/Mis%C3%A9rables-English-language-Victor-Hugo-ebook/product-reviews/B004GHNIRK">1,827</a>
+<a class="p13n-link p13n-text-size-small" href="/Mis%C3%A9rables-English-language-Victor-Hugo-ebook/product-reviews/B004GHNIRK">1,828</a>
 </div>
 <div class="p13n-row"><span class="p13n-text-color-secondary p13n-text-size-small">Kindle Edition</span></div><div class="p13n-row"><span class="p13n-text-color-price price p13n-text-size-base">$0.00</span> </div>
 </div>
 </li><li class="shoveler-cell" style="margin-left: 7px; margin-right: 7px;">
-<div class=" p13nimp" data-asin="B00JDY7SQ8" data-ref="pd_sim_kstore_2">
+<div class=" p13nimp" data-asin="B00JCDK5ME" data-ref="pd_sim_kstore_2">
+<a class="p13n-link" href="/War-Peace-material-Chance-Kaufman-ebook/dp/B00JCDK5ME"><div class="p13n-section-spacing-mini"><img alt="" class="p13n-faceout-image" height="100" src="http://ecx.images-amazon.com/images/I/41uKmmSDXVL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SR67,100_.jpg" width="67"/></div><span title="War and Peace: With bonus material from Give War and Peace A Chance by Andrew D. Kaufman">War and Peace: With bonus material from Give War</span></a>
+<div class="p13n-row"><a class="p13n-link p13n-text-size-small p13n-link-type-child" href="/Leo-Tolstoy/e/B000APWJOK">Leo Tolstoy</a></div>
+<div class=" p13n-icon-row">
+<a class="p13n-link" href="/War-Peace-material-Chance-Kaufman-ebook/product-reviews/B00JCDK5ME">
+<span class="auiTestSprite s_star_4_5 "></span>
+</a>
+<a class="p13n-link p13n-text-size-small" href="/War-Peace-material-Chance-Kaufman-ebook/product-reviews/B00JCDK5ME">169</a>
+</div>
+<div class="p13n-row"><span class="p13n-text-color-secondary p13n-text-size-small">Kindle Edition</span></div><div class="p13n-row"><span class="p13n-text-color-price price p13n-text-size-base">$0.00</span> </div>
+</div>
+</li><li class="shoveler-cell" style="margin-left: 7px; margin-right: 7px;">
+<div class=" p13nimp" data-asin="B00JDY7SQ8" data-ref="pd_sim_kstore_3">
 <a class="p13n-link" href="/Count-Monte-Cristo-Open-Road-ebook/dp/B00JDY7SQ8"><div class="p13n-section-spacing-mini"><img alt="" class="p13n-faceout-image" height="100" src="http://ecx.images-amazon.com/images/I/41qTxYC4VzL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SR65,100_.jpg" width="65"/></div>The Count of Monte Cristo (Open Road)</a>
 <div class="p13n-row"><span class="p13n-text-color-base p13n-text-size-small">Alexandre Dumas</span></div>
 <div class=" p13n-icon-row">
@@ -4066,52 +4073,40 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
 <div class="p13n-row"><span class="p13n-text-color-secondary p13n-text-size-small">Kindle Edition</span></div><div class="p13n-row"><span class="p13n-text-color-price price p13n-text-size-base">$0.99</span> </div>
 </div>
 </li><li class="shoveler-cell" style="margin-left: 7px; margin-right: 7px;">
-<div class=" p13nimp" data-asin="B0082SWC30" data-ref="pd_sim_kstore_3">
-<a class="p13n-link" href="/Great-Expectations-Charles-Dickens-ebook/dp/B0082SWC30"><div class="p13n-section-spacing-mini"><img alt="" class="p13n-faceout-image" height="100" src="http://ecx.images-amazon.com/images/I/518YH-SiP1L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SR67,100_.jpg" width="67"/></div>Great Expectations</a>
-<div class="p13n-row"><a class="p13n-link p13n-text-size-small p13n-link-type-child" href="/Charles-Dickens/e/B00SU5YGU2">Charles Dickens</a></div>
+<div class=" p13nimp" data-asin="B00FN2X282" data-ref="pd_sim_kstore_4">
+<a class="p13n-link" href="/Common-Sense-Thomas-Paine-ebook/dp/B00FN2X282"><div class="p13n-section-spacing-mini"><img alt="" class="p13n-faceout-image" height="100" src="http://ecx.images-amazon.com/images/I/61pZPU28FHL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SR67,100_.jpg" width="67"/></div>Common Sense</a>
+<div class="p13n-row"><span class="p13n-text-color-base p13n-text-size-small">Thomas Paine</span></div>
 <div class=" p13n-icon-row">
-<a class="p13n-link" href="/Great-Expectations-Charles-Dickens-ebook/product-reviews/B0082SWC30">
+<a class="p13n-link" href="/Common-Sense-Thomas-Paine-ebook/product-reviews/B00FN2X282">
 <span class="auiTestSprite s_star_4_5 "></span>
 </a>
-<a class="p13n-link p13n-text-size-small" href="/Great-Expectations-Charles-Dickens-ebook/product-reviews/B0082SWC30">574</a>
-</div>
-<div class="p13n-row"><span class="p13n-text-color-secondary p13n-text-size-small">Kindle Edition</span></div><div class="p13n-row"><span class="p13n-text-color-price price p13n-text-size-base">$0.00</span> </div>
-</div>
-</li><li class="shoveler-cell" style="margin-left: 7px; margin-right: 7px;">
-<div class=" p13nimp" data-asin="B008476HBM" data-ref="pd_sim_kstore_4">
-<a class="p13n-link" href="/Pride-Prejudice-Jane-Austen-ebook/dp/B008476HBM"><div class="p13n-section-spacing-mini"><img alt="" class="p13n-faceout-image" height="100" src="http://ecx.images-amazon.com/images/I/51jSMPqBXxL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SR67,100_.jpg" width="67"/></div>Pride and Prejudice</a>
-<div class="p13n-row"><span class="p13n-text-color-base p13n-text-size-small">Jane Austen</span></div>
-<div class=" p13n-icon-row">
-<a class="p13n-link" href="/Pride-Prejudice-Jane-Austen-ebook/product-reviews/B008476HBM">
-<span class="auiTestSprite s_star_4_5 "></span>
-</a>
-<a class="p13n-link p13n-text-size-small" href="/Pride-Prejudice-Jane-Austen-ebook/product-reviews/B008476HBM">1,908</a>
-</div>
-<div class="p13n-row"><span class="p13n-text-color-secondary p13n-text-size-small">Kindle Edition</span></div><div class="p13n-row"><span class="p13n-text-color-price price p13n-text-size-base">$0.00</span> </div>
-</div>
-</li><li class="shoveler-cell" style="margin-left: 7px; margin-right: 7px;">
-<div class=" p13nimp" data-asin="B00DCD53C2" data-ref="pd_sim_kstore_5">
-<a class="p13n-link" href="/Sherlock-Holmes-The-Ultimate-Collection-ebook/dp/B00DCD53C2"><div class="p13n-section-spacing-mini"><img alt="" class="p13n-faceout-image" height="100" src="http://ecx.images-amazon.com/images/I/51hzf6ScRXL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SR62,100_.jpg" width="62"/></div>Sherlock Holmes: The Ultimate Collection</a>
-<div class="p13n-row"><span class="p13n-text-color-base p13n-text-size-small">Arthur Conan Doyle</span></div>
-<div class=" p13n-icon-row">
-<a class="p13n-link" href="/Sherlock-Holmes-The-Ultimate-Collection-ebook/product-reviews/B00DCD53C2">
-<span class="auiTestSprite s_star_4_5 "></span>
-</a>
-<a class="p13n-link p13n-text-size-small" href="/Sherlock-Holmes-The-Ultimate-Collection-ebook/product-reviews/B00DCD53C2">493</a>
+<a class="p13n-link p13n-text-size-small" href="/Common-Sense-Thomas-Paine-ebook/product-reviews/B00FN2X282">49</a>
 </div>
 <div class="p13n-row"><span class="p13n-text-color-secondary p13n-text-size-small">Kindle Edition</span></div><div class="p13n-row"><span class="p13n-text-color-price price p13n-text-size-base">$0.99</span> </div>
 </div>
 </li><li class="shoveler-cell" style="margin-left: 7px; margin-right: 7px;">
-<div class=" p13nimp" data-asin="B00JCDK5ME" data-ref="pd_sim_kstore_6">
-<a class="p13n-link" href="/War-Peace-material-Chance-Kaufman-ebook/dp/B00JCDK5ME"><div class="p13n-section-spacing-mini"><img alt="" class="p13n-faceout-image" height="100" src="http://ecx.images-amazon.com/images/I/41uKmmSDXVL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SR67,100_.jpg" width="67"/></div><span title="War and Peace: With bonus material from Give War and Peace A Chance by Andrew D. Kaufman">War and Peace: With bonus material from Give War</span></a>
-<div class="p13n-row"><a class="p13n-link p13n-text-size-small p13n-link-type-child" href="/Leo-Tolstoy/e/B000APWJOK">Leo Tolstoy</a></div>
+<div class=" p13nimp" data-asin="B0082SWC30" data-ref="pd_sim_kstore_5">
+<a class="p13n-link" href="/Great-Expectations-Charles-Dickens-ebook/dp/B0082SWC30"><div class="p13n-section-spacing-mini"><img alt="" class="p13n-faceout-image" height="100" src="http://ecx.images-amazon.com/images/I/518YH-SiP1L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SR67,100_.jpg" width="67"/></div>Great Expectations</a>
+<div class="p13n-row"><span class="p13n-text-color-base p13n-text-size-small">Charles Dickens</span></div>
 <div class=" p13n-icon-row">
-<a class="p13n-link" href="/War-Peace-material-Chance-Kaufman-ebook/product-reviews/B00JCDK5ME">
+<a class="p13n-link" href="/Great-Expectations-Charles-Dickens-ebook/product-reviews/B0082SWC30">
 <span class="auiTestSprite s_star_4_5 "></span>
 </a>
-<a class="p13n-link p13n-text-size-small" href="/War-Peace-material-Chance-Kaufman-ebook/product-reviews/B00JCDK5ME">168</a>
+<a class="p13n-link p13n-text-size-small" href="/Great-Expectations-Charles-Dickens-ebook/product-reviews/B0082SWC30">604</a>
 </div>
 <div class="p13n-row"><span class="p13n-text-color-secondary p13n-text-size-small">Kindle Edition</span></div><div class="p13n-row"><span class="p13n-text-color-price price p13n-text-size-base">$0.00</span> </div>
+</div>
+</li><li class="shoveler-cell" style="margin-left: 7px; margin-right: 7px;">
+<div class=" p13nimp" data-asin="B00N5E5864" data-ref="pd_sim_kstore_6">
+<a class="p13n-link" href="/Aesops-Fables-Aesop-ebook/dp/B00N5E5864"><div class="p13n-section-spacing-mini"><img alt="" class="p13n-faceout-image" height="100" src="http://ecx.images-amazon.com/images/I/51Rp1f6kqDL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SR65,100_.jpg" width="65"/></div>Aesop's Fables</a>
+<div class="p13n-row"><a class="p13n-link p13n-text-size-small p13n-link-type-child" href="/Aesop/e/B001ILHK3K">Aesop</a></div>
+<div class=" p13n-icon-row">
+<a class="p13n-link" href="/Aesops-Fables-Aesop-ebook/product-reviews/B00N5E5864">
+<span class="auiTestSprite s_star_4_5 "></span>
+</a>
+<a class="p13n-link p13n-text-size-small" href="/Aesops-Fables-Aesop-ebook/product-reviews/B00N5E5864">446</a>
+</div>
+<div class="p13n-row"><span class="p13n-text-color-secondary p13n-text-size-small">Kindle Edition</span></div><div class="p13n-row"><span class="p13n-text-color-price price p13n-text-size-base">$0.21</span> </div>
 </div>
 </li>
 </ul>
@@ -4125,7 +4120,7 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
 </div>
 </div>
 <form class="p13n-state-form" id="purchaseShvlStateForm" name="purchaseShvlStateForm"><input class="shovelerState" id="purchaseShvlState" name="purchaseShvlState" type="hidden" value=""/></form>
-<div class="p13n-shoveler-data" data-ajax='{"featureId":"SimilaritiesCarousel","reftagPrefix":"pd_sim_kstore","widgetTemplateClass":"PI::Similarities::ViewTemplates::Carousel::Desktop","imageHeight":100,"faceoutTemplateClass":"PI::P13N::ViewTemplates::Product::Desktop::CarouselFaceout","imageWidth":100,"productDetailsTemplateClass":"PI::P13N::ViewTemplates::ProductDetails::Desktop::Base","relatedRequestID":"0QYR7JTN9G1HCZ885531"}' data-is-p13n-shoveler="1" data-pageid="B004EHZXVQ" data-url="/gp/p13n-shared/faceout-partial" data-widgetname="purchase" id="purchaseData" style="display:none">B004GHNIRK,B00JDY7SQ8,B0082SWC30,B008476HBM,B00DCD53C2,B00JCDK5ME,B00EN6LJ2U,B00BHKOZTO,B004UJTG6Q,B00FN2X282,B00N5E5864,B004TRXX7C,B002RKSZJO,B00EPMTFGO,B004UJAOLM,B00KWPSNFC,B0084BL4NY,B0084AZXKK,B0083Z614S,B0084B5TK8,B00IWUKUVE,B00RN69WW6,B0084AXZK0,B00KWPSND4,B0084BKY2Q,B004TP8ZZE,B008476UXW,B00B0XKC1I,B00JDSRIZK,B00LNHIX6C,B00KVTS1B0,B0082Z1CVQ,B00L01GHAA,B00BSGKLUY,B004TS2B4W,B0073H86H2,B0084B1OUM,B00846QWM2,B0083ZMP5C,B002RKRMSY,B0083ZR7BY,B00EWSKX8K,B002RKT6QK,B00L01GJ6M,B00MD2IRYY,B0083ZRAJS,B0084BMUFA,B0083ZBW2Y,B009S33I9A,B0083Z6AH6,B00ET7Q4LE,B005GRF3QI,B00SUOTLIK,B0084BN44Q,B007GBTB0Q,B00GMWIJTE,B004UJCNKC,B0083ZL5EY,B00F32YJNY,B00QX8V642,B00847VIBQ,B0084B050M,B00DX0F4FK,B00B5J4RB8,B00QW8ZBCG,B00SN5LLFM,B0084AXZRI,B0083Z40N2,B00CFRGIEI,B00KRXM8IW,B0084B1T8Y,B004C43I68,B003JTHWKU,B000JQUVMC,B00PKOPENE,B002RKSEHW,B00LMCVV4O,B00IGVHAIK,B004UJDLJE,B0082RHRHC,B0083ZBUXU,B000JQUU00,B00H6TF5R6,B00SURBP6S,B00RULFD1S,B00BA72MPS,B0083Z3O8Y,B00AK3RB7W,B003XVYLDU,B002RKRUTU</div>
+<div class="p13n-shoveler-data" data-ajax='{"featureId":"SimilaritiesCarousel","reftagPrefix":"pd_sim_kstore","widgetTemplateClass":"PI::Similarities::ViewTemplates::Carousel::Desktop","imageHeight":100,"faceoutTemplateClass":"PI::P13N::ViewTemplates::Product::Desktop::CarouselFaceout","imageWidth":100,"productDetailsTemplateClass":"PI::P13N::ViewTemplates::ProductDetails::Desktop::Base","relatedRequestID":"1G8CD7NSEW0PEH2GFVRN"}' data-is-p13n-shoveler="1" data-pageid="B004EHZXVQ" data-url="/gp/p13n-shared/faceout-partial" data-widgetname="purchase" id="purchaseData" style="display:none">B004GHNIRK,B00JCDK5ME,B00JDY7SQ8,B00FN2X282,B0082SWC30,B00N5E5864,B008476HBM,B002RKSZJO,B004UJTG6Q,B00DCD53C2,B00EN6LJ2U,B004TRXX7C,B00EPMTFGO,B00L01GHAA,B00KWPSND4,B0084B5TK8,B0084BL4NY,B00BHKOZTO,B0084AZXKK,B004UJAOLM,B00B6TZGC6,B00IWUKUVE,B00LNHIX6C,B0083Z614S,B00MD2IRYY,B0084AXZK0,B0084BKY2Q,B004TP8ZZE,B008476UXW,B00B0XKC1I,B00KWPSNFC,B002RKRMSY,B00DX0F4FK,B0082Z1CVQ,B002RKT6QK,B00BSGKLUY,B00846QWM2,B0084B1OUM,B004TS2B4W,B00CFRGIEI,B0073H86H2,B0083ZR7BY,B0083ZMP5C,B0083ZRAJS,B00PKOPENE,B00SN5LLFM,B00KVTS1B0,B00SE844J8,B00L01GJ6M,B00QW8ZBDU,B0083ZBW2Y,B00ET7Q4LE,B00QX8V642,B00MF0ZVKM,B0084BMUFA,B005GRF3QI,B004UJCNKC,B003JTHWKU,B0083Z6AH6,B00847VIBQ,B007GBTB0Q,B0083ZL5EY,B0084BN44Q,B00GMWIJTE,B005LSCQ4Y,B0084B050M,B002RKSEHW,B004C43I68,B00B5J4RB8,B0083Z40N2,B000JQUVMC,B00KRXM8IW,B0084B1T8Y,B00F32YJNY,B000JQUU00,B00QW8ZBCG,B0084AXZRI,B00IGVHAIK,B00B5NP9L6,B002RKRUTU,B00KCQOZGW,B00LMCVV4O,B00RFVS8S8,B00SQ87E7K,B004UJDLJE,B00SP6MAXG,B00EVSB3N0,B0083ZBUXU</div>
 </div>
 <div data-featureid="pd_sim" data-vt="B004EHZXVQ" id="purchaseImpData" style="display:none"></div>
 <!--AMZNJQSECTION-->
@@ -4209,7 +4204,7 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
 
 
 
-#183 Free in Kindle Store (<a href="http://www.amazon.com/gp/bestsellers/digital-text">See Top 100 Free in Kindle Store</a>)
+#219 Free in Kindle Store (<a href="http://www.amazon.com/gp/bestsellers/digital-text">See Top 100 Free in Kindle Store</a>)
   
 
 
@@ -4311,14 +4306,14 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
 <ul class="zg_hrsr">
 <li class="zg_hrsr_item">
 <span class="zg_hrsr_rank">#1</span>
-<span class="zg_hrsr_ladder">in <a href="http://www.amazon.com/gp/bestsellers/digital-text">Kindle Store</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/154606011">Kindle eBooks</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/157028011">Literature &amp; Fiction</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/157053011">Literary Fiction</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/digital-text/7588849011">Historical</a></b></span>
-</li>
-<li class="zg_hrsr_item">
-<span class="zg_hrsr_rank">#1</span>
 <span class="zg_hrsr_ladder">in <a href="http://www.amazon.com/gp/bestsellers/digital-text">Kindle Store</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/154606011">Kindle eBooks</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/157028011">Literature &amp; Fiction</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/157050011">Classics</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/digital-text/7588847011">Literary</a></b></span>
 </li>
 <li class="zg_hrsr_item">
 <span class="zg_hrsr_rank">#1</span>
+<span class="zg_hrsr_ladder">in <a href="http://www.amazon.com/gp/bestsellers/digital-text">Kindle Store</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/154606011">Kindle eBooks</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/157028011">Literature &amp; Fiction</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/157053011">Literary Fiction</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/digital-text/7588849011">Historical</a></b></span>
+</li>
+<li class="zg_hrsr_item">
+<span class="zg_hrsr_rank">#2</span>
 <span class="zg_hrsr_ladder">in <a href="http://www.amazon.com/gp/bestsellers/digital-text">Kindle Store</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/154606011">Kindle eBooks</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/157028011">Literature &amp; Fiction</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/digital-text/157050011">Classics</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/digital-text/7588784011">Historical</a></b></span>
 </li>
 </ul>
@@ -4758,7 +4753,7 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
   didn't order this !!!!!
 </div>
 </div> <div class="clearboth mt3 pbl">
-<span class="gry txtsmall">Published 2 days ago by Catherine Peterson</span>
+<span class="gry txtsmall">Published 3 days ago by Catherine Peterson</span>
 </div> </div></a>
 <a class="reviewTitle inlineblock mt17" href="http://www.amazon.com/Tale-Two-Cities-Charles-Dickens-ebook/product-reviews/B004EHZXVQ" title="Read the full review by Bruce Le"> <div class="block" id="rev-dpReviewsMostRecent-RNDH35ZENQ8ZD"> <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars"><span>5.0 out of 5 stars</span></span>
 <span class="txtlarge gl3 valignMiddle"><strong>Five Stars</strong></span></div> <div class="reviewText">
@@ -4766,7 +4761,7 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
   Lov it.
 </div>
 </div> <div class="clearboth mt3 pbl">
-<span class="gry txtsmall">Published 6 days ago by Bruce Le</span>
+<span class="gry txtsmall">Published 7 days ago by Bruce Le</span>
 </div> </div></a>
 <a class="reviewTitle inlineblock mt17" href="http://www.amazon.com/Tale-Two-Cities-Charles-Dickens-ebook/product-reviews/B004EHZXVQ" title="Read the full review by Marg"> <div class="block" id="rev-dpReviewsMostRecent-R2RAL80Q7N6QPW"> <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars"><span>5.0 out of 5 stars</span></span>
 <span class="txtlarge gl3 valignMiddle"><strong>Five Stars</strong></span></div> <div class="reviewText">
@@ -4774,7 +4769,7 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
   My favorite Dickens book.
 </div>
 </div> <div class="clearboth mt3 pbl">
-<span class="gry txtsmall">Published 6 days ago by Marg</span>
+<span class="gry txtsmall">Published 7 days ago by Marg</span>
 </div> </div></a>
 <a class="reviewTitle inlineblock mt17" href="http://www.amazon.com/Tale-Two-Cities-Charles-Dickens-ebook/product-reviews/B004EHZXVQ" title="Read the full review by Betty Seaba"> <div class="block" id="rev-dpReviewsMostRecent-R1MW3XF1PL31MQ"> <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars"><span>5.0 out of 5 stars</span></span>
 <span class="txtlarge gl3 valignMiddle"><strong>Five Stars</strong></span></div> <div class="reviewText">
@@ -4790,7 +4785,7 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
   Always - classic
 </div>
 </div> <div class="clearboth mt3 pbl">
-<span class="gry txtsmall">Published 8 days ago by Amazon Customer</span>
+<span class="gry txtsmall">Published 9 days ago by Amazon Customer</span>
 </div> </div></a>
 <a class="reviewTitle inlineblock mt17" href="http://www.amazon.com/Tale-Two-Cities-Charles-Dickens-ebook/product-reviews/B004EHZXVQ" title="Read the full review by Cheryl L"> <div class="block" id="rev-dpReviewsMostRecent-R2X8KFZOZ3GA4N"> <div class="ttl"><span class="swSprite s_star_4_0 " title="4.0 out of 5 stars"><span>4.0 out of 5 stars</span></span>
 <span class="txtlarge gl3 valignMiddle"><strong>I love Dickens!</strong></span></div> <div class="reviewText">
@@ -4798,7 +4793,7 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
   Well it hasn't changed since the first time I read it, and I doubt it ever will!  I love Dickens!
 </div>
 </div> <div class="clearboth mt3 pbl">
-<span class="gry txtsmall">Published 8 days ago by Cheryl L</span>
+<span class="gry txtsmall">Published 9 days ago by Cheryl L</span>
 </div> </div></a>
 <a class="reviewTitle inlineblock mt17" href="http://www.amazon.com/Tale-Two-Cities-Charles-Dickens-ebook/product-reviews/B004EHZXVQ" title="Read the full review by Shayne S. Angle"> <div class="block" id="rev-dpReviewsMostRecent-R3RBQPA2I9BE3G"> <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars"><span>5.0 out of 5 stars</span></span>
 <span class="txtlarge gl3 valignMiddle"><strong>Five Stars</strong></span></div> <div class="reviewText">
@@ -4806,7 +4801,7 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
   A very good Dickens book
 </div>
 </div> <div class="clearboth mt3 pbl">
-<span class="gry txtsmall">Published 8 days ago by Shayne S. Angle</span>
+<span class="gry txtsmall">Published 9 days ago by Shayne S. Angle</span>
 </div> </div></a>
 <a class="reviewTitle inlineblock mt17" href="http://www.amazon.com/Tale-Two-Cities-Charles-Dickens-ebook/product-reviews/B004EHZXVQ" title="Read the full review by Alex Reyes"> <div class="block" id="rev-dpReviewsMostRecent-R3CYDM7YYL2IXG"> <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars"><span>5.0 out of 5 stars</span></span>
 <span class="txtlarge gl3 valignMiddle"><strong>Five Stars</strong></span></div> <div class="reviewText">
@@ -4814,7 +4809,7 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
   Excellents products
 </div>
 </div> <div class="clearboth mt3 pbl">
-<span class="gry txtsmall">Published 8 days ago by Alex Reyes</span>
+<span class="gry txtsmall">Published 9 days ago by Alex Reyes</span>
 </div> </div></a>
 <a class="reviewTitle inlineblock mt17" href="http://www.amazon.com/Tale-Two-Cities-Charles-Dickens-ebook/product-reviews/B004EHZXVQ" title="Read the full review by popskirk"> <div class="block" id="rev-dpReviewsMostRecent-R6CZZXFHYBLXM"> <div class="ttl"><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars"><span>5.0 out of 5 stars</span></span>
 <span class="txtlarge gl3 valignMiddle"><strong>A terrific read! I wish I had read it years before!</strong></span></div> <div class="reviewText">
@@ -4822,7 +4817,7 @@ Subscribe to the <a href="/gp/gss/detail/1160600">Kindle Delivers</a> monthly e-
   I'd never been required to read TOTC in school....and I only did it now because of a friend who teaches literature. <span class="readMoreLink">Read more</span>
 </div>
 </div> <div class="clearboth mt3 pbl">
-<span class="gry txtsmall">Published 9 days ago by popskirk</span>
+<span class="gry txtsmall">Published 10 days ago by popskirk</span>
 </div> </div></a>
 <a class="reviewTitle inlineblock mt17" href="http://www.amazon.com/Tale-Two-Cities-Charles-Dickens-ebook/product-reviews/B004EHZXVQ" title="Read the full review by Thomas Skiendziel"> <div class="block" id="rev-dpReviewsMostRecent-RLO4YQZC4979C"> <div class="ttl"><span class="swSprite s_star_2_0 " title="2.0 out of 5 stars"><span>2.0 out of 5 stars</span></span>
 <span class="txtlarge gl3 valignMiddle"><strong>Ok</strong></span></div> <div class="reviewText">
@@ -5155,44 +5150,44 @@ span.kar_beta {
 <ul class="content small">
 <li style="list-style-type: none !important">
 <div class="asinDetails">
-<a href="/Kill-Mockingbird-Harperperennial-Modern-Classics-ebook/dp/B00K0OI42W" id="pd_cp_kstore_0_B00K0OI42W"> <img alt="" border="0" class="faceout" height="50" src="http://ecx.images-amazon.com/images/I/51vrdM-S%2B5L._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50"/>
-<span class="cpAsinTitle">To Kill a Mockingbird (Harperperennial Modern Classics)</span> </a>
-<span class="vtp-binding-byline"> <span class="vtp-byline-text">by Harper Lee</span> Kindle Edition</span>
-<br>
-<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00K0OI42W"><a href="http://www.amazon.com/Kill-Mockingbird-Harperperennial-Modern-Classics-ebook/product-reviews/B00K0OI42W"><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars"><span>4.6 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/Kill-Mockingbird-Harperperennial-Modern-Classics-ebook/product-reviews/B00K0OI42W">4,157</a>)</span></span><br>
-<div class="price">$3.99</div>
-</br></br></div>
-</li>
-<div class="vtp-clear"> </div>
-<li style="list-style-type: none !important">
-<div class="asinDetails">
-<a href="/Maude-Donna-Mabry-ebook/dp/B00ONDNQYW" id="pd_cp_kstore_1_B00ONDNQYW"> <img alt="" border="0" class="faceout" height="50" src="http://ecx.images-amazon.com/images/I/51eH6G4iuPL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50"/>
-<span class="cpAsinTitle">Maude</span> </a>
-<span class="vtp-binding-byline"> <span class="vtp-byline-text">by Donna Mabry</span> Kindle Edition</span>
-<br>
-<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00ONDNQYW"><a href="http://www.amazon.com/Maude-Donna-Mabry-ebook/product-reviews/B00ONDNQYW"><span class="swSprite s_star_4_5 " title="4.5 out of 5 stars"><span>4.5 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/Maude-Donna-Mabry-ebook/product-reviews/B00ONDNQYW">1,879</a>)</span></span><br>
-<div class="price">$1.59</div>
-</br></br></div>
-</li>
-<div class="vtp-clear"> </div>
-<li style="list-style-type: none !important">
-<div class="asinDetails">
-<a href="/Mis%C3%A9rables-English-language-Victor-Hugo-ebook/dp/B004GHNIRK" id="pd_cp_kstore_2_B004GHNIRK"> <img alt="" border="0" class="faceout" height="50" src="http://ecx.images-amazon.com/images/I/41kgTrrnVjL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50"/>
+<a href="/Mis%C3%A9rables-English-language-Victor-Hugo-ebook/dp/B004GHNIRK" id="pd_cp_kstore_0_B004GHNIRK"> <img alt="" border="0" class="faceout" height="50" src="http://ecx.images-amazon.com/images/I/41kgTrrnVjL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50"/>
 <span class="cpAsinTitle">Les Misrables (English language)</span> </a>
 <span class="vtp-binding-byline"> <span class="vtp-byline-text">by Victor Hugo</span> Kindle Edition</span>
 <br>
-<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B004GHNIRK"><a href="http://www.amazon.com/Mis%C3%A9rables-English-language-Victor-Hugo-ebook/product-reviews/B004GHNIRK"><span class="swSprite s_star_4_0 " title="4.2 out of 5 stars"><span>4.2 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/Mis%C3%A9rables-English-language-Victor-Hugo-ebook/product-reviews/B004GHNIRK">1,827</a>)</span></span><br>
+<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B004GHNIRK"><a href="http://www.amazon.com/Mis%C3%A9rables-English-language-Victor-Hugo-ebook/product-reviews/B004GHNIRK"><span class="swSprite s_star_4_0 " title="4.2 out of 5 stars"><span>4.2 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/Mis%C3%A9rables-English-language-Victor-Hugo-ebook/product-reviews/B004GHNIRK">1,828</a>)</span></span><br>
 <div class="price">$0.00</div>
 </br></br></div>
 </li>
 <div class="vtp-clear"> </div>
 <li style="list-style-type: none !important">
 <div class="asinDetails">
-<a href="/Great-Expectations-Charles-Dickens-ebook/dp/B0082SWC30" id="pd_cp_kstore_3_B0082SWC30"> <img alt="" border="0" class="faceout" height="50" src="http://ecx.images-amazon.com/images/I/518YH-SiP1L._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50"/>
-<span class="cpAsinTitle">Great Expectations</span> </a>
-<span class="vtp-binding-byline"> <span class="vtp-byline-text">by Charles Dickens</span> Kindle Edition</span>
+<a href="/Between-Katie-Parker-Production-Book-ebook/dp/B00J9VYDEA" id="pd_cp_kstore_1_B00J9VYDEA"> <img alt="" border="0" class="faceout" height="50" src="http://ecx.images-amazon.com/images/I/51CQ5BF5TXL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50"/>
+<span class="cpAsinTitle">In Between (A Katie Parker Production, Book 1)</span> </a>
+<span class="vtp-binding-byline"> <span class="vtp-byline-text">by Jenny B. Jones</span> Kindle Edition</span>
 <br>
-<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B0082SWC30"><a href="http://www.amazon.com/Great-Expectations-Charles-Dickens-ebook/product-reviews/B0082SWC30"><span class="swSprite s_star_4_5 " title="4.4 out of 5 stars"><span>4.4 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/Great-Expectations-Charles-Dickens-ebook/product-reviews/B0082SWC30">574</a>)</span></span><br>
+<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B00J9VYDEA"><a href="http://www.amazon.com/Between-Katie-Parker-Production-Book-ebook/product-reviews/B00J9VYDEA"><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars"><span>4.6 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/Between-Katie-Parker-Production-Book-ebook/product-reviews/B00J9VYDEA">1,213</a>)</span></span><br>
+<div class="price">$0.00</div>
+</br></br></div>
+</li>
+<div class="vtp-clear"> </div>
+<li style="list-style-type: none !important">
+<div class="asinDetails">
+<a href="/Pride-Prejudice-Jane-Austen-ebook/dp/B008476HBM" id="pd_cp_kstore_2_B008476HBM"> <img alt="" border="0" class="faceout" height="50" src="http://ecx.images-amazon.com/images/I/51jSMPqBXxL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50"/>
+<span class="cpAsinTitle">Pride and Prejudice</span> </a>
+<span class="vtp-binding-byline"> <span class="vtp-byline-text">by Jane Austen</span> Kindle Edition</span>
+<br>
+<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B008476HBM"><a href="http://www.amazon.com/Pride-Prejudice-Jane-Austen-ebook/product-reviews/B008476HBM"><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars"><span>4.6 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/Pride-Prejudice-Jane-Austen-ebook/product-reviews/B008476HBM">1,909</a>)</span></span><br>
+<div class="price">$0.00</div>
+</br></br></div>
+</li>
+<div class="vtp-clear"> </div>
+<li style="list-style-type: none !important">
+<div class="asinDetails">
+<a href="/Wuthering-Heights-Emily-Bront%C3%AB-ebook/dp/B004UJAOLM" id="pd_cp_kstore_3_B004UJAOLM"> <img alt="" border="0" class="faceout" height="50" src="http://ecx.images-amazon.com/images/I/51x%2B%2BfUNS5L._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50"/>
+<span class="cpAsinTitle">Wuthering Heights</span> </a>
+<span class="vtp-binding-byline"> <span class="vtp-byline-text">by Emily Bront</span> Kindle Edition</span>
+<br>
+<span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="B004UJAOLM"><a href="http://www.amazon.com/Wuthering-Heights-Emily-Bront%C3%AB-ebook/product-reviews/B004UJAOLM"><span class="swSprite s_star_4_0 " title="4.1 out of 5 stars"><span>4.1 out of 5 stars</span></span></a> </span>(<a href="http://www.amazon.com/Wuthering-Heights-Emily-Bront%C3%AB-ebook/product-reviews/B004UJAOLM">855</a>)</span></span><br>
 <div class="price">$0.00</div>
 </br></br></div>
 </li>
@@ -5242,14 +5237,14 @@ span.kar_beta {
 <a id="CustomerDiscussionsPost" name="CustomerDiscussionsPost"> </a>
 <form action="https://www.amazon.com/gp/forum/update/create.html" id="cdPostBoxForm" method="POST" name="cdPostBoxForm" onsubmit="return threadValidator.cdCheckThreadPost(this);">
 <input name="ASIN" type="hidden" value="B004EHZXVQ"/>
-<input name="cdBirth" type="hidden" value="1423511035"/>
+<input name="cdBirth" type="hidden" value="1423580501"/>
 <input name="cdClientIP" type="hidden" value="76.78.3.182"/>
 <input name="cdSFormFields" type="hidden" value="ASIN:cdBirth:cdClientIP:cdSFormFields:originInstanceID:originTypeID:redirectTarget:threadType"/>
 <input name="originInstanceID" type="hidden" value="B004EHZXVQ"/>
 <input name="originTypeID" type="hidden" value="1"/>
 <input name="redirectTarget" type="hidden" value="aHR0cDovL3d3dy5hbWF6b24uY29tL1RhbGUtVHdvLUNpdGllcy1DaGFybGVzLURpY2tlbnMtZWJvb2svZHAvQjAwNEVIWlhWUT9fZW5jb2Rpbmc9VVRGOCZjZFBhZ2U9MSZub0xMPTE"/>
 <input name="threadType" type="hidden" value="Normal"/>
-<input name="cdSecureFormToken" type="hidden" value="gF8JX4s+6obTGR9g1TK70pnn96NOJ/1FLMYxq8MAAAADAAAAAFTZDftyYXcAAAAA"/>
+<input name="cdSecureFormToken" type="hidden" value="gPIfhKmOfOAUyWat0BYv7eXkU0M0khoqeDmpZWsAAAADAAAAAFTaHVVyYXcAAAAA"/>
 <div class="cdFormRow" style="padding: 0.7em 0 0.2em 0; _padding: 0.35em 0 0.1em 0;">
 <h5><em style="color:#E47911">Start a new discussion</em></h5>
 </div>
@@ -5409,7 +5404,7 @@ span.kar_beta {
 </div>
 <div class="nav-flyout-content" id="nav_your_account_flyout">
 <ul class="nav_pop_ul">
-<li class="nav_pop_li nav_divider_after" id="nav-ya-btn-signin"><div id="nav-flyout-ya-signin"><a class="nav-action-button" href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin" rel="nofollow"><span class="nav-action-inner">
+<li class="nav_pop_li nav_divider_after" id="nav-ya-btn-signin"><div id="nav-flyout-ya-signin"><a class="nav-action-button" data-nav-ref="nav_signin" data-nav-role="signin" href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin" rel="nofollow"><span class="nav-action-inner">
       Sign in
     </span></a><div class="nav_pop_new_cust" id="nav-flyout-ya-newCust">
     New customer?
@@ -5431,7 +5426,7 @@ span.kar_beta {
 <li class="nav_first nav_pop_li nav-dynamic-empty" data-nav-wt="22704"><a class="nav_a" href="/gp/registry/wishlist?ie=UTF8&amp;triggerElementID=createList">Create a Wish List</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/registry/search">Find a Wish List or Registry</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/gift-finder">Find a Gift</a></li><li class="nav_taglined nav_pop_li"><a class="nav_a" href="/gp/registry/wishlist?ie=UTF8&amp;triggerElementID=showUWLPromo">Save Items from the Web</a><div class="nav_tag">Get the Wish List Browser Button</div></li><li class="nav_pop_li"><a class="nav_a" href="/gp/wedding/homepage">Wedding Registry</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/registry/baby">Baby Registry</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/toys/birthday">Kids' Birthdays</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/school-lists">School Lists</a></li><li class="nav_pop_li"><a class="nav_a" href="/gp/gift-central/organizer">Friends &amp; Family Gifting</a></li><li class="nav_last nav_pop_li"><a class="nav_a" href="/gp/yt/newforyou/myactions">Your Hearts (in Fashion)</a></li>
 </ul>
 </div>
-<div id="nav-signin-tooltip"><a class="nav-action-button" href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_signin"><span class="nav-action-inner">
+<div id="nav-signin-tooltip"><a class="nav-action-button" data-nav-ref="nav_custrec_signin" data-nav-role="signin" href="https://www.amazon.com/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_signin"><span class="nav-action-inner">
       Sign in
     </span></a><div class="nav-signin-tooltip-footer">
     New customer? <a class="nav-a" href="https://www.amazon.com/ap/register?_encoding=UTF8&amp;openid.assoc_handle=usflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_newcust">
@@ -5537,7 +5532,7 @@ span.kar_beta {
 </table></div>
 <div class="navFooterLine navFooterLinkLine navFooterPadItemLine"><ul><li class="nav_first"><a class="nav_a" href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508088">Conditions of Use</a></li><li><a class="nav_a" href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=468496">Privacy Notice</a></li><li><a class="nav_a" href="/interestbasedads">Interest-Based Ads</a></li><li class="nav_last"> 1996-2015, Amazon.com, Inc. or its affiliates</li></ul></div>
 </div>
-<!-- whfh-i9M9nohFkb4G9UWZKk8ayX1SK5cDIbggfCaJIrwiuNAxjjCtrvju34Re71XtodIj rid-0QYR7JTN9G1HCZ885531 -->
+<!-- whfh-LF1eMzTQscwYn+VgqaV9vfizLTrdiOaPaFadeNokUlOVZIoxMfU5Gt2SsOQF6vP/ rid-1G8CD7NSEW0PEH2GFVRN -->
 <div aria-hidden="true" id="sis_pixel_r2" style="height:1px;"></div>
 
 <div id="amznCompressDiv">

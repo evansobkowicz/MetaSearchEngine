@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"> <![endif]-->
@@ -30,9 +31,9 @@
 <meta content="noojen" property="fb:admins"/>
 <meta content="http://media1.shmoop.com/media/covers/literature/lit00029.jpg" property="og:image"/>
 <meta content="100" property="og:image:width"/>
-<meta content="100" property="og:image:height"/><link href="https://fonts.googleapis.com/css?family=Bitter|Gloria+Hallelujah|Roboto:400,300" rel="stylesheet" type="text/css"/><link href="/assets/stylesheets/default.min.css?1423287579" rel="stylesheet"/>
-<link href="/assets/stylesheets/learning-guide.min.css?1423287579" rel="stylesheet"/>
-<link href="/assets/sass/shame/_wallpaper.css?1423287579" rel="stylesheet"/>
+<meta content="100" property="og:image:height"/><link href="https://fonts.googleapis.com/css?family=Bitter|Gloria+Hallelujah|Roboto:400,300" rel="stylesheet" type="text/css"/><link href="/assets/stylesheets/default.min.css?1423537788" rel="stylesheet"/>
+<link href="/assets/stylesheets/learning-guide.min.css?1423537788" rel="stylesheet"/>
+<link href="/assets/sass/shame/_wallpaper.css?1423537788" rel="stylesheet"/>
 <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
@@ -116,8 +117,9 @@
     <div class="adunit" id="Skin_1x1" data-targeting='{"Test":"7"}'></div>
     -->
 <div class="container wallpaper-container site_takeover_wallpaper_link">
-<span class="wallpaper-element wallpaper-top site_takeover_wallpaper_link_large" style="background: url(http://media1.shmoop.com/images/ads/noodle-header-large-2015-02-06.jpg) no-repeat;"></span>
-<span class="wallpaper-element wallpaper-top site_takeover_wallpaper_link_medium" style="background-color: #333333;"></span>
+<span class="wallpaper-element wallpaper-top site_takeover_wallpaper_link_large" style="background: url(http://media1.shmoop.com/images/ads/noodle-header-large-2015-02-09.jpg) no-repeat;"></span>
+<span class="wallpaper-element wallpaper-top site_takeover_wallpaper_link_medium" style="background: url(http://media1.shmoop.com/images/ads/noodle-header-medium-2015-02-09.jpg) no-repeat;"></span>
+<span class="wallpaper-element wallpaper-top site_takeover_wallpaper_link_medium_small" style="background-color: #333333;"></span>
 <span class="wallpaper-element wallpaper-top site_takeover_wallpaper_link_small" style="background: url(http://media1.shmoop.com/images/internal-promo/skin-flashcards-header-3a.jpg) no-repeat;"></span>
 <a class="wallpaper-element wallpaper-left site_takeover_wallpaper_link" href="https://www.noodle.com/colleges?utm_source=shmoop&amp;utm_medium=partner&amp;utm_campaign=special_skin" onclick="pageTracker._trackEvent('Promotions', 'Click', 'Noodle Skin');" style="background: url(http://media1.shmoop.com/images/ads/noodle-left-2015-02-06.jpg) no-repeat;" target="_blank"></a>
 <a class="wallpaper-element wallpaper-right site_takeover_wallpaper_link" href="https://www.noodle.com/colleges?utm_source=shmoop&amp;utm_medium=partner&amp;utm_campaign=special_skin" onclick="pageTracker._trackEvent('Promotions', 'Click', 'Noodle Skin);" style="background: url(http://media1.shmoop.com/images/ads/noodle-right-2015-02-06.jpg) no-repeat;" target="_blank"></a>
@@ -310,28 +312,28 @@
 <h3>People who Shmooped this also Shmooped...</h3>
 </div>
 <div class="row">
-<a class="btn-feature" data-eventlabel="recommended-items " data-trigger="internal-promo" href="/maus" target="_blank">
-<div class="col-md-3"><img src="http://media1.shmoop.com/media/covers/literature/lit60001.jpg"/></div>
+<a class="btn-feature" data-eventlabel="recommended-items " data-trigger="internal-promo" href="/absalom-absalom-faulkner" target="_blank">
+<div class="col-md-3"><img src="http://media1.shmoop.com/media/covers/literature/absalom-absalom.jpg"/></div>
 <div class="col-md-9">
-<h2>Maus: A Survivor's Tale - Learning Guide <i class="fa fa-arrow-circle-right"></i></h2>
+<h2>Absalom, Absalom! - Learning Guide <i class="fa fa-arrow-circle-right"></i></h2>
 <p></p>
 </div>
 </a>
 </div>
 <div class="row">
-<a class="btn-feature" data-eventlabel="recommended-items " data-trigger="internal-promo" href="/measure-for-measure" target="_blank">
-<div class="col-md-3"><img src="http://media1.shmoop.com/media/covers/literature/sha0011.jpg"/></div>
+<a class="btn-feature" data-eventlabel="recommended-items " data-trigger="internal-promo" href="/diceys-song" target="_blank">
+<div class="col-md-3"><img src="http://media1.shmoop.com/media/covers/literature/diceys-song.jpg"/></div>
 <div class="col-md-9">
-<h2>Measure for Measure - Learning Guide <i class="fa fa-arrow-circle-right"></i></h2>
+<h2>Dicey's Song - Learning Guide <i class="fa fa-arrow-circle-right"></i></h2>
 <p></p>
 </div>
 </a>
 </div>
 <div class="row">
-<a class="btn-feature" data-eventlabel="recommended-items " data-trigger="internal-promo" href="/unbearable-lightness-of-being" target="_blank">
-<div class="col-md-3"><img src="http://media1.shmoop.com/media/covers/literature/lit00127.jpg"/></div>
+<a class="btn-feature" data-eventlabel="recommended-items " data-trigger="internal-promo" href="/far-from-the-madding-crowd" target="_blank">
+<div class="col-md-3"><img src="http://media1.shmoop.com/media/covers/literature/among-the-hidden.jpg"/></div>
 <div class="col-md-9">
-<h2>The Unbearable Lightness of Being - Learning Guide <i class="fa fa-arrow-circle-right"></i></h2>
+<h2>Far From the Madding Crowd - Learning Guide <i class="fa fa-arrow-circle-right"></i></h2>
 <p></p>
 </div>
 </a>

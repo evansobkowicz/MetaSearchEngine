@@ -1,9 +1,9 @@
-Title: SparkNotes: The Little Prince
-Server: Apache
-Content-Type: text/html; charset=utf-8
-Vary: Accept-Encoding
-Date: Mon, 09 Feb 2015 19:44:07 GMT
-Transfer-Encoding: chunked
+Title: The Little Prince
+Cache-Control: private
+Content-Length: 25419
+Content-Type: text/html
+Expires: Mon, 09 Feb 2015 09:02:34 GMT
+X-Powered-By: ASP.NET
+Date: Tue, 10 Feb 2015 15:02:33 GMT
 Connection: close
-Connection: Transfer-Encoding
 

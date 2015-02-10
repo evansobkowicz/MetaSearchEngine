@@ -962,35 +962,35 @@ Lamplighter Square at <b>The Museum of The Little Prince</b>, Hakone, Japan.</di
 </table>
 <!-- 
 NewPP limit report
-Parsed by mw1244
-CPU time usage: 0.737 seconds
-Real time usage: 0.865 seconds
+Parsed by mw1201
+CPU time usage: 0.905 seconds
+Real time usage: 1.040 seconds
 Preprocessor visited node count: 6432/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 60917/2097152 bytes
 Template argument size: 6608/2097152 bytes
 Highest expansion depth: 18/40
 Expensive parser function count: 5/500
-Lua time usage: 0.161/10.000 seconds
+Lua time usage: 0.188/10.000 seconds
 Lua memory usage: 2.91 MB/50 MB
 -->
 <!-- 
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  666.437      1 - -total
- 28.35%  188.956      2 - Template:Reflist
- 14.18%   94.480     47 - Template:Sfnp
-  8.70%   57.975      1 - Template:Infobox_writer
-  7.59%   50.580      1 - Template:Infobox
-  6.25%   41.645      1 - Template:Authority_control
-  5.22%   34.756      1 - Template:Commons_category
-  5.20%   34.685      9 - Template:Category_handler
-  4.43%   29.553      1 - Template:Citation_needed
-  4.09%   27.232      1 - Template:Use_dmy_dates
+100.00%  785.393      1 - -total
+ 28.61%  224.707      2 - Template:Reflist
+ 15.46%  121.416     47 - Template:Sfnp
+  9.03%   70.884      1 - Template:Infobox_writer
+  7.98%   62.672      1 - Template:Infobox
+  5.10%   40.051      9 - Template:Category_handler
+  4.68%   36.795      1 - Template:Commons_category
+  4.49%   35.260      1 - Template:Use_dmy_dates
+  4.25%   33.347      1 - Template:Citation_needed
+  4.19%   32.909      1 - Template:Authority_control
 -->
-<!-- Saved in parser cache with key enwiki:pcache:idhash:63174-0!*!0!!en!4!* and timestamp 20150206212430 and revision id 644756583
+<!-- Saved in parser cache with key enwiki:pcache:idhash:63174-0!*!0!!en!4!* and timestamp 20150210020947 and revision id 646437731
  -->
 <noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
-						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Antoine_de_Saint-Exupéry&amp;oldid=644756583">http://en.wikipedia.org/w/index.php?title=Antoine_de_Saint-Exupéry&amp;oldid=644756583</a>"					</div>
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Antoine_de_Saint-Exupéry&amp;oldid=646437731">http://en.wikipedia.org/w/index.php?title=Antoine_de_Saint-Exupéry&amp;oldid=646437731</a>"					</div>
 <div class="catlinks" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Antoine_de_Saint-Exup%C3%A9ry" title="Category:Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</a></li><li><a href="/wiki/Category:1900_births" title="Category:1900 births">1900 births</a></li><li><a href="/wiki/Category:1944_deaths" title="Category:1944 deaths">1944 deaths</a></li><li><a href="/wiki/Category:People_from_Lyon" title="Category:People from Lyon">People from Lyon</a></li><li><a href="/wiki/Category:French_expatriates_in_the_United_States" title="Category:French expatriates in the United States">French expatriates in the United States</a></li><li><a href="/wiki/Category:French_expatriates_in_Argentina" title="Category:French expatriates in Argentina">French expatriates in Argentina</a></li><li><a href="/wiki/Category:Aerial_photographers" title="Category:Aerial photographers">Aerial photographers</a></li><li><a href="/wiki/Category:Aviation_writers" title="Category:Aviation writers">Aviation writers</a></li><li><a href="/wiki/Category:Aviators_killed_in_aviation_accidents_or_incidents" title="Category:Aviators killed in aviation accidents or incidents">Aviators killed in aviation accidents or incidents</a></li><li><a href="/wiki/Category:Counts_of_France" title="Category:Counts of France">Counts of France</a></li><li><a href="/wiki/Category:French_aviators" title="Category:French aviators">French aviators</a></li><li><a href="/wiki/Category:French_children%27s_writers" title="Category:French children's writers">French children's writers</a></li><li><a href="/wiki/Category:French_fantasy_writers" title="Category:French fantasy writers">French fantasy writers</a></li><li><a href="/wiki/Category:French_memoirists" title="Category:French memoirists">French memoirists</a></li><li><a href="/wiki/Category:French_novelists" title="Category:French novelists">French novelists</a></li><li><a href="/wiki/Category:French_World_War_II_pilots" title="Category:French World War II pilots">French World War II pilots</a></li><li><a href="/wiki/Category:Grand_Prix_du_Roman_winners" title="Category:Grand Prix du Roman winners">Grand Prix du Roman winners</a></li><li><a href="/wiki/Category:Lyc%C3%A9e_Saint-Louis_alumni" title="Category:Lycée Saint-Louis alumni">Lycée Saint-Louis alumni</a></li><li><a href="/wiki/Category:Missing_aviators" title="Category:Missing aviators">Missing aviators</a></li><li><a href="/wiki/Category:Missing_in_action_of_World_War_II" title="Category:Missing in action of World War II">Missing in action of World War II</a></li><li><a href="/wiki/Category:Modernist_writers" title="Category:Modernist writers">Modernist writers</a></li><li><a href="/wiki/Category:National_Book_Award_winners" title="Category:National Book Award winners">National Book Award winners</a></li><li><a href="/wiki/Category:Prix_Femina_winners" title="Category:Prix Femina winners">Prix Femina winners</a></li><li><a href="/wiki/Category:Writers_who_illustrated_their_own_writing" title="Category:Writers who illustrated their own writing">Writers who illustrated their own writing</a></li><li><a href="/wiki/Category:20th-century_French_novelists" title="Category:20th-century French novelists">20th-century French novelists</a></li><li><a href="/wiki/Category:French_Army_officers" title="Category:French Army officers">French Army officers</a></li><li><a href="/wiki/Category:French_Air_Force_personnel" title="Category:French Air Force personnel">French Air Force personnel</a></li><li><a href="/wiki/Category:Chevaliers_of_the_L%C3%A9gion_d%27honneur" title="Category:Chevaliers of the Légion d'honneur">Chevaliers of the Légion d'honneur</a></li><li><a href="/wiki/Category:Free_French_military_personnel_of_World_War_II" title="Category:Free French military personnel of World War II">Free French military personnel of World War II</a></li><li><a href="/wiki/Category:Recipients_of_the_Croix_de_Guerre_1939%E2%80%931945_(France)" title="Category:Recipients of the Croix de Guerre 1939–1945 (France)">Recipients of the Croix de Guerre 1939–1945 (France)</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_December_2013" title="Category:Use dmy dates from December 2013">Use dmy dates from December 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2012" title="Category:Articles with unsourced statements from August 2012">Articles with unsourced statements from August 2012</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:AC_with_14_elements" title="Category:AC with 14 elements">AC with 14 elements</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ULAN_identifiers" title="Category:Wikipedia articles with ULAN identifiers">Wikipedia articles with ULAN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_identifiers" title="Category:Wikipedia articles with MusicBrainz identifiers">Wikipedia articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_RKDartists_identifiers" title="Category:Wikipedia articles with RKDartists identifiers">Wikipedia articles with RKDartists identifiers</a></li></ul></div></div> <div class="visualClear"></div>
 </div>
 </div>
@@ -1081,10 +1081,10 @@ Transclusion expansion time report (%,ms,calls,template)
 <li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Antoine_de_Saint-Exup%C3%A9ry" title="Recent changes in pages linked from this page [k]">Related changes</a></li>
 <li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li>
 <li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li>
-<li id="t-permalink"><a href="/w/index.php?title=Antoine_de_Saint-Exup%C3%A9ry&amp;oldid=644756583" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-permalink"><a href="/w/index.php?title=Antoine_de_Saint-Exup%C3%A9ry&amp;oldid=646437731" title="Permanent link to this revision of the page">Permanent link</a></li>
 <li id="t-info"><a href="/w/index.php?title=Antoine_de_Saint-Exup%C3%A9ry&amp;action=info" title="More information about this page">Page information</a></li>
 <li id="t-wikibase"><a accesskey="g" href="//www.wikidata.org/wiki/Q2908" title="Link to connected data repository item [g]">Wikidata item</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Antoine_de_Saint-Exup%C3%A9ry&amp;id=644756583" title="Information on how to cite this page">Cite this page</a></li> </ul>
+<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Antoine_de_Saint-Exup%C3%A9ry&amp;id=646437731" title="Information on how to cite this page">Cite this page</a></li> </ul>
 </div>
 </div>
 <div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
@@ -1092,7 +1092,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="body">
 <ul>
 <li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Antoine+de+Saint-Exup%C3%A9ry">Create a book</a></li>
-<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Antoine+de+Saint-Exup%C3%A9ry&amp;oldid=644756583&amp;writer=rdf2latex">Download as PDF</a></li>
+<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Antoine+de+Saint-Exup%C3%A9ry&amp;oldid=646437731&amp;writer=rdf2latex">Download as PDF</a></li>
 <li id="t-print"><a accesskey="p" href="/w/index.php?title=Antoine_de_Saint-Exup%C3%A9ry&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li>
 </ul>
 </div>
@@ -1189,7 +1189,7 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 <div id="footer" role="contentinfo">
 <ul id="footer-info">
-<li id="footer-info-lastmod"> This page was last modified on 29 January 2015, at 21:56.</li>
+<li id="footer-info-lastmod"> This page was last modified on 10 February 2015, at 02:09.</li>
 <li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 </ul>

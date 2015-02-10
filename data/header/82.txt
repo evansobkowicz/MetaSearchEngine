@@ -1,9 +1,0 @@
-Title: ''And Then There Were None'' by Eric Frank Russell
-Date: Mon, 09 Feb 2015 20:43:09 GMT
-Server: Apache/2.2.29
-Cache-Control: max-age=2592000
-Expires: Wed, 11 Mar 2015 20:43:09 GMT
-Connection: close
-Transfer-Encoding: chunked
-Content-Type: text/html
-

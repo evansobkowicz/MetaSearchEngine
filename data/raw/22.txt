@@ -548,32 +548,32 @@ United Kingdom</td>
 </table>
 <!-- 
 NewPP limit report
-Parsed by mw1252
-CPU time usage: 0.197 seconds
-Real time usage: 0.259 seconds
+Parsed by mw1170
+CPU time usage: 0.283 seconds
+Real time usage: 0.354 seconds
 Preprocessor visited node count: 1059/1000000
 Preprocessor generated node count: 0/1500000
 Post‐expand include size: 48758/2097152 bytes
 Template argument size: 1321/2097152 bytes
 Highest expansion depth: 21/40
 Expensive parser function count: 1/500
-Lua time usage: 0.045/10.000 seconds
+Lua time usage: 0.070/10.000 seconds
 Lua memory usage: 1.55 MB/50 MB
 -->
 <!-- 
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  165.036      1 - -total
- 36.77%   60.688      1 - Template:Infobox_film
- 34.39%   56.750      1 - Template:Infobox
- 21.11%   34.842      1 - Template:Reflist
- 15.98%   26.372      1 - Template:Fr-icon
- 14.17%   23.387      1 - Template:Language_icon
- 13.86%   22.866      1 - Template:IMDb_title
- 13.38%   22.078      4 - Template:Navbox
- 10.74%   17.732      1 - Template:Category_handler
-  9.99%   16.493      1 - Template:Film_date
+100.00%  244.775      1 - -total
+ 34.16%   83.611      1 - Template:Infobox_film
+ 31.15%   76.258      1 - Template:Infobox
+ 21.02%   51.443      1 - Template:Reflist
+ 16.38%   40.096      1 - Template:Fr-icon
+ 15.97%   39.098      4 - Template:Navbox
+ 15.33%   37.518      1 - Template:IMDb_title
+ 14.68%   35.937      1 - Template:Language_icon
+ 11.73%   28.711      1 - Template:Category_handler
+  8.98%   21.982      1 - Template:Film_date
 -->
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1937414-0!*!0!!en!4!* and timestamp 20150209144519 and revision id 636759640
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1937414-0!*!0!!en!4!* and timestamp 20150210070148 and revision id 636759640
  -->
 <noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
 						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=The_Little_Prince_(1974_film)&amp;oldid=636759640">http://en.wikipedia.org/w/index.php?title=The_Little_Prince_(1974_film)&amp;oldid=636759640</a>"					</div>

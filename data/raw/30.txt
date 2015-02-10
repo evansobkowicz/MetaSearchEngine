@@ -1,290 +1,59 @@
-
 <html>
 <head>
-<title>The Little Prince</title>
-<meta content="" name="Keywords">
-<meta content="" name="Description">
-<meta content="superuser" name="Author">
-<meta content="5/11/2013 4:12:56 AM" name="Date-Created">
+<title>The Little Prince by Antoine de Saint Exupry</title>
+</head>
+<frameset border="0" cols="375,425">
+<frame scrolling="no" src="framehome.html">
+<frame name="frame" src="frameintro.html">
+</frame></frame></frameset>
+</html>
+<!--'"</title></head>-->
 
 
 
-
-
-
-
-
-<link href="/styles/MTLSDNew_ace.css" rel="stylesheet" type="text/css">
-<link href="/styles/MTLSDNew_style.css" rel="stylesheet" type="text/css">
-<link href="/styles/editstyle.css" rel="stylesheet" type="text/css">
-</link></link></link></meta></meta></meta></meta></head>
-<body bgcolor="#ffffff" leftmargin="0" marginheight="0" marginwidth="0" onload="preloadImages();" rightmargin="0" topmargin="0">
-<!-- login menu -->
-<style type="text/css">
-    #loginselector
-    {
-    visibility: hidden;
-    position: absolute;
-    border: 1px solid black;
-    padding: 3px;
-    background-color: white;
-    width: 140px;
-    height: 70px;
-    }
+<style>
+	#body .adCenterClass{margin:0 auto}
 </style>
-<div id="loginselector">
-<table border="0" cellpadding="4" cellspacing="0" id="Table1" width="100%">
-<tr>
-<td nowrap="">
-<a class="loginlinks" href="/District/Register/PublicLogin.asp?RetValue=/mellon/teams/ironbrigade/thelittleprince.asp"><b><i>my</i></b>MTLSD</a>
-</td>
-</tr>
-<tr>
-<td>
-<a class="loginlinks" href="http://ps.mtlsd.org">Dashboard</a>
-</td>
-</tr>
-<tr>
-<td>
-<a class="loginlinks" href="http://home.mtlsd.org">MTLSD<i>Home</i></a>
-</td>
-</tr>
-<tr>
-<td>
-<a class="loginlinks" href="http://www.mtlsd.org/email">Email Access</a>
-</td>
-</tr>
-<tr>
-<td>
-<a class="loginlinks" href="http://ps.mtlsd.org/teachers">PowerTeacher</a>
-</td>
-</tr>
-<tr>
-<td>
-<a class="loginlinks" href="http://www.mtlsd.org/publicfolders">Public Folders</a>
-</td>
-</tr>
-<tr>
-<td>
-<a class="loginlinks" href="/system/login.asp">Site Administration</a>
-</td>
-</tr>
-<tr>
-<td>
-<a class="loginlinks" href="http://mtlebanon.subfinderonline.com" target="_NEW">SubFinder</a>
-</td>
-</tr>
-<tr>
-<td>
-<a class="loginlinks" href="http://pdexpress.mtlsd.org/pdexpress/login.aspx" target="_NEW">MyPDC</a>
-</td>
-</tr>
-<tr>
-<td>
-<a class="loginlinks" href="https://172.16.3.60/wap">School Messenger</a>
-</td>
-</tr>
-</table>
+<div style="background:#abe6f6; border-bottom:1px solid #507a87; position:relative; z-index:9999999">
+<div class="adCenterClass" style="display:block!important; overflow:hidden; width:916px;">
+<a href="http://www.angelfire.lycos.com/" style="display:block; float:left; width:186px; border:0" title="Angelfire.com: build your free website today!">
+<img alt="Site hosted by Angelfire.com: Build your free website today!" src="/adm/ad/angelfire-freeAd.jpg" style="display:block; border:0"/>
+</a>
+
 </div>
-<!-- school selector -->
-<div id="selector" style="visibility:hidden;position:absolute;top:5px;left:525px">
-<table bgcolor="#333366" border="1" bordercolor="#000000" cellpadding="0" cellspacing="0" id="Table1" width="100">
-<tr>
-<td>
-<table border="0" cellpadding="1" cellspacing="0" id="Table2" width="100">
-<tr>
-<td bgcolor="#FFFFFF"><img border="0" src="/images/topbar.gif"/></td>
-<td bgcolor="#FFFFFF"><a href="javaScript:hideObject('selector')"><img border="0" src="/images/close_button.gif"/></a></td>
-</tr>
-<tr>
-<td colspan="2"><a class="headlink" href="/district">School District</a></td>
-</tr>
-<tr>
-<td colspan="2"><a class="headlink" href="/highschool">Mt. Lebanon High School</a></td>
-</tr>
-<tr>
-<td colspan="2"><a class="headlink" href="/jefferson_middle">Jefferson Middle School</a></td>
-</tr>
-<tr>
-<td colspan="2"><a class="headlink" href="/mellon">Mellon Middle School</a></td>
-</tr>
-<tr>
-<td colspan="2"><a class="headlink" href="/foster_elementary">Foster Elementary</a></td>
-</tr>
-<tr>
-<td colspan="2"><a class="headlink" href="/hoover_elementary">Hoover Elementary</a></td>
-</tr>
-<tr>
-<td colspan="2"><a class="headlink" href="/howe_elementary">Howe Elementary</a></td>
-</tr>
-<tr>
-<td colspan="2"><a class="headlink" href="/jefferson_elementary">Jefferson Elementary</a></td>
-</tr>
-<tr>
-<td colspan="2"><a class="headlink" href="/lincoln_elementary">Lincoln Elementary</a></td>
-</tr>
-<tr>
-<td colspan="2"><a class="headlink" href="/markham_elementary">Markham Elementary</a></td>
-</tr>
-<tr>
-<td colspan="2"><a class="headlink" href="/washington_elementary">Washington Elementary</a></td>
-</tr>
-<!--
-  <tr>
-    <td colspan=2><a href="/community" class="headlink">Our Community</a></td>
-  </tr>
-  -->
-</table>
-</td>
-</tr>
-</table>
 </div>
-<table border="0" cellpadding="0" cellspacing="0" height="100%" id="Table2" width="100%">
-<tr>
-<td width="100%">
-<!-- header table start -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td><img src="/HF/Common/a01.gif"/></td>
-<td><img src="/HF/Common/a02.gif"/></td>
-<td align="right" background="/HF/Common/aBackground.gif" valign="bottom" width="100%"><a href="javaScript:showObject('selector')"><img border="0" src="/HF/Common/choose.gif"/></a></td>
-</tr>
-<tr>
-<td><img src="/HF/Common/b01.gif"/></td>
-<td><img src="/HF/MTLMellonFront/b02.jpg"/></td>
-<td align="right" background="/HF/Common/bBackground.gif" width="100%"><img src="/HF/Common/b03.gif"/></td>
-</tr>
-</table>
-<!-- header table end -->
-</td>
-</tr>
-<tr>
-<td height="100%" valign="top">
-<table border="0" cellpadding="0" cellspacing="0" height="100%" id="Table6">
-<tr>
-<td width="144">
-<table background="/HF/Common/pageBG.gif" border="0" cellpadding="0" cellspacing="0" height="100%" id="Table7" width="144">
-<tr>
-<td background="/HF/Common/navBGimage.jpg" height="100%" style="background-repeat:no-repeat" valign="top">
-<p class="leftnavigation">
-<a class="leftlink" href="/Mellon/Teams/ironbrigade/mrholliday.asp">Mr. Holliday</a>
-<br>
-<a class="leftlinkcurrent" href="/Mellon/Teams/ironbrigade/mrraitano.asp">Mr. Raitano</a>
-<br>
-<a class="leftlink" href="/Mellon/Teams/ironbrigade/default.asp">Home - /Mellon/Teams</a>
-<br>
-<a class="leftlink" href="/Mellon/Teams/ironbrigade/ironbrigade.asp">Iron Brigade</a>
-<br>
-<a class="leftlink" href="/Mellon/Teams/ironbrigade/mrsknox.asp">Mrs. Knox</a>
-<br>
-<a class="leftlink" href="/Mellon/Teams/ironbrigade/mrmccann.asp">Mr. McCann</a>
-<br>
-<a class="leftlink" href="/mellon/teams/ironbrigade/pssaprep.asp">PSSA PREP</a>
-<br>
-</br></br></br></br></br></br></br></p>
-<p class="leftOptions">
-<a class="leftOptionsLink" href="javascript:void(null)" onclick="return !showPopup('loginselector',event)">Login</a>
-<br>
-</br></p>
-</td>
-</tr>
-<tr>
-<td valign="top"><img src="/HF/Common/leftbottom.gif"/></td>
-</tr>
-</table>
-</td>
-<td align="left" valign="top" width="100%">
-<table border="0" cellpadding="0" cellspacing="3" height="100%" id="Table8" width="100%">
-<tr>
-<td>
-<a class="hmenubar" href="#"> </a>     • <img height="1" id="Root29741" name="Root29741" src="/images/clearpixel.gif" width="1"><a class="hmenubar" href="/mellon/teams/ironbrigade/zzsciencelesson.asp" onmouseout="popdown();" onmouseover="popup('Root29741', 'Root29741');"> </a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/romeoandjuliet.asp">    Romeo and Juliet</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/night.asp">    Night</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/thegloryfield.asp">    The Glory Field</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/tuesdayswithmorrie.asp">    Tuesdays with Morrie</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/identityunit.asp">    Identity Unit</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/outsidereadingunits.asp">    Outside Reading Units</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/triviaunit1.asp">    Trivia Unit1</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/essayassignments.asp">    Essay Assignments</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/commaunit.asp">    Comma Unit</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/clauseunit.asp">    Clause Unit</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/sonnetunit.asp">    Sonnet Unit</a>     • <a class="hmenubar" href="/mellon/teams/ironbrigade/researchunitnight.asp">    Research Unit - Night</a>
-</img></td>
-</tr>
-<tr>
-<td height="100%" valign="top">
-<!-- content in here -->
-<p align="center"><font face="Comic Sans MS" size="6"><font color="#0000ff"><em><font size="7">The Little Prince<br/></font><font size="4">by: Antoine de Saint-Exupery<br/></font></em></font></font></p></td></tr></table></td></tr></table></td></tr></table></body></html>
-<p align="left">
-<table border="1" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td> <img border="0" height="850" src="http://www.mtlsd.org/mellon/teams/ironbrigade/images/the%20little%20prince%20-%20birds.jpg" style="WIDTH: 229px; HEIGHT: 277px" width="570"/></td>
-<td>
-<p align="center"><font face="Comic Sans MS" size="3">Journey to Asteroid B-612 and join the Little Prince on his adventure to find answers, friendship, and love.  Together, you and the Little Prince will encounter characters such as a king, a lamplighter, a geographer, a snake, a fox, and many others.  Each character provides a unique look into humanity, while providing lessons and morals.  Though the journey may become difficult at times, you will learn that sometimes in life, the journey or experience is just as important as the destination or lesson learned!<br><br>Enjoy! </br></br></font></p></td></tr></tbody></table></p><font color="#009966" face="Comic Sans MS" size="5"><font color="#0066ff">What to expect</font>:<br><font size="3">~During our studies of <em>The Little Prince</em>, you will face many obstacles on your journey.  Here is a list of the various obstacles that you can expect to encounter:<br/></font>       <font size="3">-Nightly reading homework<br>          -Nightly completion of pages in your <em>'Student's Guide to Asteroid B-612'<br/></em>          -Class discussions<br>          -In-Class activities focusing on symbolism and locating quotes<br>          -In-Class writing assignments<br>          -Possible reading check quizzes<br>          -An end of the book test<br>          -Vocabulary Review<br>          -Various other exciting activities!<br><br><em><font color="#006633">*Remember, you may use your 'Student's Guide to Asteroid B-612' on ALL of the above mentioned assignments!<br>
-<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
-<tbody>
-<tr>
-<td>
-<hr>
-</hr></td></tr></tbody></table><font size="5"><font color="#009966"><font color="#0066ff">Required Materials for your journey</font>:<br/></font></font>~Here is a list of the materials that you will need while on your journey to Asteroid B-612.  Please click on the item anytime you need to replenish your supplies.<br><br>
-<table border="1" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td> <img border="0" height="391" src="http://www.mtlsd.org/mellon/teams/ironbrigade/images/the%20little%20prince%20-%20baobabs.jpg" style="WIDTH: 181px; HEIGHT: 336px" width="312"/></td>
-<td>
-<p align="center"><font color="#3333ff"><font size="2"><font face="Comic Sans MS"><font color="#000000">Here you will find many of the important handouts, and activities that we will be working on throughout the course of this unit.  If you click on the name of each item below, you will be able to download it. </font> </font><br/></font></font></p>
-<p align="center">
-<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
-<tbody>
-<tr>
-<td>
-<hr>
-<p align="center"><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20character%20analysis%20packet-%20new%202011.doc"><font color="#3300ff" size="3">'A Student's Guide to Asteroid B-612'<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20vocabulary.doc"><font color="#3300ff" size="3">Vocabulary<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20story%20impression.doc"><font color="#3300ff" size="3">Story Impression</font></a><br><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20the%20rose%20-%20activity%20%20new.doc"><font color="#3300ff" size="3">The Rose<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20island%20creation.doc"><font color="#3300ff" size="3">Island Activity<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20student%20created%20chapter.doc"><font color="#3300ff" size="3">Create-a-Chapter<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/the%20little%20prince%20-%20creative%20character%20activity.doc"><font color="#3300ff" size="3">Creative Activity - Character Letter / Poster<br/></font></a><br><a href="http://www.mtlsd.org/mellon/teams/ironbrigade/stuff/little%20prince%20word%20search.doc"><font color="#3300ff" size="3">Word Search (Extra Credit)<br><br/></br></font></a></br></br></br></br></br></br></br></br></p></hr></td></tr></tbody></table></p></td>
-<td>
-<p align="center"> <img border="0" height="130" src="http://www.mtlsd.org/mellon/teams/ironbrigade/images/the%20little%20prince%20-%20sheep.jpg" style="WIDTH: 155px; HEIGHT: 256px" width="146"><br><em><strong>"...that's not a sheep, it's a ram!"</strong></em></br></img></p></td></tr></tbody></table><br><font size="5"><font color="#0066ff">Additional Resources: 
-<table border="1" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td>
-<p align="center"><font face="Comic Sans MS" size="4"><em>Antoine de Saint-Exupery<br>Biography:<br><br><a href="http://www.editoreric.com/greatlit/authors/SaintExupery.html" target="_blank"><font color="#3300ff" size="5">CLICK HERE!</font></a><br/></br></br></br></em></font></p><a href="http://www.editoreric.com/greatlit/authors/SaintExupery.html" target="_blank"><font color="#3300ff" face="Arial" size="5">
-<p align="center">
-<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
-<tbody>
-<tr>
-<td>
-<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
-<tbody>
-<tr>
-<td>
-<hr>
-</hr></td></tr></tbody></table></td></tr></tbody></table></p>
-<p align="center"></p></font></a><font face="Comic Sans MS" size="4"><em>Want to play some fun games that focus on The Little Prince?  Well...<br/></em></font><br><a href="http://www.lepetitprince.com/jeux/index.php?langueStr=uk" target="_blank"><font color="#3300ff" size="5">CLICK HERE!</font><br/></a></br></td></tr></tbody></table></font></font></br></br></br></br></font></em></br></br></br></br></br></br></br></br></br></font></br></font>
-<p align="center">
-<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
-<tbody>
-<tr>
-<td>
-<hr>
-</hr></td></tr></tbody></table></p>
-<p align="center"><font face="Comic Sans MS" size="4"><em>Here is a link to The Little Prince when it was translated from French in 1943.  Which version do you like better?<br><br/></br></em></font><a href="http://home.pacific.net.hk/~rebylee/text/prince/index.html" target="_blank"><font color="#3300ff" size="5">CLICK HERE!<br/></font></a><br/></p>
-<p align="center">
-<table border="0" bordercolor="red" cellpadding="0" cellspacing="0" enableborderchange="1" height="1" width="100%">
-<tbody>
-<tr>
-<td>
-<hr>
-<p align="center"><font face="Comic Sans MS" size="4"><em>Did you like The Little Prince?  Here are two "sequels" that both bring the Little Prince back to life for us.  Check them out if you are interested!<br/></em><br>         -<font color="#0000cc">The Return of the Little Prince<br/></font>                by: Ysatis de Saint-Simone<br><br>         -<font color="#0000cc">The Little Prince Returns<br/></font>                by: Jean-Pierre Davidts</br></br></br></font></p></hr></td></tr></tbody></table></p>
-<td> <img border="0" height="367" src="http://www.mtlsd.org/mellon/teams/ironbrigade/images/the%20little%20prince%20-%20the%20lamplighter.gif" style="WIDTH: 345px; HEIGHT: 668px" width="261"/></td>
-<p align="center"><a href="http://www.youtube.com/watch?v=ZalwjqNHG2A&amp;safety_mode=true&amp;persist_safety_mode=1" target="_blank"><img border="5" height="277" src="http://www.mtlsd.org/mellon/teams/ironbrigade/images/the%20little%20prince%20-%20the%20fox.gif" style="WIDTH: 424px; HEIGHT: 269px" width="432"/></a><br><br><font face="Comic Sans MS" size="4"><font color="#0066ff">"Here is my secret.  It's quite simple: <br/></font><font color="#0066ff">One sees clearly only with the </font><font color="#ff0000">heart</font>. <font color="#0066ff"> Anything essential is invisible to the eyes."<br/></font><font color="#000000"><em>-the fox</em></font></font></br></br></p>
+<!-- ///////////////////////////////////// -->
 
+<div id="lycosFooterAd" style="background:#abe6f6; border-top:1px solid #507a87; clear:both; display:none; position:relative; z-index:9999999">
+<div class="adCenterClass" style="display:block!important; overflow:hidden; width:936px;">
+<div id="aflinksholder" style="float:left; width:186px;">
+<a href="http://www.angelfire.lycos.com/" style="display:block; border:0" title="Angelfire.com: build your free website today!">
+<img alt="Site hosted by Angelfire.com: Build your free website today!" src="/adm/ad/angelfire-freeAd2.jpg" style="display:block; border:0"/>
+</a>
+<div style="text-align:center">
+<span style="color:#393939!important; font-size:12px!important; position:relative; top:-6px">
+            	Sponsored by
+            </span>
+<a href="http://www.listen.com/disty/index.jsp?from=lycos" target="_blank">
+<img alt="sponsor logo" src="http://af.lygo.com/d/toolbar/sponsors/rhapsody_logo.jpg" title="Rhapsody"/>
+</a>
+</div>
+</div>
+<iframe id="lycosFooterAdiFrame" style="border:0; display:block; float:left; height:96px; overflow:hidden; padding:0; width:750px"></iframe>
+</div>
+</div>
+<noscript>
+<img alt="" height="1" src="http://www.angelfire.com/doc/images/track/ot_noscript.gif?rand=455520" width="1"/>
+<!-- BEGIN STANDARD TAG - 728 x 90 - Lycos - Angelfire Fallthrough - DO NOT MODIFY -->
+<iframe frameborder="0" height="90" marginheight="0" marginwidth="0" scrolling="no" src="http://ad.yieldmanager.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=280303" width="728"></iframe>
+<!-- END TAG -->
+</noscript>
+<!-- Start Ybrant tracker -->
+<img height="1" src="http://ad.yieldmanager.com/pixel?id=1901600&amp;t=2" width="1"/>
+<!--   End Ybrant tracker -->
+<!-- Start Datonics -->
 
+<!--   End Datonics -->
+<!-- Start Chango -->
 
-
-
-
-
-
-<tr>
-<td>
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td><img src="/HF/Common/footerLeft.gif"/></td>
-<td align="center" background="/HF/Common/footerBG.gif" width="100%"><a class="footerlink" href="javascript:pageprint();">Print Page</a> <a class="footerlink" href="http://www.mtlsd.org/district/copyright.asp"> 2015 Mt. Lebanon School District</a> <a class="footerlink" href="http://www.mtlsd.org/district/termsofuse.asp">Terms of Use</a><!--<a href="/email_page.asp" class="footerlink">Email Page</a>--></td>
-<td align="right" background="/HF/Common/footerBG.gif" valign="bottom" width="155"></td>
-</tr>
-</table>
-</td>
-</tr>
-
-
-
+<!--   End Chango -->

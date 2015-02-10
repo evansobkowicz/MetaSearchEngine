@@ -1,663 +1,1132 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
-<!--[if IE]><![endif]--><!--Empty IE conditional comment to improve site performance-->
-<html lang="en">
+<!DOCTYPE html>
+
+<html itemscope="" itemtype="http://schema.org/NewsArticle" lang="en">
 <head>
-<!-- 13 -->
+<title> The Little Prince by Antoine de Saint Exupéry - quiz | Children's books | theguardian.com </title>
+<meta charset="utf-8"/>
+<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<link href="http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery" rel="canonical"/>
+<meta content="Insanely popular, with over a million copies sold every year, The Little Prince is a classic children's story telling the adventures of the boy who fell to earth. On the book's 70th anniversary, and with…" name="description"/>
+<meta content="2013-09-17" name="DC.date.issued">
+<meta content="AUEsh23Y" name="llt"/>
+<meta content="The Little Prince by Antoine de Saint Exupéry - quiz" property="og:title"/>
+<meta content="2013-09-17T16:26:16+01:00" property="article:published_time"/>
+<meta content="2013-09-17T12:03:10+01:00" property="article:modified_time"/>
+<meta content="Children and teenagers" property="article:tag"/>
+<meta content="Children's books: 8-12 years" property="article:tag"/>
+<meta content="Teen books" property="article:tag"/>
+<meta content="Children's books: 7 and under" property="article:tag"/>
+<meta content="Books" property="article:tag"/>
+<meta content="Culture" property="article:tag"/>
+<meta content="Children's books" property="article:section"/>
+<meta content="http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery" property="og:url"/>
+<meta content="article" property="og:type"/>
+<meta content="https://static-secure.guim.co.uk/sys-images/Observer/Columnist/Columnists/2010/7/30/1280526001254/The-Little-Prince-001.jpg" property="og:image"/>
+<meta content="the Guardian" property="og:site_name"/>
+<meta content="Insanely popular, with over a million copies sold every year, The Little Prince is a classic children's story telling the adventures of the boy who fell to earth. On the book's 70th anniversary, and with a new film by Universal pictures recently announced, we thought it was high time we tested your knowledge. Will your score make you look like a prince or a pauper?" property="og:description"/>
+<meta content="180444840287" property="fb:app_id"/>
+<meta content="Children and teenagers,Children's books: 8-12 years,Teen books,Children's books: 7 and under,Books,Culture,Children's books" name="keywords"/>
+<meta content="Children and teenagers,Children's books: 8-12 years,Teen books,Children's books: 7 and under,Books,Culture,Children's books" name="news_keywords"/>
+<link href="http://static.guim.co.uk/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<meta content="The Guardian" name="application-name"/>
+<meta content="#004983" name="msapplication-TileColor"/>
+<meta content="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/favicons/windows_tile_144_b.png" name="msapplication-TileImage"/>
+<link href="http://gu.com/p/3tzhy" rel="shorturl"/>
+<meta content="/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery" name="content-id"/>
+<link href="https://plus.google.com/113000071431138202574" rel="publisher"/>
+<meta content="summary" name="twitter:card">
+<meta content="@guardian" name="twitter:site">
+<meta content="The Guardian" name="twitter:app:name:iphone">
+<meta content="409128287" name="twitter:app:id:iphone">
+<meta content="The Guardian" name="twitter:app:name:googleplay">
+<meta content="com.guardian" name="twitter:app:id:googleplay">
+<meta content="guardian://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery" name="twitter:app:url:googleplay">
+<meta content="4f4576e6bac27d86fd926c4579b97f23" name="p:domain_verify"/>
+<meta content="be6d97bc1f6961ce6348e7ced4f1f4" name="pocket-site-verification"/>
+<link href="http://feeds.theguardian.com/theguardian/books/rss" rel="alternate" title="Books RSS feed" type="application/rss+xml"/>
+<link href="http://www.theguardian.com/books/booksforchildrenandteenagers/rss" rel="alternate" title="Children and teenagers RSS feed" type="application/rss+xml"/>
+<link href="http://www.theguardian.com/books/childrens-books-8-12-years/rss" rel="alternate" title="Children's books: 8-12 years RSS feed" type="application/rss+xml"/>
+<link href="http://www.theguardian.com/books/teen-books/rss" rel="alternate" title="Teen books RSS feed" type="application/rss+xml"/>
+<link href="http://www.theguardian.com/books/childrens-books-7-and-under/rss" rel="alternate" title="Children's books: 7 and under RSS feed" type="application/rss+xml"/>
+<link href="http://feeds.theguardian.com/theguardian/culture/rss" rel="alternate" title="Culture RSS feed" type="application/rss+xml"/>
+<link href="http://www.theguardian.com/childrens-books-site/rss" rel="alternate" title="Children's books RSS feed" type="application/rss+xml"/>
+<link href="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/styles/grid/content.css" media="all" rel="stylesheet" type="text/css"/>
+<link class="contrast" href="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/zones/culture/styles/zone-accent.css" media="screen" rel="stylesheet" type="text/css"/>
+<link class="contrast" href="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/zones/culture/styles/grid-zone-accent.css" media="screen" rel="stylesheet" type="text/css"/>
+<!--[if lte IE 6]>
+        <link rel="stylesheet" type="text/css" href="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/zones/culture/styles/zone-navigation-ie.css" media="screen" class="contrast" />
+    <![endif]-->
+<!--[if lte IE 9]>
+    	<script src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/external-scripts/html5enable.js"></script>
+    <![endif]-->
+<link href="http://combo.guim.co.uk/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/styles/badge+common/styles/base-typography+common/styles/blogs-calendar+common/styles/content-actions+common/styles/content-share-tools+common/styles/content-type/quiz+common/styles/factbox+common/styles/grid/screen+common/styles/header-local-info+common/styles/larger-picture+common/styles/page-toolbox+common/styles/quiz+common/styles/related-keywords+common/styles/series-component+common/styles/sprites+common/styles/tag-badging+common/styles/top-navigation.css" rel="stylesheet" type="text/css"/>
+<link href="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/styles/shame.css" rel="stylesheet" type="text/css"/>
 
 
-<title>SparkNotes: The Little Prince: Context</title>
-<meta content="A short Antoine de Saint-Exupéry biography describes  Antoine de Saint-Exupéry's life, times, and work. Also explains the historical and literary context that influenced The Little Prince." name="description"/>
-<meta content="Antoine de Saint-Exupéry Biography, Antoine de Saint-Exupéry short biography, Antoine de Saint-Exupéry brief biography, Antoine de Saint-Exupéry life biography, Antoine de Saint-Exupéry death, literary context, historical context, Antoine de Saint-Exupéry The Little Prince" name="keywords"/>
-<link href="http://img.sparknotes.com/images/new_global/new_favicon.ico" rel="shortcut icon"/>
-<link href="http://img.sparknotes.com/css/2013/styles.css" rel="stylesheet"/>
-<link href="http://img.sparknotes.com/css/2013/large-screens.css" rel="stylesheet"/>
-<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE7.css" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE8.css" /><![endif]-->
-<!--[if IE]><link rel="stylesheet" type="text/css" href="http://img.sparknotes.com/css/2013/styleIE.css" /><![endif]-->
 
 
 
 
 
-</head>
-<body class="study-guides blue-background">
-<div id="fb-root"></div>
- 
+
+
+
+
+
+
+
+
+
+
+
+</meta></meta></meta></meta></meta></meta></meta></meta></head>
+<body class="article content-grid content-6-2-4 quiz">
+<div id="wrapper">
+<div id="page-wrapper">
+<div id="header">
+<div id="sub-header">
+<div class="top-navigation twelve-col top-navigation-js">
+<div class="user-functions">
+<div id="video-settings">
+<div class="cookied">
+<p class="on"><a class="autoplay-off" href="#skiplinks">Turn autoplay off</a></p>
+<p class="off"><a class="autoplay-on" href="#skiplinks">Turn autoplay on</a></p>
+</div>
+<div class="not-cookied">
+<p>Please activate cookies in order to turn autoplay off</p>
+</div>
+</div>
+<div id="skiplinks">
+<ul>
+<li><a accesskey="s" href="#box">Jump to content [s]</a></li>
+<li><a accesskey="0" href="#global-nav">Jump to site navigation [0]</a></li>
+<li><a accesskey="4" href="#searchbeta">Jump to search [4]</a></li>
+<li><a accesskey="8" href="http://www.theguardian.com/help/terms-of-service">Terms and conditions [8]</a></li>
+</ul>
+</div>
+<div id="edition-selector">
+<div class="change-to-us" id="drop-down-edition" tabindex="20">
+<h2>Edition:</h2>
+<span class="UK"><a href="http://www.theguardian.com/edition-permission/uk">UK</a></span>
+<span class="US current-edition">US</span>
+<span class="AU"><a href="http://www.theguardian.com/edition-permission/au">AU</a></span>
+</div>
+</div>
+<div class="user-details">
+<div class="drop-down id-profile-links initially-off">
+<h2 class="id-populate-with-display-name"></h2>
+<ul>
+<li><a href="https://id.theguardian.com/profile/?returnUrl=http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery">Your activity</a></li>
+<li><a href="https://id.theguardian.com/email/list?returnUrl=http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery">Email subscriptions</a></li>
+<li><a href="https://id.theguardian.com/dashboard?returnUrl=http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery">Account details</a></li>
+<li><a href="https://id.theguardian.com/linked-services?returnUrl=http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery">Linked services</a></li>
+<li><a href="https://id.theguardian.com/signout?returnUrl=http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery">Sign out</a></li>
+</ul>
+</div>
+<noscript>
+<span><a href="https://id.theguardian.com/dashboard?returnUrl=http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery">Profile</a></span>
+</noscript>
+<span class="id-sign-in-top-nav initially-off"><a></a></span>
+<span class="trackable-component" data-component="ngw-optin" style="background-color:#4bc6df"><a class="switch-to-mobile" data-link-name="Switch to beta" href="/preference/platform/mobile?page=http%3A%2F%2Fwww.theguardian.com%3Fview%3Dmobile%23opt-in-message" rel="nofollow" style="color:white">Beta</a></span>
+</div>
+</div>
+<div class="other-functions">
+</div>
+</div>
+<!-- Beginning Sync AdSlot -->
+
+<div id="dfp-top" style="text-align:center">
+
+</div>
+<!-- End AdSlot -->
+</div>
+<div class="trackable-component" data-component="Quiz:guardian logo" id="guardian-logo">
+<a href="http://www.theguardian.com/us"><img alt="The Guardian home" height="22" src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/logos/the-guardian/culture.gif" width="115"/></a>
+</div>
+<div class="top-search-box">
+<div class="gcse-search">
+<form action="http://www.google.com/search" class="placeholder-search-box">
+<input name="as_sitesearch" type="hidden" value="theguardian.com"/>
+<input id="searchbox" name="q" placeholder="Your search terms" type="text"/>
+<input id="search-button" type="submit" value="Search"/>
+</form>
+</div>
+</div>
+<div id="zones-nav">
+<div class="trackable-component" data-component="Quiz:global nav" id="global-nav">
+<ul>
+<li class="first news">
+<a data-link-name="1:News" href="http://www.guardiannews.com">News</a>
+</li>
+<li class="first news">
+<a data-link-name="2:US" href="http://www.theguardian.com/us/sport">US</a>
+</li>
+<li class="news">
+<a data-link-name="3:World" href="http://www.theguardian.com/world">World</a>
+</li>
+<li class="news">
+<a data-link-name="4:Sports" href="http://www.theguardian.com/us/sport">Sports</a>
+</li>
+<li class="comment">
+<a data-link-name="5:Comment" href="http://www.theguardian.com/us/commentisfree">Comment</a>
+</li>
+<li class="culture">
+<a data-link-name="6:Culture" href="http://www.theguardian.com/culture">Culture</a>
+</li>
+<li class="business">
+<a data-link-name="7:Business" href="http://www.theguardian.com/us/business">Business</a>
+</li>
+<li class="money">
+<a data-link-name="8:Money" href="http://www.theguardian.com/us/money">Money</a>
+</li>
+<li class="environment">
+<a data-link-name="9:Environment" href="http://www.theguardian.com/uk/environment">Environment</a>
+</li>
+<li class="news">
+<a data-link-name="10:Science" href="http://www.theguardian.com/science">Science</a>
+</li>
+<li class="travel">
+<a data-link-name="11:Travel" href="http://www.theguardian.com/travel">Travel</a>
+</li>
+<li class="news">
+<a data-link-name="12:Tech" href="http://www.theguardian.com/uk/technology">Tech</a>
+</li>
+<li class="news">
+<a data-link-name="13:Media" href="http://www.theguardian.com/uk/media">Media</a>
+</li>
+<li class="life-and-style">
+<a data-link-name="14:Life &amp; style" href="http://www.theguardian.com/lifeandstyle">Life &amp; style</a>
+</li>
+<li class="last news">
+<a data-link-name="15:Data" href="http://www.theguardian.com/data">Data</a>
+</li>
+</ul>
+</div>
+<div class="trackable-component crumb-wrapper" data-component="Quiz:crumb nav" xmlns:v="http://rdf.data-vocabulary.org/#">
+<ul class="crumb-nav">
+<li id="crumb1">
+<span typeof="v:Breadcrumb">
+<a data-link-name="Culture" href="http://www.theguardian.com/culture" property="v:title" rel="v:url">Culture</a>
+</span>
+</li>
+<li id="crumb2">
+<span typeof="v:Breadcrumb">
+<a data-link-name="Children's books" href="http://www.theguardian.com/childrens-books-site" property="v:title" rel="v:url">Children's books</a>
+</span>
+</li>
+</ul>
+<ul class="local-nav related-to-crumb2">
+<li class="first">
+<a data-link-name="7 and under" href="http://www.theguardian.com/books/childrens-books-7-and-under">7 and under</a>
+</li>
+<li>
+<a data-link-name="8-12 years" href="http://www.theguardian.com/books/childrens-books-8-12-years">8-12 years</a>
+</li>
+<li>
+<a data-link-name="Teen books" href="http://www.theguardian.com/books/teen-books">Teen books</a>
+</li>
+<li>
+<a data-link-name="FAQs" href="http://www.theguardian.com/books/childrens-books/2011/mar/02/guardian-childrens-books-frequently-asked-questions">FAQs</a>
+</li>
+<li>
+<a data-link-name="Join in!" href="http://www.theguardian.com/books/childrens-books/2011/mar/02/how-do-i-get-involved-guardian-childrens-books">Join in!</a>
+</li>
+<li>
+<a data-link-name="DIY bookmarks" href="http://image.guardian.co.uk/sys-files/Books/documents/2011/03/07/DIY_bookmark.pdf">DIY bookmarks</a>
+</li>
+<li>
+<a data-link-name="Poster" href="http://image.guardian.co.uk/sys-files/Books/documents/2011/03/07/Guardian_childrens_books_A4-2.pdf">Poster</a>
+</li>
+<li class=" last">
+<a data-link-name="Guardian Books" href="http://www.theguardian.com/books">Guardian Books</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-wrapper wrap-8-4">
+<div class="col-8 border">
 <header>
-<link href="http://img.sparknotes.com/css/gigya.css" rel="stylesheet"/>
-<div class="short-light-grey-gradient">
-<div class="clearfix centered-width masthead">
-<div class="col-1-3">
-<div class="utility navigation">
-<div id="placeholder">
+<div class="col-8 edge" id="article-header">
+<div id="badge-medium">
+<h2>
+<a href="http://www.theguardian.com/childrens-books-site">
+<img alt="Children's books badge with stamp" class="image-badge" height="140" src="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/3/8/1299609410628/ChildrensBooks_BKFK_620.gif" width="620"/>
+</a>
+</h2>
+<!-- Beginning Sync AdSlot -->
+
+<div id="dfp-badge" style="position:absolute;top:0;right:0;">
 
 </div>
-										 
-				</div>
+<!-- End AdSlot -->
 </div>
-<div class="col-1-3 center logo">
-<h2 class="is-centered"><a class="logo hide-text" href="http://www.sparknotes.com/">SparkNotes</a></h2>
+<div class="col-6">
+<div id="main-article-info">
+<h1 itemprop="headline ">The Little Prince by Antoine de Saint Exupéry - quiz</h1>
+<p class="stand-first-alone" id="stand-first">Insanely popular, with over a million copies sold every year, The Little Prince is a classic children's story telling the adventures of the boy who fell to earth. On the book's 70th anniversary, and with a new film by Universal pictures recently announced, we thought it was high time we tested your knowledge. Will your score make you look like a prince or a pauper?</p>
 </div>
-<div class="col-1-3 last">
-<navigation>
-<div id="user-links-wrapper">
-<div class="login" id="login-dialog" style="display:none;">
-<form action="https://www.sparknotes.com/login" id="loginform" method="POST">
-<input class="jsClearOnFocus" id="email" name="email" placeholder="email" type="text">
-<input class="jsClearOnFocus" id="password" name="password" type="password" value="password">
-<input checked="checked" id="remember_me" name="remember_me" type="checkbox">
-<label for="remember_me"> Remember me</label>
-<input class="turquoise-gradient" id="login" name="submit" type="submit" value="Log in">
-<input name="uri" type="hidden" value="http://www.sparknotes.com/">
-<input id="referer" name="referer" type="hidden" value="http://www.sparknotes.com/">
-</input></input></input></input></input></input></form>
 </div>
+<div class="col-2 edge">
+<ul class="share-links" id="content-actions">
+<li class="full-line facebook">
+<span class="facebook-share">
+<a class="facebook-share-btn" data-href="http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery" data-link-name="Facebook Share Top" href="https://www.facebook.com/sharer/sharer.php?u=http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery">
+<span class="facebook-share-icon"></span>
+<span class="facebook-share-label">Share</span>
+</a>
+</span>
+</li>
+<li class="full-line" data-link-name="Twitter Top">
+<a class="twitter-share-button" data-counturl="http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery" data-related="gdnchildrensbks" data-text="The Little Prince by Antoine de Saint Exupéry - quiz" data-url="http://gu.com/p/3tzhy/tw" data-via="guardian" href="http://twitter.com/share">Tweet this</a>
+</li>
+<li class="full-line google-plus" data-link-name="Google plus Top">
+<div class="g-plusone" data-callback="trackGPlusTop" data-size="medium"></div>
+</li>
+<li class="full-line linked-in" data-link-name="LinkedIn Top">
 
-
-
-
-
+</li>
+<li class="full-line email" data-link-name="email this story Top">
+<a class="rollover send-email" href="#" title="Send to a friend"><img alt="" class="trail-icon" src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/icon-email.png"/>Email</a>
+</li>
+</ul>
 </div>
-</navigation>
-<div class="ui-widget search small-search">
-<form action="http://www.sparknotes.com/search" class="clearfix search" id="searchform" method="get">
+</div>
+</header>
+<div class="col-6" id="content">
+<ul class="article-attributes trackable-component b4" data-component="Quiz:byline">
+<li class="byline">
+<div class="contributor-full">
+        
+		Charlie Brinkhurst Cuff	</div>
+</li>
+<li class="article-attributes-social-buttons">
+<span class="social-buttons-twitter-contributor trackable-component" data-component="Twitter Follow Journalist"></span>
+<span class="social-buttons-twitter-brand trackable-component" data-component="Twitter Follow Brand"></span>
+</li>
+<li class="publication">
+<a href="http://www.theguardian.com/" itemprop="publisher">theguardian.com</a>,
+				            <time datetime="2013-09-18T06:00EDT" itemprop="datePublished" pubdate="">Wednesday 18 September 2013 06.00 EDT</time>
+</li>
+</ul>
+<img alt="The Little Prince" height="276" src="http://static.guim.co.uk/sys-images/Observer/Columnist/Columnists/2010/7/30/1280526001254/The-Little-Prince-001.jpg" width="460"/>
+<p id="credit">Do you know which planet the little prince is from? Is it bigger than Venus or smaller than France? Photo: PR </p>
+<form class="quiz-questions" method="post">
+<input name="quizId" type="hidden" value="417512686"/>
+<ol class="first">
+<li class="question-container first credit">
+<p class="question">
+<span class="number">1.</span>
+<span class="question-text">What is the second picture in The Little Prince of?</span>
+</p>
+<ol class="question-answers-container">
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75793" name="q-21853" type="radio" value="a-75793"/>
+<label class="quiz-question-answer-text " for="a-75793">A tiger taking tea</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75794" name="q-21853" type="radio" value="a-75794"/>
+<label class="quiz-question-answer-text " for="a-75794">A brown hat</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75795" name="q-21853" type="radio" value="a-75795"/>
+<label class="quiz-question-answer-text " for="a-75795">A boa constrictor digesting an elephant</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75796" name="q-21853" type="radio" value="a-75796"/>
+<label class="quiz-question-answer-text " for="a-75796">A furry mouse reading a newspaper</label>
+</span>
+</li>
+</ol>
+</li>
+<li class="question-container">
+<p class="question">
+<span class="number">2.</span>
+<span class="question-text">How old was the narrator when he decided to give up drawing?</span>
+</p>
+<ol class="question-answers-container">
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75797" name="q-21854" type="radio" value="a-75797"/>
+<label class="quiz-question-answer-text " for="a-75797">6</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75798" name="q-21854" type="radio" value="a-75798"/>
+<label class="quiz-question-answer-text " for="a-75798">16</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75799" name="q-21854" type="radio" value="a-75799"/>
+<label class="quiz-question-answer-text " for="a-75799">60</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75800" name="q-21854" type="radio" value="a-75800"/>
+<label class="quiz-question-answer-text " for="a-75800">100</label>
+</span>
+</li>
+</ol>
+</li>
+<li class="question-container">
+<p class="question">
+<span class="number">3.</span>
+<span class="question-text">Why doesn't the little prince think much of adults?</span>
+</p>
+<ol class="question-answers-container">
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75801" name="q-21855" type="radio" value="a-75801"/>
+<label class="quiz-question-answer-text " for="a-75801">Because adults are show-offs</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75802" name="q-21855" type="radio" value="a-75802"/>
+<label class="quiz-question-answer-text " for="a-75802">Because adults have no imagination</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75803" name="q-21855" type="radio" value="a-75803"/>
+<label class="quiz-question-answer-text " for="a-75803">Because adults are mean</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75804" name="q-21855" type="radio" value="a-75804"/>
+<label class="quiz-question-answer-text " for="a-75804">Because adults think they know everything</label>
+</span>
+</li>
+</ol>
+</li>
+<li class="question-container">
+<p class="question">
+<span class="number">4.</span>
+<span class="question-text">How large is the planet the little prince is from?</span>
+</p>
+<ol class="question-answers-container">
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75805" name="q-21856" type="radio" value="a-75805"/>
+<label class="quiz-question-answer-text " for="a-75805">A little larger than a house</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75806" name="q-21856" type="radio" value="a-75806"/>
+<label class="quiz-question-answer-text " for="a-75806">Much larger than Venus</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75807" name="q-21856" type="radio" value="a-75807"/>
+<label class="quiz-question-answer-text " for="a-75807">The same size as Earth</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75808" name="q-21856" type="radio" value="a-75808"/>
+<label class="quiz-question-answer-text " for="a-75808">A little smaller than France</label>
+</span>
+</li>
+</ol>
+</li>
+<li class="question-container">
+<p class="question">
+<span class="number">5.</span>
+<span class="question-text">Which planet does the narrator think that the little prince is from?</span>
+</p>
+<ol class="question-answers-container">
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75809" name="q-21857" type="radio" value="a-75809"/>
+<label class="quiz-question-answer-text " for="a-75809">Asteroid 325</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75810" name="q-21857" type="radio" value="a-75810"/>
+<label class="quiz-question-answer-text " for="a-75810">Asteroid 312</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75811" name="q-21857" type="radio" value="a-75811"/>
+<label class="quiz-question-answer-text " for="a-75811">Asteroid B-22</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75812" name="q-21857" type="radio" value="a-75812"/>
+<label class="quiz-question-answer-text " for="a-75812">Asteroid B6-12</label>
+</span>
+</li>
+</ol>
+</li>
+<li class="question-container">
+<p class="question">
+<span class="number">6.</span>
+<span class="question-text">Why are baobabs so dangerous?</span>
+</p>
+<ol class="question-answers-container">
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75813" name="q-21858" type="radio" value="a-75813"/>
+<label class="quiz-question-answer-text " for="a-75813">Because they are home to poisonous snakes</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75814" name="q-21858" type="radio" value="a-75814"/>
+<label class="quiz-question-answer-text " for="a-75814">Because they can overtake planets</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75815" name="q-21858" type="radio" value="a-75815"/>
+<label class="quiz-question-answer-text " for="a-75815">Because they eat humans</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75816" name="q-21858" type="radio" value="a-75816"/>
+<label class="quiz-question-answer-text " for="a-75816">They are not dangerous at all</label>
+</span>
+</li>
+</ol>
+</li>
+<li class="question-container">
+<p class="question">
+<span class="number">7.</span>
+<span class="question-text">What angers the little prince when the narrator is attempting to fix his plane in the desert?</span>
+</p>
+<ol class="question-answers-container">
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75817" name="q-21859" type="radio" value="a-75817"/>
+<label class="quiz-question-answer-text " for="a-75817">The narrator drinks the last drop of water</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75818" name="q-21859" type="radio" value="a-75818"/>
+<label class="quiz-question-answer-text " for="a-75818">The narrator refuses to draw him a sheep</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75819" name="q-21859" type="radio" value="a-75819"/>
+<label class="quiz-question-answer-text " for="a-75819">The narrator ignores his questions</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75820" name="q-21859" type="radio" value="a-75820"/>
+<label class="quiz-question-answer-text " for="a-75820">The narrator starts talking like grown-ups</label>
+</span>
+</li>
+</ol>
+</li>
+<li class="question-container">
+<p class="question">
+<span class="number">8.</span>
+<span class="question-text">Who or what is the Rose?</span>
+</p>
+<ol class="question-answers-container">
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75821" name="q-21860" type="radio" value="a-75821"/>
+<label class="quiz-question-answer-text " for="a-75821">A beautiful woman</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75822" name="q-21860" type="radio" value="a-75822"/>
+<label class="quiz-question-answer-text " for="a-75822">The narrator's wife</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75823" name="q-21860" type="radio" value="a-75823"/>
+<label class="quiz-question-answer-text " for="a-75823">A beautiful flower </label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75824" name="q-21860" type="radio" value="a-75824"/>
+<label class="quiz-question-answer-text " for="a-75824">A weed</label>
+</span>
+</li>
+</ol>
+</li>
+<li class="question-container">
+<p class="question">
+<span class="number">9.</span>
+<span class="question-text">When was the Rose born?</span>
+</p>
+<ol class="question-answers-container">
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75825" name="q-21861" type="radio" value="a-75825"/>
+<label class="quiz-question-answer-text " for="a-75825">At the same moment as the sun</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75826" name="q-21861" type="radio" value="a-75826"/>
+<label class="quiz-question-answer-text " for="a-75826">When the little prince watered the ground</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75827" name="q-21861" type="radio" value="a-75827"/>
+<label class="quiz-question-answer-text " for="a-75827">On the day of forty-four sunsets</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75828" name="q-21861" type="radio" value="a-75828"/>
+<label class="quiz-question-answer-text " for="a-75828">When the little prince left his planet</label>
+</span>
+</li>
+</ol>
+</li>
+<li class="question-container">
+<p class="question">
+<span class="number">10.</span>
+<span class="question-text">Where do all roads lead according to the narrator?</span>
+</p>
+<ol class="question-answers-container">
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75829" name="q-21862" type="radio" value="a-75829"/>
+<label class="quiz-question-answer-text " for="a-75829">To the Rose</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75830" name="q-21862" type="radio" value="a-75830"/>
+<label class="quiz-question-answer-text " for="a-75830">To the abodes of men</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75831" name="q-21862" type="radio" value="a-75831"/>
+<label class="quiz-question-answer-text " for="a-75831">To the sun</label>
+</span>
+</li>
+<li class="quiz-question-answer ">
+<span>
+<input class="quiz-question-answer-radio-button" id="a-75832" name="q-21862" type="radio" value="a-75832"/>
+<label class="quiz-question-answer-text " for="a-75832">To death</label>
+</span>
+</li>
+</ol>
+</li>
+</ol>
+<button class="quiz-submit-button" id="submit" type="submit" value="Submit">Submit your answers</button>
+</form>
+</div>
+<div class="col-2 edge">
+<div id="related">
+<ul class="b4 trackable-component left" data-component="Quiz:RHS icon tools" id="article-toolbox-side">
+<li class="printable" data-link-name="icon-print"><a class="printable rollover" href="http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery/print" id="printlink" rel="nofollow" title="Link to a printer-friendly version"><img alt="Print this" class="trail-icon" src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/icon-print.png"/><span>Print this</span></a></li>
+<li data-link-name="icon-share"><a class="rollover send-share" href="http://www.theguardian.com/share/1966593" title="Opens a share this page in a new window"><img alt="" class="trail-icon" src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/icon-share.png"/><span>Share</span></a></li>
+<li data-link-name="icon-contact"><a class="rollover contact-link" href="http://www.theguardian.com/contactus/1966593" title="Displays contact data for guardian.co.uk"><img alt="" class="trail-icon" src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/icon-email-us.png"/><span>Contact us</span></a></li>
+</ul>
+<div class="toolbox-popup trackable-component" data-component="Quiz:send email box" id="send-email-box">
+<div class="send-inner">
+<div class="share-top">
+<h3>Send to a friend</h3>
+<span class="js-show"><a class="close-toolbox" href="#send-email"><img alt="Close this popup" src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/close-popup.png" title="Close this popup"/></a></span>
+</div>
+<div>
+<form id="emailthis" method="post" name="emailthis">
 <fieldset>
-<input class="search_field inner-shadow grey-text" id="search-sparknotes" name="q" placeholder="By keyword" type="text" value=""/>
-<input type="submit" value="Go"/>
-<!--      						<input name="searchbg" value="" class="searchbg" type="hidden" />
-      						
-      						<input name="template" value="default" type="hidden" />
-      						
-      						<input type="hidden" name="output" value="xml_no_dtd" />
-      						
-      						<input type="hidden" name="oe" value="UTF-8"/>
-      						
-      						<input type="hidden" name="ie" value="UTF-8" />
-      						
-      						<input type="hidden" name="client" value="default_frontend" />
-      						
-      						<input type="hidden" name="proxystylesheet" value="default_frontend" />
-      						
-      						<input type="hidden" name="site" value="SparkNotes" /> -->
+<div><label for="from">Sender's name</label></div>
+<input id="from" maxlength="50" name="from" type="text"/>
 </fieldset>
+<fieldset>
+<div><label for="to">Recipient's email address</label></div>
+<input id="to" maxlength="50" name="to" type="text" value=""/>
+</fieldset>
+<div class="inputrow">
+<input class="share-this-tracking" data-link-name="Email" type="submit" value="Send"/>
+</div>
+<p class="ip_logged">Your IP address will be logged</p>
 </form>
 </div>
 </div>
 </div>
+<div class="toolbox-popup trackable-component" data-component="Quiz:share box" id="send-share-box">
+<div class="send-inner">
+<div class="share-top">
+<h3>Share</h3>
+<span class="js-show"><a class="close-toolbox" href="#send-share-box"><img alt="Close this popup" src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/close-popup.png" title="Close this popup"/></a></span>
 </div>
-<!-- Begin comScore Tag -->
+<div class="shortlink">
+				Short link for this page:
+				<a href="http://gu.com/p/3tzhy" rel="shortlink nofollow">http://gu.com/p/3tzhy</a>
+</div>
+<ul class="share-this-tracking">
+<li>
+<a data-link-name="Stumbleupon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.theguardian.com%2Fchildrens-books-site%2Fquiz%2F2013%2Fsep%2F18%2Fquiz-the-little-prince-antoine-de-saint-exupery&amp;title=The+Little+Prince+by+Antoine+de+Saint+Exup%C3%A9ry+-+quiz" name="lid={share}{stumbleupon}">
+<span class="spr-16 stumbleupon"></span>StumbleUpon
+				</a>
+</li>
+<li>
+<a data-link-name="Reddit" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.theguardian.com%2Fchildrens-books-site%2Fquiz%2F2013%2Fsep%2F18%2Fquiz-the-little-prince-antoine-de-saint-exupery&amp;title=The+Little+Prince+by+Antoine+de+Saint+Exup%C3%A9ry+-+quiz" name="lid={share}{reddit}">
+<span class="spr-16 reddit"></span>reddit
+				</a>
+</li>
+<li>
+<a data-link-name="Tumblr" href="http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fwww.theguardian.com%2Fchildrens-books-site%2Fquiz%2F2013%2Fsep%2F18%2Fquiz-the-little-prince-antoine-de-saint-exupery&amp;t=The+Little+Prince+by+Antoine+de+Saint+Exup%C3%A9ry+-+quiz" name="lid={share}{Tumblr}" title="Share on Tumblr">
+<span class="spr-16 tumblr"></span>Tumblr
+				</a>
+</li>
+<li>
+<a data-link-name="Digg" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.theguardian.com%2Fchildrens-books-site%2Fquiz%2F2013%2Fsep%2F18%2Fquiz-the-little-prince-antoine-de-saint-exupery&amp;title=The+Little+Prince+by+Antoine+de+Saint+Exup%C3%A9ry+-+quiz" name="lid={share}{Digg}">
+<span class="spr-16 digg"></span>Digg
+				</a>
+</li>
+<li>
+<a data-link-name="LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.theguardian.com%2Fchildrens-books-site%2Fquiz%2F2013%2Fsep%2F18%2Fquiz-the-little-prince-antoine-de-saint-exupery&amp;title=The+Little+Prince+by+Antoine+de+Saint+Exup%C3%A9ry+-+quiz&amp;source=The%20Guardian" name="lid={share}{LinkedIn}">
+<span class="spr-16 linkedin"></span>LinkedIn
+				</a>
+</li>
+<li>
+<a data-link-name="del.icio.us" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.theguardian.com%2Fchildrens-books-site%2Fquiz%2F2013%2Fsep%2F18%2Fquiz-the-little-prince-antoine-de-saint-exupery&amp;title=The+Little+Prince+by+Antoine+de+Saint+Exup%C3%A9ry+-+quiz" name="lid={share}{del.icio.us}">
+<span class="spr-16 delicious"></span>del.icio.us
+				</a>
+</li>
+<li>
+<a data-link-name="Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.theguardian.com%2Fchildrens-books-site%2Fquiz%2F2013%2Fsep%2F18%2Fquiz-the-little-prince-antoine-de-saint-exupery" name="lid={share}{Facebook}">
+<span class="spr-16 facebook"></span>Facebook
+				</a>
+</li>
+<li>
+<a data-link-name="Twitter" href="http://twitter.com/home?status=The Little Prince by Antoine de Saint Exupéry - quiz - http%3A%2F%2Fgu.com%2Fp%2F3tzhy%2Ftw" name="lid={share}{Twitter}">
+<span class="spr-16 twitter"></span>Twitter
+				</a>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="toolbox-popup" id="contact-link-box">
+<div class="send-inner">
+<div class="share-top">
+<h3>Contact us</h3>
+<span class="js-show"><a class="close-toolbox" href="#contact"><img alt="Close this popup" src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/close-popup.png" title="Close this popup"/></a></span>
+</div>
+<div class="col first">
+<ul>
+<li>
+					                        Report errors or inaccuracies: <a href="mailto:userhelp@theguardian.com">userhelp@theguardian.com</a>
+</li>
+<li>
+											Letters for publication should be sent to: <a href="mailto:guardian.letters@theguardian.com">guardian.letters@theguardian.com</a>
+</li>
+</ul>
+</div>
+<div class="col">
+<ul>
+<li>
+					If you need help using the site: <a href="mailto:userhelp@theguardian.com">userhelp@theguardian.com</a>
+</li>
+<li>
+					Call the main Guardian and Observer switchboard: <br/><span>+44 (0)20 3353 2000</span>
+</li>
+<li>
+<ul>
+<li>
+<a href="http://adinfo-guardian.co.uk/">Advertising guide</a>
+</li>
+<li>
+<a href="http://www.theguardian.com/syndication/">License/buy our content</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="related-keywords trackable-component" data-component="Quiz:related-keywords">
+<h4 class="b4 t6"><a href="http://www.theguardian.com/books">Books</a></h4>
+<ul>
+<li>
+<a href="http://www.theguardian.com/books/booksforchildrenandteenagers" rel="tag">Children and teenagers</a> ·															</li>
+<li>
+<a href="http://www.theguardian.com/books/childrens-books-8-12-years" rel="tag">Children's books: 8-12 years</a> ·															</li>
+<li>
+<a href="http://www.theguardian.com/books/teen-books" rel="tag">Teen books</a> ·															</li>
+<li>
+<a href="http://www.theguardian.com/books/childrens-books-7-and-under" rel="tag">Children's books: 7 and under</a> </li>
+</ul>
+<h4 class="b3 t6"><a href="http://www.theguardian.com/culture">Culture</a></h4>
+<p class="t6 b4"><a href="http://www.theguardian.com/quizzes">More quizzes</a></p>
+</div>
+<div class="factbox-container">
+</div>
+</div>
+</div>
+<div class="col-8 edge">
+<ul class="share-links page-bottom-share-links col-8 b3 trackable-component" data-component="Quiz:bottom share tools">
+<li class="full-line facebook">
+<span class="facebook-share">
+<a class="facebook-share-btn" data-href="http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery" data-link-name="Facebook Share Bottom" href="https://www.facebook.com/sharer/sharer.php?u=http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery">
+<span class="facebook-share-icon"></span>
+<span class="facebook-share-label">Share</span>
+</a>
+</span>
+</li>
+<li class="full-line twitter" data-link-name="twitter Bottom">
+<a class="twitter-share-button" data-count="none" data-counturl="http://www.theguardian.com/childrens-books-site/quiz/2013/sep/18/quiz-the-little-prince-antoine-de-saint-exupery" data-related="gdnchildrensbks" data-text="The Little Prince by Antoine de Saint Exupéry - quiz" data-url="http://gu.com/p/3tzhy/tw" data-via="guardian" href="http://twitter.com/share">Tweet this</a>
+</li>
+<li class="full-line google-plus" data-link-name="Google plus Bottom">
+<div class="g-plusone" data-annotation="none" data-callback="trackGPlusBottom" data-size="tall"></div>
+</li>
+<li class="full-line linked-in" data-link-name="LinkedIn Bottom">
 
-<noscript>
-<img alt="" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035001&amp;cv=2.0&amp;cj=1"/>
+</li>
+<li class="full-line email" data-link-name="email this story Bottom">
+<a class="rollover send-email" href="#" title="Send to a friend"><img alt="" class="trail-icon" src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/icon-email.png"/>Email</a>
+</li>
+</ul>
+<div class="initially-off social-cta-overlay">
+<div id="gh-social-overlay-placeholder">
+<!-- this will be populated by the JS call to the microapp below -->
+</div>
+</div>
+
+</div>
+</div>
+<div class="col-4 edge">
+<div class="four-col edge" id="promo">
+<span class="trackable-component component-wrapper four-col" data-component="Quiz:promo MPU:MPU advert">
+<!-- Beginning Sync AdSlot -->
+
+<div id="dfp-inline1" style="margin-bottom:10px;">
+
+</div>
+<!-- End AdSlot -->
+</span>
+<span class="trackable-component component-wrapper four-col" data-component="Quiz:promo Blog archive:Blog archive calendar">
+<div class="blogs-calendar component">
+<h4 class="t6 b2">Children's books weekly archives</h4>
+<div class="bd" id="calendar-container">
+<table id="calendar" summary="Calendar for September" title="Calendar for September">
+<thead>
+<tr>
+<th colspan="7" scope="col">
+<strong class="month">Sep 2013</strong>
+<a class="previous" href="http://www.theguardian.com/childrens-books-site/2013/aug/26/week" title="Previous month">
+<img alt="Previous" height="18" src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/calendar/arrow_left.png" width="19"/>
+</a>
+<a class="next" href="http://www.theguardian.com/childrens-books-site/2013/oct/07/week" title="Next month">
+<img alt="Next" height="18" src="http://static.guim.co.uk/static/596b0a2ef24b1d0b2b93a73b6623e858ff35c0ca/common/images/calendar/arrow_right.png" width="19"/>
+</a>
+</th>
+</tr>
+<tr class="month-nav">
+<th class="first" scope="col" title="Monday">M</th>
+<th scope="col" title="Tuesday">T</th>
+<th scope="col" title="Wednesday">W</th>
+<th scope="col" title="Thursday">T</th>
+<th scope="col" title="Friday">F</th>
+<th scope="col" title="Saturday">S</th>
+<th class="last" scope="col" title="Sunday">S</th>
+</tr>
+</thead>
+<tbody>
+<tr class=" has-links ">
+<td class="not-this-month first">26</td>
+<td class="not-this-month ">27</td>
+<td class="not-this-month ">28</td>
+<td class="not-this-month ">29</td>
+<td class="not-this-month ">30</td>
+<td class="not-this-month ">31</td>
+<td class="last"><a href="http://www.theguardian.com/childrens-books-site/2013/aug/26/week">1</a></td>
+</tr>
+<tr class=" has-links ">
+<td class="first"><a href="http://www.theguardian.com/childrens-books-site/2013/sep/02/week">2</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/02/week">3</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/02/week">4</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/02/week">5</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/02/week">6</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/02/week">7</a></td>
+<td class="last"><a href="http://www.theguardian.com/childrens-books-site/2013/sep/02/week">8</a></td>
+</tr>
+<tr class=" has-links ">
+<td class="first"><a href="http://www.theguardian.com/childrens-books-site/2013/sep/09/week">9</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/09/week">10</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/09/week">11</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/09/week">12</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/09/week">13</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/09/week">14</a></td>
+<td class="last"><a href="http://www.theguardian.com/childrens-books-site/2013/sep/09/week">15</a></td>
+</tr>
+<tr class=" has-links ">
+<td class="first"><a href="http://www.theguardian.com/childrens-books-site/2013/sep/16/week">16</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/16/week">17</a></td>
+<td><a class="today" href="http://www.theguardian.com/childrens-books-site/2013/sep/16/week">18</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/16/week">19</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/16/week">20</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/16/week">21</a></td>
+<td class="last"><a href="http://www.theguardian.com/childrens-books-site/2013/sep/16/week">22</a></td>
+</tr>
+<tr class=" has-links ">
+<td class="first"><a href="http://www.theguardian.com/childrens-books-site/2013/sep/23/week">23</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/23/week">24</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/23/week">25</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/23/week">26</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/23/week">27</a></td>
+<td><a href="http://www.theguardian.com/childrens-books-site/2013/sep/23/week">28</a></td>
+<td class="last"><a href="http://www.theguardian.com/childrens-books-site/2013/sep/23/week">29</a></td>
+</tr>
+<tr class=" has-links ">
+<td class="first"><a href="http://www.theguardian.com/childrens-books-site/2013/sep/30/week">30</a></td>
+<td class="not-this-month ">1</td>
+<td class="not-this-month ">2</td>
+<td class="not-this-month ">3</td>
+<td class="not-this-month ">4</td>
+<td class="not-this-month ">5</td>
+<td class="not-this-month last">6</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</span>
+<div class="four-col edge" id="promo">
+<span class="trackable-component component-wrapper four-col" data-component="Quiz:promo-bottom Bottom advertiserlinks:Advertiser links for promo slot">
+
+
+<div class="four-col promo-component advertiser-links" id="google-ads-container" style="display: none;"></div>
+
+</span>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-container">
+<div class="culture footer b4" id="footer">
+<ul id="footer-links">
+<li>
+<a class="link-text" href="http://syndication.guardian.co.uk/">License/buy our content</a>
+</li>
+					
+  |     			    				    
+
+																																										
+			
+	
+	
+	
+				
+		<li>
+<a class="link-text" href="http://www.theguardian.com/help/privacy-policy">Privacy policy</a>
+</li>
+					
+  |     			    				    
+
+																																										
+			
+	
+	
+	
+				
+		<li>
+<a class="link-text" href="http://www.theguardian.com/help/terms-of-service">Terms of service</a>
+</li>
+					
+  |     			    				    
+
+																																										
+			
+	
+	
+	
+				
+		<li>
+<a class="link-text" href="http://www.theguardian.com/advertising/guardian-america-advertising-info">US advertising</a>
+</li>
+					
+  |     			    				    
+
+																																										
+			
+	
+	
+	
+				
+		<li>
+<a class="link-text" href="http://www.theguardian.com/index/subjects/a">A - Z index</a>
+</li>
+					
+  |     			    				    
+
+																																										
+			
+	
+	
+	
+				
+		<li>
+<a class="link-text" href="http://www.theguardian.com/info/about-guardian-us">About us</a>
+</li>
+</ul>
+<ul id="copyright-links">
+<li>© 2015 Guardian News and Media Limited or its affiliated companies. All rights reserved.</li>
+</ul>
+</div>
+</div>
+<style type="text/css">
+
+[data-component="ngw-optin"] {
+   display: none !important;
+}
+
+    .launch-message {
+        display: none !important;
+        background-color: #005689;
+        color: #ffffff;
+        padding-left: 10px;
+        font-size: 16px;
+        height: 50px;
+        font-family: georgia,serif;
+        margin-bottom: 6px
+    }
+
+    .launch-message-logo {
+          display: none;
+          float: left;
+          height: 50px;
+          margin-right: 10px;
+          margin-left: -4px;
+    }
+
+    .launch-message-text {
+        display: inline-block;
+        padding-top: 16px;
+    }
+
+    .launch-message a {
+        color: #ffffff;
+    }
+
+    .launch-message .launch-arrow {
+        height: 21px;
+        margin-top: -5px;
+        margin-left: 6px;
+        float: right;
+    }
+
+    .launch-message .launch-button {
+        border: 0.1rem solid rgba(255,255,255,0.3);
+        border-top-color: rgba(255, 255, 255, 0.298039);
+        border-top-style: solid;
+        border-top-width: 0.1rem;
+        border-right-color: rgba(255, 255, 255, 0.298039);
+        border-right-style: solid;
+        border-right-width: 0.1rem;
+        border-bottom-color: rgba(255, 255, 255, 0.298039);
+        border-bottom-style: solid;
+        border-bottom-width: 0.1rem;
+        border-left-color: rgba(255, 255, 255, 0.298039);
+        border-left-style: solid;
+        border-left-width: 0.1rem;
+        -webkit-border-radius: 100rem;
+        border-radius: 100rem;
+        padding: 8px 8px 4px 14px;
+        display: inline-block;
+        margin-top: 7px;
+        margin-left: 10px;
+        font-size: 12px;
+        font-family: arial, sans-serif;
+    }
+
+</style>
+
+
+
+<div class="initially-off ma-placeholder-signin-top-nav"></div>
+
+<div class="initially-off ma-placeholder-signin-overlay"></div>
+
+<div class="initially-off ma-placeholder-facebook-banner"></div>
+
+<div class="initially-off ma-placeholder-cookie-notification"></div>
+
+<div class="initially-off ma-placeholder-identity-location"></div>
+
+
+<div class="initially-off ma-placeholder-identity-cookie-refresh"></div>
+
+
+<style>
+    div.user-comment-trail div.trail-text:before {
+    	content: '';
+        padding-right: 0px;
+    }
+</style>
+
+
+
+
+
+
+
+
+<noscript id="omnitureNoScript">
+<div><img alt="" height="1" src="http://hits.theguardian.com/b/ss/guardiangu-blogs,guardiangu-network/1/H.25.7/16857?ns=guardian&amp;pageName=Culture%3AChildren%27s+books%3AQuiz%3Aquiz-the-little-prince-antoine-de-saint-exupery%3A1966593&amp;ch=Children%27s+books&amp;c3=GU.co.uk&amp;c4=Children%27s+and+teenager%27s+books+%28Children%27s+books+genre%29%2CChildren%27s+books%3A+8-12+years+%28Children%27s+books+genre%29%2CChildren%27s+books%3A+teen+books+%28Children%27s+books+genre%29%2CChildren%27s+books%3A+7+and+under+%28Children%27s+books+genre%29%2CBooks%2CCulture&amp;c5=Unclassified%2CNot+commercially+useful%2CChildrens+Books&amp;c6=&amp;c7=2013%2F09%2F17+04%3A26&amp;c8=1966593&amp;c9=Blog&amp;c10=&amp;c13=&amp;c19=GUS&amp;c25=Childrens+books+%28do+not+use%29&amp;c47=US&amp;c64=UK&amp;c65=The+Little+Prince+by+Antoine+de+Saint+Exup%C3%A9ry+-+quiz&amp;c66=Culture&amp;c67=nextgen-non-compatible&amp;c72=Culture%3AChildren%27s+books&amp;c73=Culture%3AChildren%27s+books&amp;c74=Culture%3AChildren%27s+books&amp;c75=Culture&amp;h2=GU%2FCulture%2FChildren%27s+books%2Fblog%2FChildren%27s+books&amp;c2=GUID:(none)" width="1"/></div>
 </noscript>
-<!-- End comScore Tag -->
-<a class="hide-text hide-text-accessibility" href="#startcontent">Skip over navigation</a>
-<div class="dark-grey-background">
-<div class="clearfix no-columns center centered-width top-nav-container">
-<navigation>
-<ul class="clearfix is-inline is-centered top-nav" id="menu">
-<li id="sparknotes-tab"><a class="semi-bold light-text" href="http://www.sparknotes.com/sparknotes/">SparkNotes</a>
-<div class="clearfix dropdown text-color dropdown-sparknotes dark-drop-shadow">
-<div class="col-1-8">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/"><strong>SparkNotes Main</strong></a></h5></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/"><strong>Video SparkNotes</strong></a></li>
-<li><a href="http://www.sparknotes.com/shakespeare/"><strong>Shakespeare SparkNotes</strong></a></li>
-<li><a href="http://www.sparknotes.com/lit/index_title.html"><strong>Titles A-Z</strong></a></li>
-<li>
-<ul class="clearfix margin-0 alpha">
-<li><a href="http://www.sparknotes.com/lit/index_a.html">A</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_b.html">B</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_c.html">C</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_d.html">D</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_e.html">E</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_f.html">F</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_g.html">G</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_h.html">H</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_i.html">I</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_j.html">J</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_k.html">K</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_l.html">L</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_m.html">M</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_n.html">N</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_o.html">O</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_p.html">P</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_r.html">R</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_s.html">S</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_t.html">T</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_u.html">U</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_v.html">V</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_w.html">W</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_y.html">Y</a></li>
-</ul>
-</li>
-</ul>
-<ul>
-<li><a href="http://www.sparknotes.com/lit/index_author.html"><strong>Authors A-Z</strong></a></li>
-<li>
-<ul class="clearfix margin-0 alpha">
-<li><a href="http://www.sparknotes.com/lit/index_author_a.html">A</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_b.html">B</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_c.html">C</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_d.html">D</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_e.html">E</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_f.html">F</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_g.html">G</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_h.html">H</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_i.html">I</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_j.html">J</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_k.html">K</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_l.html">L</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_m.html">M</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_n.html">N</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_o.html">O</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_p.html">P</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_r.html">R</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_s.html">S</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_t.html">T</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_u.html">U</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_v.html">V</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_w.html">W</a></li>
-<li><a href="http://www.sparknotes.com/lit/index_author_y.html">Y</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Top SparkNotes</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/lit/mocking/">To Kill a Mockingbird</a></li>
-<li><a href="http://www.sparknotes.com/lit/gatsby/">The Great Gatsby</a></li>
-<li><a href="http://www.sparknotes.com/lit/flies/">Lord of the Flies</a></li>
-<li><a href="http://www.sparknotes.com/lit/huckfinn">Adventures of Huck Finn</a></li>
-<li><a href="http://www.sparknotes.com/lit/catcher/">The Catcher in the Rye</a></li>
-<li><a href="http://www.sparknotes.com/lit/1984">1984</a></li>
-<li><a href="http://www.sparknotes.com/lit/451">Fahrenheit 451</a></li>
-<li><a href="http://www.sparknotes.com/lit/scarlet">The Scarlet Letter</a></li>
-<li><a href="http://www.sparknotes.com/lit/grapesofwrath">The Grapes of Wrath</a></li>
-<li><a href="http://www.sparknotes.com/lit/bravenew">Brave New World</a></li>
-<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/"><strong>See all →</strong></a></li>
-</ul>
-</div>
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/video/">Top Video SparkNotes</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/sparknotes/video/1984">1984</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/hamlet">Hamlet</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/romeojuliet">Romeo and Juliet</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/mocking">To Kill A Mockingbird</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/othello">Othello</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/macbeth">Macbeth</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/scarlet">The Scarlet Letter</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/flies">Lord of the Flies</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/frankenstein">Frankenstein</a></li>
-<li><a href="http://www.sparknotes.com/sparknotes/video/gatsby">The Great Gatsby</a></li>
-<li><a class="link-color" href="http://www.sparknotes.com/sparknotes/video/"><strong>See all →</strong></a></li>
-</ul>
-</div>
-<div class="col-1-8 last">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/sparknotes/">Other Subjects</a></h5></li>
-<li><a class="main" href="http://www.sparknotes.com/biology/">Biology</a></li>
-<li><a href="http://www.sparknotes.com/biography/">Biography</a></li>
-<li><a href="http://www.sparknotes.com/chemistry/">Chemistry</a></li>
-<li><a href="http://www.sparknotes.com/cs/">Computer Science</a></li>
-<li><a href="http://www.sparknotes.com/drama/">Drama</a></li>
-<li><a href="http://www.sparknotes.com/economics/">Economics</a></li>
-<li><a href="http://www.sparknotes.com/film/">Film</a></li>
-<li><a href="http://www.sparknotes.com/history/">History</a></li>
-<li><a href="http://www.sparknotes.com/lit/">Literature</a></li>
-<li><a href="http://www.sparknotes.com/math/">Math</a></li>
-<li><a href="http://www.sparknotes.com/philosophy/">Philosophy</a></li>
-<li><a href="http://www.sparknotes.com/physics/">Physics</a></li>
-<li><a href="http://www.sparknotes.com/poetry/">Poetry</a></li>
-<li><a href="http://www.sparknotes.com/psychology/">Psychology</a></li>
-<li><a href="http://www.sparknotes.com/sociology/">Sociology</a></li>
-<li><a href="http://www.sparknotes.com/us-government-and-politics/">U.S. Government</a></li>
-</ul>
-</div>
-</div>
-</li>
-<li id="no-fear"><a class="semi-bold light-text" href="http://nfs.sparknotes.com/">No Fear</a>
-<div class="clearfix dropdown dropdown-no-fear text-color dark-drop-shadow">
-</div>
-</li>
-<li id="test-prep"><a class="semi-bold light-text" href="http://www.sparknotes.com/testprep/">Test Prep</a>
-<div class="clearfix dropdown dropdown-test-prep text-color dark-drop-shadow centered-width">
-<div class="col-1-4">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/">Test Prep Main</a></h5></li>
-<li><a href="http://www.sparknotes.com/testprep/newsat/">SAT</a></li>
-<li><a href="http://www.sparknotes.com/testprep/act/">ACT</a></li>
-<li><a href="http://www.sparknotes.com/testprep/gre/">GRE</a></li>
-</ul>
-</div>
-<div class="col-1-4 last">
-<ul>
-<li><h5><a class="title-link text-color" href="http://www.sparknotes.com/testprep/newsat/">SAT Subject Tests</a></h5></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/biology/">SAT Biology</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/chemistry/">SAT Chemistry</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/history/">SAT History</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/math1c/">SAT Math Level 1</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/math2c/">SAT Math Level 2</a></li>
-<li><a href="http://www.sparknotes.com/testprep/books/sat2/physics/">SAT Physics</a></li>
-</ul>
-</div>
-</div>
-</li>
-<li id="video"><a class="semi-bold light-text" href="http://www.sparknotes.com/video/">Video</a>
-<div class="clearfix dropdown dropdown-video text-color border-dark-grey">
-</div>
-</li>
-<li id="sparklife"><a class="semi-bold light-text" href="http://community.sparknotes.com/">SparkLife</a>
-<div class="clearfix dropdown dropdown-sparklife text-color dark-drop-shadow">
-</div>
-</li>
-<li id="mindhut"><a class="semi-bold light-text" href="http://www.sparknotes.com/mindhut">The Mindhut</a>
-<div class="clearfix dropdown dropdown-mindhut text-color dark-drop-shadow">
-</div>
-</li>
-</ul>
-</navigation>
-</div>
-</div>
-<a class="hide-text hide-text-accessibility" id="startcontent"></a><!-- For accesibility -->
-</header>
-
-<div id="ad-skin-bg">
-<div id="ad-skin-img">
-<div class="inner-content blue-background">
-<div class="center no-columns top-ad">
-<div class="is-centered ad-container">
-
-</div>
-</div>
-<div class="clearfix breadcrumbs">
-<ul class="clearfix is-inline semi-bold">
-<li class="margin-0">
-<a href="http://www.sparknotes.com">Home</a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/sparknotes/">SparkNotes </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/lit/">Literature Study Guides </a> <span class="link-color">→</span> <a href="http://www.sparknotes.com/lit/littleprince/">The Little Prince </a> <span class="link-color">→</span> Context    	</li>
-</ul>
-</div>
-<div class="clearfix interior">
-<div class="col-small-left">
-<div class="light-blue-background border-blue left-menu">
-<h2>Contents</h2>
-<ul>
-<h4 class="semi-bold">General Info</h4>
-<li class="active">Context</li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/summary.html">Plot Overview</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/characters.html">Character List</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/canalysis.html">Analysis of Major Characters</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/themes.html">Themes, Motifs &amp; Symbols</a></li>
-<h4 class="semi-bold">Summary &amp; Analysis</h4><li><a href="http://www.sparknotes.com/lit/littleprince/section1.rhtml">Chapters I–III</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section2.rhtml">Chapters IV–VI</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section3.rhtml">Chapters VII–IX</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section4.rhtml">Chapters X–XII</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section5.rhtml">Chapters XIII–XV</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section6.rhtml">Chapters XVI–XX</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section7.rhtml">Chapters XXI–XXIII</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section8.rhtml">Chapters XXIV–XXV</a></li><li><a href="http://www.sparknotes.com/lit/littleprince/section9.rhtml">Chapters XXVI–XXVII</a></li>
-<h4 class="semi-bold">Study Tools</h4>
-<li><a href="http://www.sparknotes.com/lit/littleprince/quotes.html">Important Quotations Explained</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/facts.html">Key Facts</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/study.html">Study Questions &amp; Essay Topics</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/quiz.html">Quiz</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/bibliography.html">Suggestions for Further Reading</a></li>
-<li><a href="http://www.sparknotes.com/lit/littleprince/citing.html">How to Cite This SparkNote</a></li>
-</ul>
-</div>
-<div id="leftAd">
-
-</div>
-</div>
-<div class="col-mid">
-<div class="white-background border-blue content">
-<h1 class="title padding-btm-0">The Little Prince</h1><h2 class="author">Antoine de Saint-Exupéry</h2>
-<div class="clearfix next-previous center"><a class="left arrow-nav previous text-color" href="http://www.sparknotes.com/lit/littleprince/" title="previous">←</a><div class="next-title text-color is-centered">Context</div><a class="right arrow-nav next text-color" href="http://www.sparknotes.com/lit/littleprince/summary.html" title="next">→</a></div><div class="tooltip dark-grey-background"><h3 class="semi-bold">Table of Contents</h3></div><div class="tooltip dark-grey-background"><h3 class="semi-bold">Plot Overview</h3></div><div class="clearfix">
-<h5 class="right">
-</h5>
-<div style="clear:both;"></div>
-</div>
-<div class="studyGuideText" id="context">
-<p>Born in Lyons, France, in 1900, Antoine
-de Saint-Exupéry considered himself a pilot above all else. For twenty
-years, he flew everything from cartography missions to commercial
-airlines, and flying occupied a significant place in his philosophical
-essays and fantasy writings. The theme of aviation was often Saint-Exupéry’s
-launching point for more abstract discussions on issues like the
-search for wisdom and the meaning of life.</p>
-<div class="floatingad"></div>
-<p>	Saint-Exupéry began writing <i>The Little Prince</i> during
-World War II, after Germany’s invasion of France had forced him
-to give up aviation and flee to New York. In addition to his torturous
-thoughts of the war in Europe, having to leave his homeland and
-no longer being able to fly planes affected Saint-Exupéry deeply.
-The novel’s nostalgia for childhood indicates both Saint-Exupéry’s
-homesick desire to return to France and his hope of returning to
-a time of peace. This wartime stress undoubtedly contributed to
-the sense of urgency in Saint-Exupéry’s message of love and compassion.</p>
-<p>	In its glorification of childlike innocence, <i>The
-Little Prince</i> is also an indictment of the spiritual decay
-Saint-Exupéry perceived in humanity. In 1943,
-he wrote, “For centuries, humanity has been descending an immense
-staircase whose top is hidden in the clouds and whose lowest steps
-are lost in a dark abyss. We could have ascended the staircase;
-instead we chose to descend it. Spiritual decay is terrible. . .
-. There is one problem and only one in the world: to revive in people
-some sense of spiritual meaning. . . .” By celebrating a worldview
-unsullied by the drab restrictions of adulthood, the novel attempts
-to revive a sense of spirituality in the world.</p>
-<p>	Some of the story of <i>The Little Prince</i> uses
-events taken from Saint-Exupéry’s own life. If the novel’s surreal
-fairy tale feels strangely real and personal, this effect is achieved,
-at least in part, by the fact that Saint-Exupéry was drawing from
-his own experiences. In <i>Wind, Sand and Stars,</i> his 1939 account
-of his aviation adventures, he recollects a crash landing he was
-forced to make in the Sahara desert. In his wanderings across the
-desert, Saint-Exupéry had a number of hallucinations, including
-an encounter with a fennec, a type of desert sand fox that bears
-a striking resemblance to the fox depicted in <i>The Little
-Prince</i>.</p>
-<p>Saint-Exupéry may have seen himself in his characters
-of both the narrator and the little prince. Like his narrator, Saint-Exupéry was
-a pilot, crashed in the Sahara, and experienced there a kind of mystical
-revelation. The prince, however, represents aspects of Saint-Exupéry
-as well, and he very definitely embodies Saint-Exupéry’s philosophy
-and aspirations. The prince’s relationship with the rose could be
-a reflection of Saint-Exupéry’s relationship with his wife, and
-the prince is also an explorer and traveler of the skies—it is one
-of the first things that the prince and the narrator share in common.
-Seen in this light, <i>The Little Prince</i> can be read
-as a metaphor of the process of introspection itself, wherein two
-halves of the same person meet and learn from each other.</p>
-<p>Although <i>The Little Prince</i> was undoubtedly
-influenced by the tenor of World War II, Saint-Exupéry aims for
-a general, apolitical analysis of human nature. The prevalence of
-symbols of death and evil in <i>The Little Prince</i> are
-often interpreted as references to Nazi Germany, but the book’s
-universally applicable fairy-tale symbols and the emblems of World
-War II make an awkward match. <i>The Little Prince</i> builds
-on a long tradition of French parables and fantasy literature, most
-notably expressed in Voltaire’s <i>Candide. </i>Like Voltaire,
-Saint-Exupéry urges his readers to participate actively in the reading
-process, using their imaginations to assign deeper meaning to deceptively
-simple prose and poetry. Saint-Exupéry and his novel were certainly
-affected by the historical events of the time, but <i>The Little
-Prince</i> aspires to be a universal and timeless allegory
-about the importance of innocence and love. Indeed, since it was
-first published, <i>The Little Prince</i> has become one
-of the most widely translated books in the history of French literature.</p>
-</div>
-<div class="clearFloats"></div>
-<div class="clearfix">
-<div class="right"> </div>
-<div style="clear:both;"></div>
-</div>
-<!-- psst!  did you know theres no quiz on this page? -->
-</div>
-<div class="white-background border-blue more-help interior">
-<h3>More Help</h3>
-<div class="more-help-interior">
-<ul class="clearfix is-inline" id="more-help-carousel">
-<li class="center">
-<a class="is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634925&amp;prid=1586634925" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/lit_guide_book.jpg">
-</img></a>
-<h5><a class="text-color is-centered" href="http://search.barnesandnoble.com/booksearch/isbninquiry.asp?lkid=J14964984&amp;pubid=K118697&amp;byo=1&amp;ean=1586634925&amp;prid=1586634925" target="_blank">Buy the print The Little Prince SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=2940000053003" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/moreHelp_ebook.png">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=2940000053003" target="_blank">Buy the ebook of this SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=9781411493414" target="_blank">
-<img src="http://img.sparknotes.com/images/more_help/moreHelp_pdf.png">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/the-little-prince-sparknotes-literature-guide-series-antoine-de-saint-exupery/1104532026?ean=9781411493414" target="_blank">Download the PDF of this SparkNote on BN.com</a></h5>
-</li>
-<li class="center">
-<a class="is-centered" href="http://www.barnesandnoble.com/w/little-prince-antoine-de-saint-exupery/1100090265?ean=9780156012195" target="_blank">
-<img src="http://img.sparknotes.com/content/cover/9780156012195.jpg">
-</img></a>
-<h5><a class="text-color is-centered" href="http://www.barnesandnoble.com/w/little-prince-antoine-de-saint-exupery/1100090265?ean=9780156012195" target="_blank">Order The Little Prince at BN.com</a></h5>
-</li>
-</ul>
-<a class="arrow" href="javascript: void(0)" id="carousel_prev">Previous</a>
-<a class="arrow" href="javascript: void(0)" id="carousel_next">Next</a>
-
-</div>
-</div>
-<div class="light-blue-background border-blue content">
-<div class="containerUGC">
-<div class="header clearfix">
-<h2 class="left"><a class="text-color" href="/lit/littleprince/notes">Readers' Notes<br/>
-<span>Most Helpful Readers' Notes (5 total)</span>
-</a></h2>
-<a class="right semi-bold blue-block-link" href="javascript:void(0);" onclick="addNoteInternal('littleprince', 'lit')">Add a note   →</a>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/994">Small error</a></h6>
-<h3>by <a class="semi-bold" href="/account/SpenseBasse">SpenseBasse</a>, December 11, 2013</h3>
-<p class="noteExcerpt"><p>For the character description of the little prince, it states he identified the narrator's drawing of a boa eating a snake.  It was, however, a drawing of a boa eating an elephant.  Just wanted to note this to avoid confusion</p>
-</p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/994"><span class="commentIcon"></span>0 Comments</a></p>
-<p class="right">
-<strong>3</strong> out of 
-	<strong>3</strong> people found this helpful
-    	</p>
-</div>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/1186">Baobabs</a></h6>
-<h3>by <a class="semi-bold" href="/account/monkey_munchkin">monkey_munchkin</a>, February 18, 2014</h3>
-<p class="noteExcerpt"><p>The baobabs could also be symbolic for negative feelings that a person has towards themselves or someone or something else. If these "ugly" feelings are not uprooted, they manifest an individual's mind.</p>
-</p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/1186"><span class="commentIcon"></span>1 Comments</a></p>
-<p class="right">
-<strong>1</strong> out of 
-	<strong>1</strong> people found this helpful
-    	</p>
-</div>
-</div>
-<div class="white-background noteContainer border-light-blue clearfix">
-<h6 class="margin-0"><a class="text-color semi-bold" href="/lit/littleprince/notes/1189">Climax</a></h6>
-<h3>by <a class="semi-bold" href="/account/krazykenz02">krazykenz02</a>, February 19, 2014</h3>
-<p class="noteExcerpt"><p>The climax is way off. The climax is when the little prince meets the snake on the old wall.</p>
-</p>
-<div class="clearfix">
-<p class="left">
-<a class="text-color border-0" href="/lit/littleprince/notes/1189"><span class="commentIcon"></span>0 Comments</a></p>
-<p class="right">
-<strong>1</strong> out of 
-	<strong>2</strong> people found this helpful
-    	</p>
-</div>
-</div>
-<h5 class="center"><a href="/lit/littleprince/notes">See all 5 readers' notes   →</a></h5>
-</div>
-</div>
-</div>
-<div class="col-1-3 last">
-<div class="border-blue white-background lit-guides-social">
-<h3>Follow Us</h3>
-<div class="fb-like" data-href="https://www.facebook.com/SPARKNOTES" data-send="false" data-show-faces="true" data-width="270"></div>
-<a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/SparkNotes">Follow @SparkNotes</a>
-
-</div><div class="white-background border-blue blog-feature">
-<h3 class="sparklife-logo-home"><a class="hide-text" href="http://community.sparknotes.com/">SparkLife</a></h3>
-<h2>Take a Study Break!</h2>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaygift15study.gif	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/this-valentines-day-treat-yo-self-to-our-spectacular-gift-guide">Things we want more than a date this V Day</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/benbarnesstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/exclusive-we-interview-ben-barnes-about-the-seventh-son-boggarts-studying-harry-potter-and-being-apprentice-to-jeff-bridges">Ben Barnes spoke to us and revealed his secret nerdy habit (it's a WHOPPER!)</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/vdaycustomstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/06/delivery-we-have-valentines-day-cards-just-for-you-butts">We made Valentines for everyone who thinks love is just a shout into the void but yells anyway</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/horscrstudy.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/04/calling-all-wizards-andor-sparklers-what-would-your-horcrux-be">We want to know: what would YOUR horcrux be?</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/litval15study.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/05/you-havent-been-truly-hit-on-until-youve-read-these-valentines-cards-by-literary-heroes">The best imaginary Valentines you could hope for...</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media ">
-<a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why"><img class="fixed-media" src="http://img.sparknotes.com/content/sparklife/sparktalk/tv2015study.jpg	"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://community.sparknotes.com/2015/02/03/the-tv-premieres-were-suh-jazzed-about-and-why">Get out your sitting pants, these awesome TV shows are back SOON!</a></h4>
-</div>
-</div>
-<h3 class="geekOut border-top-blue"><a class="hide-text" href="http://www.sparknotes.com/mindhut">The MindHut</a></h3>
-<h2>Take a Study Break!</h2>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/grosssodaz0_Slidemhthumbcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/09/the-sparkitors-review-the-worlds-grossest-candy-soda-edition">The Sparkitors review GROSS SODAS</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/lyriczzznewthumbnewlyrcsz.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/pop-lyrics-illustrated-with-science">Pop lyrics explained by SCIENCE!</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/OldTechBigMoney2_Slidemhcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/30/obsolete-tech-thats-worth-big-bucks-today">You'll never believe how much this computer is worth</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/docwhomtsdocseussmhcar.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/02/02/doctor-who-star-wars-and-more-get-artistic-dr-seuss-makeovers">Doctor Who meets Dr. Seuss</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/WeirdAnimalPoops0_Slidethumbzzz.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/28/fourteen-fascinatingly-poop-tastic-facts-about-animal-poop">This post is 100% about weird animal poop</a></h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media mindhut">
-<a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help"><img class="fixed-media" src=" http://img.sparknotes.com/content/sparklife/sparktalk/couldanotsuckkkked.jpg"/></a>
-<div class="media-text">
-<h4 class="semi-bold"><a href="http://www.sparknotes.com/mindhut/2015/01/22/what-we-would-change-if-we-rebooted-these-recent-sci-fi-and-fantasy-flops-that-could-be-great-with-a-little-help">The Last Airbender could have rocked if they'd just done THIS</a></h4>
-</div>
-</div>
-</div>
-<!-- todo: include GlobalTemplatePlugin/modules/project_templates/templates/_bookBlogPosts.php here -->
-<div class="light-grey-white-background border-blue padding-15 margin-btm-30">
-<h3 class="bnBookBlog">
-<a class="hide-text" href="http://www.barnesandnoble.com/blog/">From the B&amp;N; Book Blog</a>
-</h3>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1C0XZ91"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AlexCrow_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1C0XZ91">7 Totally Weird, Totally Awesome YA Novels</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1vqrLVr"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_AAnarrators_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1vqrLVr">8 Great YA Novels with African American Narrators</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1zxaolZ"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_GroundhogDay_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1zxaolZ">5 Time-Looping Tales Perfect for Groundhog Day</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1LEwN5z"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_readermultitasking_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1LEwN5z">Dos and Dont’s of Multitasking While Reading</a> </h4>
-</div>
-</div>
-<div class="clearfix media sidebar-media">
-<a href="">
-<a class="fixed-media" href="http://bit.ly/1BPyJA6"><img src="http://img.sparknotes.com/content/sparklife/sparktalk/thumbnail_litladyjan27_LargeWide.jpg"/></a>
-</a>
-<div class="media-text">
-<h4 class="semi-bold">
-<a href="http://bit.ly/1BPyJA6">How to Get Your Parents to Read Your Favorite Book</a> </h4>
-</div>
-</div>
-</div>
-<div class="center">
-<div class="is-centered border-grey">
 
 
-</div>
-</div>
-</div>
-</div>
 
-</div>
-<footer>
-<div class="dark-grey-background">
-<div class="clearfix center centered-width footer">
-<h6 class="semi-bold">When your books and teachers don't make sense, we do.</h6>
-<navigation>
-<ul class="clearfix is-inline is-centered semi-bold">
-<li class="first"><a href="http://www.sparknotes.com/contact/">Contact Us</a></li>
-<li><a href="http://www.sparknotes.com/legal/">Legal</a></li>
-<li><a href="http://www.sparknotes.com/about/">About</a></li>
-<li><a href="http://www.sparknotes.com/sitemap/">Sitemap</a></li>
-<li><a href="http://www.sparknotes.com/mobile-apps/">Mobile Apps</a></li>
-<li><a href="http://www.sparknotes.com/advertisers/">Advertise</a></li>
-<li><a class="hide-text small-facebook" href="http://www.facebook.com/SPARKNOTES">Facebook</a></li>
-<li><a class="hide-text small-twitter" href="https://twitter.com/SparkNotes">Twitter</a></li>
-</ul>
-<p class="is-centered">SparkNotes is brought to you by <a href="http://www.barnesandnoble.com/">B&amp;N</a>. Visit B&amp;N to buy and rent <a href="http://www.barnesandnoble.com/textbooks/index.asp">textbooks</a>, and check out our award-winning tablets and ereaders, including <a href="http://www.barnesandnoble.com/u/samsung-galaxy-tab-4-nook-tablet/379004262">Samsung Galaxy Tab 4 NOOK</a> and <a href="http://www.barnesandnoble.com/u/nook-glowlight-ereader/379004122">NOOK GlowLight</a>.</p>
-</navigation>
-<p class="is-centered small">© 2015 <a class="light-grey" href="http://www.sparknotes.com/">SparkNotes LLC</a>, All Rights Reserved</p>
-</div>
-</div>
-</footer>
+
+
 <!-- START Nielsen Online SiteCensus V6.0 -->
 <!-- COPYRIGHT 2010 Nielsen Online -->
+<span id="n-analytics-placeholder"></span>
 
 <noscript>
 <div>
-<img alt="" height="1" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704167h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1"/>
+<img alt="" height="1" src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-305078h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1"/>
 </div>
 </noscript>
 <!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- BEGIN Krux Control Tag for "Guardian R2" -->
+<!-- Source: /snippet/controltag?confid=Jd8GXPAn&site=Guardian%20R2&edit=1 -->
+
+<!-- END Krux Controltag -->
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+
+
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/971225648/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
 </div>
+</noscript>
 
 
-
-
+</div>
 </div>
 </body>
 </html>

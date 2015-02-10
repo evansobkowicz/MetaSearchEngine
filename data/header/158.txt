@@ -1,9 +1,0 @@
-Title: Lolita, by Vladimir Nabokov - The Atlantic
-Cache-Control: max-age=180
-Content-Type: text/html; charset=UTF-8
-Date: Mon, 09 Feb 2015 20:44:20 GMT
-Server: TheAtlantic Web Server
-Vary: Accept-Encoding
-Transfer-Encoding: chunked
-Connection: close
-
