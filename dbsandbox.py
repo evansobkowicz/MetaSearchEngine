@@ -1,3 +1,5 @@
+# Testing Code to Print out DB Tables
+
 import sqlite3 as lite
 
 conn = lite.connect('data/cache.db')

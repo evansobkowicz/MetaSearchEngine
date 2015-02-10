@@ -1,4 +1,6 @@
 # MetaSearchEngine
 COMP 490 Project
 
-- Run main.py
+Files for Lab:
+- main.py
+- spider.py
