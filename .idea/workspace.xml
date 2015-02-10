@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fe8256d-102a-48a9-955c-5e2a4cfc45cb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache.db" afterPath="$PROJECT_DIR$/data/cache.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider.py" afterPath="$PROJECT_DIR$/spider.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbsandbox.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MetaSearchEngine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,7 +17,8 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/MetaSearchEngine$main.coverage" NAME="main Coverage Results" MODIFIED="1423525133054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MetaSearchEngine$main.coverage" NAME="main Coverage Results" MODIFIED="1423526643078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MetaSearchEngine$dbsandbox.coverage" NAME="dbsandbox Coverage Results" MODIFIED="1423526927944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -41,12 +42,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spider.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5743243" vertical-offset="120" max-vertical-offset="975">
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="975">
               <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbsandbox.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dbsandbox.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5743243" vertical-offset="0" max-vertical-offset="444">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <folding>
+                <marker date="1423526926000" expanded="true" signature="116:134" placeholder="SELECT * FRO..Item..." />
+                <marker date="1423526926000" expanded="true" signature="227:250" placeholder="SELECT * FRO..CachedURL..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebDB.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebDB.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2835" max-vertical-offset="3450">
+              <caret line="22" column="60" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="60" />
+              <folding>
+                <marker date="1423501176000" expanded="true" signature="627:896" placeholder="CREATE TABLE..IF..." />
+                <marker date="1423501176000" expanded="true" signature="955:1177" placeholder="CREATE TABLE..IF..." />
+                <marker date="1423501176000" expanded="true" signature="1216:1430" placeholder="CREATE TABLE..IF..." />
+                <marker date="1423501176000" expanded="true" signature="2339:2378" placeholder="SELECT id FR..CachedURL..." />
+                <marker date="1423501176000" expanded="true" signature="2922:2973" placeholder="SELECT url, ..CachedURL..." />
+                <marker date="1423501176000" expanded="true" signature="3390:3439" placeholder="SELECT id FR..Item..." />
+                <marker date="1423501176000" expanded="true" signature="3880:3931" placeholder="SELECT id FR..UrlToItem..." />
+                <marker date="1423501176000" expanded="true" signature="4555:4586" placeholder="DELETE FROM ..." />
+                <marker date="1423501176000" expanded="true" signature="5110:5195" placeholder="INSERT INTO ..." />
+                <marker date="1423501176000" expanded="true" signature="5727:5797" placeholder="INSERT INTO ..." />
+                <marker date="1423501176000" expanded="true" signature="6280:6354" placeholder="INSERT INTO ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,6 +97,7 @@
       <list>
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/spider.py" />
+        <option value="$PROJECT_DIR$/dbsandbox.py" />
       </list>
     </option>
   </component>
@@ -127,7 +164,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.dbsandbox">
     <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,6 +179,26 @@
       <module name="MetaSearchEngine" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dbsandbox" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MetaSearchEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dbsandbox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -330,12 +387,14 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dbsandbox" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.dbsandbox" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -409,9 +468,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5743243" vertical-offset="120" max-vertical-offset="975">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="975">
           <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="3450">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="60" />
+          <folding>
+            <marker date="1423501176000" expanded="true" signature="627:896" placeholder="CREATE TABLE..IF..." />
+            <marker date="1423501176000" expanded="true" signature="955:1177" placeholder="CREATE TABLE..IF..." />
+            <marker date="1423501176000" expanded="true" signature="1216:1430" placeholder="CREATE TABLE..IF..." />
+            <marker date="1423501176000" expanded="true" signature="2339:2378" placeholder="SELECT id FR..CachedURL..." />
+            <marker date="1423501176000" expanded="true" signature="2922:2973" placeholder="SELECT url, ..CachedURL..." />
+            <marker date="1423501176000" expanded="true" signature="3390:3439" placeholder="SELECT id FR..Item..." />
+            <marker date="1423501176000" expanded="true" signature="3880:3931" placeholder="SELECT id FR..UrlToItem..." />
+            <marker date="1423501176000" expanded="true" signature="4555:4586" placeholder="DELETE FROM ..." />
+            <marker date="1423501176000" expanded="true" signature="5110:5195" placeholder="INSERT INTO ..." />
+            <marker date="1423501176000" expanded="true" signature="5727:5797" placeholder="INSERT INTO ..." />
+            <marker date="1423501176000" expanded="true" signature="6280:6354" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbsandbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5743243" vertical-offset="0" max-vertical-offset="444">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <marker date="1423526926000" expanded="true" signature="116:134" placeholder="SELECT * FRO..Item..." />
+            <marker date="1423526926000" expanded="true" signature="227:250" placeholder="SELECT * FRO..CachedURL..." />
+          </folding>
         </state>
       </provider>
     </entry>
