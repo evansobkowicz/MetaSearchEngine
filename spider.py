@@ -36,11 +36,11 @@ class Spider:
         else:
             body = ""
 
-        # Process text: Tokenize, Unique Terms, Lowercase Terms, Stemmed Terms
+        # Process text: Tokenize, --not--Unique Terms, Lowercase Terms, Stemmed Terms
         tokens = word_tokenize(body)
-        terms = self.get_terms(tokens)
-        lower_terms = self.get_terms(self.lower(terms))
-        stem_terms = self.get_terms(self.stem(lower_terms))
+        # terms = self.get_terms(tokens)
+        lower_terms = self.lower(tokens)
+        stem_terms = self.stem(lower_terms)
 
         # Return data for main
         return title, response.info(), stem_terms, str(soup), self.doctype(response.info())

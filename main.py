@@ -104,7 +104,7 @@ def main():
                         # Successful Spider response
                         page_title = db._quote(response[0])
                         headers = "Title: " + page_title + "\n" + str(response[1])
-                        terms = response[2] # These are stemmed!
+                        terms = response[2] # These are stemmed! (not unique)
                         html = response[3]
                         doc_type = response[4]
 
