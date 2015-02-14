@@ -1,13 +1,98 @@
 from indexer import *
+from WebDB import *
+
+db = WebDB("data/cache.db")
+
+def generate_index():
+    i = Indexer()
+    return i.index()
+
+
+def get_input():
+    print_options()
+    option = input("Please type a number (1-6): ")
+    first = input("Please enter first word: ")
+    second = input("Please enter second word: ")
+    return int(option), first, second
+
+
+def print_options():
+    print(" ")
+    print("Command Options:")
+    print("1) Token query")
+    print("2) AND query")
+    print("3) OR query")
+    print("4) Phrase query")
+    print("5) Near query")
+    print("6) QUIT")
+
+
+def print_welcome():
+    print(" ")
+    print("Welcome to Evan's Boolean Search Engine!")
+    print(" ")
+
+
+def print_result(count, id):
+    url, docType, title = db.lookupCachedURL_byID(id)
+    print(str(count) + ".\t", title)
+    print("\t", url)
+    print("\t", "type" + ": " + "item")
+
+
+def token_query(first, second):
+    return 0
+
+
+def and_query(first, second):
+    return 0
+
+
+def or_query(first, second):
+    return 0
+
+
+def phrase_query(first, second):
+    return 0
+
+
+def near_query(first, second):
+    return 0
+
+
 
 def main():
-    i = Indexer()
-    index = i.index()
+    index = generate_index()
+    query_type = 0
+    print_welcome()
+    while query_type != 6:
+        query_type, first_word, second_word = get_input()
+        if query_type == 1:
+            results = token_query(first_word, second_word)
+        elif query_type == 2:
+            results = and_query(first_word, second_word)
+        elif query_type == 3:
+            results = or_query(first_word, second_word)
+        elif query_type == 4:
+            results = phrase_query(first_word, second_word)
+        elif query_type == 5:
+            results = near_query(first_word, second_word)
+        else:
+            print("See you next time!")
+            break
 
-    for k, v in index.items():
-        print(k, ':', v)
+        print(query_type, first_word, second_word)
+        print("Results:")
+        count = 1
+        for result in results:
+            print_result(count, result)
+            count += 1
 
 
+
+    # PRINT INDEX
+    # for k, v in index.items():
+    #     print(k, ':', v)
 
 
 
