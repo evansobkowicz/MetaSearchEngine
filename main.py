@@ -82,6 +82,12 @@ def main():
             # Add the item to the database
             item_id = db.insertItem(db._quote(item), type)
 
+            # Check to see if we already have enough URLs
+            num_urls = db.numURLToItem(item_id)
+            if num_urls >= 8:
+                print("SKIPPING: Already have", str(num_urls), "urls for", item, ".\n")
+                continue
+
             # Use Search Engine to find N=10 relevant URLs
             # For each URL
             for url in search(str(item), stop=google_results, pause=0.5):
@@ -94,7 +100,14 @@ def main():
                 else:
 
                     # Download, Parse, & Cache Each Website
-                    response = spider.fetch(url)
+                    try:
+                      response = spider.fetch(url)
+                    except TimeoutError:
+                      print ("Skipping URL: timeout error")
+                      continue
+                    except ConnectionResetError:
+                      print ("Skipping URL: Connection Reset Error")
+                      continue
 
                     # Process the Spider's response
                     if response == -1:

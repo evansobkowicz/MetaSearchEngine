@@ -237,6 +237,22 @@ class WebDB(object):
         res = self.execute(sql)
         return self.cur.lastrowid
 
+    def numURLToItem(self, itemID):
+        """
+        Returns a urlToItem.id for the row
+        matching name and itemType in the Item table.
+        If there is no match, returns an None.
+        """
+        sql = "SELECT count(*) FROM UrlToItem WHERE itemID=%d"\
+              % (itemID)
+        res = self.execute(sql)
+        reslist = res.fetchall()
+        if reslist == []:
+            return None
+        else:
+            return reslist[0][0]
+
+
 if __name__=='__main__':
     db = WebDB('test.db')
     urlID  = db.insertCachedURL("http://jimi.ithaca.edu/", "text/html", "JimiLab :: Ithaca College")
