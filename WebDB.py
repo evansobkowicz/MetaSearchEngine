@@ -103,6 +103,30 @@ class WebDB(object):
         else:
             return reslist[0]
 
+
+    def lookupItem_ByURLID(self, url_id):
+        """
+        Returns an item from url id.
+
+        """
+        sql = "SELECT itemID FROM URLToItem WHERE urlID=%d"\
+              % (url_id)
+        res = self.execute(sql)
+        reslist = res.fetchall()
+        if reslist == []:
+            return None
+        else:
+            item_id = reslist[0][0]
+            sql2 = "SELECT name, type FROM Item WHERE id='%d'"\
+                   % (item_id)
+            res2 = self.execute(sql2)
+            reslist2 = res2.fetchall()
+            if reslist2 == []:
+                return None
+            else:
+                return reslist2[0]
+
+
     def lookupItem(self, name, itemType):
         """
         Returns a Item ID for the row

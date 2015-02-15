@@ -33,11 +33,10 @@ def print_welcome():
 
 def print_result(count, id):
     url, docType, title = db.lookupCachedURL_byID(id)
+    item, type = db.lookupItem_ByURLID(id)
     print(str(count) + ".\t", title)
     print("\t", url)
-    print("\t", "type" + ": " + "item")
-
-
+    print("\t", type + ": " + item)
 
 
 
