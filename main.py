@@ -85,7 +85,7 @@ def main():
             # Check to see if we already have enough URLs
             num_urls = db.numURLToItem(item_id)
             if num_urls >= 8:
-                print("SKIPPING: Already have", str(num_urls), "urls for", item, ".\n")
+                print("\tSKIPPING: Already have", str(num_urls), "urls for", item, ".\n")
                 continue
 
             # Use Search Engine to find N=10 relevant URLs
