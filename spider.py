@@ -37,7 +37,7 @@ class Spider:
             body = ""
 
         # Process text: Tokenize, --not--Unique Terms, Lowercase Terms, Stemmed Terms
-        tokens = word_tokenize(body)
+        tokens = self.tokenize(body)
         # terms = self.get_terms(tokens)
         lower_terms = self.lower(tokens)
         stem_terms = self.stem(lower_terms)
@@ -64,6 +64,9 @@ class Spider:
             return match.group(1)
         except:
             return None
+
+    def tokenize(self, string):
+        return word_tokenize(string)
 
     # Lowercase a list of tokens
     def lower(self, tokens):
