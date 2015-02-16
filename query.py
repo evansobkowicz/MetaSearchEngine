@@ -1,3 +1,6 @@
+# COMP 490 - Lab 3
+# Evan Sobkowicz
+
 from indexer import *
 
 class Query:

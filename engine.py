@@ -1,3 +1,6 @@
+# COMP 490 - Lab 3
+# Evan Sobkowicz
+
 from WebDB import *
 from query import *
 from spider import *
