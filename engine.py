@@ -39,6 +39,8 @@ def print_options():
 
 def print_welcome():
     print(" ")
+    print(" ")
+    print(" ")
     print("Welcome to Evan's Boolean Search Engine!")
     print(" ")
 
@@ -69,6 +71,7 @@ def process_term(term):
 
 
 def main():
+    print("Loading...")
     q = Query()
     query_type = 0
     print_welcome()

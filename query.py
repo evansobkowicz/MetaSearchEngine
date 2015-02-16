@@ -44,6 +44,14 @@ class Query:
     def phrase_query(self, first, second):
         results = list()
         # TODO
+        '''
+        if term1 in index and term2 in index:
+            doc ids = in both -> term1_doc_ids, term2_doc_ids
+            doc ids if position1 is within 1 of position 2
+        ^^this is probably wrong
+
+
+        '''
         return results
 
 
