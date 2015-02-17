@@ -5,11 +5,13 @@ from indexer import *
 
 class Query:
 
+    # Initializer - generate the index
     def __init__(self):
         i = Indexer()
         self.index = i.index()
 
 
+    # Token Query
     def token_query(self, term):
         results = list()
         if term in list(self.index.keys()):
@@ -17,6 +19,7 @@ class Query:
         return results
 
 
+    # AND Query
     def and_query(self, first, second):
         results = list()
         first_ids = self.token_query(first)
@@ -27,12 +30,14 @@ class Query:
         return results
 
 
+    # OR Query
     def or_query(self, first, second):
         first_ids = self.token_query(first)
         second_ids = self.token_query(second)
         return first_ids + second_ids
 
 
+    # Phrase Query
     def phrase_query(self, first, second):
         results = list()
         matches = list()
@@ -48,6 +53,7 @@ class Query:
         return results
 
 
+    # Near Query
     def near_query(self, first, second, distance):
         results = list()
         matches = list()

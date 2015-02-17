@@ -7,34 +7,39 @@ import pickle
 
 class Indexer:
 
-    # the_index = { term : { document_id : [position] } }
-    the_index = dict()
+    # Initializers
+    the_index = dict()          # Index Structure: the_index = { term : { document_id : [position] } }
+    regenerate_index = False     # Change this to use pickle file or regenerate index
 
-
+    # Index Generator (or load from file)
     def index(self):
-        self.load_index()
-        if type(self.the_index) == dict:
+        if self.regenerate_index:
+            path = 'data/clean/'
+            for subdir, dirs, files in os.walk(path):
+                for file in files:
+                    file_name, file_extension = os.path.splitext(file)
+                    file_path = path + file_name + file_extension
+                    if file_extension == '.txt':
+                        terms = self.read_file(file_path)
+                        self.process_terms(int(file_name), terms)
+            self.save_index()
             return self.the_index
-        path = 'data/clean/'
-        for subdir, dirs, files in os.walk(path):
-            for file in files:
-                file_name, file_extension = os.path.splitext(file)
-                file_path = path + file_name + file_extension
-                if file_extension == '.txt':
-                    terms = self.read_file(file_path)
-                    self.process_terms(int(file_name), terms)
-        self.save_index()
-        return self.the_index
+        else:
+            self.load_index()
+            return self.the_index
 
 
+    # Save the index to a pickle file
     def save_index(self):
         pickle.dump(self.the_index, open("data/index.p", "wb"))
 
 
+    # Load the index from the pickle file
     def load_index(self):
         self.the_index = pickle.load(open("data/index.p", "rb"))
 
 
+    # Read lines from file
     def read_file(self, file):
         results = list()
         f = open(file, "r", encoding='utf-8')
@@ -46,6 +51,7 @@ class Indexer:
         return results
 
 
+    # Add terms to index
     def process_terms(self, id, terms):
         position = 0
         for term in terms:
@@ -57,5 +63,3 @@ class Indexer:
             else:
                 self.the_index[term] = { id : [position] }
             position += 1
-
-

@@ -7,10 +7,12 @@ from spider import *
 from collections import Counter
 
 
+# Initializers
 db = WebDB("data/cache.db")
 spider = Spider()
 
 
+# Get and return user input
 def get_input():
     print_options()
     distance = 0
@@ -31,6 +33,7 @@ def get_input():
     return option, first, second, int(distance)
 
 
+# Print Options Menu
 def print_options():
     print(" ")
     print("Command Options:")
@@ -42,14 +45,12 @@ def print_options():
     print("6) QUIT")
 
 
+# Print Welcome Message
 def print_welcome():
-    print(" ")
-    print(" ")
-    print(" ")
-    print("Welcome to Evan's Boolean Search Engine!")
-    print(" ")
+    print("\n\n\nWelcome to Evan's Boolean Search Engine!\n")
 
 
+# Print Search Results Heading
 def print_results_heading(type, term1, term2):
     print(" ")
     print("---------------------------------------------------------------------------------")
@@ -58,6 +59,7 @@ def print_results_heading(type, term1, term2):
     print(" ")
 
 
+# Print A Result
 def print_result(count, id):
     url, docType, title = db.lookupCachedURL_byID(id)
     item, type = db.lookupItem_ByURLID(id)
@@ -71,26 +73,25 @@ def print_result(count, id):
     return item
 
 
+# Print Statistics
 def print_stats(count, items):
     words_to_count = (term for term in items if term[:1].isupper())
     c = Counter(words_to_count)
-    print(" ")
-    print("----------------------------------------------------------")
-    print(" ")
+    print("\n----------------------------------------------------------\n")
     print(count-1, "Results Found.")
     print("Most Frequent Items:")
     for term, num in c.most_common(3):
         print("\t" + term + ": " + str(num))
-    print(" ")
-    print("----------------------------------------------------------")
-    print(" ")
+    print("\n----------------------------------------------------------\n")
 
 
+# Lowercase and Stem an Individual Term
 def process_term(term):
     term_list = [term]
     return spider.stem(spider.lower(term_list))[0]
 
 
+# Main Search Engine Class
 def main():
     print("Loading...")
     q = Query()
