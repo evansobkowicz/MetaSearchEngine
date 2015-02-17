@@ -3,13 +3,18 @@
 
 import os
 import string
+import pickle
 
 class Indexer:
 
     # the_index = { term : { document_id : [position] } }
     the_index = dict()
 
+
     def index(self):
+        self.load_index()
+        if type(self.the_index) == dict:
+            return self.the_index
         path = 'data/clean/'
         for subdir, dirs, files in os.walk(path):
             for file in files:
@@ -18,8 +23,16 @@ class Indexer:
                 if file_extension == '.txt':
                     terms = self.read_file(file_path)
                     self.process_terms(int(file_name), terms)
+        self.save_index()
         return self.the_index
 
+
+    def save_index(self):
+        pickle.dump(self.the_index, open("data/index.p", "wb"))
+
+
+    def load_index(self):
+        self.the_index = pickle.load(open("data/index.p", "rb"))
 
 
     def read_file(self, file):

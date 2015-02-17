@@ -4,9 +4,12 @@
 from WebDB import *
 from query import *
 from spider import *
+from collections import Counter
+
 
 db = WebDB("data/cache.db")
 spider = Spider()
+
 
 def get_input():
     print_options()
@@ -63,6 +66,22 @@ def print_result(count, id):
     print("\t\t", url)
     print("\t\t", type + ": " + item)
     print(" ")
+    return item
+
+
+def print_stats(count, items):
+    words_to_count = (term for term in items if term[:1].isupper())
+    c = Counter(words_to_count)
+    print(" ")
+    print("----------------------------------------------------------")
+    print(" ")
+    print(count-1, "Results Found.")
+    print("Most Frequent Items:")
+    for term, num in c.most_common(3):
+        print("\t" + term + ": " + str(num))
+    print(" ")
+    print("----------------------------------------------------------")
+    print(" ")
 
 
 def process_term(term):
@@ -103,9 +122,12 @@ def main():
             print("***\tNo results found.\t***")
         else:
             count = 1
+            items = list()
             for result in results:
-                print_result(count, result)
+                item = print_result(count, result)
+                items.append(item)
                 count += 1
+            print_stats(count, items)
 
 
 main()

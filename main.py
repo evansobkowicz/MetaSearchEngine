@@ -90,7 +90,10 @@ def main():
 
             # Use Search Engine to find N=10 relevant URLs
             # For each URL
+            url_count = 0
             for url in search(str(item), stop=google_results, pause=0.5):
+                if url_count > 9:
+                    break
 
                 print("\t " + url)
 
@@ -133,6 +136,7 @@ def main():
                         # Status
                         print('\t\t Added Successfully!')
                         count += 1
+                        url_count += 1
 
     # Print the number of processed URLs
     print("Processed " + str(count) + " URLs.")

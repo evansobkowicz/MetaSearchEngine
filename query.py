@@ -43,15 +43,16 @@ class Query:
 
     def phrase_query(self, first, second):
         results = list()
-        # TODO
-        '''
-        if term1 in index and term2 in index:
-            doc ids = in both -> term1_doc_ids, term2_doc_ids
-            doc ids if position1 is within 1 of position 2
-        ^^this is probably wrong
-
-
-        '''
+        matches = list()
+        and_results = self.and_query(first, second)
+        for id in and_results:
+            for position in self.index[first][id]:
+                for position2 in self.index[second][id]:
+                    if position == (position2 - 1):
+                        matches.append(id)
+        for id in matches:
+            if id not in results:
+                results.append(id)
         return results
 
 
