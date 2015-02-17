@@ -19,25 +19,17 @@ class Query:
 
     def and_query(self, first, second):
         results = list()
-        first_ids = list()
-        second_ids = list()
-        if first in list(self.index.keys()):
-            first_ids = list(self.index[first].keys())
-        if second in list(self.index.keys()):
-            second_ids = list(self.index[second].keys())
-        for fid in first_ids:
-            if fid in second_ids:
-                results.append(fid)
+        first_ids = self.token_query(first)
+        second_ids = self.token_query(second)
+        for id in first_ids:
+            if id in second_ids:
+                results.append(id)
         return results
 
 
     def or_query(self, first, second):
-        first_ids = list()
-        second_ids = list()
-        if first in list(self.index.keys()):
-            first_ids = list(self.index[first].keys())
-        if second in list(self.index.keys()):
-            second_ids = list(self.index[second].keys())
+        first_ids = self.token_query(first)
+        second_ids = self.token_query(second)
         return first_ids + second_ids
 
 
@@ -56,7 +48,16 @@ class Query:
         return results
 
 
-    def near_query(self, first, second):
+    def near_query(self, first, second, distance):
         results = list()
-        # TODO
+        matches = list()
+        and_results = self.and_query(first, second)
+        for id in and_results:
+            for position in self.index[first][id]:
+                for position2 in self.index[second][id]:
+                    if (position - position2) <= distance:
+                        matches.append(id)
+        for id in matches:
+            if id not in results:
+                results.append(id)
         return results

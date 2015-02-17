@@ -13,20 +13,22 @@ spider = Spider()
 
 def get_input():
     print_options()
+    distance = 0
+    second = ""
     option_str = input("Please type a number (1-6): ")
     try:
         option = int(option_str)
     except:
         print("ERROR: Not a number!")
-        return 6, "", ""
+        return 6, "", "", 0
     if option == 6:
         return option, "", ""
     first = input("Please enter first word: ")
     if option != 1:
         second = input("Please enter second word: ")
-    else:
-        second = ""
-    return option, first, second
+    if option == 5:
+        distance = input("Word Distance (integer): ")
+    return option, first, second, int(distance)
 
 
 def print_options():
@@ -95,7 +97,7 @@ def main():
     query_type = 0
     print_welcome()
     while query_type != 6:
-        query_type, first_word, second_word = get_input()
+        query_type, first_word, second_word, distance = get_input()
         first_term = process_term(first_word)
         second_term = process_term(second_word)
         if query_type == 1:
@@ -112,7 +114,7 @@ def main():
             results = q.phrase_query(first_term, second_term)
         elif query_type == 5:
             query_type_string = "Near Query"
-            results = q.near_query(first_term, second_term)
+            results = q.near_query(first_term, second_term, distance)
         else:
             print("See you next time!")
             break
