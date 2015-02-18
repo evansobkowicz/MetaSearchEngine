@@ -1,6 +1,5 @@
 # MetaSearchEngine
-COMP 490 Project
-Evan Sobkowicz
+COMP 490 Project  |  Evan Sobkowicz
 
 ### Files to Run:
 
