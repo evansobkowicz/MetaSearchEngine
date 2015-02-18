@@ -24,7 +24,7 @@ def get_input():
         print("ERROR: Not a number!")
         return 6, "", "", 0
     if option == 6:
-        return option, "", ""
+        return option, "", "", 0
     first = input("Please enter first word: ")
     if option != 1:
         second = input("Please enter second word: ")
