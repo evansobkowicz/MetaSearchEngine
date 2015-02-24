@@ -253,6 +253,16 @@ class WebDB(object):
             return reslist[0][0]
 
 
+    def totalURLs(self):
+        sql = "SELECT COUNT(*) FROM CachedURL"
+        res = self.execute(sql)
+        reslist = res.fetchall()
+        if reslist == []:
+            return None
+        else:
+            return reslist[0][0]
+
+
 if __name__=='__main__':
     db = WebDB('test.db')
     urlID  = db.insertCachedURL("http://jimi.ithaca.edu/", "text/html", "JimiLab :: Ithaca College")

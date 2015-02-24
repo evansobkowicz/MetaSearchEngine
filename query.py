@@ -9,7 +9,9 @@ class Query:
     def __init__(self):
         i = Indexer()
         self.index = i.index()
-
+        i.generate_df_index()
+        i.normalize_scores()
+        i.assign_weights()
 
     # Token Query
     def token_query(self, term):

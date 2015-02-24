@@ -2,7 +2,6 @@ import math
 
 class Calc:
 
-
     # Calculate Inverse Document Frequency (log(DF total/DF))
     def idf(self, df, total):
         return math.log10(total/df)
