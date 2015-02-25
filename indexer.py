@@ -6,7 +6,6 @@ import string
 import math
 import pickle
 from WebDB import *
-import calc
 
 
 class Indexer:
@@ -18,7 +17,6 @@ class Indexer:
     regenerate_index = False        # Change this to use pickle file or regenerate index
     db = WebDB("data/cache.db")     # Connect to the database
     total_docs = db.totalURLs()     # Get total documents (URLs)
-    calc = calc.Calc()              # Initialize calculations object
 
     # Index Generator (or load from file)
     def index(self):
@@ -72,7 +70,7 @@ class Indexer:
         for term in self.the_index:
             idf = self.df_index[term]
             for doc_id in self.the_index[term]:
-                self.norm_index[doc_id] = self.calc.log_tf(len(self.the_index[term][doc_id])) * idf
+                self.norm_index[doc_id] = (1 + math.log10(len(self.the_index[term][doc_id]))) * idf
         print(self.norm_index)
 
     # Set Weight Magnitudes
@@ -98,7 +96,7 @@ class Indexer:
     # Generate Document Frequency Index
     def generate_df_index(self):
         for term in self.the_index:
-            self.df_index[term] = self.calc.idf(len(self.the_index[term]), self.total_docs)
+            self.df_index[term] = math.log10(self.total_docs/len(self.the_index[term]))
 
 
     # Add terms to index
@@ -115,7 +113,7 @@ class Indexer:
             position += 1
 
 
-
+    # Helper method to print out the entire index
     def print_index(self):
         for term in self.the_index:
             print(term)
