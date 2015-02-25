@@ -26,7 +26,7 @@ class Query:
 
      '''
 
-    
+
 
 
     # Token Query

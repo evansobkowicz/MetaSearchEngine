@@ -35,16 +35,13 @@ class Indexer:
             self.load_index()
             return self.the_index
 
-
     # Save the index to a pickle file
     def save_index(self):
         pickle.dump(self.the_index, open("data/index.p", "wb"))
 
-
     # Load the index from the pickle file
     def load_index(self):
         self.the_index = pickle.load(open("data/index.p", "rb"))
-
 
     # Read lines from file
     def read_file(self, file):
@@ -65,21 +62,20 @@ class Indexer:
     # Done: (pass 3 - loop over all terms and docs in the index) set this
     #   Done: (continued)   as the weight in the position index (ltc): len([term][docID])/sqrt(norm[docID]
 
-
     # Generate Document Frequency Index
     def generate_df_index(self):
         for term in self.the_index:
-            self.df_index[term] = math.log10(self.total_docs/len(self.the_index[term]))
-
+            self.df_index[term] = math.log10(self.total_docs/len(self.the_index[term].keys()))
 
     # Normalization
     def normalize_scores(self):
         for term in self.the_index:
             idf = self.df_index[term]
             for doc_id in self.the_index[term]:
-                self.norm_index[doc_id] = (1 + math.log10(len(self.the_index[term][doc_id]))) * idf
-        print(self.norm_index)
-
+                if doc_id not in list(self.norm_index.keys()):
+                    # If key doesn't exist, create it
+                    self.norm_index[doc_id] = 0
+                self.norm_index[doc_id] += ((1 + math.log10(len(self.the_index[term][doc_id]) - 1)) * idf)
 
     # Set Weight Magnitudes
     def assign_weights(self):
@@ -87,7 +83,6 @@ class Indexer:
             for doc_id in self.the_index[term]:
                 self.the_index[term][doc_id][0] = len(self.the_index[term][doc_id]) / math.sqrt(self.norm_index[doc_id])
         self.print_index()
-
 
     # Add terms to index
     def process_terms(self, id, terms):
@@ -102,12 +97,10 @@ class Indexer:
                 self.the_index[term] = { id : [-1, position] }
             position += 1
 
-
     # Helper method to print out the entire index
     def print_index(self):
         for term in self.the_index:
             print(term)
             for doc_id in self.the_index[term]:
                 print("\t", doc_id, "\t---\t", self.the_index[term][doc_id][0])
-                for position in self.the_index[term][doc_id]:
-                    print("\t\t", position)
+                print("\t\t", len(self.the_index[term][doc_id]), " positions")
