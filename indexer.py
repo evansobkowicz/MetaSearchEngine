@@ -61,9 +61,16 @@ class Indexer:
     # Done: Add -1 or some weight as the first item in the position list
     # Done: Maybe? Add DF Index df['term'] = idf_score
     # Done: Normalization (pass 2 - loop over all terms and docs in the index)
-    #   Done: (continued) norm[docID] = (float) sum over all terms for 1+log(len(index['term'][docID])) * idf[term]
+    #   Done: (continued) norm[docID] = (float) sum over all terms for 1+log(len(index[term][docID])) * idf[term]
     # Done: (pass 3 - loop over all terms and docs in the index) set this
     #   Done: (continued)   as the weight in the position index (ltc): len([term][docID])/sqrt(norm[docID]
+
+
+    # Generate Document Frequency Index
+    def generate_df_index(self):
+        for term in self.the_index:
+            self.df_index[term] = math.log10(self.total_docs/len(self.the_index[term]))
+
 
     # Normalization
     def normalize_scores(self):
@@ -73,30 +80,13 @@ class Indexer:
                 self.norm_index[doc_id] = (1 + math.log10(len(self.the_index[term][doc_id]))) * idf
         print(self.norm_index)
 
+
     # Set Weight Magnitudes
     def assign_weights(self):
         for term in self.the_index:
             for doc_id in self.the_index[term]:
                 self.the_index[term][doc_id][0] = len(self.the_index[term][doc_id]) / math.sqrt(self.norm_index[doc_id])
         self.print_index()
-
-    '''
-     For a query (nnn)...
-     "Honey Badger"
-     1. break into stemmed tokens
-     2. setup score[docID]
-     3. loop over query terms
-            loop over docIDs for term
-                score[docID] += weight (from positional index)
-    4. sort docIDs by score
-    5. print out top 5 docIDs w/score
-
-     '''
-
-    # Generate Document Frequency Index
-    def generate_df_index(self):
-        for term in self.the_index:
-            self.df_index[term] = math.log10(self.total_docs/len(self.the_index[term]))
 
 
     # Add terms to index

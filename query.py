@@ -13,6 +13,22 @@ class Query:
         i.normalize_scores()
         i.assign_weights()
 
+    '''
+     For a query (nnn)...
+     "Honey Badger"
+     1. break into stemmed tokens
+     2. setup score[docID]
+     3. loop over query terms
+            loop over docIDs for term
+                score[docID] += weight (from positional index)
+    4. sort docIDs by score
+    5. print out top 5 docIDs w/score
+
+     '''
+
+    
+
+
     # Token Query
     def token_query(self, term):
         results = list()
