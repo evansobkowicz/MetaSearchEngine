@@ -2,31 +2,36 @@
 # Evan Sobkowicz
 
 from indexer import *
+from spider import *
 
 class Query:
+
+    spider = Spider()   # Initialize Spider
+    score = dict()      # Query Scores. Structure: score = { doc_id : weight accumulation }
 
     # Initializer - generate the index
     def __init__(self):
         i = Indexer()
-        self.index = i.index()
+        i.index()
         i.generate_df_index()
         i.normalize_scores()
         i.assign_weights()
-
-    '''
-     For a query (nnn)...
-     "Honey Badger"
-     1. break into stemmed tokens
-     2. setup score[docID]
-     3. loop over query terms
-            loop over docIDs for term
-                score[docID] += weight (from positional index)
-    4. sort docIDs by score
-    5. print out top 5 docIDs w/score
-
-     '''
+        self.index = i.get_index()
 
 
+    # Scored Query (takes list() of terms)
+    def score_query(self, terms):
+        stemmed = self.spider.stem(self.spider.lower(terms))
+        for term in stemmed:
+            for doc_id in self.index[term]:
+                if doc_id not in list(self.score.keys()):
+                    self.score[doc_id] = 0
+                self.score[doc_id] += self.index[term][doc_id][0]
+        self.score = sorted(self.score.items(), key=lambda x: (-x[1], x[0]))
+        results = list()
+        for i in range(5):
+            results.append(self.score[i][0])
+        return results
 
 
     # Token Query
@@ -39,6 +44,7 @@ class Query:
 
     # AND Query
     def and_query(self, first, second):
+        self.generate_scores([first, second])
         results = list()
         first_ids = self.token_query(first)
         second_ids = self.token_query(second)
@@ -85,3 +91,15 @@ class Query:
             if id not in results:
                 results.append(id)
         return results
+
+
+
+#For a query (nnn)...
+    #"Honey Badger"
+    # 1. break into stemmed tokens
+    # 2. setup score[docID]
+    #  3. loop over query terms
+    #         loop over docIDs for term
+    #             score[docID] += weight (from positional index)
+    # 4. sort docIDs by score
+    # 5. print out top 5 docIDs w/score

@@ -7,7 +7,7 @@ from spider import *
 from collections import Counter
 
 
-# Initializers
+# Initialize
 db = WebDB("data/cache.db")
 spider = Spider()
 

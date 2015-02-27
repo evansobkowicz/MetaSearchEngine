@@ -30,10 +30,12 @@ class Indexer:
                         terms = self.read_file(file_path)
                         self.process_terms(int(file_name), terms)
             self.save_index()
-            return self.the_index
         else:
             self.load_index()
-            return self.the_index
+
+    # Get the Index
+    def get_index(self):
+        return self.the_index
 
     # Save the index to a pickle file
     def save_index(self):
