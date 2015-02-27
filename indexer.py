@@ -1,4 +1,4 @@
-# COMP 490 - Lab 3
+# COMP 490 - Lab 3/4
 # Evan Sobkowicz
 
 import os
@@ -63,6 +63,7 @@ class Indexer:
 
     # Normalization
     def normalize_scores(self):
+        print("Calculating TFIDF weights...")
         for term in self.the_index:
             idf = self.df_index[term]
             for doc_id in self.the_index[term]:

@@ -1,4 +1,4 @@
-# COMP 490 - Lab 3
+# COMP 490 - Lab 3/4
 # Evan Sobkowicz
 
 from indexer import *
@@ -7,7 +7,6 @@ from spider import *
 class Query:
 
     spider = Spider()   # Initialize Spider
-    score = dict()      # Query Scores. Structure: score = { doc_id : weight accumulation }
 
     # Initializer - generate the index
     def __init__(self):
@@ -20,17 +19,19 @@ class Query:
 
 
     # Scored Query (takes list() of terms)
+    # Structure: score = { doc_id : weight accumulation }
     def score_query(self, terms):
+        score = dict()
         stemmed = self.spider.stem(self.spider.lower(terms))
         for term in stemmed:
             for doc_id in self.index[term]:
-                if doc_id not in list(self.score.keys()):
-                    self.score[doc_id] = 0
-                self.score[doc_id] += self.index[term][doc_id][0]
-        self.score = sorted(self.score.items(), key=lambda x: (-x[1], x[0]))
+                if doc_id not in score.keys():
+                    score[doc_id] = 0
+                score[doc_id] += self.index[term][doc_id][0]
+        sorted_scores = sorted(score.items(), key=lambda x: (-x[1], x[0]))
         results = list()
         for i in range(5):
-            results.append(self.score[i][0])
+            results.append(sorted_scores[i][0])
         return results
 
 
