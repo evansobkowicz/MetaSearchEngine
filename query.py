@@ -8,12 +8,12 @@ class Query:
 
     spider = Spider()   # Initialize Spider
 
-    # Initializer - generate the index
+    # Initializer - generate the index and weights
     def __init__(self):
         i = Indexer()
         i.index()
         i.generate_df_index()
-        i.normalize_scores()
+        i.tf_idf()
         i.assign_weights()
         self.index = i.get_index()
 
@@ -21,18 +21,39 @@ class Query:
     # Scored Query (takes list() of terms)
     # Structure: score = { doc_id : weight accumulation }
     def score_query(self, terms):
-        score = dict()
+        scores = dict()
+        query = dict()
         stemmed = self.spider.stem(self.spider.lower(terms))
-        for term in stemmed:
+        for word in stemmed:
+            if word not in query:
+                query[word] = 0
+            query[word] += 1
+        for term in query:
             for doc_id in self.index[term]:
-                if doc_id not in score.keys():
-                    score[doc_id] = 0
-                score[doc_id] += self.index[term][doc_id][0]
-        sorted_scores = sorted(score.items(), key=lambda x: (-x[1], x[0]))
-        results = list()
+                if doc_id not in scores.keys():
+                    scores[doc_id] = 0
+                scores[doc_id] += query[term] * self.index[term][doc_id][0]
+        sorted_scores = sorted(scores.items(), key=lambda x: (-x[1], x[0]))
+        results = dict()
         for i in range(5):
-            results.append(sorted_scores[i][0])
+            results[sorted_scores[i][0]] = sorted_scores[i][1]
         return results
+
+
+    # TODO: TF 1+log... if ltc -- { term : frequency in query }
+
+
+    '''
+    scores = dict()
+    for term in query
+        calculate query[term]
+        for doc_id in index[term]
+            scores[doc_id] += query[term] * index[term][doc_id][0]
+    rank doc_id by score
+    print top N webpages
+    loop docs to find items and accumulate scores?
+    '''
+
 
 
     # Token Query

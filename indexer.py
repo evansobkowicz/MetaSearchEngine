@@ -61,9 +61,9 @@ class Indexer:
         for term in self.the_index:
             self.df_index[term] = math.log10(self.total_docs/len(self.the_index[term].keys()))
 
-    # Normalization
-    def normalize_scores(self):
-        print("Calculating TFIDF weights...")
+    # tf_idf
+    def tf_idf(self):
+        print("Calculating tf-idf weights...")
         for term in self.the_index:
             idf = self.df_index[term]
             for doc_id in self.the_index[term]:
@@ -72,11 +72,18 @@ class Indexer:
                     self.norm_index[doc_id] = 0
                 self.norm_index[doc_id] += ((1 + math.log10(len(self.the_index[term][doc_id]) - 1)) * idf)
 
+
     # Set Weight Magnitudes
     def assign_weights(self):
+        tf_idf_total = dict()
         for term in self.the_index:
             for doc_id in self.the_index[term]:
-                self.the_index[term][doc_id][0] = len(self.the_index[term][doc_id]) / math.sqrt(self.norm_index[doc_id])
+                if term not in list(tf_idf_total.keys()):
+                    tf_idf_total[doc_id] = 0
+                tf_idf_total[doc_id] += math.pow(self.norm_index[doc_id], 2)
+        for term in self.the_index:
+            for doc_id in self.the_index[term]:
+                self.the_index[term][doc_id][0] = self.norm_index[doc_id] / math.sqrt(tf_idf_total[doc_id])
 
     # Add terms to index
     def process_terms(self, id, terms):

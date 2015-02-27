@@ -33,10 +33,10 @@ def print_results_heading(query):
 
 
 # Print A Result
-def print_result(count, id):
+def print_result(count, id, score):
     url, docType, title = db.lookupCachedURL_byID(id)
     item, type = db.lookupItem_ByURLID(id)
-    print(str(count) + ".\t\t", title)
+    print(str(count) + ".\t\t", title, " (" + str(score) + ")")
     print("\t\t", url)
     print("\t\t", type + ": " + item)
     print(" ")
@@ -55,16 +55,26 @@ def print_stats(count, items):
     print("\n----------------------------------------------------------\n")
 
 
+# SMART Notation Variants
+#       l = 1 + log(tf)
+#       t = log(N/df)
+#       c = (cos) = w / sqrt(Sum(w^2))
+def get_variants():
+    document = input("Please enter SMART variant for documents: ")
+    query = input("Please enter SMART variant for queries: ")
+    weight_scheme = input("Query Weighting Scheme: ")
+    return document, query, weight_scheme
+
+
+# TODO: Output scores on result titles and top items (summed from results)
 # Main Search Engine Class
 def main():
     print("Loading...")
     q = Query()
     query = ""
     print_welcome()
-    document_type = input("Please enter SMART variant for documents: ")
-    query_type = input("Please enter SMART variant for queries: ")
+    document_type, query_type, query_weight_scheme = get_variants()
     print("Loading Index...")
-    query_weight_scheme = input("Query Weighting Scheme: ")
     while query != "QUIT":
         query = get_input()
         if query == "QUIT":
@@ -78,8 +88,8 @@ def main():
         else:
             count = 1
             items = list()
-            for result in results:
-                item = print_result(count, result)
+            for result_id, result_score in results.items():
+                item = print_result(count, result_id, result_score)
                 items.append(item)
                 count += 1
             print_stats(count, items)
