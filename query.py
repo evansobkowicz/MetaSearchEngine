@@ -9,7 +9,11 @@ class Query:
     spider = Spider()   # Initialize Spider
 
     # Initializer - generate the index and weights
-    def __init__(self):
+    def __init__(self, document_type, query_type, query_weight_scheme):
+        self.document_type = document_type
+        self.query_type = query_type
+        self.query_weight_scheme = query_weight_scheme
+        # Set Up Index
         i = Indexer()
         i.index()
         i.generate_df_index()
@@ -28,15 +32,23 @@ class Query:
             if word not in query:
                 query[word] = 0
             query[word] += 1
+
+        # do tf-idf and cos norm (if set)
         for term in query:
             for doc_id in self.index[term]:
-                if doc_id not in scores.keys():
+                if doc_id not in list(scores.keys()):
                     scores[doc_id] = 0
+                print(self.index[term][doc_id])
+                print("Index Weight", self.index[term][doc_id][0])
+                print("Query Count", query[term])
                 scores[doc_id] += query[term] * self.index[term][doc_id][0]
         sorted_scores = sorted(scores.items(), key=lambda x: (-x[1], x[0]))
         results = dict()
         for i in range(5):
+            print(sorted_scores[i])
+            print(sorted_scores[i][1])
             results[sorted_scores[i][0]] = sorted_scores[i][1]
+        print(results)
         return results
 
 

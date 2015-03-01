@@ -35,6 +35,7 @@ class Indexer:
 
     # Get the Index
     def get_index(self):
+        print(self.the_index)
         return self.the_index
 
     # Save the index to a pickle file
@@ -81,8 +82,13 @@ class Indexer:
                 if term not in list(tf_idf_total.keys()):
                     tf_idf_total[doc_id] = 0
                 tf_idf_total[doc_id] += math.pow(self.norm_index[doc_id], 2)
+        print(tf_idf_total)
+        print(self.norm_index)
         for term in self.the_index:
             for doc_id in self.the_index[term]:
+                # print("THING---------")
+                # print(self.norm_index[doc_id])
+                # print(math.sqrt(tf_idf_total[doc_id]))
                 self.the_index[term][doc_id][0] = self.norm_index[doc_id] / math.sqrt(tf_idf_total[doc_id])
 
     # Add terms to index
