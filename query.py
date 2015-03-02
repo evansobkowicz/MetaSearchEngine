@@ -16,9 +16,9 @@ class Query:
         # Set Up Index
         i = Indexer()
         i.index()
-        i.generate_df_index()
-        i.tf_idf()
-        i.assign_weights()
+        i.generate_idf_index()
+        i.calculate_tf_idf()
+        i.normalize_weights()
         self.index = i.get_index()
 
 

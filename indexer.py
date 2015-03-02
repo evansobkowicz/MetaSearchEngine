@@ -12,8 +12,8 @@ class Indexer:
 
     # Initialize
     the_index = dict()              # Index Structure: the_index = { term : { document_id : [position] } }
-    df_index = dict()               # Initialize document frequency index. Structure: df_index = { term : idf }
-    norm_index = dict()             # Initialize normalized index. Structure: norm_index = { docID : magnitude }
+    idf_index = dict()              # Initialize document frequency index. Structure: df_index = { term : idf }
+    tf_idf_index = dict()           # Initialize normalized index. Structure: tf_idf_index = { docID : magnitude }
     regenerate_index = False        # Change this to use pickle file or regenerate index
     db = WebDB("data/cache.db")     # Connect to the database
     total_docs = db.totalURLs()     # Get total documents (URLs)
@@ -57,39 +57,36 @@ class Indexer:
         f.close()
         return results
 
-    # Generate Document Frequency Index
-    def generate_df_index(self):
+    # Generate Document Frequency Index (holds idf)
+    def generate_idf_index(self):
+        print("Generating DF Index & Storing IDF Values...")
         for term in self.the_index:
-            self.df_index[term] = math.log10(self.total_docs/len(self.the_index[term].keys()))
+            self.idf_index[term] = math.log10(self.total_docs/len(self.the_index[term].keys()))
 
     # tf_idf
-    def tf_idf(self):
-        print("Calculating tf-idf weights...")
+    def calculate_tf_idf(self):
+        print("Calculating TF-IDF...")
         for term in self.the_index:
-            idf = self.df_index[term]
+            idf = self.idf_index[term]
             for doc_id in self.the_index[term]:
-                if doc_id not in list(self.norm_index.keys()):
+                if doc_id not in list(self.tf_idf_index.keys()):
                     # If key doesn't exist, create it
-                    self.norm_index[doc_id] = 0
-                self.norm_index[doc_id] += ((1 + math.log10(len(self.the_index[term][doc_id]) - 1)) * idf)
-
+                    self.tf_idf_index[doc_id] = 0
+                self.tf_idf_index[doc_id] += ((1 + math.log10(len(self.the_index[term][doc_id]) - 1)) * idf)
 
     # Set Weight Magnitudes
-    def assign_weights(self):
+    def normalize_weights(self):
         tf_idf_total = dict()
         for term in self.the_index:
             for doc_id in self.the_index[term]:
                 if term not in list(tf_idf_total.keys()):
                     tf_idf_total[doc_id] = 0
-                tf_idf_total[doc_id] += math.pow(self.norm_index[doc_id], 2)
-        print(tf_idf_total)
-        print(self.norm_index)
+                tf_idf_total[doc_id] += math.pow(self.tf_idf_index[doc_id], 2)
         for term in self.the_index:
             for doc_id in self.the_index[term]:
-                # print("THING---------")
-                # print(self.norm_index[doc_id])
-                # print(math.sqrt(tf_idf_total[doc_id]))
-                self.the_index[term][doc_id][0] = self.norm_index[doc_id] / math.sqrt(tf_idf_total[doc_id])
+                if self.tf_idf_index[doc_id] / math.sqrt(tf_idf_total[doc_id]) != 1:
+                    print("NOT ONE")
+                self.the_index[term][doc_id][0] = self.tf_idf_index[doc_id] / math.sqrt(tf_idf_total[doc_id])
 
     # Add terms to index
     def process_terms(self, id, terms):
