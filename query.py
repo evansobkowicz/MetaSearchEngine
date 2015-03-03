@@ -16,19 +16,23 @@ class Query:
         self.document_type = document_type
         self.query_type = query_type
         # Set Up Index
-        i = Indexer(document_type)
+        i = Indexer()
         i.index()
-        i.generate_idf_index()
-        i.calculate_tf_idf()
-        i.normalize_weights()
+        if self.document_type == 'ltc':
+            i.generate_idf_index()
+            i.calculate_tf_idf()
+            i.normalize_weights()
+        else:
+            i.calculate_nnn()
         self.index = i.get_index()
 
 
     # Scored Query (takes list() of terms)
-    # Structure: score = { doc_id : weight accumulation }
     def score_query(self, terms):
-        scores = dict()
-        query = dict()
+        scores = dict()         # { doc_id : weight accumulation }
+        query = dict()          # { term : count of appearances in query }
+        query_tf_idf = dict()   # { term : tf-idf }
+        results = dict()        # { doc_id : score * index weight }
         stemmed = self.spider.stem(self.spider.lower(terms))
         for word in stemmed:
             if word not in query:
@@ -36,7 +40,6 @@ class Query:
             query[word] += 1
         if self.query_type == 'ltc':
             # ltc
-            query_tf_idf = dict()
             norm = 0
             for term in query:
                 query_tf_idf[term] = (1 + math.log10(query[term])) * (math.log10(self.total_docs/len(self.index[term])))
@@ -48,30 +51,23 @@ class Query:
             for term in query:
                 scores[term] = (1 + math.log10(query[term]))
         doc_ids = self.get_doc_ids(stemmed)
-        results = dict()
-        print("HERE", self.index['world'])
-        for id in doc_ids:
+        for doc_id in doc_ids:
             for term in scores:
-                print(term)
-                if id not in list(results.keys()):
-                    results[id] = 0
-                results[id] += (scores[term] * self.index[term][id][0])
-                print(results)
+                if doc_id not in list(results.keys()):
+                    results[doc_id] = 0
+                if doc_id in list(self.index[term].keys()):
+                    weight = self.index[term][doc_id][0]
+                else:
+                    weight = 0
+                results[doc_id] += (scores[term] * weight)
         return sorted(results.items(), key=lambda x: (-x[1], x[0]))
 
-
+    # Get all doc ids for each term's token query
     def get_doc_ids(self, terms):
         doc_ids = list()
-        result_ids = list()
         for term in terms:
-            doc_ids.append(self.token_query(term))
-        for i in range(len(doc_ids)):
-            if i < len(doc_ids)-1:
-                for v in doc_ids[i]:
-                    for l in doc_ids:
-                        if v in l and v not in result_ids:
-                            result_ids.append(v)
-        return result_ids
+            doc_ids.extend(self.token_query(term))
+        return list(set(doc_ids))
 
 
     '''

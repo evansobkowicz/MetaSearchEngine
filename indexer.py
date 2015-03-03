@@ -17,9 +17,6 @@ class Indexer:
     db = WebDB("data/cache.db")     # Connect to the database
     total_docs = db.totalURLs()     # Get total documents (URLs)
 
-    def __init__(self, doc_type):
-        self.doc_type = type            # 'ltc' or 'nnn'
-
     # Index Generator (or load from file)
     def index(self):
         if self.regenerate_index:
@@ -81,6 +78,12 @@ class Indexer:
                 tf_idf_total += math.pow(self.the_index[term][doc_id][0], 2)
             for doc_id in self.the_index[term]:
                 self.the_index[term][doc_id][0] = (self.the_index[term][doc_id][0] / math.sqrt(tf_idf_total))
+
+    # nnn Calculations (check math)
+    def calculate_nnn(self):
+        for term in self.the_index:
+            for doc_id in self.the_index[term]:
+                self.the_index[term][doc_id][0] = 1 + math.log10(len(self.the_index[term][doc_id]) - 1)
 
     # Add terms to index
     def process_terms(self, id, terms):
