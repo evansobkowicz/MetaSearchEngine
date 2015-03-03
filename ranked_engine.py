@@ -36,7 +36,7 @@ def print_results_heading(query):
 def print_result(count, id, score):
     url, docType, title = db.lookupCachedURL_byID(id)
     item, type = db.lookupItem_ByURLID(id)
-    print(str(count) + ".\t\t", title, " (" + str(score) + ")")
+    print(str(count) + ".\t\t", title, " (" + str(round(score, 4)) + ")")
     print("\t\t", url)
     print("\t\t", type + ": " + item)
     print(" ")
