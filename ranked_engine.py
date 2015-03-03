@@ -40,40 +40,43 @@ def print_result(count, id, score):
     print("\t\t", url)
     print("\t\t", type + ": " + item)
     print(" ")
-    return item
 
 
 # Print Statistics
-def print_stats(count, items):
+def print_stats(count, items, scores):
     words_to_count = (term for term in items if term[:1].isupper())
     c = Counter(words_to_count)
     print("\n----------------------------------------------------------\n")
     print(count-1, "Results Found.")
     print("Most Frequent Items:")
     for term, num in c.most_common(3):
-        print("\t" + term + ": " + str(num))
+        print("\t" + term + ": " + str(num) + " (Total Score: " + str(round(scores[term], 2)) + ")")
     print("\n----------------------------------------------------------\n")
 
 
-# SMART Notation Variants
-#       l = 1 + log(tf)
-#       t = log(N/df)
-#       c = (cos) = w / sqrt(Sum(w^2))
+# Get SMART Notation Variant Selections From User (use defaults if bad values)
 def get_variants():
-    document = input("Please enter SMART variant for documents: ")
-    query = input("Please enter SMART variant for queries: ")
-    weight_scheme = input("Query Weighting Scheme: ")
-    return document, query, weight_scheme
+    document = input("Please enter SMART variant for documents ('ltc' or 'nnn'): ")
+    query = input("Please enter SMART variant for queries ('ltc' or 'nnn'): ")
+    if document == 'ltc' or document == 'nnn':
+        document_out = document
+    else:
+        document_out = 'ltc'
+    if query == 'ltc' or query == 'nnn':
+        query_out = query
+    else:
+        query_out = 'nnn'
+    print("\nUsing:", document_out + "." + query_out, "\n\n")
+    return document_out, query_out
 
 
-# TODO: Output scores on result titles and top items (summed from results)
 # Main Search Engine Class
 def main():
     print("Loading...")
     query = ""
     print_welcome()
-    document_type, query_type, query_weight_scheme = get_variants()
-    q = Query(document_type, query_type, query_weight_scheme)
+    document_type, query_type = get_variants()
+    q = Query(document_type, query_type)
     print("Loading Index...")
     print("\n\n")
     while query != "QUIT":
@@ -88,12 +91,20 @@ def main():
             print("***\tNo results found.\t***")
         else:
             count = 1
+            total_scores = dict()
             items = list()
-            for result_id, result_score in results.items():
-                item = print_result(count, result_id, result_score)
+            for result in results:
+                # Print N=5 Results for the User
+                if count <= 5:
+                    print_result(count, result[0], result[1])
+                # Accumulate Scores & Stats
+                item, type = db.lookupItem_ByURLID(result[0])
+                if item not in list(total_scores.keys()):
+                    total_scores[item] = 0
+                total_scores[item] += result[1]
                 items.append(item)
                 count += 1
-            print_stats(count, items)
+            print_stats(count, items, total_scores)
 
 
 main()

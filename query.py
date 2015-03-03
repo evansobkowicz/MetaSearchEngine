@@ -9,12 +9,11 @@ class Query:
     spider = Spider()   # Initialize Spider
 
     # Initializer - generate the index and weights
-    def __init__(self, document_type, query_type, query_weight_scheme):
+    def __init__(self, document_type, query_type):
         self.document_type = document_type
         self.query_type = query_type
-        self.query_weight_scheme = query_weight_scheme
         # Set Up Index
-        i = Indexer()
+        i = Indexer(document_type)
         i.index()
         i.generate_idf_index()
         i.calculate_tf_idf()
@@ -38,11 +37,7 @@ class Query:
                 if doc_id not in list(scores.keys()):
                     scores[doc_id] = 0
                 scores[doc_id] += query[term] * self.index[term][doc_id][0]
-        sorted_scores = sorted(scores.items(), key=lambda x: (-x[1], x[0]))
-        results = dict()
-        for i in range(5):
-            results[sorted_scores[i][0]] = sorted_scores[i][1]
-        return results
+        return sorted(scores.items(), key=lambda x: (-x[1], x[0]))
 
 
     # TODO: TF 1+log... if ltc -- { term : frequency in query }

@@ -17,6 +17,9 @@ class Indexer:
     db = WebDB("data/cache.db")     # Connect to the database
     total_docs = db.totalURLs()     # Get total documents (URLs)
 
+    def __init__(self, doc_type):
+        self.doc_type = type            # 'ltc' or 'nnn'
+
     # Index Generator (or load from file)
     def index(self):
         if self.regenerate_index:
