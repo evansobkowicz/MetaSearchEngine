@@ -43,13 +43,12 @@ class Query:
             for term in query:
                 query_tf_idf[term] = (1 + math.log10(query[term])) * (math.log10(self.total_docs/len(self.index[term])))
                 norm += math.pow(query_tf_idf[term], 2)
-            norm = math.sqrt(norm)
             for term in query:
-                scores[term] = query_tf_idf[term] * norm
+                scores[term] = query_tf_idf[term] / math.sqrt(norm)
         else:
             # nnn
             for term in query:
-                scores[term] = (1 + math.log10(query[term]))
+                scores[term] = query[term]
         doc_ids = self.get_doc_ids(stemmed)
         for doc_id in doc_ids:
             for term in scores:

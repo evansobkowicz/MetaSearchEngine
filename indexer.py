@@ -83,7 +83,7 @@ class Indexer:
     def calculate_nnn(self):
         for term in self.the_index:
             for doc_id in self.the_index[term]:
-                self.the_index[term][doc_id][0] = 1 + math.log10(len(self.the_index[term][doc_id]) - 1)
+                self.the_index[term][doc_id][0] = len(self.the_index[term][doc_id]) - 1
 
     # Add terms to index
     def process_terms(self, id, terms):
