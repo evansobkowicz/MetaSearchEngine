@@ -32,23 +32,16 @@ class Query:
             if word not in query:
                 query[word] = 0
             query[word] += 1
-
         # do tf-idf and cos norm (if set)
         for term in query:
             for doc_id in self.index[term]:
                 if doc_id not in list(scores.keys()):
                     scores[doc_id] = 0
-                print(self.index[term][doc_id])
-                print("Index Weight", self.index[term][doc_id][0])
-                print("Query Count", query[term])
                 scores[doc_id] += query[term] * self.index[term][doc_id][0]
         sorted_scores = sorted(scores.items(), key=lambda x: (-x[1], x[0]))
         results = dict()
         for i in range(5):
-            print(sorted_scores[i])
-            print(sorted_scores[i][1])
             results[sorted_scores[i][0]] = sorted_scores[i][1]
-        print(results)
         return results
 
 
@@ -78,7 +71,6 @@ class Query:
 
     # AND Query
     def and_query(self, first, second):
-        self.generate_scores([first, second])
         results = list()
         first_ids = self.token_query(first)
         second_ids = self.token_query(second)

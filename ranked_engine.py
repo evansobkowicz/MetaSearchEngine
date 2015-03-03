@@ -75,6 +75,7 @@ def main():
     document_type, query_type, query_weight_scheme = get_variants()
     q = Query(document_type, query_type, query_weight_scheme)
     print("Loading Index...")
+    print("\n\n")
     while query != "QUIT":
         query = get_input()
         if query == "QUIT":
