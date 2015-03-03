@@ -26,7 +26,6 @@ class Query:
             i.calculate_nnn()
         self.index = i.get_index()
 
-
     # Scored Query (takes list() of terms)
     def score_query(self, terms):
         scores = dict()         # { doc_id : weight accumulation }
@@ -48,6 +47,7 @@ class Query:
             for term in query:
                 scores[term] = query_tf_idf[term] * norm
         else:
+            # nnn
             for term in query:
                 scores[term] = (1 + math.log10(query[term]))
         doc_ids = self.get_doc_ids(stemmed)
@@ -59,6 +59,7 @@ class Query:
                     weight = self.index[term][doc_id][0]
                 else:
                     weight = 0
+                # dot product
                 results[doc_id] += (scores[term] * weight)
         return sorted(results.items(), key=lambda x: (-x[1], x[0]))
 
@@ -69,27 +70,12 @@ class Query:
             doc_ids.extend(self.token_query(term))
         return list(set(doc_ids))
 
-
-    '''
-    scores = dict()
-    for term in query
-        calculate query[term]
-        for doc_id in index[term]
-            scores[doc_id] += query[term] * index[term][doc_id][0]
-    rank doc_id by score
-    print top N webpages
-    loop docs to find items and accumulate scores?
-    '''
-
-
-
     # Token Query
     def token_query(self, term):
         results = list()
         if term in list(self.index.keys()):
             results = list(self.index[term].keys())
         return results
-
 
     # AND Query
     def and_query(self, first, second):
@@ -101,13 +87,11 @@ class Query:
                 results.append(id)
         return results
 
-
     # OR Query
     def or_query(self, first, second):
         first_ids = self.token_query(first)
         second_ids = self.token_query(second)
         return first_ids + second_ids
-
 
     # Phrase Query
     def phrase_query(self, first, second):
@@ -124,7 +108,6 @@ class Query:
                 results.append(id)
         return results
 
-
     # Near Query
     def near_query(self, first, second, distance):
         results = list()
@@ -139,15 +122,3 @@ class Query:
             if id not in results:
                 results.append(id)
         return results
-
-
-
-#For a query (nnn)...
-    #"Honey Badger"
-    # 1. break into stemmed tokens
-    # 2. setup score[docID]
-    #  3. loop over query terms
-    #         loop over docIDs for term
-    #             score[docID] += weight (from positional index)
-    # 4. sort docIDs by score
-    # 5. print out top 5 docIDs w/score

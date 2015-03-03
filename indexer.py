@@ -55,13 +55,13 @@ class Indexer:
         f.close()
         return results
 
-    # Generate Document Frequency Index (holds idf)
+    # (ltc) Generate Document Frequency Index (holds idf)
     def generate_idf_index(self):
         print("Generating DF Index & Storing IDF Values...")
         for term in self.the_index:
             self.idf_index[term] = math.log10(self.total_docs/len(self.the_index[term].keys()))
 
-    # tf_idf
+    # (ltc) tf_idf
     def calculate_tf_idf(self):
         print("Calculating TF-IDF...")
         for term in self.the_index:
@@ -69,7 +69,7 @@ class Indexer:
             for doc_id in self.the_index[term]:
                 self.the_index[term][doc_id][0] = ((1 + math.log10(len(self.the_index[term][doc_id]) - 1)) * idf)
 
-    # Set Weight Magnitudes
+    # (ltc) Set Weight Magnitudes
     def normalize_weights(self):
         print("Normalizing Weights...")
         for term in self.the_index:
@@ -79,7 +79,7 @@ class Indexer:
             for doc_id in self.the_index[term]:
                 self.the_index[term][doc_id][0] = (self.the_index[term][doc_id][0] / math.sqrt(tf_idf_total))
 
-    # nnn Calculations (check math)
+    # (nnn) NNN TF Calculations (check math)
     def calculate_nnn(self):
         for term in self.the_index:
             for doc_id in self.the_index[term]:
@@ -105,12 +105,3 @@ class Indexer:
             for doc_id in self.the_index[term]:
                 print("\t", doc_id, "\t---\t", self.the_index[term][doc_id][0])
                 print("\t\t", len(self.the_index[term][doc_id]), " positions")
-
-
-# Done: Get Total # Documents (query db)
-# Done: Add -1 or some weight as the first item in the position list
-# Done: Maybe? Add DF Index df['term'] = idf_score
-# Done: Normalization (pass 2 - loop over all terms and docs in the index)
-#   Done: (continued) norm[docID] = (float) sum over all terms for 1+log(len(index[term][docID])) * idf[term]
-# Done: (pass 3 - loop over all terms and docs in the index) set this
-#   Done: (continued)   as the weight in the position index (ltc): len([term][docID])/sqrt(norm[docID]
