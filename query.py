@@ -3,10 +3,13 @@
 
 from indexer import *
 from spider import *
+import math
 
 class Query:
 
     spider = Spider()   # Initialize Spider
+    db = WebDB("data/cache.db")     # Connect to the database
+    total_docs = db.totalURLs()     # Get total documents (URLs)
 
     # Initializer - generate the index and weights
     def __init__(self, document_type, query_type):
@@ -31,16 +34,44 @@ class Query:
             if word not in query:
                 query[word] = 0
             query[word] += 1
-        # do tf-idf and cos norm (if set)
-        for term in query:
-            for doc_id in self.index[term]:
-                if doc_id not in list(scores.keys()):
-                    scores[doc_id] = 0
-                scores[doc_id] += query[term] * self.index[term][doc_id][0]
-        return sorted(scores.items(), key=lambda x: (-x[1], x[0]))
+        if self.query_type == 'ltc':
+            # ltc
+            query_tf_idf = dict()
+            norm = 0
+            for term in query:
+                query_tf_idf[term] = (1 + math.log10(query[term])) * (math.log10(self.total_docs/len(self.index[term])))
+                norm += math.pow(query_tf_idf[term], 2)
+            norm = math.sqrt(norm)
+            for term in query:
+                scores[term] = query_tf_idf[term] * norm
+        else:
+            for term in query:
+                scores[term] = (1 + math.log10(query[term]))
+        doc_ids = self.get_doc_ids(stemmed)
+        results = dict()
+        print("HERE", self.index['world'])
+        for id in doc_ids:
+            for term in scores:
+                print(term)
+                if id not in list(results.keys()):
+                    results[id] = 0
+                results[id] += (scores[term] * self.index[term][id][0])
+                print(results)
+        return sorted(results.items(), key=lambda x: (-x[1], x[0]))
 
 
-    # TODO: TF 1+log... if ltc -- { term : frequency in query }
+    def get_doc_ids(self, terms):
+        doc_ids = list()
+        result_ids = list()
+        for term in terms:
+            doc_ids.append(self.token_query(term))
+        for i in range(len(doc_ids)):
+            if i < len(doc_ids)-1:
+                for v in doc_ids[i]:
+                    for l in doc_ids:
+                        if v in l and v not in result_ids:
+                            result_ids.append(v)
+        return result_ids
 
 
     '''
