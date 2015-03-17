@@ -13,19 +13,25 @@ class Evaluator:
     def __init__(self):
         self.db = WebDB("data/cache.db")
         self.spider = Spider()
-        self.p10 = list()
-        self.pR = list()
-        self.MAP = list()
-        self.AUC = list()
 
     # Evaluate the ranked search engine!
     def evaluate(self):
+        print('Evaluating...\n')
+        print('P@10', '\t', 'P@R', '\t', 'MAP', '\t', 'AUC', '\t', )
+        p10 = list()
+        pR = list()
+        MAP = list()
+        AUC = list()
         items = self.get_all_items()
         weightings = ['nnn', 'ltc']
         q = None
         for d_weight in weightings:
             for q_weight in weightings:
                 q = Query(d_weight, q_weight)
+                p10 = []
+                pR = []
+                MAP = []
+                AUC = []
                 for item_type in items.keys():
                     for item in items[item_type]:
                         # Run the query for the item
@@ -38,30 +44,31 @@ class Evaluator:
                         # print(data) # FOR DEBUGGING
 
                         # Precision @ 10
-                        self.p10.append(self.precision_x(10, data))
+                        p10.append(self.precision_x(10, data))
 
                         # Precision @ R
                         r_prec = len(self.db.lookupUrlsForItem(item, item_type)) # Relevant Documents
                         if r_prec > 0:
                             # TODO: Fix pirates item lookup (shouldn't need if statement)
-                            self.pR.append(self.precision_x(r_prec, data))
+                            pR.append(self.precision_x(r_prec, data))
 
                         # Average Precision
-                        self.MAP.append(self.avg_precision(data))
+                        MAP.append(self.avg_precision(data))
 
                         # Area Under Curve
-                        self.AUC.append(self.area_under_curve(data))
+                        AUC.append(self.area_under_curve(data))
 
-        self.display_results()
+                weight_type = d_weight + '.' + q_weight
+                self.display_results(weight_type, p10, pR, MAP, AUC)
 
     # Display Evaluation Results
-    def display_results(self):
-        print('done')
+    def display_results(self, weight, p10, pR, MAP, AUC):
+        print('Evaluating:', weight)
         # TODO: FINISH THIS
-        print(self.p10)
-        print(self.pR)
-        print(self.MAP)
-        print(self.AUC)
+        print(self.avg(p10), '\t', self.avg(pR), '\t', self.avg(MAP), '\t', self.avg(AUC), '\t', )
+
+    def avg(self, nums):
+        return round(sum(nums)/len(nums), 2)
 
     # Create True/False List from doc_ids
     def get_data(self, original_item, result_ids):
