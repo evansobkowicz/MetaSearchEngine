@@ -67,6 +67,7 @@ class Evaluator:
         # TODO: FINISH THIS
         print(self.avg(p10), '\t', self.avg(pR), '\t', self.avg(MAP), '\t', self.avg(AUC), '\t', )
 
+    # Return the rounded average of a list of numbers
     def avg(self, nums):
         return round(sum(nums)/len(nums), 2)
 
