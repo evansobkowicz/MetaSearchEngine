@@ -135,13 +135,30 @@ class WebDB(object):
         If there is no match, returns an None.
         """
         sql = "SELECT id FROM Item WHERE name='%s' AND type='%s'"\
-              % (name, itemType)
+              % (self._quote(name), itemType)
         res = self.execute(sql)
         reslist = res.fetchall()
         if reslist == []:
             return None
         else:
             return reslist[0][0]
+
+    def lookupUrlsForItem(self, name, itemType):
+        """
+        Returns urlIds and urls for item
+        matching name and itemType in the Item table.
+        If there is no match, returns an empty list.
+        """
+        itemId = self.lookupItem(name, itemType)
+        reslist = []
+        results = list()
+        if (itemId):
+            sql = "SELECT urlId FROM UrlToItem WHERE itemId=%d" % itemId
+            res = self.execute(sql)
+            reslist = res.fetchall()
+            for r in reslist:
+                results.append(int(str(r).strip('(),')))
+        return results
             
     def lookupURLToItem(self, urlID, itemID):
         """

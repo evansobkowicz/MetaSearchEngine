@@ -8,24 +8,33 @@ from spider import *
 
 class Evaluator:
 
+    def __init__(self):
+        self.db = WebDB("data/cache.db")
+        self.spider = Spider()
+
+
     def evaluate(self):
         items = self.get_all_items()
         weightings = ['nnn', 'ltc']
+        q = None
         for d_weight in weightings:
-            # TODO: calculate index for all documents
             for q_weight in weightings:
                 q = Query(d_weight, q_weight)
-                for item in items:
-                    print(item)
-                    # TODO: calculate and store AP, R-Precision, Precision@10, AUC for query
+                for item_type in items.keys():
+                    for item in items[item_type]:
+                        tokens = self.spider.tokenize(item)
+                        query_results = q.score_query(tokens, False)                  # list() of doc ids
+                        item_results = self.db.lookupUrlsForItem(item, item_type)     # list() of doc ids
+                        # TODO: calculate and store AP, R-Precision, Precision@10, AUC for query
         # TODO: print out mean of 4 evaluation metrics
 
 
-    # Return a list of all items from files in '/data/item/'
+    # Return a dict of all items and types from files in '/data/item/'
+    #   Structure items = { type : [items] }
     def get_all_items(self):
-        items = list()
+        items = dict()
         for t in self.get_item_types():
-            items.extend(self.get_items_by_type(t))
+            items[t] = self.get_items_by_type(t)
         return items
 
 

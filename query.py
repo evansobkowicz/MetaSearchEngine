@@ -27,7 +27,7 @@ class Query:
         self.index = i.get_index()
 
     # Scored Query (takes list() of terms)
-    def score_query(self, terms):
+    def score_query(self, terms, show_scores=True):
         scores = dict()         # { doc_id : weight accumulation }
         query = dict()          # { term : count of appearances in query }
         query_tf_idf = dict()   # { term : tf-idf }
@@ -60,7 +60,10 @@ class Query:
                     weight = 0
                 # dot product
                 results[doc_id] += (scores[term] * weight)
-        return sorted(results.items(), key=lambda x: (-x[1], x[0]))
+        if show_scores:
+            return sorted(results.items(), key=lambda x: (-x[1], x[0]))
+        else:
+            return list(results.keys())
 
     # Get all doc ids for each term's token query
     def get_doc_ids(self, terms):
