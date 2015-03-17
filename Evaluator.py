@@ -9,11 +9,16 @@ from random import shuffle
 
 class Evaluator:
 
+    # Initialize Result Accumulators, DB, and Spider
     def __init__(self):
         self.db = WebDB("data/cache.db")
         self.spider = Spider()
+        self.p10 = list()
+        self.pR = list()
+        self.MAP = list()
+        self.AUC = list()
 
-    # TODO: Fix pirates item lookup
+    # Evaluate the ranked search engine!
     def evaluate(self):
         items = self.get_all_items()
         weightings = ['nnn', 'ltc']
@@ -23,41 +28,49 @@ class Evaluator:
                 q = Query(d_weight, q_weight)
                 for item_type in items.keys():
                     for item in items[item_type]:
+                        # Run the query for the item
                         tokens = self.spider.tokenize(item)
                         query_results = q.score_query(tokens, False)                  # list() of doc ids
-                        print(item)
+                        # print(item) # FOR DEBUGGING
 
-                        # TODO: REMOVE THIS
-                        # query_items = self.doc_ids_to_items(query_results)
-                        # print(query_items)
-
+                        # Set up the True/False list for evaluation
                         data = self.get_data(item, query_results)
-                        print(data)
+                        # print(data) # FOR DEBUGGING
 
                         # Precision @ 10
-                        print(self.precision_x(10, data))
+                        self.p10.append(self.precision_x(10, data))
 
                         # Precision @ R
-                        r_prec = len(self.db.lookupUrlsForItem(item, item_type))
+                        r_prec = len(self.db.lookupUrlsForItem(item, item_type)) # Relevant Documents
                         if r_prec > 0:
-                            print(self.precision_x(r_prec, data))
+                            # TODO: Fix pirates item lookup (shouldn't need if statement)
+                            self.pR.append(self.precision_x(r_prec, data))
 
                         # Average Precision
-                        print(self.avg_precision(data))
+                        self.MAP.append(self.avg_precision(data))
 
-                        # print(item_results)
-                        # print(query_results)
-                        # TODO: calculate and store AP, R-Precision, Precision@10, AUC for query
-        # TODO: print out mean of 4 evaluation metrics
+                        # Area Under Curve
+                        self.AUC.append(self.area_under_curve(data))
 
+        self.display_results()
 
+    # Display Evaluation Results
+    def display_results(self):
+        print('done')
+        # TODO: FINISH THIS
+        print(self.p10)
+        print(self.pR)
+        print(self.MAP)
+        print(self.AUC)
 
+    # Create True/False List from doc_ids
     def get_data(self, original_item, result_ids):
         total_docs = self.db.totalURLs()
         scores = list()
-        all_ids = self.db.allURLids()
-        remaining_ids = set(all_ids).difference(set(result_ids))
-        result_ids.extend(shuffle(list(remaining_ids)))
+        all_ids = set(self.db.allURLids())
+        remaining_ids = list(all_ids.difference(set(result_ids)))
+        shuffle(remaining_ids)
+        result_ids.extend(remaining_ids)
         for id in result_ids:
             if self.db.lookupItem_ByURLID(id)[0] == original_item:
                 scores.append(True)
@@ -65,9 +78,7 @@ class Evaluator:
                 scores.append(False)
         return scores
 
-
-
-
+    # Calculate Precision @ X
     def precision_x(self, x, data):
         score = 0.0
         for i in range(x):
@@ -75,7 +86,7 @@ class Evaluator:
                 score += 1
         return score/x
 
-
+    # Calculate Mean Average Precision
     def avg_precision(self, data):
         relevant_count = 1
         total_count = 1
@@ -87,29 +98,19 @@ class Evaluator:
                 relevant_count += 1
                 last_relevant_total_count = total_count
             total_count += 1
-        print(total, '/', last_relevant_total_count)
         return total/last_relevant_total_count
 
-
+    # Calculate Area Under Curve
     def area_under_curve(self, data):
+        # TODO: IMPLEMENT THIS!
         return 0
 
-
-
-    def doc_ids_to_items(self, doc_ids):
-        results = list()
-        for id in doc_ids:
-            results.append(self.db.lookupItem_ByURLID(id)[0])
-        return results
-
     # Return a dict of all items and types from files in '/data/item/'
-    #   Structure items = { type : [items] }
     def get_all_items(self):
-        items = dict()
+        items = dict() # items = { type : [items] }
         for t in self.get_item_types():
             items[t] = self.get_items_by_type(t)
         return items
-
 
     # Get item types from file names in item directory
     def get_item_types(self):
@@ -135,6 +136,7 @@ class Evaluator:
 
 
 def main():
+    # Run the evaluation
     e = Evaluator()
     e.evaluate()
 
