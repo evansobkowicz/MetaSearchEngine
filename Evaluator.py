@@ -12,7 +12,7 @@ class Evaluator:
         self.db = WebDB("data/cache.db")
         self.spider = Spider()
 
-
+    # TODO: Fix pirates item lookup
     def evaluate(self):
         items = self.get_all_items()
         weightings = ['nnn', 'ltc']
@@ -25,8 +25,11 @@ class Evaluator:
                         tokens = self.spider.tokenize(item)
                         query_results = q.score_query(tokens, False)                  # list() of doc ids
                         item_results = self.db.lookupUrlsForItem(item, item_type)     # list() of doc ids
+                        print(item_results)
+                        print(query_results)
                         # TODO: calculate and store AP, R-Precision, Precision@10, AUC for query
         # TODO: print out mean of 4 evaluation metrics
+
 
 
     # Return a dict of all items and types from files in '/data/item/'

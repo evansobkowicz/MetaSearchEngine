@@ -60,10 +60,14 @@ class Query:
                     weight = 0
                 # dot product
                 results[doc_id] += (scores[term] * weight)
+        sorted_results = sorted(results.items(), key=lambda x: (-x[1], x[0]))
         if show_scores:
-            return sorted(results.items(), key=lambda x: (-x[1], x[0]))
+            return sorted_results
         else:
-            return list(results.keys())
+            sorted_list = list()
+            for r in sorted_results:
+                sorted_list.append(r[0])
+            return sorted_list
 
     # Get all doc ids for each term's token query
     def get_doc_ids(self, terms):
