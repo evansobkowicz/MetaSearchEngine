@@ -22,9 +22,10 @@ class Evaluator:
         pR = list()
         MAP = list()
         AUC = list()
+        q = None
         items = self.get_all_items()
         weightings = ['nnn', 'ltc']
-        q = None
+        # TODO: IMPLEMENT RANDOM WEIGHTING?
         for d_weight in weightings:
             for q_weight in weightings:
                 q = Query(d_weight, q_weight)
@@ -47,10 +48,10 @@ class Evaluator:
                         p10.append(self.precision_x(10, data))
 
                         # Precision @ R
-                        r_prec = len(self.db.lookupUrlsForItem(item, item_type)) # Relevant Documents
-                        if r_prec > 0:
-                            # TODO: Fix pirates item lookup (shouldn't need if statement)
-                            pR.append(self.precision_x(r_prec, data))
+                        relevant = len(self.db.lookupUrlsForItem(item, item_type)) # Relevant Documents
+                        if relevant > 0:
+                            # TODO: Fix 'pirates' item lookup (shouldn't need if statement)
+                            pR.append(self.precision_x(relevant, data))
 
                         # Average Precision
                         MAP.append(self.avg_precision(data))
@@ -64,7 +65,6 @@ class Evaluator:
     # Display Evaluation Results
     def display_results(self, weight, p10, pR, MAP, AUC):
         print('Evaluating:', weight)
-        # TODO: FINISH THIS
         print(self.avg(p10), '\t', self.avg(pR), '\t', self.avg(MAP), '\t', self.avg(AUC), '\t', )
 
     # Return the rounded average of a list of numbers
@@ -110,8 +110,21 @@ class Evaluator:
 
     # Calculate Area Under Curve
     def area_under_curve(self, data):
-        # TODO: IMPLEMENT THIS!
-        return 0
+        # TODO: CHECK THIS MATH!
+        total = 0.0
+        true_count = 0
+        x = 0.0
+        y = 0.0
+        for i in range(len(data)):
+            if data[i]:
+                true_count += 1
+        false_count = len(data) - true_count
+        for i in range(len(data)):
+            if data[i]:
+                y += (1 / true_count)
+            else:
+                total += ((1 / false_count) * y)
+        return total
 
     # Return a dict of all items and types from files in '/data/item/'
     def get_all_items(self):
