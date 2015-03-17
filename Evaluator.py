@@ -4,6 +4,7 @@
 from WebDB import *
 from query import *
 from spider import *
+from random import shuffle
 
 
 class Evaluator:
@@ -24,13 +25,82 @@ class Evaluator:
                     for item in items[item_type]:
                         tokens = self.spider.tokenize(item)
                         query_results = q.score_query(tokens, False)                  # list() of doc ids
-                        item_results = self.db.lookupUrlsForItem(item, item_type)     # list() of doc ids
-                        print(item_results)
-                        print(query_results)
+                        print(item)
+
+                        # TODO: REMOVE THIS
+                        # query_items = self.doc_ids_to_items(query_results)
+                        # print(query_items)
+
+                        data = self.get_data(item, query_results)
+                        print(data)
+
+                        # Precision @ 10
+                        print(self.precision_x(10, data))
+
+                        # Precision @ R
+                        r_prec = len(self.db.lookupUrlsForItem(item, item_type))
+                        if r_prec > 0:
+                            print(self.precision_x(r_prec, data))
+
+                        # Average Precision
+                        print(self.avg_precision(data))
+
+                        # print(item_results)
+                        # print(query_results)
                         # TODO: calculate and store AP, R-Precision, Precision@10, AUC for query
         # TODO: print out mean of 4 evaluation metrics
 
 
+
+    def get_data(self, original_item, result_ids):
+        total_docs = self.db.totalURLs()
+        scores = list()
+        all_ids = self.db.allURLids()
+        remaining_ids = set(all_ids).difference(set(result_ids))
+        result_ids.extend(shuffle(list(remaining_ids)))
+        for id in result_ids:
+            if self.db.lookupItem_ByURLID(id)[0] == original_item:
+                scores.append(True)
+            else:
+                scores.append(False)
+        return scores
+
+
+
+
+    def precision_x(self, x, data):
+        score = 0.0
+        for i in range(x):
+            if data[i]:
+                score += 1
+        return score/x
+
+
+    def avg_precision(self, data):
+        relevant_count = 1
+        total_count = 1
+        last_relevant_total_count = 1
+        total = 0.0
+        for i in range(len(data)):
+            if data[i]:
+                total += relevant_count/total_count
+                relevant_count += 1
+                last_relevant_total_count = total_count
+            total_count += 1
+        print(total, '/', last_relevant_total_count)
+        return total/last_relevant_total_count
+
+
+    def area_under_curve(self, data):
+        return 0
+
+
+
+    def doc_ids_to_items(self, doc_ids):
+        results = list()
+        for id in doc_ids:
+            results.append(self.db.lookupItem_ByURLID(id)[0])
+        return results
 
     # Return a dict of all items and types from files in '/data/item/'
     #   Structure items = { type : [items] }

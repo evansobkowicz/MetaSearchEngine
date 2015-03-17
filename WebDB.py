@@ -269,7 +269,6 @@ class WebDB(object):
         else:
             return reslist[0][0]
 
-
     def totalURLs(self):
         sql = "SELECT COUNT(*) FROM CachedURL"
         res = self.execute(sql)
@@ -278,6 +277,18 @@ class WebDB(object):
             return None
         else:
             return reslist[0][0]
+
+    def allURLids(self):
+        results = list()
+        sql = "SELECT id FROM CachedURL"
+        res = self.execute(sql)
+        reslist = res.fetchall()
+        if reslist == []:
+            return None
+        else:
+            for r in reslist:
+                results.append(int(str(r).strip('(),')))
+            return results
 
 
 if __name__=='__main__':
