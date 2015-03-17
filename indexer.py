@@ -57,13 +57,13 @@ class Indexer:
 
     # (ltc) Generate Document Frequency Index (holds idf)
     def generate_idf_index(self):
-        print("Generating DF Index & Storing IDF Values...")
+        # print("Generating DF Index & Storing IDF Values...")
         for term in self.the_index:
             self.idf_index[term] = math.log10(self.total_docs/len(self.the_index[term].keys()))
 
     # (ltc) tf_idf
     def calculate_tf_idf(self):
-        print("Calculating TF-IDF...")
+        # print("Calculating TF-IDF...")
         for term in self.the_index:
             idf = self.idf_index[term]
             for doc_id in self.the_index[term]:
@@ -71,7 +71,7 @@ class Indexer:
 
     # (ltc) Set Weight Magnitudes
     def normalize_weights(self):
-        print("Normalizing Weights...")
+        # print("Normalizing Weights...")
         for term in self.the_index:
             tf_idf_total = 0
             for doc_id in self.the_index[term]:
