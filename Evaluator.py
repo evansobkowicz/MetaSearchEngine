@@ -28,11 +28,13 @@ class Evaluator:
         # TODO: IMPLEMENT RANDOM WEIGHTING?
         for d_weight in weightings:
             for q_weight in weightings:
+                # Initialize the Query for the weightings
                 q = Query(d_weight, q_weight)
                 p10 = []
                 pR = []
                 MAP = []
                 AUC = []
+                # Loop over item types and items
                 for item_type in items.keys():
                     for item in items[item_type]:
                         # Run the query for the item
@@ -59,6 +61,7 @@ class Evaluator:
                         # Area Under Curve
                         AUC.append(self.area_under_curve(data))
 
+                # Display the results
                 weight_type = d_weight + '.' + q_weight
                 self.display_results(weight_type, p10, pR, MAP, AUC)
 
@@ -96,6 +99,7 @@ class Evaluator:
 
     # Calculate Mean Average Precision
     def avg_precision(self, data):
+        # TODO: CHECK THIS MATH!
         relevant_count = 1
         total_count = 1
         last_relevant_total_count = 1
@@ -113,7 +117,6 @@ class Evaluator:
         # TODO: CHECK THIS MATH!
         total = 0.0
         true_count = 0
-        x = 0.0
         y = 0.0
         for i in range(len(data)):
             if data[i]:
