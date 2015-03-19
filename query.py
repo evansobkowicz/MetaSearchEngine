@@ -53,7 +53,7 @@ class Query:
         for doc_id in doc_ids:
             for term in scores:
                 if doc_id not in list(results.keys()):
-                    results[doc_id] = 0
+                    results[doc_id] = 0  # TODO: Add 0.0000000000x to initial score... NOT SURE WHERE
                 if doc_id in list(self.index[term].keys()):
                     weight = self.index[term][doc_id][0]
                 else:

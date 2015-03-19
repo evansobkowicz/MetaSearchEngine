@@ -40,11 +40,9 @@ class Evaluator:
                         # Run the query for the item
                         tokens = self.spider.tokenize(item)
                         query_results = q.score_query(tokens, False)                  # list() of doc ids
-                        # print(item) # FOR DEBUGGING
 
                         # Set up the True/False list for evaluation
                         data = self.get_data(item, query_results)
-                        # print(data) # FOR DEBUGGING
 
                         # Precision @ 10
                         p10.append(self.precision_x(10, data))
@@ -64,6 +62,52 @@ class Evaluator:
                 # Display the results
                 weight_type = d_weight + '.' + q_weight
                 self.display_results(weight_type, p10, pR, MAP, AUC)
+
+        # Run the Random Evaluation
+        self.random_eval()
+
+    # Random Evaluation
+    def random_eval(self):
+        p10 = list()
+        pR = list()
+        MAP = list()
+        AUC = list()
+        items = self.get_all_items()
+        # Initialize the Query for the weightings
+        for item_type in items.keys():
+            for item in items[item_type]:
+
+                # Set up the True/False list for evaluation
+                relevant = len(self.db.lookupUrlsForItem(item, item_type)) # Relevant Document Count
+                data = self.random_list(relevant)
+
+                # Precision @ 10
+                p10.append(self.precision_x(10, data))
+
+                # Precision @ R
+                # TODO: Fix this issue
+                if relevant > 0:
+                    pR.append(self.precision_x(relevant, data))
+
+                # Average Precision
+                MAP.append(self.avg_precision(data))
+
+                # Area Under Curve
+                AUC.append(self.area_under_curve(data))
+
+        # Display the results
+        self.display_results('Random', p10, pR, MAP, AUC)
+
+    # Generate Random List of Data (True count = relevant_count)
+    def random_list(self, relevant_count):
+        results = list()
+        total_docs = self.db.totalURLs()
+        for i in range(relevant_count):
+            results.append(True)
+        for i in range(total_docs - relevant_count):
+            results.append(False)
+        shuffle(results) # Randomize
+        return results
 
     # Display Evaluation Results
     def display_results(self, weight, p10, pR, MAP, AUC):
