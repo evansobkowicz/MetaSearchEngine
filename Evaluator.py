@@ -14,6 +14,12 @@ class Evaluator:
         self.db = WebDB("data/cache.db")
         self.spider = Spider()
 
+
+    '''
+    EVALUATIONS
+    ------------------------------------------------------------------------
+    '''
+
     # Evaluate the ranked search engine!
     def evaluate(self):
         print('Evaluating...\n')
@@ -98,25 +104,22 @@ class Evaluator:
         # Display the results
         self.display_results('Random', p10, pR, MAP, AUC)
 
-    # Generate Random List of Data (True count = relevant_count)
-    def random_list(self, relevant_count):
-        results = list()
-        total_docs = self.db.totalURLs()
-        for i in range(relevant_count):
-            results.append(True)
-        for i in range(total_docs - relevant_count):
-            results.append(False)
-        shuffle(results) # Randomize
-        return results
+
+    '''
+    RESULTS DISPLAY
+    ------------------------------------------------------------------------
+    '''
 
     # Display Evaluation Results
     def display_results(self, weight, p10, pR, MAP, AUC):
         print('Evaluating:', weight)
         print(self.avg(p10), '\t', self.avg(pR), '\t', self.avg(MAP), '\t', self.avg(AUC), '\t', )
 
-    # Return the rounded average of a list of numbers
-    def avg(self, nums):
-        return round(sum(nums)/len(nums), 2)
+
+    '''
+    DATA LIST GENERATION
+    ------------------------------------------------------------------------
+    '''
 
     # Create True/False List from doc_ids
     def get_data(self, original_item, result_ids):
@@ -132,6 +135,23 @@ class Evaluator:
             else:
                 scores.append(False)
         return scores
+
+    # Generate Random List of Data (True count = relevant_count)
+    def random_list(self, relevant_count):
+        results = list()
+        total_docs = self.db.totalURLs()
+        for i in range(relevant_count):
+            results.append(True)
+        for i in range(total_docs - relevant_count):
+            results.append(False)
+        shuffle(results) # Randomize
+        return results
+
+
+    '''
+    CALCULATIONS
+    ------------------------------------------------------------------------
+    '''
 
     # Calculate Precision @ X
     def precision_x(self, x, data):
@@ -172,6 +192,16 @@ class Evaluator:
             else:
                 total += ((1 / false_count) * y)
         return total
+
+    # HELPER FUNCTION: Return the rounded average of a list of numbers
+    def avg(self, nums):
+        return round(sum(nums)/len(nums), 2)
+
+
+    '''
+    ITEM GETTERS
+    ------------------------------------------------------------------------
+    '''
 
     # Return a dict of all items and types from files in '/data/item/'
     def get_all_items(self):
