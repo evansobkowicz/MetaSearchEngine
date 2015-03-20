@@ -70,19 +70,17 @@ class Evaluator:
                 self.display_results(weight_type, p10, pR, MAP, AUC)
 
         # Run the Random Evaluation
-        self.random_eval()
+        self.random_eval(items)
 
     # Random Evaluation
-    def random_eval(self):
+    def random_eval(self, items):
         p10 = list()
         pR = list()
         MAP = list()
         AUC = list()
-        items = self.get_all_items()
         # Initialize the Query for the weightings
         for item_type in items.keys():
             for item in items[item_type]:
-
                 # Set up the True/False list for evaluation
                 relevant = len(self.db.lookupUrlsForItem(item, item_type)) # Relevant Document Count
                 data = self.random_list(relevant)
