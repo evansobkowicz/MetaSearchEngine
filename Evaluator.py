@@ -163,22 +163,20 @@ class Evaluator:
 
     # Calculate Mean Average Precision
     def avg_precision(self, data):
-        # TODO: CHECK THIS MATH!
-        relevant_count = 1
-        total_count = 1
-        last_relevant_total_count = 1
+        relevant_count = 0
+        total_count = 0
         total = 0.0
         for i in range(len(data)):
-            if data[i]:
-                total += relevant_count/total_count
-                relevant_count += 1
-                last_relevant_total_count = total_count
             total_count += 1
-        return total/last_relevant_total_count
+            if data[i]:
+                relevant_count += 1
+                total += relevant_count/total_count
+        if relevant_count == 0:
+            return 0
+        return total/relevant_count
 
     # Calculate Area Under Curve
     def area_under_curve(self, data):
-        # TODO: CHECK THIS MATH!
         total = 0.0
         true_count = 0
         y = 0.0
@@ -238,6 +236,10 @@ def main():
     e = Evaluator()
     e.evaluate()
 
+    # TEST SET
+    # a = [True, False, True, False, True, False, False, False]
+    # b = [False, True, True, True, False, False, False, False]
+    # print(e.precision_x(1, b))
 
 
 main()
