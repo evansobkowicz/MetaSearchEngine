@@ -149,7 +149,7 @@ class WebDB(object):
         matching name and itemType in the Item table.
         If there is no match, returns an empty list.
         """
-        itemId = self.lookupItem(name, itemType)
+        itemId = self.lookupItem(self._quote(name), itemType)
         reslist = []
         results = list()
         if (itemId):

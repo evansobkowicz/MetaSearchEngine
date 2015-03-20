@@ -47,17 +47,18 @@ class Evaluator:
                         tokens = self.spider.tokenize(item)
                         query_results = q.score_query(tokens, False)                  # list() of doc ids
 
-                        # Set up the True/False list for evaluation
+                        # Set up the True/False list & relevant doc count for evaluation
+                        relevant = len(self.db.lookupUrlsForItem(item, item_type))
                         data = self.get_data(item, query_results)
+
+                        if relevant < 1:
+                            print(item)
 
                         # Precision @ 10
                         p10.append(self.precision_x(10, data))
 
                         # Precision @ R
-                        relevant = len(self.db.lookupUrlsForItem(item, item_type)) # Relevant Documents
-                        if relevant > 0:
-                            # TODO: Fix 'pirates' item lookup (shouldn't need if statement)
-                            pR.append(self.precision_x(relevant, data))
+                        pR.append(self.precision_x(relevant, data))
 
                         # Average Precision
                         MAP.append(self.avg_precision(data))
@@ -81,17 +82,15 @@ class Evaluator:
         # Initialize the Query for the weightings
         for item_type in items.keys():
             for item in items[item_type]:
-                # Set up the True/False list for evaluation
-                relevant = len(self.db.lookupUrlsForItem(item, item_type)) # Relevant Document Count
+                # Set up the True/False list & relevant doc count for evaluation
+                relevant = len(self.db.lookupUrlsForItem(item, item_type))
                 data = self.random_list(relevant)
 
                 # Precision @ 10
                 p10.append(self.precision_x(10, data))
 
                 # Precision @ R
-                # TODO: Fix this issue
-                if relevant > 0:
-                    pR.append(self.precision_x(relevant, data))
+                pR.append(self.precision_x(relevant, data))
 
                 # Average Precision
                 MAP.append(self.avg_precision(data))
@@ -128,7 +127,7 @@ class Evaluator:
         shuffle(remaining_ids)
         result_ids.extend(remaining_ids)
         for id in result_ids:
-            if self.db.lookupItem_ByURLID(id)[0] == original_item:
+            if self.db._unquote(self.db.lookupItem_ByURLID(id)[0]) == original_item:
                 scores.append(True)
             else:
                 scores.append(False)
@@ -233,6 +232,13 @@ def main():
     # Run the evaluation
     e = Evaluator()
     e.evaluate()
+
+
+    # ids = [347, 380, 287, 328, 339, 286, 171, 118, 241, 161, 201, 292, 272, 168, 342, 262, 146, 123, 131, 136, 127, 135, 266, 322, 22, 12, 372, 285, 331, 23, 355, 46, 133, 197, 34, 362, 264, 382, 306, 27, 207, 177, 28, 265, 13, 314, 296, 194, 155, 256, 142, 226, 71, 209, 156, 157, 158, 159, 160, 176, 312, 323, 150, 281, 345, 62, 145, 117, 100, 188, 263, 199, 187, 346, 31, 1, 364, 54, 325, 74, 53, 343, 374, 239, 41, 111, 384, 375, 167, 42, 152, 52, 189, 72, 173, 373, 237, 315, 247, 25, 24, 276, 198, 383, 233, 205, 124, 125, 235, 344, 166, 236, 137, 283, 96, 154, 61, 26, 87, 274, 326, 208, 333, 14, 216, 217, 218, 219, 220, 48, 214, 82, 358, 190, 259, 386, 332, 308, 227, 385, 86, 132, 299, 4, 193, 365, 318, 359, 58, 376, 278, 212, 18, 273, 348, 252, 309, 297, 59, 324, 313, 7, 9, 172, 8, 84, 327, 93, 334, 140, 6, 130, 316, 134, 379, 63, 109, 244, 361, 17, 30, 148, 95, 91, 83, 147, 320, 69, 151, 64, 387, 112, 38, 101, 10, 107, 40, 50, 200, 251, 45, 70, 349, 44, 114, 356, 222, 192, 231, 234, 261, 32, 181, 19, 141, 29, 275, 20, 122, 67, 119, 39, 368, 68, 335, 75, 97, 221, 149, 366, 288, 57, 138, 186, 128, 37, 126, 180, 76, 242, 79, 80, 279, 211, 162, 5, 202, 293, 102, 103, 104, 105, 106, 47, 230, 90, 88, 66, 116, 363, 129, 282, 350, 16, 77, 33, 78, 196, 319, 113, 36, 99, 56, 85, 249, 360, 232, 370, 144, 357, 98, 238, 255, 11, 267, 260, 277, 307, 377, 179, 294, 390, 228, 35, 378, 43, 250, 110, 310, 170, 295, 3, 164, 229, 163, 269, 298, 248, 329, 120, 352, 185, 290, 178, 210, 21, 139, 203, 353, 92, 351, 336, 115, 354, 49, 153, 184, 321, 174, 245, 183, 224, 253, 223, 305, 243, 108, 257, 169, 240, 2, 289, 303, 15, 94, 300, 311, 304, 369, 389, 55, 330, 73, 89, 388, 337, 81, 175, 121, 143, 195, 204, 301, 284, 65, 302, 165, 213, 371, 182, 206, 225, 246, 254, 291, 215, 258, 60, 51, 280, 317, 338, 268, 367, 381, 340, 271, 341, 191, 270]
+    #
+    # for id in ids:
+    #     print(e.db._unquote(e.db.lookupItem_ByURLID(id)[0]))
+
 
     # TEST SET
     # a = [True, False, True, False, True, False, False, False]
