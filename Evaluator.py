@@ -31,7 +31,6 @@ class Evaluator:
         q = None
         items = self.get_all_items()
         weightings = ['nnn', 'ltc']
-        # TODO: IMPLEMENT RANDOM WEIGHTING?
         for d_weight in weightings:
             for q_weight in weightings:
                 # Initialize the Query for the weightings
@@ -229,12 +228,6 @@ def main():
     # Run the evaluation
     e = Evaluator()
     e.evaluate()
-
-
-    # TEST SET
-    # a = [True, False, True, False, True, False, False, False]
-    # b = [False, True, True, True, False, False, False, False]
-    # print(e.area_under_curve(a))
-
+    
 
 main()
